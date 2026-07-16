@@ -1,0 +1,240 @@
+{
+  "id": "a2-mod04",
+  "module": 4,
+  "title": "Ditransitive Verbs",
+  "subtitle": "Verbos Ditransitivos y Objetos",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "give", "es": "dar" },
+        { "en": "send", "es": "enviar" },
+        { "en": "buy", "es": "comprar" },
+        { "en": "show", "es": "mostrar" },
+        { "en": "tell", "es": "decir/contar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Can you please pass __________?",
+      "options": ["to me the salt", "the salt to me", "me to the salt"],
+      "correct": 1,
+      "hint": "En la estructura preposicional, la cosa va justo después del verbo y la preposición antes de la persona.",
+      "explanation": "«the salt to me» sigue el patrón preposicional correcto: objeto directo + «to» + objeto indirecto. «to me the salt» coloca la preposición en una posición prohibida antes del receptor, y «me to the salt» carece de orden sintáctico coherente."
+    },
+    {
+      "type": "gap",
+      "text": "He lent his car ___ his brother.",
+      "options": ["to", "for", "from"],
+      "answer": "to",
+      "explanation": "«Lend» implica una transferencia de dirección hacia un receptor, por lo que rige la preposición «to»: «lend something to someone»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dame el dinero",
+      "direction": "es-en",
+      "tiles": ["Give", "me", "the", "money", "to"],
+      "answer": "Give me the money",
+      "explanation": "Estructura de doble objeto: la persona («me») se pega al verbo como un imán y no lleva ninguna preposición. La ficha «to» es el calco típico del español «dame a mí»."
+    },
+    {
+      "type": "quiz",
+      "q": "My parents bought __________ a new computer for my birthday.",
+      "options": ["me", "to me", "for me"],
+      "correct": 0,
+      "hint": "En el patrón Persona + Cosa no se usa ninguna partícula de enlace.",
+      "explanation": "«me» es correcta: la estructura de doble objeto coloca el pronombre de persona justo tras el verbo, sin preposiciones. «to me» y «for me» introducen partículas agramaticales en medio de ese patrón."
+    },
+    {
+      "type": "gap",
+      "text": "I bought some flowers ___ my mother.",
+      "options": ["for", "to", "at"],
+      "answer": "for",
+      "explanation": "«Buy» expresa una acción en beneficio de alguien, por lo que exige «for», no «to». Decir «bought flowers to my mother» es el calco del español «compré flores a mi madre»."
+    },
+    {
+      "type": "speak",
+      "text": "She showed the photo to the family.",
+      "es": "Ella mostró la foto a la familia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "bring", "es": "traer" },
+        { "en": "lend", "es": "prestar" },
+        { "en": "borrow", "es": "tomar prestado" },
+        { "en": "offer", "es": "ofrecer" },
+        { "en": "pass", "es": "pasar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "She sent a beautiful postcard __________ her friend from London.",
+      "options": ["for", "to", "at"],
+      "correct": 1,
+      "hint": "«Send» implica mover algo existente hacia un destinatario.",
+      "explanation": "«to» es correcta: «send» rige la preposición de dirección «to» para conectar con el destinatario. «for» corresponde a verbos de beneficio como «buy» o «make», y «at» expresa ubicación estática."
+    },
+    {
+      "type": "gap",
+      "text": "I borrowed a book ___ my friend.",
+      "options": ["from", "to", "for"],
+      "answer": "from",
+      "explanation": "«Borrow» significa tomar prestado (dirección hacia dentro) y no es ditransitivo: requiere la preposición de origen «from», nunca «to» ni «for»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Le envié una postal a mi amigo",
+      "direction": "es-en",
+      "tiles": ["I", "sent", "my", "friend", "a", "postcard", "to"],
+      "answer": "I sent my friend a postcard",
+      "explanation": "Doble objeto: persona («my friend») inmediatamente después del verbo y cosa («a postcard») detrás, sin preposición. La ficha «to» solo valdría en el patrón «I sent a postcard to my friend»."
+    },
+    {
+      "type": "gap",
+      "text": "She gave her friend ___ book.",
+      "options": ["a", "to a", "for a"],
+      "answer": "a",
+      "explanation": "En la estructura de doble objeto no se coloca ninguna preposición: «gave her friend a book». La posición junto al verbo es lo que marca al objeto indirecto."
+    },
+    {
+      "type": "quiz",
+      "q": "I needed a pen, so I __________ one __________ my classmate.",
+      "options": ["borrowed / from", "lent / to", "borrowed / to"],
+      "correct": 0,
+      "hint": "¿Quién recibe el bolígrafo? Fíjate en la dirección de la transferencia.",
+      "explanation": "«borrowed / from» es correcta: el sujeto recibe el bolígrafo, así que usa «borrow» con la preposición de origen «from». «lent / to» significaría que él lo prestó (contradice «I needed»), y «borrow» nunca se combina con «to»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Compré un regalo para mi familia",
+      "direction": "es-en",
+      "tiles": ["I", "bought", "a", "gift", "for", "my", "family", "to"],
+      "answer": "I bought a gift for my family",
+      "explanation": "Con «buy», la preposición del patrón preposicional es «for» (beneficio), nunca «to». La ficha «to» es el error clásico del hispanohablante."
+    },
+    {
+      "type": "speak",
+      "text": "I bought some flowers for my mother.",
+      "es": "Compré unas flores para mi madre."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "gift", "es": "regalo" },
+        { "en": "letter", "es": "carta" },
+        { "en": "postcard", "es": "postal" },
+        { "en": "money", "es": "dinero" },
+        { "en": "package", "es": "paquete" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "\"Where is the package?\" - \"I delivered __________.\"",
+      "options": ["it to your family", "your family it", "to your family it"],
+      "correct": 0,
+      "hint": "Cuando el objeto directo es un pronombre como «it», solo hay un patrón permitido.",
+      "explanation": "«it to your family» es correcta: al ser el objeto directo un pronombre («it»), es obligatoria la estructura preposicional con «to». «your family it» usa un doble objeto bloqueado con pronombres, y la tercera opción es agramatical."
+    },
+    {
+      "type": "gap",
+      "text": "I sent ___ a postcard.",
+      "options": ["my friend", "to my friend", "for my friend"],
+      "answer": "my friend",
+      "explanation": "En el doble objeto, el receptor va pegado al verbo sin preposición: «sent my friend a postcard». Insertar «to» ahí es el error de calco del español «le envié a mi amigo»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella le mostró la foto a la familia",
+      "direction": "es-en",
+      "tiles": ["She", "showed", "the", "family", "the", "photo", "to"],
+      "answer": "She showed the family the photo",
+      "explanation": "Doble objeto con «show»: persona («the family») antes que la cosa («the photo»), sin preposición. Con el otro patrón sería «showed the photo to the family»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la frase correcta con el verbo «buy»?",
+      "options": ["He bought a nice dress to his girlfriend.", "He bought to his girlfriend a nice dress.", "He bought a nice dress for his girlfriend."],
+      "correct": 2,
+      "hint": "Recuerda la Regla del Regalo: si compras o creas algo para alguien, la preposición es de beneficio.",
+      "explanation": "«buy» exige la preposición de beneficio «for», no la de dirección «to». La primera opción calca el español «compré un regalo a», y la segunda inserta la preposición en una posición prohibida entre verbo y objeto."
+    },
+    {
+      "type": "gap",
+      "text": "He ___ me his book for the weekend.",
+      "options": ["lent", "borrowed", "received"],
+      "answer": "lent",
+      "explanation": "«Lend» es dar algo prestado (dirección hacia fuera) y admite el doble objeto: «He lent me his book». «Borrow» sería tomar prestado y nunca funciona como ditransitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Envíamelo a mí",
+      "direction": "es-en",
+      "tiles": ["Send", "it", "to", "me", "for"],
+      "answer": "Send it to me",
+      "explanation": "Con el pronombre «it» como objeto directo se bloquea el doble objeto y es obligatorio el patrón preposicional: «Send it to me», nunca «Send me it»."
+    },
+    {
+      "type": "speak",
+      "text": "He handed his friend the money.",
+      "es": "Él le entregó el dinero a su amigo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "deliver", "es": "entregar" },
+        { "en": "receive", "es": "recibir" },
+        { "en": "flower", "es": "flor" },
+        { "en": "email", "es": "correo electrónico" },
+        { "en": "friend", "es": "amigo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "She cooked dinner ___ her family.",
+      "options": ["for", "to", "from"],
+      "answer": "for",
+      "explanation": "«Cook» pertenece al grupo de verbos de beneficio (crear u obtener algo para otra persona), así que rige «for»: «cook for», como «buy for» y «make for»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la frase correcta en la estructura de doble objeto?",
+      "options": ["She gave to him the letter.", "She gave him to the letter.", "She gave him the letter."],
+      "correct": 2,
+      "hint": "En el patrón Persona + Cosa está prohibida cualquier preposición entre el verbo y el receptor.",
+      "explanation": "«She gave him the letter» es el doble objeto correcto: receptor pegado al verbo sin preposición. Las otras dos insertan «to» en posiciones agramaticales; la alternativa válida sería «She gave the letter to him»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él le prestó el coche a su hermano",
+      "direction": "es-en",
+      "tiles": ["He", "lent", "his", "car", "to", "his", "brother", "from"],
+      "answer": "He lent his car to his brother",
+      "explanation": "Patrón preposicional de «lend»: cosa («his car») + «to» + receptor («his brother»). La ficha «from» corresponde a «borrow», la dirección contraria."
+    },
+    {
+      "type": "gap",
+      "text": "Please give it ___ me.",
+      "options": ["to", "for", "from"],
+      "answer": "to",
+      "explanation": "Al ser «it» un pronombre de objeto directo, la estructura preposicional con «to» es obligatoria: «Give it to me». «Give me it» se evita en el nivel A2 por poco natural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Pásame la sal, por favor",
+      "direction": "es-en",
+      "tiles": ["Pass", "me", "the", "salt", "please", "to"],
+      "answer": "Pass me the salt, please",
+      "explanation": "Doble objeto con «pass»: la persona («me») va justo después del verbo, sin preposición. «Pass to me the salt» sería el error típico de interferencia del español."
+    },
+    {
+      "type": "speak",
+      "text": "I borrowed a book from my friend.",
+      "es": "Tomé prestado un libro de mi amigo."
+    }
+  ]
+}

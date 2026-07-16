@@ -1,0 +1,240 @@
+{
+  "id": "a2-mod03",
+  "module": 3,
+  "title": "Present Simple vs. Present Continuous",
+  "subtitle": "Presente Simple vs. Continuo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "know", "es": "saber/conocer" },
+        { "en": "want", "es": "querer" },
+        { "en": "need", "es": "necesitar" },
+        { "en": "love", "es": "amar" },
+        { "en": "hate", "es": "odiar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "\"What __________ at the moment?\" - \"I am listening to music.\"",
+      "options": ["do you do", "are you doing", "are you do"],
+      "correct": 1,
+      "hint": "El marcador «at the moment» señala una acción en curso, no una rutina ni una profesión.",
+      "explanation": "«are you doing» aplica la inversión y el aspecto continuo que exige «at the moment». «do you do» pregunta por rutinas o por la profesión («¿a qué te dedicas?»), y «are you do» carece del gerundio «doing»."
+    },
+    {
+      "type": "gap",
+      "text": "I ___ the answer.",
+      "options": ["know", "am knowing", "knows"],
+      "answer": "know",
+      "explanation": "«Know» es un verbo de estado cognitivo: describe posesión de conocimiento y no admite el aspecto progresivo. «Knows» añadiría una «-s» incorrecta para el sujeto «I»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo sé la respuesta",
+      "direction": "es-en",
+      "tiles": ["I", "know", "the", "answer", "am", "knowing"],
+      "answer": "I know the answer",
+      "explanation": "Los verbos de estado como «know» van siempre en presente simple, aunque el conocimiento sea «ahora». «I am knowing» es agramatical en inglés."
+    },
+    {
+      "type": "quiz",
+      "q": "I __________ that this picture is very beautiful.",
+      "options": ["believe", "am believing", "believes"],
+      "correct": 0,
+      "hint": "«Believe» describe una creencia mental, no una acción que se pueda grabar con una cámara.",
+      "explanation": "«believe» es correcta: es un verbo de estado cognitivo y va en presente simple. «am believing» aplica un progresivo prohibido para estos verbos, y «believes» añade una «-s» que no corresponde al sujeto «I»."
+    },
+    {
+      "type": "gap",
+      "text": "Water ___ at 100 degrees Celsius.",
+      "options": ["boils", "is boiling", "boil"],
+      "answer": "boils",
+      "explanation": "Los hechos científicos y leyes de la naturaleza son verdades permanentes y van en presente simple. «Water» funciona como tercera persona del singular, de ahí la «-s»."
+    },
+    {
+      "type": "speak",
+      "text": "What are you doing?",
+      "es": "¿Qué estás haciendo?"
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "understand", "es": "entender" },
+        { "en": "believe", "es": "creer" },
+        { "en": "remember", "es": "recordar" },
+        { "en": "forget", "es": "olvidar" },
+        { "en": "prefer", "es": "preferir" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "She usually __________ to work by car, but today she __________ the train.",
+      "options": ["goes / is taking", "is going / takes", "go / is taking"],
+      "correct": 0,
+      "hint": "«Usually» pide rutina estable; «today» pide una situación temporal.",
+      "explanation": "«goes / is taking» es correcta: «usually» exige presente simple (rutina) y «today» exige presente continuo (situación temporal). La segunda opción invierte los tiempos y la tercera pierde la «-s» de tercera persona en «goes»."
+    },
+    {
+      "type": "gap",
+      "text": "He ___ to leave the room now.",
+      "options": ["wants", "is wanting", "want"],
+      "answer": "wants",
+      "explanation": "«Want» expresa un deseo mental (estático) y no admite el presente continuo, aunque aparezca «now». Con «he» necesita la «-s» de tercera persona: «wants»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella normalmente trabaja aquí",
+      "direction": "es-en",
+      "tiles": ["She", "usually", "works", "here", "is", "working"],
+      "answer": "She usually works here",
+      "explanation": "El adverbio de frecuencia «usually» marca una rutina y exige presente simple. Se coloca antes del verbo principal: «She usually works»."
+    },
+    {
+      "type": "gap",
+      "text": "I am ___ French this month.",
+      "options": ["studying", "study", "studies"],
+      "answer": "studying",
+      "explanation": "«This month» marca una situación temporal y no permanente, por lo que se usa presente continuo: auxiliar «am» + gerundio «studying»."
+    },
+    {
+      "type": "quiz",
+      "q": "\"Excuse me, I __________ what this word means.\"",
+      "options": ["not understand", "am not understanding", "don't understand"],
+      "correct": 2,
+      "hint": "«Understand» es un verbo de estado: piensa en cómo se niega el presente simple.",
+      "explanation": "«don't understand» usa la negación del presente simple, la adecuada para el verbo estático «understand». «am not understanding» aplica un progresivo prohibido y «not understand» omite el auxiliar «don't», resultando agramatical."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prefiero el té",
+      "direction": "es-en",
+      "tiles": ["I", "prefer", "tea", "am", "preferring"],
+      "answer": "I prefer tea",
+      "explanation": "«Prefer» es un verbo de estado emocional: siempre en presente simple. «I am preferring» es un calco del español coloquial que el inglés estándar rechaza."
+    },
+    {
+      "type": "speak",
+      "text": "I am studying French this month.",
+      "es": "Estoy estudiando francés este mes."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "mean", "es": "significar" },
+        { "en": "feel", "es": "sentir" },
+        { "en": "see", "es": "ver" },
+        { "en": "hear", "es": "oír" },
+        { "en": "smell", "es": "oler" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Look at the chef! He __________ the soup to check the salt.",
+      "options": ["tastes", "is tasting", "taste"],
+      "correct": 1,
+      "hint": "Aquí el verbo describe una acción física voluntaria que ocurre ante tus ojos.",
+      "explanation": "«is tasting» es correcta: aunque «taste» suele ser estático, aquí describe la acción física y voluntaria de probar la sopa en progreso (señalada por «Look!»). «tastes» y «taste» ignoran esa escena en curso."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ in London.",
+      "options": ["lives", "is living", "live"],
+      "answer": "lives",
+      "explanation": "Es un estado permanente que no prevemos que cambie a corto plazo, por lo que va en presente simple con la «-s» de tercera persona: «lives»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hoy ella está estudiando en casa",
+      "direction": "es-en",
+      "tiles": ["Today", "she", "is", "studying", "at", "home", "studies"],
+      "answer": "Today she is studying at home",
+      "explanation": "«Today» marca provisionalidad y exige presente continuo: «is studying». La ficha «studies» sería la rutina del presente simple, incoherente con «today»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estas frases con «have» es correcta?",
+      "options": ["I am having a car.", "I am having lunch now.", "I am having the answer."],
+      "correct": 1,
+      "hint": "«Have» de posesión es estático, pero en expresiones fijas de acción se vuelve dinámico.",
+      "explanation": "«I am having lunch now» es correcta: en expresiones fijas de acción como «have lunch», «have» es dinámico y admite el continuo. Cuando denota posesión («have a car», «have the answer») es estático y rechaza el progresivo."
+    },
+    {
+      "type": "gap",
+      "text": "The climate is ___.",
+      "options": ["changing", "change", "changes"],
+      "answer": "changing",
+      "explanation": "Las tendencias y cambios graduales en evolución se expresan en presente continuo: «is changing». Es uno de los usos centrales de este tiempo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos necesitan ayuda",
+      "direction": "es-en",
+      "tiles": ["They", "need", "help", "are", "needing"],
+      "answer": "They need help",
+      "explanation": "«Need» es un verbo de estado: «They are needing» es agramatical en inglés estándar, aunque el español coloquial diga «están necesitando»."
+    },
+    {
+      "type": "speak",
+      "text": "The food tastes good.",
+      "es": "La comida sabe bien."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "always", "es": "siempre" },
+        { "en": "usually", "es": "normalmente" },
+        { "en": "habit", "es": "hábito" },
+        { "en": "temporary", "es": "temporal" },
+        { "en": "permanent", "es": "permanente" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "They ___ help right now.",
+      "options": ["need", "are needing", "needs"],
+      "answer": "need",
+      "explanation": "Aunque aparece «right now», «need» es un verbo de estado y solo admite presente simple. «Needs» no concuerda con el sujeto plural «they»."
+    },
+    {
+      "type": "quiz",
+      "q": "I ___ you are right.",
+      "options": ["am thinking", "thinks", "think"],
+      "correct": 2,
+      "hint": "Aquí «think» expresa una opinión, no el proceso activo de darle vueltas a algo.",
+      "explanation": "«think» es correcta: cuando expresa opinión («creo que»), «think» es estático y va en presente simple. «am thinking» solo valdría para el proceso mental activo («I am thinking about my future»), y «thinks» no concuerda con «I»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él odia el pescado",
+      "direction": "es-en",
+      "tiles": ["He", "hates", "fish", "hate", "is"],
+      "answer": "He hates fish",
+      "explanation": "«Hate» es un verbo de estado emocional: presente simple con la «-s» de tercera persona («hates»). El progresivo está prohibido para estos verbos."
+    },
+    {
+      "type": "gap",
+      "text": "What ___ you doing?",
+      "options": ["are", "do", "is"],
+      "answer": "are",
+      "explanation": "Para preguntar por la actividad del instante actual el inglés exige presente continuo: «What are you doing?». «What do you do?» preguntaría por la profesión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Estoy leyendo un libro ahora",
+      "direction": "es-en",
+      "tiles": ["I", "am", "reading", "a", "book", "now", "read"],
+      "answer": "I am reading a book now",
+      "explanation": "«Read» es un verbo dinámico (luz verde del semáforo): admite el progresivo para la acción en curso marcada por «now»: «am reading»."
+    },
+    {
+      "type": "speak",
+      "text": "I am thinking about my future.",
+      "es": "Estoy pensando en mi futuro."
+    }
+  ]
+}

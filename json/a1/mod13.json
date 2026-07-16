@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod13",
+  "module": 13,
+  "title": "Can and Can't: Ability and Permission",
+  "subtitle": "Poder: Habilidad y Permiso",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "swim", "es": "nadar" },
+        { "en": "run", "es": "correr" },
+        { "en": "jump", "es": "saltar" },
+        { "en": "fly", "es": "volar" },
+        { "en": "drive", "es": "conducir" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence.",
+      "options": ["She cans speak three languages.", "She can speaks three languages.", "She can speak three languages."],
+      "correct": 2,
+      "hint": "Los modales son invariables y van seguidos de un verbo «desnudo».",
+      "explanation": "«Can» es invariable: nunca lleva -s de tercera persona («cans» es agramatical). Además, el verbo que sigue al modal va en bare infinitive, así que «can speaks» también es incorrecto. Solo «She can speak» cumple ambas reglas."
+    },
+    {
+      "type": "gap",
+      "text": "He ___ swim.",
+      "options": ["can", "cans", "can to"],
+      "answer": "can",
+      "explanation": "Los modales son morfológicamente invariables: nunca añaden -s en tercera persona ni admiten «to» detrás. «He can swim» es la única forma posible."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo sé nadar",
+      "direction": "es-en",
+      "tiles": ["I", "can", "swim", "to", "cans"],
+      "answer": "I can swim",
+      "explanation": "El español distingue «saber» y «poder», pero el inglés usa «can» para ambos. Tras el modal va el bare infinitive, sin «to»."
+    },
+    {
+      "type": "speak",
+      "text": "She can speak English.",
+      "es": "Ella sabe hablar inglés."
+    },
+    {
+      "type": "gap",
+      "text": "She can ___ English.",
+      "options": ["speak", "speaks", "to speak"],
+      "answer": "speak",
+      "explanation": "El verbo principal tras un modal va siempre en bare infinitive: sin -s de tercera persona y sin «to»."
+    },
+    {
+      "type": "quiz",
+      "q": "How do you ask \"¿Puedes ayudarme?\" in English?",
+      "options": ["Do you can help me?", "Can you help me?", "Can you to help me?"],
+      "correct": 1,
+      "hint": "Los modales forman preguntas por inversión, sin «do» y sin «to».",
+      "explanation": "Los modales son sus propios auxiliares: la pregunta se forma invirtiendo modal y sujeto («Can you help me?»). «Do you can» introduce un doble auxiliar imposible, y «to help» viola la regla del bare infinitive tras modal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "cook", "es": "cocinar" },
+        { "en": "sing", "es": "cantar" },
+        { "en": "dance", "es": "bailar" },
+        { "en": "ride", "es": "montar" },
+        { "en": "speak", "es": "hablar" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella no sabe conducir",
+      "direction": "es-en",
+      "tiles": ["She", "can't", "drive", "can", "doesn't"],
+      "answer": "She can't drive",
+      "explanation": "La habilidad negativa se expresa con «can't» + bare infinitive. «Doesn't» pertenece al Present Simple ordinario y no se combina con «can»."
+    },
+    {
+      "type": "gap",
+      "text": "___ you dance?",
+      "options": ["Can", "Do", "Does"],
+      "answer": "Can",
+      "explanation": "Para preguntar por una habilidad, el modal «can» sube al inicio de la oración. «Do you can dance?» es la transferencia incorrecta del patrón de los verbos ordinarios."
+    },
+    {
+      "type": "quiz",
+      "q": "Listen to the audio. The speaker says: \"I /kən/ understand you.\" What does this mean?",
+      "options": ["I can't understand you. (I don't understand you.)", "I can understand you. (I understand you.)", "It is impossible to know without more context."],
+      "correct": 1,
+      "hint": "Vocal corta y reducida = afirmativo; vocal larga y clara = negativo.",
+      "explanation": "La transcripción /kən/ es la pronunciación átona y reducida de «can», característica de la forma afirmativa. La negativa «can't» se pronuncia siempre /kɑːnt/, con vocal larga, tónica y con -t final: nunca se reduce."
+    },
+    {
+      "type": "speak",
+      "text": "I can't swim.",
+      "es": "No sé nadar."
+    },
+    {
+      "type": "gap",
+      "text": "Can you swim? — No, I ___.",
+      "options": ["can't", "can", "don't"],
+      "answer": "can't",
+      "explanation": "La respuesta corta negativa reutiliza el modal contraído: «No, I can't». Responder «No, I can» es contradictorio y «don't» pertenece a otro sistema verbal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Puedo abrir la ventana?",
+      "direction": "es-en",
+      "tiles": ["Can", "I", "open", "the", "window", "Do", "to"],
+      "answer": "Can I open the window",
+      "explanation": "«Can I + bare infinitive» es la forma natural de pedir permiso en A1. Ni «do» ni «to» aparecen jamás junto al modal «can»."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence correctly asks for permission?",
+      "options": ["Can I open the window?", "I can open the window?", "Can I to open the window?"],
+      "correct": 0,
+      "hint": "El modal debe subir al inicio y el verbo va sin «to».",
+      "explanation": "La forma canónica es «Can I open the window?»: inversión del modal + bare infinitive. Sin inversión («I can open...») es una afirmativa, y «can I to open» incluye el «to» prohibido tras cualquier modal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "read", "es": "leer" },
+        { "en": "write", "es": "escribir" },
+        { "en": "draw", "es": "dibujar" },
+        { "en": "paint", "es": "pintar" },
+        { "en": "climb", "es": "escalar" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "He ___ lift that box.",
+      "options": ["cannot", "can not", "don't can"],
+      "answer": "cannot",
+      "explanation": "La negación formal de «can» es «cannot», escrito en una sola palabra. «Can not» separado no es la negación estándar y «don't can» es imposible."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos saben bailar salsa",
+      "direction": "es-en",
+      "tiles": ["They", "can", "dance", "salsa", "cans", "to"],
+      "answer": "They can dance salsa",
+      "explanation": "«Can» es idéntico para todas las personas: «They can dance». El verbo tras el modal va desnudo, sin «to» ni desinencias."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the dialogue: \"Can dogs smell very well?\" — \"Yes, _____.\"",
+      "options": ["Yes, they smell.", "Yes, they can smell.", "Yes, they can."],
+      "correct": 2,
+      "hint": "La respuesta corta usa solo el modal, sin repetir el verbo principal.",
+      "explanation": "Las respuestas cortas a preguntas modales siguen la fórmula «Yes/No + sujeto + modal»: «Yes, they can». Repetir el verbo («they can smell») es redundante en este formato, y omitir el modal («they smell») desconecta la respuesta de la pregunta."
+    },
+    {
+      "type": "speak",
+      "text": "Can I help you?",
+      "es": "¿Puedo ayudarte?"
+    },
+    {
+      "type": "gap",
+      "text": "Can I ___ your pen?",
+      "options": ["use", "to use", "uses"],
+      "answer": "use",
+      "explanation": "Tras «can» el verbo va en bare infinitive: «Can I use your pen?». El «to» solo aparece con estructuras como «I want to go», nunca tras un modal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él no puede levantar esa caja",
+      "direction": "es-en",
+      "tiles": ["He", "cannot", "lift", "that", "box", "can't", "this"],
+      "answer": "He cannot lift that box",
+      "explanation": "«Cannot» (una sola palabra) es la forma formal y enfática de negar «can». «That box» señala la caja alejada del hablante."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is the correct standard negation?",
+      "options": ["He can't swim.", "He can not swim.", "He don't can swim."],
+      "correct": 0,
+      "hint": "La negación estándar de «can» es una contracción en una sola palabra.",
+      "explanation": "La negación estándar es «can't» (informal) o «cannot» (formal), siempre en una sola palabra. «Can not» separado se reserva para contrastes enfáticos especiales, y «don't can» mezcla dos auxiliares, algo imposible."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "open", "es": "abrir" },
+        { "en": "close", "es": "cerrar" },
+        { "en": "help", "es": "ayudar" },
+        { "en": "understand", "es": "entender" },
+        { "en": "hear", "es": "oír" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Birds ___ smell.",
+      "options": ["can't", "don't can", "aren't"],
+      "answer": "can't",
+      "explanation": "La incapacidad biológica se expresa con «can't» + bare infinitive: «Birds can't smell» (los pájaros no pueden oler). «Don't can» es un doble auxiliar imposible."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Sabes cocinar?",
+      "direction": "es-en",
+      "tiles": ["Can", "you", "cook", "Do", "cooks"],
+      "answer": "Can you cook",
+      "explanation": "La pregunta de habilidad se forma con inversión modal: «Can you cook?». El español usa «saber», pero el inglés cubre esa función con «can»."
+    },
+    {
+      "type": "speak",
+      "text": "We can play the guitar.",
+      "es": "Nosotros sabemos tocar la guitarra."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is INCORRECT?",
+      "options": ["They can dance salsa.", "He can drive a car.", "She cans cook very well."],
+      "correct": 2,
+      "hint": "Recuerda el «robot invariable»: el modal nunca se conjuga.",
+      "explanation": "«She cans cook» viola la invariabilidad de los modales: «can» nunca lleva la -s de tercera persona. Las otras dos oraciones respetan la fórmula sujeto + «can» + bare infinitive."
+    },
+    {
+      "type": "gap",
+      "text": "What can you ___?",
+      "options": ["do", "to do", "does"],
+      "answer": "do",
+      "explanation": "En las wh-questions con modal, la fórmula es «Wh- + can + sujeto + bare infinitive»: «What can you do?». Sin «to» y sin -s."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros podemos ayudar",
+      "direction": "es-en",
+      "tiles": ["We", "can", "help", "to", "helps"],
+      "answer": "We can help",
+      "explanation": "«Can» no cambia con «we» y el verbo «help» va en bare infinitive: sin «to» y sin desinencias."
+    }
+  ]
+}

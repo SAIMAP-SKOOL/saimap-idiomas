@@ -1,0 +1,248 @@
+{
+  "id": "a2-mod05",
+  "module": 5,
+  "title": "Adverbs of Manner",
+  "subtitle": "Adverbios de Modo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "quickly", "es": "rápidamente" },
+        { "en": "slowly", "es": "lentamente" },
+        { "en": "loudly", "es": "ruidosamente" },
+        { "en": "quietly", "es": "silenciosamente" },
+        { "en": "easily", "es": "fácilmente" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "The teacher asked the students to write their names __________ on the exam paper.",
+      "options": ["carefully", "careful", "carefuly"],
+      "correct": 0,
+      "hint": "Necesitas un adverbio que describa la acción de escribir, y ojo con la ortografía de la doble «l».",
+      "explanation": "«Carefully» añade «-ly» a «careful» duplicando la «l». «Careful» es adjetivo y no puede calificar al verbo; «carefuly» tiene un error ortográfico al omitir la doble «l»."
+    },
+    {
+      "type": "gap",
+      "text": "He drives very ___.",
+      "options": ["fast", "fastly", "quick"],
+      "answer": "fast",
+      "explanation": "«Fast» es un adverbio plano: adjetivo y adverbio comparten la misma forma. La palabra «fastly» no existe en inglés, y «quick» es solo adjetivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella camina lentamente",
+      "direction": "es-en",
+      "tiles": ["She", "walks", "slowly", "slow", "walk"],
+      "answer": "She walks slowly",
+      "explanation": "Con verbo intransitivo (sin objeto), el adverbio de modo «slowly» va justo detrás del verbo. «Slow» es el adjetivo, no el adverbio."
+    },
+    {
+      "type": "speak",
+      "text": "He drives carefully.",
+      "es": "Él conduce cuidadosamente."
+    },
+    {
+      "type": "quiz",
+      "q": "He was late for school, so he walked very __________ down the street.",
+      "options": ["quick", "fastly", "quickly"],
+      "correct": 2,
+      "hint": "Describir cómo caminó exige un adverbio real: una de las opciones ni siquiera existe en inglés.",
+      "explanation": "«Quickly» es el adverbio regular que describe la manera de caminar. «Quick» es adjetivo, y «fastly» no existe: el adverbio de «fast» es la misma forma plana «fast»."
+    },
+    {
+      "type": "gap",
+      "text": "She works ___.",
+      "options": ["hard", "hardly", "hardy"],
+      "answer": "hard",
+      "explanation": "«Hard» es adverbio plano: «work hard» = trabajar duro. «Hardly» es un falso amigo que significa «casi no» («I hardly know him» = apenas le conozco)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "happily", "es": "alegremente" },
+        { "en": "sadly", "es": "tristemente" },
+        { "en": "carefully", "es": "cuidadosamente" },
+        { "en": "angrily", "es": "enfadadamente" },
+        { "en": "politely", "es": "educadamente" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él conduce muy rápido",
+      "direction": "es-en",
+      "tiles": ["He", "drives", "very", "fast", "fastly", "quick"],
+      "answer": "He drives very fast",
+      "explanation": "El hispanohablante tiende a inventar «fastly», pero «fast» es un adverbio plano: conserva la misma forma que el adjetivo."
+    },
+    {
+      "type": "gap",
+      "text": "He speaks English ___.",
+      "options": ["well", "good", "goodly"],
+      "answer": "well",
+      "explanation": "El adjetivo «good» cambia de raíz al convertirse en adverbio: «well». «He is a good speaker» (adjetivo) pero «He speaks well» (adverbio)."
+    },
+    {
+      "type": "quiz",
+      "q": "She is a great singer. She sings all her songs __________.",
+      "options": ["beautiful", "beautifully", "beautifuly"],
+      "correct": 1,
+      "hint": "Los adjetivos en «-ful» duplican la «l» al formar el adverbio.",
+      "explanation": "«Beautifully» es la derivación correcta con doble «l». «Beautiful» es adjetivo y no puede calificar la acción de cantar; «beautifuly» omite la duplicación de la «l»."
+    },
+    {
+      "type": "speak",
+      "text": "He runs fast.",
+      "es": "Él corre rápido."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella toca el piano hermosamente",
+      "direction": "es-en",
+      "tiles": ["She", "plays", "the", "piano", "beautifully", "beautiful"],
+      "answer": "She plays the piano beautifully",
+      "explanation": "El adverbio va detrás del objeto directo («the piano»), nunca entre el verbo y el objeto: prohibido «plays beautifully the piano»."
+    },
+    {
+      "type": "gap",
+      "text": "The children smiled ___ at the camera.",
+      "options": ["happily", "happyly", "happy"],
+      "answer": "happily",
+      "explanation": "Los adjetivos acabados en consonante + «-y» cambian la «y» por «i» antes de «-ly»: «happy» → «happily», nunca «happyli» ni «happyly»."
+    },
+    {
+      "type": "quiz",
+      "q": "The students answered the difficult questions __________.",
+      "options": ["easily", "easy", "easyli"],
+      "correct": 0,
+      "hint": "El adjetivo termina en «-y»: recuerda qué le pasa a esa letra al formar el adverbio.",
+      "explanation": "«Easy» cambia la «-y» por «-i-» antes de añadir «-ly»: «easily». «Easy» es el adjetivo (no describe la acción) y «easyli» está mal escrito."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "rudely", "es": "groseramente" },
+        { "en": "badly", "es": "mal" },
+        { "en": "well", "es": "bien" },
+        { "en": "fast", "es": "rápido" },
+        { "en": "hard", "es": "duro" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "The door opens ___.",
+      "options": ["automatically", "automaticly", "automatical"],
+      "answer": "automatically",
+      "explanation": "Los adjetivos terminados en «-ic» forman el adverbio con el sufijo compuesto «-ally»: «automatic» → «automatically» (excepción: «public» → «publicly»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él habla inglés bien",
+      "direction": "es-en",
+      "tiles": ["He", "speaks", "English", "well", "good"],
+      "answer": "He speaks English well",
+      "explanation": "«Well» es el adverbio irregular de «good» y se coloca detrás del objeto directo («English»), sin romper el bloque verbo + objeto."
+    },
+    {
+      "type": "speak",
+      "text": "They answered the questions politely.",
+      "es": "Ellos respondieron las preguntas educadamente."
+    },
+    {
+      "type": "quiz",
+      "q": "She plays __________ because she practices every single day.",
+      "options": ["well the violin", "the violin good", "the violin well"],
+      "correct": 2,
+      "hint": "Dos reglas a la vez: la forma adverbial de «good» y la posición respecto al objeto directo.",
+      "explanation": "El objeto directo («the violin») va antes del adverbio irregular «well». «Well the violin» rompe el bloque verbo + objeto, y «good» es adjetivo, no adverbio."
+    },
+    {
+      "type": "gap",
+      "text": "He arrived ___ for school.",
+      "options": ["late", "lately", "lateness"],
+      "answer": "late",
+      "explanation": "«Late» es adverbio plano: «arrive late» = llegar tarde. «Lately» es un falso amigo que significa «últimamente», no «tardíamente»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "late", "es": "tarde" },
+        { "en": "early", "es": "temprano" },
+        { "en": "soft", "es": "suave" },
+        { "en": "clear", "es": "claro" },
+        { "en": "dangerous", "es": "peligroso" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella trabaja duro",
+      "direction": "es-en",
+      "tiles": ["She", "works", "hard", "hardly", "work"],
+      "answer": "She works hard",
+      "explanation": "«Hard» conserva su forma plana como adverbio. Cuidado con «hardly»: significa «casi no», así que «She hardly works» diría que apenas trabaja."
+    },
+    {
+      "type": "quiz",
+      "q": "What does the sentence «I hardly know him» mean?",
+      "options": [
+        "Le conozco duramente",
+        "Apenas le conozco",
+        "Le conozco muy bien"
+      ],
+      "correct": 1,
+      "hint": "«Hardly» es un falso amigo: no tiene que ver con «duro».",
+      "explanation": "«Hardly» es un adverbio de grado que significa «casi no / apenas». No significa «duramente»: el adverbio de modo de «hard» es la propia forma plana «hard»."
+    },
+    {
+      "type": "gap",
+      "text": "We woke up ___ this morning.",
+      "options": ["early", "earlily", "soon"],
+      "answer": "early",
+      "explanation": "«Early» funciona igual como adjetivo y como adverbio («an early flight» / «wake up early»); la forma «earlily» no existe."
+    },
+    {
+      "type": "speak",
+      "text": "He read the letter quietly.",
+      "es": "Él leyó la carta en silencio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos hablan ruidosamente",
+      "direction": "es-en",
+      "tiles": ["They", "speak", "loudly", "loud", "speaks"],
+      "answer": "They speak loudly",
+      "explanation": "«Loudly» es el adverbio regular derivado de «loud» con «-ly»; con sujeto «they» el verbo va sin «-s»."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence:",
+      "options": [
+        "She drives her new car carefully.",
+        "She drives carefully her new car.",
+        "She drives her new car careful."
+      ],
+      "correct": 0,
+      "hint": "Recuerda la «barrera de cristal» entre el verbo y su objeto directo.",
+      "explanation": "El adverbio de modo va detrás del objeto directo («her new car»); es agramatical insertarlo entre verbo y objeto, y «careful» es el adjetivo, no el adverbio."
+    },
+    {
+      "type": "gap",
+      "text": "He explained the rule ___ so everyone understood.",
+      "options": ["simply", "simplely", "simple"],
+      "answer": "simply",
+      "explanation": "Los adjetivos en «-le» precedidos de consonante pierden la «-e» y añaden «-y»: «simple» → «simply», nunca «simplely»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él llegó tarde",
+      "direction": "es-en",
+      "tiles": ["He", "arrived", "late", "lately", "arrive"],
+      "answer": "He arrived late",
+      "explanation": "«Late» es adverbio plano: «He arrived late». «Lately» significa «últimamente» y cambiaría por completo el sentido."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "a2-mod22",
+  "module": 22,
+  "title": "Future with Be Going To",
+  "subtitle": "Futuro con Going To",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "plan", "es": "plan" },
+        { "en": "intention", "es": "intención" },
+        { "en": "decision", "es": "decisión" },
+        { "en": "evidence", "es": "evidencia" },
+        { "en": "sky", "es": "cielo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Look at those dark clouds in the sky! It _______ rain.",
+      "options": ["will", "is going to", "rains"],
+      "correct": 1,
+      "hint": "Hay una evidencia visual delante de tus ojos: las nubes oscuras.",
+      "explanation": "Las nubes oscuras son una evidencia material observable, y las predicciones con evidencia exigen «be going to». «Will» se reserva para predicciones subjetivas y «rains» describiría un hábito."
+    },
+    {
+      "type": "gap",
+      "text": "We ___ going to meet tomorrow.",
+      "options": ["are", "is", "will"],
+      "answer": "are",
+      "explanation": "La perífrasis exige el auxiliar «to be» conjugado: con «we» corresponde «are». Omitirlo («We going to meet») es un error habitual de simplificación en A2."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Voy a viajar a Japón",
+      "direction": "es-en",
+      "tiles": ["I", "am", "going", "to", "travel", "to", "Japan", "will"],
+      "answer": "I am going to travel to Japan",
+      "explanation": "Plan premeditado: sujeto + «am/is/are» + «going to» + verbo base. La estructura española «ir a + infinitivo» equivale casi exactamente a «be going to»."
+    },
+    {
+      "type": "speak",
+      "text": "Look at the sky! It is going to rain.",
+      "es": "¡Mira el cielo! Va a llover."
+    },
+    {
+      "type": "gap",
+      "text": "She is going ___ travel next winter.",
+      "options": ["to", "for", "at"],
+      "answer": "to",
+      "explanation": "La partícula infinitiva «to» es obligatoria: conecta «going» con el verbo principal. «She is going travel» es una omisión típica y penalizada."
+    },
+    {
+      "type": "quiz",
+      "q": "I _______ my doctor tomorrow morning. I made the appointment last week.",
+      "options": ["am going to visit", "will visit", "visit"],
+      "correct": 0,
+      "hint": "La cita se pidió la semana pasada: la decisión ya estaba tomada.",
+      "explanation": "Haber pedido la cita demuestra un plan previo, lo que exige «am going to visit». «Will» indicaría una decisión espontánea de última hora y el presente simple no expresa planes personales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Va a llover",
+      "direction": "es-en",
+      "tiles": ["It", "is", "going", "to", "rain", "will", "rains"],
+      "answer": "It is going to rain",
+      "explanation": "Predicción con evidencia presente: «is going to» + verbo base («rain»). No se añade «-s» al verbo principal tras la perífrasis."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "cloud", "es": "nube" },
+        { "en": "rain", "es": "llover" },
+        { "en": "fly", "es": "volar" },
+        { "en": "travel", "es": "viajar" },
+        { "en": "luggage", "es": "equipaje" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Look at those bags, they ___ fall.",
+      "options": ["are going to", "will", "do"],
+      "answer": "are going to",
+      "explanation": "El imperativo de percepción «Look at» pone el semáforo en verde para «be going to»: hay evidencia visual inmediata, así que «will» especulativo es inapropiado."
+    },
+    {
+      "type": "quiz",
+      "q": "They have already booked the hotel. They _______ in a suite.",
+      "options": ["will stay", "stay", "are going to stay"],
+      "correct": 2,
+      "hint": "La reserva ya está hecha: piensa en la mnemotecnia de la maleta.",
+      "explanation": "Haber reservado («booked») denota una intención previa al momento de hablar, por lo que se usa «are going to stay». «Will» sería una decisión improvisada y el presente simple no encaja."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Voy a estudiar medicina",
+      "direction": "es-en",
+      "tiles": ["I", "am", "going", "to", "study", "medicine", "will", "is"],
+      "answer": "I am going to study medicine",
+      "explanation": "Intención a futuro que ya ha comenzado en la mente del hablante: «am going to» + verbo base («study»)."
+    },
+    {
+      "type": "speak",
+      "text": "I am going to travel to London next month.",
+      "es": "Voy a viajar a Londres el mes que viene."
+    },
+    {
+      "type": "gap",
+      "text": "I ___ going to fly to Rome in the summer.",
+      "options": ["am", "is", "will"],
+      "answer": "am",
+      "explanation": "El auxiliar «to be» debe concordar con el sujeto: «I am». La perífrasis nunca se construye con «will» + «going to»."
+    },
+    {
+      "type": "quiz",
+      "q": "\"Why is she buying a suitcase?\" — \"She _______ next month.\"",
+      "options": ["travels", "is going to travel", "will travel"],
+      "correct": 1,
+      "hint": "Comprar la maleta es la prueba física del plan.",
+      "explanation": "Comprar una maleta es la evidencia material que fundamenta el plan de viaje: «is going to travel». El presente simple describe rutinas y «will» no encaja con una planificación clara."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "ticket", "es": "billete" },
+        { "en": "booking", "es": "reserva" },
+        { "en": "passport", "es": "pasaporte" },
+        { "en": "trip", "es": "viaje" },
+        { "en": "hotel", "es": "hotel" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella no va a comprar el billete",
+      "direction": "es-en",
+      "tiles": ["She", "isn't", "going", "to", "buy", "the", "ticket", "doesn't"],
+      "answer": "She isn't going to buy the ticket",
+      "explanation": "La negación se forma sobre el auxiliar «to be»: «isn't going to». Usar «doesn't» pertenece al presente simple y rompe la perífrasis."
+    },
+    {
+      "type": "gap",
+      "text": "Are they going to ___ the hotel?",
+      "options": ["book", "booking", "books"],
+      "answer": "book",
+      "explanation": "Tras «going to» el verbo principal va siempre en infinitivo (forma base): «book», sin «-ing» ni «-s»."
+    },
+    {
+      "type": "quiz",
+      "q": "Are you _______ to study at university next year?",
+      "options": ["going", "will", "go"],
+      "correct": 0,
+      "hint": "La pregunta ya empieza con el auxiliar «Are».",
+      "explanation": "«Going» completa la perífrasis «be going to» tras el auxiliar conjugado «Are». No existe la estructura «Are you will» y la forma base «go» no encaja tras «Are»."
+    },
+    {
+      "type": "speak",
+      "text": "She is going to study at university.",
+      "es": "Ella va a estudiar en la universidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Van a reservar el hotel?",
+      "direction": "es-en",
+      "tiles": ["Are", "they", "going", "to", "book", "the", "hotel", "will", "do"],
+      "answer": "Are they going to book the hotel",
+      "explanation": "En la interrogativa, el auxiliar «to be» se antepone al sujeto: «Are they going to» + verbo base."
+    },
+    {
+      "type": "gap",
+      "text": "She isn't going to ___ the ticket.",
+      "options": ["buy", "buys", "buying"],
+      "answer": "buy",
+      "explanation": "El verbo principal de la perífrasis va en forma base («buy»): ni flexión de tercera persona ni gerundio tras «going to»."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct?",
+      "options": ["We going to meet tomorrow.", "We are going meet tomorrow.", "We are going to meet tomorrow."],
+      "correct": 2,
+      "hint": "La perífrasis tiene cuatro componentes obligatorios; comprueba que no falte ninguno.",
+      "explanation": "La perífrasis exige el auxiliar «to be» («are») y la partícula «to»: «We are going to meet». Las otras opciones eliden uno de los dos componentes obligatorios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "summer", "es": "verano" },
+        { "en": "winter", "es": "invierno" },
+        { "en": "weekend", "es": "fin de semana" },
+        { "en": "tomorrow", "es": "mañana" },
+        { "en": "career", "es": "carrera profesional" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Vamos a encontrarnos mañana",
+      "direction": "es-en",
+      "tiles": ["We", "are", "going", "to", "meet", "tomorrow", "will", "is"],
+      "answer": "We are going to meet tomorrow",
+      "explanation": "Plan acordado con antelación: «are going to meet». Recuerda que faltar el auxiliar «are» o la partícula «to» invalida la frase."
+    },
+    {
+      "type": "gap",
+      "text": "He is going to ___ a career in technology.",
+      "options": ["have", "has", "having"],
+      "answer": "have",
+      "explanation": "Su elección académica demuestra una intención previa; tras «going to» el verbo va en forma base: «have», nunca «has» ni «having»."
+    },
+    {
+      "type": "quiz",
+      "q": "In the writing part of an A2 exam, which form is correct?",
+      "options": ["I'm gonna travel next week.", "I'm going to travel next week.", "I'm going travel next week."],
+      "correct": 1,
+      "hint": "«Gonna» es solo habla informal rápida.",
+      "explanation": "En la producción escrita de los exámenes A2 la grafía «gonna» se considera un error de ortografía y registro: debe escribirse la forma completa «going to». La tercera opción omite «to»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él va a tener una carrera",
+      "direction": "es-en",
+      "tiles": ["He", "is", "going", "to", "have", "a", "career", "will"],
+      "answer": "He is going to have a career",
+      "explanation": "Trayectoria planificada: «is going to» + verbo base. Denota una intención que ya ha comenzado en la mente del sujeto."
+    },
+    {
+      "type": "speak",
+      "text": "I am going to fly to Rome in the summer.",
+      "es": "Voy a volar a Roma en verano."
+    },
+    {
+      "type": "gap",
+      "text": "Watch that man! He is going to ___ the luggage.",
+      "options": ["drop", "drops", "dropping"],
+      "answer": "drop",
+      "explanation": "«Watch» introduce evidencia visual (predicción empírica con «be going to») y el verbo principal va en forma base: «drop»."
+    }
+  ]
+}

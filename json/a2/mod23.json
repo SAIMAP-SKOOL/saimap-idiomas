@@ -1,0 +1,421 @@
+{
+  "id": "a2-mod23",
+  "module": 23,
+  "title": "Present Continuous with Future Meaning",
+  "subtitle": "Presente Continuo de Futuro",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "meeting",
+          "es": "reunión"
+        },
+        {
+          "en": "appointment",
+          "es": "cita"
+        },
+        {
+          "en": "arrangement",
+          "es": "plan acordado"
+        },
+        {
+          "en": "calendar",
+          "es": "calendario"
+        },
+        {
+          "en": "diary",
+          "es": "agenda personal"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "\"Are you free next Tuesday?\" — \"No, I ___ dinner with my boss.\"",
+      "options": [
+        "have",
+        "am having",
+        "will have"
+      ],
+      "correct": 1,
+      "hint": "Es un compromiso social ya acordado en la agenda.",
+      "explanation": "«Am having» es correcto porque se trata de un compromiso social ya acordado («arrangement»). «Have» en presente simple denota rutina, y «will have» sugeriría una decisión improvisada en ese instante."
+    },
+    {
+      "type": "gap",
+      "text": "I am ___ my friends tonight at 8.",
+      "options": [
+        "meeting",
+        "meet",
+        "meets"
+      ],
+      "answer": "meeting",
+      "explanation": "Los planes sociales agendados exigen presente continuo: «am» + verbo con «-ing». El presente simple «I meet my friends tonight» es el error típico del hispanohablante."
+    },
+    {
+      "type": "speak",
+      "text": "I am flying to Paris next Tuesday.",
+      "es": "Vuelo a París el próximo martes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ceno con mis amigos esta noche",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "am",
+        "having",
+        "dinner",
+        "with",
+        "my",
+        "friends",
+        "tonight",
+        "have"
+      ],
+      "answer": "I am having dinner with my friends tonight",
+      "explanation": "El español usa presente de indicativo («ceno»), pero en inglés el presente continuo es obligatorio para un plan social ya acordado."
+    },
+    {
+      "type": "quiz",
+      "q": "I ___ to London tomorrow. I already have my flight ticket.",
+      "options": [
+        "fly",
+        "am flying",
+        "will fly"
+      ],
+      "correct": 1,
+      "hint": "Tener el billete comprado es la prueba de un plan cerrado.",
+      "explanation": "Poseer el «flight ticket» demuestra que el plan está cerrado: presente continuo «am flying». El presente simple no sirve para planes de viaje individuales y «will fly» sugiere improvisación o predicción."
+    },
+    {
+      "type": "gap",
+      "text": "We are ___ to Madrid tomorrow.",
+      "options": [
+        "traveling",
+        "travel",
+        "travels"
+      ],
+      "answer": "traveling",
+      "explanation": "Tras el auxiliar «are» el verbo principal debe llevar el sufijo «-ing»: «are traveling». Omitirlo («*We are travel») es un error de examen frecuente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "meet",
+          "es": "reunirse"
+        },
+        {
+          "en": "visit",
+          "es": "visitar"
+        },
+        {
+          "en": "fly",
+          "es": "volar"
+        },
+        {
+          "en": "travel",
+          "es": "viajar"
+        },
+        {
+          "en": "dentist",
+          "es": "dentista"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Veo al médico mañana",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "am",
+        "seeing",
+        "the",
+        "doctor",
+        "tomorrow",
+        "see"
+      ],
+      "answer": "I am seeing the doctor tomorrow",
+      "explanation": "El español usa «tengo cita con» o presente simple; el inglés prefiere el continuo «am seeing» para una cita profesional ya fijada."
+    },
+    {
+      "type": "quiz",
+      "q": "We ___ our dentist appointment at 3 o'clock today. We confirmed it this morning.",
+      "options": [
+        "are having",
+        "have",
+        "are going have"
+      ],
+      "correct": 0,
+      "hint": "La cita está confirmada a una hora concreta: es un «arrangement».",
+      "explanation": "La cita confirmada a hora concreta es un «arrangement» que exige presente continuo «are having». El presente simple «have» no se usa para eventos agendados y «are going have» omite la preposición «to»."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ her friends tonight because she has to work late.",
+      "options": [
+        "isn't meeting",
+        "doesn't meet",
+        "won't to meet"
+      ],
+      "answer": "isn't meeting",
+      "explanation": "La cancelación de un plan agendado para «tonight» se expresa en presente continuo negativo. «Doesn't meet» denota hábito y «won't to meet» combina «to» con «won't», lo cual es agramatical."
+    },
+    {
+      "type": "speak",
+      "text": "We are meeting friends at 3 o'clock.",
+      "es": "Nos reuniremos con amigos a las 3 en punto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Vuelo el martes",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "am",
+        "flying",
+        "on",
+        "Tuesday",
+        "fly"
+      ],
+      "answer": "I am flying on Tuesday",
+      "explanation": "En español decimos «mi vuelo sale el martes»; en inglés se enfatiza la acción del sujeto en continuo («am flying») si ya posee los billetes."
+    },
+    {
+      "type": "quiz",
+      "q": "\"What time ___ you ___ the doctor tomorrow morning?\"",
+      "options": [
+        "will / visit",
+        "are / visiting",
+        "do / visit"
+      ],
+      "correct": 1,
+      "hint": "Preguntas por una cita médica ya programada.",
+      "explanation": "Para preguntar por una cita profesional fijada de antemano se usa presente continuo: «are you visiting». «Will» es para decisiones del momento y el auxiliar «do» no se emplea para planes personales puntuales."
+    },
+    {
+      "type": "gap",
+      "text": "The train ___ at 3 o'clock.",
+      "options": [
+        "leaves",
+        "is leave",
+        "leaving"
+      ],
+      "answer": "leaves",
+      "explanation": "Los horarios públicos de transporte usan presente simple de futuro: «The train leaves at 3 o'clock». El continuo se reserva para citas y planes personales."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "flight",
+          "es": "vuelo"
+        },
+        {
+          "en": "ticket",
+          "es": "billete"
+        },
+        {
+          "en": "train",
+          "es": "tren"
+        },
+        {
+          "en": "hotel",
+          "es": "hotel"
+        },
+        {
+          "en": "party",
+          "es": "fiesta"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Me reúno con mis amigos esta noche a las 8",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "am",
+        "meeting",
+        "my",
+        "friends",
+        "tonight",
+        "at",
+        "8",
+        "meet"
+      ],
+      "answer": "I am meeting my friends tonight at 8",
+      "explanation": "Plan social con hora fijada: presente continuo «am meeting». El presente simple no se utiliza para citas sociales puntuales."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct for a plan WITHOUT a fixed date?",
+      "options": [
+        "She is having a party, but she doesn't know when.",
+        "She is going to have a party someday.",
+        "She has a party someday."
+      ],
+      "correct": 1,
+      "hint": "Sin fecha ni arreglos, el plan es solo una intención.",
+      "explanation": "Si no se conoce la fecha ni hay arreglos, el plan es una intención y se expresa con «be going to». El presente continuo exige un compromiso agendado, y el presente simple denota rutina."
+    },
+    {
+      "type": "gap",
+      "text": "We are ___ the lunch to next Tuesday.",
+      "options": [
+        "rescheduling",
+        "reschedule",
+        "reschedules"
+      ],
+      "answer": "rescheduling",
+      "explanation": "Modificar la fecha de un acuerdo previo («reschedule») se expresa con naturalidad en presente continuo: «are rescheduling», con el sufijo «-ing» obligatorio tras «are»."
+    },
+    {
+      "type": "speak",
+      "text": "I am visiting the dentist tomorrow morning.",
+      "es": "Visito al dentista mañana por la mañana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella no se reúne con sus amigos esta noche",
+      "direction": "es-en",
+      "tiles": [
+        "She",
+        "isn't",
+        "meeting",
+        "her",
+        "friends",
+        "tonight",
+        "doesn't"
+      ],
+      "answer": "She isn't meeting her friends tonight",
+      "explanation": "Cancelar un plan agendado se expresa con el continuo negativo «isn't meeting». «Doesn't» pertenece al presente simple de hábitos."
+    },
+    {
+      "type": "quiz",
+      "q": "Why do we say \"I'm going to Berlin tomorrow\" instead of \"I'm going to go to Berlin tomorrow\"?",
+      "options": [
+        "Porque «go» no admite futuro con «going to».",
+        "Para evitar la redundancia con verbos de movimiento.",
+        "Porque «tomorrow» prohíbe usar «going to»."
+      ],
+      "correct": 1,
+      "hint": "Piensa en cómo suena repetir «going to go».",
+      "explanation": "Con verbos de movimiento como «go», «come», «meet» y «arrive» se prefiere el presente continuo para evitar la redundancia cacofónica de «going to go». Las otras opciones enuncian reglas que no existen."
+    },
+    {
+      "type": "gap",
+      "text": "I am meeting the doctor at 3 o'clock; the clinic has just ___ the appointment.",
+      "options": [
+        "confirmed",
+        "cancelled",
+        "rescheduled"
+      ],
+      "answer": "confirmed",
+      "explanation": "«Confirm» significa validar la viabilidad de un encuentro: la clínica acaba de confirmar la cita, por eso el plan se expresa en presente continuo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "confirm",
+          "es": "confirmar"
+        },
+        {
+          "en": "cancel",
+          "es": "cancelar"
+        },
+        {
+          "en": "reschedule",
+          "es": "reprogramar"
+        },
+        {
+          "en": "tonight",
+          "es": "esta noche"
+        },
+        {
+          "en": "weekend",
+          "es": "fin de semana"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Vuelo a Londres mañana",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "am",
+        "flying",
+        "to",
+        "London",
+        "tomorrow",
+        "will"
+      ],
+      "answer": "I am flying to London tomorrow",
+      "explanation": "Viaje con billete comprado: presente continuo «am flying» + marcador de futuro «tomorrow». «Will» indicaría decisión espontánea."
+    },
+    {
+      "type": "gap",
+      "text": "We are meeting friends ___ 3 o'clock.",
+      "options": [
+        "at",
+        "in",
+        "on"
+      ],
+      "answer": "at",
+      "explanation": "Las horas concretas llevan la preposición «at»: «at 3 o'clock». Sin este marcador temporal, la frase se entendería como una acción en curso ahora mismo."
+    },
+    {
+      "type": "speak",
+      "text": "I am having dinner with my friends tonight.",
+      "es": "Ceno con mis amigos esta noche."
+    },
+    {
+      "type": "quiz",
+      "q": "What is the difference between \"I am going to visit my dentist\" and \"I am visiting the dentist tomorrow morning\"?",
+      "options": [
+        "La primera es una intención; la segunda, una cita confirmada.",
+        "La primera es pasado; la segunda, presente.",
+        "La primera es formal; la segunda, coloquial."
+      ],
+      "correct": 0,
+      "hint": "Piensa en la Prueba del Bolígrafo: ¿está escrito en la agenda?",
+      "explanation": "«Be going to» expresa la decisión interna del sujeto sin confirmación externa; el presente continuo implica una cita ya fijada en el calendario con la otra parte. No es una cuestión de tiempo pasado ni de registro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿A qué hora visitas al médico mañana?",
+      "direction": "es-en",
+      "tiles": [
+        "What",
+        "time",
+        "are",
+        "you",
+        "visiting",
+        "the",
+        "doctor",
+        "tomorrow",
+        "do"
+      ],
+      "answer": "What time are you visiting the doctor tomorrow",
+      "explanation": "Pregunta por una cita programada: presente continuo interrogativo «are you visiting». El auxiliar «do» pertenece al presente simple de hábitos."
+    },
+    {
+      "type": "gap",
+      "text": "We ___ dinner with Anna on Friday.",
+      "options": [
+        "are having",
+        "have",
+        "had"
+      ],
+      "answer": "are having",
+      "explanation": "Cita cerrada y organizada en el futuro (arrangement) ⇒ presente continuo con valor de futuro: «We are having dinner on Friday»."
+    }
+  ]
+}

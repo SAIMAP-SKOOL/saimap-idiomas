@@ -1,0 +1,240 @@
+{
+  "id": "a2-mod02",
+  "module": 2,
+  "title": "Present Continuous: Negative & Questions",
+  "subtitle": "Presente Continuo: Negativo y Preguntas",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "calling", "es": "llamando" },
+        { "en": "talking", "es": "hablando" },
+        { "en": "listening", "es": "escuchando" },
+        { "en": "sleeping", "es": "durmiendo" },
+        { "en": "cooking", "es": "cocinando" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "__________ to the radio in your room at the moment?",
+      "options": ["Are you listening", "You are listening", "Is you listening"],
+      "correct": 0,
+      "hint": "Las preguntas en inglés exigen invertir el auxiliar y el sujeto, y el auxiliar debe concordar con «you».",
+      "explanation": "«Are you listening» cumple la inversión interrogativa (auxiliar antes del sujeto) y concuerda con «you». «You are listening» mantiene el orden afirmativo sin invertir, y «Is you listening» usa «is», que no concuerda con «you»."
+    },
+    {
+      "type": "gap",
+      "text": "I ___ not sleeping now.",
+      "options": ["am", "is", "are"],
+      "answer": "am",
+      "explanation": "La negación se forma con el auxiliar «to be» + «not»: con el sujeto «I» el auxiliar es «am». Recuerda que no existe la contracción «I amn't»; solo «I'm not»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella no está cocinando esta noche",
+      "direction": "es-en",
+      "tiles": ["She", "isn't", "cooking", "tonight", "doesn't", "is"],
+      "answer": "She isn't cooking tonight",
+      "explanation": "La partícula «not» va unida al auxiliar: «isn't». Usar «doesn't» es un error, porque el presente continuo se niega con «to be», nunca con «do»."
+    },
+    {
+      "type": "quiz",
+      "q": "\"Is your mother cooking dinner tonight?\" - \"No, __________.\"",
+      "options": ["she isn't cooking", "she's not", "she isn't not"],
+      "correct": 1,
+      "hint": "Las respuestas cortas suprimen el verbo principal en «-ing» y usan solo sujeto + auxiliar.",
+      "explanation": "«she's not» es la respuesta corta negativa estándar: sujeto + auxiliar contraído. «she isn't cooking» repite el verbo principal y deja de ser respuesta corta, y «she isn't not» crea una doble negación agramatical."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ traveling this week.",
+      "options": ["isn't", "aren't", "not is"],
+      "answer": "isn't",
+      "explanation": "Con «she» el auxiliar es «is», que se contrae con «not» en «isn't». «Not is» calca el orden del español «no está», pero en inglés «not» va siempre después del auxiliar."
+    },
+    {
+      "type": "speak",
+      "text": "Are you listening to music?",
+      "es": "¿Estás escuchando música?"
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "cleaning", "es": "limpiando" },
+        { "en": "driving", "es": "conduciendo" },
+        { "en": "traveling", "es": "viajando" },
+        { "en": "shopping", "es": "comprando" },
+        { "en": "resting", "es": "descansando" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "They __________ a lot of noise this week because they are cleaning the house.",
+      "options": ["aren't making", "are not makeing", "don't making"],
+      "correct": 0,
+      "hint": "Fíjate en la ortografía del gerundio de «make» y en qué auxiliar niega el presente continuo.",
+      "explanation": "«aren't making» usa la contracción negativa correcta y elide la «-e» muda de «make» antes de «-ing». «makeing» conserva mal esa «-e», y «don't making» mezcla el auxiliar del presente simple con un gerundio, lo cual es incompatible."
+    },
+    {
+      "type": "gap",
+      "text": "Why ___ you calling me now?",
+      "options": ["are", "is", "do"],
+      "answer": "are",
+      "explanation": "En las preguntas «Wh-» el auxiliar «are» debe anteceder obligatoriamente al sujeto «you». «Why you are calling...» es el error típico de mantener el orden afirmativo del español."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Estás escuchando música?",
+      "direction": "es-en",
+      "tiles": ["Are", "you", "listening", "to", "music", "Is", "at"],
+      "answer": "Are you listening to music?",
+      "explanation": "Fórmula ASV: Auxiliar («Are») + Sujeto («you») + Verbo en «-ing». Además, «listen» exige la preposición «to» antes del complemento, algo inexistente en español."
+    },
+    {
+      "type": "gap",
+      "text": "___ he cleaning the kitchen?",
+      "options": ["Is", "Are", "Does"],
+      "answer": "Is",
+      "explanation": "En las preguntas cerradas el auxiliar «to be» se desplaza al inicio: con «he» corresponde «Is». «Does» pertenece al presente simple y es incompatible con la forma en «-ing»."
+    },
+    {
+      "type": "quiz",
+      "q": "\"Are the children sleeping?\" - \"Yes, __________.\"",
+      "options": ["they're", "they are", "they are sleeping"],
+      "correct": 1,
+      "hint": "En las respuestas cortas afirmativas el auxiliar final nunca se contrae ni se repite el verbo principal.",
+      "explanation": "«they are» es la respuesta corta afirmativa correcta. «they're» es incorrecta porque las afirmativas cortas no admiten contracción final, y «they are sleeping» repite el verbo principal, perdiendo el carácter elíptico de la respuesta corta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "No estoy conduciendo ahora",
+      "direction": "es-en",
+      "tiles": ["I'm", "not", "driving", "now", "am", "no"],
+      "answer": "I'm not driving now",
+      "explanation": "La primera persona solo tiene una contracción válida: «I'm not». La ficha «no» es un calco del español; en inglés la partícula negativa verbal es «not»."
+    },
+    {
+      "type": "speak",
+      "text": "Where is she traveling this week?",
+      "es": "¿A dónde está viajando ella esta semana?"
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "noise", "es": "ruido" },
+        { "en": "quiet", "es": "tranquilo" },
+        { "en": "busy", "es": "ocupado" },
+        { "en": "free", "es": "libre" },
+        { "en": "message", "es": "mensaje" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Why __________ currently traveling alone around Europe?",
+      "options": ["is he", "he is", "does he"],
+      "correct": 0,
+      "hint": "Tras una partícula «Wh-», el auxiliar del presente continuo va delante del sujeto.",
+      "explanation": "«is he» realiza la inversión sujeto-auxiliar que exige la partícula «Why» y mantiene el aspecto continuo. «he is» omite la inversión obligatoria y «does he» emplea el auxiliar del presente simple, incompatible con «traveling»."
+    },
+    {
+      "type": "gap",
+      "text": "Are you driving now? - Yes, I ___.",
+      "options": ["am", "do", "is"],
+      "answer": "am",
+      "explanation": "La respuesta corta afirmativa repite el sujeto y el auxiliar de la pregunta: «Yes, I am». «Do» pertenece al presente simple y «is» no concuerda con «I»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Está él durmiendo?",
+      "direction": "es-en",
+      "tiles": ["Is", "he", "sleeping", "Are", "does"],
+      "answer": "Is he sleeping?",
+      "explanation": "Pregunta cerrada con inversión: auxiliar «Is» + sujeto «he» + gerundio «sleeping». En español basta la entonación; en inglés la inversión es obligatoria."
+    },
+    {
+      "type": "quiz",
+      "q": "Elige la pregunta correcta en presente continuo:",
+      "options": ["Why you are calling me now?", "Why are calling you me now?", "Why are you calling me now?"],
+      "correct": 2,
+      "hint": "Recuerda el orden del espejo interrogativo: partícula «Wh-» + Auxiliar + Sujeto + Verbo.",
+      "explanation": "«Why are you calling me now?» respeta el orden Wh- + auxiliar + sujeto + verbo en «-ing». La primera opción mantiene el orden afirmativo sin invertir, y la segunda desordena sujeto y complemento de forma agramatical."
+    },
+    {
+      "type": "gap",
+      "text": "We aren't ___ any noise today.",
+      "options": ["making", "makeing", "make"],
+      "answer": "making",
+      "explanation": "Al añadir «-ing», el verbo «make» pierde la «-e» muda: «making». Conservarla («makeing») es un error ortográfico penalizado en el examen."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Qué estás cocinando esta noche?",
+      "direction": "es-en",
+      "tiles": ["What", "are", "you", "cooking", "tonight", "is", "do"],
+      "answer": "What are you cooking tonight?",
+      "explanation": "Pregunta abierta: la partícula «What» va al principio absoluto y se mantiene la inversión «are you». «Do» es un distractor del presente simple, incompatible con «cooking»."
+    },
+    {
+      "type": "speak",
+      "text": "I am currently working in a cafe, but only this week.",
+      "es": "Actualmente estoy trabajando en una cafetería, pero solo esta semana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "now", "es": "ahora" },
+        { "en": "today", "es": "hoy" },
+        { "en": "tonight", "es": "esta noche" },
+        { "en": "currently", "es": "actualmente" },
+        { "en": "voice", "es": "voz" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Are they sleeping? - No, they ___.",
+      "options": ["aren't", "don't", "isn't"],
+      "answer": "aren't",
+      "explanation": "La respuesta corta negativa repite el sujeto y el auxiliar en forma negativa contraída: «No, they aren't». Un simple «no», como en español, resulta abrupto en inglés."
+    },
+    {
+      "type": "quiz",
+      "q": "\"Is she busy at the moment?\" - \"Yes, __________.\"",
+      "options": ["she's", "is she", "she is"],
+      "correct": 2,
+      "hint": "El auxiliar que cierra una respuesta corta afirmativa debe escribirse completo.",
+      "explanation": "«she is» es correcta: los auxiliares al final de una respuesta corta afirmativa nunca se contraen, porque la voz descansa en ellos. «she's» comete esa contracción prohibida y «is she» mantiene el orden de pregunta, no de respuesta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella está ocupada en este momento",
+      "direction": "es-en",
+      "tiles": ["She", "is", "busy", "at", "the", "moment", "are"],
+      "answer": "She is busy at the moment",
+      "explanation": "«At the moment» es el marcador temporal típico del presente continuo. Con «she», el verbo «to be» es «is», nunca «are»."
+    },
+    {
+      "type": "gap",
+      "text": "What are you listening ___ at the moment?",
+      "options": ["to", "at", "for"],
+      "answer": "to",
+      "explanation": "El verbo «listen» exige la preposición «to» al final del bloque verbal («listening to»), algo inexistente en español y muy evaluado en el examen."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos no están haciendo ruido",
+      "direction": "es-en",
+      "tiles": ["They", "aren't", "making", "noise", "are", "don't"],
+      "answer": "They aren't making noise",
+      "explanation": "Sujeto plural + «aren't» + gerundio. «Don't» es el distractor típico: el presente continuo nunca se niega con el auxiliar «do»."
+    },
+    {
+      "type": "speak",
+      "text": "He isn't cooking tonight.",
+      "es": "Él no está cocinando esta noche."
+    }
+  ]
+}

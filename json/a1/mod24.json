@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod24",
+  "module": 24,
+  "title": "Weather and Seasons",
+  "subtitle": "El Tiempo y las Estaciones",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "rain", "es": "lluvia / llover" },
+        { "en": "snow", "es": "nieve / nevar" },
+        { "en": "wind", "es": "viento" },
+        { "en": "sun", "es": "sol" },
+        { "en": "cloud", "es": "nube" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the grammatically correct sentence to describe the weather in the picture (a rainy day):",
+      "options": ["Is raining outside.", "There is raining outside.", "It's raining outside."],
+      "correct": 2,
+      "hint": "Toda oración inglesa necesita un sujeto explícito.",
+      "explanation": "«It's raining» usa el sujeto expletivo «it» obligatorio + «be» + gerundio. «Is raining» omite el sujeto (agramatical) y «there is» es una estructura existencial que no puede introducir un gerundio."
+    },
+    {
+      "type": "gap",
+      "text": "___ raining outside.",
+      "options": ["It's", "There is", "Is"],
+      "answer": "It's",
+      "explanation": "El tiempo atmosférico exige el sujeto impersonal «it»: «It's raining». En español «llueve» no lleva sujeto, pero el inglés lo requiere siempre."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Está lloviendo",
+      "direction": "es-en",
+      "tiles": ["It", "is", "raining", "There", "rains"],
+      "answer": "It is raining",
+      "explanation": "El fenómeno en curso usa «it is + verbo-ing»: «It is raining». El calco del español sin sujeto («is raining») es agramatical."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the sentence: \"What's the weather __________ in Madrid in summer?\"",
+      "options": ["as", "like", "how"],
+      "correct": 1,
+      "hint": "La pregunta canónica es «What's the weather ...?» con una partícula fija.",
+      "explanation": "La pregunta estándar es «What's the weather like?»: «like» es insustituible aunque no tenga traducción literal. «As» solo aparece en comparaciones de igualdad y «how» generaría otra pregunta distinta («How's the weather?»)."
+    },
+    {
+      "type": "gap",
+      "text": "It's going to ___ tomorrow.",
+      "options": ["rain", "raining", "rains"],
+      "answer": "rain",
+      "explanation": "Tras «going to» siempre va el INFINITIVO, nunca el gerundio ni la forma con «-s»: «It's going to rain»."
+    },
+    {
+      "type": "speak",
+      "text": "It's sunny today.",
+      "es": "Hoy está soleado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada adjetivo meteorológico con su traducción",
+      "pairs": [
+        { "en": "sunny", "es": "soleado" },
+        { "en": "cloudy", "es": "nublado" },
+        { "en": "windy", "es": "ventoso" },
+        { "en": "rainy", "es": "lluvioso" },
+        { "en": "snowy", "es": "nevoso" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "___ summer, it's very hot in Spain.",
+      "options": ["In", "In the", "At"],
+      "answer": "In",
+      "explanation": "Las estaciones no llevan artículo determinado en inglés cuando se usan de forma genérica: «in summer», no «in the summer»."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence correctly talks about tomorrow's weather?",
+      "options": ["It's cold tomorrow.", "It's going to be cold tomorrow.", "It goes to be cold tomorrow."],
+      "correct": 1,
+      "hint": "Las predicciones meteorológicas usan una perífrasis de futuro.",
+      "explanation": "La predicción de futuro usa «to be + going to + infinitivo»: «It's going to be cold». «It's cold tomorrow» contradice el marcador temporal con un presente, y «it goes to be» confunde el verbo «go» con la perífrasis «be going to»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hoy está soleado",
+      "direction": "es-en",
+      "tiles": ["It's", "sunny", "today", "There's", "sun"],
+      "answer": "It's sunny today",
+      "explanation": "Condición estática: «it's + adjetivo». «Sun» es sustantivo y no puede ir tras «be» en esta estructura; «there's» es existencial, no meteorológico."
+    },
+    {
+      "type": "gap",
+      "text": "What's the weather ___ today?",
+      "options": ["like", "as", "how"],
+      "answer": "like",
+      "explanation": "La fórmula fija es «What's the weather like?». Mezclarla con «how» produce el híbrido agramatical «How is the weather like?»."
+    },
+    {
+      "type": "quiz",
+      "q": "A student writes: \"In the summer, I love the weather. It is sun and hot every day.\" There are two mistakes. What are the correct forms?",
+      "options": ["\"In summer\" and \"It is sunny\"", "\"In a summer\" and \"It is sun\"", "\"In the summer\" and \"It is sunny\""],
+      "correct": 0,
+      "hint": "Estaciones sin artículo y adjetivo tras el verbo «be».",
+      "explanation": "Hay que corregir ambos errores: las estaciones genéricas van sin artículo («in summer») y la posición predicativa exige el adjetivo «sunny», no el sustantivo «sun». La tercera opción solo corrige uno de los dos fallos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hace mucho frío en invierno",
+      "direction": "es-en",
+      "tiles": ["It's", "very", "cold", "in", "winter", "the"],
+      "answer": "It's very cold in winter",
+      "explanation": "El español «hace frío» se traduce con «it's + adjetivo»: «It's very cold». «Winter» va sin artículo: «in the winter» es el error señalado en el diagnóstico."
+    },
+    {
+      "type": "speak",
+      "text": "It's raining outside.",
+      "es": "Está lloviendo fuera."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada estación o concepto con su traducción",
+      "pairs": [
+        { "en": "spring", "es": "primavera" },
+        { "en": "summer", "es": "verano" },
+        { "en": "autumn", "es": "otoño" },
+        { "en": "winter", "es": "invierno" },
+        { "en": "season", "es": "estación" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "It's very cold and ___ snowing.",
+      "options": ["it's", "is", "there is"],
+      "answer": "it's",
+      "explanation": "Al coordinar dos oraciones meteorológicas, el sujeto «it» debe repetirse: «It's very cold and it's snowing»."
+    },
+    {
+      "type": "quiz",
+      "q": "Match the description with the correct season: \"It's cold and it sometimes snows. The days are very short. People stay at home.\"",
+      "options": ["Spring", "Autumn", "Winter"],
+      "correct": 2,
+      "hint": "Frío, nieve ocasional y días muy cortos.",
+      "explanation": "Los tres indicios (frío, nieve ocasional y días muy cortos) señalan al invierno («winter»). La primavera es templada y con días que se alargan, y el otoño, aunque fresco y lluvioso, no acumula estos tres rasgos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Va a llover mañana",
+      "direction": "es-en",
+      "tiles": ["It's", "going", "to", "rain", "tomorrow", "raining"],
+      "answer": "It's going to rain tomorrow",
+      "explanation": "Predicción meteorológica: «it's going to + infinitivo». «Going to raining» (con gerundio) es el error típico del diagnóstico."
+    },
+    {
+      "type": "gap",
+      "text": "The weather is ___.",
+      "options": ["sunny", "sun", "suny"],
+      "answer": "sunny",
+      "explanation": "La posición predicativa tras «be» requiere el adjetivo «sunny»; «sun» es el sustantivo (el astro) y no puede usarse aquí."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct?",
+      "options": ["There is sunny outside.", "It's sunny outside.", "Is sunny outside."],
+      "correct": 1,
+      "hint": "«There is» presenta la existencia de cosas, no describe condiciones.",
+      "explanation": "«It's sunny» describe una condición con «it is + adjetivo». «There is» es existencial y no admite un adjetivo como «sunny», y «is sunny» omite el sujeto obligatorio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "En verano hace calor y sol",
+      "direction": "es-en",
+      "tiles": ["In", "summer", "it's", "hot", "and", "sunny", "the"],
+      "answer": "In summer it's hot and sunny",
+      "explanation": "«In summer» sin artículo + «it's + adjetivos». El español usa «hacer calor/sol»; el inglés siempre «it is» con adjetivos («hot», «sunny»)."
+    },
+    {
+      "type": "speak",
+      "text": "In winter, it's very cold. It sometimes snows.",
+      "es": "En invierno hace mucho frío. A veces nieva."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "fog", "es": "niebla" },
+        { "en": "storm", "es": "tormenta" },
+        { "en": "rainbow", "es": "arco iris" },
+        { "en": "forecast", "es": "pronóstico" },
+        { "en": "umbrella", "es": "paraguas" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "___ a cloud in the sky.",
+      "options": ["There is", "It is", "Is"],
+      "answer": "There is",
+      "explanation": "Aquí se presenta la EXISTENCIA de una entidad concreta (una nube), función de «there is». «It is» se reserva para describir condiciones («it is cloudy»)."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct question about the weather:",
+      "options": ["How is the weather like?", "How is the weather?", "What is the weather how?"],
+      "correct": 1,
+      "hint": "«Like» solo acompaña a «what», nunca a «how».",
+      "explanation": "Las dos preguntas válidas son «What's the weather like?» y «How's the weather?». El híbrido «How is the weather like?» mezcla ambas fórmulas y es el error más evaluado del módulo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hay una nube en el cielo",
+      "direction": "es-en",
+      "tiles": ["There", "is", "a", "cloud", "in", "the", "sky", "it"],
+      "answer": "There is a cloud in the sky",
+      "explanation": "Existencia de una entidad en un lugar: «there is + sustantivo». No confundir con «it is», que describe condiciones meteorológicas."
+    },
+    {
+      "type": "gap",
+      "text": "In winter, it's very ___.",
+      "options": ["cold", "warm", "hot"],
+      "answer": "cold",
+      "explanation": "El invierno se caracteriza por el frío: «In winter, it's cold and snowy». «Warm» y «hot» corresponden a primavera y verano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "A veces nieva en invierno",
+      "direction": "es-en",
+      "tiles": ["It", "sometimes", "snows", "in", "winter", "snow"],
+      "answer": "It sometimes snows in winter",
+      "explanation": "El verbo meteorológico necesita el sujeto «it» y, con 3.ª persona, la desinencia «-s»: «it snows». El adverbio «sometimes» va antes del verbo pleno."
+    },
+    {
+      "type": "speak",
+      "text": "What's the weather like today?",
+      "es": "¿Qué tiempo hace hoy?"
+    }
+  ]
+}

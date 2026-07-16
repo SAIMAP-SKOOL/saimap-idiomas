@@ -1,0 +1,240 @@
+{
+  "id": "a2-mod15",
+  "module": 15,
+  "title": "Present Perfect: Affirmative & Participials",
+  "subtitle": "Presente Perfecto: Afirmativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada participio con su traducción",
+      "pairs": [
+        { "en": "eaten", "es": "comido" },
+        { "en": "drunk", "es": "bebido" },
+        { "en": "seen", "es": "visto" },
+        { "en": "written", "es": "escrito" },
+        { "en": "spoken", "es": "hablado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct option to complete: \"Mary ___ a beautiful letter to her friend.\"",
+      "options": ["has written", "has wrote", "have written"],
+      "correct": 0,
+      "hint": "Mary es tercera persona singular y «write» es irregular.",
+      "explanation": "«Mary» (tercera persona singular) exige el auxiliar «has», y tras el auxiliar va el participio irregular «written». «Wrote» es pasado simple y «have» falla en concordancia."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ written a book.",
+      "options": ["has", "have", "is"],
+      "answer": "has",
+      "explanation": "El sujeto de tercera persona singular («she») requiere el auxiliar «has». «Have» es para el resto de personas e «is» formaría otra estructura."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él ha comido allí",
+      "direction": "es-en",
+      "tiles": ["He", "has", "eaten", "there", "have", "ate"],
+      "answer": "He has eaten there",
+      "explanation": "Presente Perfecto: «has» (tercera persona) + participio irregular «eaten». «Ate» es el pasado simple y no puede seguir al auxiliar."
+    },
+    {
+      "type": "speak",
+      "text": "I have visited London.",
+      "es": "He visitado Londres."
+    },
+    {
+      "type": "gap",
+      "text": "I have ___ that movie.",
+      "options": ["seen", "saw", "see"],
+      "answer": "seen",
+      "explanation": "Detrás de «have» se emplea el participio de pasado: «seen». «Saw» es pasado simple, el error más típico con verbos irregulares."
+    },
+    {
+      "type": "quiz",
+      "q": "Select the grammatically correct sentence:",
+      "options": ["They have studyed English for three years.", "They have studied English for three years.", "They has studied English for three years."],
+      "correct": 1,
+      "hint": "Cuidado con la ortografía de los verbos acabados en consonante + «-y».",
+      "explanation": "«Study» termina en consonante + «-y»: la «-y» se transforma en «-i» antes de «-ed» («studied»). Además, el sujeto plural «they» exige «have», no «has»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "He perdido mis llaves",
+      "direction": "es-en",
+      "tiles": ["I", "have", "lost", "my", "keys", "lose", "has"],
+      "answer": "I have lost my keys",
+      "explanation": "En inglés el sujeto «I» debe estar siempre explícito (en español se elide). El participio irregular de «lose» es «lost»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada participio con su traducción",
+      "pairs": [
+        { "en": "done", "es": "hecho" },
+        { "en": "made", "es": "fabricado" },
+        { "en": "bought", "es": "comprado" },
+        { "en": "sold", "es": "vendido" },
+        { "en": "taken", "es": "tomado" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "They have ___ English.",
+      "options": ["studied", "studyed", "study"],
+      "answer": "studied",
+      "explanation": "Los verbos terminados en consonante + «-y» cambian la «-y» por «-i» antes de añadir «-ed»: «studied», nunca «studyed»."
+    },
+    {
+      "type": "quiz",
+      "q": "Fill in the blank: \"I ___ a new car. Do you want to see it?\"",
+      "options": ["bought", "have bought", "has bought"],
+      "correct": 1,
+      "hint": "La compra tiene un resultado visible ahora y no se dice cuándo ocurrió.",
+      "explanation": "La segunda frase muestra que la compra tiene relevancia en el presente y no se especifica cuándo ocurrió: Presente Perfecto «have bought». «Bought» solo relata el pasado y «has» no concuerda con «I»."
+    },
+    {
+      "type": "speak",
+      "text": "He has broken his leg.",
+      "es": "Él se ha roto la pierna."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella ha escrito un libro",
+      "direction": "es-en",
+      "tiles": ["She", "has", "written", "a", "book", "wrote", "have"],
+      "answer": "She has written a book",
+      "explanation": "Tercera persona singular: auxiliar «has» + participio irregular «written». «Wrote» (pasado simple) no puede acompañar al auxiliar."
+    },
+    {
+      "type": "gap",
+      "text": "I ___ her yesterday.",
+      "options": ["met", "have met", "meet"],
+      "answer": "met",
+      "explanation": "El marcador temporal específico «yesterday» prohíbe el Presente Perfecto: se usa Pasado Simple «met»."
+    },
+    {
+      "type": "quiz",
+      "q": "Identify the sentence that is grammatically CORRECT:",
+      "options": ["She has lived in Madrid in 2018.", "She has live in Madrid in 2018.", "She lived in Madrid in 2018."],
+      "correct": 2,
+      "hint": "Fíjate en el marcador de tiempo cerrado «in 2018».",
+      "explanation": "«In 2018» es un tiempo específico y finalizado, lo que inhabilita el Presente Perfecto y obliga a usar Pasado Simple: «lived». «Has live» además combina auxiliar con forma base, agramatical."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada participio con su traducción",
+      "pairs": [
+        { "en": "lost", "es": "perdido" },
+        { "en": "found", "es": "encontrado" },
+        { "en": "given", "es": "dado" },
+        { "en": "met", "es": "conocido" },
+        { "en": "heard", "es": "oído" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "He comprado un coche nuevo",
+      "direction": "es-en",
+      "tiles": ["I", "have", "bought", "a", "new", "car", "buy", "has"],
+      "answer": "I have bought a new car",
+      "explanation": "Presente Perfecto con relevancia actual: «have» + participio irregular «bought». Lo importante es que ahora tengo un coche nuevo disponible."
+    },
+    {
+      "type": "gap",
+      "text": "He has ___ his leg.",
+      "options": ["broken", "broke", "break"],
+      "answer": "broken",
+      "explanation": "Tras «has» va el participio de pasado: «broken». La consecuencia sigue activa en el presente (ahora no puede caminar)."
+    },
+    {
+      "type": "speak",
+      "text": "I've seen it.",
+      "es": "Yo lo he visto."
+    },
+    {
+      "type": "quiz",
+      "q": "In the sentence \"She's worked here\", what does the contraction 's mean?",
+      "options": ["is", "has", "was"],
+      "correct": 1,
+      "hint": "Analiza el verbo que sigue a la contracción: ¿es participio o forma en -ing?",
+      "explanation": "Como sigue un participio («worked»), la contracción «'s» representa a «has» (Presente Perfecto). Si siguiera una forma en «-ing» («She's working»), sería «is» (Presente Continuo)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos han visto esa película",
+      "direction": "es-en",
+      "tiles": ["They", "have", "seen", "that", "movie", "saw", "has"],
+      "answer": "They have seen that movie",
+      "explanation": "Sujeto plural «they» + auxiliar «have» + participio irregular «seen». «Saw» es la forma de pasado simple, inadecuada tras el auxiliar."
+    },
+    {
+      "type": "gap",
+      "text": "We have ___ the car.",
+      "options": ["stopped", "stoped", "stopping"],
+      "answer": "stopped",
+      "explanation": "Regla CVC: en monosílabos terminados en consonante-vocal-consonante se duplica la consonante final antes de «-ed»: «stopped»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada participio con su traducción",
+      "pairs": [
+        { "en": "visited", "es": "visitado" },
+        { "en": "traveled", "es": "viajado" },
+        { "en": "studied", "es": "estudiado" },
+        { "en": "cleaned", "es": "limpiado" },
+        { "en": "finished", "es": "terminado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Fill in the blank: \"We have ___ that movie three times. It is fantastic.\"",
+      "options": ["seen", "saw", "see"],
+      "correct": 0,
+      "hint": "El Presente Perfecto exige el participio del verbo irregular «see».",
+      "explanation": "La estructura del Presente Perfecto exige el participio de pasado: para «see», la forma es «seen». «Saw» es pasado simple y «see» es la forma base."
+    },
+    {
+      "type": "speak",
+      "text": "They have studied English for three years.",
+      "es": "Ellos han estudiado inglés durante tres años."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hemos limpiado la cocina",
+      "direction": "es-en",
+      "tiles": ["We", "have", "cleaned", "the", "kitchen", "has", "clean"],
+      "answer": "We have cleaned the kitchen",
+      "explanation": "Participio regular «cleaned» (base + «-ed») tras el auxiliar «have». El resultado sigue vigente: la cocina está limpia ahora."
+    },
+    {
+      "type": "gap",
+      "text": "I've ___ my keys.",
+      "options": ["lost", "lose", "losing"],
+      "answer": "lost",
+      "explanation": "«I've» es la contracción de «I have»; le sigue el participio irregular «lost». El resultado presente: no tengo las llaves ahora."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence:",
+      "options": ["I have met her yesterday.", "I have meet her yesterday.", "I met her yesterday."],
+      "correct": 2,
+      "hint": "«Yesterday» es un contenedor de tiempo que ya se cerró.",
+      "explanation": "Con un marcador temporal cerrado como «yesterday» el Presente Perfecto queda prohibido: se usa Pasado Simple «met». Las otras opciones fuerzan el perfecto con tiempo determinado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él ha jugado al fútbol",
+      "direction": "es-en",
+      "tiles": ["He", "has", "played", "football", "is", "play"],
+      "answer": "He has played football",
+      "explanation": "La contracción «he's» aquí equivaldría a «he has» + participio «played», no a «he is». Participio regular: base + «-ed»."
+    },
+    {
+      "type": "gap",
+      "text": "I have ___ London.",
+      "options": ["visited", "visit", "visiting"],
+      "answer": "visited",
+      "explanation": "Presente Perfecto sin marca temporal: experiencia relevante hoy. Tras «have» va el participio regular «visited»."
+    }
+  ]
+}

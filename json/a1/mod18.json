@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod18",
+  "module": 18,
+  "title": "Present Simple: Affirmative",
+  "subtitle": "Presente Simple: Afirmativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "wake up", "es": "despertarse" },
+        { "en": "get up", "es": "levantarse" },
+        { "en": "wash", "es": "lavarse" },
+        { "en": "brush", "es": "cepillarse" },
+        { "en": "eat", "es": "comer" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct option: \"She ___ to school every day.\"",
+      "options": ["go", "gos", "goes"],
+      "correct": 2,
+      "hint": "Sujeto «she» y verbo terminado en -o.",
+      "explanation": "«She» es 3.ª persona del singular y «go» termina en «-o», así que se añade «-es»: «goes». «Go» carece de la desinencia obligatoria y «gos» no existe: los verbos en «-o» nunca añaden solo «-s»."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ TV every day.",
+      "options": ["watch", "watches", "watchs"],
+      "answer": "watches",
+      "explanation": "«Watch» termina en «-ch», por lo que la 3.ª persona añade «-es»: «watches». «Watchs» sería impronunciable en inglés."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella trabaja en un hospital",
+      "direction": "es-en",
+      "tiles": ["She", "works", "in", "a", "hospital", "work", "at"],
+      "answer": "She works in a hospital",
+      "explanation": "Con «she» (3.ª persona singular) el verbo lleva la desinencia «-s»: «works». Olvidar esa «-s» es el error número uno del A1."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is grammatically CORRECT?",
+      "options": ["He studies at home every day.", "He study English every afternoon.", "She studys at the library."],
+      "correct": 0,
+      "hint": "Consonante + «-y»: la «y» cambia a «i» y se añade «-es».",
+      "explanation": "«He studies» aplica bien la regla consonante + «-y» → «y→i + -es». «He study» omite la desinencia de 3.ª persona y «she studys» añade solo «-s», lo cual es incorrecto con consonante antes de la «y»."
+    },
+    {
+      "type": "gap",
+      "text": "He ___ a car.",
+      "options": ["have", "has", "haves"],
+      "answer": "has",
+      "explanation": "«Have» es el único verbo irregular del Presente Simple: la 3.ª persona es «has», nunca «haves» ni «have»."
+    },
+    {
+      "type": "speak",
+      "text": "I wake up at seven every morning.",
+      "es": "Me despierto a las siete cada mañana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "drink", "es": "beber" },
+        { "en": "go", "es": "ir" },
+        { "en": "come", "es": "venir" },
+        { "en": "arrive", "es": "llegar" },
+        { "en": "start", "es": "empezar" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "They ___ in a bank.",
+      "options": ["work", "works", "workes"],
+      "answer": "work",
+      "explanation": "«They» es 3.ª persona del PLURAL: no lleva desinencia. Añadir «-s» con «they» es un error de hipercorrección típico."
+    },
+    {
+      "type": "quiz",
+      "q": "Fill in the blank: \"My father ___ the car every Sunday.\"",
+      "options": ["washes", "wash", "washs"],
+      "correct": 0,
+      "hint": "«My father» equivale a «he» y el verbo termina en -sh.",
+      "explanation": "«My father» = «he» (3.ª singular) y «wash» termina en «-sh», que exige «-es»: «washes». «Wash» carece de desinencia y «washs» es una forma impronunciable que no existe."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo me despierto a las siete",
+      "direction": "es-en",
+      "tiles": ["I", "wake", "up", "at", "seven", "wakes"],
+      "answer": "I wake up at seven",
+      "explanation": "Con «I» el verbo va en forma base, sin desinencia: «I wake up». «I wakes» es un error de hipercorrección. Además, el pronombre sujeto es obligatorio en inglés."
+    },
+    {
+      "type": "gap",
+      "text": "I ___ up at seven.",
+      "options": ["wake", "wakes", "waking"],
+      "answer": "wake",
+      "explanation": "«I» nunca lleva la desinencia «-s»: solo «he/she/it» la reciben. «I wakes» es el error contrario por hipergeneralización."
+    },
+    {
+      "type": "quiz",
+      "q": "Read the text: \"Maria is a nurse. She ___ (work) at a big hospital. She ___ (start) at eight o'clock and ___ (finish) at four.\" What are the three missing forms?",
+      "options": ["work / start / finish", "works / start / finish", "works / starts / finishes"],
+      "correct": 2,
+      "hint": "El sujeto de los tres verbos es «she».",
+      "explanation": "Los tres verbos van con «she», así que los tres necesitan desinencia: «works» y «starts» (regla general «-s») y «finishes» («-es» por terminar en «-sh»). Las otras opciones dejan uno o más verbos sin concordancia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él va al colegio",
+      "direction": "es-en",
+      "tiles": ["He", "goes", "to", "school", "go", "gos"],
+      "answer": "He goes to school",
+      "explanation": "«Go» termina en «-o», así que la 3.ª persona es «goes». «He go» omite la desinencia y «gos» no existe."
+    },
+    {
+      "type": "speak",
+      "text": "She usually drinks coffee.",
+      "es": "Ella normalmente bebe café."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "finish", "es": "terminar" },
+        { "en": "work", "es": "trabajar" },
+        { "en": "study", "es": "estudiar" },
+        { "en": "read", "es": "leer" },
+        { "en": "watch", "es": "ver (TV, partido)" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "She ___ English.",
+      "options": ["study", "studies", "studys"],
+      "answer": "studies",
+      "explanation": "Consonante + «-y» (la «d» de «study»): la «y» cambia a «i» y se añade «-es» → «studies». «Studys» es el error clásico de examen."
+    },
+    {
+      "type": "quiz",
+      "q": "Which of the following sentences uses the Present Simple CORRECTLY to express a routine?",
+      "options": ["He always drives to work.", "She is walking to school every morning.", "They are usually eat lunch at noon."],
+      "correct": 0,
+      "hint": "Busca sujeto + adverbio de frecuencia + verbo con «-s».",
+      "explanation": "«He always drives to work» es la estructura canónica: sujeto + adverbio de frecuencia antes del verbo + desinencia «-s». La segunda usa Presente Continuo con un marcador de rutina («every morning») y la tercera mezcla el auxiliar «are» con la forma base «eat», agramatical en ambos tiempos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos trabajan en un banco",
+      "direction": "es-en",
+      "tiles": ["They", "work", "in", "a", "bank", "works"],
+      "answer": "They work in a bank",
+      "explanation": "«They» es plural: el verbo va en forma base sin «-s». «They works» es el error de hipercorrección que señala la tabla de diagnóstico."
+    },
+    {
+      "type": "gap",
+      "text": "He always ___ to work.",
+      "options": ["drive", "drives", "driving"],
+      "answer": "drives",
+      "explanation": "Sujeto «he» → desinencia «-s»: «drives». El adverbio «always» se coloca antes del verbo pleno y confirma que es una rutina en Presente Simple."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct?",
+      "options": ["He haves a car.", "He has a car.", "He have a car."],
+      "correct": 1,
+      "hint": "«Have» es el único verbo irregular del Presente Simple.",
+      "explanation": "La 3.ª persona de «have» es totalmente irregular: «has». «Have» sin desinencia es un error de concordancia y «haves» no existe en inglés."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella estudia inglés",
+      "direction": "es-en",
+      "tiles": ["She", "studies", "English", "studys", "study"],
+      "answer": "She studies English",
+      "explanation": "Consonante + «-y» → «y→i + -es»: «studies». «Studys» (solo «-s») y «study» (sin desinencia) son los dos errores típicos con este verbo."
+    },
+    {
+      "type": "speak",
+      "text": "He takes the bus to school.",
+      "es": "Él toma el autobús al colegio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "cook", "es": "cocinar" },
+        { "en": "clean", "es": "limpiar" },
+        { "en": "drive", "es": "conducir" },
+        { "en": "play", "es": "jugar / tocar (instrumento)" },
+        { "en": "visit", "es": "visitar" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "The class ___ at nine.",
+      "options": ["start", "starts", "startes"],
+      "answer": "starts",
+      "explanation": "Los horarios fijos usan Presente Simple, y «the class» equivale a «it» (3.ª singular): regla general, añadir solo «-s» → «starts»."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is grammatically correct?",
+      "options": ["She works every morning.", "Works every morning.", "Her works every morning."],
+      "correct": 0,
+      "hint": "El inglés no es una lengua pro-drop.",
+      "explanation": "En inglés el pronombre sujeto es OBLIGATORIO: «She works every morning». Omitirlo («Works every morning») es agramatical, aunque en español «Trabaja cada mañana» sea válido. «Her» es pronombre objeto, no sujeto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos comen pizza a menudo los viernes",
+      "direction": "es-en",
+      "tiles": ["They", "often", "eat", "pizza", "on", "Fridays", "eats"],
+      "answer": "They often eat pizza on Fridays",
+      "explanation": "El adverbio de frecuencia «often» va antes del verbo pleno, y con «they» el verbo no lleva «-s». «On Fridays» (con -s) significa «todos los viernes»."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ the piano every day.",
+      "options": ["play", "plays", "plaies"],
+      "answer": "plays",
+      "explanation": "Antes de la «y» hay VOCAL («a»), así que solo se añade «-s»: «plays». «Plaies» aplica mal la regla de la «y», que solo cambia tras consonante."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él termina el trabajo a las seis",
+      "direction": "es-en",
+      "tiles": ["He", "finishes", "work", "at", "six", "finish"],
+      "answer": "He finishes work at six",
+      "explanation": "«Finish» termina en «-sh»: la 3.ª persona añade «-es» → «finishes». Dejar el verbo sin desinencia es el error más penalizado en redacción."
+    },
+    {
+      "type": "speak",
+      "text": "The sun rises in the east.",
+      "es": "El sol sale por el este."
+    }
+  ]
+}

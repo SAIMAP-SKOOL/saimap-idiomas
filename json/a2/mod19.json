@@ -1,0 +1,424 @@
+{
+  "id": "a2-mod19",
+  "module": 19,
+  "title": "Present Perfect with For & Since",
+  "subtitle": "For y Since",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "for",
+          "es": "durante"
+        },
+        {
+          "en": "since",
+          "es": "desde"
+        },
+        {
+          "en": "duration",
+          "es": "duración"
+        },
+        {
+          "en": "period",
+          "es": "período"
+        },
+        {
+          "en": "point",
+          "es": "punto"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "They have studied English ___ five years.",
+      "options": [
+        "since",
+        "for",
+        "during"
+      ],
+      "correct": 1,
+      "hint": "«Five years» es una cantidad de tiempo que puedes contar con los dedos.",
+      "explanation": "«For» expresa la duración de un período continuo («five years»). «Since» exige un punto de inicio cronológico (como «since 2018») y «during» no se combina con duraciones numéricas en presente perfecto."
+    },
+    {
+      "type": "gap",
+      "text": "I have lived in this city ___ 2015.",
+      "options": [
+        "since",
+        "for",
+        "during"
+      ],
+      "answer": "since",
+      "explanation": "«2015» es un año concreto, un punto de inicio en el calendario: se usa «since». «For» se reserva para intervalos medibles como «for two years»."
+    },
+    {
+      "type": "speak",
+      "text": "I have lived in this city since 2015.",
+      "es": "Vivo en esta ciudad desde 2015."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella trabaja aquí desde hace seis meses",
+      "direction": "es-en",
+      "tiles": [
+        "She",
+        "has",
+        "worked",
+        "here",
+        "for",
+        "six",
+        "months",
+        "since"
+      ],
+      "answer": "She has worked here for six months",
+      "explanation": "El español usa presente («trabaja»), pero el inglés exige presente perfecto «has worked» + «for» porque «six months» es una duración cuantitativa."
+    },
+    {
+      "type": "quiz",
+      "q": "I have known my best friend ___ childhood.",
+      "options": [
+        "since",
+        "for",
+        "from"
+      ],
+      "correct": 0,
+      "hint": "La infancia es un punto de inicio vital, no una cantidad de tiempo.",
+      "explanation": "«Childhood» es un punto de inicio específico, así que requiere «since». «For» necesitaría una medida numérica de tiempo, y «from» no se usa con el presente perfecto para denotar continuidad hasta el presente."
+    },
+    {
+      "type": "gap",
+      "text": "She has worked here ___ three years.",
+      "options": [
+        "for",
+        "since",
+        "during"
+      ],
+      "answer": "for",
+      "explanation": "«Three years» es una medida total de tiempo (intervalo), por lo que requiere obligatoriamente «for». Decir «since three years» es un error típico de examen."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "year",
+          "es": "año"
+        },
+        {
+          "en": "month",
+          "es": "mes"
+        },
+        {
+          "en": "week",
+          "es": "semana"
+        },
+        {
+          "en": "day",
+          "es": "día"
+        },
+        {
+          "en": "hour",
+          "es": "hora"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nos conocemos desde hace años",
+      "direction": "es-en",
+      "tiles": [
+        "We",
+        "have",
+        "known",
+        "each",
+        "other",
+        "for",
+        "years",
+        "since"
+      ],
+      "answer": "We have known each other for years",
+      "explanation": "En español es reflexivo presente («nos conocemos»); en inglés se requiere el participio «known» con el marcador de duración «for»."
+    },
+    {
+      "type": "quiz",
+      "q": "She ___ in that office since last Monday.",
+      "options": [
+        "works",
+        "is working",
+        "has worked"
+      ],
+      "correct": 2,
+      "hint": "«Since» conecta el pasado con el presente: solo un tiempo verbal lo permite.",
+      "explanation": "Solo el presente perfecto «has worked» integra el punto de origen que marca «since». El presente simple «works» no admite complementos de duración conectados al pasado y «is working» es incompatible con «since last Monday»."
+    },
+    {
+      "type": "gap",
+      "text": "We have been friends ___ Monday.",
+      "options": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "answer": "since",
+      "explanation": "«Monday» es un punto de inicio específico en el calendario; requiere el marcador de origen «since», nunca «for». «Ago» es exclusivo del pasado simple."
+    },
+    {
+      "type": "speak",
+      "text": "She has worked here for six months.",
+      "es": "Ella trabaja aquí desde hace seis meses."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Vivo aquí desde 2020",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "have",
+        "lived",
+        "here",
+        "since",
+        "2020",
+        "live"
+      ],
+      "answer": "I have lived here since 2020",
+      "explanation": "El español usa presente simple («vivo»), pero el inglés exige presente perfecto «have lived» porque la acción comenzó en el pasado y sigue activa."
+    },
+    {
+      "type": "quiz",
+      "q": "We have been in the library for ___.",
+      "options": [
+        "three hours",
+        "yesterday",
+        "last week"
+      ],
+      "correct": 0,
+      "hint": "«For» necesita una duración que se pueda contar.",
+      "explanation": "«Three hours» es una duración cuantificable compatible con «for». «Yesterday» y «last week» son puntos cronológicos concretos que obligatoriamente requerirían «since»."
+    },
+    {
+      "type": "gap",
+      "text": "He has ___ this car since January.",
+      "options": [
+        "had",
+        "has",
+        "have"
+      ],
+      "answer": "had",
+      "explanation": "Choque de homonimia del verbo «have»: el auxiliar es «has» y el verbo léxico va en participio «had». La estructura es «He has had this car since January»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "childhood",
+          "es": "infancia"
+        },
+        {
+          "en": "summer",
+          "es": "verano"
+        },
+        {
+          "en": "winter",
+          "es": "invierno"
+        },
+        {
+          "en": "century",
+          "es": "siglo"
+        },
+        {
+          "en": "long time",
+          "es": "mucho tiempo"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tiene este coche desde enero",
+      "direction": "es-en",
+      "tiles": [
+        "He",
+        "has",
+        "had",
+        "this",
+        "car",
+        "since",
+        "January",
+        "for"
+      ],
+      "answer": "He has had this car since January",
+      "explanation": "«January» es un punto de inicio, así que se usa «since». Observa el doble «have»: «has» es el auxiliar y «had» el participio del verbo tener."
+    },
+    {
+      "type": "quiz",
+      "q": "Have you believed in that theory ___ a long time?",
+      "options": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "correct": 1,
+      "hint": "«A long time» expresa una extensión de tiempo, no un momento de inicio.",
+      "explanation": "«For» es la colocación idónea con «a long time» para denotar un intervalo extenso. «Since» exige un hito de comienzo y «ago» pertenece al pasado simple y va al final de la expresión (como en «three years ago»)."
+    },
+    {
+      "type": "gap",
+      "text": "I have been here ___ two hours.",
+      "options": [
+        "for",
+        "since",
+        "during"
+      ],
+      "answer": "for",
+      "explanation": "«Two hours» es una duración cuantitativa: se usa «for». El error típico «*I am here since two hours» combina presente simple y «since» con un intervalo, dos fallos a la vez."
+    },
+    {
+      "type": "speak",
+      "text": "We have known each other for years.",
+      "es": "Nos conocemos desde hace años."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Estamos en la biblioteca desde hace tres horas",
+      "direction": "es-en",
+      "tiles": [
+        "We",
+        "have",
+        "been",
+        "in",
+        "the",
+        "library",
+        "for",
+        "three",
+        "hours",
+        "since"
+      ],
+      "answer": "We have been in the library for three hours",
+      "explanation": "El presente español («estamos») se traduce con presente perfecto «have been» + «for» porque «three hours» mide la duración acumulada hasta ahora."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is grammatically CORRECT?",
+      "options": [
+        "I am here since two hours.",
+        "I have been here for two hours.",
+        "I have been here since two hours."
+      ],
+      "correct": 1,
+      "hint": "Necesitas presente perfecto y el marcador adecuado para una duración.",
+      "explanation": "La correcta usa presente perfecto «have been» y «for» con la duración «two hours». La primera opción usa presente simple (calco del español) y la tercera combina «since» con un intervalo cuantitativo, lo cual es incorrecto."
+    },
+    {
+      "type": "gap",
+      "text": "They have studied English since ___.",
+      "options": [
+        "last year",
+        "five years",
+        "a long time"
+      ],
+      "answer": "last year",
+      "explanation": "«Since» exige un punto de origen del calendario como «last year». «Five years» y «a long time» son duraciones que requerirían «for»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "know",
+          "es": "conocer"
+        },
+        {
+          "en": "live",
+          "es": "vivir"
+        },
+        {
+          "en": "work",
+          "es": "trabajar"
+        },
+        {
+          "en": "study",
+          "es": "estudiar"
+        },
+        {
+          "en": "believe",
+          "es": "creer"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Conozco a mi mejor amigo desde la infancia",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "have",
+        "known",
+        "my",
+        "best",
+        "friend",
+        "since",
+        "childhood",
+        "for"
+      ],
+      "answer": "I have known my best friend since childhood",
+      "explanation": "«Childhood» es un punto de inicio vital: se usa «since». El verbo de estado «know» va en participio «known» tras el auxiliar «have»."
+    },
+    {
+      "type": "gap",
+      "text": "She has worked in that office ___ last Monday.",
+      "options": [
+        "since",
+        "for",
+        "during"
+      ],
+      "answer": "since",
+      "explanation": "«Last Monday» es un punto temporal concreto del calendario que solo admite «since». «For» se usaría con una cantidad como «for three days»."
+    },
+    {
+      "type": "speak",
+      "text": "They have studied English for five years.",
+      "es": "Ellos estudian inglés desde hace cinco años."
+    },
+    {
+      "type": "quiz",
+      "q": "How do you say \"Vivo en Madrid desde hace cinco años\" in English?",
+      "options": [
+        "I live in Madrid for five years.",
+        "I have lived in Madrid for five years.",
+        "I have lived in Madrid since five years."
+      ],
+      "correct": 1,
+      "hint": "Si la acción empezó en el pasado y sigue ocurriendo, cambia el chip: presente perfecto.",
+      "explanation": "El presente español se traduce con presente perfecto «have lived» y, al ser «five years» una duración, el marcador es «for». La primera opción es el calco erróneo con presente simple y la tercera usa «since» con un intervalo."
+    },
+    {
+      "type": "gap",
+      "text": "I have believed in that theory for a ___ time.",
+      "options": [
+        "long",
+        "since",
+        "point"
+      ],
+      "answer": "long",
+      "explanation": "«For a long time» («durante mucho tiempo») es la expresión de generalización temporal que acompaña a «for» para intervalos extensos e indeterminados."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Somos amigos desde el lunes",
+      "direction": "es-en",
+      "tiles": [
+        "We",
+        "have",
+        "been",
+        "friends",
+        "since",
+        "Monday",
+        "for"
+      ],
+      "answer": "We have been friends since Monday",
+      "explanation": "«Monday» es un nombre propio del calendario: marcador «since». El verbo «be» va en participio «been» tras el auxiliar «have»."
+    }
+  ]
+}

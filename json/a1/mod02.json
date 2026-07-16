@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod02",
+  "module": 2,
+  "title": "Verb To Be: Affirmative",
+  "subtitle": "El Verbo To Be en Afirmativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada país o nacionalidad con su traducción",
+      "pairs": [
+        { "en": "Spain", "es": "España" },
+        { "en": "Spanish", "es": "español/a" },
+        { "en": "Germany", "es": "Alemania" },
+        { "en": "French", "es": "francés/a" },
+        { "en": "England", "es": "Inglaterra" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "She ___ German.",
+      "options": ["is", "are", "am"],
+      "answer": "is",
+      "explanation": "Tercera persona del singular (he/she/it) se empareja exclusivamente con «is». Además, «German» lleva mayúscula obligatoria por ser adjetivo de nacionalidad."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the sentence: \"Carlos and Sarah ___ American.\"",
+      "options": ["is", "are", "am"],
+      "correct": 1,
+      "hint": "¿A qué pronombre equivale «Carlos and Sarah»?",
+      "explanation": "El sujeto compuesto «Carlos and Sarah» equivale a They (plural), por lo que exige «are». «Is» es solo para tercera persona singular y «am» solo para «I»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella es alemana",
+      "direction": "es-en",
+      "tiles": ["She", "is", "German", "german", "are", "a"],
+      "answer": "She is German",
+      "explanation": "Los adjetivos de nacionalidad siempre llevan mayúscula inicial en inglés: «German», nunca «german». Las nacionalidades no llevan artículo."
+    },
+    {
+      "type": "quiz",
+      "q": "Identify the grammatically correct response to: \"Are you in the classroom?\"",
+      "options": ["Yes, I'm.", "Yes, I is.", "Yes, I am."],
+      "correct": 2,
+      "hint": "Hay una regla sobre contracciones a final de frase.",
+      "explanation": "Las respuestas cortas afirmativas prohíben la contracción a final de cláusula: se dice «Yes, I am», nunca «Yes, I'm». «I is» es una discordancia grave."
+    },
+    {
+      "type": "gap",
+      "text": "John and I ___ students.",
+      "options": ["are", "am", "is"],
+      "answer": "are",
+      "explanation": "El sujeto real es «John and I», que equivale a We (nosotros). Aunque veas el pronombre «I», la concordancia la manda el conjunto plural: «are»."
+    },
+    {
+      "type": "speak",
+      "text": "I am Spanish.",
+      "es": "Soy español."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra del aula con su traducción",
+      "pairs": [
+        { "en": "school", "es": "escuela" },
+        { "en": "university", "es": "universidad" },
+        { "en": "classroom", "es": "aula" },
+        { "en": "desk", "es": "escritorio" },
+        { "en": "chair", "es": "silla" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence displays correct capitalization and grammar?",
+      "options": ["My teacher is french.", "My teacher is French.", "My teacher are French."],
+      "correct": 1,
+      "hint": "Fíjate en la mayúscula y en la concordancia.",
+      "explanation": "«French» exige mayúscula por ser adjetivo de nacionalidad, y «My teacher» es singular (he/she), así que concuerda con «is», no con «are»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros somos estudiantes",
+      "direction": "es-en",
+      "tiles": ["We", "are", "students", "am", "is", "the"],
+      "answer": "We are students",
+      "explanation": "Sujeto plural «We» + «are». En plural las profesiones no llevan artículo: «We are students», no «the students»."
+    },
+    {
+      "type": "gap",
+      "text": "The chairs ___ in the classroom.",
+      "options": ["are", "is", "am"],
+      "answer": "are",
+      "explanation": "«The chairs» es plural (equivale a they), por lo que exige «are». Compara: «The chair is...» (singular) vs. «The chairs are...» (plural)."
+    },
+    {
+      "type": "quiz",
+      "q": "In a formal business report, which of the following is preferred?",
+      "options": ["The company is in England.", "The company's in England.", "The company are in England."],
+      "correct": 0,
+      "hint": "Piensa en el registro formal.",
+      "explanation": "El registro formal prefiere las formas completas («is») frente a las contracciones («'s»). «The company» es singular (it), así que «are» es agramatical."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La silla está en el aula",
+      "direction": "es-en",
+      "tiles": ["The", "chair", "is", "in", "the", "classroom", "are"],
+      "answer": "The chair is in the classroom",
+      "explanation": "El inglés usa la misma cópula «is» para ser y estar: la ubicación también se expresa con to be. Sujeto singular ⇒ «is»."
+    },
+    {
+      "type": "speak",
+      "text": "We are students.",
+      "es": "Somos estudiantes."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja más países y nacionalidades",
+      "pairs": [
+        { "en": "Italy", "es": "Italia" },
+        { "en": "Italian", "es": "italiano/a" },
+        { "en": "Japan", "es": "Japón" },
+        { "en": "Chinese", "es": "chino/a" },
+        { "en": "Mexico", "es": "México" }
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja el vocabulario de estudio y trabajo",
+      "pairs": [
+        { "en": "job", "es": "empleo" },
+        { "en": "occupation", "es": "ocupación" },
+        { "en": "lesson", "es": "lección" },
+        { "en": "class", "es": "clase" },
+        { "en": "work", "es": "trabajo / trabajar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which is the correct contraction of \"They are\"?",
+      "options": ["They're", "Theyre'", "They's"],
+      "correct": 0,
+      "hint": "El apóstrofo sustituye a la vocal elidida.",
+      "explanation": "La contracción funde pronombre y verbo con apóstrofo en el lugar de la vocal elidida: «They're» /ðéiar/. «They's» mezcla persona y verbo incompatibles."
+    },
+    {
+      "type": "quiz",
+      "q": "You want to emphasize a fact in a discussion: \"I ___ the manager!\" Which form adds emphasis?",
+      "options": ["am", "'m", "is"],
+      "correct": 0,
+      "hint": "El énfasis exige peso fonético completo.",
+      "explanation": "Para recalcar la veracidad se usa la forma completa separada: «I AM the manager» (Yo SÍ soy el gerente). La contracción «I'm» diluye el énfasis e «is» no concuerda con «I»."
+    },
+    {
+      "type": "quiz",
+      "q": "How is the final \"s\" pronounced in \"She's\"?",
+      "options": ["/z/ (sonora, con vibración)", "/s/ (sorda, sin vibración)", "/sh/ (fricativa)"],
+      "correct": 0,
+      "hint": "Va después de un sonido de vocal.",
+      "explanation": "En «He's» y «She's» la «s» sigue a una vocal (sonido sonoro) y se pronuncia /z/, como un zumbido de abeja. En «It's» tras la /t/ sorda suena /s/ limpia."
+    },
+    {
+      "type": "gap",
+      "text": "I ___ from Mexico.",
+      "options": ["am", "is", "are"],
+      "answer": "am",
+      "explanation": "Primera persona del singular: «I» se empareja exclusivamente con «am». La procedencia se expresa con to be + from + país."
+    },
+    {
+      "type": "gap",
+      "text": "We ___ in the classroom.",
+      "options": ["are", "is", "am"],
+      "answer": "are",
+      "explanation": "«We» (nosotros) exige la forma plural «are». La ubicación se expresa con la misma cópula que la identidad: to be."
+    },
+    {
+      "type": "gap",
+      "text": "It ___ a new desk.",
+      "options": ["is", "are", "am"],
+      "answer": "is",
+      "explanation": "«It» es tercera persona singular ⇒ «is». Los objetos inanimados como el escritorio usan el pronombre neutro «it»."
+    },
+    {
+      "type": "gap",
+      "text": "You ___ my friend.",
+      "options": ["are", "is", "am"],
+      "answer": "are",
+      "explanation": "«You» siempre se empareja con «are», tanto en singular (tú/usted) como en plural (vosotros/ustedes). «You is» es una discordancia clásica."
+    },
+    {
+      "type": "gap",
+      "text": "The desk and the chair ___ new.",
+      "options": ["are", "is", "am"],
+      "answer": "are",
+      "explanation": "Sujeto compuesto («the desk and the chair» = they) ⇒ concordancia plural «are», aunque cada sustantivo sea singular por separado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo soy de España",
+      "direction": "es-en",
+      "tiles": ["I", "am", "from", "Spain", "Spanish", "is"],
+      "answer": "I am from Spain",
+      "explanation": "Procedencia: to be + from + país. «I am from Spain» (soy de España) ≠ «I am Spanish» (soy español, con adjetivo)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él es japonés",
+      "direction": "es-en",
+      "tiles": ["He", "is", "Japanese", "Japan", "are", "a"],
+      "answer": "He is Japanese",
+      "explanation": "Nacionalidad = adjetivo con mayúscula y sin artículo: «He is Japanese». «Japan» es el país, no la nacionalidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella está en la universidad",
+      "direction": "es-en",
+      "tiles": ["She", "is", "at", "the", "university", "are"],
+      "answer": "She is at the university",
+      "explanation": "El inglés no tiene un verbo «estar» separado: la ubicación usa to be. «At» marca el punto donde se encuentra."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos son americanos",
+      "direction": "es-en",
+      "tiles": ["They", "are", "American", "Americans", "is"],
+      "answer": "They are American",
+      "explanation": "Como adjetivo de nacionalidad, «American» es invariable y con mayúscula: «They are American». (Como sustantivo también existe «Americans», pero el adjetivo es la forma estándar aquí)."
+    },
+    {
+      "type": "speak",
+      "text": "She is from Japan.",
+      "es": "Ella es de Japón."
+    },
+    {
+      "type": "speak",
+      "text": "The classroom is new.",
+      "es": "El aula es nueva."
+    }
+  ]
+}

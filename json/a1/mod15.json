@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod15",
+  "module": 15,
+  "title": "Prepositions of Place",
+  "subtitle": "Preposiciones de Lugar",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada preposición con su significado",
+      "pairs": [
+        { "en": "in", "es": "en, dentro de (volumen)" },
+        { "en": "on", "es": "en, sobre (superficie)" },
+        { "en": "at", "es": "en (punto exacto)" },
+        { "en": "under", "es": "debajo de" },
+        { "en": "behind", "es": "detrás de" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the sentence: \"The teacher wrote the homework __________ the board.\"",
+      "options": ["in", "on", "at"],
+      "correct": 1,
+      "hint": "La pizarra es un plano vertical con contacto físico directo.",
+      "explanation": "«On» es correcta porque la pizarra es una superficie de soporte (plano vertical con contacto). «In» significaría que la tarea está dentro del material de la pizarra, y «at» solo indicaría proximidad sin contacto."
+    },
+    {
+      "type": "gap",
+      "text": "The keys are ___ the drawer.",
+      "options": ["in", "on", "at"],
+      "answer": "in",
+      "explanation": "El cajón es un contenedor tridimensional cerrado: la contención volumétrica exige «in»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Las llaves están en el cajón",
+      "direction": "es-en",
+      "tiles": ["The", "keys", "are", "in", "the", "drawer", "on", "at"],
+      "answer": "The keys are in the drawer",
+      "explanation": "El cajón es un contenedor cerrado, por eso se usa «in» y no «on» ni «at». El español usa «en» para todo, pero el inglés distingue la geometría del espacio."
+    },
+    {
+      "type": "quiz",
+      "q": "Where is the error in this sentence? \"We arrived in the airport at 5:00 PM.\"",
+      "options": ["The preposition 'in' should be 'at'.", "The preposition 'at' should be 'on'.", "There is no error in the sentence."],
+      "correct": 0,
+      "hint": "El aeropuerto aquí es un punto funcional en un itinerario de viaje.",
+      "explanation": "El aeropuerto se concibe como un punto funcional de una ruta, por lo que la norma es «at the airport». «At 5:00 PM» sí es correcto para horas concretas, así que la segunda opción falla, y la frase original es agramatical."
+    },
+    {
+      "type": "gap",
+      "text": "The clock is ___ the wall.",
+      "options": ["in", "on", "at"],
+      "answer": "on",
+      "explanation": "La pared es un plano vertical que soporta el peso del reloj: contacto sobre superficie exige «on»."
+    },
+    {
+      "type": "speak",
+      "text": "The keys are in the drawer.",
+      "es": "Las llaves están en el cajón."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada preposición compuesta con su traducción",
+      "pairs": [
+        { "en": "between", "es": "entre (dos objetos)" },
+        { "en": "next to", "es": "al lado de" },
+        { "en": "in front of", "es": "delante de" },
+        { "en": "above", "es": "por encima de (sin contacto)" },
+        { "en": "opposite", "es": "enfrente de (cara a cara)" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "We live ___ Madrid.",
+      "options": ["in", "on", "at"],
+      "answer": "in",
+      "explanation": "Las ciudades son límites geográficos definidos: con países, ciudades y regiones se usa invariablemente «in»."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence to specify a residence location:",
+      "options": ["I live on 45 Green Avenue.", "I live at 45 Green Avenue.", "I live in 45 Green Avenue."],
+      "correct": 1,
+      "hint": "La dirección incluye el número exacto del portal.",
+      "explanation": "Al dar el número de portal (45) la dirección es un punto exacto de dimensión cero, y eso exige «at». «On» solo valdría sin número (I live on Green Avenue) e «in» se reserva para áreas completas como ciudades."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El reloj está en la pared",
+      "direction": "es-en",
+      "tiles": ["The", "clock", "is", "on", "the", "wall", "in", "at"],
+      "answer": "The clock is on the wall",
+      "explanation": "La pared es una superficie vertical de contacto y soporte: se usa «on». El hispanohablante tiende al calco «in the wall», que significaría dentro del muro."
+    },
+    {
+      "type": "gap",
+      "text": "We are ___ the bus.",
+      "options": ["in", "on", "at"],
+      "answer": "on",
+      "explanation": "El autobús es transporte público transitable (puedes caminar de pie por el pasillo): la regla exige «on», no el calco español «in the bus»."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the description: \"The cat is hiding __________ the door and the wall.\"",
+      "options": ["between", "next to", "behind"],
+      "correct": 0,
+      "hint": "Se mencionan dos elementos de referencia unidos por «and».",
+      "explanation": "Al haber dos elementos delimitadores («the door» y «the wall») unidos por «and», la única preposición gramatical es «between». «Next to» y «behind» no pueden introducir dos complementos coordinados."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Estamos en el autobús",
+      "direction": "es-en",
+      "tiles": ["We", "are", "on", "the", "bus", "in", "at"],
+      "answer": "We are on the bus",
+      "explanation": "El autobús permite viajar de pie y caminar por el pasillo, así que usa «on». «In the bus» es el error típico por calco del español «en el autobús»."
+    },
+    {
+      "type": "speak",
+      "text": "My house is next to the supermarket.",
+      "es": "Mi casa está al lado del supermercado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su traducción",
+      "pairs": [
+        { "en": "wall", "es": "pared" },
+        { "en": "ceiling", "es": "techo" },
+        { "en": "floor", "es": "suelo" },
+        { "en": "drawer", "es": "cajón" },
+        { "en": "corner", "es": "esquina" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "She is ___ the car.",
+      "options": ["in", "on", "at"],
+      "answer": "in",
+      "explanation": "En vehículos pequeños donde se viaja sentado y no se puede caminar (coche, taxi) se usa «in», a diferencia del bus o el tren («on»)."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence correctly describes a person's position inside a public transport vehicle?",
+      "options": ["She is sitting in the train.", "She is sitting on the train.", "She is sitting at the train."],
+      "correct": 1,
+      "hint": "En el tren el pasajero puede caminar de pie por el pasillo.",
+      "explanation": "El tren es transporte público de gran tamaño donde se puede caminar, por lo que exige «on». «In the train» es un error por influencia del español y «at the train» situaría a la persona junto al tren, en el andén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él está en la cocina",
+      "direction": "es-en",
+      "tiles": ["He", "is", "in", "the", "kitchen", "on"],
+      "answer": "He is in the kitchen",
+      "explanation": "La cocina es un volumen tridimensional cerrado (una habitación), por eso requiere «in». «On the kitchen» es un error diagnóstico típico del módulo."
+    },
+    {
+      "type": "gap",
+      "text": "He is ___ work.",
+      "options": ["in", "on", "at"],
+      "answer": "at",
+      "explanation": "«At work» destaca la función del lugar (estar trabajando), no el edificio físico: los ámbitos institucionales y funcionales usan «at»."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct?",
+      "options": ["He is on the kitchen.", "He is at the kitchen.", "He is in the kitchen."],
+      "correct": 2,
+      "hint": "La cocina es una habitación: un volumen cerrado.",
+      "explanation": "La cocina es un contenedor tridimensional cerrado y requiere «in». «On» se reserva para superficies de contacto y «at» para puntos funcionales, no para estar dentro de una habitación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él está en el trabajo",
+      "direction": "es-en",
+      "tiles": ["He", "is", "at", "work", "in", "the"],
+      "answer": "He is at work",
+      "explanation": "«At work» es una localización funcional (estar trabajando): sin artículo y con «at». El calco «in the work» es incorrecto."
+    },
+    {
+      "type": "speak",
+      "text": "He is at work.",
+      "es": "Él está en el trabajo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su traducción",
+      "pairs": [
+        { "en": "bus stop", "es": "parada de autobús" },
+        { "en": "station", "es": "estación" },
+        { "en": "kitchen", "es": "cocina" },
+        { "en": "lake", "es": "lago" },
+        { "en": "park", "es": "parque" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "I am waiting ___ the bus stop.",
+      "options": ["in", "on", "at"],
+      "answer": "at",
+      "explanation": "La parada es un punto de referencia en un trayecto (dimensión cero): los puntos de una ruta usan «at»."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence:",
+      "options": ["She is sitting next the window.", "She is sitting next to the window.", "She is sitting next of the window."],
+      "correct": 1,
+      "hint": "La preposición compuesta necesita una partícula obligatoria.",
+      "explanation": "La preposición compuesta es «next to»: la partícula «to» es obligatoria. Omitirla («next the window») o sustituirla por «of» son errores típicos que señala la tabla de diagnóstico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El gato está durmiendo debajo de la cama",
+      "direction": "es-en",
+      "tiles": ["The", "cat", "is", "sleeping", "under", "the", "bed", "on"],
+      "answer": "The cat is sleeping under the bed",
+      "explanation": "«Under» indica posición inferior cubierta por un plano superior (la cama). «On the bed» significaría encima de la cama."
+    },
+    {
+      "type": "gap",
+      "text": "The fly is ___ the ceiling.",
+      "options": ["in", "on", "at"],
+      "answer": "on",
+      "explanation": "El techo es un plano invertido que actúa como soporte de contacto: exige «on». «In the ceiling» significaría dentro del material del techo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El coche está aparcado detrás de la casa",
+      "direction": "es-en",
+      "tiles": ["The", "car", "is", "parked", "behind", "the", "house", "between"],
+      "answer": "The car is parked behind the house",
+      "explanation": "«Behind» sitúa la figura en la parte posterior del fondo (detrás de). «Between» requeriría dos objetos de referencia."
+    },
+    {
+      "type": "speak",
+      "text": "The bank is between the library and the chemist.",
+      "es": "El banco está entre la biblioteca y la farmacia."
+    }
+  ]
+}

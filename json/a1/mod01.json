@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod01",
+  "module": 1,
+  "title": "Greetings and Identity",
+  "subtitle": "Saludos e Identidad",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "hello", "es": "hola" },
+        { "en": "goodbye", "es": "adiós" },
+        { "en": "please", "es": "por favor" },
+        { "en": "thank you", "es": "gracias" },
+        { "en": "name", "es": "nombre" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the grammatically correct sentence for introducing your occupation:",
+      "options": ["I am doctor.", "I am a doctor.", "I am the doctor."],
+      "correct": 1,
+      "hint": "Las profesiones singulares en inglés nunca van «desnudas».",
+      "explanation": "Las profesiones singulares requieren el artículo clasificador a/an: «I am a doctor». Omitirlo es un calco del español, y «the» solo se usaría para un médico específico ya conocido."
+    },
+    {
+      "type": "gap",
+      "text": "I am ___ teacher.",
+      "options": ["a", "an", "the"],
+      "answer": "a",
+      "explanation": "Las profesiones en singular exigen el artículo indefinido. «Teacher» empieza con sonido de consonante /t/, así que corresponde «a»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Soy estudiante",
+      "direction": "es-en",
+      "tiles": ["I", "am", "a", "student", "is", "the"],
+      "answer": "I am a student",
+      "explanation": "Sujeto obligatorio (I) + verbo (am) + artículo clasificador (a) + profesión (student). En inglés no se puede omitir ni el sujeto ni el artículo."
+    },
+    {
+      "type": "quiz",
+      "q": "You arrive at a business meeting at 8:00 PM. How should you greet the attendees?",
+      "options": ["Good night.", "Goodbye.", "Good evening."],
+      "correct": 2,
+      "hint": "Una de las opciones es solo de despedida.",
+      "explanation": "«Good evening» es el saludo de apertura para las horas de tarde-noche. «Good night» se usa exclusivamente para despedirse o ir a dormir, y «Goodbye» es una despedida."
+    },
+    {
+      "type": "speak",
+      "text": "Hello, my name is John.",
+      "es": "Hola, me llamo John."
+    },
+    {
+      "type": "gap",
+      "text": "I am 25 years ___.",
+      "options": ["old", "age", "have"],
+      "answer": "old",
+      "explanation": "La edad en inglés es un estado del ser: to be + número + years + old. Si mencionas «years», es obligatorio cerrar con «old»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tengo 30 años",
+      "direction": "es-en",
+      "tiles": ["I", "am", "30", "years", "old", "have"],
+      "answer": "I am 30 years old",
+      "explanation": "En inglés la edad no se posee (have), se es: «I am 30 years old». El calco «I have 30 years» es agramatical."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada profesión y estado con su traducción",
+      "pairs": [
+        { "en": "teacher", "es": "profesor/a" },
+        { "en": "student", "es": "estudiante" },
+        { "en": "nurse", "es": "enfermero/a" },
+        { "en": "single", "es": "soltero/a" },
+        { "en": "married", "es": "casado/a" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence correctly states a person's age?",
+      "options": ["She is 30 years old.", "She has 30 years.", "She is 30 years."],
+      "correct": 0,
+      "hint": "La edad es un estado, no una posesión.",
+      "explanation": "La edad se expresa con to be + old. «She has 30 years» es un calco del verbo tener, y «She is 30 years» deja la frase incompleta: si aparece «years», debe cerrarse con «old»."
+    },
+    {
+      "type": "gap",
+      "text": "___ am from Spain.",
+      "options": ["I", "i", "Am"],
+      "answer": "I",
+      "explanation": "El inglés prohíbe omitir el sujeto (non-pro-drop) y el pronombre «I» se escribe siempre en mayúscula, en cualquier posición de la frase."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella es enfermera",
+      "direction": "es-en",
+      "tiles": ["She", "is", "a", "nurse", "an", "are"],
+      "answer": "She is a nurse",
+      "explanation": "Profesión singular ⇒ artículo clasificador obligatorio: «She is a nurse». «Nurse» empieza por sonido consonántico, así que lleva «a», no «an»."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the dialogue: — \"Excuse me, where is the station?\" — \"Sorry, I don't ___.\"",
+      "options": ["speak", "understand", "single"],
+      "correct": 1,
+      "hint": "Es la frase de emergencia social estándar.",
+      "explanation": "«I don't understand» (no entiendo) es la fórmula estándar. «Speak» exigiría especificar un idioma y «single» es un adjetivo de estado civil sin sentido aquí."
+    },
+    {
+      "type": "speak",
+      "text": "I am a student.",
+      "es": "Soy estudiante."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja saludos y cortesía",
+      "pairs": [
+        { "en": "hi", "es": "hola (informal)" },
+        { "en": "bye", "es": "adiós (corto)" },
+        { "en": "thanks", "es": "gracias (informal)" },
+        { "en": "friend", "es": "amigo/a" },
+        { "en": "city", "es": "ciudad" }
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja los datos de contacto",
+      "pairs": [
+        { "en": "address", "es": "dirección" },
+        { "en": "phone", "es": "teléfono" },
+        { "en": "email", "es": "correo electrónico" },
+        { "en": "street", "es": "calle" },
+        { "en": "country", "es": "país" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "You are about to ask a stranger for directions. What do you say first?",
+      "options": ["Sorry.", "Excuse me.", "Good night."],
+      "correct": 1,
+      "hint": "Una disculpa es proactiva y la otra reactiva.",
+      "explanation": "«Excuse me» se usa ANTES de interrumpir o molestar (disculpa proactiva). «Sorry» se usa DESPUÉS de cometer el error (reactiva). Mnemotecnia: Excuse me = Empezar; Sorry = Sucedió."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct article: \"She is ___ engineer.\"",
+      "options": ["a", "an", "the"],
+      "correct": 1,
+      "hint": "La regla depende del sonido, no de la letra.",
+      "explanation": "«Engineer» empieza con sonido de vocal /e/, así que exige «an». La elección a/an se rige por la fonética: por eso decimos «a university» (/ju:/) pero «an hour» (h muda)."
+    },
+    {
+      "type": "quiz",
+      "q": "How do you address a married woman formally in writing?",
+      "options": ["Miss", "Mrs.", "Sir"],
+      "correct": 1,
+      "hint": "Uno de los tratamientos es para hombres.",
+      "explanation": "«Mrs.» /mísis/ es el tratamiento para una mujer casada; «Miss» se usa para una mujer soltera y «Sir» es el tratamiento respetuoso para un hombre."
+    },
+    {
+      "type": "gap",
+      "text": "___ me, where is the station?",
+      "options": ["Excuse", "Sorry", "Please"],
+      "answer": "Excuse",
+      "explanation": "Antes de interrumpir a alguien se usa la disculpa proactiva «Excuse me». «Sorry» sería para después de causar la molestia."
+    },
+    {
+      "type": "gap",
+      "text": "My phone ___ is 555-1234.",
+      "options": ["number", "name", "address"],
+      "answer": "number",
+      "explanation": "El teléfono se declara con «My phone number is...» y los dígitos se dictan de uno en uno: five, five, five..."
+    },
+    {
+      "type": "gap",
+      "text": "Good ___! See you tomorrow. (te vas a dormir)",
+      "options": ["night", "evening", "morning"],
+      "answer": "night",
+      "explanation": "«Good night» es exclusivamente una fórmula de despedida o de irse a dormir. Para saludar al llegar por la noche se usa «Good evening»."
+    },
+    {
+      "type": "gap",
+      "text": "He is a police ___.",
+      "options": ["officer", "office", "work"],
+      "answer": "officer",
+      "explanation": "La profesión es «police officer» (oficial de policía). «Office» es la oficina (el lugar), un falso amigo típico."
+    },
+    {
+      "type": "gap",
+      "text": "The email symbol @ is read as ___.",
+      "options": ["at", "dot", "and"],
+      "answer": "at",
+      "explanation": "La arroba (@) se lee «at» /æt/ y el punto (.) se lee «dot». Ejemplo: john@example.com = «john at example dot com»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él es médico",
+      "direction": "es-en",
+      "tiles": ["He", "is", "a", "doctor", "the", "an"],
+      "answer": "He is a doctor",
+      "explanation": "Profesión singular ⇒ «He is a doctor», con artículo clasificador obligatorio. «Doctor» empieza por consonante /d/, así que lleva «a»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Estoy casado",
+      "direction": "es-en",
+      "tiles": ["I", "am", "married", "single", "is"],
+      "answer": "I am married",
+      "explanation": "Estado civil con to be: «I am married». Recuerda el sujeto obligatorio: «Am married» sería agramatical."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mi dirección es 10 Green Street",
+      "direction": "es-en",
+      "tiles": ["My", "address", "is", "10", "Green", "Street", "the"],
+      "answer": "My address is 10 Green Street",
+      "explanation": "En inglés el número de la calle va SIEMPRE antes del nombre: «10 Green Street», al revés que el español («Calle Mayor, 15»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mi nombre es Ana",
+      "direction": "es-en",
+      "tiles": ["My", "name", "is", "Ana", "am", "I"],
+      "answer": "My name is Ana",
+      "explanation": "Presentación estándar: posesivo (My) + name + is + nombre propio. También válido: «I am Ana»."
+    },
+    {
+      "type": "speak",
+      "text": "Good morning! How are you?",
+      "es": "¡Buenos días! ¿Cómo estás?"
+    },
+    {
+      "type": "speak",
+      "text": "Thank you very much.",
+      "es": "Muchas gracias."
+    }
+  ]
+}

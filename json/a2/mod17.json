@@ -1,0 +1,252 @@
+{
+  "id": "a2-mod17",
+  "module": 17,
+  "title": "Present Perfect: Been vs. Gone",
+  "subtitle": "Been vs. Gone",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "trip", "es": "viaje" },
+        { "en": "holiday", "es": "vacaciones" },
+        { "en": "return", "es": "volver" },
+        { "en": "arrive", "es": "llegar" },
+        { "en": "leave", "es": "irse" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Fill in the blank: \"Where are your parents?\" - \"They are not here. They have ___ to the supermarket.\"",
+      "options": ["been", "gone", "went"],
+      "correct": 1,
+      "hint": "La pista es «They are not here»: ¿han vuelto ya o siguen fuera?",
+      "explanation": "«They are not here» indica ausencia: ida sin retorno, que exige «gone». «Been» implicaría que ya regresaron, y «went» es pasado simple, incompatible con el auxiliar «have»."
+    },
+    {
+      "type": "gap",
+      "text": "Where is Lucy? She has ___ to the supermarket.",
+      "options": ["gone", "been", "went"],
+      "answer": "gone",
+      "explanation": "Si Lucy no está aquí, su trayectoria es de solo ida: «has gone». Con «been» estaría de vuelta y la pregunta «Where is Lucy?» no tendría sentido."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él ha ido a la oficina",
+      "direction": "es-en",
+      "tiles": ["He", "has", "gone", "to", "the", "office", "been"],
+      "answer": "He has gone to the office",
+      "explanation": "«Gone to» marca trayectoria unidireccional: él está en la oficina ahora. «Been» diría que ya volvió."
+    },
+    {
+      "type": "speak",
+      "text": "My boss has gone to the office.",
+      "es": "Mi jefe ha ido a la oficina."
+    },
+    {
+      "type": "quiz",
+      "q": "Select the grammatically correct option: \"I love Spain. I have ___ Madrid three times.\"",
+      "options": ["been to", "been in", "gone to"],
+      "correct": 0,
+      "hint": "Es una experiencia de vida contada en persona: ya volvió. Y ojo con la preposición de los viajes.",
+      "explanation": "Una experiencia de visitas completadas exige «been to», con la preposición direccional «to». «Been in» denota estancia estática y «gone to» implicaría estar todavía en Madrid."
+    },
+    {
+      "type": "gap",
+      "text": "I have ___ to Paris three times in my life.",
+      "options": ["been", "gone", "go"],
+      "answer": "been",
+      "explanation": "El hablante relata su experiencia estando de vuelta, así que usa «been» (ida y vuelta). «I have gone» sería lógicamente imposible en conversación cara a cara."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "go", "es": "ir" },
+        { "en": "come", "es": "venir" },
+        { "en": "stay", "es": "quedarse" },
+        { "en": "visit", "es": "visitar" },
+        { "en": "travel", "es": "viajar" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "He estado en Londres dos veces",
+      "direction": "es-en",
+      "tiles": ["I", "have", "been", "to", "London", "twice", "gone", "in"],
+      "answer": "I have been to London twice",
+      "explanation": "Experiencia completada → «been». Aunque el español diga «en Londres», el inglés de visita exige la preposición direccional «to», no «in»."
+    },
+    {
+      "type": "gap",
+      "text": "They have been ___ the library this morning.",
+      "options": ["to", "in", "at"],
+      "answer": "to",
+      "explanation": "Para expresar que visitaron la biblioteca y regresaron se usa «been to»; «been in» denotaría permanencia durativa dentro del lugar, no la visita de ida y vuelta."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence:",
+      "options": [
+        "She has gone to home to see her family.",
+        "She has gone home to see her family.",
+        "She has been home to see her family."
+      ],
+      "correct": 1,
+      "hint": "Ella sigue allí con su familia, y recuerda qué preposición rechaza la palabra «home».",
+      "explanation": "«Home» actúa como adverbio de dirección y rechaza la preposición «to». «Gone» es correcto porque ella se marchó y sigue allí; «been» implicaría que ya regresó."
+    },
+    {
+      "type": "speak",
+      "text": "She has been to Rome.",
+      "es": "Ella ha estado en Roma."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella se ha ido a casa",
+      "direction": "es-en",
+      "tiles": ["She", "has", "gone", "home", "to", "been"],
+      "answer": "She has gone home",
+      "explanation": "Delante de «home» se suprime la preposición «to»: «gone home», nunca «gone to home»."
+    },
+    {
+      "type": "gap",
+      "text": "He has gone ___ to see his family.",
+      "options": ["home", "to home", "at home"],
+      "answer": "home",
+      "explanation": "«Home» funciona como adverbio de dirección y elide la preposición: «He has gone home», jamás «to home»."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the dialogue: \"Welcome back, Sarah! How was your trip?\" - \"It was great! I have ___ to many beautiful cities.\"",
+      "options": ["gone", "went", "been"],
+      "correct": 2,
+      "hint": "«Welcome back!» te dice dónde está Sarah ahora mismo.",
+      "explanation": "«Welcome back!» confirma que Sarah ya regresó: sus visitas son experiencias completadas → «been». «Gone» la situaría aún de viaje y «went» no se combina con «have»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "country", "es": "país" },
+        { "en": "city", "es": "ciudad" },
+        { "en": "home", "es": "hogar" },
+        { "en": "office", "es": "oficina" },
+        { "en": "school", "es": "escuela" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "They have gone ___ holiday.",
+      "options": ["on", "to", "in"],
+      "answer": "on",
+      "explanation": "Con sustantivos de actividad o vacaciones se usa «gone on»: «gone on holiday / on a trip», no «gone to holiday»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Se han ido de vacaciones",
+      "direction": "es-en",
+      "tiles": ["They", "have", "gone", "on", "holiday", "been", "to"],
+      "answer": "They have gone on holiday",
+      "explanation": "«Gone on holiday» expresa que se marcharon y siguen fuera; la preposición correcta con «holiday» es «on», no «to»."
+    },
+    {
+      "type": "speak",
+      "text": "Welcome back, Sarah! How was your trip?",
+      "es": "¡Bienvenida de vuelta, Sarah! ¿Qué tal el viaje?"
+    },
+    {
+      "type": "quiz",
+      "q": "Fill in the blank: \"My brother is on holiday in Rome. He has ___ away for two weeks.\"",
+      "options": ["gone", "been", "go"],
+      "correct": 0,
+      "hint": "«Is on holiday» te dice que el hermano sigue fuera ahora mismo.",
+      "explanation": "«Has gone away» (se ha marchado fuera) expresa ausencia actual, coherente con «is on holiday». «Been» sugeriría que ya regresó y «go» es la forma base, no el participio."
+    },
+    {
+      "type": "gap",
+      "text": "The family has gone ___ for the weekend.",
+      "options": ["away", "back", "here"],
+      "answer": "away",
+      "explanation": "La colocación «gone away» significa «haberse marchado / estar fuera», fórmula muy frecuente en A2 para expresar ausencia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "shop", "es": "tienda" },
+        { "en": "supermarket", "es": "supermercado" },
+        { "en": "away", "es": "fuera" },
+        { "en": "back", "es": "de vuelta" },
+        { "en": "here", "es": "aquí" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Has estado alguna vez en París?",
+      "direction": "es-en",
+      "tiles": ["Have", "you", "ever", "been", "to", "Paris", "gone", "in"],
+      "answer": "Have you ever been to Paris",
+      "explanation": "Las preguntas de experiencia vital usan «been», no «gone», y la preposición de visita es «to» aunque el español diga «en París»."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence:",
+      "options": [
+        "I'm back! I've gone to the office.",
+        "I'm back! I've go to the office.",
+        "I'm back! I've been to the office."
+      ],
+      "correct": 2,
+      "hint": "«I'm back» cierra el viaje: la persona ya está de vuelta.",
+      "explanation": "Si el hablante ya está de vuelta («I'm back»), el viaje está cerrado y exige «been». «Gone» lo situaría aún fuera y «go» no es participio."
+    },
+    {
+      "type": "gap",
+      "text": "Have you ever ___ to Paris?",
+      "options": ["been", "gone", "went"],
+      "answer": "been",
+      "explanation": "La pregunta de experiencia vital («alguna vez») usa «been»: se pregunta por visitas completadas, no por una ausencia actual."
+    },
+    {
+      "type": "speak",
+      "text": "I have gone to the shop. Back in 10 minutes.",
+      "es": "Me he ido a la tienda. Vuelvo en 10 minutos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella ha regresado a casa",
+      "direction": "es-en",
+      "tiles": ["She", "has", "returned", "home", "to", "return"],
+      "answer": "She has returned home",
+      "explanation": "«Home» también rechaza «to» con «return»: «returned home». El participio tras «has» es «returned», no la forma base."
+    },
+    {
+      "type": "quiz",
+      "q": "In a face-to-face conversation, which sentence is correct?",
+      "options": [
+        "I have gone to the shop, here is the bread.",
+        "I have been to the shop, here is the bread.",
+        "I have go to the shop, here is the bread."
+      ],
+      "correct": 1,
+      "hint": "Si estás hablando cara a cara con alguien, es imposible que aún no hayas vuelto.",
+      "explanation": "En conversación directa, «I have gone» es lógicamente imposible: si estás aquí hablando, ya volviste → «I have been». «Gone» en primera persona solo cabe en notas escritas."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ been to Rome.",
+      "options": ["has", "have", "is"],
+      "answer": "has",
+      "explanation": "El presente perfecto con tercera persona del singular («she») exige el auxiliar «has», no «have» ni el verbo «to be»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo he estado en la tienda",
+      "direction": "es-en",
+      "tiles": ["I", "have", "been", "to", "the", "shop", "gone", "in"],
+      "answer": "I have been to the shop",
+      "explanation": "En primera persona y cara a cara solo cabe «been» (fui y ya estoy aquí); la preposición de la visita es «to»."
+    }
+  ]
+}

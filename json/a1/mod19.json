@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod19",
+  "module": 19,
+  "title": "Daily Routines & Connectors",
+  "subtitle": "Rutinas Diarias",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada parte del día con su traducción",
+      "pairs": [
+        { "en": "morning", "es": "mañana" },
+        { "en": "afternoon", "es": "tarde" },
+        { "en": "evening", "es": "tarde-noche" },
+        { "en": "night", "es": "noche" },
+        { "en": "noon", "es": "mediodía" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence about Tom's daily routine:",
+      "options": ["Tom always wake up at 6:30 in the morning.", "Tom wakes up always at 6:30 in the morning.", "Tom always wakes up at 6:30 in the morning."],
+      "correct": 2,
+      "hint": "Fíjate en dos cosas: la -s de tercera persona y la posición del adverbio de frecuencia.",
+      "explanation": "«Tom» es tercera persona singular, así que el verbo exige la -s («wakes»), y el adverbio «always» va antes del verbo principal. La primera omite la -s y la segunda coloca «always» después del verbo, calco del español."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ up at 7.",
+      "options": ["wakes", "wake", "waking"],
+      "answer": "wakes",
+      "explanation": "Con sujeto de tercera persona singular («she»), el Presente Simple afirmativo exige la -s: «wakes». Omitirla es el error más penalizado del nivel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Me despierto a las 7",
+      "direction": "es-en",
+      "tiles": ["I", "wake", "up", "at", "7", "in", "wakes"],
+      "answer": "I wake up at 7",
+      "explanation": "Con sujeto «I» el verbo va en forma base («wake up», sin -s) y la hora exacta se introduce con «at», nunca con «in»."
+    },
+    {
+      "type": "quiz",
+      "q": "Fill in the gap: \"She has breakfast _____ the morning and goes to the office _____ 8:30.\"",
+      "options": ["at / in", "in / at", "on / at"],
+      "correct": 1,
+      "hint": "Una preposición es para períodos del día y otra para horas exactas.",
+      "explanation": "«In the morning» es la forma para los períodos del día y «at 8:30» la de las horas exactas. «At the morning» es un calco del español «a la mañana», y «on» se reserva para días y fechas."
+    },
+    {
+      "type": "gap",
+      "text": "I have breakfast ___ the morning.",
+      "options": ["in", "at", "on"],
+      "answer": "in",
+      "explanation": "Los períodos del día llevan «in» con artículo: «in the morning / in the afternoon / in the evening». «At» es para horas exactas y «on» para días."
+    },
+    {
+      "type": "speak",
+      "text": "I wake up at 7 am.",
+      "es": "Me despierto a las 7 de la mañana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra de la rutina con su traducción",
+      "pairs": [
+        { "en": "breakfast", "es": "desayuno" },
+        { "en": "lunch", "es": "almuerzo" },
+        { "en": "dinner", "es": "cena" },
+        { "en": "shower", "es": "ducha" },
+        { "en": "bed", "es": "cama" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is INCORRECT?",
+      "options": ["He go to bed at 11 pm every night.", "I usually go to the gym before dinner.", "She doesn't have breakfast at weekends."],
+      "correct": 0,
+      "hint": "Busca el sujeto de tercera persona con el verbo mal conjugado.",
+      "explanation": "«He go» omite la -s obligatoria de tercera persona: debe ser «He goes». Las otras dos son correctas: «usually» está en posición preverbal y «doesn't have» usa bien el auxiliar con el verbo en forma base."
+    },
+    {
+      "type": "gap",
+      "text": "I go to bed ___ night.",
+      "options": ["at", "in", "on"],
+      "answer": "at",
+      "explanation": "«Night» es la excepción del sistema: se dice «at night», sin artículo. «In the night» es un error típico por analogía con «in the morning»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella siempre se despierta temprano",
+      "direction": "es-en",
+      "tiles": ["She", "always", "wakes", "up", "early", "wake", "late"],
+      "answer": "She always wakes up early",
+      "explanation": "El adverbio de frecuencia «always» va antes del verbo principal, y «she» exige la -s de tercera persona: «wakes up»."
+    },
+    {
+      "type": "quiz",
+      "q": "What is the correct translation of «Antes de ir al trabajo, tomo un café»?",
+      "options": ["Before to go to work, I drink a coffee.", "Before go to work, I drink a coffee.", "Before going to work, I drink a coffee."],
+      "correct": 2,
+      "hint": "¿Qué forma verbal exige «before» cuando funciona como preposición?",
+      "explanation": "«Before» como preposición exige gerundio: «before going». «Before to go» calca el español «antes de + infinitivo» y «before go» usa un infinitivo desnudo inaceptable en este contexto."
+    },
+    {
+      "type": "gap",
+      "text": "I go to the gym ___ Mondays.",
+      "options": ["on", "in", "at"],
+      "answer": "on",
+      "explanation": "Los días de la semana llevan «on»; para la rutina semanal se usa el día en plural sin artículo: «on Mondays» equivale a «los lunes»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Desayuno a las 8",
+      "direction": "es-en",
+      "tiles": ["I", "have", "breakfast", "at", "8", "the", "do"],
+      "answer": "I have breakfast at 8",
+      "explanation": "«Breakfast» colocaciona con «have», nunca con «do», y la hora exacta va con «at» sin artículo («at the 8» es incorrecto)."
+    },
+    {
+      "type": "speak",
+      "text": "He has lunch at noon.",
+      "es": "Él almuerza al mediodía."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada adverbio de frecuencia con su traducción",
+      "pairs": [
+        { "en": "always", "es": "siempre" },
+        { "en": "never", "es": "nunca" },
+        { "en": "sometimes", "es": "a veces" },
+        { "en": "usually", "es": "normalmente" },
+        { "en": "often", "es": "frecuentemente" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Read the text: \"Lisa works in an office. She has lunch at noon with her team. In the evenings, she sometimes goes to the gym.\" How often does Lisa go to the gym in the evenings?",
+      "options": ["Always", "Sometimes", "Never"],
+      "correct": 1,
+      "hint": "Localiza el adverbio de frecuencia que acompaña a «goes to the gym».",
+      "explanation": "El texto dice explícitamente «she sometimes goes to the gym» (~40% de frecuencia). «Always» (100%) y «never» (0%) contradicen lo que afirma el texto."
+    },
+    {
+      "type": "gap",
+      "text": "She doesn't ___ up early.",
+      "options": ["wake", "wakes", "waking"],
+      "answer": "wake",
+      "explanation": "Con «doesn't», el verbo principal vuelve a su forma base: «doesn't wake». La -s ya la lleva el auxiliar, ponerla dos veces es agramatical."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Voy a la cama por la noche",
+      "direction": "es-en",
+      "tiles": ["I", "go", "to", "bed", "at", "night", "the", "in"],
+      "answer": "I go to bed at night",
+      "explanation": "«Go to bed» es colocación fija sin artículo, y «por la noche» se traduce «at night», nunca «in the night»."
+    },
+    {
+      "type": "gap",
+      "text": "Before ___ breakfast, I check my phone.",
+      "options": ["having", "to have", "have"],
+      "answer": "having",
+      "explanation": "Tras «before» como preposición se usa gerundio: «before having breakfast». El infinitivo con «to» es interferencia del español «antes de tener»."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence:",
+      "options": ["I have a shower every morning.", "I do a shower every morning.", "I make a shower every morning."],
+      "correct": 0,
+      "hint": "Las acciones de la rutina usan verbos colocacionales fijos en inglés.",
+      "explanation": "«Shower» colocaciona con «have»: «have a shower». «Do a shower» y «make a shower» son calcos del español «hacer la ducha» que los examinadores penalizan como errores de colocación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él va a la escuela los lunes",
+      "direction": "es-en",
+      "tiles": ["He", "goes", "to", "school", "on", "Mondays", "go", "in"],
+      "answer": "He goes to school on Mondays",
+      "explanation": "«He» exige «goes» (tercera persona con -es) y la rutina semanal se expresa con «on» + día en plural sin artículo: «on Mondays»."
+    },
+    {
+      "type": "speak",
+      "text": "First, I have a shower. Then, I get dressed.",
+      "es": "Primero, me ducho. Luego, me visto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "early", "es": "temprano" },
+        { "en": "late", "es": "tarde" },
+        { "en": "before", "es": "antes de" },
+        { "en": "after", "es": "después de" },
+        { "en": "then", "es": "luego" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct?",
+      "options": ["He is tired always at night.", "Always he is tired at night.", "He is always tired at night."],
+      "correct": 2,
+      "hint": "¿Dónde va el adverbio de frecuencia cuando el verbo es «to be»?",
+      "explanation": "Con el verbo «to be», el adverbio de frecuencia va DESPUÉS del verbo: «He is always tired». Ponerlo tras el adjetivo o al inicio de la oración es una inversión típica del hispanohablante."
+    },
+    {
+      "type": "gap",
+      "text": "He is ___ school in the morning.",
+      "options": ["at", "in the", "on"],
+      "answer": "at",
+      "explanation": "«At school» es expresión fija sin artículo: se refiere a la función (estar en clase), no al edificio. «At the school» señalaría el lugar físico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Antes de cenar, voy al gimnasio",
+      "direction": "es-en",
+      "tiles": ["Before", "dinner", "I", "go", "to", "the", "gym", "after"],
+      "answer": "Before dinner, I go to the gym",
+      "explanation": "«Before» seguido de sustantivo («dinner») no necesita gerundio, y «go to the gym» lleva artículo «the», a diferencia de «go to bed» o «go to school»."
+    },
+    {
+      "type": "gap",
+      "text": "First, I wake up. ___, I have a shower.",
+      "options": ["Then", "Finally", "Before"],
+      "answer": "Then",
+      "explanation": "«Then» introduce la acción inmediatamente siguiente en la secuencia (first → then → next → after that → finally). «Finally» se reserva para la última acción."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Finalmente, salgo de casa",
+      "direction": "es-en",
+      "tiles": ["Finally", "I", "leave", "home", "First", "go"],
+      "answer": "Finally, I leave home",
+      "explanation": "«Finally» marca la última acción de la secuencia, y «leave home» va sin preposición ni artículo («salir de casa»)."
+    },
+    {
+      "type": "speak",
+      "text": "I never go to bed late on weekdays.",
+      "es": "Nunca me acuesto tarde entre semana."
+    }
+  ]
+}

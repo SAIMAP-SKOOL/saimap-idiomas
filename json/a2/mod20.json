@@ -1,0 +1,240 @@
+{
+  "id": "a2-mod20",
+  "module": 20,
+  "title": "Present Perfect vs. Past Simple",
+  "subtitle": "Presente Perfecto vs. Pasado Simple",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "when", "es": "cuándo" },
+        { "en": "how long", "es": "cuánto tiempo" },
+        { "en": "yesterday", "es": "ayer" },
+        { "en": "today", "es": "hoy" },
+        { "en": "last year", "es": "el año pasado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "She _______ to London in 2015.",
+      "options": ["went", "has gone", "goes"],
+      "correct": 0,
+      "hint": "El año 2015 es una fecha cerrada y concluida del pasado.",
+      "explanation": "«2015» es un tiempo definido y terminado, por lo que exige Pasado Simple («went»). «Has gone» no admite una fecha exacta del pasado y «goes» denota rutina presente."
+    },
+    {
+      "type": "gap",
+      "text": "I ___ him yesterday.",
+      "options": ["saw", "have seen", "see"],
+      "answer": "saw",
+      "explanation": "«Yesterday» marca un tiempo cerrado, incompatible con el Presente Perfecto: «I have seen him yesterday» es un error muy penalizado en los exámenes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Fui a Londres el año pasado",
+      "direction": "es-en",
+      "tiles": ["I", "went", "to", "London", "last", "year", "have", "gone"],
+      "answer": "I went to London last year",
+      "explanation": "«Last year» es un marcador de tiempo terminado: obliga al Pasado Simple («went»), nunca al Presente Perfecto («have gone»)."
+    },
+    {
+      "type": "speak",
+      "text": "I have visited Rome.",
+      "es": "He visitado Roma."
+    },
+    {
+      "type": "gap",
+      "text": "When ___ you arrive?",
+      "options": ["did", "have", "do"],
+      "answer": "did",
+      "explanation": "La pregunta con «when» inquiere sobre un instante concreto del pasado y exige Pasado Simple con el auxiliar «did»."
+    },
+    {
+      "type": "quiz",
+      "q": "I _______ three cups of coffee today (and the day isn't finished).",
+      "options": ["drank", "have drunk", "drink"],
+      "correct": 1,
+      "hint": "«Today» es un período que todavía sigue en curso.",
+      "explanation": "«Today» representa un tiempo no terminado, por lo que se usa Presente Perfecto («have drunk»). «Drank» sugeriría que el día ya acabó y «drink» expresa un hábito general."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "He leído dos libros este año",
+      "direction": "es-en",
+      "tiles": ["I", "have", "read", "two", "books", "this", "year", "last", "did"],
+      "answer": "I have read two books this year",
+      "explanation": "«This year» es un marco temporal abierto (el año sigue en curso), así que se usa Presente Perfecto: «have» + participio («read»)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "this year", "es": "este año" },
+        { "en": "in my life", "es": "en mi vida" },
+        { "en": "past", "es": "pasado" },
+        { "en": "present", "es": "presente" },
+        { "en": "experience", "es": "experiencia" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "I have lived in London ___ two years, and I still live here.",
+      "options": ["for", "ago", "when"],
+      "answer": "for",
+      "explanation": "El período de residencia sigue activo (conexión con el presente): Presente Perfecto con «for» + duración. «Ago» enviaría la acción a un pasado cerrado."
+    },
+    {
+      "type": "quiz",
+      "q": "_______ you ever _______ a book in English?",
+      "options": ["Did / read", "Have / read", "Do / read"],
+      "correct": 1,
+      "hint": "«Ever» pregunta por la experiencia acumulada en toda la vida.",
+      "explanation": "«Ever» (alguna vez) indaga sobre la experiencia existencial del sujeto y exige Presente Perfecto («Have you read»). «Did» apunta a un momento concreto y «Do» a hábitos actuales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Cuándo compraste ese coche?",
+      "direction": "es-en",
+      "tiles": ["When", "did", "you", "buy", "that", "car", "have", "bought"],
+      "answer": "When did you buy that car",
+      "explanation": "«When» pregunta por un punto específico del tiempo cronológico cerrado y exige de forma exclusiva el Pasado Simple con «did»."
+    },
+    {
+      "type": "speak",
+      "text": "I went there in 2018 and saw the Colosseum.",
+      "es": "Fui allí en 2018 y vi el Coliseo."
+    },
+    {
+      "type": "gap",
+      "text": "I saw him two days ___.",
+      "options": ["ago", "yet", "already"],
+      "answer": "ago",
+      "explanation": "Mnemotecnia del «AGO» (Always Goes Old): «ago» siempre envía la acción al pasado absoluto y acompaña al Pasado Simple."
+    },
+    {
+      "type": "quiz",
+      "q": "When _______ you _______ that biography?",
+      "options": ["did / read", "have / read", "do / read"],
+      "correct": 0,
+      "hint": "«When» exige identificar una fecha o momento concreto.",
+      "explanation": "«When» sitúa la pregunta en una coordenada específica del pasado, por lo que la estructura correcta es «did you read». El Presente Perfecto nunca se combina con «when»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "life", "es": "vida" },
+        { "en": "date", "es": "fecha" },
+        { "en": "calendar", "es": "calendario" },
+        { "en": "memory", "es": "memoria" },
+        { "en": "biography", "es": "biografía" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Cuánto tiempo hace que tienes ese coche?",
+      "direction": "es-en",
+      "tiles": ["How", "long", "have", "you", "had", "that", "car", "when", "did"],
+      "answer": "How long have you had that car",
+      "explanation": "«How long» pregunta por la duración de un estado que sigue vigente en el presente y requiere Presente Perfecto («have you had»)."
+    },
+    {
+      "type": "gap",
+      "text": "How long ___ you had that car?",
+      "options": ["have", "did", "do"],
+      "answer": "have",
+      "explanation": "«How long» indaga por una duración que continúa hasta el presente: Presente Perfecto («have you had»). «When», en cambio, exigiría «did»."
+    },
+    {
+      "type": "quiz",
+      "q": "My uncle _______ in New York for ten years, but now he lives in Madrid.",
+      "options": ["has lived", "lives", "lived"],
+      "correct": 2,
+      "hint": "Ahora vive en Madrid: la etapa de Nueva York ya está cerrada.",
+      "explanation": "El período en Nueva York es un hecho concluido sin conexión con el presente: Pasado Simple («lived»). «Has lived» implicaría que aún vive allí, lo que contradice la frase."
+    },
+    {
+      "type": "speak",
+      "text": "How long have you had that car?",
+      "es": "¿Cuánto tiempo hace que tienes ese coche?"
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hablé con mi jefe ayer",
+      "direction": "es-en",
+      "tiles": ["I", "spoke", "with", "my", "boss", "yesterday", "have", "spoken"],
+      "answer": "I spoke with my boss yesterday",
+      "explanation": "«Yesterday» determina un tiempo cerrado incompatible con el Presente Perfecto: «I have spoken with my boss yesterday» es agramatical."
+    },
+    {
+      "type": "gap",
+      "text": "My grandfather ___ five books. (He died in 1990.)",
+      "options": ["wrote", "has written", "writes"],
+      "answer": "wrote",
+      "explanation": "Si la persona ha fallecido, su vida es un tiempo terminado: sus experiencias se narran en Pasado Simple, nunca en Presente Perfecto."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct?",
+      "options": ["I have spoken with my boss yesterday.", "I speak with my boss yesterday.", "I spoke with my boss yesterday."],
+      "correct": 2,
+      "hint": "Fíjate en el marcador temporal «yesterday»: ¿cajón cerrado o cuerda abierta?",
+      "explanation": "«Yesterday» es un cajón temporal cerrado que exige Pasado Simple («spoke»). El Presente Perfecto es intolerable con marcadores de tiempo definido y el presente simple no encaja con «yesterday»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "finished", "es": "finalizado" },
+        { "en": "unfinished", "es": "no terminado" },
+        { "en": "details", "es": "detalles" },
+        { "en": "history", "es": "historia" },
+        { "en": "write", "es": "escribir" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él ha escrito un libro",
+      "direction": "es-en",
+      "tiles": ["He", "has", "written", "a", "book", "wrote", "have"],
+      "answer": "He has written a book",
+      "explanation": "Experiencia sin fecha concreta: Presente Perfecto con «has» (3.ª persona) + participio («written»). Con una fecha, como «in 2020», usaríamos «wrote»."
+    },
+    {
+      "type": "gap",
+      "text": "I have visited Rome. I ___ there in 2018.",
+      "options": ["went", "have gone", "go"],
+      "answer": "went",
+      "explanation": "Flujo típico de conversación: se introduce la experiencia con Presente Perfecto y se pasa al Pasado Simple («went») al dar los detalles concretos (año 2018)."
+    },
+    {
+      "type": "quiz",
+      "q": "Shakespeare _______ many plays.",
+      "options": ["wrote", "has written", "writes"],
+      "correct": 0,
+      "hint": "Shakespeare es una figura histórica ya fallecida.",
+      "explanation": "Shakespeare falleció: sus acciones pertenecen a un tiempo concluido y exigen Pasado Simple («wrote»). El Presente Perfecto se reserva para experiencias de personas vivas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella fue a Londres en 2015",
+      "direction": "es-en",
+      "tiles": ["She", "went", "to", "London", "in", "2015", "has", "gone"],
+      "answer": "She went to London in 2015",
+      "explanation": "Un año concreto del pasado («in 2015») cierra el marco temporal y exige Pasado Simple: «went», no «has gone»."
+    },
+    {
+      "type": "speak",
+      "text": "I have lived in London for two years.",
+      "es": "He vivido en Londres durante dos años."
+    },
+    {
+      "type": "gap",
+      "text": "She ___ three books this year.",
+      "options": ["has read", "read", "reads"],
+      "answer": "has read",
+      "explanation": "«This year» es un marco temporal todavía abierto, por lo que se usa Presente Perfecto («has read»): la cuerda que une el pasado con el presente."
+    }
+  ]
+}

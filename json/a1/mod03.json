@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod03",
+  "module": 3,
+  "title": "To Be: Negative and Interrogative",
+  "subtitle": "Negativo e Interrogativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada estado con su traducción",
+      "pairs": [
+        { "en": "happy", "es": "feliz" },
+        { "en": "sad", "es": "triste" },
+        { "en": "tired", "es": "cansado/a" },
+        { "en": "hungry", "es": "hambriento/a" },
+        { "en": "cold", "es": "frío/a" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence to express that you are hungry:",
+      "options": ["I have hungry.", "I am hungry.", "I'm have hungry."],
+      "correct": 1,
+      "hint": "En inglés el hambre no se «tiene».",
+      "explanation": "Las sensaciones físicas (hambre, sed, frío, calor) son adjetivos de estado en inglés y se construyen con to be: «I am hungry». «I have hungry» es un calco del español."
+    },
+    {
+      "type": "gap",
+      "text": "She is ___ busy.",
+      "options": ["not", "no", "don't"],
+      "answer": "not",
+      "explanation": "La negación con to be se forma colocando «not» inmediatamente después del verbo: «She is not busy» (o contraído: «She isn't busy»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo no estoy triste",
+      "direction": "es-en",
+      "tiles": ["I", "am", "not", "sad", "no", "is"],
+      "answer": "I am not sad",
+      "explanation": "En inglés la partícula «not» va después del verbo, no antes como el «no» español: «I am not sad»."
+    },
+    {
+      "type": "quiz",
+      "q": "What is the correct interrogative structure to ask if they are late?",
+      "options": ["Are they late?", "They are late?", "Is they late?"],
+      "correct": 0,
+      "hint": "Las preguntas exigen un cambio de orden.",
+      "explanation": "La interrogación exige inversión sujeto-verbo: «Are they...?». Mantener el orden declarativo («They are late?») es informal/agramatical en examen, e «Is they» rompe la concordancia."
+    },
+    {
+      "type": "gap",
+      "text": "___ you tired?",
+      "options": ["Are", "You", "Is"],
+      "answer": "Are",
+      "explanation": "Pregunta cerrada ⇒ el verbo salta a la primera posición: «Are you tired?». Con «you» siempre se usa «are», nunca «is»."
+    },
+    {
+      "type": "speak",
+      "text": "Are you hungry?",
+      "es": "¿Tienes hambre?"
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja más adjetivos de estado",
+      "pairs": [
+        { "en": "thirsty", "es": "sediento/a" },
+        { "en": "angry", "es": "enfadado/a" },
+        { "en": "busy", "es": "ocupado/a" },
+        { "en": "sick", "es": "enfermo/a" },
+        { "en": "late", "es": "tarde / retrasado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which of the following is a grammatically correct negative short answer?",
+      "options": ["No, he isn't.", "No, he not is.", "No, he isn't not."],
+      "correct": 0,
+      "hint": "Cuidado con la posición de «not» y la doble negación.",
+      "explanation": "La respuesta corta negativa natural usa la contracción: «No, he isn't» (o «No, he's not»). «Not is» invierte el orden y «isn't not» es una doble negación inviable."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Estás cansado?",
+      "direction": "es-en",
+      "tiles": ["Are", "you", "tired", "?", "is", "not"],
+      "answer": "Are you tired ?",
+      "explanation": "Inversión obligatoria verbo-sujeto para preguntar: «Are you tired?». El inglés solo usa el signo de interrogación de cierre."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the question: \"___ you and Carlos tired?\"",
+      "options": ["Is", "Am", "Are"],
+      "correct": 2,
+      "hint": "«You and Carlos» equivale a un pronombre plural.",
+      "explanation": "«You and Carlos» equivale a la segunda persona del plural (you/ustedes), que exige «are». «Is» es tercera singular y «am» solo acompaña a «I»."
+    },
+    {
+      "type": "gap",
+      "text": "No, I'm ___.",
+      "options": ["not", "no", "isn't"],
+      "answer": "not",
+      "explanation": "La única contracción válida para la primera persona es «I'm not» (no existe «I amn't»). Es la respuesta corta negativa estándar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella no está enfadada",
+      "direction": "es-en",
+      "tiles": ["She", "is", "not", "angry", "no", "are"],
+      "answer": "She is not angry",
+      "explanation": "Estructura de negación: sujeto + to be + not + adjetivo. También sería válido «She isn't angry» o «She's not angry»."
+    },
+    {
+      "type": "speak",
+      "text": "No, I'm not. I am busy.",
+      "es": "No, no lo estoy. Estoy ocupado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja emociones y salud",
+      "pairs": [
+        { "en": "bored", "es": "aburrido/a" },
+        { "en": "excited", "es": "emocionado/a" },
+        { "en": "scared", "es": "asustado/a" },
+        { "en": "well", "es": "bien (de salud)" },
+        { "en": "bad", "es": "malo/a" }
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja adjetivos descriptivos",
+      "pairs": [
+        { "en": "new", "es": "nuevo/a" },
+        { "en": "old", "es": "viejo/a" },
+        { "en": "tall", "es": "alto/a" },
+        { "en": "short", "es": "bajo/a" },
+        { "en": "clean", "es": "limpio/a" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct translation of \"Ella tiene frío\":",
+      "options": ["She has cold.", "She is cold.", "She has a cold."],
+      "correct": 1,
+      "hint": "El frío es un estado, no una posesión.",
+      "explanation": "Las sensaciones de temperatura se expresan con to be: «She is cold». «She has cold» es un calco agramatical (y «She has a cold» significa otra cosa: está resfriada)."
+    },
+    {
+      "type": "quiz",
+      "q": "Which two negative contractions are BOTH grammatically correct?",
+      "options": ["He's not / He isn't", "He not's / He isn't", "He's not / He amn't"],
+      "correct": 0,
+      "hint": "Hay dos vías de contracción para la 3ª persona.",
+      "explanation": "La negación bifurca en dos contracciones válidas: pronombre+verbo («He's not», más común en EE. UU.) o verbo+not («He isn't», más británica y asertiva). «Amn't» no existe."
+    },
+    {
+      "type": "quiz",
+      "q": "Why is \"You are sick?\" considered incorrect in a formal exam?",
+      "options": ["Falta la inversión sujeto-verbo", "Falta el signo ¿ inicial", "«Sick» no puede usarse con «you»"],
+      "correct": 0,
+      "hint": "Piensa en el orden de las palabras.",
+      "explanation": "El inglés marca la pregunta con la sintaxis, no con la entonación: la inversión «Are you sick?» es obligatoria. El inglés nunca usa el signo de interrogación inicial."
+    },
+    {
+      "type": "gap",
+      "text": "He ___ not tired.",
+      "options": ["is", "are", "am"],
+      "answer": "is",
+      "explanation": "Tercera persona singular ⇒ «is» + not: «He is not tired» (o «He isn't tired»). La negación nunca altera la concordancia."
+    },
+    {
+      "type": "gap",
+      "text": "___ they hungry?",
+      "options": ["Are", "Is", "Am"],
+      "answer": "Are",
+      "explanation": "«They» exige «are», y en pregunta el verbo salta al inicio: «Are they hungry?»."
+    },
+    {
+      "type": "gap",
+      "text": "The classroom is not ___.",
+      "options": ["clean", "cleans", "cleaning"],
+      "answer": "clean",
+      "explanation": "Tras to be + not va el adjetivo en su forma invariable: «clean». Los adjetivos en inglés no se conjugan ni cambian de número."
+    },
+    {
+      "type": "gap",
+      "text": "Is she sick? — No, she ___.",
+      "options": ["isn't", "not", "aren't"],
+      "answer": "isn't",
+      "explanation": "Respuesta corta negativa: No + pronombre + contracción: «No, she isn't» (o «No, she's not»). «Aren't» no concuerda con «she»."
+    },
+    {
+      "type": "gap",
+      "text": "You ___ not late. Relax!",
+      "options": ["are", "is", "am"],
+      "answer": "are",
+      "explanation": "«You» siempre con «are»: «You are not late» (o «You aren't late»). La estructura negativa mantiene la concordancia de la afirmativa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Está él ocupado?",
+      "direction": "es-en",
+      "tiles": ["Is", "he", "busy", "?", "Are", "not"],
+      "answer": "Is he busy ?",
+      "explanation": "Pregunta con tercera persona singular: inversión «Is he...?». Recuerda que el inglés solo usa el signo de interrogación final."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "No tenemos frío",
+      "direction": "es-en",
+      "tiles": ["We", "are", "not", "cold", "have", "no"],
+      "answer": "We are not cold",
+      "explanation": "Doble choque: el frío se expresa con to be (no con have) y la negación va tras el verbo: «We are not cold»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Estás enfermo?",
+      "direction": "es-en",
+      "tiles": ["Are", "you", "sick", "?", "Is", "no"],
+      "answer": "Are you sick ?",
+      "explanation": "Inversión verbo-sujeto: «Are you sick?». La entonación sola no basta en inglés formal: el orden de palabras marca la pregunta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos no están cansados",
+      "direction": "es-en",
+      "tiles": ["They", "are", "not", "tired", "is", "no"],
+      "answer": "They are not tired",
+      "explanation": "Sujeto plural + are + not + adjetivo invariable: «They are not tired». El adjetivo nunca lleva -s en plural: «tireds» no existe."
+    },
+    {
+      "type": "speak",
+      "text": "Is she happy?",
+      "es": "¿Está ella contenta?"
+    },
+    {
+      "type": "speak",
+      "text": "I am not tired.",
+      "es": "No estoy cansado."
+    }
+  ]
+}

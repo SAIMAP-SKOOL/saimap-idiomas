@@ -1,0 +1,415 @@
+{
+  "id": "a2-mod18",
+  "module": 18,
+  "title": "Present Perfect with Just, Already, Yet",
+  "subtitle": "Just, Already, Yet",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "homework",
+          "es": "deberes"
+        },
+        {
+          "en": "laundry",
+          "es": "colada"
+        },
+        {
+          "en": "dinner",
+          "es": "cena"
+        },
+        {
+          "en": "breakfast",
+          "es": "desayuno"
+        },
+        {
+          "en": "report",
+          "es": "informe"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Select the correct option: \"Don't cook dinner. I ___ for pizza.\"",
+      "options": [
+        "have just called",
+        "just have called",
+        "have called just"
+      ],
+      "correct": 0,
+      "hint": "«Just» va en posición media: entre el auxiliar y el participio.",
+      "explanation": "La acción acaba de completarse, así que se usa el Presente Perfecto con «just» entre el auxiliar «have» y el participio «called». «just have called» coloca el adverbio antes del auxiliar y «have called just» lo sitúa al final: ambas posiciones son incorrectas."
+    },
+    {
+      "type": "gap",
+      "text": "I have ___ finished the housework.",
+      "options": [
+        "just",
+        "yet",
+        "finish"
+      ],
+      "answer": "just",
+      "explanation": "En oraciones afirmativas, «just» expresa que la acción acaba de ocurrir y va en posición media, entre «have» y el participio. «yet» solo se usa en negativas e interrogativas."
+    },
+    {
+      "type": "speak",
+      "text": "I have just woken up.",
+      "es": "Acabo de despertarme."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Acabo de terminar mis deberes",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "have",
+        "just",
+        "finished",
+        "my",
+        "homework",
+        "yet"
+      ],
+      "answer": "I have just finished my homework",
+      "explanation": "«Acabar de» se traduce con el Presente Perfecto y el adverbio «just» en posición media, no con una perífrasis como «finish of»."
+    },
+    {
+      "type": "quiz",
+      "q": "Fill in the blank: \"Has she sent the email ___?\"",
+      "options": [
+        "already",
+        "yet",
+        "just"
+      ],
+      "correct": 1,
+      "hint": "Es una pregunta y el hueco está al final de la frase.",
+      "explanation": "En oraciones interrogativas de A2 se usa «yet» y va obligatoriamente al final. «already» se reserva para afirmativas en posición media y «just» también va en posición media en afirmativas."
+    },
+    {
+      "type": "gap",
+      "text": "She hasn't cleaned the room ___.",
+      "options": [
+        "yet",
+        "already",
+        "just"
+      ],
+      "answer": "yet",
+      "explanation": "En oraciones negativas se usa «yet» («aún no») y se coloca siempre al final de la oración, nunca en posición intermedia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "email",
+          "es": "correo electrónico"
+        },
+        {
+          "en": "letter",
+          "es": "carta"
+        },
+        {
+          "en": "message",
+          "es": "mensaje"
+        },
+        {
+          "en": "finish",
+          "es": "terminar"
+        },
+        {
+          "en": "send",
+          "es": "enviar"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ya he pagado la cena",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "have",
+        "already",
+        "paid",
+        "for",
+        "the",
+        "dinner",
+        "yet"
+      ],
+      "answer": "I have already paid for the dinner",
+      "explanation": "El «ya» afirmativo se traduce como «already» y se coloca entre «have» y el participio «paid»; en español «ya» suele abrir la frase."
+    },
+    {
+      "type": "gap",
+      "text": "He has ___ finished the report. He is very efficient.",
+      "options": [
+        "already",
+        "yet",
+        "hasn't"
+      ],
+      "answer": "already",
+      "explanation": "La frase es afirmativa e indica que la acción se completó antes de lo esperado: se usa «already» en posición media. «yet» es incompatible con afirmativas."
+    },
+    {
+      "type": "speak",
+      "text": "She has just sent the email.",
+      "es": "Ella acaba de enviar el correo electrónico."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is grammatically CORRECT?",
+      "options": [
+        "We haven't done the washing up yet.",
+        "We haven't yet done the washing up.",
+        "We haven't already done the washing up."
+      ],
+      "correct": 0,
+      "hint": "En negativas, el marcador de expectativa va al final de la frase.",
+      "explanation": "En oraciones negativas «yet» se coloca estrictamente al final. Ponerlo en posición intermedia es incorrecto, y combinar «already» con «haven't» genera una contradicción semántica y sintáctica."
+    },
+    {
+      "type": "gap",
+      "text": "Have you written the letter ___?",
+      "options": [
+        "yet",
+        "already",
+        "just"
+      ],
+      "answer": "yet",
+      "explanation": "En preguntas estándar de nivel A2 se emplea «yet» al final, no «already». Es el error típico «*Have you already written the letter?»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Aún no he cocinado la cena",
+      "direction": "es-en",
+      "tiles": [
+        "I",
+        "haven't",
+        "cooked",
+        "dinner",
+        "yet",
+        "already"
+      ],
+      "answer": "I haven't cooked dinner yet",
+      "explanation": "«Aún no» exige la negación «haven't» + participio y el marcador «yet» obligatoriamente al final de la oración."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the sentence: \"He is very efficient. He has ___ finished the report.\"",
+      "options": [
+        "yet",
+        "already",
+        "haven't"
+      ],
+      "correct": 1,
+      "hint": "El elogio sugiere que terminó la tarea antes de lo previsto.",
+      "explanation": "La frase es afirmativa y expresa consumación anticipada: «already» en posición media. «yet» no cabe en afirmativas y «haven't» rompería la concordancia con «He» (sería «hasn't») y el sentido positivo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "pay",
+          "es": "pagar"
+        },
+        {
+          "en": "receive",
+          "es": "recibir"
+        },
+        {
+          "en": "arrive",
+          "es": "llegar"
+        },
+        {
+          "en": "leave",
+          "es": "irse"
+        },
+        {
+          "en": "wake up",
+          "es": "despertarse"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "I have just ___ up.",
+      "options": [
+        "woken",
+        "woke",
+        "wake"
+      ],
+      "answer": "woken",
+      "explanation": "Tras «have just» se necesita el participio de pasado: el participio de «wake up» es «woken», no el pasado «woke» ni la forma base «wake»."
+    },
+    {
+      "type": "speak",
+      "text": "They have just arrived home.",
+      "es": "Ellos acaban de llegar a casa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Has fregado ya los platos?",
+      "direction": "es-en",
+      "tiles": [
+        "Have",
+        "you",
+        "washed",
+        "the",
+        "dishes",
+        "yet",
+        "already"
+      ],
+      "answer": "Have you washed the dishes yet",
+      "explanation": "El «ya» de las preguntas se traduce como «yet» y va al final; no se usa «already» en esta estructura básica de A2."
+    },
+    {
+      "type": "quiz",
+      "q": "Identify the sentence with the correct spelling and grammar:",
+      "options": [
+        "She has just tidyed her bedroom.",
+        "She has just tidied her bedroom.",
+        "She has just tidy her bedroom."
+      ],
+      "correct": 1,
+      "hint": "Los verbos en consonante + «-y» cambian la «-y» por «-i» antes de «-ed».",
+      "explanation": "El participio de «tidy» se escribe «tidied» (la «-y» se convierte en «-i» antes de «-ed»). «tidyed» es un error ortográfico y «tidy» es la forma base, no el participio."
+    },
+    {
+      "type": "gap",
+      "text": "We haven't ___ the laundry yet.",
+      "options": [
+        "done",
+        "did",
+        "do"
+      ],
+      "answer": "done",
+      "explanation": "Detrás del auxiliar negativo «haven't» se usa el participio «done», no el pasado simple «did» ni la forma base «do»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Pedro no ha llegado aún",
+      "direction": "es-en",
+      "tiles": [
+        "Pedro",
+        "hasn't",
+        "arrived",
+        "yet",
+        "haven't",
+        "just"
+      ],
+      "answer": "Pedro hasn't arrived yet",
+      "explanation": "Tercera persona singular: contracto «hasn't» + participio «arrived» y «yet» insertado al final de la oración."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct sentence:",
+      "options": [
+        "I have finished just the housework.",
+        "I just have finished the housework.",
+        "I have just finished the housework."
+      ],
+      "correct": 2,
+      "hint": "«Just» va como el relleno del sándwich: entre «have» y el participio.",
+      "explanation": "El orden correcto es auxiliar + «just» + participio. Colocar «just» después del participio o antes del auxiliar son los dos errores de posición típicos que señala el módulo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "clean",
+          "es": "limpiar"
+        },
+        {
+          "en": "cook",
+          "es": "cocinar"
+        },
+        {
+          "en": "wash",
+          "es": "lavar"
+        },
+        {
+          "en": "tidy",
+          "es": "ordenar"
+        },
+        {
+          "en": "buy",
+          "es": "comprar"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "She hasn't received the message ___.",
+      "options": [
+        "yet",
+        "just",
+        "already"
+      ],
+      "answer": "yet",
+      "explanation": "Oración negativa: «yet» («todavía no») se coloca en el límite final de la cláusula. «just» y «already» pertenecen a las afirmativas en posición media."
+    },
+    {
+      "type": "speak",
+      "text": "Have you done the laundry yet?",
+      "es": "¿Has hecho ya la colada?"
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ya hemos limpiado la cocina",
+      "direction": "es-en",
+      "tiles": [
+        "We",
+        "have",
+        "already",
+        "cleaned",
+        "the",
+        "kitchen",
+        "yet"
+      ],
+      "answer": "We have already cleaned the kitchen",
+      "explanation": "«Ya» en afirmativa = «already» en posición media, entre el auxiliar «have» y el participio «cleaned»."
+    },
+    {
+      "type": "gap",
+      "text": "Has he sent the report ___?",
+      "options": [
+        "yet",
+        "already",
+        "just"
+      ],
+      "answer": "yet",
+      "explanation": "Pregunta con «¿ya?»: se usa «yet» al final de la interrogativa, siguiendo la fórmula «Has + sujeto + participio + complementos + yet?»."
+    },
+    {
+      "type": "quiz",
+      "q": "How do you say \"Acabo de terminar mis deberes\" in English?",
+      "options": [
+        "I finish of study my homework.",
+        "I have just finished my homework.",
+        "I have already finish my homework."
+      ],
+      "correct": 1,
+      "hint": "El inglés no usa una perífrasis con «acabar»: usa un adverbio dentro del Presente Perfecto.",
+      "explanation": "«Acabar de» se expresa con Presente Perfecto + «just» en posición media. «finish of study» es un calco agramatical del español y la tercera opción usa la forma base «finish» en lugar del participio «finished»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella acaba de enviar la carta",
+      "direction": "es-en",
+      "tiles": [
+        "She",
+        "has",
+        "just",
+        "sent",
+        "the",
+        "letter",
+        "have"
+      ],
+      "answer": "She has just sent the letter",
+      "explanation": "Tercera persona singular: «has» + «just» + participio «sent». «have» sería un error de concordancia con «She»."
+    }
+  ]
+}

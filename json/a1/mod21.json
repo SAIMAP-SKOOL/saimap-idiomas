@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod21",
+  "module": 21,
+  "title": "Present Simple: Questions",
+  "subtitle": "Preguntas y Respuestas Cortas",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra interrogativa con su traducción",
+      "pairs": [
+        { "en": "what", "es": "qué / cuál" },
+        { "en": "where", "es": "dónde" },
+        { "en": "when", "es": "cuándo" },
+        { "en": "why", "es": "por qué" },
+        { "en": "who", "es": "quién" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the grammatically correct question:",
+      "options": ["Where does your sister live?", "Where your sister lives?", "Where lives your sister?"],
+      "correct": 0,
+      "hint": "Recuerda el patrón QASV: palabra interrogativa + auxiliar + sujeto + verbo.",
+      "explanation": "La correcta sigue el patrón QASV: «Where» + auxiliar «does» + sujeto + verbo en forma base «live». La segunda omite el auxiliar obligatorio y la tercera calca el orden del español sin do-support."
+    },
+    {
+      "type": "gap",
+      "text": "___ you play football?",
+      "options": ["Do", "Does", "Are"],
+      "answer": "Do",
+      "explanation": "Las preguntas cerradas con verbos plenos usan el auxiliar «do» antes del sujeto «you». «Does» es solo para he/she/it y «are» no puede ser auxiliar de un verbo pleno."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Dónde vives?",
+      "direction": "es-en",
+      "tiles": ["Where", "do", "you", "live", "does", "lives"],
+      "answer": "Where do you live",
+      "explanation": "Patrón QASV: «Where» + auxiliar «do» + sujeto «you» + verbo en forma base «live». En inglés la entonación no basta: el auxiliar es obligatorio."
+    },
+    {
+      "type": "quiz",
+      "q": "How should you answer the question: \"Does he study English?\"",
+      "options": ["Yes, he studies.", "Yes, he does.", "Yes, he do."],
+      "correct": 1,
+      "hint": "Las respuestas cortas se construyen con el auxiliar, no con el verbo léxico.",
+      "explanation": "Las respuestas cortas afirmativas usan pronombre + auxiliar de la pregunta: «Yes, he does». «Yes, he studies» repite el verbo léxico y «Yes, he do» no concuerda con la tercera persona."
+    },
+    {
+      "type": "gap",
+      "text": "___ he live here?",
+      "options": ["Does", "Do", "Is"],
+      "answer": "Does",
+      "explanation": "Con sujetos de tercera persona singular («he, she, it») el auxiliar interrogativo es «does». «Do» corresponde al resto de personas e «is» no acompaña a verbos plenos."
+    },
+    {
+      "type": "speak",
+      "text": "Do you play football?",
+      "es": "¿Juegas al fútbol?"
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada expresión interrogativa con su traducción",
+      "pairs": [
+        { "en": "how", "es": "cómo" },
+        { "en": "which", "es": "cuál / de los cuales" },
+        { "en": "whose", "es": "de quién" },
+        { "en": "how often", "es": "con qué frecuencia" },
+        { "en": "how many", "es": "cuántos (contable)" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the question: \"Why __________ they want to learn English?\"",
+      "options": ["does", "do", "are"],
+      "correct": 1,
+      "hint": "Fíjate en la persona gramatical del sujeto «they».",
+      "explanation": "El sujeto «they» (tercera persona del plural) exige el auxiliar «do». «Does» solo acompaña a sujetos singulares de tercera persona, y «are» no puede ser auxiliar del verbo pleno «want»."
+    },
+    {
+      "type": "gap",
+      "text": "Where ___ they work?",
+      "options": ["do", "does", "are"],
+      "answer": "do",
+      "explanation": "Con el sujeto plural «they», el auxiliar correcto es «do»: «Where do they work?». Usar «does» sería un error de concordancia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Hablas inglés?",
+      "direction": "es-en",
+      "tiles": ["Do", "you", "speak", "English", "Does", "speaks"],
+      "answer": "Do you speak English",
+      "explanation": "Pregunta cerrada con patrón ASV: auxiliar «Do» + sujeto «you» + verbo en forma base «speak». En español basta la entonación; en inglés el auxiliar es imprescindible."
+    },
+    {
+      "type": "gap",
+      "text": "When ___ the class start?",
+      "options": ["does", "do", "is"],
+      "answer": "does",
+      "explanation": "«The class» es un sujeto de tercera persona singular, así que la pregunta requiere «does»: «When does the class start?»."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is a grammatically correct \"Yes/No\" question?",
+      "options": ["Does she plays the piano?", "Do she play the piano?", "Does she play the piano?"],
+      "correct": 2,
+      "hint": "El auxiliar «does» ya porta la marca de tercera persona.",
+      "explanation": "«Does she play the piano?» es correcta: «does» concuerda con «she» y el verbo va en forma base. La primera duplica la marca de tercera persona («does» + «plays») y la segunda usa «do», que no concuerda con «she»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Vive él aquí?",
+      "direction": "es-en",
+      "tiles": ["Does", "he", "live", "here", "Do", "lives"],
+      "answer": "Does he live here",
+      "explanation": "El auxiliar «does» absorbe la marca de tercera persona y el verbo queda en forma base: «Does he live here?». «Does he lives» sería duplicidad morfológica."
+    },
+    {
+      "type": "speak",
+      "text": "Where do they work?",
+      "es": "¿Dónde trabajan ellos?"
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "question", "es": "pregunta" },
+        { "en": "answer", "es": "respuesta" },
+        { "en": "ask", "es": "preguntar" },
+        { "en": "tell", "es": "decir / contar" },
+        { "en": "say", "es": "decir" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Does she ___ tennis?",
+      "options": ["play", "plays", "playing"],
+      "answer": "play",
+      "explanation": "El auxiliar «does» ya porta la marca de tercera persona; el verbo principal vuelve a su forma base: «Does she play tennis?». «Does she plays» es el error clásico de doble marca."
+    },
+    {
+      "type": "quiz",
+      "q": "Complete the dialogue: A: \"How often do you go to the gym?\" B: \"__________ I go three times a week.\"",
+      "options": ["Maybe", "Sure", "Question"],
+      "correct": 1,
+      "hint": "Busca la partícula afirmativa de cortesía y seguridad.",
+      "explanation": "«Sure» funciona como partícula conversacional afirmativa («Claro, voy tres veces por semana»). «Maybe» introduce una duda que contradice la respuesta precisa, y «question» es un sustantivo sin sentido pragmático aquí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Por qué estudias inglés?",
+      "direction": "es-en",
+      "tiles": ["Why", "do", "you", "study", "English", "does"],
+      "answer": "Why do you study English",
+      "explanation": "Regla de oro QASV: «Why» + «do» + «you» + «study». La palabra interrogativa y el auxiliar son inseparables en inglés."
+    },
+    {
+      "type": "gap",
+      "text": "What does he ___?",
+      "options": ["want", "wants", "wanting"],
+      "answer": "want",
+      "explanation": "«What does he wants?» duplicaría la marca de tercera persona. Con «does», el verbo se queda en forma base: «What does he want?»."
+    },
+    {
+      "type": "quiz",
+      "q": "Which question is grammatically correct?",
+      "options": ["What does he want?", "What does he wants?", "What do he wants?"],
+      "correct": 0,
+      "hint": "La «-s» de tercera persona solo puede aparecer en un sitio.",
+      "explanation": "«What does he want?» es correcta porque «does» absorbe la marca de tercera persona y «want» queda en forma base. Las otras dos duplican la «-s» o usan un auxiliar que no concuerda con «he»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Dónde trabajan ellos?",
+      "direction": "es-en",
+      "tiles": ["Where", "do", "they", "work", "does", "works"],
+      "answer": "Where do they work",
+      "explanation": "Con «they» el auxiliar es «do» y el verbo va en forma base: «Where do they work?». El calco del español «Where they work?» omite el auxiliar obligatorio."
+    },
+    {
+      "type": "speak",
+      "text": "Yes, I do.",
+      "es": "Sí, yo sí."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "sure", "es": "seguro/a" },
+        { "en": "maybe", "es": "tal vez / quizás" },
+        { "en": "routine", "es": "rutina" },
+        { "en": "habit", "es": "hábito" },
+        { "en": "schedule", "es": "horario" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Do you like coffee? — Yes, I ___.",
+      "options": ["do", "like", "does"],
+      "answer": "do",
+      "explanation": "Las respuestas cortas se formulan con el auxiliar, no con el verbo léxico: «Yes, I do». Decir «Yes, I like» es el error típico del hispanohablante."
+    },
+    {
+      "type": "quiz",
+      "q": "How should you answer: \"Do you like coffee?\"",
+      "options": ["Yes, I like.", "Yes, do I.", "Yes, I do."],
+      "correct": 2,
+      "hint": "Fórmula: Yes + pronombre sujeto + auxiliar.",
+      "explanation": "La respuesta corta afirmativa es «Yes, I do»: pronombre sujeto + auxiliar. «Yes, I like» usa el verbo léxico en lugar del auxiliar y «Yes, do I» invierte el orden como si fuera una pregunta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Qué quiere ella?",
+      "direction": "es-en",
+      "tiles": ["What", "does", "she", "want", "wants", "do"],
+      "answer": "What does she want",
+      "explanation": "QASV con tercera persona: «What» + «does» + «she» + «want» en forma base. La «-s» viaja al auxiliar «does» y desaparece del verbo."
+    },
+    {
+      "type": "gap",
+      "text": "Does she like chocolate? — No, she ___.",
+      "options": ["doesn't", "don't", "isn't"],
+      "answer": "doesn't",
+      "explanation": "La respuesta corta negativa repite el auxiliar de la pregunta en la misma persona: «No, she doesn't». «Don't» no concuerda con «she» e «isn't» pertenece al verbo «to be»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "No, él no (respuesta corta)",
+      "direction": "es-en",
+      "tiles": ["No", "he", "doesn't", "don't", "isn't"],
+      "answer": "No he doesn't",
+      "explanation": "Fórmula de respuesta corta negativa: «No, + pronombre sujeto + doesn't». El auxiliar debe coincidir en persona con el de la pregunta."
+    },
+    {
+      "type": "speak",
+      "text": "How often do you go to the gym?",
+      "es": "¿Con qué frecuencia vas al gimnasio?"
+    }
+  ]
+}

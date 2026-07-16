@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod06",
+  "module": 6,
+  "title": "Nouns and Articles",
+  "subtitle": "Sustantivos y Artículos",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "book", "es": "libro" },
+        { "en": "pen", "es": "bolígrafo" },
+        { "en": "key", "es": "llave" },
+        { "en": "door", "es": "puerta" },
+        { "en": "window", "es": "ventana" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct indefinite article for the word \"university\":",
+      "options": ["an", "a", "the"],
+      "correct": 1,
+      "hint": "No mires cómo se escribe: pronuncia la palabra y escucha su primer sonido.",
+      "explanation": "«University» empieza con la semiconsonante /j/ («iuniérsiti»), un sonido consonántico, así que exige «a». «An» se reserva para sonidos vocálicos puros y «the» no es un artículo indefinido."
+    },
+    {
+      "type": "gap",
+      "text": "She is ___ university student.",
+      "options": ["a", "an", "the"],
+      "answer": "a",
+      "explanation": "«University» comienza con el sonido consonántico /j/, no con vocal, por eso lleva «a» y no «an». La regla es fonética, no ortográfica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Es un libro",
+      "direction": "es-en",
+      "tiles": ["It", "is", "a", "book", "an", "the"],
+      "answer": "It is a book",
+      "explanation": "«Book» es contable singular y empieza con sonido consonántico /b/, así que necesita «a». Un contable singular nunca va «desnudo»."
+    },
+    {
+      "type": "speak",
+      "text": "The keys are here.",
+      "es": "Las llaves están aquí."
+    },
+    {
+      "type": "gap",
+      "text": "I need ___ hour.",
+      "options": ["a", "an", "the"],
+      "answer": "an",
+      "explanation": "La «h» de «hour» es muda: la palabra empieza con el sonido vocálico /aʊ/, así que exige «an». Compárese con «a house», donde la «h» sí se pronuncia."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is grammatically correct for a general statement about computers?",
+      "options": ["The computers are necessary tools.", "A computer are necessary tools.", "Computers are necessary tools."],
+      "correct": 2,
+      "hint": "Las generalizaciones plurales en inglés no llevan artículo.",
+      "explanation": "Las afirmaciones generales con plurales usan el Artículo Cero: «Computers are...». Con «the» hablaríamos de unos ordenadores específicos, y «a computer are» rompe la concordancia singular-plural."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "notebook", "es": "cuaderno" },
+        { "en": "pencil", "es": "lápiz" },
+        { "en": "computer", "es": "ordenador" },
+        { "en": "screen", "es": "pantalla" },
+        { "en": "mouse", "es": "ratón" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "___ keys are here.",
+      "options": ["The", "A", "An"],
+      "answer": "The",
+      "explanation": "«The» es invariable: sirve para singular y plural, masculino y femenino («the key» / «the keys»). «A/an» solo se usan con contables en singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Me gustan los ordenadores",
+      "direction": "es-en",
+      "tiles": ["I", "like", "computers", "the", "a"],
+      "answer": "I like computers",
+      "explanation": "En las generalizaciones el inglés elide el artículo (Artículo Cero): «I like computers», nunca «I like the computers», que sería un calco del español."
+    },
+    {
+      "type": "quiz",
+      "q": "Fill in the blank: \"He is __________ honest manager.\" (the \"h\" in \"honest\" is silent)",
+      "options": ["an", "the", "a"],
+      "correct": 0,
+      "hint": "Si la «h» es muda, ¿cuál es el primer sonido real de la palabra?",
+      "explanation": "«Honest» tiene «h» muda: su primer fonema es la vocal /ɒ/, y ante sonido vocálico se usa «an». Con «a» habría un choque de vocales, y «the» no es un artículo indefinido."
+    },
+    {
+      "type": "speak",
+      "text": "He is an honest manager.",
+      "es": "Él es un gerente honesto."
+    },
+    {
+      "type": "gap",
+      "text": "I need ___ paper.",
+      "options": ["some", "a", "an"],
+      "answer": "some",
+      "explanation": "«Paper» (la materia) es incontable: no admite el artículo «a/an». Se dice «some paper» o «a piece of paper», con un partitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Quiero una hoja de papel",
+      "direction": "es-en",
+      "tiles": ["I", "want", "a", "sheet", "of", "paper", "an"],
+      "answer": "I want a sheet of paper",
+      "explanation": "El incontable «paper» necesita un clasificador de medida: «a sheet of paper». Decir «a paper» para el material es incorrecto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "keyboard", "es": "teclado" },
+        { "en": "telephone", "es": "teléfono" },
+        { "en": "bag", "es": "bolsa" },
+        { "en": "backpack", "es": "mochila" },
+        { "en": "wall", "es": "pared" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which of the following nouns is uncountable and cannot be used with \"a\"?",
+      "options": ["paper", "mobile", "notebook"],
+      "correct": 0,
+      "hint": "Piensa cuál de las tres palabras nombra una materia continua, no una unidad.",
+      "explanation": "«Paper» como materia es incontable y no admite «a»; se necesita un partitivo («a sheet of paper»). «Mobile» y «notebook» son contables normales: «a mobile», «a notebook»."
+    },
+    {
+      "type": "gap",
+      "text": "It is ___ pen.",
+      "options": ["a", "an", "the"],
+      "answer": "a",
+      "explanation": "«Pen» empieza con el sonido consonántico /p/, así que lleva «a». «An» se usa solo ante sonido vocálico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Es una oficina",
+      "direction": "es-en",
+      "tiles": ["It", "is", "an", "office", "a"],
+      "answer": "It is an office",
+      "explanation": "«Office» empieza con el sonido vocálico /ɒ/, por lo que exige «an» para evitar el choque de dos vocales seguidas."
+    },
+    {
+      "type": "speak",
+      "text": "I like computers.",
+      "es": "Me gustan los ordenadores."
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct?",
+      "options": ["A hour ago.", "An hour ago.", "The hour ago."],
+      "correct": 1,
+      "hint": "La «h» de «hour» no se pronuncia.",
+      "explanation": "«Hour» tiene «h» muda y empieza con el sonido vocálico /aʊ/, así que exige «an». «A hour» aplica la regla por ortografía (error típico) y «the hour ago» no es una expresión indefinida."
+    },
+    {
+      "type": "gap",
+      "text": "This is ___ office.",
+      "options": ["an", "a", "the"],
+      "answer": "an",
+      "explanation": "«Office» comienza con sonido vocálico, de modo que el artículo indefinido correcto es «an». Con «a» se produciría un hiato agramatical."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Las llaves están aquí",
+      "direction": "es-en",
+      "tiles": ["The", "keys", "are", "here", "is", "a"],
+      "answer": "The keys are here",
+      "explanation": "«The» es invariable y vale para el plural «las»: «the keys». El plural «keys» concuerda con «are», no con «is»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "floor", "es": "suelo" },
+        { "en": "ceiling", "es": "techo" },
+        { "en": "light", "es": "luz" },
+        { "en": "clock", "es": "reloj de pared" },
+        { "en": "map", "es": "mapa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct as a general statement?",
+      "options": ["Cars are fast.", "The cars are fast.", "A cars are fast."],
+      "correct": 0,
+      "hint": "¿Hablamos de todos los coches en general o de unos coches concretos?",
+      "explanation": "Para generalizar con un plural se usa el Artículo Cero: «Cars are fast». «The cars» señalaría unos coches específicos ya identificados, y «a» nunca acompaña a un plural."
+    },
+    {
+      "type": "gap",
+      "text": "I like ___.",
+      "options": ["computers", "the computers", "a computers"],
+      "answer": "computers",
+      "explanation": "Al hablar de los ordenadores en general, el inglés prohíbe «the»: «I like computers». «A» es imposible con un sustantivo plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El papel es blanco (en general)",
+      "direction": "es-en",
+      "tiles": ["Paper", "is", "white", "the", "a"],
+      "answer": "Paper is white",
+      "explanation": "«Paper» es incontable y aquí se generaliza, así que va sin artículo (Artículo Cero), aunque en español digamos «el papel»."
+    },
+    {
+      "type": "speak",
+      "text": "Music is relaxing.",
+      "es": "La música es relajante."
+    },
+    {
+      "type": "quiz",
+      "q": "Choose the correct phonetic pronunciation representation for \"the key\" and \"the email\":",
+      "options": ["/ði: kíi/ and /ðə íimeil/", "/ðə kíi/ and /ðə íimeil/", "/ðə kíi/ and /ði: íimeil/"],
+      "correct": 2,
+      "hint": "«The» suena distinto según si la palabra siguiente empieza por consonante o por vocal.",
+      "explanation": "«Key» empieza con la consonante /k/, así que «the» se reduce a /ðə/; «email» empieza con la vocal /i:/, así que «the» se tensa en /ði:/. Las otras opciones invierten o ignoran esta alternancia."
+    },
+    {
+      "type": "gap",
+      "text": "I want a sheet of ___.",
+      "options": ["paper", "papers", "a paper"],
+      "answer": "paper",
+      "explanation": "Tras el partitivo «a sheet of» va el incontable en su forma base: «paper». Este sustantivo, como materia, no se pluraliza ni lleva «a»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los ordenadores son útiles",
+      "direction": "es-en",
+      "tiles": ["Computers", "are", "useful", "The", "is"],
+      "answer": "Computers are useful",
+      "explanation": "Generalización plural: sin artículo en inglés («Computers are useful»). Añadir «The» cambiaría el sentido a unos ordenadores concretos."
+    }
+  ]
+}

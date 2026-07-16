@@ -1,0 +1,240 @@
+{
+  "id": "a2-mod08",
+  "module": 8,
+  "title": "Indefinite Pronouns",
+  "subtitle": "Pronombres Indefinidos",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada pronombre indefinido con su traducción",
+      "pairs": [
+        { "en": "somebody", "es": "alguien" },
+        { "en": "something", "es": "algo" },
+        { "en": "somewhere", "es": "en algún lugar" },
+        { "en": "nobody", "es": "nadie" },
+        { "en": "nothing", "es": "nada" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "I am bored. There is ________ to do in this small town.",
+      "options": ["nothing", "anything", "something"],
+      "correct": 0,
+      "hint": "El verbo está en afirmativo («is») y el contexto de aburrimiento exige un significado negativo.",
+      "explanation": "Con verbo afirmativo («is») y sentido negativo («nada que hacer») se usa «nothing». «Anything» exigiría un verbo negativo («There isn't anything») y «something» implicaría que sí hay cosas que hacer, contradiciendo «I am bored»."
+    },
+    {
+      "type": "gap",
+      "text": "I don't know ___ here.",
+      "options": ["anybody", "nobody", "somebody"],
+      "answer": "anybody",
+      "explanation": "El verbo ya está en negativo («don't»), así que se usa el pronombre de polaridad abierta «anybody». «Nobody» crearía una doble negación, prohibida en inglés."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "No vi a nadie",
+      "direction": "es-en",
+      "tiles": ["I", "saw", "nobody", "anybody", "didn't"],
+      "answer": "I saw nobody",
+      "explanation": "Estructura A de la negación simple: verbo afirmativo («saw») + pronombre negativo («nobody»). La alternativa sería «I didn't see anybody», nunca mezclar las dos."
+    },
+    {
+      "type": "speak",
+      "text": "Would you like something to eat?",
+      "es": "¿Te gustaría algo de comer?"
+    },
+    {
+      "type": "quiz",
+      "q": "Would you like ________ to drink, or are you not thirsty?",
+      "options": ["anything", "something", "nothing"],
+      "correct": 1,
+      "hint": "Es una oferta amable en la que se espera una respuesta afirmativa.",
+      "explanation": "En preguntas que son ofertas o invitaciones de cortesía se usa «something», no «anything». «Nothing» no encaja ni sintáctica ni semánticamente en una oferta directa."
+    },
+    {
+      "type": "gap",
+      "text": "There is ___ in the fridge.",
+      "options": ["nothing", "anything", "no"],
+      "answer": "nothing",
+      "explanation": "Con el verbo en afirmativo («is»), la carga negativa recae en el pronombre «nothing». «Anything» necesitaría un verbo negativo: «There isn't anything»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "No hay nada en la nevera",
+      "direction": "es-en",
+      "tiles": ["There", "is", "nothing", "in", "the", "fridge", "anything", "isn't"],
+      "answer": "There is nothing in the fridge",
+      "explanation": "Verbo afirmativo («is») + pronombre negativo («nothing»). El español usa doble negación («no hay nada»), pero el inglés solo tolera una marca negativa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "anything", "es": "algo/nada" },
+        { "en": "anywhere", "es": "en cualquier lugar" },
+        { "en": "everybody", "es": "todos" },
+        { "en": "everything", "es": "todo" },
+        { "en": "everywhere", "es": "en todos lados" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Everyone ___ here.",
+      "options": ["is", "are", "be"],
+      "answer": "is",
+      "explanation": "Los compuestos con «every-» son gramaticalmente singulares y exigen el verbo en tercera persona del singular («is»), aunque en español digamos «todos están»."
+    },
+    {
+      "type": "quiz",
+      "q": "The classroom was completely empty; I could see ________ there.",
+      "options": ["no one", "anyone", "someone"],
+      "correct": 0,
+      "hint": "El verbo va en afirmativo («could see») y el aula estaba vacía.",
+      "explanation": "Con verbo afirmativo se usa el pronombre negativo «no one» para expresar «nadie». «Anyone» requeriría verbo negativo («couldn't see anyone») y «someone» contradice que el aula estuviera vacía («empty»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Todos están aquí",
+      "direction": "es-en",
+      "tiles": ["Everyone", "is", "here", "are", "all"],
+      "answer": "Everyone is here",
+      "explanation": "«Everyone» exige concordancia en singular («is»), aunque el español use el plural «están». «Everyone are» es un error clásico del hispanohablante."
+    },
+    {
+      "type": "speak",
+      "text": "There is no one in the house.",
+      "es": "No hay nadie en la casa."
+    },
+    {
+      "type": "gap",
+      "text": "Can ___ help me, please?",
+      "options": ["someone", "no one", "nothing"],
+      "answer": "someone",
+      "explanation": "Aunque es una pregunta, se trata de una petición en la que se espera respuesta afirmativa, por eso se usa «someone» (la excepción de cortesía de los compuestos con «some-»)."
+    },
+    {
+      "type": "quiz",
+      "q": "We searched for the lost dog, but we could not find it ________.",
+      "options": ["somewhere", "nowhere", "anywhere"],
+      "correct": 2,
+      "hint": "El verbo ya está en negativo («could not»): solo cabe la polaridad abierta.",
+      "explanation": "Con verbo negativo («could not find») se emplea «anywhere». «Nowhere» crearía una doble negación prohibida, y «somewhere» se reserva para oraciones afirmativas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "person", "es": "persona" },
+        { "en": "place", "es": "lugar" },
+        { "en": "object", "es": "objeto" },
+        { "en": "idea", "es": "idea" },
+        { "en": "empty", "es": "vacío" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Puedes sentarte en cualquier lugar",
+      "direction": "es-en",
+      "tiles": ["You", "can", "sit", "anywhere", "somewhere", "nowhere"],
+      "answer": "You can sit anywhere",
+      "explanation": "En afirmativa, «anywhere» significa «en cualquier lugar, no importa cuál». «Somewhere» sería «en algún lugar concreto» y no encaja con el sentido de libre elección."
+    },
+    {
+      "type": "gap",
+      "text": "Is there ___ in the box?",
+      "options": ["anything", "something", "nothing"],
+      "answer": "anything",
+      "explanation": "En preguntas abiertas (sin oferta ni petición de cortesía) se usa el compuesto con «any-»: «Is there anything...?»."
+    },
+    {
+      "type": "speak",
+      "text": "Everyone is ready.",
+      "es": "Todos están listos."
+    },
+    {
+      "type": "quiz",
+      "q": "Don't worry! Everyone ________ ready to start the meeting now.",
+      "options": ["are", "be", "is"],
+      "correct": 2,
+      "hint": "Los compuestos con «every-» se comportan como singulares.",
+      "explanation": "«Everyone» exige concordancia en tercera persona del singular: «is». «Are» es plural (calco del español «todos están») y «be» es la forma base sin conjugar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Alguien dejó la puerta abierta",
+      "direction": "es-en",
+      "tiles": ["Somebody", "left", "the", "door", "open", "anybody"],
+      "answer": "Somebody left the door open",
+      "explanation": "En oración afirmativa se usa el compuesto con «some-»: «somebody». «Anybody» quedaría reservado para negativas e interrogativas."
+    },
+    {
+      "type": "gap",
+      "text": "We didn't go ___.",
+      "options": ["anywhere", "nowhere", "somewhere"],
+      "answer": "anywhere",
+      "explanation": "Con verbo negativo («didn't go») se usa «anywhere». «Nowhere» solo sería posible con verbo afirmativo («We went nowhere»)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "full", "es": "lleno" },
+        { "en": "space", "es": "espacio" },
+        { "en": "group", "es": "grupo" },
+        { "en": "single", "es": "solo/único" },
+        { "en": "exist", "es": "existir" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Which sentence is correct?",
+      "options": ["I don't know nobody.", "I don't know anybody.", "I not know anybody."],
+      "correct": 1,
+      "hint": "La balanza de la negación solo tolera una «pila negativa».",
+      "explanation": "«I don't know anybody» combina verbo negativo + «any-», la estructura correcta. «I don't know nobody» es doble negación prohibida, y «I not know anybody» carece del auxiliar necesario para negar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tengo algo en el ojo",
+      "direction": "es-en",
+      "tiles": ["I", "have", "something", "in", "my", "eye", "anything"],
+      "answer": "I have something in my eye",
+      "explanation": "Oración afirmativa que expresa existencia: se usa «something». «Anything» se reserva para negativas y preguntas abiertas."
+    },
+    {
+      "type": "gap",
+      "text": "Everywhere ___ beautiful.",
+      "options": ["looks", "look", "looking"],
+      "answer": "looks",
+      "explanation": "«Everywhere», como todos los compuestos con «every-», es singular: el verbo lleva la «-s» de tercera persona («looks»)."
+    },
+    {
+      "type": "speak",
+      "text": "Anyone can solve this simple puzzle.",
+      "es": "Cualquiera puede resolver este rompecabezas sencillo."
+    },
+    {
+      "type": "quiz",
+      "q": "You can sit ________ you like; the room is empty.",
+      "options": ["anywhere", "somewhere", "nowhere"],
+      "correct": 0,
+      "hint": "El sentido es «no importa en qué lugar».",
+      "explanation": "En afirmativas, «anywhere» significa «en cualquier lugar». «Somewhere» apuntaría a un lugar concreto no especificado y «nowhere» daría un sentido negativo que no encaja."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "No fuimos a ningún lado",
+      "direction": "es-en",
+      "tiles": ["We", "didn't", "go", "anywhere", "nowhere", "went"],
+      "answer": "We didn't go anywhere",
+      "explanation": "Estructura B de la negación: verbo negativo («didn't go») + «anywhere». Cuidado con el distractor «went»: tras «didn't» el verbo va en forma base."
+    },
+    {
+      "type": "gap",
+      "text": "I have ___ in my eye.",
+      "options": ["something", "anything", "nothing"],
+      "answer": "something",
+      "explanation": "Oración afirmativa con existencia real («tengo algo»): compuesto con «some-». «Anything» y «nothing» no encajan en una afirmativa de este tipo."
+    }
+  ]
+}

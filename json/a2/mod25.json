@@ -1,0 +1,240 @@
+{
+  "id": "a2-mod25",
+  "module": 25,
+  "title": "Review and Consolidation A2",
+  "subtitle": "Repaso y Consolidación A2",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "did", "es": "hizo" },
+        { "en": "done", "es": "hecho" },
+        { "en": "went", "es": "fue" },
+        { "en": "saw", "es": "vio" },
+        { "en": "seen", "es": "visto" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "I _______ my homework yesterday evening.",
+      "options": ["did", "have done", "done"],
+      "correct": 0,
+      "hint": "El marcador «yesterday» cierra el marco temporal: ¿qué tiempo exige eso?",
+      "explanation": "«Yesterday» ancla la acción en un tiempo concluido y exige pasado simple («did»). El presente perfecto es incompatible con marcadores pasados cerrados, y «done» no puede ir solo sin auxiliar."
+    },
+    {
+      "type": "gap",
+      "text": "I ___ to London last year.",
+      "options": ["went", "have gone", "go"],
+      "answer": "went",
+      "explanation": "El marcador «last year» cierra el marco temporal y prohíbe el presente perfecto: se usa pasado simple («went»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Fui a Londres el año pasado",
+      "direction": "es-en",
+      "tiles": ["I", "went", "to", "London", "last", "year", "have", "gone"],
+      "answer": "I went to London last year",
+      "explanation": "Con un marco temporal cerrado («last year») el inglés exige pasado simple «went», nunca «have gone»."
+    },
+    {
+      "type": "speak",
+      "text": "I went to Berlin in 2020.",
+      "es": "Fui a Berlín en 2020."
+    },
+    {
+      "type": "quiz",
+      "q": "They _______ to Italy twice this year.",
+      "options": ["went", "have been", "have gone"],
+      "correct": 1,
+      "hint": "«This year» es un marco temporal todavía abierto, y «twice» implica que fueron y volvieron.",
+      "explanation": "«Have been» expresa visitas completadas dentro de un marco aún abierto («this year»). «Went» requeriría un tiempo cerrado y «have gone» los situaría todavía en Italia, contradiciendo «twice»."
+    },
+    {
+      "type": "gap",
+      "text": "He has ___ that movie already.",
+      "options": ["seen", "saw", "see"],
+      "answer": "seen",
+      "explanation": "El presente perfecto exige el participio pasado (tercera columna): «has seen». «Saw» es pasado simple y no puede seguir al auxiliar «has»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "had", "es": "tenía" },
+        { "en": "been", "es": "sido" },
+        { "en": "call", "es": "llamar" },
+        { "en": "travel", "es": "viajar" },
+        { "en": "buy", "es": "comprar" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Él ha visto esa película",
+      "direction": "es-en",
+      "tiles": ["He", "has", "seen", "that", "movie", "saw", "have"],
+      "answer": "He has seen that movie",
+      "explanation": "Regla de las 3C del presente perfecto: concordancia («has» con «he») + tercera columna («seen», no «saw») + conexión con el presente."
+    },
+    {
+      "type": "gap",
+      "text": "They ___ gone yet.",
+      "options": ["haven't", "don't have", "aren't"],
+      "answer": "haven't",
+      "explanation": "La negación del presente perfecto se hace con «haven't/hasn't», nunca con «don't»: «They haven't gone yet»."
+    },
+    {
+      "type": "quiz",
+      "q": "I haven't read that book _______.",
+      "options": ["already", "yesterday", "yet"],
+      "correct": 2,
+      "hint": "Frase negativa en presente perfecto: hay un adverbio con «imán» hacia el final de la oración.",
+      "explanation": "«Yet» es la colocación estándar al final de oraciones negativas («aún no»). «Already» no se usa en negativas de este nivel y «yesterday» exigiría pasado simple («I didn't read...»)."
+    },
+    {
+      "type": "speak",
+      "text": "I think it will be sunny tomorrow.",
+      "es": "Creo que mañana hará sol."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Siempre llego tarde",
+      "direction": "es-en",
+      "tiles": ["I", "am", "always", "late", "is", "yesterday"],
+      "answer": "I am always late",
+      "explanation": "El adverbio de frecuencia va después del verbo «to be»: «I am always late», nunca «I always am late»."
+    },
+    {
+      "type": "gap",
+      "text": "___ you travel to Spain?",
+      "options": ["Did", "Was", "Have"],
+      "answer": "Did",
+      "explanation": "El auxiliar de interrogación para verbos léxicos en pasado simple es «did», no el verbo «be» («was/were») ni «have», que exigiría participio."
+    },
+    {
+      "type": "quiz",
+      "q": "We _______ to Berlin tomorrow morning. Our train leaves at 8:00.",
+      "options": ["travel", "are traveling", "will travel"],
+      "correct": 1,
+      "hint": "Hay billetes y horario cerrado: es un «arrangement» confirmado.",
+      "explanation": "El presente continuo con valor de futuro («are traveling») expresa planes cerrados y confirmados (arrangements). «Will» no se usa con reservas ya hechas y el presente simple no describe planes personales."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "sell", "es": "vender" },
+        { "en": "eat", "es": "comer" },
+        { "en": "drink", "es": "beber" },
+        { "en": "read", "es": "leer" },
+        { "en": "write", "es": "escribir" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "\"Where is Sarah?\" - \"She has ___ left the office.\"",
+      "options": ["already", "yet", "never"],
+      "answer": "already",
+      "explanation": "«Already» va en posición intermedia (entre «has» y el participio) y denota que la acción afirmativa ya ocurrió. «Yet» solo va al final de negativas e interrogativas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ella nunca come carne",
+      "direction": "es-en",
+      "tiles": ["She", "never", "eats", "meat", "eat", "always"],
+      "answer": "She never eats meat",
+      "explanation": "«Never» se coloca antes del verbo principal y, en presente simple afirmativo, la tercera persona conserva la «-s»: «eats»."
+    },
+    {
+      "type": "speak",
+      "text": "Look! He is going to fall.",
+      "es": "¡Mira! Se va a caer."
+    },
+    {
+      "type": "quiz",
+      "q": "\"What _______ you do last weekend?\" - \"I visited my family.\"",
+      "options": ["did", "were", "have"],
+      "correct": 0,
+      "hint": "«Last weekend» es tiempo cerrado y el verbo «do» aquí es léxico: piensa en su auxiliar.",
+      "explanation": "«Did» es el auxiliar obligatorio de las preguntas en pasado simple con verbos de acción. «Were» pertenece a «be» y «have» exigiría el participio «done», no la forma base «do»."
+    },
+    {
+      "type": "gap",
+      "text": "We had a call from the manager two hours ___.",
+      "options": ["ago", "since", "for"],
+      "answer": "ago",
+      "explanation": "«Ago» marca un momento cerrado del pasado y acompaña al pasado simple («had»); «since» y «for» son marcadores del presente perfecto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "speak", "es": "hablar" },
+        { "en": "yesterday", "es": "ayer" },
+        { "en": "tomorrow", "es": "mañana" },
+        { "en": "already", "es": "ya" },
+        { "en": "yet", "es": "aún" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿Has escrito una carta?",
+      "direction": "es-en",
+      "tiles": ["Have", "you", "written", "a", "letter", "wrote", "did"],
+      "answer": "Have you written a letter",
+      "explanation": "Tras el auxiliar «have» va el participio pasado «written» (tercera columna), nunca el pasado simple «wrote»."
+    },
+    {
+      "type": "quiz",
+      "q": "Have you ever _______ a letter in English?",
+      "options": ["write", "wrote", "written"],
+      "correct": 2,
+      "hint": "El auxiliar «have» pide la tercera columna del verbo irregular.",
+      "explanation": "«Written» es el participio pasado requerido tras «have». «Write» es la forma base y «wrote» el pasado simple: ninguno puede formar el presente perfecto."
+    },
+    {
+      "type": "gap",
+      "text": "This bag is heavy. I ___ help you.",
+      "options": ["will", "am going to", "am"],
+      "answer": "will",
+      "explanation": "Los ofrecimientos espontáneos ante una situación inmediata usan siempre «will» («I'll help you»), nunca «going to», que expresa planes previos."
+    },
+    {
+      "type": "speak",
+      "text": "I haven't read that book yet.",
+      "es": "Aún no he leído ese libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Viajamos a Berlín mañana",
+      "direction": "es-en",
+      "tiles": ["We", "are", "traveling", "to", "Berlin", "tomorrow", "will"],
+      "answer": "We are traveling to Berlin tomorrow",
+      "explanation": "Un plan cerrado con horario (arrangement) se expresa con presente continuo de valor futuro: «are traveling», no con «will»."
+    },
+    {
+      "type": "quiz",
+      "q": "Look! That bird is _______ to fly.",
+      "options": ["will", "going", "go"],
+      "correct": 1,
+      "hint": "Hay una evidencia visible («Look!»): es la perífrasis de futuro inminente.",
+      "explanation": "«Going» completa la perífrasis «be going to» tras el auxiliar «is», usada para predicciones con evidencia. «Is will» es agramatical y «go» carece del «-ing» obligatorio."
+    },
+    {
+      "type": "gap",
+      "text": "I am ___ the doctor at 3 o'clock.",
+      "options": ["meeting", "meet", "will meet"],
+      "answer": "meeting",
+      "explanation": "Las citas confirmadas (arrangements) usan presente continuo con valor de futuro: «am meeting». Tras «am» no cabe la forma base ni «will»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos no se han ido todavía",
+      "direction": "es-en",
+      "tiles": ["They", "haven't", "gone", "yet", "don't", "have"],
+      "answer": "They haven't gone yet",
+      "explanation": "La negación del presente perfecto es «haven't» + participio, con «yet» atraído al final de la oración; «don't have gone» es un calco agramatical."
+    }
+  ]
+}
