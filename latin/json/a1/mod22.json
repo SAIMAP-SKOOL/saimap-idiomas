@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el adverbio de modo derivado del adjetivo «clarus, -a, -um»?",
-      "options": ["clare", "clariter", "claramente"],
-      "correct": 0,
-      "hint": "Los adjetivos de la primera clase (los que terminan en «-us, -a, -um») forman el adverbio con una sola vocal final.",
-      "explanation": "Al ser un adjetivo de la primera clase, «clarus» forma su adverbio de modo con la desinencia «-e»: «clare». «Clariter» aplica a otra clase de adjetivos y «claramente» es un calco del sufijo romance «-mente», que el latín clásico no usa."
+      "q": "¿Cómo se dice «El poeta escribe con claridad»?",
+      "options": ["Poeta clariter scribit.", "Poeta clare scribit.", "Poeta claramente scribit."],
+      "correct": 1,
+      "hint": "«Clarus» es un adjetivo de primera clase (terminado en «-us, -a, -um»): su adverbio se forma con una sola vocal final, no con «-iter» ni con un sufijo romance.",
+      "explanation": "«Clarus» forma su adverbio de modo con «-e»: «Poeta clare scribit». «Clariter» es la desinencia propia de otra clase de adjetivos y «claramente» es un calco del sufijo romance «-mente», que el latín clásico no usa."
     },
     {
       "type": "gap",
@@ -45,15 +45,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la diferencia sintáctica entre «ubi» y «quo»?",
-      "options": [
-        "Ubi indica procedencia y quo dirección.",
-        "No hay diferencia entre ambos, son sinónimos.",
-        "Ubi indica reposo (dónde) y quo movimiento o dirección (a dónde)."
-      ],
+      "q": "¿Cómo preguntas «¿A dónde vas?» en latín?",
+      "options": ["Ubi vadis?", "Unde vadis?", "Quo vadis?"],
       "correct": 2,
-      "hint": "Piensa en la diferencia entre estar quieto en un sitio y moverse hacia él.",
-      "explanation": "El latín es muy estricto: «ubi» se usa exclusivamente para verbos de estado o reposo («ubi est?»), mientras que «quo» se reserva para verbos de movimiento hacia un lugar («quo vadis?»)."
+      "hint": "El verbo «vadis» (vas) expresa movimiento hacia un lugar, no reposo ni procedencia.",
+      "explanation": "El verbo de movimiento «vadis» exige el adverbio de dirección «quo» (a dónde). «Ubi» se usa solo con verbos de reposo («ubi est?») y «unde» pregunta por la procedencia (de dónde), ninguno encaja con «vadis»."
     },
     {
       "type": "gap",
@@ -90,11 +86,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el adverbio de modo del adjetivo «fortis, forte»?",
-      "options": ["forte", "fortiter", "fortitermente"],
-      "correct": 1,
-      "hint": "Este adjetivo pertenece a la segunda clase (tercera declinación): su desinencia adverbial no es una sola vocal.",
-      "explanation": "Los adjetivos de la segunda clase forman el adverbio de modo con la terminación «-ter» añadida a la raíz, resultando «fortiter» (valientemente). «Forte» es la forma neutra del adjetivo y «fortitermente» mezcla dos sufijos de forma incorrecta."
+      "q": "¿Cómo se dice «El soldado lucha valientemente»?",
+      "options": ["Miles fortiter pugnat.", "Miles forte pugnat.", "Miles fortitermente pugnat."],
+      "correct": 0,
+      "hint": "«Fortis» es un adjetivo de segunda clase (tercera declinación): su desinencia adverbial no es una sola vocal, sino «-ter».",
+      "explanation": "«Fortis» forma su adverbio con «-ter»: «Miles fortiter pugnat». «Forte» es solo la forma neutra del adjetivo, no un adverbio, y «fortitermente» mezcla incorrectamente dos sufijos."
     },
     {
       "type": "speak",
@@ -187,11 +183,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma del adverbio del adjetivo «prudens, prudentis»?",
-      "options": ["prudentiter", "prudente", "prudenter"],
-      "correct": 2,
-      "hint": "La raíz de este adjetivo termina en «-nt»: la desinencia adverbial se simplifica fonéticamente.",
-      "explanation": "Para adjetivos cuya raíz termina en «-nt» («prudent-»), la terminación «-iter» se simplifica dando la forma «prudenter». «Prudentiter» no simplifica la raíz y «prudente» es forma de ablativo del adjetivo, no un adverbio."
+      "q": "¿Cómo se dice «El discípulo escribe prudentemente»?",
+      "options": ["Discipulus prudentiter scribit.", "Discipulus prudenter scribit.", "Discipulus prudente scribit."],
+      "correct": 1,
+      "hint": "La raíz de «prudens» termina en «-nt»: la desinencia adverbial «-iter» se simplifica fonéticamente.",
+      "explanation": "Para raíces terminadas en «-nt» («prudent-»), la terminación se simplifica en «prudenter»: «Discipulus prudenter scribit». «Prudentiter» no simplifica la raíz y «prudente» es forma de ablativo del adjetivo, no un adverbio."
     },
     {
       "type": "gap",

@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma del Nominativo singular neutro del demostrativo «hic»?",
-      "options": ["hoc", "haec", "hic"],
+      "q": "¿Cómo se dice «esto es un regalo»?",
+      "options": ["Hoc est donum.", "Haec est donum.", "Hic est donum."],
       "correct": 0,
-      "hint": "No coincide con el masculino ni con el femenino.",
-      "explanation": "El nominativo singular neutro de este demostrativo es «hoc». «Hic» es el masculino y «haec» el femenino."
+      "hint": "Donum es neutro: el demostrativo debe concordar en género neutro.",
+      "explanation": "«Donum» es neutro, así que el demostrativo debe ir en su forma neutra «hoc». «Haec» es femenino y «hic» es masculino: ambos romperían la concordancia de género."
     },
     {
       "type": "gap",
@@ -71,11 +71,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el genitivo singular del demostrativo «iste» para el género femenino?",
-      "options": ["isti", "istae", "istius"],
-      "correct": 2,
-      "hint": "El genitivo singular es común a los tres géneros.",
-      "explanation": "Todos los demostrativos pronominales forman el genitivo singular común con la terminación «-ius», resultando «istius» para masculino, femenino y neutro."
+      "q": "¿Cómo se dice «el libro de esa mujer»?",
+      "options": ["Liber istius feminae.", "Liber isti feminae.", "Liber istae feminae."],
+      "correct": 0,
+      "hint": "El genitivo singular de los demostrativos pronominales termina siempre en -ius, para los tres géneros.",
+      "explanation": "Todos los demostrativos pronominales forman el genitivo singular común con la terminación «-ius»: «istius» («de esa»). «Isti» sería dativo/nominativo plural masculino, e «istae» no es una forma de genitivo de este pronombre."
     },
     {
       "type": "gap",
@@ -94,11 +94,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Hunc hominem video», ¿en qué caso está «Hunc»?",
-      "options": ["Nominativo singular masculino.", "Acusativo singular masculino.", "Ablativo singular masculino."],
-      "correct": 1,
-      "hint": "Hominem es el objeto directo de video.",
-      "explanation": "«Hunc» es la forma de acusativo singular masculino de «hic», concordando con «hominem» (objeto directo de «video»)."
+      "q": "¿Cuál es la traducción correcta de «Hunc hominem video»?",
+      "options": ["Este hombre me ve.", "Veo a aquel hombre.", "Veo a este hombre."],
+      "correct": 2,
+      "hint": "Hunc es el acusativo singular masculino de hic: concuerda con hominem, objeto directo de video.",
+      "explanation": "«Hunc» es el acusativo singular masculino de «hic», concordando con «hominem» (objeto directo de «video»): «veo a este hombre». No significa «aquel» (eso sería «illum») ni cambia quién realiza la acción."
     },
     {
       "type": "gap",
@@ -133,11 +133,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el neutro plural de «ille, illa, illud» en Nominativo?",
-      "options": ["illud", "illae", "illa"],
-      "correct": 2,
-      "hint": "Los neutros plurales de la declinación pronominal terminan en -a.",
-      "explanation": "Los casos directos del plural de los neutros de la declinación pronominal terminan en «-a», resultando «illa» (aquellas cosas)."
+      "q": "¿Cómo se dice «aquellas cosas son buenas»?",
+      "options": ["Illa bona sunt.", "Illae bonae sunt.", "Illud bonum est."],
+      "correct": 0,
+      "hint": "Los neutros plurales de la declinación pronominal terminan en -a, no en -ae.",
+      "explanation": "El nominativo plural neutro de «ille, illa, illud» es «illa» («aquellas cosas»), concordando con el adjetivo neutro plural «bona» y el verbo «sunt». «Illae» es femenino plural e «illud» es neutro singular: ambos rompen la concordancia de número o género."
     },
     {
       "type": "gap",

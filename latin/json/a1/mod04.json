@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el genitivo plural femenino del adjetivo miser, misera, miserum?",
-      "options": ["miserae", "miserarum", "miserorum"],
-      "correct": 1,
-      "hint": "Las formas femeninas de los adjetivos de primera clase se declinan por la 1ª declinación: ¿qué desinencia tiene su genitivo plural?",
-      "explanation": "El genitivo plural de la 1ª declinación es «-arum»: «miserarum». «miserae» es singular (genitivo, dativo o nominativo plural, pero no genitivo plural) y «miserorum» aplica la desinencia masculina/neutra de la 2ª declinación."
+      "q": "¿Cómo se dice «Escuchamos las palabras de las mujeres desgraciadas»?",
+      "options": ["Verba feminarum miserarum audimus.", "Verba feminae miserae audimus.", "Verba feminarum miserorum audimus."],
+      "correct": 0,
+      "hint": "«De las mujeres desgraciadas» es un genitivo plural femenino: ambas palabras (femina y miser) deben concordar en ese caso.",
+      "explanation": "«Feminarum miserarum» (genitivo plural femenino, -arum) expresa «de las mujeres desgraciadas». «Feminae miserae» está en singular, y «miserorum» aplica la desinencia masculina/neutra del genitivo plural, que no concuerda con «feminarum» (femenino)."
     },
     {
       "type": "gap",
@@ -182,11 +182,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Por qué «bella longa» (las guerras largas) puede confundirse visualmente con un sustantivo femenino singular?",
-      "options": ["Porque «bella» y «longa» son neutro plural, y esa desinencia -a coincide por homonimia con la de un femenino singular como «puella bona»", "Porque «bellum» es en realidad de la primera declinación femenina", "Porque el plural neutro y el plural femenino comparten siempre la misma raíz léxica"],
-      "correct": 0,
-      "hint": "Piensa en qué otra desinencia -a conoces del femenino singular y compárala con el neutro plural.",
-      "explanation": "El neutro plural de la 2ª declinación termina en -a (bella, longa), la misma desinencia que el nominativo singular femenino de la 1ª declinación (puella bona). Es pura homonimia formal: «bellum» sigue siendo neutro de la 2ª declinación, y neutro plural y femenino singular no comparten raíz, solo coinciden por casualidad en esa terminación."
+      "q": "¿Cómo se dice «Las guerras largas son peligrosas»?",
+      "options": ["Bella longae sunt periculosae.", "Bella longa sunt periculosa.", "Bellum longum est periculosum."],
+      "correct": 1,
+      "hint": "«Bella» es neutro plural (de bellum): tanto «longa» como «periculosa» deben concordar también en neutro plural, con la misma desinencia -a que usa el femenino singular, aunque no sea femenino.",
+      "explanation": "«Bella longa... periculosa» concuerda correctamente en neutro plural (-a). «Bellae longae... periculosae» aplica por error la desinencia femenina de la 1ª declinación (mismo aspecto que «puella bona»), y «bellum longum... periculosum» cambia indebidamente el número a singular."
     },
     {
       "type": "gap",

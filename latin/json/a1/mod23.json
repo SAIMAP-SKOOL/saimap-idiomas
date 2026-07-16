@@ -32,15 +32,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la tercera persona singular del presente de indicativo de «prosum»?",
+      "q": "¿Cómo se dice «La ayuda aprovecha a los ciudadanos»?",
       "options": [
-        "proest",
-        "prod-est-is",
-        "prodest"
+        "Auxilium proest civibus.",
+        "Auxilium prosunt civibus.",
+        "Auxilium prodest civibus."
       ],
       "correct": 2,
-      "hint": "El verbo «sum» en tercera persona empieza por vocal: recuerda la consonante de apoyo.",
-      "explanation": "Se forma uniendo el prefijo «pro-» a la tercera persona «est». Al empezar esta con vocal, se inserta la «d» epentética, resultando «prodest». «Proest» olvida la «d» y «prod-est-is» es la forma de segunda persona plural."
+      "hint": "El verbo «sum» en tercera persona empieza por vocal: recuerda la consonante de apoyo «d».",
+      "explanation": "La tercera persona singular de «prosum» inserta la «d» epentética ante la vocal de «est»: «Auxilium prodest civibus». «Proest» olvida esa «d» y «prosunt» es la forma de plural, no de singular."
     },
     {
       "type": "gap",
@@ -74,15 +74,15 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Pax prodest civibus», ¿en qué caso está «civibus»?",
+      "q": "¿Cuál es la traducción correcta de «Pax prodest civibus»?",
       "options": [
-        "Dativo plural, régimen de «prodest».",
-        "Ablativo instrumental.",
-        "Acusativo plural, objeto directo."
+        "La paz aprovecha a los ciudadanos.",
+        "La paz daña a los ciudadanos.",
+        "Los ciudadanos aprovechan a la paz."
       ],
       "correct": 0,
-      "hint": "Piensa en quién recibe el beneficio de la paz, no en un instrumento ni en un objeto directo.",
-      "explanation": "El verbo compuesto «prosum» (aprovechar / ser útil) rige obligatoriamente el caso Dativo para señalar al beneficiario («civibus» / a los ciudadanos), nunca el acusativo del calco español."
+      "hint": "«Prodest» significa «aprovecha»; fíjate en quién es el sujeto y quién recibe el beneficio.",
+      "explanation": "«Pax» es el sujeto (aprovecha), «civibus» va en dativo porque «prosum» rige ese caso para señalar al beneficiario (a los ciudadanos). Las otras opciones invierten el sentido del verbo o los papeles de sujeto y beneficiario."
     },
     {
       "type": "gap",
@@ -239,15 +239,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál de los siguientes verbos compuestos de «sum» significa «dañar o estorbar»?",
+      "q": "¿Cómo se dice «El dinero daña al hombre»?",
       "options": [
-        "adsum",
-        "desum",
-        "obsum"
+        "Pecunia adest homini.",
+        "Pecunia deest homini.",
+        "Pecunia obset homini."
       ],
       "correct": 2,
-      "hint": "Piensa en el valor adverso del prefijo «ob-» (contra).",
-      "explanation": "«Obsum» (prefijo «ob-», contra) significa «dañar, estorbar o perjudicar». «Adsum» es asistir/estar presente y «desum» es faltar."
+      "hint": "Piensa en el valor adverso del prefijo «ob-» (contra) frente a «ad-» (presencia) y «de-» (ausencia).",
+      "explanation": "«Obset» (de «obsum», prefijo «ob-», contra) significa «daña / estorba»: «Pecunia obset homini». «Adest» (de «adsum») significaría que el dinero está presente, y «deest» (de «desum»), que falta; ninguno expresa daño."
     },
     {
       "type": "gap",
@@ -307,15 +307,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el imperfecto en primera persona plural de «prosum»?",
+      "q": "¿Cómo se dice «Éramos útiles a la patria»?",
       "options": [
-        "prodestis",
-        "proderamus",
-        "proeramus"
+        "Prodestis patriae.",
+        "Proderamus patriae.",
+        "Proeramus patriae."
       ],
       "correct": 1,
-      "hint": "El imperfecto de «sum» empieza siempre por vocal: aplica la misma regla que en el presente.",
-      "explanation": "Se une el prefijo «pro-» a «eramus» (imperfecto de «sum»). Al empezar con vocal, se exige la «d» de apoyo, resultando «proderamus» (éramos útiles). «Prodestis» es presente y «proeramus» omite la «d»."
+      "hint": "El imperfecto de «sum» empieza siempre por vocal: aplica la misma regla de la «d» de apoyo que en el presente.",
+      "explanation": "Se une «pro-» a «eramus» (imperfecto de «sum»); al empezar con vocal, se exige la «d» de apoyo: «Proderamus patriae» (éramos útiles a la patria). «Prodestis» es presente y «proeramus» omite la «d»."
     },
     {
       "type": "gap",

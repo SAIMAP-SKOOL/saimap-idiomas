@@ -79,11 +79,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Regīna dolōre lacrimat», el sustantivo dolōre funciona sintácticamente como:",
-      "options": ["Ablativo de modo", "Ablativo de instrumento", "Ablativo de causa"],
-      "correct": 2,
-      "hint": "El dolor no es una herramienta ni una manera de actuar, sino el motivo del llanto.",
-      "explanation": "Dolōre expresa la causa interna, el motivo por el que la reina llora, así que es «ablativo» de causa nudo. No es instrumento porque el dolor no es una herramienta física, ni es de modo porque no describe la manera del llanto."
+      "q": "¿Cuál es la traducción correcta de «La reina llora de tristeza»?",
+      "options": ["Regīna cum dolōre lacrimat.", "Regīna dolōre lacrimat.", "Regīna dolōrem lacrimat."],
+      "correct": 1,
+      "hint": "La tristeza es la causa interna del llanto, no algo que se lleve consigo ni un objeto directo.",
+      "explanation": "«Regīna dolōre lacrimat» usa el ablativo de causa nudo (dolōre), sin preposición, para expresar el motivo interno del llanto. «Cum dolōre» calca la preposición «de» del español, error típico; «dolōrem» es acusativo, caso incorrecto para expresar causa."
     },
     {
       "type": "gap",
@@ -141,11 +141,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma del ablativo plural de «currus, -ūs» (m., carro), de la cuarta declinación?",
-      "options": ["currīs", "currubus", "curribus"],
+      "q": "¿Cuál es la traducción correcta de «El general lucha con los carros»?",
+      "options": ["Dux currīs pugnat.", "Dux currubus pugnat.", "Dux curribus pugnat."],
       "correct": 2,
       "hint": "La desinencia regular de ablativo plural de la 4ª declinación es «-ibus», salvo excepciones arcaicas.",
-      "explanation": "Currus toma la desinencia regular de la 4ª declinación, «-ibus», dando curribus. Currīs pertenecería a la 1ª o 2ª declinación, y currubus es la desinencia arcaica que solo conservan palabras como arcus o artus."
+      "explanation": "«Curribus» es el ablativo plural regular de currus, -ūs (4ª declinación), instrumento inanimado sin preposición. «Currīs» pertenecería a la 1ª/2ª declinación, y «currubus» es la desinencia arcaica que solo conservan palabras como arcus o artus."
     },
     {
       "type": "gap",

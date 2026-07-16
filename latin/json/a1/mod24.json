@@ -49,11 +49,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Populus appellavit eum regem», ¿qué función realiza «regem»?",
-      "options": ["Objeto Directo.", "Sujeto de la oración.", "Predicativo del Objeto Directo."],
+      "q": "¿Cómo se dice «El pueblo lo llamó rey»?",
+      "options": ["Populus eum rex appellavit.", "Populus eum regis appellavit.", "Populus eum regem appellavit."],
       "correct": 2,
-      "hint": "«Eum» ya es el objeto directo: «regem» completa su significado.",
-      "explanation": "«Regem» (Acusativo) completa el sentido del objeto directo «eum» bajo la rección del verbo copulativo transitivo «appellavit» (llamó / nombró)."
+      "hint": "«Eum» ya es el objeto directo; la palabra que lo completa (el predicativo) debe concordar con él en el mismo caso.",
+      "explanation": "«Regem» va en acusativo porque concuerda con «eum» (objeto directo) como predicativo. «Rex» (nominativo) y «regis» (genitivo) romperían esa concordancia con «appellavit»."
     },
     {
       "type": "gap",
@@ -90,15 +90,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Por qué es incorrecta la frase «Celo tibi veritatem»?",
+      "q": "¿Cuál de estas frases es la correcta para «Te oculto la verdad»?",
       "options": [
-        "La persona a la que se oculta debe ir en Acusativo, no en Dativo.",
-        "El verbo «celare» exige la preposición «cum».",
-        "«Veritatem» debería ser ablativo."
+        "Celo tibi veritatem.",
+        "Celo te veritatem.",
+        "Celo tui veritatem."
       ],
-      "correct": 0,
-      "hint": "El error está en el caso del pronombre de persona, no en el de «veritatem».",
-      "explanation": "Los verbos de ocultar («celare») pertenecen al grupo de doble acusativo: rigen acusativo de persona («te» / a ti) y acusativo de cosa («veritatem» / la verdad), no dativo «tibi»."
+      "correct": 1,
+      "hint": "El error más común es usar dativo para la persona; «celare» pertenece al grupo de verbos de doble acusativo.",
+      "explanation": "«Celare» rige acusativo de persona y acusativo de cosa: «Celo te veritatem» (te oculto la verdad). «Tibi» sería el error de usar dativo por calco del español, y «tui» un genitivo incorrecto."
     },
     {
       "type": "speak",
@@ -187,15 +187,15 @@
     },
     {
       "type": "quiz",
-      "q": "En la oración «Romani creant Caesarem imperatorem», ¿cuántos acusativos hay y cuáles son?",
+      "q": "¿Cómo se dice «Los romanos eligen a César emperador»?",
       "options": [
-        "Uno: Caesarem.",
-        "Tres: Romani, Caesarem e imperatorem.",
-        "Dos: Caesarem (OD) e imperatorem (Predicativo)."
+        "Romani creant Caesar imperator.",
+        "Romani creant Caesarem imperator.",
+        "Romani creant Caesarem imperatorem."
       ],
       "correct": 2,
-      "hint": "«Romani» es el sujeto: no cuentes esa palabra entre los acusativos.",
-      "explanation": "Hay dos acusativos: «Caesarem» (objeto directo de persona) e «imperatorem» (predicativo del objeto, que concuerda en acusativo). «Romani» es nominativo plural (sujeto)."
+      "hint": "El objeto directo y su predicativo deben concordar en el mismo caso: ninguno de los dos va en nominativo.",
+      "explanation": "«Caesarem» (objeto directo) e «imperatorem» (predicativo) van ambos en acusativo. «Caesar» e «imperator» en nominativo romperían la concordancia exigida por «creant»."
     },
     {
       "type": "gap",

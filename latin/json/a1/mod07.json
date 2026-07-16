@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma correcta para la 3ª persona del plural del presente de indicativo activo de mitto, mittere?",
-      "options": ["Mittent.", "Mittunt.", "Mittint."],
+      "q": "¿Cómo se dice «Los amigos envían el libro»?",
+      "options": ["Amīcī librum mittent.", "Amīcī librum mittunt.", "Amīcī librum mittint."],
       "correct": 1,
-      "hint": "Piensa en qué vocal de unión aparece ante la desinencia -nt en los temas en consonante.",
-      "explanation": "«Mittunt» inserta la vocal de unión -u- ante -nt, propia de la 3ª conjugación. «Mittent» es la forma de futuro imperfecto (confusión de tiempo), y «mittint» usa por error la vocal -i-, que no aparece ante esta desinencia."
+      "hint": "La 3ª conjugación inserta la vocal de unión -u- ante -nt en la 3ª persona plural; no lo confundas con el futuro.",
+      "explanation": "«Mittunt» es la 3ª persona plural del presente de «mittere» (raíz mitt- + -u- + -nt). «Mittent» es la forma de futuro imperfecto, tiempo distinto, y «mittint» aplica por error la vocal -i-, que no aparece ante esta desinencia."
     },
     {
       "type": "gap",
@@ -52,11 +52,11 @@
     },
     {
       "type": "quiz",
-      "q": "El verbo facio, facere es de conjugación mixta. ¿Cuál es su infinitivo de presente activo?",
-      "options": ["Facere.", "Facire.", "Facīre."],
-      "correct": 0,
-      "hint": "En el infinitivo, la -i- breve del tema se abre por el contacto con la -r-.",
-      "explanation": "La -i- breve del tema de los verbos mixtos se abre en -e- ante la desinencia -re, dando «facere» (igual que en la 3ª conjugación). «Facire» y «facīre» suponen por error que el tema vocálico se mantiene cerrado o largo, como en la 4ª conjugación."
+      "q": "¿Cuál es la forma correcta para «Debo hacer un templo»?",
+      "options": ["Dēbeō templum facire.", "Dēbeō templum facīre.", "Dēbeō templum facere."],
+      "correct": 2,
+      "hint": "Los verbos mixtos como facio abren su -i- breve en -e- ante la desinencia de infinitivo -re, igual que la 3ª conjugación.",
+      "explanation": "«Facere» es el infinitivo correcto: la -i- breve del tema se abre en -e- ante -re (como en la 3ª conjugación). «Facire» y «facīre» suponen por error que el tema vocálico se mantiene cerrado o largo, propio de la 4ª conjugación."
     },
     {
       "type": "match",
@@ -86,11 +86,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿En cuál de estas formas de audire se abrevia por su posición final la vocal larga del tema?",
-      "options": ["Audīs.", "Audītis.", "Audit."],
-      "correct": 2,
-      "hint": "Compara la consonante final de cada desinencia: ¿cuál no es -s?",
-      "explanation": "«Audit» (3ª sg) termina en -t, así que la -ī- larga del tema se abrevia por la ley de abreviación ante consonante final distinta de -s o -r. «Audīs» y «audītis» conservan la vocal larga porque van seguidas de -s."
+      "q": "¿Cómo se dice «El amigo oye al rey»?",
+      "options": ["Amīcus regem audīs.", "Amīcus regem audit.", "Amīcus regem audiunt."],
+      "correct": 1,
+      "hint": "La vocal larga -ī- del tema de audire se abrevia ante -t en la 3ª persona singular.",
+      "explanation": "«Audit» es la 3ª persona singular: la vocal larga -ī- se abrevia ante -t (ley de abreviación vocálica), concordando con el sujeto singular «amīcus». «Audīs» es 2ª persona y «audiunt» es 3ª plural, ninguna concuerda con el sujeto."
     },
     {
       "type": "gap",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál de estas formas de la 3ª conjugación usa la vocal de unión -i- en la 1ª persona del plural?",
-      "options": ["Scribemus.", "Regimus.", "Audiunt."],
+      "q": "¿Cómo se dice «Nosotros dirigimos el templo»?",
+      "options": ["Templum regēmus.", "Templum regimus.", "Templum regunt."],
       "correct": 1,
-      "hint": "Descarta primero la que pertenezca a otro tiempo verbal, y luego la que sea de otra conjugación.",
-      "explanation": "«Regimus» une la raíz reg- a la desinencia -mus mediante la vocal de unión -i-. «Scribemus» es futuro, no presente, y «audiunt» es la 3ª plural de la 4ª conjugación, no la 1ª plural de la 3ª."
+      "hint": "La 3ª conjugación inserta la vocal de unión -i- ante -mus en la 1ª persona del plural.",
+      "explanation": "«Regimus» une la raíz reg- a la desinencia -mus mediante la vocal de unión -i-. «Regēmus» confundiría el presente con el futuro (otro tiempo verbal), y «regunt» es 3ª persona plural, no 1ª."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué explica que el infinitivo de los verbos de conjugación mixta (-io) termine en -ere y no en -ire?",
-      "options": ["El acento prosódico recae en la desinencia.", "La desinencia se asimila a los temas en consonante.", "La vocal -i- breve del tema se abre ante la vibrante -r- del infinitivo."],
+      "q": "¿Cuál es la forma correcta para «Debo tomar el libro»?",
+      "options": ["Dēbeō librum capīre.", "Dēbeō librum capiere.", "Dēbeō librum capere."],
       "correct": 2,
-      "hint": "Es un fenómeno vocálico (apofonía), no consonántico ni de acentuación.",
-      "explanation": "La -i- breve del tema (capĭ-) se abre en -e- por la influencia de la -r- del infinitivo, dando «capere». No hay asimilación consonántica (fenómeno distinto), y el acento es consecuencia de la cantidad silábica, no su causa."
+      "hint": "Los verbos mixtos en -io (como capio) forman el infinitivo igual que la 3ª conjugación: -ere, no -ire.",
+      "explanation": "«Capere» es el infinitivo correcto: la -i- breve del tema (capĭ-) se abre en -e- ante la -r- del infinitivo, igual que en la 3ª conjugación pura. «Capīre» y «capiere» suponen por error que el tema conserva la vocal -i-, como si fuera de la 4ª conjugación."
     },
     {
       "type": "gap",
@@ -182,11 +182,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la 2ª persona singular del presente de indicativo de scribere («escribir»)?",
-      "options": ["Scribis.", "Scribes.", "Scribit."],
+      "q": "¿Cómo se dice «Tú escribes el libro»?",
+      "options": ["Librum scribis.", "Librum scribes.", "Librum scribit."],
       "correct": 0,
-      "hint": "«Scribes» pertenece a otro tiempo verbal, no al presente.",
-      "explanation": "La 2ª sg. del presente de la 3ª conjugación toma la vocal de unión -i- ante -s: «scribis». «Scribes» es la forma de futuro imperfecto (parecido gráfico engañoso); «scribit» es 3ª persona, no 2ª."
+      "hint": "La 2ª persona singular del presente de la 3ª conjugación toma la vocal de unión -i- ante -s; no lo confundas con el futuro «scribes».",
+      "explanation": "«Scribis» es la 2ª persona singular del presente (raíz scrib- + -i- + -s). «Scribes» es la forma de futuro imperfecto (parecido gráfico engañoso), y «scribit» es 3ª persona, no 2ª."
     },
     {
       "type": "gap",

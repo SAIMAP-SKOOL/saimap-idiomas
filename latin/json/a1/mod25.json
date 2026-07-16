@@ -49,11 +49,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el genitivo plural del sustantivo neutro «corpus, corporis»?",
-      "options": ["corporium", "corporis", "corporum"],
+      "q": "¿Cómo se dice «Dios es el señor de todos los cuerpos»?",
+      "options": ["Deus est dominus omnium corporis.", "Deus est dominus omnium corporium.", "Deus est dominus omnium corporum."],
       "correct": 2,
-      "hint": "«Corpus» es un neutro imparisílabo en consonante: no lleva el incremento «-i-» de los temas en «-i».",
-      "explanation": "Al ser un neutro imparisílabo regular, el genitivo plural se forma con «-um»: «corporum». «Corporium» confunde este sustantivo con los temas en «-i», y «corporis» es el genitivo singular."
+      "hint": "«Corpus» es un neutro imparisílabo en consonante: no lleva el incremento «-i-» de los temas en «-i», así que su genitivo plural no es «corporium».",
+      "explanation": "El genitivo plural de «corpus, corporis» es «corporum» (de los cuerpos), formado con «-um» al ser un neutro imparisílabo regular. «Corporium» confundiría este sustantivo con los temas en «-i» y «corporis» es solo el genitivo singular."
     },
     {
       "type": "gap",
@@ -83,15 +83,15 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Iesus vocavit illum discipulum fidelem», ¿qué función y caso tiene «fidelem»?",
+      "q": "¿Cuál de estas frases dice correctamente «Jesús llamó a aquel discípulo fiel»?",
       "options": [
-        "Acusativo singular masculino, adjetivo concordante con el objeto directo.",
-        "Acusativo singular masculino, adjetivo predicativo del sujeto.",
-        "Vocativo singular masculino."
+        "Iesus vocavit illum discipulum fidelem.",
+        "Iesus vocavit illum discipulum fidelis.",
+        "Iesus vocavit illum discipulum fideli."
       ],
       "correct": 0,
-      "hint": "«Fidelem» no añade una acción nueva: describe a «discipulum», que ya es el objeto directo del verbo.",
-      "explanation": "El adjetivo de la 3ª declinación «fidelis» concuerda en caso (acusativo), género (masculino) y número (singular) con «discipulum», el objeto directo de «vocavit»; no es predicativo del sujeto ni un vocativo, pues no hay apelación directa en la frase."
+      "hint": "El adjetivo debe concordar en caso con «discipulum», el objeto directo de «vocavit», no ir en nominativo ni en dativo/ablativo.",
+      "explanation": "«Fidelem» concuerda en caso (acusativo), género (masculino) y número (singular) con «discipulum», objeto directo de «vocavit». «Fidelis» sería nominativo y «fideli» dativo/ablativo, casos que no encajan aquí."
     },
     {
       "type": "gap",
@@ -115,11 +115,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma de 2ª persona del plural del futuro imperfecto de indicativo de «amare»?",
-      "options": ["amabatis", "amabitis", "amabant"],
+      "q": "¿Cómo se dice «Vosotros amaréis a Dios»?",
+      "options": ["Vos Deum amabatis.", "Vos Deum amabitis.", "Vos Deum amabant."],
       "correct": 1,
       "hint": "El futuro de la 1ª conjugación usa la característica temporal «-bi-»; no lo confundas con el imperfecto «-ba-» ni con una 3ª persona.",
-      "explanation": "El futuro imperfecto de las conjugaciones 1ª y 2ª se forma con «-bi-»: «amabitis» (amaréis). «Amabatis» es el imperfecto (amabais) y «amabant» es la 3ª persona del plural del futuro (amarán), no la 2ª."
+      "explanation": "El futuro imperfecto de las conjugaciones 1ª y 2ª se forma con «-bi-»: «Vos Deum amabitis» (vosotros amaréis a Dios). «Amabatis» es el imperfecto (amabais) y «amabant» es la 3ª persona del plural del futuro (amarán), no la 2ª."
     },
     {
       "type": "gap",
@@ -177,15 +177,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Por qué es incorrecta la frase «Video agricolam bonam»?",
+      "q": "¿Cuál es la frase correcta para «Veo al buen agricultor» (recuerda que «agricola» es masculino)?",
       "options": [
-        "Porque «agricolam» debería llevar el verbo en voz pasiva.",
-        "Porque «agricola» es masculino, así que el adjetivo debe concordar en «bonum», no en «bonam».",
-        "Porque el acusativo de «agricola» es «agricolum», no «agricolam»."
+        "Video agricola bonum.",
+        "Video agricolam bonum.",
+        "Video agricolam bonam."
       ],
       "correct": 1,
-      "hint": "El género gramatical de «agricola» no coincide con su declinación: es masculino aunque termine en «-a».",
-      "explanation": "«Agricola» es un sustantivo masculino de la 1ª declinación; el adjetivo debe concordar en género real (masculino: «bonum»), no en la terminación morfológica «-a». «Agricolam» es el acusativo correcto de «agricola»."
+      "hint": "El género gramatical de «agricola» no coincide con su declinación: es masculino aunque termine en «-a», y el objeto directo necesita ir en acusativo.",
+      "explanation": "«Agricolam» es el acusativo correcto de objeto directo; como «agricola» es masculino, el adjetivo debe concordar en «bonum» (masculino), no en «bonam» (que sigue la terminación «-a» pero es femenina). «Video agricola bonum» deja además el objeto directo sin marcar en acusativo."
     },
     {
       "type": "gap",

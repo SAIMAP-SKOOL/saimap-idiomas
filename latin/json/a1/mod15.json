@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el genitivo plural correcto de «urbs, urbis»?",
-      "options": ["urbium", "urbis", "urbum"],
+      "q": "¿Cómo se dice correctamente «La paz de las ciudades es grande»?",
+      "options": ["Pax urbium magna est.", "Pax urbis magna est.", "Pax urbum magna est."],
       "correct": 0,
-      "hint": "Es un sustantivo mixto: su raíz «urb-» termina en dos consonantes antes de la desinencia del genitivo.",
-      "explanation": "Al ser un sustantivo mixto (raíz «urb-» con dos consonantes antes de «-is»), se declina como tema en -i en el plural, con la terminación «-ium». «Urbis» es el genitivo singular y «urbum» calca erróneamente la desinencia de los temas en consonante."
+      "hint": "Urbs es un sustantivo mixto (tema en -i): su genitivo plural termina en «-ium», no en «-um».",
+      "explanation": "«Urbium» es el genitivo plural de urbs, urbis (tema en -i, mixto), que expresa posesión: «de las ciudades». «Urbis» es el genitivo singular y «urbum» calca erróneamente la desinencia de los temas en consonante."
     },
     {
       "type": "gap",
@@ -52,11 +52,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el ablativo singular de «mare, maris»?",
-      "options": ["maris", "mari", "mare"],
+      "q": "¿Cómo se dice correctamente «El barco navega en el mar»?",
+      "options": ["Navis in maris navigat.", "Navis in mari navigat.", "Navis in mare navigat."],
       "correct": 1,
-      "hint": "Los neutros en -e, -al, -ar forman el ablativo singular con una única vocal distinta de la del nominativo.",
-      "explanation": "Los neutros de tema en -i con nominativo en «-e» forman el ablativo singular en «-i»: «mari». «Maris» es el genitivo y «mare» es nominativo/acusativo."
+      "hint": "Los neutros en -e, -al, -ar (como mare) forman el ablativo singular en «-i», no en «-is» ni «-e».",
+      "explanation": "«Mari» es el ablativo singular de mare, maris (neutro tema en -i), exigido tras «in» de reposo. «Maris» es el genitivo y «mare» es nominativo/acusativo, casos incorrectos tras in de lugar en reposo."
     },
     {
       "type": "match",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué opción contiene únicamente sustantivos que forman el genitivo plural en «-ium»?",
-      "options": ["civis, mons, animal.", "pater, rex, miles.", "corpus, nomen, flumen."],
+      "q": "¿Cómo se dice correctamente «El número de los animales es grande»?",
+      "options": ["Numerus animalium magnus est.", "Numerus animalum magnus est.", "Numerus animalis magnus est."],
       "correct": 0,
-      "hint": "Busca el grupo donde estén representados un parisílabo, un mixto y un neutro en -al: todos son temas en -i.",
-      "explanation": "«Civis» es parisílabo, «mons» es mixto y «animal» es neutro en «-al»: los tres son temas en -i con genitivo plural en «-ium». Las otras dos opciones contienen solo temas en consonante del tema 14, con genitivo plural en «-um»."
+      "hint": "Animal es un neutro tema en -i: su genitivo plural termina en «-ium», igual que los demás temas en -i.",
+      "explanation": "«Animalium» es el genitivo plural de animal, animalis (neutro tema en -i), que expresa posesión: «de los animales». «Animalum» calca erróneamente la desinencia de los temas en consonante y «animalis» es el genitivo singular, ambos incorrectos aquí."
     },
     {
       "type": "gap",
@@ -148,9 +148,9 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el nominativo plural del sustantivo neutro «animal, animalis»?",
-      "options": ["animales.", "animala.", "animalia."],
-      "correct": 2,
+      "q": "¿Cómo se dice correctamente «Los animales son grandes»?",
+      "options": ["Animales magna sunt.", "Animalia magna sunt.", "Animala magna sunt."],
+      "correct": 1,
       "hint": "Aplica la regla del trío de neutros en -e, -al, -ar: su plural directo siempre termina igual.",
       "explanation": "Al ser un neutro en «-al» de tema en -i, forma los casos directos del plural con la desinencia «-ia»: «animalia». «Animales» calca un patrón inexistente para este neutro y «animala» omite la vocal temática -i-."
     },
@@ -182,11 +182,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el genitivo plural de «mons, montis» (sustantivo mixto)?",
-      "options": ["montum", "montium", "montis"],
-      "correct": 1,
-      "hint": "La raíz «mont-» termina en dos consonantes antes de la desinencia del genitivo: es un sustantivo mixto.",
-      "explanation": "«Mons» es mixto (monosílabo con raíz «mont-» acabada en dos consonantes): su genitivo plural es «montium», como los demás temas en -i. «Montum» calca la desinencia de los temas en consonante y «montis» es el genitivo singular."
+      "q": "¿Cómo se dice correctamente «La paz de los montes es grande»?",
+      "options": ["Pax montum magna est.", "Pax montis magna est.", "Pax montium magna est."],
+      "correct": 2,
+      "hint": "Mons es un sustantivo mixto (tema en -i): forma el genitivo plural en «-ium».",
+      "explanation": "«Montium» es el genitivo plural de mons, montis (mixto, tema en -i), que expresa posesión: «de los montes». «Montum» calca la desinencia de los temas en consonante y «montis» es el genitivo singular, ambos incorrectos aquí."
     },
     {
       "type": "gap",
@@ -210,11 +210,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el ablativo singular correcto de «animal, animalis»?",
-      "options": ["animale", "animalis", "animali"],
-      "correct": 2,
+      "q": "¿Cómo se dice correctamente «La niña camina con el animal»?",
+      "options": ["Puella cum animali ambulat.", "Puella cum animale ambulat.", "Puella cum animalis ambulat."],
+      "correct": 0,
       "hint": "Recuerda el trío de neutros en -e, -al, -ar: todos comparten la misma desinencia de ablativo singular.",
-      "explanation": "Los neutros de tema en -i (trío -e, -al, -ar) forman el ablativo singular en «-i»: «animali». «Animale» calca erróneamente la forma del nominativo/acusativo y «animalis» es el genitivo."
+      "explanation": "«Animali» es el ablativo singular de animal, animalis (neutro tema en -i), exigido tras cum. «Animale» calca erróneamente la forma del nominativo/acusativo y «animalis» es el genitivo, ambos incorrectos tras cum."
     },
     {
       "type": "gap",

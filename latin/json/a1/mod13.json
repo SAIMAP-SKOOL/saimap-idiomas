@@ -52,11 +52,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el imperativo singular del verbo «facere»?",
-      "options": ["face", "facite", "fac"],
+      "q": "¿Cómo se dice correctamente «Haz esto, discípulo» (a una sola persona)?",
+      "options": ["Facite hoc, discipule.", "Face hoc, discipule.", "Fac hoc, discipule."],
       "correct": 2,
-      "hint": "Este verbo pertenece al cuarteto de imperativos truncados: dic, duc, fac, fer.",
-      "explanation": "«Facere» tiene el imperativo singular apocopado «fac» (pierde la vocal temática -e). «Face» es la forma inexistente sin apocopar y «facite» es la segunda persona del plural."
+      "hint": "Facere es uno de los cuatro verbos con imperativo singular apocopado: dic, duc, fac, fer.",
+      "explanation": "«Fac» es el imperativo singular de facere, apocopado (pierde la vocal temática -e). «Facite» es la forma plural, agramatical para un mandato a una sola persona, y «face» es la forma sin apocopar, inexistente en latín clásico."
     },
     {
       "type": "match",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma de imperativo plural de «audire»?",
-      "options": ["auditeis", "audi", "audite"],
+      "q": "¿Cómo se dice correctamente «Escuchad la palabra de Dios» (mandato a varias personas)?",
+      "options": ["Audi verbum Dei.", "Auditeis verbum Dei.", "Audite verbum Dei."],
       "correct": 2,
-      "hint": "La 4ª conjugación añade «-te» al tema de presente «audi-».",
-      "explanation": "El imperativo plural de la 4ª conjugación se forma añadiendo «-te» al tema de presente: «audite». «Auditeis» es una desinencia romance inexistente en latín, y «audi» es la forma singular."
+      "hint": "La 4ª conjugación forma el imperativo plural añadiendo «-te» al tema de presente «audi-».",
+      "explanation": "«Audite» es el imperativo plural regular de audire (tema + -te). «Audi» es la forma singular, incorrecta para un mandato colectivo, y «auditeis» es una desinencia romance inexistente en latín."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Dic mihi nomen tuum», ¿en qué modo y persona está «Dic»?",
-      "options": ["Indicativo, 3ª persona singular.", "Imperativo, 2ª persona singular.", "Subjuntivo, 2ª persona singular."],
+      "q": "¿Cuál es la forma correcta para pedirle a una sola persona «Dime tu nombre»?",
+      "options": ["Dicis mihi nomen tuum.", "Dic mihi nomen tuum.", "Dicit mihi nomen tuum."],
       "correct": 1,
-      "hint": "Es una de las cuatro formas de imperativo apocopadas: dic, duc, fac, fer.",
-      "explanation": "«Dic» es la segunda persona singular del imperativo de presente de «dicere» (apocopado, pierde la -e final). No es indicativo (no tiene desinencia de 3ª persona) ni subjuntivo (ese modo no forma «dic»)."
+      "hint": "«Dic» es uno de los cuatro imperativos apocopados: dic, duc, fac, fer.",
+      "explanation": "«Dic» es el imperativo singular de dicere (apocopado, pierde la -e final), la forma correcta para dar una orden. «Dicis» es indicativo de 2ª persona («tú dices») y «dicit» es indicativo de 3ª persona («él dice»), ninguna expresa un mandato."
     },
     {
       "type": "gap",
@@ -182,11 +182,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál de estas formas de imperativo singular NO está apocopada (truncada)?",
-      "options": ["dic", "audi", "fac"],
+      "q": "¿Cuál de estas órdenes a una sola persona es correcta, sin apocopar la vocal temática?",
+      "options": ["Dic hoc!", "Audi hoc!", "Fac hoc!"],
       "correct": 1,
-      "hint": "Solo cuatro verbos pierden la vocal temática final en el imperativo singular: dic, duc, fac, fer.",
-      "explanation": "«Audi» conserva su vocal temática completa, como corresponde a la regla general del imperativo (tema de presente puro). «Dic» y «fac» pertenecen al cuarteto de verbos truncados que pierden la -e final."
+      "hint": "Solo cuatro verbos pierden la vocal temática final en el imperativo singular: dic, duc, fac, fer. Audire no es uno de ellos.",
+      "explanation": "«Audi» conserva su vocal temática completa, como corresponde a la regla general del imperativo (tema de presente puro). «Dic» y «fac» pertenecen al cuarteto de verbos truncados que sí pierden la -e final."
     },
     {
       "type": "gap",

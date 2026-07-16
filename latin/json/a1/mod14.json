@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la raíz real del sustantivo «miles, militis»?",
-      "options": ["milit-", "mil-", "miles-"],
-      "correct": 0,
-      "hint": "La raíz se extrae siempre del genitivo singular, retirando la desinencia «-is».",
-      "explanation": "Retirando «-is» del genitivo «milit-is» obtenemos la raíz real «milit-». «Mil-» es una forma incompleta y «miles-» toma como base el nominativo, que en la 3ª declinación puede estar alterado fonéticamente."
+      "q": "¿Cómo se dice correctamente «El general ve al soldado»?",
+      "options": ["Dux miles videt.", "Dux militem videt.", "Dux militis videt."],
+      "correct": 1,
+      "hint": "El objeto directo exige acusativo, formado sobre la raíz real del genitivo «milit-», no sobre el nominativo «miles».",
+      "explanation": "«Militem» es el acusativo singular (objeto directo), construido sobre la raíz real «milit-» (la que se obtiene del genitivo «militis», retirando «-is»). «Miles» es nominativo y «militis» es genitivo, casos incorrectos como objeto directo."
     },
     {
       "type": "gap",
@@ -52,11 +52,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el acusativo singular del sustantivo neutro «nomen, nominis»?",
-      "options": ["nominem", "nomen", "nominis"],
-      "correct": 1,
+      "q": "¿Cómo se dice correctamente «El hombre tiene un nombre» (nomen como objeto directo)?",
+      "options": ["Homo nomen habet.", "Homo nominem habet.", "Homo nominis habet."],
+      "correct": 0,
       "hint": "Por la ley de los neutros, el acusativo singular coincide siempre con el nominativo.",
-      "explanation": "Por la ley de los neutros, el acusativo singular es morfológicamente idéntico al nominativo: «nomen». «Nominem» es incorrecta porque los neutros no toman la desinencia «-em», y «nominis» es el genitivo."
+      "explanation": "«Nomen» es neutro: su acusativo singular (objeto directo) es idéntico al nominativo, por lo que no cambia. «Nominem» es incorrecta porque los neutros no toman la desinencia «-em», y «nominis» es el genitivo."
     },
     {
       "type": "match",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el ablativo singular de «pater, patris»?",
-      "options": ["patri", "patris", "patre"],
+      "q": "¿Cómo se dice correctamente «El hijo camina con el padre»?",
+      "options": ["Filius cum patri ambulat.", "Filius cum patris ambulat.", "Filius cum patre ambulat."],
       "correct": 2,
-      "hint": "Los imparisílabos en consonante forman el ablativo singular con una sola vocal breve, distinta a la del dativo.",
-      "explanation": "La desinencia de ablativo singular de los imparisílabos en consonante es «-e»: «patre». «Patri» es el dativo y «patris» es el genitivo."
+      "hint": "Cum rige siempre ablativo; los imparisílabos en consonante como pater forman el ablativo singular en «-e».",
+      "explanation": "«Patre» es el ablativo singular de pater, patris (desinencia «-e» de los imparisílabos en consonante), exigido tras cum. «Patri» es el dativo y «patris» el genitivo, casos incorrectos tras cum."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "El plural de «corpus, corporis» es «corpora». ¿En qué casos puede estar esta forma?",
-      "options": ["Genitivo y Dativo Plural.", "Nominativo, Vocativo y Acusativo Plural.", "Solamente Nominativo Plural."],
+      "q": "¿Cómo se dice correctamente «Los cuerpos son fuertes»?",
+      "options": ["Corporis magna sunt.", "Corpora magna sunt.", "Corpus magna sunt."],
       "correct": 1,
-      "hint": "Recuerda la ley de los neutros: tres casos comparten siempre la misma forma.",
-      "explanation": "Al ser neutro, la terminación en «-a» («corpora») representa a la vez los tres casos directos del plural: nominativo, vocativo y acusativo. No es exclusiva del nominativo ni corresponde al genitivo o dativo, que tendrían otras desinencias («corporum», «corporibus»)."
+      "hint": "Recuerda la ley de los neutros: el plural de los casos directos siempre termina en «-a».",
+      "explanation": "«Corpora» es el plural neutro de corpus, corporis, válido como sujeto (nominativo). «Corporis» es genitivo singular y «corpus» está en singular, formas incorrectas para el sujeto plural."
     },
     {
       "type": "gap",
@@ -182,11 +182,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la raíz real de «rex, regis», sobre la que se declinan todos los demás casos?",
-      "options": ["rex-", "reg-", "regis-"],
-      "correct": 1,
-      "hint": "El nominativo «rex» resulta de la fusión fonética de «g» y «s»: mira siempre al genitivo para hallar la raíz real.",
-      "explanation": "Retirando «-is» del genitivo «reg-is» obtenemos la raíz real «reg-». «Rex-» toma como base el nominativo, alterado por la fusión de «g+s» en «x», y «regis-» incluye erróneamente la desinencia del genitivo."
+      "q": "¿Cómo se dice correctamente «Los soldados aman al rey»?",
+      "options": ["Milites regem amant.", "Milites rex amant.", "Milites regis amant."],
+      "correct": 0,
+      "hint": "El objeto directo se construye sobre la raíz real del genitivo «reg-», no sobre el nominativo «rex».",
+      "explanation": "«Regem» es el acusativo singular (objeto directo), formado sobre la raíz real «reg-» (la que se obtiene retirando «-is» del genitivo «regis»). «Rex» es nominativo y «regis» es genitivo, casos incorrectos aquí."
     },
     {
       "type": "gap",
@@ -210,8 +210,8 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el nominativo/acusativo plural del sustantivo neutro «caput, capitis»?",
-      "options": ["capites", "caputa", "capita"],
+      "q": "¿Cómo se dice correctamente «Las cabezas son grandes»?",
+      "options": ["Capites magna sunt.", "Caputa magna sunt.", "Capita magna sunt."],
       "correct": 2,
       "hint": "Aplica la ley de los neutros: el plural de los casos directos siempre termina en «-a», formado sobre la raíz del genitivo.",
       "explanation": "Sobre la raíz «capit-» (del genitivo «capitis»), el plural neutro añade «-a»: «capita». «Capites» calca erróneamente un patrón masculino/femenino, y «caputa» toma como base el nominativo en vez de la raíz del genitivo."

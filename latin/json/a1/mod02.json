@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la oración «Nauta reginae epistulam dat», ¿qué función cumple reginae?",
-      "options": ["Nominativo plural (sujeto)", "Dativo singular (objeto indirecto)", "Genitivo singular (complemento del nombre)"],
+      "q": "¿Cómo se dice «El marinero le da una carta a la reina»?",
+      "options": ["Nauta reginam epistulam dat.", "Nauta reginae epistulam dat.", "Nauta reginae epistulam dant."],
       "correct": 1,
-      "hint": "El verbo «dat» (dar) necesita alguien que reciba la carta: busca el destinatario.",
-      "explanation": "«Reginae» es dativo singular: el marinero da la carta a la reina (destinatario de «dat»). La forma «-ae» también podría ser genitivo o nominativo plural, pero el sentido de «dar algo a alguien» exige aquí el dativo."
+      "hint": "Busca quién recibe la carta: el destinatario va en dativo, no en acusativo.",
+      "explanation": "«Reginae» es dativo singular: el marinero da la carta A la reina (destinatario de «dat»). «Reginam» (opción 0) convierte a la reina en objeto directo, error típico; la opción 2 cambia el verbo a plural («dant»), que no concuerda con el sujeto singular «nauta»."
     },
     {
       "type": "gap",
@@ -86,11 +86,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué diferencia hay entre «in silvam» e «in silvā»?",
-      "options": ["«In silvam» (acusativo) indica dirección de movimiento; «in silvā» (ablativo) indica ubicación estática", "Ninguna: ambas significan «en el bosque» de forma indistinta", "«In silvam» es genitivo posesivo y «in silvā» es dativo de finalidad"],
+      "q": "¿Cómo se dice «El agricultor camina hacia el bosque»?",
+      "options": ["Agricola in silvam ambulat.", "Agricola in silvārum ambulat.", "Agricola in silvā ambulat."],
       "correct": 0,
-      "hint": "Fíjate en el caso: acusativo (-am) frente a ablativo (-ā larga).",
-      "explanation": "La preposición «in» rige acusativo cuando hay movimiento hacia un lugar («in silvam») y ablativo cuando expresa ubicación fija («in silvā»). No son casos intercambiables ni corresponden a genitivo o dativo."
+      "hint": "«Hacia» expresa movimiento: la preposición «in» + acusativo indica dirección, no ubicación.",
+      "explanation": "«In» rige acusativo cuando hay movimiento hacia un lugar: «in silvam» (hacia el bosque). «In silvā» (ablativo) expresaría que ya camina dentro del bosque, sin idea de destino. «In silvārum» no es una forma casual válida tras «in»."
     },
     {
       "type": "gap",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "En «Agricola terrarum divisionem facit», ¿qué función tiene terrarum?",
-      "options": ["Sujeto en nominativo plural", "Complemento del nombre en genitivo plural", "Objeto directo en acusativo plural"],
-      "correct": 1,
-      "hint": "La desinencia «-arum» es exclusiva de un único caso y número: ¿cuál?",
-      "explanation": "«-arum» es la desinencia propia del genitivo plural de la 1ª declinación: «terrarum» especifica «la división de las tierras». El sujeto ya es «agricola» y el objeto directo es «divisionem», así que terrarum no puede cumplir esas otras funciones."
+      "q": "¿Cómo se dice «El agricultor hace la división de las tierras»?",
+      "options": ["Agricola terris divisionem facit.", "Agricola terrās divisionem facit.", "Agricola terrārum divisionem facit."],
+      "correct": 2,
+      "hint": "«De las tierras» es un complemento del nombre: busca la desinencia de genitivo plural.",
+      "explanation": "«Terrarum» es genitivo plural (-arum), el complemento del nombre que indica posesión: «la división DE LAS TIERRAS». «Terris» es dativo/ablativo plural y «terras» acusativo plural, casos que no expresan posesión."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "En «Regina nautas pecuniā liberat», ¿qué función tiene pecuniā?",
-      "options": ["Objeto indirecto en dativo singular", "Objeto directo en acusativo singular", "Complemento de medio o instrumento en ablativo singular"],
-      "correct": 2,
-      "hint": "Fíjate en la cantidad vocálica de la -ā final y en que no lleva preposición delante.",
-      "explanation": "«Pecuniā» lleva -ā larga y ninguna preposición: es ablativo de instrumento/medio («libera con el dinero»). El objeto directo de «liberat» es «nautas» (acusativo) y el sujeto es «regina», así que pecuniā no puede cumplir esas otras funciones."
+      "q": "¿Cómo se dice «La reina libera a los marineros con dinero»?",
+      "options": ["Regina nautas pecuniam liberat.", "Regina nautas pecuniā liberat.", "Regina nautas pecuniae liberat."],
+      "correct": 1,
+      "hint": "«Con dinero» expresa el medio, sin preposición: busca el ablativo instrumental.",
+      "explanation": "«Pecuniā» (ablativo, vocal larga) expresa el instrumento/medio: «libera con el dinero». «Pecuniam» la convertiría en un segundo objeto directo (imposible, ese papel ya lo tiene «nautas») y «pecuniae» (genitivo/dativo) no expresa instrumento."
     },
     {
       "type": "gap",
@@ -210,11 +210,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué distingue la pronunciación de rosa (nominativo) y rosā (ablativo)?",
-      "options": ["Son fonéticamente idénticas; solo el contexto sintáctico las distingue", "La vocal final es breve en el nominativo (/rósa/) y larga en el ablativo (/rósā/): una distinción de cantidad vocálica", "La diferencia está en el acento de intensidad silábico, no en la duración de la vocal"],
-      "correct": 1,
-      "hint": "Piensa en cuánto tiempo se alarga el sonido de la última vocal, no en qué sílaba se acentúa.",
-      "explanation": "El nominativo singular «rosa» lleva -a breve y el ablativo singular «rosā» lleva -ā larga (el sonido se sostiene el doble de tiempo). Esta distinción de cantidad vocálica, no de acento, es la única marca que diferencia ambos casos en la pronunciación."
+      "q": "¿Cómo se dice «El agricultor trabaja con la tierra»?",
+      "options": ["Agricola terram laborat.", "Agricola terra laborat.", "Agricola terrā laborat."],
+      "correct": 2,
+      "hint": "El instrumento sin preposición va en ablativo: fíjate en la vocal final, más larga que la del nominativo.",
+      "explanation": "El ablativo instrumental exige la vocal larga «-ā»: «terrā» (con/mediante la tierra). «Terra» (vocal breve) sería nominativo, caso ya ocupado por «agricola», y «terram» acusativo, que marcaría objeto directo, no instrumento."
     },
     {
       "type": "gap",

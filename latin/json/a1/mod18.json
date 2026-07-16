@@ -40,11 +40,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el dativo singular del pronombre «is, ea, id» para el género femenino?",
-      "options": ["eius", "eae", "ei"],
-      "correct": 2,
-      "hint": "Es la misma forma para los tres géneros.",
-      "explanation": "El dativo singular de «is, ea, id» es común para los tres géneros y tiene la forma «ei». «Eius» es el genitivo y «eae» no es una forma correcta de este pronombre en dativo."
+      "q": "¿Cómo se dice «le envío una carta a ella»?",
+      "options": ["Mitto eam epistulam.", "Mitto ei epistulam.", "Mitto eius epistulam."],
+      "correct": 1,
+      "hint": "El destinatario de mitto exige caso dativo, no acusativo ni genitivo.",
+      "explanation": "El destinatario de la acción («a ella») exige el caso dativo: «ei». «Eam» es acusativo (funcionaría como objeto directo) y «eius» es genitivo (posesivo): ninguno marca al destinatario."
     },
     {
       "type": "gap",
@@ -94,11 +94,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma del acusativo singular neutro del pronombre anafórico?",
-      "options": ["eam", "id", "eum"],
-      "correct": 1,
-      "hint": "Coincide con el nominativo neutro.",
-      "explanation": "El nominativo y acusativo singular neutro del pronombre anafórico es «id». «Eum» es masculino y «eam» es femenino."
+      "q": "¿Cómo se dice «yo lo veo» (hablando de un regalo)?",
+      "options": ["Ego id video.", "Ego eam video.", "Ego eum video."],
+      "correct": 0,
+      "hint": "Donum es neutro: el pronombre debe concordar en género neutro.",
+      "explanation": "El pronombre anafórico neutro singular (nominativo y acusativo) es «id», que retoma «donum» (neutro). «Eam» es femenino y «eum» es masculino: ambos romperían la concordancia de género."
     },
     {
       "type": "gap",

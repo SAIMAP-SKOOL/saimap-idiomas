@@ -52,11 +52,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el dativo singular del sustantivo «pater» (3ª declinación)?",
-      "options": ["patris", "patrem", "patri"],
+      "q": "¿Cómo se dice «El hijo promete ayuda al padre»?",
+      "options": ["Filius patris auxilium promittit.", "Filius patrem auxilium promittit.", "Filius patri auxilium promittit."],
       "correct": 2,
-      "hint": "La 3ª declinación forma el dativo singular con una desinencia distinta a la del genitivo y la del acusativo.",
-      "explanation": "Los sustantivos de la 3ª declinación tienen la desinencia «-i» en dativo singular: «patri». «Patris» es el genitivo y «patrem» el acusativo, ambos casos distintos."
+      "hint": "El destinatario de «promittit» (a quién se promete) va en dativo, sin preposición: la 3ª declinación forma el dativo singular en -i.",
+      "explanation": "«Patri» es el dativo singular de «pater, patris» (objeto indirecto): «promete ayuda al padre». «Patris» es genitivo y «patrem» es acusativo, casos que no marcan al destinatario aquí."
     },
     {
       "type": "match",
@@ -86,11 +86,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la oración «Dominus dat pecuniam servis», ¿qué caso y función tiene «servis»?",
-      "options": ["Acusativo de objeto directo.", "Dativo plural, Objeto Indirecto.", "Ablativo de instrumento."],
-      "correct": 1,
-      "hint": "El verbo «dat» ya tiene su objeto directo en «pecuniam»: ¿qué otro complemento suele llevar un verbo de dar?",
-      "explanation": "«Dat» rige un objeto directo en acusativo («pecuniam») y un objeto indirecto en dativo plural («servis», a los siervos), que indica el destinatario del dinero. No es ablativo porque no expresa instrumento."
+      "q": "¿Cómo se dice «El señor da dinero a los siervos»?",
+      "options": ["Dominus dat pecuniam servis.", "Dominus dat pecuniam servos.", "Dominus dat pecuniam servorum."],
+      "correct": 0,
+      "hint": "El destinatario del dinero (a quién se da) va en dativo plural, sin preposición.",
+      "explanation": "«Servis» es el dativo plural (objeto indirecto): «a los siervos». «Servos» es acusativo plural (se confundiría con un segundo objeto directo) y «servorum» es genitivo plural (posesión), ninguno expresa el destinatario."
     },
     {
       "type": "gap",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué error presenta la traducción de «Do panem ad sororem»?",
-      "options": ["Uso incorrecto de la preposición «ad» ante un acusativo para expresar objeto indirecto.", "El verbo «do» exige ablativo.", "«Panem» debería ser genitivo."],
-      "correct": 0,
-      "hint": "El objeto indirecto latino nunca lleva preposición: se marca solo con la desinencia del dativo.",
-      "explanation": "El destinatario de «dar» se marca únicamente con dativo sin preposición: «sorori». Usar «ad» + acusativo («ad sororem») calca la preposición española «a» y es agramatical en latín clásico."
+      "q": "¿Cuál es la forma correcta para «Doy pan a la hermana»?",
+      "options": ["Do panem ad sororem.", "Do panem soror.", "Do panem sorori."],
+      "correct": 2,
+      "hint": "El destinatario de «dar» se marca solo con dativo, sin preposición: nunca «ad» + acusativo.",
+      "explanation": "«Sorori» es el dativo singular (objeto indirecto) de «soror, sororis», sin preposición. «Do panem ad sororem» calca por error la preposición española «a» con «ad» + acusativo, agramatical en latín clásico; y «soror» sin desinencia de dativo sería nominativo, caso incorrecto."
     },
     {
       "type": "gap",
@@ -182,11 +182,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué desinencia comparten el dativo plural de la 1ª y de la 2ª declinación?",
-      "options": ["-is", "-ibus", "-orum"],
+      "q": "¿Cómo se dice «El padre da regalos a los hijos»?",
+      "options": ["Pater dona filiis dat.", "Pater dona filiorum dat.", "Pater dona filios dat."],
       "correct": 0,
-      "hint": "Piensa en «puellis» y «dominis»: ambas formas terminan igual.",
-      "explanation": "Tanto la 1ª declinación («puellis») como la 2ª («dominis») forman el dativo plural en «-is»; solo el contexto distingue a qué declinación pertenece cada una. «-ibus» es propio de la 3ª declinación y «-orum» es genitivo plural de la 2ª."
+      "hint": "Tanto la 1ª como la 2ª declinación forman el dativo plural en «-is»: «filiis» (de filius, 2ª declinación).",
+      "explanation": "«Filiis» es el dativo plural de «filius» (2ª declinación), que comparte la desinencia «-is» con la 1ª declinación (como «puellis»). «Filiorum» es genitivo plural y «filios» es acusativo plural, casos que no marcan al destinatario."
     },
     {
       "type": "gap",

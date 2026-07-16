@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "Ante la frase «Magistri discipulos in templum vocant», ¿cuál es el análisis correcto?",
-      "options": ["Magistri es genitivo singular (del maestro) y discipulos es el sujeto plural: «los discípulos del maestro llaman al templo»", "Magistri es nominativo plural y discipulos es dativo plural: «los maestros llaman para los discípulos en el templo»", "Magistri es nominativo plural (sujeto) y discipulos es acusativo plural (objeto directo): «los maestros llaman a los discípulos al templo»"],
-      "correct": 2,
-      "hint": "El verbo «vocant» está en 3ª persona del plural: busca qué palabra puede ser su sujeto plural en nominativo.",
-      "explanation": "«Magistri» es nominativo plural (sujeto, terminación -i) y «discipulos» es acusativo plural (objeto directo, terminación -os): «los maestros llaman a los discípulos». La opción genitiva ignora que los nominativos masculinos plurales no terminan en «-os», y la dativa confunde «-os» (acusativo) con «-is» (dativo plural, que sería «discipulis»)."
+      "q": "¿Cómo se dice «Los maestros llaman a los discípulos al templo»?",
+      "options": ["Magistri discipulos in templum vocant.", "Magistri discipulis in templum vocant.", "Magister discipulos in templum vocant."],
+      "correct": 0,
+      "hint": "El objeto directo (a los discípulos) va en acusativo, y el verbo debe concordar en plural con «magistri».",
+      "explanation": "«Magistri» (nominativo plural) es el sujeto y «discipulos» (acusativo plural) el objeto directo: «los maestros llaman a los discípulos». «Discipulis» (dativo) no expresa objeto directo, y «magister» (singular) no concordaría con el verbo «vocant» (plural)."
     },
     {
       "type": "gap",
@@ -86,11 +86,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Por qué «ager, agri» pierde la vocal -e- en los casos oblicuos (agrum, agri, agro) mientras que «puer, pueri» la conserva?",
-      "options": ["Porque «puer» pertenece a la primera declinación y «ager» a la segunda declinación", "Porque la -e- de «puer» es radical (parte de la raíz) y la de «ager» es una vocal de apoyo que se síncopa al añadir una desinencia que empieza por vocal", "Porque «ager» es un sustantivo neutro y sigue las leyes especiales de concordancia"],
+      "q": "¿Cómo se dice «El niño trabaja en el campo»?",
+      "options": ["Puer in agero laborat.", "Puer in agro laborat.", "Pueri in agro laborant."],
       "correct": 1,
-      "hint": "Ambos son masculinos de la 2ª declinación: la diferencia está en si la -e- pertenece a la raíz o es solo un apoyo fonético.",
-      "explanation": "En «puer» la -e- es parte de la raíz y se mantiene en toda la flexión. En «ager» es una vocal epentética de apoyo (raíz real «agr-») que desaparece (síncopa) al añadir una desinencia que empieza por vocal, como «-i» o «-um». Ambos pertenecen a la misma declinación y ninguno es neutro (el neutro terminaría en -um)."
+      "hint": "«Ager» pierde la vocal de apoyo -e- en los casos oblicuos (agro, agrum, agri); «puer» no la pierde nunca.",
+      "explanation": "«Agro» es la forma correcta de ablativo de «ager» (con síncopa de la -e-). «Agero» repite indebidamente esa vocal, calcando el error frecuente de aplicar a «ager» el comportamiento de «puer», que sí la conserva en toda su flexión. «Pueri... laborant» cambia además el sujeto a plural."
     },
     {
       "type": "gap",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "Si encontramos el sustantivo neutro plural «templa» en un texto, ¿qué funciones sintácticas puede tener?",
-      "options": ["Nominativo, vocativo o acusativo plural: puede ser sujeto, apelación u objeto directo", "Únicamente sujeto en nominativo plural, ya que el neutro marca el objeto con -um", "Genitivo singular femenino, concordando con sustantivos de la primera declinación"],
-      "correct": 0,
-      "hint": "Recuerda la regla del neutro: nominativo, vocativo y acusativo son siempre idénticos entre sí.",
-      "explanation": "Por la regla del neutro, nominativo, vocativo y acusativo plural son siempre idénticos y terminan en «-a»: «templa» puede ser sujeto, apelación u objeto directo según el contexto. No es exclusivamente sujeto (el acusativo plural neutro también usa -a) ni genitivo femenino (ese caso termina en -ae, no en -a)."
+      "q": "¿Cómo se dice «Los niños aman los templos»?",
+      "options": ["Pueri templam amant.", "Pueri templorum amant.", "Pueri templa amant."],
+      "correct": 2,
+      "hint": "En el neutro, el acusativo plural es idéntico al nominativo plural: ambos terminan en -a.",
+      "explanation": "«Templa» sirve tanto de sujeto como de objeto directo sin cambiar de forma (regla del neutro: nom.=voc.=ac.). «Templam» inventa una desinencia de acusativo singular que no existe en el neutro plural, y «templorum» es genitivo plural, caso que no corresponde a un objeto directo."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "En «Dona dei populo dei damus», ¿cómo se interpretan las dos formas idénticas «dei»?",
-      "options": ["La primera es nominativo plural («los dioses») y la segunda genitivo singular («del dios»)", "La primera es genitivo singular y la segunda nominativo plural (sujeto)", "Ambas son genitivo singular, modificando respectivamente a «dona» y a «populo»"],
-      "correct": 2,
-      "hint": "El verbo «damus» está en 1ª persona del plural: el sujeto ya es «nosotros», implícito en la desinencia.",
-      "explanation": "Como el sujeto de «damus» (1ª pl., «nosotros») ya está fijado por la desinencia verbal, ningún «dei» puede ser nominativo plural sujeto sin una conjunción copulativa. Ambas formas son genitivo singular: la primera modifica a «dona» («los dones de Dios») y la segunda a «populo» («al pueblo de Dios»)."
+      "q": "¿Cómo se dice «Damos los dones de Dios al pueblo de Dios»?",
+      "options": ["Dona deus populo deus damus.", "Dona dei populo dei damus.", "Dona deorum populo deo damus."],
+      "correct": 1,
+      "hint": "«De Dios» expresa posesión dos veces: busca la forma de genitivo singular de «deus», que se repite igual en ambos casos.",
+      "explanation": "«Dei» es el genitivo singular de «deus» («de Dios»); aparece dos veces, modificando primero a «dona» y luego a «populo». «Deus» (nominativo) no expresa posesión, y «deorum» (genitivo plural) cambiaría el sentido a «de los dioses», mientras «deo» sería dativo."
     },
     {
       "type": "gap",
@@ -182,11 +182,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Por qué «Aegyptus» (nombre de país) exige el adjetivo «magna» y no «magnus»?",
-      "options": ["Porque «Aegyptus» es neutro y el neutro exige la forma en -a en singular", "Porque «Aegyptus» es un nombre femenino que se declina por la 2ª declinación pero concuerda en género femenino", "Porque «magnus» no existe como forma de adjetivo en latín clásico"],
-      "correct": 1,
-      "hint": "Los nombres de países e islas suelen ser femeninos aunque terminen en -us: la concordancia sigue el género, no la terminación.",
-      "explanation": "Los nombres de regiones e islas (como «Aegyptus») son femeninos por tradición semántica aunque se declinen como «dominus». El adjetivo debe concordar en género femenino («magna», 1ª declinación), no en la terminación -us. No es neutro (el neutro singular acaba en -um) y «magnus» sí existe, solo que en el género equivocado."
+      "q": "¿Cómo se dice «Egipto es grande»?",
+      "options": ["Aegyptus magnus est.", "Aegyptus magnum est.", "Aegyptus magna est."],
+      "correct": 2,
+      "hint": "«Aegyptus» es un nombre de país femenino, aunque termine en -us como los masculinos de la 2ª declinación.",
+      "explanation": "Los nombres de países e islas como «Aegyptus» son femeninos por tradición aunque se declinen como «dominus»: el adjetivo debe concordar en femenino, «magna». «Magnus» aplica el género masculino (el error más común, guiado por la terminación -us) y «magnum» el neutro, que tampoco corresponde."
     },
     {
       "type": "gap",
@@ -210,11 +210,11 @@
     },
     {
       "type": "quiz",
-      "q": "En «Pueri laborant in agris», ¿qué función cumple agris?",
-      "options": ["Ablativo plural de ubicación", "Genitivo singular de posesión", "Nominativo plural, sujeto de la oración"],
-      "correct": 0,
-      "hint": "El verbo «laborant» ya tiene su sujeto («pueri»): «in» + esta desinencia expresa dónde trabajan.",
-      "explanation": "«In» + ablativo plural (-is) expresa ubicación estable: «agris» = «en los campos». El sujeto ya es «pueri» (nominativo plural), así que «agris» no puede repetir esa función, y su desinencia -is no corresponde al genitivo singular (-i)."
+      "q": "¿Cómo se dice «El hombre trabaja en los campos»?",
+      "options": ["Vir in agri laborat.", "Vir in agris laborat.", "Vir in agrorum laborat."],
+      "correct": 1,
+      "hint": "«In» + ubicación exige ablativo plural: revisa la desinencia -is.",
+      "explanation": "«In agris» (ablativo plural, -is) expresa «en los campos», el lugar donde trabaja. «In agri» no es una forma casual reconocible tras «in», y «agrorum» es genitivo plural, que no indica lugar."
     },
     {
       "type": "gap",

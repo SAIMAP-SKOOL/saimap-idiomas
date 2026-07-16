@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué proceso morfofonético explica la forma verbal amō (1ª sg. del presente de indicativo activo)?",
-      "options": ["La contracción regular de la vocal temática -ā- y la vocal -ō en un diptongo arcaico -ao.", "La elisión de la vocal temática -ā- del tema de presente ante la desinencia personal -ō.", "La adición de la desinencia secundaria -m, que provoca el ensordecimiento de la raíz am-."],
-      "correct": 1,
-      "hint": "Piensa qué le ocurre a la vocal temática -ā- cuando se encuentra con la -ō de la desinencia.",
-      "explanation": "La vocal temática -ā- de la 1ª conjugación se elide por completo ante la desinencia -ō («ama-ō» → «amō»). El latín clásico no admite el diptongo -ao, y la desinencia usada aquí es -ō, no la secundaria -m (reservada para otros tiempos como el imperfecto)."
+      "q": "¿Cómo se dice «Yo amo la patria»?",
+      "options": ["Amō patriam.", "Amat patriam.", "Amāmus patriam."],
+      "correct": 0,
+      "hint": "La vocal temática -ā- desaparece por completo ante la desinencia de 1ª persona singular -ō.",
+      "explanation": "«Amō» es la 1ª persona singular: la vocal temática -ā- se elide totalmente ante -ō («ama-ō» → «amō»). «Amat» es 3ª persona singular y «amāmus» es 1ª persona plural, ambas personas distintas a «yo»."
     },
     {
       "type": "gap",
@@ -52,11 +52,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la forma monēmus, ¿por qué la vocal temática -ē- se mantiene larga?",
-      "options": ["Porque la vocal se abrevia ante la consonante nasal -m-.", "Porque la vocal se elide y es sustituida por una vocal de unión -i-, propia de la 3ª conjugación.", "Porque va seguida de la desinencia -mus, que conserva la cantidad larga de la vocal temática."],
-      "correct": 2,
-      "hint": "Compara con «monet» (3ª sg): ¿qué desinencias abrevian la vocal y cuáles la mantienen larga?",
-      "explanation": "Ante -mus (y -tis, -s) la vocal temática -ē- de la 2ª conjugación mantiene su cantidad larga: «monēmus». Solo se abrevia ante -t y -nt («monet», «monent»). La vocal de unión -i- pertenece a la 3ª conjugación («legimus»), no a esta."
+      "q": "¿Cómo se dice «Nosotros aconsejamos al amigo»?",
+      "options": ["Monimus amīcum.", "Monēmus amīcum.", "Monet amīcum."],
+      "correct": 1,
+      "hint": "La vocal temática -ē- de la 2ª conjugación se mantiene larga ante la desinencia -mus.",
+      "explanation": "«Monēmus» es la 1ª persona plural de la 2ª conjugación, con la vocal larga -ē- conservada ante -mus (compara con «monet», 3ª sg, donde se abrevia). «Monimus» aplica por error la vocal -i- de la 3ª conjugación, y «monet» es 3ª persona singular, no 1ª plural."
     },
     {
       "type": "match",
@@ -86,11 +86,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Por qué el infinitivo distingue un verbo de la 2ª conjugación (monēre) de uno de la 3ª (legĕre)?",
-      "options": ["Porque la 2ª conjugación tiene la vocal temática -ē- larga (monēre) y la 3ª la vocal de unión -ĕ- breve (legĕre).", "Porque el infinitivo de la 2ª conjugación termina en -āre y el de la 3ª en -ēre.", "Porque la 2ª conjugación no lleva el acento en la vocal temática del infinitivo."],
+      "q": "¿Cuál es la forma correcta para «Debo enseñar al niño»?",
+      "options": ["Dēbeō puerum docēre.", "Dēbeō puerum docāre.", "Dēbeō puerum docere."],
       "correct": 0,
-      "hint": "Fíjate en la cantidad (larga o breve) de la vocal antes de -re, no solo en las letras.",
-      "explanation": "La diferencia es la cantidad vocálica: «monēre» lleva -ē- larga (palabra llana, acento en esa sílaba) y «legĕre» lleva -ĕ- breve (esdrújula). La terminación -āre es propia de la 1ª conjugación, no de la 2ª."
+      "hint": "El infinitivo de la 2ª conjugación conserva la vocal temática -ē- larga, igual que en «monēre».",
+      "explanation": "«Docēre» es el infinitivo de la 2ª conjugación con la vocal temática -ē- larga (como «monēre»). «Docāre» aplica por error la terminación -āre de la 1ª conjugación, y «docere» (con -e- breve) imitaría el patrón de otra conjugación con vocal breve."
     },
     {
       "type": "gap",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué explica que en amat y monet la vocal temática se pronuncie breve?",
-      "options": ["El influjo analógico de la 3ª persona plural en -nt.", "La ley de abreviación vocálica: toda vocal larga final se abrevia ante consonante distinta de -s o -r.", "Una síncopa de la vocal temática por el acento de intensidad inicial."],
-      "correct": 1,
-      "hint": "Es una ley fonética general, no una excepción particular de estos dos verbos.",
-      "explanation": "Toda vocal larga en sílaba final se abrevia ante cualquier consonante que no sea -s o -r; por eso «amāt» → «amat» y «monēt» → «monet». No es analogía con -nt (fenómeno aparte) ni una síncopa, que eliminaría la vocal por completo."
+      "q": "¿Cuál es la forma correcta para «El amigo ama al rey»?",
+      "options": ["Amīcus regem amāt.", "Amīcus regem amant.", "Amīcus regem amat."],
+      "correct": 2,
+      "hint": "Toda vocal larga final se abrevia ante una consonante distinta de -s o -r; fíjate también en qué opción concuerda con el sujeto singular «amīcus».",
+      "explanation": "«Amat» es la forma correcta: la vocal temática larga -ā- se abrevia ante -t (ley de abreviación vocálica) y concuerda en singular con «amīcus». «Amāt» mantiene por error la vocal larga, y «amant» es 3ª persona plural, que no concuerda con el sujeto singular."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "En «Amīcī patriam servant», ¿qué es servant?",
-      "options": ["3ª persona del plural del presente de indicativo activo de servāre (1ª conjugación).", "1ª persona del plural del presente de indicativo activo de servīre (4ª conjugación).", "3ª persona del singular del imperfecto de indicativo activo de servāre."],
-      "correct": 0,
-      "hint": "Fíjate en el sujeto «Amīcī» (plural) y en que la acción ocurre en el presente.",
-      "explanation": "«Servant» = raíz serv- + vocal temática abreviada -a- + desinencia -nt (3ª pl) del verbo servāre, 1ª conjugación. No es servīre (4ª, «servir», daría «serviunt») ni un imperfecto (que sería «servābant»)."
+      "q": "¿Cómo se dice «Los amigos salvan la patria»?",
+      "options": ["Amīcī patriam serviunt.", "Amīcī patriam servant.", "Amīcī patriam servat."],
+      "correct": 1,
+      "hint": "El sujeto plural «amīcī» exige la desinencia -nt; cuidado con confundir «servāre» (salvar, 1ª conjugación) con «servīre» (servir, 4ª conjugación).",
+      "explanation": "«Servant» es la 3ª persona plural de «servāre» (1ª conjugación, «salvar»): raíz serv- + vocal temática abreviada -a- + -nt. «Serviunt» pertenece a «servīre» (4ª conjugación, «servir»), verbo distinto, y «servat» es 3ª persona singular, no plural."
     },
     {
       "type": "gap",

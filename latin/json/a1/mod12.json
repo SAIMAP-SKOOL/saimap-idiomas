@@ -45,11 +45,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase de San Agustín «Cor meum inquietum est donec requiescat in te», la estructura in te representa:",
-      "options": ["Un acusativo de dirección hostil.", "Un ablativo separativo de origen.", "Un ablativo locativo o figurado de reposo."],
+      "q": "¿Cuál es la traducción latina correcta de la frase de San Agustín «Mi corazón está inquieto hasta que descanse en ti»?",
+      "options": ["Cor meum inquietum est donec requiescat ad te.", "Cor meum inquietum est donec requiescat a te.", "Cor meum inquietum est donec requiescat in te."],
       "correct": 2,
-      "hint": "El verbo requiescere (descansar) indica un estado, no un movimiento.",
-      "explanation": "Te está en ablativo, y in + ablativo expresa ubicación o reposo estático («descansar en ti»), en concordancia con el verbo requiescere. No es dirección hostil (eso sería in + acusativo con verbo de ataque) ni origen (eso exigiría ab/ex + ablativo)."
+      "hint": "El verbo requiescere (descansar) expresa un estado, no un movimiento hacia ni un alejamiento desde.",
+      "explanation": "«In te» (in + ablativo) expresa reposo o permanencia interior, en concordancia con requiescere. «Ad te» sugiere movimiento hacia un destino y «a te» expresaría alejamiento o procedencia, sentidos ajenos a un verbo de reposo."
     },
     {
       "type": "gap",
@@ -79,11 +79,11 @@
     },
     {
       "type": "quiz",
-      "q": "Identifique el error sintáctico en «Caesar cum amicos a Roma ad villam iter facit» (César viaja con sus amigos de Roma a la villa):",
-      "options": ["Cum amicos debería ser cum amicis.", "A Roma debería ser ab Roma.", "Ad villam debería ser villam sin preposición."],
+      "q": "¿Cuál de estas frases sobre el viaje de César es gramaticalmente correcta?",
+      "options": ["Caesar cum amicis a Roma ad villam iter facit.", "Caesar cum amicos a Roma ad villam iter facit.", "Caesar cum amicis ab Roma ad villam iter facit."],
       "correct": 0,
-      "hint": "Cum siempre rige el mismo caso, sin excepción.",
-      "explanation": "Cum rige obligatoriamente ablativo, y amicus, -i (2ª declinación) hace el ablativo plural en -is: cum amicis, no cum amicos (acusativo). A Roma ya es correcto porque «a» se usa ante consonante; y villa no es nombre de ciudad, así que sí necesita preposición (ad villam)."
+      "hint": "Cum siempre rige ablativo, y ante consonante se usa «a», no «ab».",
+      "explanation": "Cum rige obligatoriamente ablativo, y amicus, -i (2ª declinación) hace el ablativo plural en -is: cum amicis, no cum amicos (acusativo). Además, ante consonante se usa la forma «a», no «ab»: a Roma. Solo la primera frase respeta ambas reglas."
     },
     {
       "type": "gap",
@@ -107,11 +107,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué diferencia semántica existe entre in villam intrare e in villa manere?",
-      "options": ["El primero expresa alejamiento de la villa y el segundo entrada en ella.", "Ambos expresan movimiento, pero el segundo indica tránsito a través de la villa.", "El primer sintagma expresa dirección hacia el interior (acusativo) y el segundo expresa permanencia estática dentro (ablativo)."],
+      "q": "¿Cómo se dice correctamente «La niña entra en la villa» (movimiento hacia el interior)?",
+      "options": ["Puella in villā intrat.", "Puella in villam manet.", "Puella in villam intrat."],
       "correct": 2,
-      "hint": "Fíjate en la desinencia de villam frente a villa.",
-      "explanation": "In villam (acusativo) denota movimiento con entrada al interior; in villa (ablativo), en concordancia con manere, denota permanencia estática dentro. No hay alejamiento ni tránsito en ninguna de las dos frases."
+      "hint": "El movimiento con entrada exige acusativo tras in, no ablativo; y el verbo debe coincidir con el sentido de movimiento o reposo.",
+      "explanation": "Intrāre expresa movimiento hacia el interior, así que in rige acusativo: villam. «In villā intrat» usa erróneamente el ablativo de reposo con un verbo de movimiento, y «in villam manet» combina el acusativo de movimiento con manēre, verbo de reposo: combinación imposible."
     },
     {
       "type": "gap",

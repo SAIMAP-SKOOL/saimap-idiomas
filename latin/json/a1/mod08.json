@@ -52,11 +52,11 @@
     },
     {
       "type": "quiz",
-      "q": "Analiza morfológicamente la palabra corpora en «Dominus corpora videt».",
-      "options": ["Acusativo plural neutro de la tercera declinación.", "Nominativo plural femenino de la primera declinación.", "Acusativo singular femenino de la primera declinación."],
-      "correct": 0,
-      "hint": "«Corpus, corporis» es neutro: ¿qué desinencia toman siempre los neutros en plural?",
-      "explanation": "«Corpus, corporis» es un neutro de la 3ª declinación: su nominativo y acusativo plural terminan siempre en -a, de ahí «corpora». No es femenino de la 1ª declinación (esa terminación de acusativo singular sería -am, como «puellam»), y aquí el número es plural, no singular."
+      "q": "¿Cómo se dice «El señor ve los cuerpos»?",
+      "options": ["Dominus corpus videt.", "Dominus corpora videt.", "Dominus corporas videt."],
+      "correct": 1,
+      "hint": "«Corpus» es neutro de la 3ª declinación: su acusativo plural, igual que el nominativo, termina siempre en -a.",
+      "explanation": "«Corpora» es el acusativo plural neutro de «corpus, corporis» (los neutros igualan nominativo y acusativo, terminados en -a). «Corpus» es singular, y «corporas» es una desinencia inexistente que calca el plural femenino de la 1ª declinación."
     },
     {
       "type": "match",
@@ -86,11 +86,11 @@
     },
     {
       "type": "quiz",
-      "q": "Identifica el error sintáctico en: «❌ Regina ad filium vocat».",
-      "options": ["El sujeto regina debería estar en acusativo (reginam).", "El sustantivo filium debería estar en un caso distinto al acusativo.", "Se ha introducido la preposición ad ante el objeto directo animado."],
-      "correct": 2,
-      "hint": "El verbo «vocare» (llamar) rige acusativo puro, sin preposición, aunque en español digamos «llamar a alguien».",
-      "explanation": "El error es haber traducido el «a» del español «llamar a alguien» como la preposición «ad»: el verbo transitivo «vocare» rige acusativo directo sin preposición («Regina filium vocat»). El sujeto «regina» va correctamente en nominativo, y «filium» (acusativo) sí es el caso correcto para el objeto directo."
+      "q": "¿Cuál de estas frases es la correcta para «La reina llama al hijo»?",
+      "options": ["Regina filium vocat.", "Regina ad filium vocat.", "Regina filius vocat."],
+      "correct": 0,
+      "hint": "El verbo «vocare» rige acusativo puro, sin preposición, aunque en español digamos «llamar A alguien».",
+      "explanation": "«Regina filium vocat» es correcta: el objeto directo animado va en acusativo sin preposición. «Regina ad filium vocat» calca por error el «a» del español con la preposición «ad», agramatical aquí, y «regina filius vocat» deja el objeto en nominativo, caso incorrecto."
     },
     {
       "type": "gap",
@@ -120,11 +120,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la función y el caso de Romam en «Nuntius Romam currit»?",
-      "options": ["Complemento de dirección en caso acusativo sin preposición.", "Objeto directo en caso acusativo.", "Sujeto de la oración en caso nominativo."],
-      "correct": 0,
-      "hint": "«Currere» es intransitivo: no puede llevar objeto directo. ¿Qué otro uso tiene el acusativo con nombres de ciudad?",
-      "explanation": "Con nombres propios de ciudad, el acusativo sin preposición expresa dirección («voy hacia»): «Romam» = «hacia Roma». No es objeto directo porque «currit» (correr) es intransitivo, y el nominativo singular de «Roma» sería «Roma», sin la -m final."
+      "q": "¿Cuál es la forma correcta para «El mensajero corre hacia Roma»?",
+      "options": ["Nuntius ad Romam currit.", "Nuntius Roma currit.", "Nuntius Romam currit."],
+      "correct": 2,
+      "hint": "Con nombres propios de ciudad, el latín expresa «hacia» con el acusativo solo, sin preposición «ad».",
+      "explanation": "«Romam» (acusativo sin preposición) expresa dirección con nombres de ciudad: «hacia Roma». Añadir «ad» es redundante y no es el uso clásico con topónimos, y «Roma» sin -m es el nominativo, que no expresa dirección."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el acusativo plural del sustantivo res (f., 5ª declinación)?",
-      "options": ["rem", "ras", "res"],
-      "correct": 2,
-      "hint": "La 5ª declinación es muy regular: nominativo y acusativo plural coinciden.",
-      "explanation": "Los sustantivos de la 5ª declinación como «res» presentan la misma forma en nominativo y acusativo plural: «res». «Rem» es el acusativo singular, y «-as» es la desinencia típica del acusativo plural de la 1ª declinación (puellas), no de la 5ª."
+      "q": "¿Cómo se dice «Los amigos ven las cosas»?",
+      "options": ["Amīcī rem vident.", "Amīcī res vident.", "Amīcī ras vident."],
+      "correct": 1,
+      "hint": "La 5ª declinación es muy regular: el acusativo plural de «res» es igual que el nominativo plural.",
+      "explanation": "«Res» es el acusativo plural de la 5ª declinación (coincide con el nominativo plural). «Rem» es singular, y «ras» calca por error la desinencia de acusativo plural de la 1ª declinación (puellas), que no existe en la 5ª."
     },
     {
       "type": "gap",

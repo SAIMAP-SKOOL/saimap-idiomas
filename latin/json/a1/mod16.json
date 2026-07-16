@@ -32,15 +32,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la concordancia correcta para «el agricultor valiente» en Nominativo?",
+      "q": "¿Cómo se dice «El agricultor es fuerte»?",
       "options": [
-        "agricola fortis",
-        "agricola fortem",
-        "agricola forte"
+        "Agricola fortis est.",
+        "Agricola fortem est.",
+        "Agricola forte est."
       ],
       "correct": 0,
-      "hint": "Agricola es sujeto en nominativo singular masculino.",
-      "explanation": "«Agricola» es un sustantivo masculino de la 1ª declinación en nominativo singular. El adjetivo «fortis, forte» debe concordar en masculino singular nominativo: «fortis». «Fortem» es acusativo y «forte» es la forma neutra."
+      "hint": "Agricola es el sujeto: masculino singular en nominativo.",
+      "explanation": "«Agricola» (sujeto, nom. sg. masc.) exige que el adjetivo «fortis, forte» concuerde en nominativo: «fortis». «Fortem» es acusativo y «forte» es la forma neutra: ninguna puede acompañar a un sujeto masculino."
     },
     {
       "type": "gap",
@@ -69,15 +69,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el ablativo singular correcto de la frase «miles fidelis» (el soldado fiel)?",
+      "q": "¿Cómo se dice «con el soldado fiel»?",
       "options": [
         "militi fideli",
-        "milite fideli",
-        "milite fidele"
+        "milite fidele",
+        "milite fideli"
       ],
-      "correct": 1,
-      "hint": "El sustantivo y el adjetivo no comparten la misma terminación en ablativo.",
-      "explanation": "El sustantivo «miles» (tema en consonante) hace el ablativo singular en «-e»: «milite». El adjetivo de segunda clase «fidelis, fidele» exige ablativo singular en «-i»: «fideli». Combinación correcta: «milite fideli»."
+      "correct": 2,
+      "hint": "Miles es un tema en consonante: su ablativo no termina en -i.",
+      "explanation": "«Miles» (tema en consonante) hace el ablativo singular en «-e»: «milite», no en «-i» («militi», que sería dativo). El adjetivo de segunda clase «fidelis, fidele» exige siempre «-i» en ablativo: «fideli», no «fidele» (neutro). La combinación correcta es «milite fideli»."
     },
     {
       "type": "gap",
@@ -160,15 +160,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el genitivo plural de «omnis, omne»?",
+      "q": "¿Cómo se dice «la sabiduría de todos es dulce»?",
       "options": [
-        "omnum",
-        "omnium",
-        "omni"
+        "Sapientia omnum dulcis est.",
+        "Sapientia omnium dulcis est.",
+        "Sapientia omni dulcis est."
       ],
       "correct": 1,
-      "hint": "Sigue la flexión de los temas en -i de la 3ª declinación.",
-      "explanation": "Los adjetivos de la segunda clase siguen la declinación de los temas en «-i» de la tercera declinación, por lo que su genitivo plural es «-ium»: «omnium». «Omnum» no existe y «omni» es el ablativo/dativo singular."
+      "hint": "Omnis sigue la flexión de los temas en -i de la 3ª declinación.",
+      "explanation": "El genitivo plural de los adjetivos de segunda clase como «omnis, omne» sigue el patrón de los temas en «-i» de la 3ª declinación: «omnium». «Omnum» no existe y «omni» es la forma de ablativo/dativo singular."
     },
     {
       "type": "gap",
@@ -228,15 +228,15 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Laudamus audaces milites», ¿en qué caso y función está «audaces»?",
+      "q": "¿Cuál es la traducción correcta de «Laudamus audaces milites»?",
       "options": [
-        "Genitivo singular, complemento de nombre.",
-        "Nominativo plural, sujeto.",
-        "Acusativo plural, adjetivo concordante con objeto directo."
+        "Alabamos a los soldados audaces.",
+        "Los soldados audaces nos alaban.",
+        "Alabamos al soldado audaz."
       ],
-      "correct": 2,
-      "hint": "El verbo laudamus rige un objeto directo.",
-      "explanation": "El verbo «laudamus» (nosotros alabamos) rige un objeto directo en acusativo plural («milites»). El adjetivo «audaces» concuerda en caso, género y número (acusativo masculino plural) con «milites»."
+      "correct": 0,
+      "hint": "Laudamus es 1ª persona plural; audaces milites es el objeto directo en plural.",
+      "explanation": "«Laudamus» significa «alabamos» (nosotros); «milites» es acusativo plural (objeto directo) y «audaces» concuerda con él en acusativo plural. La frase completa es «Alabamos a los soldados audaces», no lo contrario (con los soldados como sujeto) ni en singular."
     },
     {
       "type": "gap",
@@ -265,15 +265,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el ablativo correcto de «con el padre fuerte»?",
+      "q": "¿Cómo se dice «con el padre fuerte»?",
       "options": [
         "Cum forte patre.",
-        "Cum forti patre.",
-        "Cum fortis patre."
+        "Cum fortis patre.",
+        "Cum forti patre."
       ],
-      "correct": 1,
-      "hint": "El sustantivo patre y el adjetivo no comparten la misma terminación de ablativo.",
-      "explanation": "El sustantivo «patre» (de «pater, patris», tema en consonante) hace el ablativo en «-e», pero el adjetivo de segunda clase «fortis, forte» exige siempre «-i» en el ablativo singular: «forti». «Cum forte patre» aplica erróneamente la terminación del sustantivo al adjetivo, y «fortis» no es forma de ablativo."
+      "correct": 2,
+      "hint": "Patre y el adjetivo de segunda clase no comparten la misma terminación de ablativo.",
+      "explanation": "«Patre» (de «pater, patris», tema en consonante) hace el ablativo en «-e», pero el adjetivo de segunda clase «fortis, forte» exige siempre «-i» en el ablativo singular: «forti». «Cum forte patre» aplica erróneamente la terminación del sustantivo al adjetivo, y «fortis» no es forma de ablativo."
     },
     {
       "type": "wordbank",
@@ -322,15 +322,15 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma correcta para «el agricultor fuerte» como sujeto de la oración?",
+      "q": "¿Cómo se dice «El agricultor fuerte es bueno»?",
       "options": [
-        "Agricola fortem.",
-        "Agricola forte.",
-        "Agricola fortis."
+        "Agricolam fortem bonus est.",
+        "Agricola fortis bonus est.",
+        "Agricola forte bonus est."
       ],
-      "correct": 2,
-      "hint": "Agricola, aunque termine en -a, es masculino.",
-      "explanation": "«Agricola» es un sustantivo masculino de la 1ª declinación en nominativo singular (sujeto). El adjetivo «fortis, forte» debe concordar en nominativo masculino singular: «fortis», no en acusativo («fortem») ni en la forma neutra («forte»)."
+      "correct": 1,
+      "hint": "El sujeto de una oración con est va en nominativo, aunque agricola termine en -a.",
+      "explanation": "«Agricola» es masculino de la 1ª declinación; como sujeto de «est» exige el adjetivo «fortis» en nominativo masculino. «Agricolam fortem» usa el acusativo, propio de un objeto directo, no de un sujeto; «forte» es la forma neutra del adjetivo, incompatible con «agricola» (masculino)."
     },
     {
       "type": "gap",

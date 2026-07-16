@@ -52,11 +52,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Odium regis civitatem liberat», si el contexto indica que los ciudadanos odiaban al monarca, ¿qué tipo de genitivo representa «regis»?",
-      "options": ["Genitivo Posesivo.", "Genitivo Objetivo.", "Genitivo Subjetivo."],
-      "correct": 1,
-      "hint": "Pregúntate quién recibe el odio, no quién lo siente.",
-      "explanation": "Como los ciudadanos odian al rey, «regis» es el objeto del sentimiento expresado por «odium»: genitivo objetivo. Sería subjetivo si el rey fuera quien odiara, y posesivo no encaja porque no se trata de pertenencia."
+      "q": "En «Odium regis civitatem liberat», si el pueblo es quien odia al rey, ¿cuál es la traducción correcta?",
+      "options": ["El rey odia y libera a la ciudad.", "El odio del rey libera a la ciudad.", "El odio hacia el rey libera a la ciudad."],
+      "correct": 2,
+      "hint": "Si el pueblo es quien odia, «regis» es el objeto de ese odio (genitivo objetivo): se traduce «odio HACIA el rey», no «el odio DEL rey».",
+      "explanation": "Como los ciudadanos odian al rey, «regis» es el objeto del sentimiento: genitivo objetivo, que se traduce «odio hacia el rey». «El odio del rey» sugeriría que el rey es quien odia (genitivo subjetivo), sentido contrario al dado; y la primera opción inventa un sujeto verbal que no está en la oración latina."
     },
     {
       "type": "match",
@@ -86,11 +86,11 @@
     },
     {
       "type": "quiz",
-      "q": "Identifica la opción que contiene una desinencia morfológicamente incorrecta para el genitivo plural.",
-      "options": ["filiarum", "hostium", "reginum"],
-      "correct": 2,
-      "hint": "Piensa a qué declinación pertenece «regina» y cómo forma siempre su genitivo plural.",
-      "explanation": "«Regina, reginae» es de la 1ª declinación: su genitivo plural correcto es «reginarum», nunca «reginum». «Filiarum» (1ª declinación) y «hostium» (3ª declinación, tema en -i) sí son formas correctas."
+      "q": "¿Cómo se dice «El templo de las reinas»?",
+      "options": ["Templum reginum.", "Templum reginarum.", "Templum reginae."],
+      "correct": 1,
+      "hint": "«Regina» es de la 1ª declinación: su genitivo plural siempre es «-arum», nunca «-um».",
+      "explanation": "«Reginarum» es el genitivo plural correcto de la 1ª declinación. «Reginum» aplica por error una desinencia de otra declinación (como la 3ª, «hostium»), y «reginae» es singular (genitivo/nominativo plural), no plural."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Qué ambigüedad gramatical presenta la frase latina «Amor Dei» fuera de contexto?",
-      "options": ["Que «Dei» puede ser nominativo plural («los dioses aman»).", "Que «Dei» puede funcionar tanto de genitivo subjetivo como de genitivo objetivo.", "Que «Dei» puede ser un genitivo de cualidad sin adjetivo."],
-      "correct": 1,
-      "hint": "Piensa si Dios es quien ama o a quien se ama.",
-      "explanation": "«Dei» puede ser genitivo subjetivo (el amor que Dios siente) o genitivo objetivo (el amor que se siente hacia Dios); solo el contexto lo desambigua. No es nominativo plural (esa forma sería «dii»), y el genitivo de cualidad exige siempre un adjetivo que aquí no aparece."
+      "q": "¿Cómo se dice «El temor a los enemigos» (el miedo que se siente hacia ellos)?",
+      "options": ["Timor hostes.", "Timor hostis.", "Timor hostium."],
+      "correct": 2,
+      "hint": "Los sustantivos de sentimiento como «timor» rigen genitivo objetivo sin preposición, no acusativo ni nominativo.",
+      "explanation": "«Hostium» es el genitivo plural de «hostis, hostis» (temas en -i de la 3ª declinación), que expresa aquí el objeto del temor. «Hostes» es acusativo/nominativo plural y «hostis» es nominativo singular, ninguno funciona como complemento del nombre."
     },
     {
       "type": "gap",

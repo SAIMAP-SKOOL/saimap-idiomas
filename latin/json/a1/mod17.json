@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la segunda persona plural del presente de indicativo de «possum»?",
-      "options": ["potestis", "possunt", "possitis"],
-      "correct": 0,
-      "hint": "La terminación de sum en esta persona empieza por vocal.",
-      "explanation": "Se forma con la raíz «pot-» porque la terminación de «sum» empieza por vocal («estis»): «pot-estis». «Possunt» es la 3ª persona plural y «possitis» no es una forma válida."
+      "q": "¿Cómo se dice «vosotros podéis oír»?",
+      "options": ["Vos possunt audire.", "Vos potestis audire.", "Vos possitis audire."],
+      "correct": 1,
+      "hint": "Vos es la segunda persona plural; fíjate en qué terminación de sum añade -t- o no.",
+      "explanation": "«Potestis» es la 2ª persona plural de «possum»: la raíz «pot-» se mantiene intacta porque la terminación de «sum» («estis») empieza por vocal. «Possunt» es la 3ª persona plural y «possitis» no es una forma válida."
     },
     {
       "type": "gap",
@@ -40,11 +40,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el infinitivo de presente pasivo del verbo «vincere» (3ª conjugación)?",
-      "options": ["vincere", "vinciri", "vinci"],
-      "correct": 2,
-      "hint": "La 3ª conjugación borra toda la cola -ere.",
-      "explanation": "Los verbos de la 3ª conjugación forman el infinitivo de presente pasivo sustituyendo «-ere» por la desinencia «-i»: «vinci». «Vinciri» aplica erróneamente el patrón de la 4ª conjugación y «vincere» es el infinitivo activo."
+      "q": "¿Cómo se dice «el soldado puede ser vencido»?",
+      "options": ["Miles potest vinci.", "Miles potest vinciri.", "Miles potest vincere."],
+      "correct": 0,
+      "hint": "Vincere es de 3ª conjugación: su infinitivo pasivo no sigue el patrón de la 4ª.",
+      "explanation": "Los verbos de la 3ª conjugación forman el infinitivo de presente pasivo sustituyendo «-ere» por la desinencia «-i»: «vinci» (ser vencido). «Vinciri» aplica erróneamente el patrón de la 4ª conjugación, y «vincere» es el infinitivo activo (vencer, no ser vencido)."
     },
     {
       "type": "gap",
@@ -94,11 +94,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma correcta del imperfecto en tercera persona singular de «possum»?",
-      "options": ["potebat", "posset", "poterat"],
+      "q": "¿Cómo se dice «él no podía ver»?",
+      "options": ["Non potebat videre.", "Non posset videre.", "Non poterat videre."],
       "correct": 2,
-      "hint": "No sigue la flexión regular en -bam.",
-      "explanation": "El imperfecto de «possum» se forma uniendo «pot-» a la tercera persona del imperfecto de «sum» («erat»): «pot-erat». «Potebat» no existe y «posset» es una forma de subjuntivo."
+      "hint": "El imperfecto de possum no sigue la flexión regular en -bam.",
+      "explanation": "El imperfecto de «possum» se forma uniendo «pot-» a la tercera persona del imperfecto de «sum» («erat»): «pot-erat» → «poterat». «Potebat» no existe y «posset» es una forma de subjuntivo."
     },
     {
       "type": "gap",
@@ -133,11 +133,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Veritas potest sciri», ¿cuál es la función y forma de «sciri»?",
-      "options": ["Infinitivo de presente pasivo de scire.", "Dativo singular del sustantivo scirus.", "Infinitivo de presente activo de scire."],
-      "correct": 0,
-      "hint": "La verdad recibe la acción, no la realiza.",
-      "explanation": "«Sciri» es el infinitivo pasivo del verbo «scire» (4ª conjugación: «ser sabido»), complemento directo del modal «potest»: «la verdad puede ser sabida». No es activo («scire») ni existe el sustantivo «scirus»."
+      "q": "¿Cuál es la traducción correcta de «Veritas potest sciri»?",
+      "options": ["La verdad puede saber.", "La verdad puede ser sabida.", "La verdad sabe poder."],
+      "correct": 1,
+      "hint": "Sciri es un infinitivo pasivo: la verdad no actúa, recibe la acción.",
+      "explanation": "«Sciri» es el infinitivo pasivo de «scire» (4ª conjugación): «ser sabido». Junto con el modal «potest», la frase significa «la verdad puede ser sabida», no que la verdad sepa algo (eso exigiría la voz activa) ni ninguna combinación sin sentido."
     },
     {
       "type": "gap",
@@ -156,10 +156,10 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la forma correcta del imperfecto de «possum» en primera persona («yo podía»)?",
-      "options": ["Potebam legere.", "Poteram legere.", "Possem legere."],
-      "correct": 1,
-      "hint": "Se une pot- al imperfecto de sum en 1ª persona.",
+      "q": "¿Cómo se dice «yo podía leer»?",
+      "options": ["Potebam legere.", "Possem legere.", "Poteram legere."],
+      "correct": 2,
+      "hint": "El imperfecto de possum no sigue el patrón regular en -bam.",
       "explanation": "El imperfecto de «possum» no sigue la flexión regular en «-bam»: se forma con «pot-» + «eram» → «poteram». «Potebam» es incorrecto y «possem» es una forma de subjuntivo."
     },
     {

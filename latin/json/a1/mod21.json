@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el vocativo singular de «filius» (hijo)?",
-      "options": ["fili", "filius", "filie"],
-      "correct": 0,
-      "hint": "Los sustantivos en «-ius» contraen la desinencia vocativa: no añaden «-e» como los demás en «-us».",
-      "explanation": "El vocativo singular de «filius» se forma por contracción en «-i»: «fili». «Filius» es el nominativo y «filie» es un error, pues la desinencia «-ie» se contrae siempre en «-i»."
+      "q": "¿Cómo se dice «¡Escucha, hijo!»?",
+      "options": ["Audi, filius!", "Audi, fili!", "Audi, filie!"],
+      "correct": 1,
+      "hint": "Los sustantivos en «-ius» contraen la desinencia vocativa: no añaden «-e» como los demás en «-us», ni mantienen la forma de nominativo.",
+      "explanation": "El vocativo singular de «filius» se forma por contracción en «-i»: «Audi, fili!». «Filius» es el nominativo y «filie» es un error, pues la desinencia «-ie» se contrae siempre en «-i»."
     },
     {
       "type": "gap",
@@ -45,11 +45,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Domine, exaudi orationem meam», ¿en qué caso está «Domine»?",
-      "options": ["Nominativo", "Vocativo", "Acusativo"],
-      "correct": 1,
-      "hint": "Fíjate en que la frase es una apelación directa: se está llamando a alguien.",
-      "explanation": "«Domine» es una apelación directa («¡Señor, escucha!»), función propia del caso Vocativo. El nominativo sería «Dominus» y el acusativo «Dominum», ninguno de los cuales encaja aquí."
+      "q": "¿Cómo se dice «¡Señor, escucha mi oración!»?",
+      "options": ["Domine, exaudi orationem meam!", "Dominus exaudit orationem meam!", "Dominum exaudi orationem meam!"],
+      "correct": 0,
+      "hint": "Es una apelación directa: se está llamando a alguien, no describiendo al sujeto ni al objeto directo de otra oración.",
+      "explanation": "Para llamar directamente a alguien se usa el vocativo «Domine», no el nominativo «Dominus» (sujeto) ni el acusativo «Dominum» (objeto directo)."
     },
     {
       "type": "gap",
@@ -202,11 +202,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál de estos sustantivos NO cambia de forma al pasar de Nominativo a Vocativo singular?",
-      "options": ["amicus", "pater", "discipulus"],
+      "q": "¿Cuál de estas frases es correcta para llamar directamente a tu padre?",
+      "options": ["Patre, audi me!", "Pater, audi me!", "Patris, audi me!"],
       "correct": 1,
-      "hint": "Piensa a qué declinación pertenece cada palabra: solo una no es de la segunda declinación en «-us».",
-      "explanation": "«Pater» es de la tercera declinación, cuyo vocativo singular coincide siempre con el nominativo. «Amicus» y «discipulus» son de la segunda declinación en «-us» y forman el vocativo en «-e» («amice», «discipule»)."
+      "hint": "«Pater» pertenece a la tercera declinación, cuyo vocativo singular coincide siempre con el nominativo: no se transforma como los nombres en «-us».",
+      "explanation": "El vocativo singular de «pater» coincide con el nominativo: «Pater, audi me!». «Patre» no es una forma real de este sustantivo y «Patris» es el genitivo, ninguno válido para apelar."
     },
     {
       "type": "gap",

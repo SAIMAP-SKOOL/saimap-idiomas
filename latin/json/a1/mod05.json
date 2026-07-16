@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "En «Discipuli in schola erant», ¿qué función tiene el verbo erant?",
-      "options": ["Copulativa; se traduce como «ellos son»", "Existencial / locativa; se traduce como «ellos estaban»", "Pasiva; expresa una acción sufrida por el sujeto"],
-      "correct": 1,
-      "hint": "Busca si hay algún atributo en nominativo junto al sujeto, o si en su lugar aparece un complemento de lugar.",
-      "explanation": "«Erant» no une «discipuli» a ningún atributo nominativo; va acompañado de un complemento de lugar («in schola»). Por eso funciona como existencial/locativo y se traduce en pasado: «estaban». La opción copulativa además yerra el tiempo (presente en vez de pasado), y «sum» nunca es un verbo pasivo."
+      "q": "¿Cómo se dice «Los discípulos estaban en la escuela»?",
+      "options": ["Discipuli in schola sunt.", "Discipulus in schola erant.", "Discipuli in schola erant."],
+      "correct": 2,
+      "hint": "«Estaban» es pasado (imperfecto) y el sujeto «discipuli» es plural: revisa tiempo y concordancia.",
+      "explanation": "«Erant» es 3ª persona plural del imperfecto de «sum»: «estaban». «Sunt» es presente («están», tiempo equivocado) y «discipulus... erant» mezcla un sujeto singular con un verbo plural, error de concordancia de número."
     },
     {
       "type": "gap",
@@ -148,11 +148,11 @@
     },
     {
       "type": "quiz",
-      "q": "En «Veritas lux mundi est», ¿en qué caso está el sustantivo lux?",
-      "options": ["Acusativo singular, porque actúa como complemento directo", "Genitivo singular, porque indica posesión", "Nominativo singular, porque funciona como predicado nominal de veritas"],
-      "correct": 2,
-      "hint": "«Sum» nunca rige acusativo: busca qué palabra concuerda en caso con el sujeto «veritas».",
-      "explanation": "«Sum» no puede regir un objeto directo (nunca lleva acusativo). «Lux» concuerda en caso nominativo con el sujeto «veritas», funcionando como su predicado nominal. El genitivo de posesión en esta frase lo ocupa «mundi» («del mundo»), no «lux»."
+      "q": "¿Cómo se dice «La verdad es la luz del mundo»?",
+      "options": ["Veritas lucem mundi est.", "Veritas lux mundi est.", "Veritas luci mundi est."],
+      "correct": 1,
+      "hint": "«Sum» nunca lleva objeto directo: el predicado nominal debe ir en el mismo caso que el sujeto, nominativo.",
+      "explanation": "«Lux» va en nominativo, igual que el sujeto «veritas», porque «sum» no puede regir un objeto directo: es su predicado nominal. «Lucem» (acusativo) fingiría un objeto directo imposible con «sum», y «luci» (dativo) tampoco expresa esa función."
     },
     {
       "type": "gap",
@@ -182,11 +182,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Por qué «Templa sunt sacros» es incorrecto?",
-      "options": ["Porque el atributo debe concordar en género y número con el sujeto neutro plural «templa», y su desinencia correcta es «-a» (sacra), no la masculina «-os»", "Porque «sacros» está en caso genitivo y el atributo de sum exige nominativo", "Porque «templa» es en realidad singular y no admite un atributo plural"],
+      "q": "¿Cómo se dice «Las palabras son sagradas»?",
+      "options": ["Verba sunt sacra.", "Verba sunt sacros.", "Verba sunt sacrorum."],
       "correct": 0,
-      "hint": "«Templa» es neutro plural: repasa la regla del neutro para nominativo/vocativo/acusativo plural.",
-      "explanation": "El atributo de «sum» debe concordar en género y número con el sujeto: «templa» es neutro plural, así que exige «-a» (sacra), no la desinencia masculina «-os». «Sacros» no está en genitivo (esa desinencia sería «-orum») y «templa» sí es plural, no singular."
+      "hint": "«Verba» es neutro plural: el atributo debe llevar también la desinencia neutra -a, nunca la masculina -os.",
+      "explanation": "«Verba sunt sacra» concuerda correctamente en neutro plural (-a). «Sacros» aplica la desinencia masculina de acusativo plural (2ª declinación), que no corresponde al atributo de «sum», y «sacrorum» sería genitivo plural, caso que tampoco expresa el atributo."
     },
     {
       "type": "gap",
@@ -210,11 +210,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la sentencia clásica «Vita brevis» (sin verbo expreso), ¿qué se sobreentiende?",
-      "options": ["Que el verbo «est» está implícito: la yuxtaposición de dos nominativos («vita», «brevis») ya expresa la cópula", "Que la frase está gramaticalmente incompleta y le falta un objeto directo", "Que «brevis» funciona como sujeto y «vita» como su complemento del nombre"],
-      "correct": 0,
-      "hint": "En la prosa clásica y eclesiástica, la 3ª persona de «sum» se omite con mucha frecuencia: ¿qué verbo falta aquí?",
-      "explanation": "En latín es muy frecuente elidir la 3ª persona de «sum»: la simple yuxtaposición de dos nominativos («vita», «brevis») ya implica la cópula «est». No falta un objeto directo (sum nunca lo lleva) y «vita» sigue siendo el sujeto, no un complemento del nombre."
+      "q": "¿Cómo se dice «La vida es breve», dejando el verbo sum sobreentendido, al estilo de la sentencia clásica?",
+      "options": ["Vita breve.", "Vitam brevem.", "Vita brevis."],
+      "correct": 2,
+      "hint": "En latín, dos nominativos yuxtapuestos (vita, brevis) ya implican el verbo «sum» sobreentendido; ojo también a la concordancia de género.",
+      "explanation": "«Vita brevis» yuxtapone dos nominativos femeninos (vita y el adjetivo brevis, invariable en masculino/femenino); el «est» queda implícito por costumbre clásica. «Vita breve» aplica por error la forma neutra del adjetivo, y «vitam brevem» pasa indebidamente ambas palabras a acusativo, sin ningún verbo que lo justifique."
     },
     {
       "type": "gap",

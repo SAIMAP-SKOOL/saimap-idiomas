@@ -17,11 +17,11 @@
     },
     {
       "type": "quiz",
-      "q": "En la frase «Femina, quam diligo, in urbe est», ¿por qué se utiliza «quam»?",
-      "options": ["Porque es femenino singular y funciona como objeto directo de diligo.", "Porque es un relativo de lugar.", "Porque concuerda en caso nominativo con femina."],
-      "correct": 0,
-      "hint": "Fíjate en la función sintáctica dentro de la subordinada.",
-      "explanation": "El antecedente «femina» es femenino singular. En la subordinada, el relativo funciona como objeto directo del verbo transitivo «diligo» (yo amo), por lo que exige el caso acusativo femenino singular: «quam»."
+      "q": "¿Cuál es la traducción correcta de «Femina, quam diligo, in urbe est»?",
+      "options": ["La mujer que me ama está en la ciudad.", "La mujer a la que amo está en la ciudad.", "La mujer, cuya ciudad amo, está aquí."],
+      "correct": 1,
+      "hint": "Quam es acusativo: la mujer recibe la acción de amar, no la realiza.",
+      "explanation": "El antecedente «femina» es femenino singular; en la subordinada, «quam» funciona como objeto directo de «diligo» (yo amo): «la mujer a la que amo». Si «quam» fuera sujeto, la mujer amaría (no sería amada), y la frase no menciona ninguna ciudad poseída."
     },
     {
       "type": "gap",
@@ -40,11 +40,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el genitivo singular del relativo para los tres géneros?",
-      "options": ["cui", "quorum", "cuius"],
-      "correct": 2,
-      "hint": "Es la misma forma para masculino, femenino y neutro.",
-      "explanation": "El genitivo singular del pronombre relativo tiene la forma común «cuius» para masculino, femenino y neutro: «del cual / de la cual / cuyo»."
+      "q": "¿Cómo se dice «el hombre cuya casa es grande»?",
+      "options": ["Vir cuius domus magna est.", "Vir cui domus magna est.", "Vir quorum domus magna est."],
+      "correct": 0,
+      "hint": "El genitivo singular del relativo es igual para los tres géneros: cuius.",
+      "explanation": "«Cuius» es el genitivo singular del relativo, común para masculino, femenino y neutro: «cuya». «Cui» es dativo y «quorum» es genitivo plural: ninguno cabe con un solo poseedor."
     },
     {
       "type": "gap",
@@ -94,11 +94,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es el dativo singular del pronombre relativo «qui, quae, quod»?",
-      "options": ["quibus", "cui", "quo"],
-      "correct": 1,
-      "hint": "Es la misma forma para los tres géneros en singular.",
-      "explanation": "El dativo singular del relativo es «cui» para los tres géneros. «Quibus» es el dativo/ablativo plural y «quo» es el ablativo singular masculino/neutro."
+      "q": "¿Cómo se dice «el hombre al que le doy el libro»?",
+      "options": ["Vir quibus librum do.", "Vir quo librum do.", "Vir cui librum do."],
+      "correct": 2,
+      "hint": "El destinatario de do exige dativo singular.",
+      "explanation": "El destinatario de la acción («al que... le doy») exige el caso dativo singular del relativo: «cui». «Quibus» es dativo/ablativo plural y «quo» es ablativo singular masculino/neutro: ninguno es el dativo singular correcto."
     },
     {
       "type": "gap",
@@ -133,11 +133,11 @@
     },
     {
       "type": "quiz",
-      "q": "¿Cuál es la concordancia del relativo en «Dona __________ mitto magna sunt» (los regalos que envío son grandes)?",
-      "options": ["quod", "quos", "quae"],
-      "correct": 2,
-      "hint": "Dona es neutro plural.",
-      "explanation": "El antecedente «dona» es neutro plural. En la subordinada, el relativo funciona como objeto directo de «mitto» (envío). El acusativo neutro plural del relativo es «quae»."
+      "q": "¿Cuál es la frase correcta para «los regalos que envío son grandes»?",
+      "options": ["Dona quod mitto magna sunt.", "Dona quae mitto magna sunt.", "Dona quos mitto magna sunt."],
+      "correct": 1,
+      "hint": "Dona es neutro plural: el relativo debe concordar en género y número.",
+      "explanation": "El antecedente «dona» es neutro plural. El relativo, objeto directo de «mitto» (envío), debe concordar en acusativo neutro plural: «quae». «Quod» es singular y «quos» es masculino plural: ambos rompen la concordancia."
     },
     {
       "type": "gap",
