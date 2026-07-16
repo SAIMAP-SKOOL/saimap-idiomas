@@ -1,0 +1,44 @@
+{
+  "language": "la",
+  "name": "Latín",
+  "edition": "Colección Lenguas Sagradas",
+  "levels": [
+    {
+      "code": "A1",
+      "name": "Fundamentos: Fonética y las Tres Declinaciones",
+      "color": "#8C6D41",
+      "modules": [
+        { "n": 1,  "title": "De pronuntiatione et phonetica Latina", "es": "Fonética y Pronunciación", "file": "a1/mod01.json" },
+        { "n": 2,  "title": "De Prima Declinatione", "es": "Primera Declinación", "file": "a1/mod02.json" },
+        { "n": 3,  "title": "De Secunda Declinatione", "es": "Segunda Declinación", "file": "a1/mod03.json" },
+        { "n": 4,  "title": "Concordantia Adiectivorum", "es": "Concordancia de Adjetivos", "file": "a1/mod04.json" },
+        { "n": 5,  "title": "Verbum Sum", "es": "El Verbo Sum (Ser/Estar)", "file": "a1/mod05.json" },
+        { "n": 6,  "title": "Praesens: Prima et Secunda Coniugatio", "es": "Presente: 1ª y 2ª Conjugación", "file": "a1/mod06.json" },
+        { "n": 7,  "title": "Praesens: Tertia et Quarta Coniugatio", "es": "Presente: 3ª y 4ª Conjugación", "file": "a1/mod07.json" },
+        { "n": 8,  "title": "Casus Accusativus", "es": "Caso Acusativo", "file": "a1/mod08.json" },
+        { "n": 9,  "title": "Casus Genitivus", "es": "Caso Genitivo", "file": "a1/mod09.json" },
+        { "n": 10, "title": "Casus Dativus", "es": "Caso Dativo", "file": "a1/mod10.json" },
+        { "n": 11, "title": "Casus Ablativus", "es": "Caso Ablativo", "file": "a1/mod11.json" },
+        { "n": 12, "title": "Praepositiones", "es": "Preposiciones", "file": "a1/mod12.json" },
+        { "n": 13, "title": "Modus Imperativus", "es": "El Imperativo", "file": "a1/mod13.json" },
+        { "n": 14, "title": "Tertia Declinatio: Consonantes", "es": "3ª Declinación: Temas en Consonante", "file": "a1/mod14.json" },
+        { "n": 15, "title": "Tertia Declinatio: Temas en -i (I)", "es": "3ª Declinación: Temas en -i", "file": "a1/mod15.json" },
+        { "n": 16, "title": "Adiectiva Secundae Classis", "es": "Adjetivos de la Segunda Clase", "file": "a1/mod16.json" },
+        { "n": 17, "title": "Verbum Possum", "es": "El Verbo Possum (Poder)", "file": "a1/mod17.json" },
+        { "n": 18, "title": "Pronomen Is, Ea, Id", "es": "El Pronombre Is, Ea, Id", "file": "a1/mod18.json" },
+        { "n": 19, "title": "Pronomina Demonstrativa", "es": "Demostrativos", "file": "a1/mod19.json" },
+        { "n": 20, "title": "Pronomen Relativum", "es": "El Pronombre Relativo", "file": "a1/mod20.json" },
+        { "n": 21, "title": "Casus Vocativus", "es": "Caso Vocativo", "file": "a1/mod21.json" },
+        { "n": 22, "title": "Adverbia", "es": "Adverbios", "file": "a1/mod22.json" },
+        { "n": 23, "title": "Composita Verbi Sum", "es": "Compuestos de Sum", "file": "a1/mod23.json" },
+        { "n": 24, "title": "Duplex Accusativus", "es": "Doble Acusativo", "file": "a1/mod24.json" },
+        { "n": 25, "title": "Consolidatio Gradus A1", "es": "Repaso y Cierre de Nivel", "file": "a1/mod25.json" }
+      ]
+    },
+    { "code": "A2", "name": "Voz Pasiva y Tiempos del Indicativo", "color": "#6B5B95", "locked": true, "moduleCount": 25 },
+    { "code": "B1", "name": "Subjuntivo y Oraciones Subordinadas", "color": "#3B6FA6", "locked": true, "moduleCount": 25 },
+    { "code": "B2", "name": "Sintaxis Avanzada y Formas Nominales del Verbo", "color": "#2F8A87", "locked": true, "moduleCount": 25 },
+    { "code": "C1", "name": "Prosa Clásica: Cicerón, Séneca, Tácito", "color": "#7C4C9E", "locked": true, "moduleCount": 25 },
+    { "code": "C2", "name": "Maestría: Retórica, Métrica y Exégesis Patrística", "color": "#9C3D6B", "locked": true, "moduleCount": 25 }
+  ]
+}

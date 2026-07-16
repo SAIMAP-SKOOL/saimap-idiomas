@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod03",
+  "module": 3,
+  "title": "De Secunda Declinatione",
+  "subtitle": "Segunda Declinación",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "dominus", "es": "señor / dueño" },
+        { "en": "puer", "es": "niño" },
+        { "en": "ager", "es": "campo" },
+        { "en": "templum", "es": "templo" },
+        { "en": "deus", "es": "dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Ante la frase «Magistri discipulos in templum vocant», ¿cuál es el análisis correcto?",
+      "options": ["Magistri es genitivo singular (del maestro) y discipulos es el sujeto plural: «los discípulos del maestro llaman al templo»", "Magistri es nominativo plural y discipulos es dativo plural: «los maestros llaman para los discípulos en el templo»", "Magistri es nominativo plural (sujeto) y discipulos es acusativo plural (objeto directo): «los maestros llaman a los discípulos al templo»"],
+      "correct": 2,
+      "hint": "El verbo «vocant» está en 3ª persona del plural: busca qué palabra puede ser su sujeto plural en nominativo.",
+      "explanation": "«Magistri» es nominativo plural (sujeto, terminación -i) y «discipulos» es acusativo plural (objeto directo, terminación -os): «los maestros llaman a los discípulos». La opción genitiva ignora que los nominativos masculinos plurales no terminan en «-os», y la dativa confunde «-os» (acusativo) con «-is» (dativo plural, que sería «discipulis»)."
+    },
+    {
+      "type": "gap",
+      "text": "Dominus filium in agr___ mittit.",
+      "options": ["um", "o", "i"],
+      "answer": "um",
+      "explanation": "«In» + acusativo indica dirección («hacia el campo»): «agrum», con síncopa de la vocal -e- (nunca «agerum»). «o» sería ablativo (ubicación) y «i» genitivo o nominativo plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El señor envía al hijo al campo",
+      "direction": "es-la",
+      "tiles": ["Dominus", "filium", "in", "agrum", "mittit", "agro"],
+      "answer": "Dominus filium in agrum mittit",
+      "explanation": "«In» + acusativo («agrum») marca dirección de movimiento («hacia el campo»). «Agro», en ablativo, indicaría ubicación estática, no destino."
+    },
+    {
+      "type": "speak",
+      "text": "Deus mundum amat.",
+      "es": "Dios ama al mundo."
+    },
+    {
+      "type": "gap",
+      "text": "O fil___, audi me.",
+      "options": ["ie", "i", "ius"],
+      "answer": "i",
+      "explanation": "Los sustantivos en -ius contraen el vocativo singular en una sola -i larga: «fili». «ie» aplicaría erróneamente la desinencia regular -e y «ius» repetiría el nominativo sin declinar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el vocativo singular correcto de «mi filius carus» (mi hijo querido)?",
+      "options": ["mi fili care", "mi filie care", "meus filius care"],
+      "correct": 0,
+      "hint": "«Filius» es un tema en -ius (contrae el vocativo en -i); «carus» es un adjetivo regular en -us (vocativo en -e).",
+      "explanation": "«Filius» contrae su vocativo singular en «fili» (no «filie», que aplicaría indebidamente la desinencia regular), y el adjetivo regular «carus» sigue la norma general en «-e»: «care». «Meus filius care» mantiene erróneamente el nominativo en vez de declinar al caso vocativo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "vir", "es": "varón / hombre" },
+        { "en": "filius", "es": "hijo" },
+        { "en": "liber", "es": "libro" },
+        { "en": "annus", "es": "año" },
+        { "en": "populus", "es": "pueblo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Aegyptus magn___ est.",
+      "options": ["us", "a", "um"],
+      "answer": "a",
+      "explanation": "«Aegyptus» es un nombre de país femenino pese a su terminación en -us: el adjetivo debe concordar en femenino, «magna». «us» daría masculino (error típico) y «um» neutro, géneros que no le corresponden."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Recibimos los dones del señor del templo",
+      "direction": "es-la",
+      "tiles": ["Templi", "domini", "dona", "accipimus", "templo"],
+      "answer": "Templi domini dona accipimus",
+      "explanation": "«Templi» es genitivo singular («del templo»). «Templo», en dativo/ablativo, no expresa posesión y rompería la relación de complemento del nombre."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué «ager, agri» pierde la vocal -e- en los casos oblicuos (agrum, agri, agro) mientras que «puer, pueri» la conserva?",
+      "options": ["Porque «puer» pertenece a la primera declinación y «ager» a la segunda declinación", "Porque la -e- de «puer» es radical (parte de la raíz) y la de «ager» es una vocal de apoyo que se síncopa al añadir una desinencia que empieza por vocal", "Porque «ager» es un sustantivo neutro y sigue las leyes especiales de concordancia"],
+      "correct": 1,
+      "hint": "Ambos son masculinos de la 2ª declinación: la diferencia está en si la -e- pertenece a la raíz o es solo un apoyo fonético.",
+      "explanation": "En «puer» la -e- es parte de la raíz y se mantiene en toda la flexión. En «ager» es una vocal epentética de apoyo (raíz real «agr-») que desaparece (síncopa) al añadir una desinencia que empieza por vocal, como «-i» o «-um». Ambos pertenecen a la misma declinación y ninguno es neutro (el neutro terminaría en -um)."
+    },
+    {
+      "type": "gap",
+      "text": "Pueri laborant in agr___.",
+      "options": ["i", "is", "orum"],
+      "answer": "is",
+      "explanation": "«In» + ablativo plural exige la desinencia -is: «agris» (en los campos). «i» sería genitivo singular o nominativo plural (no ablativo) y «orum» genitivo plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Egipto es grande",
+      "direction": "es-la",
+      "tiles": ["Aegyptus", "magna", "est", "magnus"],
+      "answer": "Aegyptus magna est",
+      "explanation": "«Aegyptus» es un nombre de país femenino, así que el adjetivo debe concordar en femenino: «magna». «magnus» aplica el género masculino, el error típico al ver la terminación -us."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "mundus", "es": "mundo" },
+        { "en": "verbum", "es": "palabra" },
+        { "en": "caelum", "es": "cielo" },
+        { "en": "donum", "es": "don / regalo" },
+        { "en": "servus", "es": "siervo / esclavo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Si encontramos el sustantivo neutro plural «templa» en un texto, ¿qué funciones sintácticas puede tener?",
+      "options": ["Nominativo, vocativo o acusativo plural: puede ser sujeto, apelación u objeto directo", "Únicamente sujeto en nominativo plural, ya que el neutro marca el objeto con -um", "Genitivo singular femenino, concordando con sustantivos de la primera declinación"],
+      "correct": 0,
+      "hint": "Recuerda la regla del neutro: nominativo, vocativo y acusativo son siempre idénticos entre sí.",
+      "explanation": "Por la regla del neutro, nominativo, vocativo y acusativo plural son siempre idénticos y terminan en «-a»: «templa» puede ser sujeto, apelación u objeto directo según el contexto. No es exclusivamente sujeto (el acusativo plural neutro también usa -a) ni genitivo femenino (ese caso termina en -ae, no en -a)."
+    },
+    {
+      "type": "gap",
+      "text": "Templa sunt pulchr___.",
+      "options": ["ae", "a", "us"],
+      "answer": "a",
+      "explanation": "«Templa» es neutro plural, así que el adjetivo debe concordar también en neutro plural: «pulchra». «ae» daría femenino plural (confundiendo -a con la 1ª declinación) y «us» masculino singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los niños trabajan en los campos",
+      "direction": "es-la",
+      "tiles": ["Pueri", "laborant", "in", "agris", "agri"],
+      "answer": "Pueri laborant in agris",
+      "explanation": "«In» + ablativo plural («agris») expresa ubicación estable. «Agri» (genitivo singular o nominativo plural) no es el caso que rige «in» para expresar «en los campos»."
+    },
+    {
+      "type": "speak",
+      "text": "Magistri discipulos vocant.",
+      "es": "Los maestros llaman a los discípulos."
+    },
+    {
+      "type": "quiz",
+      "q": "En «Dona dei populo dei damus», ¿cómo se interpretan las dos formas idénticas «dei»?",
+      "options": ["La primera es nominativo plural («los dioses») y la segunda genitivo singular («del dios»)", "La primera es genitivo singular y la segunda nominativo plural (sujeto)", "Ambas son genitivo singular, modificando respectivamente a «dona» y a «populo»"],
+      "correct": 2,
+      "hint": "El verbo «damus» está en 1ª persona del plural: el sujeto ya es «nosotros», implícito en la desinencia.",
+      "explanation": "Como el sujeto de «damus» (1ª pl., «nosotros») ya está fijado por la desinencia verbal, ningún «dei» puede ser nominativo plural sujeto sin una conjunción copulativa. Ambas formas son genitivo singular: la primera modifica a «dona» («los dones de Dios») y la segunda a «populo» («al pueblo de Dios»)."
+    },
+    {
+      "type": "gap",
+      "text": "Templ___ domini dona accipimus.",
+      "options": ["um", "i", "o"],
+      "answer": "i",
+      "explanation": "«Templi» es genitivo singular («del templo»), modificando a «domini» o a «dona». «um» sería nominativo/acusativo singular y «o» dativo/ablativo, casos que no expresan posesión aquí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los templos son bellos",
+      "direction": "es-la",
+      "tiles": ["Templa", "sunt", "pulchra", "pulchrae"],
+      "answer": "Templa sunt pulchra",
+      "explanation": "«Templa» es neutro plural y exige el adjetivo también en neutro plural: «pulchra». «Pulchrae» (femenino plural) confunde la desinencia -a del neutro con la de la primera declinación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "amicus", "es": "amigo" },
+        { "en": "bellum", "es": "guerra" },
+        { "en": "animus", "es": "ánimo / alma" },
+        { "en": "discipulus", "es": "discípulo" },
+        { "en": "magister", "es": "maestro" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué «Aegyptus» (nombre de país) exige el adjetivo «magna» y no «magnus»?",
+      "options": ["Porque «Aegyptus» es neutro y el neutro exige la forma en -a en singular", "Porque «Aegyptus» es un nombre femenino que se declina por la 2ª declinación pero concuerda en género femenino", "Porque «magnus» no existe como forma de adjetivo en latín clásico"],
+      "correct": 1,
+      "hint": "Los nombres de países e islas suelen ser femeninos aunque terminen en -us: la concordancia sigue el género, no la terminación.",
+      "explanation": "Los nombres de regiones e islas (como «Aegyptus») son femeninos por tradición semántica aunque se declinen como «dominus». El adjetivo debe concordar en género femenino («magna», 1ª declinación), no en la terminación -us. No es neutro (el neutro singular acaba en -um) y «magnus» sí existe, solo que en el género equivocado."
+    },
+    {
+      "type": "gap",
+      "text": "Domin___ laborant.",
+      "options": ["i", "o", "um"],
+      "answer": "i",
+      "explanation": "Como el verbo «laborant» está en plural, «domini» debe interpretarse como nominativo plural (sujeto: «los señores trabajan»), no como genitivo singular, posible solo si el verbo fuera singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El maestro ama al niño y al campo",
+      "direction": "es-la",
+      "tiles": ["Magister", "amat", "puerum", "et", "agrum", "agerum"],
+      "answer": "Magister amat puerum et agrum",
+      "explanation": "«Ager» sufre síncopa en todos los casos oblicuos: el acusativo correcto es «agrum», nunca «agerum» (error muy común al no eliminar la vocal de apoyo -e-)."
+    },
+    {
+      "type": "speak",
+      "text": "Puer librum amat.",
+      "es": "El niño ama el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "En «Pueri laborant in agris», ¿qué función cumple agris?",
+      "options": ["Ablativo plural de ubicación", "Genitivo singular de posesión", "Nominativo plural, sujeto de la oración"],
+      "correct": 0,
+      "hint": "El verbo «laborant» ya tiene su sujeto («pueri»): «in» + esta desinencia expresa dónde trabajan.",
+      "explanation": "«In» + ablativo plural (-is) expresa ubicación estable: «agris» = «en los campos». El sujeto ya es «pueri» (nominativo plural), así que «agris» no puede repetir esa función, y su desinencia -is no corresponde al genitivo singular (-i)."
+    },
+    {
+      "type": "gap",
+      "text": "Serv___ domini laborat.",
+      "options": ["us", "um", "o"],
+      "answer": "us",
+      "explanation": "El verbo «laborat» está en singular, así que «servus» (nominativo singular) es el sujeto: «el siervo trabaja». «Domini» aquí es genitivo singular («del señor»), precisamente porque el verbo exige un sujeto singular. «um» daría acusativo y «o» dativo/ablativo, casos que no sirven de sujeto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mi hijo querido",
+      "direction": "es-la",
+      "tiles": ["Mi", "fili", "care", "filius", "carus"],
+      "answer": "Mi fili care",
+      "explanation": "«Fili» es el vocativo contracto de «filius» y «care» el vocativo regular de «carus»; «mi» es la forma vocativa irregular de «meus». «Filius» y «carus» son las formas de nominativo, no válidas para invocar directamente."
+    },
+    {
+      "type": "speak",
+      "text": "O Virgili, poeta magne.",
+      "es": "¡Oh Virgilio, gran poeta!"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod19",
+  "module": 19,
+  "title": "Pronomina Demonstrativa",
+  "subtitle": "Demostrativos",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada demostrativo con su traducción",
+      "pairs": [
+        { "en": "hic", "es": "este" },
+        { "en": "haec", "es": "esta" },
+        { "en": "hoc", "es": "esto" },
+        { "en": "ille", "es": "aquel" },
+        { "en": "iste", "es": "ese" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma del Nominativo singular neutro del demostrativo «hic»?",
+      "options": ["hoc", "haec", "hic"],
+      "correct": 0,
+      "hint": "No coincide con el masculino ni con el femenino.",
+      "explanation": "El nominativo singular neutro de este demostrativo es «hoc». «Hic» es el masculino y «haec» el femenino."
+    },
+    {
+      "type": "gap",
+      "text": "___ regnum est magnum (este reino es grande).",
+      "options": ["Hic", "Hoc", "Haec"],
+      "answer": "Hoc",
+      "explanation": "«Regnum» es neutro, por lo que exige el demostrativo neutro «hoc», no el masculino «hic» ni el femenino «haec»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Este reino es grande",
+      "direction": "es-en",
+      "tiles": ["Hoc", "regnum", "est", "magnum", "hic"],
+      "answer": "Hoc regnum est magnum",
+      "explanation": "«Regnum» es neutro y exige el demostrativo neutro «hoc». «Hic» (masculino) sería el distractor de género."
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español la conocida frase bíblica «In illo tempore»:",
+      "options": ["En ese tiempo.", "En aquel tiempo.", "En este tiempo."],
+      "correct": 1,
+      "hint": "Illo indica lejanía de ambos interlocutores.",
+      "explanation": "«Illo» es el ablativo singular del demostrativo de lejanía «ille, illa, illud», por lo que se traduce con precisión como «en aquel tiempo»."
+    },
+    {
+      "type": "gap",
+      "text": "In ___ tempore (en aquel tiempo).",
+      "options": ["illud", "illo", "illi"],
+      "answer": "illo",
+      "explanation": "La preposición «in» de ubicación rige ablativo: «illo tempore», no el acusativo «illud»."
+    },
+    {
+      "type": "speak",
+      "text": "Hoc regnum est magnum.",
+      "es": "Este reino es grande."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada demostrativo con su traducción",
+      "pairs": [
+        { "en": "illa", "es": "aquella" },
+        { "en": "illud", "es": "aquello" },
+        { "en": "ista", "es": "esa" },
+        { "en": "istud", "es": "eso" },
+        { "en": "huius", "es": "de este" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el genitivo singular del demostrativo «iste» para el género femenino?",
+      "options": ["isti", "istae", "istius"],
+      "correct": 2,
+      "hint": "El genitivo singular es común a los tres géneros.",
+      "explanation": "Todos los demostrativos pronominales forman el genitivo singular común con la terminación «-ius», resultando «istius» para masculino, femenino y neutro."
+    },
+    {
+      "type": "gap",
+      "text": "Dico ___ feminae (le hablo a aquella mujer).",
+      "options": ["illam", "illius", "illi"],
+      "answer": "illi",
+      "explanation": "El destinatario exige caso dativo: «illi feminae». «Illam» es acusativo e «illius» es genitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "En aquel tiempo",
+      "direction": "es-en",
+      "tiles": ["In", "illo", "tempore", "illud", "illi"],
+      "answer": "In illo tempore",
+      "explanation": "«In» de ubicación rige ablativo: «illo tempore». «Illud» es acusativo e «illi» es dativo: ambos distractores de caso."
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Hunc hominem video», ¿en qué caso está «Hunc»?",
+      "options": ["Nominativo singular masculino.", "Acusativo singular masculino.", "Ablativo singular masculino."],
+      "correct": 1,
+      "hint": "Hominem es el objeto directo de video.",
+      "explanation": "«Hunc» es la forma de acusativo singular masculino de «hic», concordando con «hominem» (objeto directo de «video»)."
+    },
+    {
+      "type": "gap",
+      "text": "___ hominem video (veo a este hombre).",
+      "options": ["Hic", "Hunc", "Huius"],
+      "answer": "Hunc",
+      "explanation": "«Hunc» es el acusativo singular masculino de «hic», concordando con «hominem» (objeto directo de «video»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Veo a este hombre",
+      "direction": "es-en",
+      "tiles": ["Hunc", "hominem", "video", "hic", "huius"],
+      "answer": "Hunc hominem video",
+      "explanation": "«Hunc» es el acusativo singular masculino de «hic», concordando con «hominem» (objeto directo). «Hic» es nominativo y «huius» es genitivo."
+    },
+    {
+      "type": "speak",
+      "text": "In illo tempore.",
+      "es": "En aquel tiempo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada demostrativo con su traducción",
+      "pairs": [
+        { "en": "huic", "es": "a este" },
+        { "en": "hunc", "es": "a este (acusativo)" },
+        { "en": "hanc", "es": "a esta (acusativo)" },
+        { "en": "illius", "es": "de aquel" },
+        { "en": "illi", "es": "a aquel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el neutro plural de «ille, illa, illud» en Nominativo?",
+      "options": ["illud", "illae", "illa"],
+      "correct": 2,
+      "hint": "Los neutros plurales de la declinación pronominal terminan en -a.",
+      "explanation": "Los casos directos del plural de los neutros de la declinación pronominal terminan en «-a», resultando «illa» (aquellas cosas)."
+    },
+    {
+      "type": "gap",
+      "text": "___ urbs pulchra est (esta ciudad es hermosa).",
+      "options": ["Hic", "Haec", "Hoc"],
+      "answer": "Haec",
+      "explanation": "«Urbs» es femenino, por lo que el demostrativo debe concordar en femenino: «haec», no en masculino («hic») ni en neutro («hoc»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esta ciudad es hermosa",
+      "direction": "es-en",
+      "tiles": ["Haec", "urbs", "pulchra", "est", "hoc"],
+      "answer": "Haec urbs pulchra est",
+      "explanation": "«Urbs» es femenino, así que el demostrativo debe concordar en femenino: «haec». «Hoc» (neutro) sería el distractor de género."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta de «este reino es grande»?",
+      "options": ["Hic regnum est magnum.", "Hoc regnum est magnum.", "Haec regnum est magnum."],
+      "correct": 1,
+      "hint": "Regnum es neutro.",
+      "explanation": "«Regnum» es neutro, por lo que exige el demostrativo neutro «hoc», no el masculino «hic» ni el femenino «haec»."
+    },
+    {
+      "type": "gap",
+      "text": "___ hominis pax est magna (la paz de este hombre es grande).",
+      "options": ["hic", "huius", "huic"],
+      "answer": "huius",
+      "explanation": "El genitivo singular de «hic, haec, hoc» es común para los tres géneros: «huius» («de este»). «Hic» es nominativo y «huic» es dativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Le hablo a aquella mujer",
+      "direction": "es-en",
+      "tiles": ["Dico", "illi", "feminae", "illam", "illius"],
+      "answer": "Dico illi feminae",
+      "explanation": "El destinatario exige caso dativo: «illi feminae». «Illam» es acusativo e «illius» es genitivo: ninguno marca el destinatario."
+    },
+    {
+      "type": "speak",
+      "text": "Iste homo veritatem celat.",
+      "es": "Ese hombre oculta la verdad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "homo", "es": "hombre" },
+        { "en": "femina", "es": "mujer" },
+        { "en": "regnum", "es": "reino" },
+        { "en": "tempus", "es": "tiempo" },
+        { "en": "deus", "es": "Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta de «le hablo a aquella mujer»?",
+      "options": ["Dico ad illam feminam.", "Dico illius feminae.", "Dico illi feminae."],
+      "correct": 2,
+      "hint": "El destinatario nunca se marca con ad + acusativo en latín clásico.",
+      "explanation": "El destinatario de la acción exige caso dativo: «illi feminae», no la construcción «ad» + acusativo, que es un calco del español."
+    },
+    {
+      "type": "gap",
+      "text": "___ verbum audio (oigo esta palabra).",
+      "options": ["Hoc", "Hic", "Huius"],
+      "answer": "Hoc",
+      "explanation": "«Verbum» es neutro, así que el demostrativo debe ir en la forma neutra «hoc», idéntica en nominativo y acusativo neutro singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ese hombre oculta la verdad",
+      "direction": "es-en",
+      "tiles": ["Iste", "homo", "veritatem", "celat", "ista", "istud"],
+      "answer": "Iste homo veritatem celat",
+      "explanation": "«Homo» es masculino nominativo singular, así que el demostrativo despectivo debe ir en «iste» (masc.). «Ista» es femenino e «istud» es neutro."
+    },
+    {
+      "type": "gap",
+      "text": "In ___ via ambulamus (caminamos por aquel camino).",
+      "options": ["illo", "illud", "illa"],
+      "answer": "illa",
+      "explanation": "«Via» es femenino, así que el demostrativo en ablativo singular debe ser «illa» (femenino), no «illo» (masc./neutro) ni «illud» (acusativo neutro)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Oigo esta palabra",
+      "direction": "es-en",
+      "tiles": ["Hoc", "verbum", "audio", "hic", "haec"],
+      "answer": "Hoc verbum audio",
+      "explanation": "«Verbum» es neutro, por lo que el demostrativo va en la forma neutra «hoc», idéntica en nominativo y acusativo. «Hic» y «haec» son los distractores de género."
+    },
+    {
+      "type": "speak",
+      "text": "Hunc hominem video.",
+      "es": "Veo a este hombre."
+    }
+  ]
+}

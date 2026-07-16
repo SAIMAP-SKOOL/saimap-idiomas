@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod15",
+  "module": 15,
+  "title": "Tertia Declinatio: Temas en -i (I)",
+  "subtitle": "3ª Declinación: Temas en -i",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "civis", "es": "ciudadano, ciudadana" },
+        { "en": "hostis", "es": "enemigo" },
+        { "en": "urbs", "es": "ciudad" },
+        { "en": "mons", "es": "monte, montaña" },
+        { "en": "mare", "es": "mar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el genitivo plural correcto de «urbs, urbis»?",
+      "options": ["urbium", "urbis", "urbum"],
+      "correct": 0,
+      "hint": "Es un sustantivo mixto: su raíz «urb-» termina en dos consonantes antes de la desinencia del genitivo.",
+      "explanation": "Al ser un sustantivo mixto (raíz «urb-» con dos consonantes antes de «-is»), se declina como tema en -i en el plural, con la terminación «-ium». «Urbis» es el genitivo singular y «urbum» calca erróneamente la desinencia de los temas en consonante."
+    },
+    {
+      "type": "gap",
+      "text": "Patria ___ magna est.",
+      "options": ["civis", "civium", "cives"],
+      "answer": "civium",
+      "explanation": "«Civis» es parisílabo (tema en -i): su genitivo plural termina en «-ium», no en «-um». «Civis» es nominativo/genitivo singular y «cives» es nominativo/acusativo plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La patria de los ciudadanos es grande",
+      "direction": "es-la",
+      "tiles": ["Patria", "civium", "magna", "est", "civis", "cives"],
+      "answer": "Patria civium magna est",
+      "explanation": "«Civium» es el genitivo plural de «civis», tema en -i. «Civis» es singular y «cives» es nominativo/acusativo plural, ninguno expresa posesión."
+    },
+    {
+      "type": "speak",
+      "text": "Aves in nubibus volant.",
+      "es": "Las aves vuelan en las nubes."
+    },
+    {
+      "type": "gap",
+      "text": "Deleto in ___.",
+      "options": ["mare", "mari", "maris"],
+      "answer": "mari",
+      "explanation": "Los sustantivos neutros de tema en -i con nominativo en «-e» (como «mare») forman el ablativo singular en «-i»: «mari». «Mare» es nominativo/acusativo y «maris» es genitivo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el ablativo singular de «mare, maris»?",
+      "options": ["maris", "mari", "mare"],
+      "correct": 1,
+      "hint": "Los neutros en -e, -al, -ar forman el ablativo singular con una única vocal distinta de la del nominativo.",
+      "explanation": "Los neutros de tema en -i con nominativo en «-e» forman el ablativo singular en «-i»: «mari». «Maris» es el genitivo y «mare» es nominativo/acusativo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "animal", "es": "animal" },
+        { "en": "avis", "es": "ave, pájaro" },
+        { "en": "ignis", "es": "fuego" },
+        { "en": "panis", "es": "pan" },
+        { "en": "collis", "es": "colina" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "___ in terra ambulant.",
+      "options": ["animal", "animalia", "animales"],
+      "answer": "animalia",
+      "explanation": "«Animal» es un neutro de tema en -i: sus casos directos del plural terminan en «-ia». «Animal» está en singular y «animales» calca erróneamente un patrón masculino/femenino inexistente para este neutro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los animales caminan en la tierra",
+      "direction": "es-la",
+      "tiles": ["Animalia", "in", "terra", "ambulant", "animal", "animales"],
+      "answer": "Animalia in terra ambulant",
+      "explanation": "«Animalia» es el plural neutro de los casos directos de «animal» (tema en -i). «Animal» es singular y «animales» es una forma inexistente para este neutro."
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce «Aves in nubibus volant»:",
+      "options": ["Las nubes vuelan con las aves.", "Las aves vuelan hacia la nube.", "Las aves vuelan en las nubes."],
+      "correct": 2,
+      "hint": "Identifica el sujeto en nominativo plural y el complemento circunstancial introducido por «in» + ablativo.",
+      "explanation": "«Aves» es nominativo plural (sujeto), «nubibus» es ablativo plural precedido por «in» (circunstancial de lugar: «en las nubes») y «volant» es el verbo. Las otras opciones invierten el sujeto o cambian el sentido de «in» + ablativo."
+    },
+    {
+      "type": "gap",
+      "text": "Aves in ___ volant.",
+      "options": ["nubes", "nubibus", "nubium"],
+      "answer": "nubibus",
+      "explanation": "Tras la preposición «in» con sentido de lugar (\"en\"), el sustantivo va en ablativo plural: «nubibus». «Nubes» es nominativo/acusativo plural y «nubium» es genitivo plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El testigo ve la llave",
+      "direction": "es-la",
+      "tiles": ["Testis", "clavem", "videt", "clavis", "clavium"],
+      "answer": "Testis clavem videt",
+      "explanation": "«Clavem» es el acusativo singular de «clavis» (objeto directo). «Clavis» es nominativo y «clavium» es genitivo plural, casos incorrectos aquí."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "mors", "es": "muerte" },
+        { "en": "gens", "es": "pueblo, estirpe, gente" },
+        { "en": "nox", "es": "noche" },
+        { "en": "pars", "es": "parte" },
+        { "en": "ars", "es": "arte, oficio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué opción contiene únicamente sustantivos que forman el genitivo plural en «-ium»?",
+      "options": ["civis, mons, animal.", "pater, rex, miles.", "corpus, nomen, flumen."],
+      "correct": 0,
+      "hint": "Busca el grupo donde estén representados un parisílabo, un mixto y un neutro en -al: todos son temas en -i.",
+      "explanation": "«Civis» es parisílabo, «mons» es mixto y «animal» es neutro en «-al»: los tres son temas en -i con genitivo plural en «-ium». Las otras dos opciones contienen solo temas en consonante del tema 14, con genitivo plural en «-um»."
+    },
+    {
+      "type": "gap",
+      "text": "Dux ___ defendit.",
+      "options": ["arx", "arcem", "arcis"],
+      "answer": "arcem",
+      "explanation": "El objeto directo «la fortaleza» exige el acusativo singular: «arcem». «Arx» es nominativo y «arcis» es genitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El general defiende la fortaleza",
+      "direction": "es-la",
+      "tiles": ["Dux", "arcem", "defendit", "arx", "arcis"],
+      "answer": "Dux arcem defendit",
+      "explanation": "«Arcem» es el acusativo singular (objeto directo). «Arx» es nominativo y «arcis» es genitivo, casos incorrectos como objeto directo."
+    },
+    {
+      "type": "speak",
+      "text": "Deleto in mari.",
+      "es": "Me deleito en el mar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el nominativo plural del sustantivo neutro «animal, animalis»?",
+      "options": ["animales.", "animala.", "animalia."],
+      "correct": 2,
+      "hint": "Aplica la regla del trío de neutros en -e, -al, -ar: su plural directo siempre termina igual.",
+      "explanation": "Al ser un neutro en «-al» de tema en -i, forma los casos directos del plural con la desinencia «-ia»: «animalia». «Animales» calca un patrón inexistente para este neutro y «animala» omite la vocal temática -i-."
+    },
+    {
+      "type": "gap",
+      "text": "___ magna est.",
+      "options": ["vim", "vi", "vis"],
+      "answer": "vis",
+      "explanation": "El sujeto «la fuerza» va en nominativo singular: «vis». «Vim» es acusativo y «vi» es ablativo, casos incorrectos para el sujeto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Las aves vuelan en las nubes",
+      "direction": "es-la",
+      "tiles": ["Aves", "in", "nubibus", "volant", "nubes", "nubium"],
+      "answer": "Aves in nubibus volant",
+      "explanation": "Tras «in» de lugar, el sustantivo va en ablativo plural: «nubibus». «Nubes» es nominativo/acusativo plural y «nubium» es genitivo plural, ninguno funciona tras «in» locativo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "fons", "es": "fuente, origen" },
+        { "en": "pons", "es": "puente" },
+        { "en": "finis", "es": "fin, límite, frontera" },
+        { "en": "testis", "es": "testigo" },
+        { "en": "vestis", "es": "vestidura, ropa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el genitivo plural de «mons, montis» (sustantivo mixto)?",
+      "options": ["montum", "montium", "montis"],
+      "correct": 1,
+      "hint": "La raíz «mont-» termina en dos consonantes antes de la desinencia del genitivo: es un sustantivo mixto.",
+      "explanation": "«Mons» es mixto (monosílabo con raíz «mont-» acabada en dos consonantes): su genitivo plural es «montium», como los demás temas en -i. «Montum» calca la desinencia de los temas en consonante y «montis» es el genitivo singular."
+    },
+    {
+      "type": "gap",
+      "text": "Testis ___ videt.",
+      "options": ["clavis", "clavem", "clavium"],
+      "answer": "clavem",
+      "explanation": "El objeto directo «la llave» exige el acusativo singular: «clavem». «Clavis» es nominativo y «clavium» es genitivo plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tu mente está sana",
+      "direction": "es-la",
+      "tiles": ["Mens", "tua", "sana", "est", "mentis", "mentem"],
+      "answer": "Mens tua sana est",
+      "explanation": "El sujeto «tu mente» va en nominativo singular: «mens». «Mentis» es genitivo y «mentem» es acusativo, casos incorrectos para el sujeto."
+    },
+    {
+      "type": "speak",
+      "text": "Civium patria magna est.",
+      "es": "La patria de los ciudadanos es grande."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el ablativo singular correcto de «animal, animalis»?",
+      "options": ["animale", "animalis", "animali"],
+      "correct": 2,
+      "hint": "Recuerda el trío de neutros en -e, -al, -ar: todos comparten la misma desinencia de ablativo singular.",
+      "explanation": "Los neutros de tema en -i (trío -e, -al, -ar) forman el ablativo singular en «-i»: «animali». «Animale» calca erróneamente la forma del nominativo/acusativo y «animalis» es el genitivo."
+    },
+    {
+      "type": "gap",
+      "text": "___ tua sana est.",
+      "options": ["mens", "mentis", "mentem"],
+      "answer": "mens",
+      "explanation": "El sujeto «tu mente» va en nominativo singular: «mens». «Mentis» es genitivo y «mentem» es acusativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El enemigo teme la muerte",
+      "direction": "es-la",
+      "tiles": ["Hostis", "mortem", "timet", "mors", "mortis"],
+      "answer": "Hostis mortem timet",
+      "explanation": "«Mortem» es el acusativo singular de «mors» (objeto directo). «Mors» es nominativo y «mortis» es genitivo, casos incorrectos como objeto directo."
+    },
+    {
+      "type": "speak",
+      "text": "Animalia in terra ambulant.",
+      "es": "Los animales caminan en la tierra."
+    }
+  ]
+}

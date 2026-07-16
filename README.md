@@ -1,35 +1,50 @@
 # SAIMAP Idiomas — App de práctica estilo Duolingo
 
-Prototipo de la app interactiva de idiomas de SAIMAP, construida sobre el itinerario
-de **Inglés Edición 2026** (`D:\Usuario\SAIMAP\IDIOMAS\INGLÉS\2026\`).
+App interactiva de idiomas de SAIMAP. Motor de juego único reutilizado por dos cursos
+independientes (misma mecánica, JSON y validador; cada uno con su propia carpeta,
+manifiesto y clave de progreso):
+
+- **Inglés** (raíz del repo) — sobre el itinerario **Inglés Edición 2026**
+  (`D:\Usuario\SAIMAP\IDIOMAS\INGLÉS\2026\`).
+- **Latín** (`latin/`) — sobre los libros de **Latín — Colección Lenguas Sagradas**
+  (`D:\Usuario\SAIMAP\LIBROS DE SAIMAP\LATÍN\`), con TTS/reconocimiento en `it-IT`
+  como aproximación a la pronunciación eclesiástica.
 
 ## Estado del prototipo
 
-- ✅ Mapa del curso completo (A1 y A2 con 25 nodos cada uno en serpentina; B1-C2 visibles pero bloqueados)
-- ✅ **A1 completo (25 módulos) y A2 completo (25 módulos)** con banco de 30 ejercicios por módulo
-  (1.500 ejercicios generados del contenido real de los .md, validados con validate_modules.py)
-- ✅ Desbloqueo encadenado también ENTRE niveles: A2-mod01 exige completar A1-mod25
+**Inglés** — A1 y A2 completos (25 + 25 módulos), B1-C2 visibles pero bloqueados.
+**Latín** — A1 completo (25 módulos), A2-C2 visibles pero bloqueados (A2/B1/B2 ya
+tienen los libros fuente escritos; C1/C2 aún no están completos en origen).
+
+En total: **75 módulos × 30 ejercicios = 2.250 ejercicios**, generados del contenido
+real de los `.md` y validados con `validate_modules.py`.
+
+- ✅ Mapa del curso con nodos en serpentina y desbloqueo encadenado también ENTRE niveles
+  (p. ej. A2-mod01 exige completar A1-mod25)
 - ✅ 5 tipos de ejercicio: emparejar vocabulario, test de 3 opciones, rellenar huecos,
-  traducción con banco de palabras y **lectura en voz alta** (Web Speech API, con botón de omitir)
+  traducción/construcción con banco de palabras y **lectura en voz alta** (Web Speech API,
+  con botón de omitir)
 - ✅ **Sesiones de 12 ejercicios** muestreadas del banco de 30 ⇒ rejugar un módulo da ejercicios distintos
 - ✅ **Aprendizaje continuado (repaso espaciado):** ~3 de los 12 ejercicios de cada lección se inyectan
   de módulos ya completados, priorizando fallados > nunca vistos > más tiempo sin ver (Leitner-lite).
   Se marcan con la etiqueta «🔁 Repaso · Módulo N». El repaso nunca mete ejercicios de micrófono.
 - ✅ Registro por ejercicio (visto/fallos/última vez) en localStorage → alimenta la priorización
 - ✅ Mecánica de juego: 5 corazones diarios, +10 XP por acierto, racha por días, desbloqueo secuencial
-- ✅ Audio TTS (inglés) en aciertos y en el ejercicio de habla
+- ✅ Audio TTS en aciertos y en el ejercicio de habla (idioma configurable por curso)
 - ✅ Login por whitelist de Firebase (mismo patrón y proyecto que saimap-plataforma) + modo invitado
 
 ## Estructura
 
 ```
 saimap-idiomas/
-├── index.html        ← Login + mapa del curso (árbol de módulos)
-├── leccion.html      ← Reproductor de lecciones (los 5 tipos de ejercicio)
-└── json/
-    ├── course.json   ← Manifiesto: niveles, módulos, qué está desbloqueado
-    └── a1/
-        ├── mod01.json … mod05.json   ← Ejercicios por módulo
+├── index.html, leccion.html        ← App de Inglés (raíz)
+├── json/course.json, json/a1/, a2/ ← Contenido de Inglés
+├── latin/
+│   ├── index.html, leccion.html    ← App de Latín (mismo motor, TTS it-IT, clave localStorage propia)
+│   └── json/course.json, json/a1/  ← Contenido de Latín
+├── GENERACION_SPEC.md              ← Spec base de generación (inglés)
+├── GENERACION_SPEC_LATIN.md        ← Diferencias para latín (recorte de quiz 4→3 opciones, foco en caso/concordancia)
+└── validate_modules.py             ← Validador común, acepta cualquier carpeta: python validate_modules.py latin/json/a1
 ```
 
 ## Formato de ejercicio (json/a1/modXX.json)
@@ -67,7 +82,9 @@ y abrir http://localhost:8123. El reconocimiento de voz requiere Chrome/Edge y p
 
 ## Próximas fases
 
-1. Generar B1, B2, C1 y C2 (100 módulos) con subagentes: la especificación está en
-   `GENERACION_SPEC.md` y la validación en `validate_modules.py` (mismo proceso que A1/A2).
+1. Generar el resto de niveles con subagentes (mismo proceso que A1/A2 de inglés y A1 de latín):
+   - Inglés B1-C2 (100 módulos) → `GENERACION_SPEC.md`
+   - Latín A2-B2 (75 módulos, libros fuente ya completos) y C1-C2 (cuando se terminen los libros) → `GENERACION_SPEC_LATIN.md`
 2. Sincronizar el progreso a Firestore (`users/{hash}`) para que viaje entre dispositivos.
-3. Publicar en GitHub Pages (repo separado, acceso por link directo, como el resto de SAIMAP).
+3. Publicar `latin/` en GitHub Pages junto al resto (ya está `saimap-idiomas` publicado para inglés)
+   y enlazarlo desde la pestaña de Latín en SAIMAP Ecclesia / Lenguas Sagradas, como se hizo con inglés.

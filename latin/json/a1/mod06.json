@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod06",
+  "module": 6,
+  "title": "Praesens: Prima et Secunda Coniugatio",
+  "subtitle": "Presente: 1ª y 2ª Conjugación",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "amō", "es": "amar" },
+        { "en": "videō", "es": "ver" },
+        { "en": "habeō", "es": "tener" },
+        { "en": "doceō", "es": "enseñar" },
+        { "en": "timeō", "es": "temer" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proceso morfofonético explica la forma verbal amō (1ª sg. del presente de indicativo activo)?",
+      "options": ["La contracción regular de la vocal temática -ā- y la vocal -ō en un diptongo arcaico -ao.", "La elisión de la vocal temática -ā- del tema de presente ante la desinencia personal -ō.", "La adición de la desinencia secundaria -m, que provoca el ensordecimiento de la raíz am-."],
+      "correct": 1,
+      "hint": "Piensa qué le ocurre a la vocal temática -ā- cuando se encuentra con la -ō de la desinencia.",
+      "explanation": "La vocal temática -ā- de la 1ª conjugación se elide por completo ante la desinencia -ō («ama-ō» → «amō»). El latín clásico no admite el diptongo -ao, y la desinencia usada aquí es -ō, no la secundaria -m (reservada para otros tiempos como el imperfecto)."
+    },
+    {
+      "type": "gap",
+      "text": "Templum vid___.",
+      "options": ["et", "es", "unt"],
+      "answer": "et",
+      "explanation": "La 3ª persona singular de la 2ª conjugación toma -et (abreviación de -ē- ante -t): «videt». «es» daría 2ª sg y «unt» no es propio de esta conjugación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Amamos la patria",
+      "direction": "es-la",
+      "tiles": ["Amāmus", "patriam", "Amō", "Amant"],
+      "answer": "Amāmus patriam",
+      "explanation": "«Amāmus» es la 1ª persona del plural de la 1ª conjugación («nosotros amamos»); el sujeto queda implícito en la desinencia. «Amō» es 1ª sg y «amant» 3ª pl, personas distintas."
+    },
+    {
+      "type": "speak",
+      "text": "Amīcī patriam amant.",
+      "es": "Los amigos aman la patria."
+    },
+    {
+      "type": "gap",
+      "text": "Tū amīcum mon___.",
+      "options": ["ēs", "et", "is"],
+      "answer": "ēs",
+      "explanation": "La 2ª persona singular de la 2ª conjugación exige la vocal larga -ē-: «monēs». «et» es 3ª sg y «is» pertenece a la 3ª conjugación (temas en consonante), no a la 2ª."
+    },
+    {
+      "type": "quiz",
+      "q": "En la forma monēmus, ¿por qué la vocal temática -ē- se mantiene larga?",
+      "options": ["Porque la vocal se abrevia ante la consonante nasal -m-.", "Porque la vocal se elide y es sustituida por una vocal de unión -i-, propia de la 3ª conjugación.", "Porque va seguida de la desinencia -mus, que conserva la cantidad larga de la vocal temática."],
+      "correct": 2,
+      "hint": "Compara con «monet» (3ª sg): ¿qué desinencias abrevian la vocal y cuáles la mantienen larga?",
+      "explanation": "Ante -mus (y -tis, -s) la vocal temática -ē- de la 2ª conjugación mantiene su cantidad larga: «monēmus». Solo se abrevia ante -t y -nt («monet», «monent»). La vocal de unión -i- pertenece a la 3ª conjugación («legimus»), no a esta."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "laudō", "es": "alabar" },
+        { "en": "vocō", "es": "llamar" },
+        { "en": "moneō", "es": "aconsejar" },
+        { "en": "teneō", "es": "sostener" },
+        { "en": "debeō", "es": "deber" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Puer templum par___.",
+      "options": ["at", "et", "unt"],
+      "answer": "at",
+      "explanation": "1ª conjugación, 3ª sg: la vocal temática -ā- se abrevia a -ă- ante -t, dando «parat». «et» es propio de la 2ª conjugación y «unt» es plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tú llamas al amigo",
+      "direction": "es-la",
+      "tiles": ["Amīcum", "vocās", "vocat", "vocant"],
+      "answer": "Amīcum vocās",
+      "explanation": "«Vocās» es la 2ª persona singular de la 1ª conjugación («tú llamas»); «vocat» es 3ª sg y «vocant» 3ª pl, personas distintas a la exigida por «tú»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué el infinitivo distingue un verbo de la 2ª conjugación (monēre) de uno de la 3ª (legĕre)?",
+      "options": ["Porque la 2ª conjugación tiene la vocal temática -ē- larga (monēre) y la 3ª la vocal de unión -ĕ- breve (legĕre).", "Porque el infinitivo de la 2ª conjugación termina en -āre y el de la 3ª en -ēre.", "Porque la 2ª conjugación no lleva el acento en la vocal temática del infinitivo."],
+      "correct": 0,
+      "hint": "Fíjate en la cantidad (larga o breve) de la vocal antes de -re, no solo en las letras.",
+      "explanation": "La diferencia es la cantidad vocálica: «monēre» lleva -ē- larga (palabra llana, acento en esa sílaba) y «legĕre» lleva -ĕ- breve (esdrújula). La terminación -āre es propia de la 1ª conjugación, no de la 2ª."
+    },
+    {
+      "type": "gap",
+      "text": "Discipulī regem tim___.",
+      "options": ["ent", "unt", "et"],
+      "answer": "ent",
+      "explanation": "2ª conjugación, 3ª persona plural: -ent (vocal breve ante -nt), dando «timent». «unt» no corresponde a esta conjugación y «et» es singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rey teme",
+      "direction": "es-la",
+      "tiles": ["Rex", "timet", "times", "timent"],
+      "answer": "Rex timet",
+      "explanation": "«Timet» es la 3ª persona singular de la 2ª conjugación; «times» es 2ª sg y «timent» 3ª pl, formas que no concuerdan con el sujeto singular «el rey»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "parō", "es": "preparar" },
+        { "en": "servō", "es": "salvar" },
+        { "en": "iubeō", "es": "mandar" },
+        { "en": "valeō", "es": "estar fuerte" },
+        { "en": "taceō", "es": "callar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué explica que en amat y monet la vocal temática se pronuncie breve?",
+      "options": ["El influjo analógico de la 3ª persona plural en -nt.", "La ley de abreviación vocálica: toda vocal larga final se abrevia ante consonante distinta de -s o -r.", "Una síncopa de la vocal temática por el acento de intensidad inicial."],
+      "correct": 1,
+      "hint": "Es una ley fonética general, no una excepción particular de estos dos verbos.",
+      "explanation": "Toda vocal larga en sílaba final se abrevia ante cualquier consonante que no sea -s o -r; por eso «amāt» → «amat» y «monēt» → «monet». No es analogía con -nt (fenómeno aparte) ni una síncopa, que eliminaría la vocal por completo."
+    },
+    {
+      "type": "gap",
+      "text": "Ego patriam serv___.",
+      "options": ["ō", "at", "āmus"],
+      "answer": "ō",
+      "explanation": "En la 1ª persona singular de la 1ª conjugación, la vocal temática -ā- se elide totalmente ante -ō: «servō», nunca «at» (3ª sg) ni «āmus» (1ª pl)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros tenemos al amigo",
+      "direction": "es-la",
+      "tiles": ["Amīcum", "tenēmus", "teneō", "tenent"],
+      "answer": "Amīcum tenēmus",
+      "explanation": "«Tenēmus» es la 1ª persona plural de la 2ª conjugación, con la vocal temática larga -ē- conservada; «teneō» es 1ª sg y «tenent» 3ª pl."
+    },
+    {
+      "type": "speak",
+      "text": "Amīcus regem videt.",
+      "es": "El amigo ve al rey."
+    },
+    {
+      "type": "quiz",
+      "q": "En «Amīcī patriam servant», ¿qué es servant?",
+      "options": ["3ª persona del plural del presente de indicativo activo de servāre (1ª conjugación).", "1ª persona del plural del presente de indicativo activo de servīre (4ª conjugación).", "3ª persona del singular del imperfecto de indicativo activo de servāre."],
+      "correct": 0,
+      "hint": "Fíjate en el sujeto «Amīcī» (plural) y en que la acción ocurre en el presente.",
+      "explanation": "«Servant» = raíz serv- + vocal temática abreviada -a- + desinencia -nt (3ª pl) del verbo servāre, 1ª conjugación. No es servīre (4ª, «servir», daría «serviunt») ni un imperfecto (que sería «servābant»)."
+    },
+    {
+      "type": "gap",
+      "text": "Vōs tac___.",
+      "options": ["ētis", "et", "unt"],
+      "answer": "ētis",
+      "explanation": "La 2ª persona plural de la 2ª conjugación conserva la vocal larga -ē-: «tacētis». «et» es 3ª sg y «unt» no corresponde a esta conjugación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los amigos alaban al rey",
+      "direction": "es-la",
+      "tiles": ["Amīcī", "regem", "laudant", "laudat", "laudāmus"],
+      "answer": "Amīcī regem laudant",
+      "explanation": "«Laudant» es la 3ª persona plural de la 1ª conjugación («ellos alaban»); «laudat» es 3ª sg y «laudāmus» 1ª pl, personas distintas al sujeto plural «los amigos»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "portō", "es": "llevar" },
+        { "en": "narrō", "es": "narrar" },
+        { "en": "habitō", "es": "habitar" },
+        { "en": "terreō", "es": "aterrorizar" },
+        { "en": "rideō", "es": "reír" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estas frases es la más natural en latín clásico para decir «Amo al rey»?",
+      "options": ["Ego amō regem.", "Amō regem.", "Amō ego regem."],
+      "correct": 1,
+      "hint": "La desinencia -ō ya indica que el sujeto es «yo»: ¿hace falta repetirlo?",
+      "explanation": "La desinencia personal -ō ya expresa el sujeto «yo», así que el pronombre «ego» se omite salvo que se busque un contraste explícito. Añadirlo sistemáticamente calca la sintaxis del español y resulta redundante en latín clásico."
+    },
+    {
+      "type": "gap",
+      "text": "Amīcī amīcum doc___.",
+      "options": ["ent", "unt", "et"],
+      "answer": "ent",
+      "explanation": "3ª persona plural del tema en -e-: -ent (vocal breve ante -nt), dando «docent». «unt» pertenece a otra conjugación y «et» es singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Vosotros teméis al rey",
+      "direction": "es-la",
+      "tiles": ["Regem", "timētis", "timēmus", "timet"],
+      "answer": "Regem timētis",
+      "explanation": "«Timētis» es la 2ª persona plural de la 2ª conjugación, con la vocal larga -ē- conservada; «timēmus» es 1ª pl y «timet» 3ª sg."
+    },
+    {
+      "type": "speak",
+      "text": "Nōs patriam servāmus.",
+      "es": "Nosotros salvamos la patria."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta para «(tú) aconsejas al amigo»?",
+      "options": ["Monis amīcum.", "Monet amīcum.", "Monēs amīcum."],
+      "correct": 2,
+      "hint": "«Moneō» es de la 2ª conjugación: ¿qué vocal temática conserva en la 2ª persona del singular?",
+      "explanation": "«Monēs» es la 2ª sg. de la 2ª conjugación, que conserva la vocal temática larga -ē-. «Monis» aplica erróneamente la -i- típica de la 3ª conjugación, y «monet» es 3ª persona, no 2ª."
+    },
+    {
+      "type": "gap",
+      "text": "Templum splend___.",
+      "options": ["et", "unt", "is"],
+      "answer": "et",
+      "explanation": "El verbo intransitivo «splendēre» en 3ª sg toma -et: «splendet». «unt» es plural y «is» no pertenece a esta conjugación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo preparo el templo",
+      "direction": "es-la",
+      "tiles": ["Templum", "parō", "parat", "parāmus"],
+      "answer": "Templum parō",
+      "explanation": "«Parō» es la 1ª persona singular de la 1ª conjugación: la vocal temática -ā- se elide por completo ante la desinencia -ō. «parat» es 3ª sg y «parāmus» 1ª pl."
+    },
+    {
+      "type": "speak",
+      "text": "Templum splendet.",
+      "es": "El templo resplandece."
+    }
+  ]
+}

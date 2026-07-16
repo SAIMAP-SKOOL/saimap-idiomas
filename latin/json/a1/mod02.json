@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod02",
+  "module": 2,
+  "title": "De Prima Declinatione",
+  "subtitle": "Primera Declinación",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "agricola", "es": "agricultor" },
+        { "en": "amicitia", "es": "amistad" },
+        { "en": "aqua", "es": "agua" },
+        { "en": "causa", "es": "causa / motivo" },
+        { "en": "dea", "es": "diosa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En la oración «Nauta reginae epistulam dat», ¿qué función cumple reginae?",
+      "options": ["Nominativo plural (sujeto)", "Dativo singular (objeto indirecto)", "Genitivo singular (complemento del nombre)"],
+      "correct": 1,
+      "hint": "El verbo «dat» (dar) necesita alguien que reciba la carta: busca el destinatario.",
+      "explanation": "«Reginae» es dativo singular: el marinero da la carta a la reina (destinatario de «dat»). La forma «-ae» también podría ser genitivo o nominativo plural, pero el sentido de «dar algo a alguien» exige aquí el dativo."
+    },
+    {
+      "type": "gap",
+      "text": "Nauta puell___ amat.",
+      "options": ["a", "am", "ae"],
+      "answer": "am",
+      "explanation": "El objeto directo se marca con la desinencia acusativa «-am»: «puellam» (a la muchacha). «a» sería nominativo (sujeto) y «ae» genitivo/dativo/nominativo plural, casos que no expresan objeto directo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La iglesia es santa",
+      "direction": "es-la",
+      "tiles": ["Ecclesia", "est", "sancta", "ecclesiam", "sanctam"],
+      "answer": "Ecclesia est sancta",
+      "explanation": "«Ecclesia» (sujeto) y «sancta» (atributo) van en nominativo, unidos por el verbo copulativo «est» (del verbo «sum», que se estudiará en el módulo 5). «Ecclesiam» y «sanctam» son formas de acusativo, caso que no corresponde aquí."
+    },
+    {
+      "type": "speak",
+      "text": "Regina regnat.",
+      "es": "La reina reina."
+    },
+    {
+      "type": "gap",
+      "text": "Puella cum naut___ navigat.",
+      "options": ["a", "ā", "am"],
+      "answer": "ā",
+      "explanation": "La preposición «cum» (compañía) rige siempre caso ablativo: «nautā» (con vocal larga). «a» sería nominativo y «am» acusativo, el error típico del hispanohablante («cum puellam»)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se traduce correctamente «Los buenos poetas escriben»?",
+      "options": ["Poetae bonae scribunt", "Poetas bonos scribunt", "Poetae boni scribunt"],
+      "correct": 2,
+      "hint": "«Poeta» es masculino aunque termine en -a: ¿qué desinencia toma el adjetivo masculino en nominativo plural?",
+      "explanation": "«Poeta» es masculino, así que el adjetivo concuerda con la forma masculina de la 2ª declinación: nominativo plural «boni». «Poetae bonae» usa la forma femenina (concordancia discordante incorrecta) y «poetas bonos» está en acusativo, no en nominativo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "epistula", "es": "carta" },
+        { "en": "femina", "es": "mujer" },
+        { "en": "fortuna", "es": "fortuna / suerte" },
+        { "en": "gloria", "es": "gloria" },
+        { "en": "incola", "es": "habitante" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Puellae in silv___ ambulant.",
+      "options": ["a", "ā", "am"],
+      "answer": "ā",
+      "explanation": "«In» + ablativo expresa ubicación estática: «in silvā» (en el bosque, mientras caminan). Con «am» indicaría dirección (hacia el bosque) y «a» no es una desinencia casual válida tras preposición."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El marinero navega hacia la patria",
+      "direction": "es-la",
+      "tiles": ["Nauta", "in", "patriam", "navigat", "patriā"],
+      "answer": "Nauta in patriam navigat",
+      "explanation": "«In» + acusativo («patriam») indica dirección de movimiento («hacia la patria»). «Patriā», en ablativo, indicaría ubicación estática («en la patria»), no destino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué diferencia hay entre «in silvam» e «in silvā»?",
+      "options": ["«In silvam» (acusativo) indica dirección de movimiento; «in silvā» (ablativo) indica ubicación estática", "Ninguna: ambas significan «en el bosque» de forma indistinta", "«In silvam» es genitivo posesivo y «in silvā» es dativo de finalidad"],
+      "correct": 0,
+      "hint": "Fíjate en el caso: acusativo (-am) frente a ablativo (-ā larga).",
+      "explanation": "La preposición «in» rige acusativo cuando hay movimiento hacia un lugar («in silvam») y ablativo cuando expresa ubicación fija («in silvā»). No son casos intercambiables ni corresponden a genitivo o dativo."
+    },
+    {
+      "type": "gap",
+      "text": "Rosa puell___.",
+      "options": ["a", "am", "ae"],
+      "answer": "ae",
+      "explanation": "«Rosa puellae» = «la rosa de la muchacha»: el genitivo singular «-ae» expresa posesión. «a» daría nominativo (sin sentido: «la rosa es la muchacha») y «am» acusativo, caso que no marca posesión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El poeta da una carta a la muchacha",
+      "direction": "es-la",
+      "tiles": ["Poeta", "puellae", "epistulam", "dat", "puellam"],
+      "answer": "Poeta puellae epistulam dat",
+      "explanation": "«Puellae» es dativo singular (destinatario de «dat»). «Puellam», en acusativo, sería el objeto directo, pero ese papel ya lo cumple «epistulam» (la carta)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "insula", "es": "isla" },
+        { "en": "lingua", "es": "lengua / idioma" },
+        { "en": "nauta", "es": "marinero" },
+        { "en": "patria", "es": "patria" },
+        { "en": "poeta", "es": "poeta" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En «Agricola terrarum divisionem facit», ¿qué función tiene terrarum?",
+      "options": ["Sujeto en nominativo plural", "Complemento del nombre en genitivo plural", "Objeto directo en acusativo plural"],
+      "correct": 1,
+      "hint": "La desinencia «-arum» es exclusiva de un único caso y número: ¿cuál?",
+      "explanation": "«-arum» es la desinencia propia del genitivo plural de la 1ª declinación: «terrarum» especifica «la división de las tierras». El sujeto ya es «agricola» y el objeto directo es «divisionem», así que terrarum no puede cumplir esas otras funciones."
+    },
+    {
+      "type": "gap",
+      "text": "Nauta puell___ rosam dat.",
+      "options": ["a", "am", "ae"],
+      "answer": "ae",
+      "explanation": "«Puellae» es dativo singular: el marinero da una rosa A la muchacha (destinatario). Aunque «-ae» también sea genitivo o nominativo plural, el verbo «dat» exige aquí un destinatario."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reina vive en la villa",
+      "direction": "es-la",
+      "tiles": ["Regina", "in", "villā", "habitat", "villam"],
+      "answer": "Regina in villā habitat",
+      "explanation": "«Habitat» (vivir) es un verbo de ubicación, no de movimiento, así que «in» rige ablativo: «villā». «Villam», en acusativo, expresaría dirección hacia la villa, no residencia en ella."
+    },
+    {
+      "type": "speak",
+      "text": "O poeta, canta.",
+      "es": "¡Oh poeta, canta!"
+    },
+    {
+      "type": "quiz",
+      "q": "En «Regina nautas pecuniā liberat», ¿qué función tiene pecuniā?",
+      "options": ["Objeto indirecto en dativo singular", "Objeto directo en acusativo singular", "Complemento de medio o instrumento en ablativo singular"],
+      "correct": 2,
+      "hint": "Fíjate en la cantidad vocálica de la -ā final y en que no lleva preposición delante.",
+      "explanation": "«Pecuniā» lleva -ā larga y ninguna preposición: es ablativo de instrumento/medio («libera con el dinero»). El objeto directo de «liberat» es «nautas» (acusativo) y el sujeto es «regina», así que pecuniā no puede cumplir esas otras funciones."
+    },
+    {
+      "type": "gap",
+      "text": "Nautae regin___ amant.",
+      "options": ["a", "as", "ae"],
+      "answer": "as",
+      "explanation": "El objeto directo plural femenino toma «-as»: «reginas» (a las reinas). «a» sería singular nominativo y «ae» genitivo/dativo/nominativo plural, casos que no marcan objeto directo plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El habitante viene de la isla",
+      "direction": "es-la",
+      "tiles": ["Incola", "ex", "insulā", "venit", "insulam"],
+      "answer": "Incola ex insulā venit",
+      "explanation": "La preposición «ex» (procedencia, «desde fuera de») rige ablativo: «insulā». «Insulam», en acusativo, marcaría dirección hacia la isla, el sentido contrario."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "puella", "es": "muchacha" },
+        { "en": "regina", "es": "reina" },
+        { "en": "silva", "es": "bosque" },
+        { "en": "terra", "es": "tierra" },
+        { "en": "vita", "es": "vida" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta del adjetivo para «el poeta bueno»?",
+      "options": ["Poeta bonus", "Poeta bona", "Poeta bonum"],
+      "correct": 0,
+      "hint": "«Poeta» es un sustantivo masculino aunque termine en -a: ¿qué género debe llevar el adjetivo?",
+      "explanation": "Aunque «poeta» termina en -a, es masculino, así que el adjetivo toma la forma masculina de la 2ª declinación: «bonus». «Bona» es femenino (concordancia discordante, error típico) y «bonum» es neutro, género que no corresponde a personas."
+    },
+    {
+      "type": "gap",
+      "text": "Agricola bon___ terram amat.",
+      "options": ["us", "a", "um"],
+      "answer": "us",
+      "explanation": "«Agricola» es masculino pese a terminar en -a, así que el adjetivo exige la forma masculina «bonus» (2ª declinación). «bona» daría femenino y «bonum» neutro, géneros que no le corresponden."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La muchacha ama la tierra",
+      "direction": "es-la",
+      "tiles": ["Puella", "terram", "amat", "puellam", "terra"],
+      "answer": "Puella terram amat",
+      "explanation": "El sujeto va en nominativo («puella») y el objeto directo en acusativo («terram»). «Puellam» y «terra» invierten los casos: el primero convertiría al sujeto en objeto y el segundo dejaría el objeto sin marcar."
+    },
+    {
+      "type": "speak",
+      "text": "Agricola terrā laborat.",
+      "es": "El agricultor trabaja con la tierra."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué distingue la pronunciación de rosa (nominativo) y rosā (ablativo)?",
+      "options": ["Son fonéticamente idénticas; solo el contexto sintáctico las distingue", "La vocal final es breve en el nominativo (/rósa/) y larga en el ablativo (/rósā/): una distinción de cantidad vocálica", "La diferencia está en el acento de intensidad silábico, no en la duración de la vocal"],
+      "correct": 1,
+      "hint": "Piensa en cuánto tiempo se alarga el sonido de la última vocal, no en qué sílaba se acentúa.",
+      "explanation": "El nominativo singular «rosa» lleva -a breve y el ablativo singular «rosā» lleva -ā larga (el sonido se sostiene el doble de tiempo). Esta distinción de cantidad vocálica, no de acento, es la única marca que diferencia ambos casos en la pronunciación."
+    },
+    {
+      "type": "gap",
+      "text": "Agricola terr___ laborat.",
+      "options": ["a", "ā", "am"],
+      "answer": "ā",
+      "explanation": "El ablativo instrumental (sin preposición) exige la vocal larga «-ā»: «terrā» (con/mediante la tierra). «a» sería nominativo (ya ocupado por «agricola») y «am» acusativo (objeto directo, no instrumento)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El marinero ama a la reina",
+      "direction": "es-la",
+      "tiles": ["Nauta", "reginam", "amat", "regina", "reginae"],
+      "answer": "Nauta reginam amat",
+      "explanation": "El objeto directo va en acusativo: «reginam». «Regina» (nominativo) convertiría a la reina en sujeto y «reginae» (genitivo/dativo) no expresa objeto directo."
+    },
+    {
+      "type": "speak",
+      "text": "O puellae, audite!",
+      "es": "¡Oh muchachas, escuchad!"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod12",
+  "module": 12,
+  "title": "Praepositiones",
+  "subtitle": "Preposiciones",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra latina con su traducción",
+      "pairs": [
+        { "en": "ad", "es": "a, hacia" },
+        { "en": "in", "es": "en, dentro de" },
+        { "en": "per", "es": "a través de" },
+        { "en": "ante", "es": "delante de" },
+        { "en": "post", "es": "después de" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la opción gramaticalmente correcta para traducir «Los soldados marchan a través de la ciudad»?",
+      "options": ["Milites ab urbe ambulant.", "Milites per urbem ambulant.", "Milites in urbe ambulant."],
+      "correct": 1,
+      "hint": "Per rige acusativo: busca la preposición que indica tránsito a través de un lugar.",
+      "explanation": "Per exige acusativo, y urbs, urbis (3ª declinación) hace el acusativo singular urbem: Milites per urbem ambulant. Ab urbe indica procedencia (desde la ciudad) y in urbe indica estatismo (dentro de la ciudad), sentidos distintos al pedido."
+    },
+    {
+      "type": "gap",
+      "text": "Ambulo in ___ (entro en la iglesia, con movimiento).",
+      "options": ["ecclesiam", "ecclesiā", "ecclesia"],
+      "answer": "ecclesiam",
+      "explanation": "El movimiento con entrada exige acusativo tras in: ecclesiam. Ecclesiā es ablativo (reposo) y ecclesia es nominativo, formas incorrectas para expresar dirección."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Camino hacia el interior de la iglesia",
+      "direction": "es-en",
+      "tiles": ["Ambulo", "in", "ecclesiam", "ecclesiā", "ecclesia"],
+      "answer": "Ambulo in ecclesiam",
+      "explanation": "El movimiento con entrada exige acusativo tras in: ecclesiam. Ecclesiā es ablativo y ecclesia nominativo, formas incorrectas aquí."
+    },
+    {
+      "type": "speak",
+      "text": "Ambulo in ecclesiam.",
+      "es": "Camino hacia el interior de la iglesia."
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase de San Agustín «Cor meum inquietum est donec requiescat in te», la estructura in te representa:",
+      "options": ["Un acusativo de dirección hostil.", "Un ablativo separativo de origen.", "Un ablativo locativo o figurado de reposo."],
+      "correct": 2,
+      "hint": "El verbo requiescere (descansar) indica un estado, no un movimiento.",
+      "explanation": "Te está en ablativo, y in + ablativo expresa ubicación o reposo estático («descansar en ti»), en concordancia con el verbo requiescere. No es dirección hostil (eso sería in + acusativo con verbo de ataque) ni origen (eso exigiría ab/ex + ablativo)."
+    },
+    {
+      "type": "gap",
+      "text": "Maneo in ___ (permanezco dentro de la iglesia, reposo).",
+      "options": ["ecclesiam", "ecclesiā", "ecclesia"],
+      "answer": "ecclesiā",
+      "explanation": "El verbo manere indica reposo, así que in exige ablativo: ecclesiā. Ecclesiam es acusativo (movimiento) y ecclesia es nominativo, casos incorrectos aquí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Permanezco dentro del templo",
+      "direction": "es-en",
+      "tiles": ["Maneo", "in", "templo", "templum", "templi"],
+      "answer": "Maneo in templo",
+      "explanation": "El reposo exige ablativo tras in: templo. Templum es nominativo/acusativo y templi es genitivo, formas incorrectas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra latina con su traducción",
+      "pairs": [
+        { "en": "ab", "es": "de, desde" },
+        { "en": "ex", "es": "desde el interior" },
+        { "en": "cum", "es": "con" },
+        { "en": "sine", "es": "sin" },
+        { "en": "sub", "es": "bajo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Identifique el error sintáctico en «Caesar cum amicos a Roma ad villam iter facit» (César viaja con sus amigos de Roma a la villa):",
+      "options": ["Cum amicos debería ser cum amicis.", "A Roma debería ser ab Roma.", "Ad villam debería ser villam sin preposición."],
+      "correct": 0,
+      "hint": "Cum siempre rige el mismo caso, sin excepción.",
+      "explanation": "Cum rige obligatoriamente ablativo, y amicus, -i (2ª declinación) hace el ablativo plural en -is: cum amicis, no cum amicos (acusativo). A Roma ya es correcto porque «a» se usa ante consonante; y villa no es nombre de ciudad, así que sí necesita preposición (ad villam)."
+    },
+    {
+      "type": "gap",
+      "text": "Milites ___ urbem ambulant (a través de la ciudad).",
+      "options": ["per", "ab", "in"],
+      "answer": "per",
+      "explanation": "El tránsito a través de un espacio se expresa con per + acusativo: per urbem."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los soldados marchan a través de la ciudad",
+      "direction": "es-en",
+      "tiles": ["Milites", "per", "urbem", "ambulant", "urbe", "urbis"],
+      "answer": "Milites per urbem ambulant",
+      "explanation": "Per rige acusativo: urbem. Urbe es ablativo y urbis genitivo, casos que vulneran el régimen de per."
+    },
+    {
+      "type": "speak",
+      "text": "Maneo in templo.",
+      "es": "Permanezco dentro del templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué diferencia semántica existe entre in villam intrare e in villa manere?",
+      "options": ["El primero expresa alejamiento de la villa y el segundo entrada en ella.", "Ambos expresan movimiento, pero el segundo indica tránsito a través de la villa.", "El primer sintagma expresa dirección hacia el interior (acusativo) y el segundo expresa permanencia estática dentro (ablativo)."],
+      "correct": 2,
+      "hint": "Fíjate en la desinencia de villam frente a villa.",
+      "explanation": "In villam (acusativo) denota movimiento con entrada al interior; in villa (ablativo), en concordancia con manere, denota permanencia estática dentro. No hay alejamiento ni tránsito en ninguna de las dos frases."
+    },
+    {
+      "type": "gap",
+      "text": "Liber scriptus est ___ Cicerone (agente animado en pasiva).",
+      "options": ["per", "ab", "a"],
+      "answer": "a",
+      "explanation": "El agente animado de una pasiva se introduce con a/ab + ablativo; «a» se usa ante consonante, como en Cicerone. Per se reserva para intermediarios impersonales, no para el agente directo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El libro fue escrito por Cicerón",
+      "direction": "es-en",
+      "tiles": ["Liber", "a", "Cicerone", "scriptus", "est", "per", "ab"],
+      "answer": "Liber a Cicerone scriptus est",
+      "explanation": "El agente animado de la pasiva se introduce con «a» (ante consonante) + ablativo: a Cicerone. Ab solo se usa ante vocal, y per se reserva para intermediarios impersonales, no para el agente directo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra latina con su traducción",
+      "pairs": [
+        { "en": "pro", "es": "en favor de" },
+        { "en": "inter", "es": "entre" },
+        { "en": "trans", "es": "al otro lado de" },
+        { "en": "propter", "es": "a causa de" },
+        { "en": "apud", "es": "junto a" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Complete correctamente: «Discipulus sine ___ ad templum ire non potest.»",
+      "options": ["libro", "librum", "libri"],
+      "correct": 0,
+      "hint": "Sine rige siempre el mismo caso que ablativo.",
+      "explanation": "Sine rige ablativo, y liber, libri (2ª declinación) forma el ablativo singular en -o: libro. Librum es acusativo y libri es genitivo singular o nominativo plural, casos que vulneran el régimen de sine."
+    },
+    {
+      "type": "gap",
+      "text": "Pugnamus sine ___ (luchamos sin miedo).",
+      "options": ["metu", "metum", "metus"],
+      "answer": "metu",
+      "explanation": "Sine rige ablativo, y metus, -us (4ª declinación) hace el ablativo singular en -u: metu. Metum es acusativo y metus nominativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Voy a Roma sin miedo",
+      "direction": "es-en",
+      "tiles": ["Eo", "Romam", "sine", "metu", "ad", "metum"],
+      "answer": "Eo Romam sine metu",
+      "explanation": "Romam (ciudad) va en acusativo puro sin preposición. Sine rige ablativo: metu. Ad sobra con nombres de ciudad y metum es acusativo, incorrecto tras sine."
+    },
+    {
+      "type": "speak",
+      "text": "Eo Romam.",
+      "es": "Voy a Roma."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se dice correctamente «La casa fue destruida por el fuego» (agente inanimado)?",
+      "options": ["Domus igne deleta est.", "Domus ab igne deleta est.", "Domus per ignem deleta est."],
+      "correct": 0,
+      "hint": "El fuego es una cosa, no una persona.",
+      "explanation": "El fuego es un agente inanimado, así que se expresa en ablativo instrumental puro, sin preposición: igne. Ab se reserva para agentes animados (personas) y per + acusativo para intermediarios humanos."
+    },
+    {
+      "type": "gap",
+      "text": "Discedo ___ villa (me alejo de la villa).",
+      "options": ["ab", "ad", "in"],
+      "answer": "ab",
+      "explanation": "La separación desde el exterior de un lugar se expresa con ab/a + ablativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Vengo con mis amigos",
+      "direction": "es-en",
+      "tiles": ["Venio", "cum", "amicis", "amicos", "amici"],
+      "answer": "Venio cum amicis",
+      "explanation": "Cum rige ablativo: amicis (2ª declinación, ablativo plural). Amicos es acusativo y amici es nominativo plural o genitivo singular, formas incorrectas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra latina con su traducción",
+      "pairs": [
+        { "en": "ecclesia", "es": "iglesia" },
+        { "en": "forum", "es": "foro" },
+        { "en": "templum", "es": "templo" },
+        { "en": "via", "es": "camino" },
+        { "en": "urbs", "es": "ciudad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se dice correctamente «Voy a Roma» aplicando la regla de los nombres de ciudad?",
+      "options": ["Eo ad Romam.", "Eo Romam.", "Eo in Roma."],
+      "correct": 1,
+      "hint": "Roma es un nombre de ciudad: no lleva preposición para expresar dirección.",
+      "explanation": "Los nombres propios de ciudades, como Roma, expresan la dirección en acusativo puro, sin la preposición ad: Eo Romam. Eo ad Romam calca el español y eo in Roma confunde el régimen y el caso."
+    },
+    {
+      "type": "gap",
+      "text": "Eo ___ (voy a Roma).",
+      "options": ["ad Romam", "Romam", "in Roma"],
+      "answer": "Romam",
+      "explanation": "Los nombres de ciudades expresan la dirección en acusativo puro, sin preposición: Romam."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El padre permanece delante de la iglesia",
+      "direction": "es-en",
+      "tiles": ["Pater", "ante", "ecclesiam", "stat", "ecclesiā", "ecclesia"],
+      "answer": "Pater ante ecclesiam stat",
+      "explanation": "Ante rige acusativo: ecclesiam. Ecclesiā es ablativo y ecclesia nominativo, formas incorrectas tras ante."
+    },
+    {
+      "type": "speak",
+      "text": "Cor meum inquietum est donec requiescat in te.",
+      "es": "Mi corazón está inquieto hasta que descanse en ti."
+    },
+    {
+      "type": "gap",
+      "text": "Exeo ___ templo (salgo del interior del templo).",
+      "options": ["ex", "ad", "cum"],
+      "answer": "ex",
+      "explanation": "La salida desde el interior de un espacio se expresa con ex/e + ablativo."
+    }
+  ]
+}

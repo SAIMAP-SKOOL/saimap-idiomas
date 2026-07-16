@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod18",
+  "module": 18,
+  "title": "Pronomen Is, Ea, Id",
+  "subtitle": "El Pronombre Is, Ea, Id",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada forma pronominal con su traducción",
+      "pairs": [
+        { "en": "is", "es": "él / este" },
+        { "en": "ea", "es": "ella / esta" },
+        { "en": "id", "es": "ello / esto" },
+        { "en": "eius", "es": "de él / su" },
+        { "en": "ei", "es": "a él / a ella" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Iohannes videt Petrum et fratrem eius», ¿de quién es hermano el que es visto?",
+      "options": ["De Pedro.", "De Juan.", "De ambos."],
+      "correct": 0,
+      "hint": "Eius no señala al sujeto de la oración.",
+      "explanation": "Se utiliza «eius» (posesivo no reflexivo, «de él») para indicar que el hermano no pertenece al sujeto «Iohannes», sino al otro elemento mencionado: «Petrum»."
+    },
+    {
+      "type": "gap",
+      "text": "Petrus amat uxorem ___ (Pedro ama a su [propia] esposa).",
+      "options": ["eius", "suam", "suus"],
+      "answer": "suam",
+      "explanation": "Al ser la esposa del propio sujeto («Petrus»), se exige el posesivo reflexivo concordado en acusativo femenino singular: «suam». «Eius» indicaría que la esposa es de otro hombre."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Pedro ama a su (propia) esposa",
+      "direction": "es-en",
+      "tiles": ["Petrus", "amat", "uxorem", "suam", "eius"],
+      "answer": "Petrus amat uxorem suam",
+      "explanation": "Al ser la esposa del propio sujeto, se usa el reflexivo «suam» concordado en acusativo femenino singular con «uxorem». «Eius» sería el distractor no reflexivo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el dativo singular del pronombre «is, ea, id» para el género femenino?",
+      "options": ["eius", "eae", "ei"],
+      "correct": 2,
+      "hint": "Es la misma forma para los tres géneros.",
+      "explanation": "El dativo singular de «is, ea, id» es común para los tres géneros y tiene la forma «ei». «Eius» es el genitivo y «eae» no es una forma correcta de este pronombre en dativo."
+    },
+    {
+      "type": "gap",
+      "text": "Petrus amat uxorem ___ (Pedro ama a su esposa [la de Juan]).",
+      "options": ["suam", "eius", "eam"],
+      "answer": "eius",
+      "explanation": "Cuando el poseedor no es el sujeto de la oración, se usa el genitivo del pronombre anafórico: «eius» («de él», es decir, de otro hombre distinto de Pedro)."
+    },
+    {
+      "type": "speak",
+      "text": "Petrus amat uxorem suam.",
+      "es": "Pedro ama a su (propia) esposa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada forma pronominal con su traducción",
+      "pairs": [
+        { "en": "eum", "es": "a él / lo" },
+        { "en": "eam", "es": "a ella / la" },
+        { "en": "eo", "es": "por él / con él" },
+        { "en": "eorum", "es": "de ellos" },
+        { "en": "earum", "es": "de ellas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español: «Maria amat filios suos».",
+      "options": ["María ama a sus propios hijos.", "María ama a los hijos de ellas.", "María ama a los hijos de él."],
+      "correct": 0,
+      "hint": "Suos es la forma reflexiva plural.",
+      "explanation": "Se emplea el posesivo reflexivo plural «suos», concordado con «filios», que indica que los hijos pertenecen a María, el sujeto de la oración."
+    },
+    {
+      "type": "gap",
+      "text": "Dico ___ veritatem (le digo la verdad a ella).",
+      "options": ["eam", "eius", "ei"],
+      "answer": "ei",
+      "explanation": "El destinatario de la acción exige caso dativo: «ei». «Eam» es acusativo (objeto directo) y «eius» es genitivo (posesivo): ninguno marca el destinatario."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Pedro ama a su esposa (la de otro)",
+      "direction": "es-en",
+      "tiles": ["Petrus", "amat", "uxorem", "eius", "suam"],
+      "answer": "Petrus amat uxorem eius",
+      "explanation": "El poseedor no es el sujeto («Petrus»), sino otra persona, por lo que se usa el genitivo no reflexivo «eius». «Suam» sería el distractor reflexivo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma del acusativo singular neutro del pronombre anafórico?",
+      "options": ["eam", "id", "eum"],
+      "correct": 1,
+      "hint": "Coincide con el nominativo neutro.",
+      "explanation": "El nominativo y acusativo singular neutro del pronombre anafórico es «id». «Eum» es masculino y «eam» es femenino."
+    },
+    {
+      "type": "gap",
+      "text": "___ pater in domo est (el padre de ellos está en casa).",
+      "options": ["Eorum", "Eius", "Ei"],
+      "answer": "Eorum",
+      "explanation": "«Eorum» es el genitivo plural masculino/neutro de «is, ea, id»: «de ellos». «Eius» es singular y «ei» es dativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Le digo la verdad a él",
+      "direction": "es-en",
+      "tiles": ["Dico", "ei", "veritatem", "eum", "eius"],
+      "answer": "Dico ei veritatem",
+      "explanation": "El destinatario exige caso dativo: «ei». «Eum» es acusativo (objeto directo) y «eius» es genitivo (posesivo): ninguno indica el destinatario."
+    },
+    {
+      "type": "speak",
+      "text": "Maria amat filios suos.",
+      "es": "María ama a sus propios hijos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "suus", "es": "su / suyo (reflexivo masc.)" },
+        { "en": "sua", "es": "su / suya (reflexivo fem.)" },
+        { "en": "suum", "es": "su / suyo (reflexivo neutro)" },
+        { "en": "frater", "es": "hermano" },
+        { "en": "soror", "es": "hermana" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significa la frase «Pater eorum in domo est»?",
+      "options": ["Su padre [de él] está en casa.", "El padre de ellos está en su casa [de él].", "Su padre [de ellos] está en casa."],
+      "correct": 2,
+      "hint": "Eorum es genitivo plural.",
+      "explanation": "«Eorum» es el genitivo plural masculino/neutro de «is, ea, id»: «de ellos». Funciona como posesivo no reflexivo plural: «su padre» [de ellos]."
+    },
+    {
+      "type": "gap",
+      "text": "Maria filios ___ amat (María ama a sus propios hijos).",
+      "options": ["eorum", "suos", "eius"],
+      "answer": "suos",
+      "explanation": "Los hijos son del propio sujeto («Maria»), por lo que se exige el posesivo reflexivo plural «suos», concordado con «filios»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "María ama a sus propios hijos",
+      "direction": "es-en",
+      "tiles": ["Maria", "amat", "filios", "suos", "eorum"],
+      "answer": "Maria amat filios suos",
+      "explanation": "El posesivo reflexivo plural «suos» concuerda con «filios» e indica que los hijos son de María, el sujeto. «Eorum» (de ellos) sería el distractor no reflexivo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se dice correctamente «María ve a su [propio] hermano»?",
+      "options": ["Maria videt fratrem eius.", "Maria videt fratrem suum.", "Maria videt fratre suum."],
+      "correct": 1,
+      "hint": "El hermano es de la propia María.",
+      "explanation": "Al ser el hermano de la propia María (el sujeto de la oración), se exige el posesivo reflexivo «suum», no el no reflexivo «eius» (que indicaría que el hermano es de otra persona)."
+    },
+    {
+      "type": "gap",
+      "text": "Video ___ in via (lo veo a él en el camino).",
+      "options": ["eum", "eam", "id"],
+      "answer": "eum",
+      "explanation": "«Eum» es el acusativo singular masculino del pronombre anafórico: «a él» / «lo». «Eam» es femenino e «id» es neutro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El padre de ellos está en casa",
+      "direction": "es-en",
+      "tiles": ["Pater", "eorum", "in", "domo", "est", "eius"],
+      "answer": "Pater eorum in domo est",
+      "explanation": "«Eorum» es el genitivo plural: «de ellos». «Eius» (singular, «de él») sería el distractor de número."
+    },
+    {
+      "type": "speak",
+      "text": "Pater eorum in domo est.",
+      "es": "El padre de ellos está en casa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "uxor", "es": "esposa" },
+        { "en": "maritus", "es": "esposo" },
+        { "en": "filius", "es": "hijo" },
+        { "en": "filia", "es": "hija" },
+        { "en": "domus", "es": "casa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta de «le digo la verdad [a ella]»?",
+      "options": ["Dico eam veritatem.", "Dico eius veritatem.", "Dico ei veritatem."],
+      "correct": 2,
+      "hint": "El destinatario exige dativo, no acusativo ni genitivo.",
+      "explanation": "El destinatario de la acción («a ella») exige el caso dativo: «ei». «Eam» es acusativo (objeto directo) y «eius» es genitivo (posesivo): ninguno marca el destinatario."
+    },
+    {
+      "type": "gap",
+      "text": "___ soror pecuniam habet (la hermana de ella tiene dinero).",
+      "options": ["Eius", "Suus", "Eam"],
+      "answer": "Eius",
+      "explanation": "Como la poseedora («ella») no es el sujeto gramatical de esta frase (el sujeto es «soror»), se usa el genitivo no reflexivo «eius»: «la hermana de ella»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Veo a ella en la casa",
+      "direction": "es-en",
+      "tiles": ["Video", "eam", "in", "domo", "eum", "ei"],
+      "answer": "Video eam in domo",
+      "explanation": "«Eam» es el acusativo singular femenino: «a ella». «Eum» es masculino y «ei» es dativo: ambos distractores de género y caso."
+    },
+    {
+      "type": "gap",
+      "text": "Maritus ___ librum legit (el esposo de ella lee el libro).",
+      "options": ["suus", "eius", "ei"],
+      "answer": "eius",
+      "explanation": "El esposo pertenece a otra persona distinta del sujeto gramatical de la posesión (no es reflexivo); se usa el genitivo no reflexivo «eius»: «el esposo de ella»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Su (de ellas) hermana tiene dinero",
+      "direction": "es-en",
+      "tiles": ["Soror", "earum", "pecuniam", "habet", "eorum", "suam"],
+      "answer": "Soror earum pecuniam habet",
+      "explanation": "«Earum» es el genitivo plural femenino: «de ellas». «Eorum» es masculino/neutro y «suam» sería el distractor reflexivo, incorrecto porque el poseedor no es el sujeto."
+    },
+    {
+      "type": "speak",
+      "text": "Dico ei veritatem.",
+      "es": "Le digo la verdad a ella."
+    }
+  ]
+}

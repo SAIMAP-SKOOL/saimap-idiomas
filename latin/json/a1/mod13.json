@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod13",
+  "module": 13,
+  "title": "Modus Imperativus",
+  "subtitle": "El Imperativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "amare", "es": "amar" },
+        { "en": "monere", "es": "advertir, aconsejar" },
+        { "en": "regere", "es": "regir, gobernar" },
+        { "en": "audire", "es": "oír, escuchar" },
+        { "en": "dicere", "es": "decir" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la prohibición correcta para «no pequéis» en plural?",
+      "options": ["Nolite peccare.", "Noli peccare.", "Non peccate."],
+      "correct": 0,
+      "hint": "La prohibición plural usa la forma plural de «nolle», no la partícula «non».",
+      "explanation": "La prohibición plural exige el imperativo plural de «nolle» («nolite») seguido del infinitivo de presente del verbo principal («peccare»). «Noli» es la forma singular y «non peccate» calca erróneamente la negación directa del imperativo, agramatical en latín clásico."
+    },
+    {
+      "type": "gap",
+      "text": "___, discipule!",
+      "options": ["audi", "audite", "audis"],
+      "answer": "audi",
+      "explanation": "El imperativo singular de «audire» (4ª conjugación) equivale al tema de presente puro: «audi». «Audite» es plural y «audis» es una forma de indicativo, no de imperativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Escucha la palabra de Dios",
+      "direction": "es-la",
+      "tiles": ["Audi", "verbum", "Dei", "Audite", "Audis"],
+      "answer": "Audi verbum Dei",
+      "explanation": "«Audi» es el imperativo singular de «audire». «Audite» es la forma plural y «audis» es indicativo, ambas incorrectas para un mandato a una sola persona."
+    },
+    {
+      "type": "speak",
+      "text": "Noli timere, Maria.",
+      "es": "No temas, María."
+    },
+    {
+      "type": "gap",
+      "text": "___ mihi veritatem.",
+      "options": ["dice", "dic", "dicis"],
+      "answer": "dic",
+      "explanation": "«Dicere» es uno de los cuatro verbos con imperativo singular apocopado: «dic» (no «dice», forma inexistente). «Dicis» es indicativo, no imperativo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el imperativo singular del verbo «facere»?",
+      "options": ["face", "facite", "fac"],
+      "correct": 2,
+      "hint": "Este verbo pertenece al cuarteto de imperativos truncados: dic, duc, fac, fer.",
+      "explanation": "«Facere» tiene el imperativo singular apocopado «fac» (pierde la vocal temática -e). «Face» es la forma inexistente sin apocopar y «facite» es la segunda persona del plural."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "ducere", "es": "guiar, conducir" },
+        { "en": "facere", "es": "hacer" },
+        { "en": "ferre", "es": "llevar, soportar" },
+        { "en": "nolle", "es": "no querer" },
+        { "en": "timere", "es": "temer" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Noli ___.",
+      "options": ["times", "time", "timere"],
+      "answer": "timere",
+      "explanation": "Tras «noli» (prohibición singular) se usa siempre el infinitivo de presente: «timere». «Times» y «time» son formas de indicativo e imperativo respectivamente, agramaticales tras «noli»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "No temas, discípulo",
+      "direction": "es-la",
+      "tiles": ["Noli", "timere", "discipule", "Nolite", "times"],
+      "answer": "Noli timere discipule",
+      "explanation": "«Noli» + infinitivo («timere») es la fórmula de prohibición singular. «Nolite» es la forma plural y «times» es un indicativo, agramatical tras «noli»."
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español la frase bíblica «Noli timere, Maria»:",
+      "options": ["No temas, María.", "No quieras temer, María.", "María no tiene miedo."],
+      "correct": 0,
+      "hint": "La traducción literal palabra por palabra suena forzada; busca la fórmula idiomática de prohibición en español.",
+      "explanation": "Aunque la traducción literal de «noli timere» es «no quieras temer», su correspondencia idiomática en español es la prohibición estándar «no temas». «María no tiene miedo» cambia el modo imperativo por una afirmación, lo cual no es fiel al original."
+    },
+    {
+      "type": "gap",
+      "text": "___ hoc, discipuli!",
+      "options": ["fac", "facite", "facitis"],
+      "answer": "facite",
+      "explanation": "El imperativo plural de «facere» añade «-te» al tema: «facite». «Fac» es la forma singular apocopada y «facitis» es una desinencia inexistente (calco del indicativo)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Trae ayuda, amigo",
+      "direction": "es-la",
+      "tiles": ["Fer", "auxilium", "amice", "Ferte", "fers"],
+      "answer": "Fer auxilium amice",
+      "explanation": "«Fer» es el imperativo singular apocopado de «ferre». «Ferte» es la forma plural y «fers» es indicativo, ambas incorrectas para un mandato a una sola persona."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "judicare", "es": "juzgar" },
+        { "en": "venire", "es": "venir" },
+        { "en": "ire", "es": "ir" },
+        { "en": "orare", "es": "orar, rogar" },
+        { "en": "laborare", "es": "trabajar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma de imperativo plural de «audire»?",
+      "options": ["auditeis", "audi", "audite"],
+      "correct": 2,
+      "hint": "La 4ª conjugación añade «-te» al tema de presente «audi-».",
+      "explanation": "El imperativo plural de la 4ª conjugación se forma añadiendo «-te» al tema de presente: «audite». «Auditeis» es una desinencia romance inexistente en latín, y «audi» es la forma singular."
+    },
+    {
+      "type": "gap",
+      "text": "Nolite ___.",
+      "options": ["judicate", "judicatis", "judicare"],
+      "answer": "judicare",
+      "explanation": "Tras «nolite» (prohibición plural) se usa el infinitivo de presente: «judicare». «Judicate» sería un imperativo (agramatical tras «nolite») y «judicatis» un indicativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "No juzguéis al pueblo",
+      "direction": "es-la",
+      "tiles": ["Nolite", "judicare", "populum", "Noli", "populus"],
+      "answer": "Nolite judicare populum",
+      "explanation": "«Nolite» + infinitivo («judicare») es la fórmula de prohibición plural; «populum» es el acusativo, objeto directo. «Noli» es singular y «populus» es nominativo, casos incorrectos aquí."
+    },
+    {
+      "type": "speak",
+      "text": "Dic mihi nomen tuum.",
+      "es": "Dime tu nombre."
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Dic mihi nomen tuum», ¿en qué modo y persona está «Dic»?",
+      "options": ["Indicativo, 3ª persona singular.", "Imperativo, 2ª persona singular.", "Subjuntivo, 2ª persona singular."],
+      "correct": 1,
+      "hint": "Es una de las cuatro formas de imperativo apocopadas: dic, duc, fac, fer.",
+      "explanation": "«Dic» es la segunda persona singular del imperativo de presente de «dicere» (apocopado, pierde la -e final). No es indicativo (no tiene desinencia de 3ª persona) ni subjuntivo (ese modo no forma «dic»)."
+    },
+    {
+      "type": "gap",
+      "text": "___, populus Dei!",
+      "options": ["surge", "surgite", "surgitis"],
+      "answer": "surgite",
+      "explanation": "El mandato a un colectivo («pueblo») exige el imperativo plural: «surgite». «Surge» es singular y «surgitis» es una desinencia de indicativo, no de imperativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Levantaos, pueblo de Dios",
+      "direction": "es-la",
+      "tiles": ["Surgite", "populus", "Dei", "Surge", "populum"],
+      "answer": "Surgite populus Dei",
+      "explanation": "«Surgite» es el imperativo plural (mandato al pueblo como colectivo) y «Dei» es el genitivo de «deus». «Surge» es singular y «populum» sería acusativo, caso incorrecto para el vocativo de dirección."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "manere", "es": "permanecer, quedarse" },
+        { "en": "surgere", "es": "levantarse" },
+        { "en": "mittere", "es": "enviar" },
+        { "en": "parare", "es": "preparar" },
+        { "en": "pax", "es": "paz" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estas formas de imperativo singular NO está apocopada (truncada)?",
+      "options": ["dic", "audi", "fac"],
+      "correct": 1,
+      "hint": "Solo cuatro verbos pierden la vocal temática final en el imperativo singular: dic, duc, fac, fer.",
+      "explanation": "«Audi» conserva su vocal temática completa, como corresponde a la regla general del imperativo (tema de presente puro). «Dic» y «fac» pertenecen al cuarteto de verbos truncados que pierden la -e final."
+    },
+    {
+      "type": "gap",
+      "text": "___ in pace.",
+      "options": ["mane", "manete", "manes"],
+      "answer": "mane",
+      "explanation": "El mandato a una sola persona exige el imperativo singular: «mane» (permanece). «Manete» es plural y «manes» es una forma de indicativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ora y trabaja",
+      "direction": "es-la",
+      "tiles": ["Ora", "et", "labora", "Orate", "laborate"],
+      "answer": "Ora et labora",
+      "explanation": "«Ora» y «labora» son imperativos singulares de «orare» y «laborare» unidos por la conjunción «et». «Orate» y «laborate» son las formas plurales, incorrectas para un mandato a una sola persona."
+    },
+    {
+      "type": "speak",
+      "text": "Surgite et laborate.",
+      "es": "Levantaos y trabajad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la prohibición correcta para «no temas» en singular?",
+      "options": ["Noli times.", "Non time.", "Noli timere."],
+      "correct": 2,
+      "hint": "Tras «noli» siempre va el infinitivo de presente, nunca un imperativo o la partícula «non».",
+      "explanation": "La fórmula correcta es «noli» + infinitivo: «Noli timere». «Noli times» combina erróneamente «noli» con un indicativo, y «non time» calca la negación directa del imperativo, agramatical en latín clásico."
+    },
+    {
+      "type": "gap",
+      "text": "___ pacem, Domine.",
+      "options": ["mitte", "mittite", "mittis"],
+      "answer": "mitte",
+      "explanation": "El mandato dirigido a una sola persona (el Señor) exige el imperativo singular de «mittere»: «mitte». «Mittite» es plural y «mittis» es indicativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Envía la paz, Señor",
+      "direction": "es-la",
+      "tiles": ["Mitte", "pacem", "Domine", "Mittite", "pax"],
+      "answer": "Mitte pacem Domine",
+      "explanation": "«Mitte» es el imperativo singular y «pacem» el acusativo de «pax» (objeto directo). «Mittite» es la forma plural y «pax» es nominativo, caso incorrecto para el objeto directo."
+    },
+    {
+      "type": "speak",
+      "text": "Credite in Deum.",
+      "es": "Creed en Dios."
+    }
+  ]
+}

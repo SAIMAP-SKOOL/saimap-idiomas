@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod05",
+  "module": 5,
+  "title": "Verbum Sum",
+  "subtitle": "El Verbo Sum (Ser/Estar)",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "sum", "es": "yo soy / estoy" },
+        { "en": "es", "es": "tú eres / estás" },
+        { "en": "est", "es": "él es / está" },
+        { "en": "sumus", "es": "nosotros somos / estamos" },
+        { "en": "sunt", "es": "ellos son / están" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En «Discipuli in schola erant», ¿qué función tiene el verbo erant?",
+      "options": ["Copulativa; se traduce como «ellos son»", "Existencial / locativa; se traduce como «ellos estaban»", "Pasiva; expresa una acción sufrida por el sujeto"],
+      "correct": 1,
+      "hint": "Busca si hay algún atributo en nominativo junto al sujeto, o si en su lugar aparece un complemento de lugar.",
+      "explanation": "«Erant» no une «discipuli» a ningún atributo nominativo; va acompañado de un complemento de lugar («in schola»). Por eso funciona como existencial/locativo y se traduce en pasado: «estaban». La opción copulativa además yerra el tiempo (presente en vez de pasado), y «sum» nunca es un verbo pasivo."
+    },
+    {
+      "type": "gap",
+      "text": "Ego ___ discipulus.",
+      "options": ["sum", "es", "est"],
+      "answer": "sum",
+      "explanation": "La 1ª persona singular del presente de «sum» es «sum» (yo soy). «es» es 2ª persona y «est» 3ª, personas que no concuerdan con «ego»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo soy discípulo",
+      "direction": "es-la",
+      "tiles": ["Ego", "sum", "discipulus", "es"],
+      "answer": "Ego sum discipulus",
+      "explanation": "«Sum» es la 1ª persona singular del presente de «sum» («yo soy»). «Es» es la 2ª persona («tú eres»), que no concuerda con el sujeto «ego»."
+    },
+    {
+      "type": "speak",
+      "text": "Roma est magna.",
+      "es": "Roma es grande."
+    },
+    {
+      "type": "gap",
+      "text": "Nos ___ in templo.",
+      "options": ["sumus", "estis", "sunt"],
+      "answer": "sumus",
+      "explanation": "La 1ª persona plural del presente de «sum» es «sumus» (nosotros estamos). «estis» es 2ª persona plural y «sunt» 3ª, personas que no concuerdan con «nos»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué forma completa correctamente «Regina et filia ___ sunt»?",
+      "options": ["pulchri", "pulchra", "pulchrae"],
+      "correct": 2,
+      "hint": "Dos sujetos femeninos unidos por «et» forman un sujeto compuesto: ¿en qué género y número debe ir el atributo?",
+      "explanation": "«Regina» y «filia», ambos femeninos, forman un sujeto compuesto femenino plural: el atributo debe ir en nominativo femenino plural, «pulchrae». «pulchri» aplica género masculino y «pulchra» deja el atributo en singular, sin concordar en número con el sujeto compuesto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "eram", "es": "yo era / estaba" },
+        { "en": "erat", "es": "él era / estaba" },
+        { "en": "erit", "es": "él será / estará" },
+        { "en": "deus", "es": "Dios" },
+        { "en": "dominus", "es": "señor / dueño" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Discipuli ___ laeti.",
+      "options": ["erat", "erant", "erit"],
+      "answer": "erant",
+      "explanation": "El sujeto «discipuli» es nominativo plural, así que exige el verbo en 3ª persona plural del imperfecto: «erant». «erat» es singular (error de concordancia de número) y «erit» es futuro, no pasado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros estamos en el templo",
+      "direction": "es-la",
+      "tiles": ["Nos", "sumus", "in", "templo", "estis"],
+      "answer": "Nos sumus in templo",
+      "explanation": "«Sumus» es la 1ª persona plural de «sum» («nosotros estamos»). «Estis» es la 2ª persona plural («vosotros estáis»), que no concuerda con «nos»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la traducción exacta de «Non erit amicus semper laetus»?",
+      "options": ["El amigo no estaba siempre alegre", "El amigo no será siempre alegre", "Los amigos no serán siempre alegres"],
+      "correct": 1,
+      "hint": "«Erit» es 3ª persona singular: fíjate en qué tiempo (pasado o futuro) y en qué número (singular o plural).",
+      "explanation": "«Erit» es futuro imperfecto, 3ª persona singular: «será/estará». El sujeto «amicus» es singular. La primera opción confunde el futuro con el imperfecto (pasado) y la tercera pluraliza indebidamente un sujeto singular."
+    },
+    {
+      "type": "gap",
+      "text": "Non ___ amicus semper laetus.",
+      "options": ["erit", "erat", "est"],
+      "answer": "erit",
+      "explanation": "«Erit» es futuro imperfecto, 3ª persona singular: «el amigo no será siempre alegre». «erat» es pasado y «est» presente, tiempos que no corresponden a esta afirmación sobre el porvenir."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los discípulos estaban alegres",
+      "direction": "es-la",
+      "tiles": ["Discipuli", "erant", "laeti", "erat"],
+      "answer": "Discipuli erant laeti",
+      "explanation": "«Discipuli» es nominativo plural y exige el verbo en 3ª persona plural: «erant». «Erat» (singular) es el error de concordancia de número más frecuente en este tipo de frase."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "ecclesia", "es": "iglesia / asamblea" },
+        { "en": "terra", "es": "tierra" },
+        { "en": "caelum", "es": "cielo" },
+        { "en": "vita", "es": "vida" },
+        { "en": "via", "es": "camino / vía" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué la forma eram presenta una «r» en lugar de la «s» que se observa en est y estis?",
+      "options": ["Por analogía con la tercera declinación", "Debido al fenómeno fonético del rotacismo intervocálico", "Por ser una desinencia exclusiva del modo subjuntivo"],
+      "correct": 1,
+      "hint": "Piensa en qué le pasa a la «s» cuando queda entre dos vocales, no en la categoría gramatical de la palabra.",
+      "explanation": "«Eram» proviene de «*es-am»: al quedar la «s» entre dos vocales, rotacizó en «r». No es una desinencia de subjuntivo (aunque su forma se parezca, «eram» es indicativo) ni tiene relación con la declinación nominal, categoría que no aplica a un verbo."
+    },
+    {
+      "type": "gap",
+      "text": "Regina est pulchr___.",
+      "options": ["a", "us", "ae"],
+      "answer": "a",
+      "explanation": "«Regina» es femenino: el atributo con «est» debe concordar en femenino singular, «pulchra». «us» daría masculino y «ae» genitivo/dativo singular o nominativo plural, casos que no corresponden aquí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El amigo no será siempre alegre",
+      "direction": "es-la",
+      "tiles": ["Non", "erit", "amicus", "semper", "laetus", "erat"],
+      "answer": "Non erit amicus semper laetus",
+      "explanation": "«Erit» (futuro) expresa «será». «Erat» (imperfecto, «era/estaba») es el error típico de confundir el futuro con el pasado, ambos formados sobre la raíz rotacizada «er-»."
+    },
+    {
+      "type": "speak",
+      "text": "Roma est in Italia.",
+      "es": "Roma está en Italia."
+    },
+    {
+      "type": "quiz",
+      "q": "En «Veritas lux mundi est», ¿en qué caso está el sustantivo lux?",
+      "options": ["Acusativo singular, porque actúa como complemento directo", "Genitivo singular, porque indica posesión", "Nominativo singular, porque funciona como predicado nominal de veritas"],
+      "correct": 2,
+      "hint": "«Sum» nunca rige acusativo: busca qué palabra concuerda en caso con el sujeto «veritas».",
+      "explanation": "«Sum» no puede regir un objeto directo (nunca lleva acusativo). «Lux» concuerda en caso nominativo con el sujeto «veritas», funcionando como su predicado nominal. El genitivo de posesión en esta frase lo ocupa «mundi» («del mundo»), no «lux»."
+    },
+    {
+      "type": "gap",
+      "text": "Templa sunt sacr___.",
+      "options": ["a", "os", "us"],
+      "answer": "a",
+      "explanation": "«Templa» es neutro plural: el atributo debe concordar también en neutro plural, «-a» (sacra). «os» es la desinencia masculina (error del error table) y «us» masculino singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reina es hermosa",
+      "direction": "es-la",
+      "tiles": ["Regina", "est", "pulchra", "pulcher"],
+      "answer": "Regina est pulchra",
+      "explanation": "«Regina» es femenino y el atributo con «est» concuerda en femenino: «pulchra». «Pulcher» es la forma de nominativo masculino singular sin declinar, que no concuerda con «regina»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "veritas", "es": "verdad" },
+        { "en": "lux", "es": "luz" },
+        { "en": "mundus", "es": "mundo" },
+        { "en": "pater", "es": "padre" },
+        { "en": "filius", "es": "hijo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué «Templa sunt sacros» es incorrecto?",
+      "options": ["Porque el atributo debe concordar en género y número con el sujeto neutro plural «templa», y su desinencia correcta es «-a» (sacra), no la masculina «-os»", "Porque «sacros» está en caso genitivo y el atributo de sum exige nominativo", "Porque «templa» es en realidad singular y no admite un atributo plural"],
+      "correct": 0,
+      "hint": "«Templa» es neutro plural: repasa la regla del neutro para nominativo/vocativo/acusativo plural.",
+      "explanation": "El atributo de «sum» debe concordar en género y número con el sujeto: «templa» es neutro plural, así que exige «-a» (sacra), no la desinencia masculina «-os». «Sacros» no está en genitivo (esa desinencia sería «-orum») y «templa» sí es plural, no singular."
+    },
+    {
+      "type": "gap",
+      "text": "Deus ___ in caelo.",
+      "options": ["est", "sunt", "sum"],
+      "answer": "est",
+      "explanation": "«Deus» (singular) exige la 3ª persona singular «est», usada aquí como verbo existencial/locativo («Dios está en el cielo»). «sunt» es plural y «sum» es 1ª persona, personas que no concuerdan con «deus»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los templos son sagrados",
+      "direction": "es-la",
+      "tiles": ["Templa", "sunt", "sacra", "sacros"],
+      "answer": "Templa sunt sacra",
+      "explanation": "«Templa» es neutro plural y el atributo concuerda también en neutro plural: «sacra». «Sacros» (masculino plural) es el error de concordancia recogido en la tabla de errores comunes del módulo."
+    },
+    {
+      "type": "speak",
+      "text": "Deus est.",
+      "es": "Dios existe."
+    },
+    {
+      "type": "quiz",
+      "q": "En la sentencia clásica «Vita brevis» (sin verbo expreso), ¿qué se sobreentiende?",
+      "options": ["Que el verbo «est» está implícito: la yuxtaposición de dos nominativos («vita», «brevis») ya expresa la cópula", "Que la frase está gramaticalmente incompleta y le falta un objeto directo", "Que «brevis» funciona como sujeto y «vita» como su complemento del nombre"],
+      "correct": 0,
+      "hint": "En la prosa clásica y eclesiástica, la 3ª persona de «sum» se omite con mucha frecuencia: ¿qué verbo falta aquí?",
+      "explanation": "En latín es muy frecuente elidir la 3ª persona de «sum»: la simple yuxtaposición de dos nominativos («vita», «brevis») ya implica la cópula «est». No falta un objeto directo (sum nunca lo lleva) y «vita» sigue siendo el sujeto, no un complemento del nombre."
+    },
+    {
+      "type": "gap",
+      "text": "Roma ___ magna.",
+      "options": ["est", "sunt", "erant"],
+      "answer": "est",
+      "explanation": "«Roma» (singular) exige «est» en uso copulativo: «Roma es grande», el adjetivo «magna» concuerda directamente con el sujeto. «sunt» es plural y «erant» pasado plural, formas que no corresponden."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dios está en el cielo",
+      "direction": "es-la",
+      "tiles": ["Deus", "est", "in", "caelo", "sunt"],
+      "answer": "Deus est in caelo",
+      "explanation": "«Deus» (singular) exige «est». «Sunt» es plural y no concuerda con el sujeto singular «deus»; además, aquí «est» es existencial/locativo, no copulativo, porque le sigue un complemento de lugar («in caelo»), no un atributo."
+    },
+    {
+      "type": "speak",
+      "text": "Vita brevis.",
+      "es": "La vida es breve."
+    }
+  ]
+}

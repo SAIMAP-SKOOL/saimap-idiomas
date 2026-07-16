@@ -1,0 +1,252 @@
+{
+  "id": "a1-mod25",
+  "module": 25,
+  "title": "Consolidatio Gradus A1",
+  "subtitle": "Repaso y Cierre de Nivel",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "deus", "es": "Dios" },
+        { "en": "dominus", "es": "señor" },
+        { "en": "pater", "es": "padre" },
+        { "en": "mater", "es": "madre" },
+        { "en": "rex", "es": "rey" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce: «Deus dat vitam hominibus qui in terra habitant».",
+      "options": [
+        "Los hombres que habitan en la tierra dan la vida a Dios.",
+        "Dios da la vida a los hombres que habitan en la tierra.",
+        "Dios da la vida de los hombres que habitan en la tierra."
+      ],
+      "correct": 1,
+      "hint": "Localiza primero el sujeto (nominativo) y el objeto directo (acusativo) antes de traducir la subordinada.",
+      "explanation": "«Deus» es el sujeto (nominativo), «dat» el verbo, «vitam» el objeto directo en acusativo («la vida», no «de la vida») y «hominibus» el objeto indirecto en dativo («a los hombres»); «qui... habitant» es la subordinada de relativo."
+    },
+    {
+      "type": "gap",
+      "text": "___ dat legem populo. (Dios da la ley al pueblo — sujeto en nominativo)",
+      "options": ["Deus", "Deum", "Deo"],
+      "answer": "Deus",
+      "explanation": "El sujeto de la oración va en nominativo: «Deus». «Deum» es acusativo (objeto directo) y «Deo» es dativo (objeto indirecto), casos que ya ocupan «legem» y «populo»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dios da la paz a los ciudadanos",
+      "direction": "es-la",
+      "tiles": ["Deus", "dat", "pacem", "civibus", "pax", "civium"],
+      "answer": "Deus dat pacem civibus",
+      "explanation": "«Pacem» (objeto directo, acusativo) y «civibus» (objeto indirecto, dativo plural) son los casos exigidos; «pax» (nominativo) y «civium» (genitivo plural) romperían la estructura."
+    },
+    {
+      "type": "speak",
+      "text": "Deus est dominus.",
+      "es": "Dios es el señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el genitivo plural del sustantivo neutro «corpus, corporis»?",
+      "options": ["corporium", "corporis", "corporum"],
+      "correct": 2,
+      "hint": "«Corpus» es un neutro imparisílabo en consonante: no lleva el incremento «-i-» de los temas en «-i».",
+      "explanation": "Al ser un neutro imparisílabo regular, el genitivo plural se forma con «-um»: «corporum». «Corporium» confunde este sustantivo con los temas en «-i», y «corporis» es el genitivo singular."
+    },
+    {
+      "type": "gap",
+      "text": "___, audi orationem meam! (¡Señor, escucha mi oración! — vocativo de apelación)",
+      "options": ["Domine", "Dominus", "Dominum"],
+      "answer": "Domine",
+      "explanation": "El vocativo de apelación directa de los sustantivos de la 2ª declinación en «-us» cambia a «-e»: «Domine». «Dominus» es el nominativo y «Dominum» el acusativo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "lex", "es": "ley" },
+        { "en": "lux", "es": "luz" },
+        { "en": "pax", "es": "paz" },
+        { "en": "verbum", "es": "palabra" },
+        { "en": "nomen", "es": "nombre" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rey ama la luz y la vida",
+      "direction": "es-la",
+      "tiles": ["Rex", "amat", "lucem", "et", "vitam", "lux", "vita"],
+      "answer": "Rex amat lucem et vitam",
+      "explanation": "Los dos objetos directos coordinados van en acusativo: «lucem» y «vitam»; «lux» y «vita» son sus formas de nominativo, incorrectas como complemento directo."
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Iesus vocavit illum discipulum fidelem», ¿qué función y caso tiene «fidelem»?",
+      "options": [
+        "Acusativo singular masculino, adjetivo concordante con el objeto directo.",
+        "Acusativo singular masculino, adjetivo predicativo del sujeto.",
+        "Vocativo singular masculino."
+      ],
+      "correct": 0,
+      "hint": "«Fidelem» no añade una acción nueva: describe a «discipulum», que ya es el objeto directo del verbo.",
+      "explanation": "El adjetivo de la 3ª declinación «fidelis» concuerda en caso (acusativo), género (masculino) y número (singular) con «discipulum», el objeto directo de «vocavit»; no es predicativo del sujeto ni un vocativo, pues no hay apelación directa en la frase."
+    },
+    {
+      "type": "gap",
+      "text": "Rex amat ___. (el rey ama la paz — objeto directo sin preposición)",
+      "options": ["pax", "pacem", "pacis"],
+      "answer": "pacem",
+      "explanation": "El objeto directo sin preposición va en acusativo: «pacem». «Pax» es el nominativo (sujeto) y «pacis» el genitivo (posesión), ninguno válido como complemento directo."
+    },
+    {
+      "type": "speak",
+      "text": "Civis in urbe habitat.",
+      "es": "El ciudadano habita en la ciudad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros vemos el cuerpo del rey",
+      "direction": "es-la",
+      "tiles": ["Videmus", "corpus", "regis", "regem", "rex"],
+      "answer": "Videmus corpus regis",
+      "explanation": "«Regis» expresa la posesión (genitivo: del rey); «regem» es acusativo y «rex» nominativo, casos que no indican pertenencia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma de 2ª persona del plural del futuro imperfecto de indicativo de «amare»?",
+      "options": ["amabatis", "amabitis", "amabant"],
+      "correct": 1,
+      "hint": "El futuro de la 1ª conjugación usa la característica temporal «-bi-»; no lo confundas con el imperfecto «-ba-» ni con una 3ª persona.",
+      "explanation": "El futuro imperfecto de las conjugaciones 1ª y 2ª se forma con «-bi-»: «amabitis» (amaréis). «Amabatis» es el imperfecto (amabais) y «amabant» es la 3ª persona del plural del futuro (amarán), no la 2ª."
+    },
+    {
+      "type": "gap",
+      "text": "Populus venit in ___. (el pueblo viene a la ciudad — dirección con «in»)",
+      "options": ["urbe", "urbem", "urbis"],
+      "answer": "urbem",
+      "explanation": "La preposición «in» con idea de movimiento o dirección rige acusativo: «urbem». «Urbe» (ablativo) expresaría lugar en donde, no hacia donde, y «urbis» es el genitivo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "corpus", "es": "cuerpo" },
+        { "en": "tempus", "es": "tiempo" },
+        { "en": "civis", "es": "ciudadano" },
+        { "en": "urbs", "es": "ciudad" },
+        { "en": "vita", "es": "vida" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El padre y la madre son fuertes",
+      "direction": "es-la",
+      "tiles": ["Pater", "et", "mater", "fortes", "sunt", "forte", "fortis"],
+      "answer": "Pater et mater fortes sunt",
+      "explanation": "El adjetivo «fortis» debe concordar en plural con el sujeto compuesto: «fortes». «Forte» es la forma neutra singular y «fortis» la forma singular, ninguna válida aquí."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la concordancia correcta para «el valiente agricultor» en caso ablativo singular?",
+      "options": ["agricola forti", "agricolae forti", "agricola forte"],
+      "correct": 0,
+      "hint": "«Agricola» es de la 1ª declinación pero de género masculino; el adjetivo «fortis» es de la 3ª y tiene una única forma para masculino y femenino en ablativo.",
+      "explanation": "«Agricola» hace el ablativo singular en «-a» y el adjetivo de la 2ª clase «fortis» lo hace en «-i» («forti»): ambos concuerdan en masculino singular ablativo. «Agricolae» sería genitivo/dativo singular o nominativo plural, y «forte» es la forma neutra."
+    },
+    {
+      "type": "gap",
+      "text": "Lex ___ bona est. (la ley del rey es buena — genitivo de posesión)",
+      "options": ["rex", "regem", "regis"],
+      "answer": "regis",
+      "explanation": "El complemento del nombre que indica posesión va en genitivo: «regis» (del rey). «Rex» es nominativo y «regem» acusativo, casos que no expresan pertenencia."
+    },
+    {
+      "type": "speak",
+      "text": "Hic liber bonus est.",
+      "es": "Este libro es bueno."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Este libro es bueno para todos",
+      "direction": "es-la",
+      "tiles": ["Hic", "liber", "omnibus", "bonus", "est", "omnes", "omnium"],
+      "answer": "Hic liber omnibus bonus est",
+      "explanation": "«Omnibus» (dativo plural: para todos) es el destinatario de la cualidad expresada; «omnes» (nominativo/acusativo plural) y «omnium» (genitivo plural) no cumplen esa función."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué es incorrecta la frase «Video agricolam bonam»?",
+      "options": [
+        "Porque «agricolam» debería llevar el verbo en voz pasiva.",
+        "Porque «agricola» es masculino, así que el adjetivo debe concordar en «bonum», no en «bonam».",
+        "Porque el acusativo de «agricola» es «agricolum», no «agricolam»."
+      ],
+      "correct": 1,
+      "hint": "El género gramatical de «agricola» no coincide con su declinación: es masculino aunque termine en «-a».",
+      "explanation": "«Agricola» es un sustantivo masculino de la 1ª declinación; el adjetivo debe concordar en género real (masculino: «bonum»), no en la terminación morfológica «-a». «Agricolam» es el acusativo correcto de «agricola»."
+    },
+    {
+      "type": "gap",
+      "text": "Dicit verba ___. (dice palabras al padre — objeto indirecto sin preposición)",
+      "options": ["patri", "patrem", "patris"],
+      "answer": "patri",
+      "explanation": "El destinatario de la acción se marca con dativo sin preposición: «patri» (al padre). «Patrem» sería el error de usar acusativo por calco de la preposición española «a», y «patris» es un genitivo incorrecto aquí."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "terra", "es": "tierra" },
+        { "en": "caelum", "es": "cielo" },
+        { "en": "liber", "es": "libro" },
+        { "en": "fortis", "es": "fuerte / valiente" },
+        { "en": "omnis", "es": "todo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El que ve la luz, oye la ley",
+      "direction": "es-la",
+      "tiles": ["Qui", "lucem", "videt", "legem", "audit", "quae", "quem"],
+      "answer": "Qui lucem videt, legem audit",
+      "explanation": "«Qui» es el sujeto de la subordinada (nominativo masculino); «quae» sería femenino y «quem» acusativo, casos que no corresponden a la función de sujeto que aquí desempeña el relativo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la estructura latina correcta para «Tengo un libro»?",
+      "options": ["Mihi est liber.", "Ego sum liber.", "Possum liber."],
+      "correct": 0,
+      "hint": "El latín expresa la posesión con el verbo «sum» y un dativo, no con un verbo equivalente a «tener».",
+      "explanation": "La estructura ordinaria de posesión en latín es el dativo posesivo: «mihi est liber» («a mí me es [hay] un libro» = tengo un libro). «Ego sum liber» confundiría «tener» con «ser» («yo soy un libro») y «possum liber» no es gramatical, pues «possum» significa «poder», no «tener»."
+    },
+    {
+      "type": "gap",
+      "text": "In ___ tempore Deus loquitur. (en este tiempo Dios habla — ablativo neutro concordando con «tempore»)",
+      "options": ["hoc", "hunc", "huius"],
+      "answer": "hoc",
+      "explanation": "«Tempore» es ablativo neutro singular; el demostrativo «hic, haec, hoc» concuerda en el mismo caso, género y número con la forma «hoc». «Hunc» es acusativo masculino y «huius» genitivo, formas que no concuerdan con «tempore»."
+    },
+    {
+      "type": "speak",
+      "text": "Iesus vocavit illum discipulum fidelem.",
+      "es": "Jesús llamó a aquel discípulo fiel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Podemos oír la palabra de Dios",
+      "direction": "es-la",
+      "tiles": ["Possumus", "audire", "verbum", "Dei", "possunt", "Deo"],
+      "answer": "Possumus audire verbum Dei",
+      "explanation": "«Possumus» es la 1ª persona del plural (nosotros podemos) y «Dei» el genitivo (de Dios); «possunt» es la 3ª persona del plural y «Deo» un dativo/ablativo incorrecto aquí."
+    },
+    {
+      "type": "gap",
+      "text": "Liber ___ lego magnus est. (el libro que leo es grande — el caso del relativo lo decide su función en la subordinada)",
+      "options": ["qui", "quem", "cuius"],
+      "answer": "quem",
+      "explanation": "El caso del pronombre relativo depende de su función dentro de la subordinada, no del caso de su antecedente: aquí «quem» es objeto directo de «lego» (acusativo), aunque «liber» sea nominativo. «Qui» sería nominativo (sujeto) y «cuius» genitivo."
+    }
+  ]
+}

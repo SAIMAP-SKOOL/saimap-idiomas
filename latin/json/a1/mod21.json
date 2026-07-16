@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod21",
+  "module": 21,
+  "title": "Casus Vocativus",
+  "subtitle": "Caso Vocativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "domine", "es": "señor" },
+        { "en": "fili", "es": "hijo" },
+        { "en": "amice", "es": "amigo" },
+        { "en": "deus", "es": "dios" },
+        { "en": "pater", "es": "padre" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el vocativo singular de «filius» (hijo)?",
+      "options": ["fili", "filius", "filie"],
+      "correct": 0,
+      "hint": "Los sustantivos en «-ius» contraen la desinencia vocativa: no añaden «-e» como los demás en «-us».",
+      "explanation": "El vocativo singular de «filius» se forma por contracción en «-i»: «fili». «Filius» es el nominativo y «filie» es un error, pues la desinencia «-ie» se contrae siempre en «-i»."
+    },
+    {
+      "type": "gap",
+      "text": "Audi, ___! (llamando directamente a Marcos)",
+      "options": ["Marcus", "Marce", "Marci"],
+      "answer": "Marce",
+      "explanation": "El vocativo singular de «Marcus» es «Marce»: los nombres en «-us» de la segunda declinación sustituyen esa terminación por «-e» al apelar directamente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¡Escucha, Marcos!",
+      "direction": "es-la",
+      "tiles": ["Audi", "Marce", "Marcus", "Marci"],
+      "answer": "Audi, Marce",
+      "explanation": "Al apelar directamente a Marcos se usa el vocativo «Marce», no el nominativo «Marcus» ni el genitivo «Marci»."
+    },
+    {
+      "type": "speak",
+      "text": "Audi, Domine!",
+      "es": "¡Escucha, Señor!"
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Domine, exaudi orationem meam», ¿en qué caso está «Domine»?",
+      "options": ["Nominativo", "Vocativo", "Acusativo"],
+      "correct": 1,
+      "hint": "Fíjate en que la frase es una apelación directa: se está llamando a alguien.",
+      "explanation": "«Domine» es una apelación directa («¡Señor, escucha!»), función propia del caso Vocativo. El nominativo sería «Dominus» y el acusativo «Dominum», ninguno de los cuales encaja aquí."
+    },
+    {
+      "type": "gap",
+      "text": "Veni, ___! (llamando directamente al hijo)",
+      "options": ["filius", "filie", "fili"],
+      "answer": "fili",
+      "explanation": "«Filius» y los nombres en «-ius» contraen el vocativo singular en «-i»: «fili», nunca «filie» ni el nominativo «filius»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "mater", "es": "madre" },
+        { "en": "frater", "es": "hermano" },
+        { "en": "soror", "es": "hermana" },
+        { "en": "magister", "es": "maestro" },
+        { "en": "discipule", "es": "discípulo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¡Ven, hijo!",
+      "direction": "es-la",
+      "tiles": ["Veni", "fili", "filius", "filie"],
+      "answer": "Veni, fili",
+      "explanation": "Al apelar directamente al hijo se usa el vocativo contracto «fili», no el nominativo «filius» ni la forma incorrecta «filie»."
+    },
+    {
+      "type": "gap",
+      "text": "___, exaudi orationem meam. (apelación al Señor)",
+      "options": ["Dominus", "Domine", "Domini"],
+      "answer": "Domine",
+      "explanation": "Al dirigirse directamente al Señor se usa el vocativo «Domine», formado sustituyendo «-us» por «-e»; «Dominus» es nominativo y «Domini» genitivo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el vocativo singular de «Marcus» y del adjetivo «bonus» juntos?",
+      "options": ["Marcus bonus", "Marci boni", "Marce bone"],
+      "correct": 2,
+      "hint": "Ambas palabras son masculinas singulares de la segunda declinación en «-us»: deben concordar en el mismo caso.",
+      "explanation": "Tanto el nombre como el adjetivo son masculinos singulares en «-us», por lo que ambos forman el vocativo en «-e»: «Marce bone». «Marcus bonus» es el nominativo y «Marci boni» sería genitivo."
+    },
+    {
+      "type": "speak",
+      "text": "Veni, fili!",
+      "es": "¡Ven, hijo!"
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Señor, escucha mi oración",
+      "direction": "es-la",
+      "tiles": ["Domine", "exaudi", "orationem", "meam", "Dominus", "meum"],
+      "answer": "Domine, exaudi orationem meam",
+      "explanation": "«Domine» es el vocativo de apelación; «orationem» va en acusativo por ser objeto directo de «exaudi» y «meam» concuerda con él, no con la forma masculina «meum»."
+    },
+    {
+      "type": "gap",
+      "text": "___ Christe, miserere nobis. (apelación a Jesús)",
+      "options": ["Iesus", "Iesu", "Iesum"],
+      "answer": "Iesu",
+      "explanation": "El nombre sagrado «Iesus» tiene un vocativo singular irregular en «-u»: «Iesu Christe»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "rex", "es": "rey" },
+        { "en": "regina", "es": "reina" },
+        { "en": "miles", "es": "soldado" },
+        { "en": "civis", "es": "ciudadano" },
+        { "en": "salvator", "es": "salvador" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Ora pro nobis, ___! (apelación a Dios)",
+      "options": ["Deus", "Dee", "Deum"],
+      "answer": "Deus",
+      "explanation": "«Deus» es una excepción sagrada: mantiene la forma de nominativo también en vocativo singular, a diferencia del resto de sustantivos en «-us»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dios mío, en ti espero",
+      "direction": "es-la",
+      "tiles": ["Mi", "Deus", "in", "te", "spero", "Meus", "Deum"],
+      "answer": "Mi Deus, in te spero",
+      "explanation": "«Mi» es el vocativo irregular del posesivo «meus» y acompaña al vocativo «Deus» (que no cambia de forma); «Meus» y «Deum» son formas incorrectas para esta apelación."
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español: «Mi Deus, in te spero».",
+      "options": ["Mi Dios, en ti espero.", "Dios es mi esperanza.", "Yo espero por Dios."],
+      "correct": 0,
+      "hint": "«Mi» es el vocativo irregular del posesivo «meus» y acompaña a un vocativo.",
+      "explanation": "«Mi Deus» es la fórmula vocativa «Dios mío», con «mi» como vocativo irregular de «meus»; «in te spero» significa «en ti espero». Las otras opciones cambian el sentido de la apelación."
+    },
+    {
+      "type": "gap",
+      "text": "Salve, ___! (saludando a tu maestro)",
+      "options": ["magister", "magistre", "magistri"],
+      "answer": "magister",
+      "explanation": "«Magister» pertenece al grupo de sustantivos en «-er» de la segunda declinación, que no cambian de forma entre nominativo y vocativo, igual que «pater» en la tercera declinación."
+    },
+    {
+      "type": "speak",
+      "text": "Mi Deus, in te spero.",
+      "es": "Dios mío, en ti espero."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "bone", "es": "bueno" },
+        { "en": "nauta", "es": "marinero" },
+        { "en": "poeta", "es": "poeta" },
+        { "en": "pastor", "es": "pastor" },
+        { "en": "iesu", "es": "jesús" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ruega por nosotros, Jesús",
+      "direction": "es-la",
+      "tiles": ["Ora", "pro", "nobis", "Iesu", "Iesus", "Iesum"],
+      "answer": "Ora pro nobis, Iesu",
+      "explanation": "El nombre sagrado «Iesus» forma el vocativo singular en «-u»: «Iesu». «Iesus» es nominativo e «Iesum» acusativo, ninguno válido para apelar."
+    },
+    {
+      "type": "quiz",
+      "q": "Para llamar a Marcos con la orden «¡Escucha!», ¿cuál es la forma correcta?",
+      "options": ["Audi, Marcus!", "Audi, Marci!", "Audi, Marce!"],
+      "correct": 2,
+      "hint": "El error más común es usar la desinencia de nominativo «-us» en vez de la de vocativo.",
+      "explanation": "El vocativo singular de «Marcus» es «Marce». Usar «Marcus» (nominativo) o «Marci» (genitivo) para apelar es el error diagnóstico típico del hispanohablante."
+    },
+    {
+      "type": "gap",
+      "text": "___ Deus, adiuva me. (Dios mío, ayúdame)",
+      "options": ["Meus", "Mi", "Meum"],
+      "answer": "Mi",
+      "explanation": "El posesivo «meus» tiene un vocativo irregular «mi» cuando acompaña a un vocativo masculino singular, como en la fórmula «Mi Deus» (Dios mío)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¡Oh buen Marcos, escucha!",
+      "direction": "es-la",
+      "tiles": ["Marce", "bone", "audi", "Marcus", "bonus"],
+      "answer": "Marce bone, audi",
+      "explanation": "El nombre y el adjetivo, ambos masculinos singulares en «-us», forman juntos el vocativo en «-e»: «Marce bone». «Marcus bonus» es la forma de nominativo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estos sustantivos NO cambia de forma al pasar de Nominativo a Vocativo singular?",
+      "options": ["amicus", "pater", "discipulus"],
+      "correct": 1,
+      "hint": "Piensa a qué declinación pertenece cada palabra: solo una no es de la segunda declinación en «-us».",
+      "explanation": "«Pater» es de la tercera declinación, cuyo vocativo singular coincide siempre con el nominativo. «Amicus» y «discipulus» son de la segunda declinación en «-us» y forman el vocativo en «-e» («amice», «discipule»)."
+    },
+    {
+      "type": "gap",
+      "text": "___, exaudi me! (llamando directamente a tu padre)",
+      "options": ["Patris", "Pater", "Patrem"],
+      "answer": "Pater",
+      "explanation": "«Pater» es de la tercera declinación, donde el vocativo singular coincide siempre con el nominativo: no existe una forma vocativa distinta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ven, buen discípulo",
+      "direction": "es-la",
+      "tiles": ["Veni", "discipule", "bone", "discipulus", "bonus"],
+      "answer": "Veni, discipule bone",
+      "explanation": "«Discipule» es el vocativo de «discipulus» (en «-e») y «bone» el del adjetivo «bonus»: ambos concuerdan en caso, género y número al apelar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se dice correctamente la fórmula litúrgica «Ruega por nosotros, Jesús»?",
+      "options": ["Ora pro nobis, Iesu.", "Ora pro nobis, Iesus.", "Ora pro nobis, Iesum."],
+      "correct": 0,
+      "hint": "«Iesus» tiene un vocativo singular irregular que no sigue el patrón de «-us» a «-e».",
+      "explanation": "El nombre sagrado «Iesus» hace el vocativo singular en «-u»: «Iesu». «Iesus» es el nominativo y «Iesum» el acusativo; ninguno sirve para apelar directamente."
+    },
+    {
+      "type": "speak",
+      "text": "Ora pro nobis, Iesu.",
+      "es": "Ruega por nosotros, Jesús."
+    }
+  ]
+}

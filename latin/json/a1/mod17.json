@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod17",
+  "module": 17,
+  "title": "Verbum Possum",
+  "subtitle": "El Verbo Possum (Poder)",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "possum", "es": "poder" },
+        { "en": "videre", "es": "ver" },
+        { "en": "audire", "es": "oír" },
+        { "en": "facere", "es": "hacer" },
+        { "en": "habere", "es": "tener" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la segunda persona plural del presente de indicativo de «possum»?",
+      "options": ["potestis", "possunt", "possitis"],
+      "correct": 0,
+      "hint": "La terminación de sum en esta persona empieza por vocal.",
+      "explanation": "Se forma con la raíz «pot-» porque la terminación de «sum» empieza por vocal («estis»): «pot-estis». «Possunt» es la 3ª persona plural y «possitis» no es una forma válida."
+    },
+    {
+      "type": "gap",
+      "text": "Nos ___ scribere (nosotros podemos escribir).",
+      "options": ["possumus", "potestis", "possunt"],
+      "answer": "possumus",
+      "explanation": "«Possumus» es la 1ª persona plural de «possum»: la raíz «pot-» se asimila en «pos-» ante la «s-» inicial de «sumus»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo puedo leer",
+      "direction": "es-en",
+      "tiles": ["Ego", "possum", "legere", "potest", "legi"],
+      "answer": "Ego possum legere",
+      "explanation": "«Possum» es la 1ª persona singular del verbo modal; «legere» es el infinitivo activo complementario. «Potest» (3ª sg.) y «legi» (infinitivo pasivo) son distractores."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el infinitivo de presente pasivo del verbo «vincere» (3ª conjugación)?",
+      "options": ["vincere", "vinciri", "vinci"],
+      "correct": 2,
+      "hint": "La 3ª conjugación borra toda la cola -ere.",
+      "explanation": "Los verbos de la 3ª conjugación forman el infinitivo de presente pasivo sustituyendo «-ere» por la desinencia «-i»: «vinci». «Vinciri» aplica erróneamente el patrón de la 4ª conjugación y «vincere» es el infinitivo activo."
+    },
+    {
+      "type": "gap",
+      "text": "Liber potest ___ (el libro puede ser leído).",
+      "options": ["legere", "legi", "legiri"],
+      "answer": "legi",
+      "explanation": "El infinitivo pasivo de «legere» (3ª conjugación) sustituye toda la terminación «-ere» por la vocal «-i»: «legi». «Legiri» aplicaría erróneamente el patrón de la 4ª conjugación."
+    },
+    {
+      "type": "speak",
+      "text": "Ego possum videre.",
+      "es": "Yo puedo ver."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "scribere", "es": "escribir" },
+        { "en": "legere", "es": "leer" },
+        { "en": "dicere", "es": "decir" },
+        { "en": "mittere", "es": "enviar" },
+        { "en": "credere", "es": "creer" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español: «Liberi non possunt celare veritatem».",
+      "options": ["Los niños no pueden ocultar la verdad.", "Los libros no pueden ocultar la verdad.", "La verdad no puede ser ocultada por los niños."],
+      "correct": 0,
+      "hint": "Liberi no es lo mismo que liber (libro).",
+      "explanation": "«Liberi» significa «los niños» (sujeto plural, no confundir con «liber», libro), «non possunt» es el modal negado, «celare» el infinitivo complementario y «veritatem» el objeto directo: «Los niños no pueden ocultar la verdad»."
+    },
+    {
+      "type": "gap",
+      "text": "Veritas potest ___ (la verdad puede ser sabida).",
+      "options": ["sciri", "scire", "scii"],
+      "answer": "sciri",
+      "explanation": "«Scire» es de 4ª conjugación: forma su infinitivo pasivo cambiando la «-e» final por «-i»: «sciri». «Scire» es el infinitivo activo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros podemos escribir",
+      "direction": "es-en",
+      "tiles": ["Nos", "possumus", "scribere", "potestis", "scribi"],
+      "answer": "Nos possumus scribere",
+      "explanation": "«Possumus» es la 1ª persona plural; «scribere» el infinitivo activo. «Potestis» (2ª pl.) y «scribi» (infinitivo pasivo) son los distractores de persona y voz."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta del imperfecto en tercera persona singular de «possum»?",
+      "options": ["potebat", "posset", "poterat"],
+      "correct": 2,
+      "hint": "No sigue la flexión regular en -bam.",
+      "explanation": "El imperfecto de «possum» se forma uniendo «pot-» a la tercera persona del imperfecto de «sum» («erat»): «pot-erat». «Potebat» no existe y «posset» es una forma de subjuntivo."
+    },
+    {
+      "type": "gap",
+      "text": "Vos ___ audire (vosotros podéis oír).",
+      "options": ["potestis", "possumus", "possunt"],
+      "answer": "potestis",
+      "explanation": "«Potestis» es la 2ª persona plural: la raíz «pot-» se mantiene intacta porque la terminación de «sum» («estis») empieza por vocal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El libro puede ser leído",
+      "direction": "es-en",
+      "tiles": ["Liber", "potest", "legi", "librum", "legere"],
+      "answer": "Liber potest legi",
+      "explanation": "El sujeto de la construcción pasiva va en nominativo: «liber», no «librum» (acusativo). El infinitivo pasivo de «legere» es «legi», no el activo «legere»."
+    },
+    {
+      "type": "speak",
+      "text": "Liber potest legi.",
+      "es": "El libro puede ser leído."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "scire", "es": "saber" },
+        { "en": "debere", "es": "deber" },
+        { "en": "velle", "es": "querer" },
+        { "en": "nolle", "es": "no querer" },
+        { "en": "cognoscere", "es": "conocer" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Veritas potest sciri», ¿cuál es la función y forma de «sciri»?",
+      "options": ["Infinitivo de presente pasivo de scire.", "Dativo singular del sustantivo scirus.", "Infinitivo de presente activo de scire."],
+      "correct": 0,
+      "hint": "La verdad recibe la acción, no la realiza.",
+      "explanation": "«Sciri» es el infinitivo pasivo del verbo «scire» (4ª conjugación: «ser sabido»), complemento directo del modal «potest»: «la verdad puede ser sabida». No es activo («scire») ni existe el sustantivo «scirus»."
+    },
+    {
+      "type": "gap",
+      "text": "Pueri ___ legere (los niños pueden leer).",
+      "options": ["potest", "possunt", "potestis"],
+      "answer": "possunt",
+      "explanation": "El verbo modal concuerda en número con el sujeto: «pueri» (plural) exige «possunt» (3ª persona plural), no «potest» (singular) ni «potestis» (2ª persona plural)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos no pueden ver",
+      "direction": "es-en",
+      "tiles": ["Non", "possunt", "videre", "potest", "videri"],
+      "answer": "Non possunt videre",
+      "explanation": "«Possunt» es la 3ª persona plural; «videre» es el infinitivo activo. «Potest» (singular) y «videri» (infinitivo pasivo) son distractores."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta del imperfecto de «possum» en primera persona («yo podía»)?",
+      "options": ["Potebam legere.", "Poteram legere.", "Possem legere."],
+      "correct": 1,
+      "hint": "Se une pot- al imperfecto de sum en 1ª persona.",
+      "explanation": "El imperfecto de «possum» no sigue la flexión regular en «-bam»: se forma con «pot-» + «eram» → «poteram». «Potebam» es incorrecto y «possem» es una forma de subjuntivo."
+    },
+    {
+      "type": "gap",
+      "text": "Ego ___ intellegere (yo puedo entender).",
+      "options": ["possum", "potest", "possunt"],
+      "answer": "possum",
+      "explanation": "«Possum» es la 1ª persona singular: la dental «t» de la raíz «pot-» se asimila en «s» ante la «s-» inicial de «sum»: «pos-sum»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los niños pueden vencer",
+      "direction": "es-en",
+      "tiles": ["Pueri", "possunt", "vincere", "potest", "vinci"],
+      "answer": "Pueri possunt vincere",
+      "explanation": "«Possunt» concuerda en plural con «pueri»; «vincere» es el infinitivo activo complementario. «Potest» (singular) y «vinci» (infinitivo pasivo) son distractores."
+    },
+    {
+      "type": "speak",
+      "text": "Nos possumus intellegere.",
+      "es": "Nosotros podemos entender."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "error", "es": "error" },
+        { "en": "littera", "es": "letra" },
+        { "en": "verbum", "es": "palabra" },
+        { "en": "liber", "es": "libro" },
+        { "en": "vincere", "es": "vencer" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la traducción correcta de «el libro puede ser leído»?",
+      "options": ["Librum potest legi.", "Liber potest legi.", "Liber potest legiri."],
+      "correct": 1,
+      "hint": "El sujeto de la pasiva va en nominativo.",
+      "explanation": "El sujeto de una construcción pasiva va en nominativo: «liber» (no «librum», acusativo). El infinitivo pasivo de «legere» (3ª conjugación) es «legi», no «legiri» (que aplica erróneamente el patrón de la 4ª conjugación)."
+    },
+    {
+      "type": "gap",
+      "text": "Aeger potest ___ (el enfermo puede ser sanado).",
+      "options": ["sanare", "sanari", "sanere"],
+      "answer": "sanari",
+      "explanation": "Los verbos de la 1ª conjugación forman el infinitivo pasivo cambiando la «-e» final del infinitivo activo por «-i»: «sanare» → «sanari» (ser sanado)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La verdad puede ser sabida",
+      "direction": "es-en",
+      "tiles": ["Veritas", "potest", "sciri", "scire", "scit"],
+      "answer": "Veritas potest sciri",
+      "explanation": "«Sciri» es el infinitivo pasivo de «scire» (4ª conjugación): cambia la «-e» final por «-i». «Scire» es la forma activa y «scit» es una forma personal no estudiada en este módulo."
+    },
+    {
+      "type": "gap",
+      "text": "Verbum potest ___ (la palabra puede ser escrita).",
+      "options": ["scribere", "scribi", "scribiri"],
+      "answer": "scribi",
+      "explanation": "El infinitivo pasivo de «scribere» (3ª conjugación) sustituye «-ere» por «-i»: «scribi». «Scribiri» aplica erróneamente el patrón de la 4ª conjugación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros podemos ser sanados",
+      "direction": "es-en",
+      "tiles": ["Nos", "possumus", "sanari", "sanare", "sanamus"],
+      "answer": "Nos possumus sanari",
+      "explanation": "El infinitivo pasivo de la 1ª conjugación cambia la «-e» final del activo por «-i»: «sanare» → «sanari». «Sanamus» no es un infinitivo, sino una forma personal no estudiada aquí."
+    },
+    {
+      "type": "speak",
+      "text": "Veritas potest sciri.",
+      "es": "La verdad puede ser sabida."
+    }
+  ]
+}

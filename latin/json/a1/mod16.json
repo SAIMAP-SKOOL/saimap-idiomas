@@ -1,0 +1,403 @@
+{
+  "id": "a1-mod16",
+  "module": 16,
+  "title": "Adiectiva Secundae Classis",
+  "subtitle": "Adjetivos de la Segunda Clase",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada adjetivo con su traducción",
+      "pairs": [
+        {
+          "en": "omnis",
+          "es": "todo"
+        },
+        {
+          "en": "fortis",
+          "es": "fuerte"
+        },
+        {
+          "en": "grandis",
+          "es": "grande"
+        },
+        {
+          "en": "brevis",
+          "es": "breve"
+        },
+        {
+          "en": "facilis",
+          "es": "fácil"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la concordancia correcta para «el agricultor valiente» en Nominativo?",
+      "options": [
+        "agricola fortis",
+        "agricola fortem",
+        "agricola forte"
+      ],
+      "correct": 0,
+      "hint": "Agricola es sujeto en nominativo singular masculino.",
+      "explanation": "«Agricola» es un sustantivo masculino de la 1ª declinación en nominativo singular. El adjetivo «fortis, forte» debe concordar en masculino singular nominativo: «fortis». «Fortem» es acusativo y «forte» es la forma neutra."
+    },
+    {
+      "type": "gap",
+      "text": "Dona ___ (regalos útiles, sujeto neutro plural).",
+      "options": [
+        "utilia",
+        "utilis",
+        "utile"
+      ],
+      "answer": "utilia",
+      "explanation": "«Dona» es neutro plural (2ª declinación). El adjetivo de segunda clase concuerda en neutro plural con la terminación «-ia»: «utilia», no «utilis» (nom. sg.) ni «utile» (neutro singular)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El agricultor es fuerte",
+      "direction": "es-en",
+      "tiles": [
+        "Agricola",
+        "fortis",
+        "est",
+        "fortem",
+        "forte"
+      ],
+      "answer": "Agricola fortis est",
+      "explanation": "«Agricola» (sujeto, nom. sg.) concuerda con «fortis» (nom. sg. masc./fem.) y el verbo «est» (es). «Fortem» y «forte» son distractores típicos: el acusativo y la forma neutra."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el ablativo singular correcto de la frase «miles fidelis» (el soldado fiel)?",
+      "options": [
+        "militi fideli",
+        "milite fideli",
+        "milite fidele"
+      ],
+      "correct": 1,
+      "hint": "El sustantivo y el adjetivo no comparten la misma terminación en ablativo.",
+      "explanation": "El sustantivo «miles» (tema en consonante) hace el ablativo singular en «-e»: «milite». El adjetivo de segunda clase «fidelis, fidele» exige ablativo singular en «-i»: «fideli». Combinación correcta: «milite fideli»."
+    },
+    {
+      "type": "gap",
+      "text": "Cum milite ___ (con el soldado fuerte).",
+      "options": [
+        "forte",
+        "forti",
+        "fortis"
+      ],
+      "answer": "forti",
+      "explanation": "El adjetivo de segunda clase «fortis, forte» hace siempre el ablativo singular en «-i»: «forti», independientemente de que el sustantivo «milite» termine en «-e»."
+    },
+    {
+      "type": "speak",
+      "text": "Agricola fortis est.",
+      "es": "El agricultor es fuerte."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada adjetivo con su traducción",
+      "pairs": [
+        {
+          "en": "difficilis",
+          "es": "difícil"
+        },
+        {
+          "en": "dulcis",
+          "es": "dulce"
+        },
+        {
+          "en": "nobilis",
+          "es": "noble"
+        },
+        {
+          "en": "gravis",
+          "es": "grave"
+        },
+        {
+          "en": "utilis",
+          "es": "útil"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español: «Iesus fecit omnia dona bona».",
+      "options": [
+        "Jesús dio regalos a todos los hombres buenos.",
+        "Jesús hizo todos los regalos buenos.",
+        "Jesús hizo buenos todos los nombres."
+      ],
+      "correct": 1,
+      "hint": "Omnia dona bona es un bloque en acusativo neutro plural.",
+      "explanation": "«Iesus» es el sujeto, «fecit» el verbo («hizo») y «omnia dona bona» el objeto directo en acusativo neutro plural. «Omnia» (3ª decl.) concuerda con «dona» (2ª decl.) y con «bona» (adjetivo de 1ª clase): «todos los regalos buenos»."
+    },
+    {
+      "type": "gap",
+      "text": "Laudamus ___ dona (alabamos todos los regalos).",
+      "options": [
+        "omnes",
+        "omnia",
+        "omnium"
+      ],
+      "answer": "omnia",
+      "explanation": "«Dona» es acusativo neutro plural (objeto directo). El adjetivo «omnis, omne» debe concordar en neutro plural: «omnia», no «omnes» (masc./fem. plural) ni «omnium» (genitivo plural)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El soldado es feliz",
+      "direction": "es-en",
+      "tiles": [
+        "Miles",
+        "felix",
+        "est",
+        "felicis",
+        "felice"
+      ],
+      "answer": "Miles felix est",
+      "explanation": "«Felix» es un adjetivo de una terminación: misma forma para nominativo masculino, femenino y neutro. «Felicis» es el genitivo (distractor) y «felice» no es una forma existente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el genitivo plural de «omnis, omne»?",
+      "options": [
+        "omnum",
+        "omnium",
+        "omni"
+      ],
+      "correct": 1,
+      "hint": "Sigue la flexión de los temas en -i de la 3ª declinación.",
+      "explanation": "Los adjetivos de la segunda clase siguen la declinación de los temas en «-i» de la tercera declinación, por lo que su genitivo plural es «-ium»: «omnium». «Omnum» no existe y «omni» es el ablativo/dativo singular."
+    },
+    {
+      "type": "gap",
+      "text": "Miles ___ est (el soldado es feliz).",
+      "options": [
+        "felix",
+        "felicis",
+        "felice"
+      ],
+      "answer": "felix",
+      "explanation": "Los adjetivos de una terminación como «felix, felicis» presentan la misma forma para los tres géneros en nominativo singular: «felix». «Felicis» es el genitivo y «felice» no existe."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los regalos son útiles",
+      "direction": "es-en",
+      "tiles": [
+        "Dona",
+        "utilia",
+        "sunt",
+        "utilis",
+        "utile"
+      ],
+      "answer": "Dona utilia sunt",
+      "explanation": "«Dona» es neutro plural; el adjetivo concuerda en «utilia» y el verbo va en plural, «sunt» (son). «Utilis» es la forma de nominativo singular y «utile» la de neutro singular: ambos son distractores por número."
+    },
+    {
+      "type": "speak",
+      "text": "Miles fidelis est.",
+      "es": "El soldado es fiel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada adjetivo con su traducción",
+      "pairs": [
+        {
+          "en": "felix",
+          "es": "feliz"
+        },
+        {
+          "en": "audax",
+          "es": "audaz"
+        },
+        {
+          "en": "pauper",
+          "es": "pobre"
+        },
+        {
+          "en": "vetus",
+          "es": "viejo"
+        },
+        {
+          "en": "acer",
+          "es": "agudo"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Laudamus audaces milites», ¿en qué caso y función está «audaces»?",
+      "options": [
+        "Genitivo singular, complemento de nombre.",
+        "Nominativo plural, sujeto.",
+        "Acusativo plural, adjetivo concordante con objeto directo."
+      ],
+      "correct": 2,
+      "hint": "El verbo laudamus rige un objeto directo.",
+      "explanation": "El verbo «laudamus» (nosotros alabamos) rige un objeto directo en acusativo plural («milites»). El adjetivo «audaces» concuerda en caso, género y número (acusativo masculino plural) con «milites»."
+    },
+    {
+      "type": "gap",
+      "text": "Deus est pater ___ (Dios es padre de todos).",
+      "options": [
+        "omnes",
+        "omni",
+        "omnium"
+      ],
+      "answer": "omnium",
+      "explanation": "El genitivo plural de los adjetivos de segunda clase, como el de los temas en «-i» de la 3ª declinación, termina en «-ium»: «omnium». «Omnes» es nominativo/acusativo plural y «omni» es ablativo/dativo singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Vemos la ciudad pobre",
+      "direction": "es-en",
+      "tiles": [
+        "Videmus",
+        "urbem",
+        "pauperem",
+        "pauper",
+        "urbs"
+      ],
+      "answer": "Videmus urbem pauperem",
+      "explanation": "«Urbem» (acusativo) exige que el adjetivo «pauper, pauperis» tome también forma acusativa: «pauperem». Los distractores «pauper» y «urbs» son formas de nominativo que rompen la concordancia de caso."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el ablativo correcto de «con el padre fuerte»?",
+      "options": [
+        "Cum forte patre.",
+        "Cum forti patre.",
+        "Cum fortis patre."
+      ],
+      "correct": 1,
+      "hint": "El sustantivo patre y el adjetivo no comparten la misma terminación de ablativo.",
+      "explanation": "El sustantivo «patre» (de «pater, patris», tema en consonante) hace el ablativo en «-e», pero el adjetivo de segunda clase «fortis, forte» exige siempre «-i» en el ablativo singular: «forti». «Cum forte patre» aplica erróneamente la terminación del sustantivo al adjetivo, y «fortis» no es forma de ablativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Con el soldado fuerte",
+      "direction": "es-en",
+      "tiles": [
+        "Cum",
+        "milite",
+        "forti",
+        "forte",
+        "fortis"
+      ],
+      "answer": "Cum milite forti",
+      "explanation": "El adjetivo de segunda clase «fortis, forte» hace siempre el ablativo singular en «-i»: «forti». «Forte» (neutro) y «fortis» (nominativo) son distractores de caso."
+    },
+    {
+      "type": "speak",
+      "text": "Omnia dona bona sunt.",
+      "es": "Todos los regalos son buenos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada sustantivo con su traducción",
+      "pairs": [
+        {
+          "en": "miles",
+          "es": "soldado"
+        },
+        {
+          "en": "agricola",
+          "es": "agricultor"
+        },
+        {
+          "en": "vita",
+          "es": "vida"
+        },
+        {
+          "en": "carmen",
+          "es": "poema"
+        },
+        {
+          "en": "urbs",
+          "es": "ciudad"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta para «el agricultor fuerte» como sujeto de la oración?",
+      "options": [
+        "Agricola fortem.",
+        "Agricola forte.",
+        "Agricola fortis."
+      ],
+      "correct": 2,
+      "hint": "Agricola, aunque termine en -a, es masculino.",
+      "explanation": "«Agricola» es un sustantivo masculino de la 1ª declinación en nominativo singular (sujeto). El adjetivo «fortis, forte» debe concordar en nominativo masculino singular: «fortis», no en acusativo («fortem») ni en la forma neutra («forte»)."
+    },
+    {
+      "type": "gap",
+      "text": "Cum ___ vita (con una vida breve).",
+      "options": [
+        "breve",
+        "brevis",
+        "brevi"
+      ],
+      "answer": "brevi",
+      "explanation": "El adjetivo de segunda clase «brevis, breve» exige ablativo singular en «-i»: «brevi», nunca «breve» (neutro nom./ac.) ni «brevis» (nominativo masc./fem.)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El consejo es agudo",
+      "direction": "es-en",
+      "tiles": [
+        "Consilium",
+        "acre",
+        "est",
+        "acer",
+        "acris"
+      ],
+      "answer": "Consilium acre est",
+      "explanation": "«Consilium» es neutro, así que el adjetivo de tres terminaciones toma la forma neutra «acre». «Acer» (masculino) y «acris» (femenino) son los distractores de género."
+    },
+    {
+      "type": "gap",
+      "text": "Videmus urbem ___ (vemos la ciudad pobre).",
+      "options": [
+        "pauper",
+        "pauperem",
+        "pauperis"
+      ],
+      "answer": "pauperem",
+      "explanation": "«Urbem» es acusativo singular femenino (objeto directo). El adjetivo de una terminación «pauper, pauperis» debe concordar en acusativo singular: «pauperem», no «pauper» (nominativo) ni «pauperis» (genitivo)."
+    },
+    {
+      "type": "gap",
+      "text": "Agricola ___ est (el agricultor es fuerte).",
+      "options": [
+        "fortis",
+        "fortem",
+        "forti"
+      ],
+      "answer": "fortis",
+      "explanation": "«Agricola» es nominativo singular (sujeto), así que el adjetivo debe ir también en nominativo: «fortis». «Fortem» es acusativo y «forti» es dativo/ablativo; ambos romperían la concordancia de caso con el sujeto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Alabamos a todos los soldados audaces",
+      "direction": "es-en",
+      "tiles": [
+        "Laudamus",
+        "omnes",
+        "milites",
+        "audaces",
+        "omnia",
+        "audax"
+      ],
+      "answer": "Laudamus omnes milites audaces",
+      "explanation": "«Milites» es acusativo plural masculino (objeto directo de «laudamus»); tanto «omnes» como «audaces» deben concordar en acusativo plural. «Omnia» (neutro) y «audax» (nominativo singular) son distractores."
+    },
+    {
+      "type": "speak",
+      "text": "Sapientia dulcis est.",
+      "es": "La sabiduría es dulce."
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod08",
+  "module": 8,
+  "title": "Casus Accusativus",
+  "subtitle": "Caso Acusativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "Deus", "es": "Dios" },
+        { "en": "dominus", "es": "señor, amo" },
+        { "en": "servus", "es": "siervo, esclavo" },
+        { "en": "puella", "es": "muchacha, niña" },
+        { "en": "regina", "es": "reina" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estas oraciones traduce correctamente «El rey envía a los amigos a la ciudad»?",
+      "options": ["Rex mittit amicos ad civitatem.", "Rex ad amicos civitatem mittit.", "Regem mittit amicos civitatem."],
+      "correct": 0,
+      "hint": "El objeto directo de persona nunca lleva preposición en latín; la dirección hacia una ciudad común sí la necesita.",
+      "explanation": "«Rex» (nominativo, sujeto) + «amicos» (acusativo plural, objeto directo sin preposición) + «ad civitatem» (dirección con preposición, pues «civitas» no es nombre propio de ciudad). Añadir «ad» ante «amicos» destruiría la transitividad directa, y poner el sujeto en acusativo («regem») deja la frase sin sujeto nominativo."
+    },
+    {
+      "type": "gap",
+      "text": "Rex ___ amat.",
+      "options": ["regina", "reginam", "reginas"],
+      "answer": "reginam",
+      "explanation": "El objeto directo «a la reina» exige el acusativo singular en -am: «reginam». «Regina» es nominativo (sujeto) y «reginas» es plural, número incorrecto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rey ama a la reina",
+      "direction": "es-la",
+      "tiles": ["Rex", "reginam", "amat", "regina", "reginas"],
+      "answer": "Rex reginam amat",
+      "explanation": "«Reginam» es el acusativo singular, objeto directo sin preposición. «Regina» es nominativo y «reginas» es plural, ambas incorrectas aquí."
+    },
+    {
+      "type": "speak",
+      "text": "Rex reginam amat.",
+      "es": "El rey ama a la reina."
+    },
+    {
+      "type": "gap",
+      "text": "Dominus ___ vocat.",
+      "options": ["servus", "servum", "servos"],
+      "answer": "servum",
+      "explanation": "«Servum» es el acusativo singular en -um, propio de la 2ª declinación masculina; nunca se antepone «ad» a un objeto directo animado en latín. «Servus» es nominativo y «servos» es plural."
+    },
+    {
+      "type": "quiz",
+      "q": "Analiza morfológicamente la palabra corpora en «Dominus corpora videt».",
+      "options": ["Acusativo plural neutro de la tercera declinación.", "Nominativo plural femenino de la primera declinación.", "Acusativo singular femenino de la primera declinación."],
+      "correct": 0,
+      "hint": "«Corpus, corporis» es neutro: ¿qué desinencia toman siempre los neutros en plural?",
+      "explanation": "«Corpus, corporis» es un neutro de la 3ª declinación: su nominativo y acusativo plural terminan siempre en -a, de ahí «corpora». No es femenino de la 1ª declinación (esa terminación de acusativo singular sería -am, como «puellam»), y aquí el número es plural, no singular."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "rex", "es": "rey" },
+        { "en": "civitas", "es": "ciudad, Estado" },
+        { "en": "corpus", "es": "cuerpo" },
+        { "en": "templum", "es": "templo" },
+        { "en": "pater", "es": "padre" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Puer ___ legit.",
+      "options": ["liber", "librum", "libros"],
+      "answer": "librum",
+      "explanation": "«Librum» es el acusativo singular en -um. «Liber» es la forma de nominativo (sujeto) y «libros» es plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El señor llama al siervo",
+      "direction": "es-la",
+      "tiles": ["Dominus", "servum", "vocat", "servus", "ad"],
+      "answer": "Dominus servum vocat",
+      "explanation": "El latín no usa preposición para el objeto directo animado: «servum» (acusativo). Añadir «ad» calca el español y es agramatical; «servus» es nominativo."
+    },
+    {
+      "type": "quiz",
+      "q": "Identifica el error sintáctico en: «❌ Regina ad filium vocat».",
+      "options": ["El sujeto regina debería estar en acusativo (reginam).", "El sustantivo filium debería estar en un caso distinto al acusativo.", "Se ha introducido la preposición ad ante el objeto directo animado."],
+      "correct": 2,
+      "hint": "El verbo «vocare» (llamar) rige acusativo puro, sin preposición, aunque en español digamos «llamar a alguien».",
+      "explanation": "El error es haber traducido el «a» del español «llamar a alguien» como la preposición «ad»: el verbo transitivo «vocare» rige acusativo directo sin preposición («Regina filium vocat»). El sujeto «regina» va correctamente en nominativo, y «filium» (acusativo) sí es el caso correcto para el objeto directo."
+    },
+    {
+      "type": "gap",
+      "text": "Regina ___ videt.",
+      "options": ["templum", "templa", "templus"],
+      "answer": "templum",
+      "explanation": "Al ser «templum» un sustantivo neutro, su acusativo singular es idéntico al nominativo: «templum». «Templa» es el plural neutro y «templus» es una forma inexistente (calco erróneo de los masculinos en -us)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El niño lee el libro",
+      "direction": "es-la",
+      "tiles": ["Puer", "librum", "legit", "liber", "libros"],
+      "answer": "Puer librum legit",
+      "explanation": "«Librum» es el acusativo singular (2ª declinación). «Liber» es nominativo y «libros» es plural, número que no concuerda con «el libro» (singular)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "mater", "es": "madre" },
+        { "en": "filius", "es": "hijo" },
+        { "en": "liber", "es": "libro" },
+        { "en": "epistula", "es": "carta" },
+        { "en": "verbum", "es": "palabra, verbo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la función y el caso de Romam en «Nuntius Romam currit»?",
+      "options": ["Complemento de dirección en caso acusativo sin preposición.", "Objeto directo en caso acusativo.", "Sujeto de la oración en caso nominativo."],
+      "correct": 0,
+      "hint": "«Currere» es intransitivo: no puede llevar objeto directo. ¿Qué otro uso tiene el acusativo con nombres de ciudad?",
+      "explanation": "Con nombres propios de ciudad, el acusativo sin preposición expresa dirección («voy hacia»): «Romam» = «hacia Roma». No es objeto directo porque «currit» (correr) es intransitivo, y el nominativo singular de «Roma» sería «Roma», sin la -m final."
+    },
+    {
+      "type": "gap",
+      "text": "Puella ___ audit.",
+      "options": ["mater", "matrem", "matres"],
+      "answer": "matrem",
+      "explanation": "Los sustantivos de la 3ª declinación como «mater, matris» forman el acusativo singular en -em: «matrem». «Mater» es nominativo y «matres» es plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reina ve el templo",
+      "direction": "es-la",
+      "tiles": ["Regina", "templum", "videt", "templa", "templus"],
+      "answer": "Regina templum videt",
+      "explanation": "Al ser «templum» neutro, su acusativo singular coincide con el nominativo: «templum». «Templa» es plural y «templus» es una forma inexistente."
+    },
+    {
+      "type": "speak",
+      "text": "Dominus servum vocat.",
+      "es": "El señor llama al siervo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el acusativo plural del sustantivo res (f., 5ª declinación)?",
+      "options": ["rem", "ras", "res"],
+      "correct": 2,
+      "hint": "La 5ª declinación es muy regular: nominativo y acusativo plural coinciden.",
+      "explanation": "Los sustantivos de la 5ª declinación como «res» presentan la misma forma en nominativo y acusativo plural: «res». «Rem» es el acusativo singular, y «-as» es la desinencia típica del acusativo plural de la 1ª declinación (puellas), no de la 5ª."
+    },
+    {
+      "type": "gap",
+      "text": "Nos ___ portamus.",
+      "options": ["epistulae", "epistulas", "epistulam"],
+      "answer": "epistulas",
+      "explanation": "El acusativo plural de la 1ª declinación termina en -as: «epistulas». «Epistulae» tiene forma de nominativo/genitivo plural y «epistulam» es singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El padre teme al rey",
+      "direction": "es-la",
+      "tiles": ["Pater", "regem", "timet", "rex", "reges"],
+      "answer": "Pater regem timet",
+      "explanation": "«Regem» es el acusativo singular en -em (3ª declinación). «Rex» es nominativo y «reges» es plural."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "amicus", "es": "amigo" },
+        { "en": "hostis", "es": "enemigo" },
+        { "en": "manus", "es": "mano, tropa" },
+        { "en": "domus", "es": "casa, hogar" },
+        { "en": "res", "es": "cosa, asunto" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta para «Escucho a mi padre»?",
+      "options": ["Audio ad patrem.", "Patrem audio.", "Pater audio."],
+      "correct": 1,
+      "hint": "El verbo «audire» es transitivo puro: no necesita preposición para su objeto directo.",
+      "explanation": "«Patrem» es el acusativo directo de «pater, patris», sin preposición: «Patrem audio». «Audio ad patrem» calca el «a» personal del español, agramatical en latín; «pater» sin -m sería nominativo, no objeto."
+    },
+    {
+      "type": "gap",
+      "text": "Dominus ___ timet.",
+      "options": ["hostis", "hostes", "hostem"],
+      "answer": "hostes",
+      "explanation": "El acusativo plural de los temas en -i de la 3ª declinación es -es: «hostes». «Hostis» es la forma de nominativo singular y «hostem» es acusativo singular, número incorrecto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Escribo una carta",
+      "direction": "es-la",
+      "tiles": ["Epistulam", "scribo", "epistula", "epistulas"],
+      "answer": "Epistulam scribo",
+      "explanation": "«Epistulam» es el acusativo singular en -am. «Epistula» es nominativo y «epistulas» es plural, número incorrecto para «una carta»."
+    },
+    {
+      "type": "speak",
+      "text": "Puer librum legit.",
+      "es": "El niño lee el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta para «Veo el templo»?",
+      "options": ["Video templus.", "Video templa.", "Templum video."],
+      "correct": 2,
+      "hint": "«Templum» es neutro: ¿cómo es su acusativo singular respecto al nominativo?",
+      "explanation": "«Templum» es neutro, así que su acusativo singular es idéntico al nominativo: «Templum video». «Templus» es una forma inexistente que calca erróneamente los masculinos en -us, y «templa» es el plural."
+    },
+    {
+      "type": "gap",
+      "text": "Rex ___ mittit.",
+      "options": ["corpus", "corpora", "corporas"],
+      "answer": "corpora",
+      "explanation": "«Corpus» es neutro de la 3ª declinación: su acusativo plural, igual que el nominativo, termina en -a: «corpora». «Corpus» es la forma de singular y «corporas» es una desinencia inexistente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los amigos temen a los enemigos",
+      "direction": "es-la",
+      "tiles": ["Amici", "hostes", "timent", "hostis", "hostem"],
+      "answer": "Amici hostes timent",
+      "explanation": "«Hostes» es el acusativo plural de los temas en -i. «Hostis» es nominativo singular y «hostem» es acusativo singular, número incorrecto."
+    },
+    {
+      "type": "speak",
+      "text": "Nuntius Romam currit.",
+      "es": "El mensajero corre hacia Roma."
+    }
+  ]
+}

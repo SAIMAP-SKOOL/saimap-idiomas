@@ -1,0 +1,400 @@
+{
+  "id": "a1-mod23",
+  "module": 23,
+  "title": "Composita Verbi Sum",
+  "subtitle": "Compuestos de Sum",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "prosum",
+          "es": "ser útil"
+        },
+        {
+          "en": "desum",
+          "es": "faltar"
+        },
+        {
+          "en": "obsum",
+          "es": "dañar"
+        },
+        {
+          "en": "absum",
+          "es": "estar ausente"
+        },
+        {
+          "en": "adsum",
+          "es": "estar presente"
+        }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la tercera persona singular del presente de indicativo de «prosum»?",
+      "options": [
+        "proest",
+        "prod-est-is",
+        "prodest"
+      ],
+      "correct": 2,
+      "hint": "El verbo «sum» en tercera persona empieza por vocal: recuerda la consonante de apoyo.",
+      "explanation": "Se forma uniendo el prefijo «pro-» a la tercera persona «est». Al empezar esta con vocal, se inserta la «d» epentética, resultando «prodest». «Proest» olvida la «d» y «prod-est-is» es la forma de segunda persona plural."
+    },
+    {
+      "type": "gap",
+      "text": "Pax ___ populo. (la paz aprovecha al pueblo — 3ª sing. de «prosum»)",
+      "options": [
+        "proest",
+        "prodest",
+        "prosunt"
+      ],
+      "answer": "prodest",
+      "explanation": "La tercera persona singular de «prosum» inserta la «d» epentética ante la vocal de «est»: «prodest». «Proest» omite esa «d» y «prosunt» es plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La paz aprovecha a los ciudadanos",
+      "direction": "es-la",
+      "tiles": [
+        "Pax",
+        "prodest",
+        "civibus",
+        "proest",
+        "cives"
+      ],
+      "answer": "Pax prodest civibus",
+      "explanation": "«Prodest» lleva la «d» de apoyo ante la vocal de «est»; «civibus» va en dativo por ser el régimen obligatorio de «prosum», no en nominativo «cives»."
+    },
+    {
+      "type": "speak",
+      "text": "Pax prodest populo.",
+      "es": "La paz aprovecha al pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Pax prodest civibus», ¿en qué caso está «civibus»?",
+      "options": [
+        "Dativo plural, régimen de «prodest».",
+        "Ablativo instrumental.",
+        "Acusativo plural, objeto directo."
+      ],
+      "correct": 0,
+      "hint": "Piensa en quién recibe el beneficio de la paz, no en un instrumento ni en un objeto directo.",
+      "explanation": "El verbo compuesto «prosum» (aprovechar / ser útil) rige obligatoriamente el caso Dativo para señalar al beneficiario («civibus» / a los ciudadanos), nunca el acusativo del calco español."
+    },
+    {
+      "type": "gap",
+      "text": "Ego ___ patriae. (yo soy útil a la patria — 1ª sing., «sum» empieza por consonante)",
+      "options": [
+        "prodsum",
+        "prosum",
+        "prodest"
+      ],
+      "answer": "prosum",
+      "explanation": "La primera persona de «sum» es «sum», que empieza por consonante «s»: no necesita la «d» de apoyo, así que la forma correcta es «prosum», no «prodsum» ni «prodest» (que es tercera persona)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "praesum",
+          "es": "presidir"
+        },
+        {
+          "en": "supersum",
+          "es": "sobrevivir"
+        },
+        {
+          "en": "patria",
+          "es": "patria"
+        },
+        {
+          "en": "civis",
+          "es": "ciudadano"
+        },
+        {
+          "en": "amicus",
+          "es": "amigo"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Falto a los amigos",
+      "direction": "es-la",
+      "tiles": [
+        "Desum",
+        "amicis",
+        "amicos",
+        "amici"
+      ],
+      "answer": "Desum amicis",
+      "explanation": "«Desum» rige caso Dativo: «amicis» (a los amigos), no el acusativo «amicos» ni el genitivo/nominativo plural «amici»."
+    },
+    {
+      "type": "gap",
+      "text": "Desum meae ___. (falto a mi patria — régimen de dativo)",
+      "options": [
+        "patriam",
+        "patriae",
+        "patria"
+      ],
+      "answer": "patriae",
+      "explanation": "El verbo «desum» rige caso Dativo: «meae patriae» (a mi patria), nunca el acusativo «patriam» por calco del español «falto a mi patria»."
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español: «Miles deest proelio».",
+      "options": [
+        "El soldado lucha en la batalla.",
+        "El soldado falta a la batalla.",
+        "El soldado es útil en la batalla."
+      ],
+      "correct": 1,
+      "hint": "«Deest» es la tercera persona de «desum»: piensa en su significado de ausencia.",
+      "explanation": "«Miles» es el sujeto («el soldado»), «deest» es la tercera persona de «desum» («falta / está ausente») y «proelio» es el dativo de «proelium» («a la batalla»)."
+    },
+    {
+      "type": "speak",
+      "text": "Desum amicis.",
+      "es": "Falto a los amigos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El dinero daña al hombre",
+      "direction": "es-la",
+      "tiles": [
+        "Pecunia",
+        "obset",
+        "homini",
+        "hominem",
+        "obsum"
+      ],
+      "answer": "Pecunia obset homini",
+      "explanation": "«Obsum» es intransitivo: el dinero («pecunia») es el sujeto y «homini» va en dativo, no en acusativo «hominem»; «obset» es la forma conjugada de tercera persona, no el infinitivo «obsum»."
+    },
+    {
+      "type": "gap",
+      "text": "Miles ___ proelio. (el soldado falta a la batalla)",
+      "options": [
+        "deest",
+        "obest",
+        "adest"
+      ],
+      "answer": "deest",
+      "explanation": "«Deest» es la tercera persona singular de «desum» (faltar). «Obest» (de «obsum», dañar) y «adest» (de «adsum», estar presente) cambian el sentido de la frase."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "inimicus",
+          "es": "enemigo"
+        },
+        {
+          "en": "auxilium",
+          "es": "ayuda"
+        },
+        {
+          "en": "periculum",
+          "es": "peligro"
+        },
+        {
+          "en": "vita",
+          "es": "vida"
+        },
+        {
+          "en": "mors",
+          "es": "muerte"
+        }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Pecunia ___ homini. (el dinero daña al hombre)",
+      "options": [
+        "obset",
+        "obsum",
+        "obsunt"
+      ],
+      "answer": "obset",
+      "explanation": "«Obset» es la tercera persona singular de «obsum» (dañar / estorbar); «obsum» es el infinitivo/primera persona y «obsunt» es plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Asisto a los trabajos",
+      "direction": "es-la",
+      "tiles": [
+        "Adsum",
+        "laboribus",
+        "laborem",
+        "labores"
+      ],
+      "answer": "Adsum laboribus",
+      "explanation": "«Adsum» (asistir / estar presente) rige dativo: «laboribus» (a los trabajos), no el acusativo singular «laborem» ni el plural «labores»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de los siguientes verbos compuestos de «sum» significa «dañar o estorbar»?",
+      "options": [
+        "adsum",
+        "desum",
+        "obsum"
+      ],
+      "correct": 2,
+      "hint": "Piensa en el valor adverso del prefijo «ob-» (contra).",
+      "explanation": "«Obsum» (prefijo «ob-», contra) significa «dañar, estorbar o perjudicar». «Adsum» es asistir/estar presente y «desum» es faltar."
+    },
+    {
+      "type": "gap",
+      "text": "___ a domo. (estoy ausente de casa)",
+      "options": [
+        "Absum",
+        "Adsum",
+        "Prosum"
+      ],
+      "answer": "Absum",
+      "explanation": "«Absum» significa «estar ausente / distar» y rige la preposición «a/ab» + Ablativo para la separación espacial: «Absum a domo»."
+    },
+    {
+      "type": "speak",
+      "text": "Adsum laboribus.",
+      "es": "Asisto a los trabajos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        {
+          "en": "labor",
+          "es": "trabajo"
+        },
+        {
+          "en": "gloria",
+          "es": "gloria"
+        },
+        {
+          "en": "pecunia",
+          "es": "dinero"
+        },
+        {
+          "en": "populus",
+          "es": "pueblo"
+        },
+        {
+          "en": "pax",
+          "es": "paz"
+        }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Estoy ausente de casa",
+      "direction": "es-la",
+      "tiles": [
+        "Absum",
+        "a",
+        "domo",
+        "domum",
+        "Adsum"
+      ],
+      "answer": "Absum a domo",
+      "explanation": "«Absum» rige la preposición «a» + Ablativo («domo») para expresar separación física, no el acusativo «domum»; «Adsum» significaría lo contrario (estar presente)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el imperfecto en primera persona plural de «prosum»?",
+      "options": [
+        "prodestis",
+        "proderamus",
+        "proeramus"
+      ],
+      "correct": 1,
+      "hint": "El imperfecto de «sum» empieza siempre por vocal: aplica la misma regla que en el presente.",
+      "explanation": "Se une el prefijo «pro-» a «eramus» (imperfecto de «sum»). Al empezar con vocal, se exige la «d» de apoyo, resultando «proderamus» (éramos útiles). «Prodestis» es presente y «proeramus» omite la «d»."
+    },
+    {
+      "type": "gap",
+      "text": "Auxilium prodest ___. (la ayuda aprovecha al pueblo — dativo, no acusativo)",
+      "options": [
+        "populum",
+        "populo",
+        "populi"
+      ],
+      "answer": "populo",
+      "explanation": "«Prodest» rige caso Dativo: «populo» (al pueblo), no el acusativo «populum» ni el genitivo «populi»."
+    },
+    {
+      "type": "speak",
+      "text": "Absum a domo.",
+      "es": "Estoy ausente de casa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El soldado falta a la batalla",
+      "direction": "es-la",
+      "tiles": [
+        "Miles",
+        "deest",
+        "proelio",
+        "proelium",
+        "obest"
+      ],
+      "answer": "Miles deest proelio",
+      "explanation": "«Deest» (de «desum») rige dativo: «proelio» (a la batalla), no el acusativo «proelium»; «obest» cambiaría el verbo a «dañar»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estas frases es gramaticalmente correcta?",
+      "options": [
+        "Scientia prodest hominibus.",
+        "Scientia proest homines.",
+        "Scientia prodest homines."
+      ],
+      "correct": 0,
+      "hint": "Recuerda dos reglas a la vez: la «d» de apoyo ante vocal y el régimen de dativo.",
+      "explanation": "«Prosum» exige insertar la «d» ante vocal («prodest») y rige caso Dativo («hominibus»). Las otras opciones omiten la «d» o usan el acusativo «homines» por calco del español."
+    },
+    {
+      "type": "gap",
+      "text": "Desum ___. (falto a mi deber — dativo de «officium»)",
+      "options": [
+        "officium",
+        "officio",
+        "officii"
+      ],
+      "answer": "officio",
+      "explanation": "«Desum» rige caso Dativo: «officio» (a mi deber), no el acusativo «officium» ni el genitivo «officii»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La ciencia aprovecha a los hombres",
+      "direction": "es-la",
+      "tiles": [
+        "Scientia",
+        "prodest",
+        "hominibus",
+        "homines",
+        "proest"
+      ],
+      "answer": "Scientia prodest hominibus",
+      "explanation": "«Prodest» lleva la «d» epentética ante vocal y rige dativo «hominibus» (a los hombres), no el acusativo «homines» ni la forma sin «d» «proest»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la traducción correcta de «Desum meae patriae»?",
+      "options": [
+        "Desum meam patriam.",
+        "Desum meas patrias.",
+        "Falto a mi patria."
+      ],
+      "correct": 2,
+      "hint": "Busca la única opción que es realmente una traducción al español, no otra frase latina.",
+      "explanation": "«Desum meae patriae» significa «Falto a mi patria»: el verbo «desum» rige dativo («meae patriae»). Las otras dos opciones repiten el error de usar el acusativo por calco del español."
+    }
+  ]
+}

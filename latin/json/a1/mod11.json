@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod11",
+  "module": 11,
+  "title": "Casus Ablativus",
+  "subtitle": "Caso Ablativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra latina con su traducción",
+      "pairs": [
+        { "en": "gladius", "es": "espada" },
+        { "en": "scutum", "es": "escudo" },
+        { "en": "telum", "es": "dardo" },
+        { "en": "sagitta", "es": "flecha" },
+        { "en": "saxum", "es": "roca" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se dice correctamente «El soldado lucha con un escudo» en latín clásico?",
+      "options": ["Mīles scutō pugnat.", "Mīles cum scutō pugnat.", "Mīles ā scutō pugnat."],
+      "correct": 0,
+      "hint": "El escudo es un objeto inanimado: piensa en el ablativo instrumental.",
+      "explanation": "El escudo es un instrumento inanimado, así que va en «ablativo» nudo (scutō), sin preposición. «Cum scutō» sería incorrecto porque cum expresa compañía, no instrumento; «ā scutō» implicaría un agente animado en pasiva, que no es el caso."
+    },
+    {
+      "type": "gap",
+      "text": "Mīles hostem ___ vulnerat.",
+      "options": ["gladius", "gladium", "gladiō"],
+      "answer": "gladiō",
+      "explanation": "El instrumento inanimado (la espada) va en «ablativo» nudo: gladiō. «Gladius» es nominativo y «gladium» es acusativo, casos incorrectos aquí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El soldado hiere al enemigo con la espada",
+      "direction": "es-en",
+      "tiles": ["Mīles", "hostem", "gladiō", "vulnerat", "gladium", "gladius"],
+      "answer": "Mīles hostem gladiō vulnerat",
+      "explanation": "«Gladiō» es el ablativo instrumental correcto, sin preposición. «Gladium» es acusativo y «gladius» nominativo, formas incorrectas para expresar el instrumento."
+    },
+    {
+      "type": "speak",
+      "text": "Mīles gladiō pugnat.",
+      "es": "El soldado lucha con la espada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la traducción correcta de «La carta es enviada por el rey por medio de un mensajero con gran rapidez»?",
+      "options": ["Epistula mittitur rēge cum nuntiō cum celeritāte magnā.", "Epistula mittitur ā rēge per nuntium magnā cum celeritāte.", "Epistula mittitur per rēgem per nuntium magnā celeritāte cum."],
+      "correct": 1,
+      "hint": "Distingue el agente animado (el rey) del intermediario humano (el mensajero) y el modo con adjetivo.",
+      "explanation": "El rey es agente animado de la pasiva: «ā rēge». El mensajero es un intermediario humano: «per nuntium» (con acusativo). El modo calificado por adjetivo prefiere la estructura interpuesta «magnā cum celeritāte». Las otras opciones confunden estas tres construcciones."
+    },
+    {
+      "type": "gap",
+      "text": "Mīlitēs ___ fugiunt.",
+      "options": ["metus", "metum", "metū"],
+      "answer": "metū",
+      "explanation": "El miedo, causa emocional de la huida, se expresa en «ablativo» de causa nudo: metū (4ª declinación). «Metus» es nominativo y «metum» acusativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los soldados huyen por el miedo",
+      "direction": "es-en",
+      "tiles": ["Mīlitēs", "metū", "fugiunt", "metus", "metum"],
+      "answer": "Mīlitēs metū fugiunt",
+      "explanation": "«Metū» es el ablativo de causa (4ª declinación) que expresa el motivo de la huida, sin preposición. «Metus» y «metum» son formas de otros casos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra latina con su traducción",
+      "pairs": [
+        { "en": "via", "es": "camino" },
+        { "en": "currus", "es": "carro" },
+        { "en": "navis", "es": "barco" },
+        { "en": "ira", "es": "cólera" },
+        { "en": "metus", "es": "miedo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Regīna dolōre lacrimat», el sustantivo dolōre funciona sintácticamente como:",
+      "options": ["Ablativo de modo", "Ablativo de instrumento", "Ablativo de causa"],
+      "correct": 2,
+      "hint": "El dolor no es una herramienta ni una manera de actuar, sino el motivo del llanto.",
+      "explanation": "Dolōre expresa la causa interna, el motivo por el que la reina llora, así que es «ablativo» de causa nudo. No es instrumento porque el dolor no es una herramienta física, ni es de modo porque no describe la manera del llanto."
+    },
+    {
+      "type": "gap",
+      "text": "Regīna ___ exsultat.",
+      "options": ["gaudium", "gaudiō", "gaudiī"],
+      "answer": "gaudiō",
+      "explanation": "La alegría, sentimiento que causa la acción, va en «ablativo» de causa nudo: gaudiō (2ª declinación neutra). «Gaudium» es nominativo/acusativo y «gaudiī» es genitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La reina salta de alegría",
+      "direction": "es-en",
+      "tiles": ["Regīna", "gaudiō", "exsultat", "gaudium", "gaudiī"],
+      "answer": "Regīna gaudiō exsultat",
+      "explanation": "«Gaudiō» es el ablativo de causa que expresa el motivo de la alegría, sin preposición necesaria."
+    },
+    {
+      "type": "speak",
+      "text": "Regīna gaudiō exsultat.",
+      "es": "La reina salta de alegría."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de las siguientes oraciones muestra un error de sintaxis espacial en la expresión de lugar?",
+      "options": ["In Rōmā habitāre.", "Karthāgine proficīscī.", "Athēnīs habitāre."],
+      "correct": 0,
+      "hint": "Roma es una ciudad singular de la 1ª declinación: piensa en el caso locativo.",
+      "explanation": "Roma, ciudad singular de la 1ª declinación, exige el caso locativo (Rōmae) sin preposición para expresar «en donde»; «in Rōmā» es un error. Karthāgine (3ª declinación) y Athēnīs (ciudad plural) usan correctamente el ablativo nudo."
+    },
+    {
+      "type": "gap",
+      "text": "Pater ___ silvā ambulat.",
+      "options": ["in", "ab", "ex"],
+      "answer": "in",
+      "explanation": "El bosque es un lugar común, no una ciudad, así que el lugar «en donde» se expresa con la preposición «in» + ablativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El padre camina en el bosque",
+      "direction": "es-en",
+      "tiles": ["Pater", "in", "silvā", "ambulat", "silva", "silvam"],
+      "answer": "Pater in silvā ambulat",
+      "explanation": "«Silvā» es el ablativo tras la preposición «in» para el lugar «en donde». «Silva» es nominativo y «silvam» acusativo, formas incorrectas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra latina con su traducción",
+      "pairs": [
+        { "en": "amor", "es": "amor" },
+        { "en": "dolor", "es": "tristeza" },
+        { "en": "gaudium", "es": "alegría" },
+        { "en": "virtus", "es": "valor" },
+        { "en": "urbs", "es": "ciudad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma del ablativo plural de «currus, -ūs» (m., carro), de la cuarta declinación?",
+      "options": ["currīs", "currubus", "curribus"],
+      "correct": 2,
+      "hint": "La desinencia regular de ablativo plural de la 4ª declinación es «-ibus», salvo excepciones arcaicas.",
+      "explanation": "Currus toma la desinencia regular de la 4ª declinación, «-ibus», dando curribus. Currīs pertenecería a la 1ª o 2ª declinación, y currubus es la desinencia arcaica que solo conservan palabras como arcus o artus."
+    },
+    {
+      "type": "gap",
+      "text": "Nāvis ___ īnsulā nāvigat.",
+      "options": ["in", "ab", "cum"],
+      "answer": "ab",
+      "explanation": "El punto de partida del movimiento (Unde) se expresa con «ā/ab» + ablativo cuando se sale desde las inmediaciones de un lugar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El general viene desde Atenas",
+      "direction": "es-en",
+      "tiles": ["Dux", "Athēnīs", "venit", "ab", "Athēnās"],
+      "answer": "Dux Athēnīs venit",
+      "explanation": "Atenas es un nombre de ciudad plural de la 1ª declinación: el punto de partida se expresa en ablativo nudo, Athēnīs, sin la preposición «ab». «Athēnās» es acusativo, forma incorrecta."
+    },
+    {
+      "type": "speak",
+      "text": "Nāvis ab īnsulā nāvigat.",
+      "es": "El barco navega desde la isla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se dice correctamente «El soldado lucha con la espada» evitando el error típico del hispanohablante?",
+      "options": ["Mīles cum gladiō pugnat.", "Mīles gladiō pugnat.", "Mīles per gladium pugnat."],
+      "correct": 1,
+      "hint": "La espada es un objeto inanimado: no necesita preposición.",
+      "explanation": "La espada es un instrumento inanimado y va en ablativo nudo: gladiō. «Cum gladiō» calca la preposición «con» del español, un error típico; «per gladium» se reserva para intermediarios humanos, no para objetos."
+    },
+    {
+      "type": "gap",
+      "text": "Pater ___ ambulat.",
+      "options": ["in Rōmā", "Rōmae", "ab Rōmā"],
+      "answer": "Rōmae",
+      "explanation": "Roma es una ciudad singular de la 1ª declinación: el lugar «en donde» se expresa con el caso locativo, Rōmae, sin ninguna preposición."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El padre vive en Roma",
+      "direction": "es-en",
+      "tiles": ["Pater", "Rōmae", "habitat", "in", "Rōmam"],
+      "answer": "Pater Rōmae habitat",
+      "explanation": "«Rōmae» es el caso locativo, obligatorio para ciudades singulares de la 1ª y 2ª declinación, y no lleva preposición. «In» sobra y «Rōmam» es acusativo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra latina con su traducción",
+      "pairs": [
+        { "en": "oppidum", "es": "plaza fuerte" },
+        { "en": "flumen", "es": "río" },
+        { "en": "silva", "es": "bosque" },
+        { "en": "domus", "es": "casa" },
+        { "en": "patria", "es": "patria" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se dice correctamente «El enemigo es herido por la espada» (medio inanimado en una oración pasiva)?",
+      "options": ["Hostis gladiō vulnerātur.", "Hostis ab gladiō vulnerātur.", "Hostis cum gladiō vulnerātur."],
+      "correct": 0,
+      "hint": "Aunque la frase esté en pasiva, la espada sigue siendo un objeto, no una persona.",
+      "explanation": "Aunque la oración esté en pasiva, la espada es un objeto inanimado, así que se mantiene el ablativo instrumental nudo: gladiō. «Ab» se reserva para agentes animados y «cum» para compañía, ninguno aplicable aquí."
+    },
+    {
+      "type": "gap",
+      "text": "Dux ___ venit.",
+      "options": ["ab Athēnīs", "Athēnīs", "in Athēnīs"],
+      "answer": "Athēnīs",
+      "explanation": "Atenas, nombre de ciudad plural, expresa el punto de partida (Unde) en ablativo nudo, sin preposición: Athēnīs."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Escribo con gran cuidado",
+      "direction": "es-en",
+      "tiles": ["Magnā", "cum", "cūrā", "scrībō", "cūra", "cūram"],
+      "answer": "Magnā cum cūrā scrībō",
+      "explanation": "Cuando el sustantivo de modo lleva un adjetivo, la prosa clásica prefiere la preposición «cum» interpuesta entre ambos: magnā cum cūrā. «Cūra» es nominativo y «cūram» acusativo, formas incorrectas."
+    },
+    {
+      "type": "speak",
+      "text": "Nōbilī locō nātus.",
+      "es": "Nacido de noble cuna."
+    },
+    {
+      "type": "gap",
+      "text": "Scrībō ___ diligentiā.",
+      "options": ["cum", "ab", "ex"],
+      "answer": "cum",
+      "explanation": "Si el sustantivo de modo (diligentia) no lleva un adjetivo que lo califique, es obligatorio usar la preposición «cum» + ablativo."
+    }
+  ]
+}

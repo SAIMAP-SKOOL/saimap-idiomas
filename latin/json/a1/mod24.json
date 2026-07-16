@@ -1,0 +1,252 @@
+{
+  "id": "a1-mod24",
+  "module": 24,
+  "title": "Duplex Accusativus",
+  "subtitle": "Doble Acusativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "docere", "es": "enseñar" },
+        { "en": "celare", "es": "ocultar" },
+        { "en": "rogare", "es": "rogar" },
+        { "en": "poscere", "es": "exigir" },
+        { "en": "vocare", "es": "llamar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la traducción correcta y gramatical de «Magister docet pueros grammaticam»?",
+      "options": [
+        "El maestro enseña a los niños de la gramática.",
+        "El maestro enseña gramática a los niños.",
+        "El maestro es enseñado por los niños de gramática."
+      ],
+      "correct": 1,
+      "hint": "«Docet» rige dos acusativos a la vez: uno de persona y otro de cosa.",
+      "explanation": "El verbo «docere» rige doble acusativo: «pueros» (acusativo de persona, traducido como «a los niños») y «grammaticam» (acusativo de cosa, «gramática»)."
+    },
+    {
+      "type": "gap",
+      "text": "Doceo ___ litteras. (os enseño las letras — acusativo de persona, no dativo)",
+      "options": ["vobis", "vos", "vestri"],
+      "answer": "vos",
+      "explanation": "«Docere» rige acusativo de persona: «vos» (a vosotros), nunca el dativo «vobis», que sería el calco directo del español «os enseño»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os enseño las letras",
+      "direction": "es-la",
+      "tiles": ["Doceo", "vos", "litteras", "vobis", "litteris"],
+      "answer": "Doceo vos litteras",
+      "explanation": "«Docere» rige doble acusativo: «vos» (persona, acusativo) y «litteras» (cosa, acusativo); «vobis» sería el error de usar dativo por calco del español."
+    },
+    {
+      "type": "speak",
+      "text": "Doceo vos litteras.",
+      "es": "Os enseño las letras."
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Populus appellavit eum regem», ¿qué función realiza «regem»?",
+      "options": ["Objeto Directo.", "Sujeto de la oración.", "Predicativo del Objeto Directo."],
+      "correct": 2,
+      "hint": "«Eum» ya es el objeto directo: «regem» completa su significado.",
+      "explanation": "«Regem» (Acusativo) completa el sentido del objeto directo «eum» bajo la rección del verbo copulativo transitivo «appellavit» (llamó / nombró)."
+    },
+    {
+      "type": "gap",
+      "text": "Celo ___ hanc rem. (te oculto este asunto — acusativo de persona)",
+      "options": ["tibi", "te", "tui"],
+      "answer": "te",
+      "explanation": "«Celare» rige acusativo de persona: «te» (a ti), no el dativo «tibi», que sería el calco del español «te oculto»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "appellare", "es": "nombrar" },
+        { "en": "creare", "es": "crear" },
+        { "en": "facere", "es": "hacer" },
+        { "en": "putare", "es": "pensar" },
+        { "en": "existimare", "es": "juzgar" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Te oculto este asunto",
+      "direction": "es-la",
+      "tiles": ["Celo", "te", "hanc", "rem", "tibi", "hac"],
+      "answer": "Celo te hanc rem",
+      "explanation": "«Celare» rige doble acusativo: «te» (persona) y «hanc rem» (cosa); «tibi» sería el error de dativo por calco del español y «hac» un ablativo incorrecto."
+    },
+    {
+      "type": "gap",
+      "text": "Rogo ___ auxilium. (ruego a Dios ayuda — acusativo de persona)",
+      "options": ["Deo", "Deum", "Dei"],
+      "answer": "Deum",
+      "explanation": "«Rogare» rige doble acusativo: «Deum» (persona) y «auxilium» (cosa); «Deo» (dativo) y «Dei» (genitivo) no son las formas exigidas por este verbo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué es incorrecta la frase «Celo tibi veritatem»?",
+      "options": [
+        "La persona a la que se oculta debe ir en Acusativo, no en Dativo.",
+        "El verbo «celare» exige la preposición «cum».",
+        "«Veritatem» debería ser ablativo."
+      ],
+      "correct": 0,
+      "hint": "El error está en el caso del pronombre de persona, no en el de «veritatem».",
+      "explanation": "Los verbos de ocultar («celare») pertenecen al grupo de doble acusativo: rigen acusativo de persona («te» / a ti) y acusativo de cosa («veritatem» / la verdad), no dativo «tibi»."
+    },
+    {
+      "type": "speak",
+      "text": "Celo te hanc rem.",
+      "es": "Te oculto este asunto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ruega a Dios ayuda",
+      "direction": "es-la",
+      "tiles": ["Rogat", "Deum", "auxilium", "Deo", "auxilii"],
+      "answer": "Rogat Deum auxilium",
+      "explanation": "«Rogare» rige doble acusativo: «Deum» (persona) y «auxilium» (cosa); «Deo» sería el error de dativo y «auxilii» un genitivo incorrecto."
+    },
+    {
+      "type": "gap",
+      "text": "Iesus vocavit Petrum ___. (Jesús llamó a Pedro apóstol — predicativo en acusativo)",
+      "options": ["apostolus", "apostoli", "apostolum"],
+      "answer": "apostolum",
+      "explanation": "El predicativo del objeto directo debe concordar en caso Acusativo con «Petrum»: «apostolum», no el nominativo «apostolus» ni el genitivo «apostoli»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "eligere", "es": "elegir" },
+        { "en": "litterae", "es": "letras" },
+        { "en": "auxilium", "es": "ayuda" },
+        { "en": "consul", "es": "cónsul" },
+        { "en": "apostolus", "es": "apóstol" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Populus creat eum ___. (el pueblo lo elige cónsul — predicativo en acusativo)",
+      "options": ["consulem", "consul", "consulis"],
+      "answer": "consulem",
+      "explanation": "El predicativo «consulem» debe concordar en caso Acusativo con el objeto directo «eum», no ir en nominativo «consul» ni en genitivo «consulis»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jesús llamó a Pedro apóstol",
+      "direction": "es-la",
+      "tiles": ["Iesus", "vocavit", "Petrum", "apostolum", "apostolus", "Petro"],
+      "answer": "Iesus vocavit Petrum apostolum",
+      "explanation": "«Petrum» es el objeto directo y «apostolum» su predicativo: ambos concuerdan en acusativo. «Apostolus» (nominativo) y «Petro» (dativo/ablativo) rompen esa concordancia."
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce «Rogo te auxilium»:",
+      "options": ["Ruego por tu ayuda.", "Te ruego ayuda.", "Ruego a la ayuda para ti."],
+      "correct": 1,
+      "hint": "Identifica los dos acusativos: uno de persona y otro de cosa.",
+      "explanation": "Es un doble acusativo de pedir: «te» (Ac. persona, «te») y «auxilium» (Ac. cosa, «ayuda»): «Te ruego ayuda»."
+    },
+    {
+      "type": "gap",
+      "text": "Magister docet pueros ___. (el maestro enseña gramática a los niños — acusativo de cosa)",
+      "options": ["grammaticae", "grammaticam", "grammatica"],
+      "answer": "grammaticam",
+      "explanation": "El acusativo de cosa exigido por «docere» es «grammaticam», no el dativo/genitivo «grammaticae» ni el ablativo «grammatica»."
+    },
+    {
+      "type": "speak",
+      "text": "Iesus vocavit Petrum apostolum.",
+      "es": "Jesús llamó a Pedro apóstol."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "discipulus", "es": "discípulo" },
+        { "en": "magister", "es": "maestro" },
+        { "en": "rex", "es": "rey" },
+        { "en": "regina", "es": "reina" },
+        { "en": "populus", "es": "pueblo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El pueblo lo elige cónsul",
+      "direction": "es-la",
+      "tiles": ["Populus", "creat", "eum", "consulem", "consul", "ei"],
+      "answer": "Populus creat eum consulem",
+      "explanation": "«Eum» (objeto directo) y «consulem» (predicativo) van ambos en acusativo; «consul» (nominativo) y «ei» (dativo) romperían la concordancia exigida."
+    },
+    {
+      "type": "quiz",
+      "q": "En la oración «Romani creant Caesarem imperatorem», ¿cuántos acusativos hay y cuáles son?",
+      "options": [
+        "Uno: Caesarem.",
+        "Tres: Romani, Caesarem e imperatorem.",
+        "Dos: Caesarem (OD) e imperatorem (Predicativo)."
+      ],
+      "correct": 2,
+      "hint": "«Romani» es el sujeto: no cuentes esa palabra entre los acusativos.",
+      "explanation": "Hay dos acusativos: «Caesarem» (objeto directo de persona) e «imperatorem» (predicativo del objeto, que concuerda en acusativo). «Romani» es nominativo plural (sujeto)."
+    },
+    {
+      "type": "gap",
+      "text": "Romani creant Caesarem ___. (los romanos eligen a César emperador — predicativo)",
+      "options": ["imperator", "imperatorem", "imperatoris"],
+      "answer": "imperatorem",
+      "explanation": "El predicativo «imperatorem» concuerda en acusativo con el objeto directo «Caesarem»; «imperator» es nominativo e «imperatoris» genitivo, ninguno válido aquí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Te ruego ayuda",
+      "direction": "es-la",
+      "tiles": ["Rogo", "te", "auxilium", "tibi", "auxilii"],
+      "answer": "Rogo te auxilium",
+      "explanation": "«Rogare» rige doble acusativo: «te» (persona) y «auxilium» (cosa); «tibi» sería el error de dativo por calco del español."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estas frases es gramaticalmente correcta?",
+      "options": ["Doceo vos latinam linguam.", "Doceo vobis latinam linguam.", "Doceo vestri latinam linguam."],
+      "correct": 0,
+      "hint": "Recuerda que la persona enseñada es objeto directo, no objeto indirecto.",
+      "explanation": "«Docere» rige acusativo de persona: «vos». «Vobis» (dativo) y «vestri» (genitivo) son los errores típicos por calco del objeto indirecto español."
+    },
+    {
+      "type": "gap",
+      "text": "Celo te ___. (te oculto la verdad — acusativo de cosa)",
+      "options": ["veritatem", "veritas", "veritatis"],
+      "answer": "veritatem",
+      "explanation": "El acusativo de cosa exigido por «celare» es «veritatem», no el nominativo «veritas» ni el genitivo «veritatis»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El maestro enseña gramática a los niños",
+      "direction": "es-la",
+      "tiles": ["Magister", "docet", "pueros", "grammaticam", "pueris", "grammaticae"],
+      "answer": "Magister docet pueros grammaticam",
+      "explanation": "«Pueros» (persona) y «grammaticam» (cosa) van ambos en acusativo por rección de «docere»; «pueris» (dativo) y «grammaticae» (genitivo/dativo) serían errores de calco."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la frase correcta según la rección del verbo «rogare»?",
+      "options": ["Rogo Deo pacem.", "Rogo Dei pacem.", "Rogo Deum pacem."],
+      "correct": 2,
+      "hint": "El verbo «rogare» rige doble acusativo: persona y cosa, no dativo ni genitivo.",
+      "explanation": "«Rogare» rige doble acusativo: «Deum» (persona) y «pacem» (cosa). «Rogo Deo pacem» comete el error de usar dativo en vez de acusativo de persona."
+    },
+    {
+      "type": "speak",
+      "text": "Rogo te auxilium.",
+      "es": "Te ruego ayuda."
+    }
+  ]
+}

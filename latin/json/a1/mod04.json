@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod04",
+  "module": 4,
+  "title": "Concordantia Adiectivorum",
+  "subtitle": "Concordancia de Adjetivos",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "bonus", "es": "bueno" },
+        { "en": "malus", "es": "malo" },
+        { "en": "magnus", "es": "grande" },
+        { "en": "parvus", "es": "pequeño" },
+        { "en": "multus", "es": "mucho" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la concordancia correcta en acusativo singular para «el poeta ilustre»?",
+      "options": ["poetam claram", "poetam clarus", "poetam clarum"],
+      "correct": 2,
+      "hint": "«Poeta» es masculino aunque termine en -a: el adjetivo debe ir en masculino Y en el mismo caso que «poetam» (acusativo).",
+      "explanation": "«Poeta» es masculino, así que el adjetivo toma la forma masculina («clarus, -a, -um») y debe concordar también en caso acusativo singular: «clarum». «Claram» aplica el género femenino y «clarus» mantiene el adjetivo en nominativo sin declinar al acusativo que exige «poetam»."
+    },
+    {
+      "type": "gap",
+      "text": "Nauta bon___ est.",
+      "options": ["us", "a", "um"],
+      "answer": "us",
+      "explanation": "«Nauta» es masculino pese a su terminación en -a; el adjetivo predicativo con «est» debe ir en nominativo masculino singular: «bonus». «a» daría femenino y «um» neutro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El marinero es bueno",
+      "direction": "es-la",
+      "tiles": ["Nauta", "bonus", "est", "bona"],
+      "answer": "Nauta bonus est",
+      "explanation": "«Nauta» es masculino, así que el adjetivo debe concordar en masculino: «bonus». «Bona» es femenino, el error típico al ver la terminación -a de «nauta»."
+    },
+    {
+      "type": "speak",
+      "text": "Nauta magnus est.",
+      "es": "El marinero es grande."
+    },
+    {
+      "type": "gap",
+      "text": "Templa antiqu___ sunt.",
+      "options": ["i", "a", "ae"],
+      "answer": "a",
+      "explanation": "«Templa» es nominativo plural neutro (de «templum»). El adjetivo debe tomar la desinencia neutra plural, también «-a»: «antiqua». «i» sería masculino plural y «ae» femenino plural, géneros que no corresponden."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se traduce «los hermosos templos» (como sujeto)?",
+      "options": ["templa pulchrae", "templa pulchra", "templa pulcher"],
+      "correct": 1,
+      "hint": "«Templum» es neutro: en plural, nominativo y acusativo comparten siempre la misma desinencia -a.",
+      "explanation": "«Templa» es nominativo plural neutro, y el adjetivo «pulcher, pulchra, pulchrum» (que pierde la -e- en la flexión) toma también la desinencia neutra plural -a: «pulchra». «pulchrae» es femenino plural (confunde el neutro con la 1ª declinación) y «pulcher» es la forma sin declinar del nominativo singular masculino."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "novus", "es": "nuevo" },
+        { "en": "antiquus", "es": "antiguo" },
+        { "en": "clarus", "es": "ilustre / célebre" },
+        { "en": "pulcher", "es": "hermoso" },
+        { "en": "miser", "es": "desgraciado" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Cum naut___ bonis.",
+      "options": ["as", "is", "arum"],
+      "answer": "is",
+      "explanation": "«Cum» rige ablativo, y el ablativo plural de «nauta» es «nautis» (como «rosis»), para concordar con el adjetivo «bonis». «as» es acusativo plural (error típico) y «arum» genitivo plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El poeta ilustre escribe",
+      "direction": "es-la",
+      "tiles": ["Poeta", "clarus", "scribit", "clara"],
+      "answer": "Poeta clarus scribit",
+      "explanation": "«Poeta» es masculino de la 1ª declinación: el adjetivo debe concordar en masculino, «clarus». «Clara» es femenino, el error de concordancia más común con este tipo de sustantivos."
+    },
+    {
+      "type": "quiz",
+      "q": "En «Verba agricolae ___ sunt», ¿qué forma de fidus, -a, -um completa la concordancia con el sujeto?",
+      "options": ["fidae", "fida", "fidi"],
+      "correct": 1,
+      "hint": "Busca primero el sujeto real de «sunt»: ¿es «verba» o «agricolae»?",
+      "explanation": "El sujeto es «verba» (neutro plural: «las palabras»), no «agricolae» (genitivo singular: «del agricultor»). El adjetivo debe concordar con «verba» en neutro plural: «fida». «fidae» y «fidi» aplicarían erróneamente género femenino o masculino, dejándose engañar por «agricolae»."
+    },
+    {
+      "type": "gap",
+      "text": "Agricolae fess___ laborant.",
+      "options": ["i", "a", "ae"],
+      "answer": "i",
+      "explanation": "«Agricolae» es aquí nominativo plural masculino (sujeto de «laborant»). El adjetivo debe concordar en masculino plural: «fessi». «a» sería neutro/femenino y «ae» femenino plural, géneros que no corresponden a «agricola» (masculino)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los templos antiguos son",
+      "direction": "es-la",
+      "tiles": ["Templa", "antiqua", "sunt", "antiqui"],
+      "answer": "Templa antiqua sunt",
+      "explanation": "«Templa» es neutro plural, así que el adjetivo debe concordar también en neutro plural: «antiqua». «Antiqui» (masculino plural) es el error habitual al confundir la desinencia -a del neutro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "longus", "es": "largo" },
+        { "en": "saevus", "es": "cruel / feroz" },
+        { "en": "fidus", "es": "fiel" },
+        { "en": "liber", "es": "libre" },
+        { "en": "nauta", "es": "marinero" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estas combinaciones presenta un error de concordancia en caso ablativo singular?",
+      "options": ["cum domino saevo", "cum agricola fido", "cum nauta bona"],
+      "correct": 2,
+      "hint": "«Cum» rige ablativo: revisa si el adjetivo concuerda en género con cada sustantivo, no solo en desinencia.",
+      "explanation": "«Nauta» es masculino, así que su adjetivo debe ir también en ablativo masculino singular: «nauta bono» (no «nauta bona», que es femenino). «Cum domino saevo» y «cum agricola fido» sí concuerdan correctamente: ambos sustantivos son masculinos y llevan sus adjetivos en la forma masculina del ablativo."
+    },
+    {
+      "type": "gap",
+      "text": "Poeta clar___ scribit.",
+      "options": ["a", "us", "um"],
+      "answer": "us",
+      "explanation": "«Poeta» es masculino de la 1ª declinación: el adjetivo debe concordar en nominativo masculino singular, «clarus». «a» da femenino (error típico) y «um» neutro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La niña es hermosa",
+      "direction": "es-la",
+      "tiles": ["Puella", "est", "pulchra", "pulcher"],
+      "answer": "Puella est pulchra",
+      "explanation": "«Puella» es femenino y exige el adjetivo predicativo en femenino: «pulchra». «Pulcher» es la forma de nominativo masculino singular sin declinar, que no concuerda con «puella»."
+    },
+    {
+      "type": "speak",
+      "text": "Poeta erit clarus.",
+      "es": "El poeta será ilustre."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el genitivo plural femenino del adjetivo miser, misera, miserum?",
+      "options": ["miserae", "miserarum", "miserorum"],
+      "correct": 1,
+      "hint": "Las formas femeninas de los adjetivos de primera clase se declinan por la 1ª declinación: ¿qué desinencia tiene su genitivo plural?",
+      "explanation": "El genitivo plural de la 1ª declinación es «-arum»: «miserarum». «miserae» es singular (genitivo, dativo o nominativo plural, pero no genitivo plural) y «miserorum» aplica la desinencia masculina/neutra de la 2ª declinación."
+    },
+    {
+      "type": "gap",
+      "text": "Puella est pulchr___.",
+      "options": ["a", "us", "ae"],
+      "answer": "a",
+      "explanation": "«Puella» es femenino y el adjetivo predicativo con «est» concuerda en femenino singular: «pulchra». «us» daría masculino y «ae» genitivo/dativo singular o nominativo plural, casos que no corresponden aquí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Las guerras son peligrosas",
+      "direction": "es-la",
+      "tiles": ["Bella", "sunt", "periculosa", "periculosae"],
+      "answer": "Bella sunt periculosa",
+      "explanation": "«Bella» es neutro plural (de «bellum») y el adjetivo predicativo concuerda también en neutro plural: «periculosa». «Periculosae» (femenino plural) confunde la desinencia -a del neutro con la de la primera declinación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "poeta", "es": "poeta" },
+        { "en": "agricola", "es": "agricultor" },
+        { "en": "incola", "es": "habitante" },
+        { "en": "puella", "es": "niña" },
+        { "en": "patria", "es": "patria" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué «bella longa» (las guerras largas) puede confundirse visualmente con un sustantivo femenino singular?",
+      "options": ["Porque «bella» y «longa» son neutro plural, y esa desinencia -a coincide por homonimia con la de un femenino singular como «puella bona»", "Porque «bellum» es en realidad de la primera declinación femenina", "Porque el plural neutro y el plural femenino comparten siempre la misma raíz léxica"],
+      "correct": 0,
+      "hint": "Piensa en qué otra desinencia -a conoces del femenino singular y compárala con el neutro plural.",
+      "explanation": "El neutro plural de la 2ª declinación termina en -a (bella, longa), la misma desinencia que el nominativo singular femenino de la 1ª declinación (puella bona). Es pura homonimia formal: «bellum» sigue siendo neutro de la 2ª declinación, y neutro plural y femenino singular no comparten raíz, solo coinciden por casualidad en esa terminación."
+    },
+    {
+      "type": "gap",
+      "text": "Bella sunt periculos___.",
+      "options": ["a", "ae", "us"],
+      "answer": "a",
+      "explanation": "«Bella» es neutro plural (de «bellum»): el adjetivo predicativo concuerda también en neutro plural, «-a». «ae» daría femenino plural y «us» masculino singular, géneros que no corresponden."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El agricultor fiel trabaja",
+      "direction": "es-la",
+      "tiles": ["Agricola", "fidus", "laborat", "fida"],
+      "answer": "Agricola fidus laborat",
+      "explanation": "«Agricola» es masculino pese a la terminación en -a: el adjetivo debe concordar en masculino, «fidus». «Fida» es femenino, el error de concordancia discordante típico de estos sustantivos."
+    },
+    {
+      "type": "speak",
+      "text": "Verba agricolae fida sunt.",
+      "es": "Las palabras del agricultor son fieles."
+    },
+    {
+      "type": "quiz",
+      "q": "En «agricolae ___ laborant» (los agricultores cansados trabajan), ¿qué forma completa correctamente el adjetivo fessus, -a, -um?",
+      "options": ["fessi", "fessa", "fessae"],
+      "correct": 0,
+      "hint": "«Agricolae» aquí es un sustantivo masculino en nominativo plural (sujeto de «laborant»): ¿qué género debe llevar el adjetivo?",
+      "explanation": "«Agricola» es masculino pese a su terminación en -a; en nominativo plural el adjetivo debe tomar la forma masculina de la 2ª declinación: «fessi». «fessa» es neutro/femenino plural y «fessae» femenino plural, géneros que no corresponden al sujeto masculino."
+    },
+    {
+      "type": "gap",
+      "text": "Poeta erit clar___.",
+      "options": ["us", "a", "um"],
+      "answer": "us",
+      "explanation": "«Poeta» es masculino, así que el atributo con «erit» (será) concuerda en nominativo masculino singular: «clarus». «a» daría femenino y «um» neutro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los agricultores cansados trabajan",
+      "direction": "es-la",
+      "tiles": ["Agricolae", "fessi", "laborant", "fessa"],
+      "answer": "Agricolae fessi laborant",
+      "explanation": "«Agricolae» (sujeto masculino plural) exige el adjetivo también en masculino plural: «fessi». «Fessa» (neutro/femenino plural) es el error de concordancia habitual con este sustantivo."
+    },
+    {
+      "type": "speak",
+      "text": "Amicus fidus est.",
+      "es": "El amigo es fiel."
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "a1-mod22",
+  "module": 22,
+  "title": "Adverbia",
+  "subtitle": "Adverbios",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "clare", "es": "claramente" },
+        { "en": "pulchre", "es": "bellamente" },
+        { "en": "bene", "es": "bien" },
+        { "en": "male", "es": "mal" },
+        { "en": "fortiter", "es": "valientemente" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el adverbio de modo derivado del adjetivo «clarus, -a, -um»?",
+      "options": ["clare", "clariter", "claramente"],
+      "correct": 0,
+      "hint": "Los adjetivos de la primera clase (los que terminan en «-us, -a, -um») forman el adverbio con una sola vocal final.",
+      "explanation": "Al ser un adjetivo de la primera clase, «clarus» forma su adverbio de modo con la desinencia «-e»: «clare». «Clariter» aplica a otra clase de adjetivos y «claramente» es un calco del sufijo romance «-mente», que el latín clásico no usa."
+    },
+    {
+      "type": "gap",
+      "text": "Dicit ___. (adverbio de «clarus»: habla con claridad)",
+      "options": ["clare", "clariter", "claramente"],
+      "answer": "clare",
+      "explanation": "«Clarus» es un adjetivo de primera clase, así que su adverbio de modo se forma con «-e»: «clare», no con «-iter» ni con el calco romance «-mente»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los soldados luchan valientemente en la ciudad",
+      "direction": "es-la",
+      "tiles": ["Milites", "fortiter", "in", "urbe", "pugnant", "forte", "urbem"],
+      "answer": "Milites fortiter in urbe pugnant",
+      "explanation": "«Fortiter» es el adverbio de modo de «fortis» (segunda clase, desinencia «-ter»); «urbe» va en ablativo tras la preposición «in» de ubicación, no en acusativo «urbem»."
+    },
+    {
+      "type": "speak",
+      "text": "Quo vadis, Domine?",
+      "es": "¿A dónde vas, Señor?"
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la diferencia sintáctica entre «ubi» y «quo»?",
+      "options": [
+        "Ubi indica procedencia y quo dirección.",
+        "No hay diferencia entre ambos, son sinónimos.",
+        "Ubi indica reposo (dónde) y quo movimiento o dirección (a dónde)."
+      ],
+      "correct": 2,
+      "hint": "Piensa en la diferencia entre estar quieto en un sitio y moverse hacia él.",
+      "explanation": "El latín es muy estricto: «ubi» se usa exclusivamente para verbos de estado o reposo («ubi est?»), mientras que «quo» se reserva para verbos de movimiento hacia un lugar («quo vadis?»)."
+    },
+    {
+      "type": "gap",
+      "text": "___ vadis, Domine? (pregunta por la dirección, no el lugar de reposo)",
+      "options": ["Ubi", "Quo", "Unde"],
+      "answer": "Quo",
+      "explanation": "El verbo «vadis» («vas») expresa movimiento, así que exige el adverbio de dirección «quo» (a dónde), no «ubi» (reposo) ni «unde» (procedencia)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "prudenter", "es": "prudentemente" },
+        { "en": "facile", "es": "fácilmente" },
+        { "en": "multum", "es": "mucho" },
+        { "en": "ubi", "es": "dónde" },
+        { "en": "quo", "es": "a dónde" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿A dónde vas, Señor?",
+      "direction": "es-la",
+      "tiles": ["Quo", "vadis", "Domine", "Ubi", "Dominus"],
+      "answer": "Quo vadis, Domine",
+      "explanation": "El verbo de movimiento «vadis» exige el adverbio de dirección «quo», no el de reposo «ubi»; «Domine» es el vocativo de apelación, no el nominativo «Dominus»."
+    },
+    {
+      "type": "gap",
+      "text": "___ est liber? (pregunta por el lugar de reposo, no la dirección)",
+      "options": ["Quo", "Ubi", "Qua"],
+      "answer": "Ubi",
+      "explanation": "El verbo «est» (estar) expresa reposo, así que exige el adverbio «ubi» (dónde), no «quo» (dirección) ni «qua» (tránsito)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el adverbio de modo del adjetivo «fortis, forte»?",
+      "options": ["forte", "fortiter", "fortitermente"],
+      "correct": 1,
+      "hint": "Este adjetivo pertenece a la segunda clase (tercera declinación): su desinencia adverbial no es una sola vocal.",
+      "explanation": "Los adjetivos de la segunda clase forman el adverbio de modo con la terminación «-ter» añadida a la raíz, resultando «fortiter» (valientemente). «Forte» es la forma neutra del adjetivo y «fortitermente» mezcla dos sufijos de forma incorrecta."
+    },
+    {
+      "type": "speak",
+      "text": "Milites fortiter pugnant.",
+      "es": "Los soldados luchan valientemente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "¿De dónde vienes?",
+      "direction": "es-la",
+      "tiles": ["Unde", "venis", "Quo", "Ubi"],
+      "answer": "Unde venis",
+      "explanation": "«Unde» pregunta por la procedencia («de dónde»), distinto de «quo» (dirección) y «ubi» (reposo)."
+    },
+    {
+      "type": "gap",
+      "text": "___ venis, discipule? (pregunta por la procedencia)",
+      "options": ["Quo", "Ubi", "Unde"],
+      "answer": "Unde",
+      "explanation": "«Unde» es el adverbio que pregunta por el origen o procedencia («de dónde»), a diferencia de «quo» (dirección) y «ubi» (reposo)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "unde", "es": "de dónde" },
+        { "en": "qua", "es": "por dónde" },
+        { "en": "hic", "es": "aquí" },
+        { "en": "illic", "es": "allí" },
+        { "en": "nunc", "es": "ahora" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Scribit prudent___. (adverbio de «prudens», raíz terminada en -nt)",
+      "options": ["iter", "ter", "e"],
+      "answer": "ter",
+      "explanation": "En raíces terminadas en «-nt» (como «prudent-»), la desinencia adverbial «-iter» se simplifica fonéticamente en «-ter»: «prudenter», no «prudentiter» ni «prudente»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El maestro habla con claridad",
+      "direction": "es-la",
+      "tiles": ["Magister", "clare", "dicit", "clariter", "claramente"],
+      "answer": "Magister clare dicit",
+      "explanation": "«Clarus» es adjetivo de primera clase, así que su adverbio es «clare» (con «-e»), no «clariter» (propio de la segunda clase) ni el calco romance «claramente»."
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español: «Milites fortiter in urbe pugnant».",
+      "options": [
+        "Los soldados luchan valientemente en la ciudad.",
+        "Los soldados fuertes están en la ciudad de lucha.",
+        "Fuertemente los soldados van hacia la ciudad a luchar."
+      ],
+      "correct": 0,
+      "hint": "Identifica el sujeto, el adverbio de modo, el complemento de lugar y el verbo por separado.",
+      "explanation": "«Milites» es el sujeto («los soldados»), «fortiter» es el adverbio de modo («valientemente»), «in urbe» es el circunstancial de lugar («en la ciudad») y «pugnant» es el verbo («luchan»)."
+    },
+    {
+      "type": "gap",
+      "text": "Non ___ venit ad ecclesiam. (nunca viene a la iglesia)",
+      "options": ["semper", "saepe", "numquam"],
+      "answer": "numquam",
+      "explanation": "«Numquam» significa «nunca» y expresa la ausencia total de la acción; «semper» (siempre) y «saepe» (a menudo) indicarían justo lo contrario."
+    },
+    {
+      "type": "speak",
+      "text": "Ubi est?",
+      "es": "¿Dónde está?"
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "semper", "es": "siempre" },
+        { "en": "saepe", "es": "a menudo" },
+        { "en": "numquam", "es": "nunca" },
+        { "en": "hodie", "es": "hoy" },
+        { "en": "cras", "es": "mañana" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Está bien",
+      "direction": "es-la",
+      "tiles": ["Bene", "est", "Male", "sunt"],
+      "answer": "Bene est",
+      "explanation": "«Bene» (bien) es adverbio de modo del verbo «est» (tercera persona singular de «sum»); «male» significa lo contrario («mal») y «sunt» es plural, no encaja con el sujeto singular."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma del adverbio del adjetivo «prudens, prudentis»?",
+      "options": ["prudentiter", "prudente", "prudenter"],
+      "correct": 2,
+      "hint": "La raíz de este adjetivo termina en «-nt»: la desinencia adverbial se simplifica fonéticamente.",
+      "explanation": "Para adjetivos cuya raíz termina en «-nt» («prudent-»), la terminación «-iter» se simplifica dando la forma «prudenter». «Prudentiter» no simplifica la raíz y «prudente» es forma de ablativo del adjetivo, no un adverbio."
+    },
+    {
+      "type": "gap",
+      "text": "Veniet ___. (mañana, no ayer ni hoy)",
+      "options": ["heri", "hodie", "cras"],
+      "answer": "cras",
+      "explanation": "«Cras» significa «mañana» (el día siguiente); «heri» es «ayer» y «hodie» es «hoy», ambos incompatibles con un verbo en futuro («veniet»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nunca viene aquí",
+      "direction": "es-la",
+      "tiles": ["Numquam", "hic", "venit", "Semper", "illic"],
+      "answer": "Numquam hic venit",
+      "explanation": "«Numquam» (nunca) niega totalmente la acción y «hic» (aquí) indica reposo en el lugar; «semper» (siempre) y «illic» (allí) invertirían el sentido de la frase."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de las siguientes frases es gramaticalmente correcta?",
+      "options": ["Scribit fortementer.", "Scribit fortiter.", "Scribit fortemente."],
+      "correct": 1,
+      "hint": "El latín clásico no usa un sufijo equivalente a «-mente»: busca la desinencia adverbial propia de la segunda clase.",
+      "explanation": "El adjetivo «fortis» (segunda clase) forma su adverbio en «-ter»: «fortiter». El latín no tiene un sufijo equivalente a «-mente», así que «fortementer» y «fortemente» son calcos incorrectos del español."
+    },
+    {
+      "type": "gap",
+      "text": "___ dicit clare. (adverbio de tiempo: hoy)",
+      "options": ["Heri", "Hodie", "Cras"],
+      "answer": "Hodie",
+      "explanation": "«Hodie» significa «hoy»; «heri» es «ayer» y «cras» es «mañana», ambos referidos a otro momento distinto del presente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El discípulo bueno escribe rápido",
+      "direction": "es-la",
+      "tiles": ["Discipulus", "bonus", "cito", "scribit", "tardius", "statim"],
+      "answer": "Discipulus bonus cito scribit",
+      "explanation": "«Cito» significa «rápido / velozmente»; «tardius» (más tarde) y «statim» (al instante) son adverbios de tiempo distintos que no equivalen a «rápido»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la pregunta correcta para «¿Por dónde pasas?»?",
+      "options": ["Ubi transis?", "Quo transis?", "Qua transis?"],
+      "correct": 2,
+      "hint": "No es reposo ni destino final: es el trayecto intermedio por el que se pasa.",
+      "explanation": "«Qua» pregunta por el tránsito o camino intermedio («por dónde»). «Ubi» pregunta por el reposo y «quo» por el destino final del movimiento, ninguno equivale a «por dónde»."
+    },
+    {
+      "type": "speak",
+      "text": "Qua transis?",
+      "es": "¿Por dónde pasas?"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod20",
+  "module": 20,
+  "title": "Pronomen Relativum",
+  "subtitle": "El Pronombre Relativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada forma relativa con su traducción",
+      "pairs": [
+        { "en": "qui", "es": "que (masc.)" },
+        { "en": "quae", "es": "que (fem.)" },
+        { "en": "quod", "es": "que (neutro)" },
+        { "en": "quem", "es": "al cual (acusativo masc.)" },
+        { "en": "quam", "es": "a la cual (acusativo fem.)" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En la frase «Femina, quam diligo, in urbe est», ¿por qué se utiliza «quam»?",
+      "options": ["Porque es femenino singular y funciona como objeto directo de diligo.", "Porque es un relativo de lugar.", "Porque concuerda en caso nominativo con femina."],
+      "correct": 0,
+      "hint": "Fíjate en la función sintáctica dentro de la subordinada.",
+      "explanation": "El antecedente «femina» es femenino singular. En la subordinada, el relativo funciona como objeto directo del verbo transitivo «diligo» (yo amo), por lo que exige el caso acusativo femenino singular: «quam»."
+    },
+    {
+      "type": "gap",
+      "text": "Video virum ___ amas (veo al hombre al que amas).",
+      "options": ["qui", "quem", "cuius"],
+      "answer": "quem",
+      "explanation": "El relativo es objeto directo de «amas», por lo que exige acusativo: «quem», no nominativo («qui») ni genitivo («cuius»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Veo al hombre al que amas",
+      "direction": "es-en",
+      "tiles": ["Video", "virum", "quem", "amas", "qui"],
+      "answer": "Video virum quem amas",
+      "explanation": "El relativo es objeto directo de «amas», por lo que exige acusativo: «quem», no nominativo «qui»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el genitivo singular del relativo para los tres géneros?",
+      "options": ["cui", "quorum", "cuius"],
+      "correct": 2,
+      "hint": "Es la misma forma para masculino, femenino y neutro.",
+      "explanation": "El genitivo singular del pronombre relativo tiene la forma común «cuius» para masculino, femenino y neutro: «del cual / de la cual / cuyo»."
+    },
+    {
+      "type": "gap",
+      "text": "Liber ___ in mensa est (el libro que está en la mesa).",
+      "options": ["quem", "qui", "cuius"],
+      "answer": "qui",
+      "explanation": "«Qui» es nominativo porque el relativo funciona como sujeto de «est»."
+    },
+    {
+      "type": "speak",
+      "text": "Deus qui caelum creavit bonus est.",
+      "es": "Dios, que creó el cielo, es bueno."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada forma relativa con su traducción",
+      "pairs": [
+        { "en": "cuius", "es": "cuyo / del cual" },
+        { "en": "cui", "es": "al cual (dativo)" },
+        { "en": "quo", "es": "con el cual (masc./neutro)" },
+        { "en": "qua", "es": "con la cual (fem.)" },
+        { "en": "quorum", "es": "de los cuales" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce al español: «Deus, qui caelum creavit, bonus est».",
+      "options": ["El cielo, que Dios creó, es bueno.", "Dios, que creó el cielo, es bueno.", "Dios, al cual creó el cielo, es bueno."],
+      "correct": 1,
+      "hint": "Qui es nominativo, sujeto de la subordinada.",
+      "explanation": "«Deus» es el sujeto principal, «qui» es el relativo sujeto («que»), «caelum creavit» es la subordinada («creó el cielo») y «bonus est» es el predicado principal («es bueno»)."
+    },
+    {
+      "type": "gap",
+      "text": "Femina, ___ liber est, hic manet (la mujer, cuyo libro es este, se queda aquí).",
+      "options": ["cui", "cuius", "quam"],
+      "answer": "cuius",
+      "explanation": "«Cuius» es el genitivo del relativo, marcando la posesión: «cuyo libro»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El libro que está en la mesa",
+      "direction": "es-en",
+      "tiles": ["Liber", "qui", "in", "mensa", "est", "quem"],
+      "answer": "Liber qui in mensa est",
+      "explanation": "«Qui» es nominativo porque el relativo funciona como sujeto de «est». «Quem» sería el distractor acusativo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el dativo singular del pronombre relativo «qui, quae, quod»?",
+      "options": ["quibus", "cui", "quo"],
+      "correct": 1,
+      "hint": "Es la misma forma para los tres géneros en singular.",
+      "explanation": "El dativo singular del relativo es «cui» para los tres géneros. «Quibus» es el dativo/ablativo plural y «quo» es el ablativo singular masculino/neutro."
+    },
+    {
+      "type": "gap",
+      "text": "Deus, ___ caelum creavit, bonus est (Dios, que creó el cielo, es bueno).",
+      "options": ["quem", "qui", "quod"],
+      "answer": "qui",
+      "explanation": "«Qui» es nominativo porque el relativo funciona como sujeto del verbo subordinado «creavit»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dios, que creó el cielo, es bueno",
+      "direction": "es-en",
+      "tiles": ["Deus", "qui", "caelum", "creavit", "bonus", "est", "quem"],
+      "answer": "Deus qui caelum creavit bonus est",
+      "explanation": "«Qui» es nominativo porque el relativo es sujeto de «creavit». «Quem» (acusativo) sería el distractor de caso."
+    },
+    {
+      "type": "speak",
+      "text": "Femina quam diligo in urbe est.",
+      "es": "La mujer, a la que amo, está en la ciudad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada forma relativa con su traducción",
+      "pairs": [
+        { "en": "quarum", "es": "de las cuales" },
+        { "en": "quibus", "es": "a los / con los cuales" },
+        { "en": "vir", "es": "varón" },
+        { "en": "femina", "es": "mujer" },
+        { "en": "deus", "es": "Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la concordancia del relativo en «Dona __________ mitto magna sunt» (los regalos que envío son grandes)?",
+      "options": ["quod", "quos", "quae"],
+      "correct": 2,
+      "hint": "Dona es neutro plural.",
+      "explanation": "El antecedente «dona» es neutro plural. En la subordinada, el relativo funciona como objeto directo de «mitto» (envío). El acusativo neutro plural del relativo es «quae»."
+    },
+    {
+      "type": "gap",
+      "text": "Dona ___ mitto magna sunt (los regalos que envío son grandes).",
+      "options": ["quod", "quos", "quae"],
+      "answer": "quae",
+      "explanation": "El antecedente «dona» es neutro plural; el acusativo neutro plural del relativo (objeto directo de «mitto») es «quae»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los regalos que envío son grandes",
+      "direction": "es-en",
+      "tiles": ["Dona", "quae", "mitto", "magna", "sunt", "quod"],
+      "answer": "Dona quae mitto magna sunt",
+      "explanation": "El antecedente «dona» es neutro plural; el acusativo neutro plural del relativo (objeto directo de «mitto») es «quae». «Quod» (singular) sería el distractor de número."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta de «veo al hombre al que amas»?",
+      "options": ["Video virum quem amas.", "Video virum qui amas.", "Video virum cuius amas."],
+      "correct": 0,
+      "hint": "El relativo es objeto directo del verbo subordinado.",
+      "explanation": "El relativo es objeto directo de «amas» («tú amas»), por lo que exige acusativo: «quem», no nominativo («qui») ni genitivo («cuius»)."
+    },
+    {
+      "type": "gap",
+      "text": "Vir ___ librum lego magnus est (el hombre cuyo libro leo es grande).",
+      "options": ["quem", "cuius", "cui"],
+      "answer": "cuius",
+      "explanation": "«Cuius» es el genitivo de posesión: «cuyo libro»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El hombre cuyo libro leo",
+      "direction": "es-en",
+      "tiles": ["Vir", "cuius", "librum", "lego", "qui", "quem"],
+      "answer": "Vir cuius librum lego",
+      "explanation": "«Cuius» marca la posesión («cuyo»); «librum» es el objeto directo de «lego». «Qui» y «quem» son distractores de caso del relativo."
+    },
+    {
+      "type": "speak",
+      "text": "Liber qui in mensa est.",
+      "es": "El libro que está en la mesa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "veritas", "es": "verdad" },
+        { "en": "vita", "es": "vida" },
+        { "en": "lux", "es": "luz" },
+        { "en": "terra", "es": "tierra" },
+        { "en": "caelum", "es": "cielo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta de «la mujer cuyo libro es este»?",
+      "options": ["Femina cuius librum est.", "Femina cui liber est.", "Femina cuius liber est."],
+      "correct": 2,
+      "hint": "Liber es el sujeto de est.",
+      "explanation": "«Liber» es el sujeto de «est» y debe ir en nominativo, no en acusativo («librum»). «Cuius» (genitivo, «cuyo») es correcto para marcar la posesión, no «cui» (dativo)."
+    },
+    {
+      "type": "gap",
+      "text": "Femina, ___ diligo, in urbe est (la mujer, a la que amo, está en la ciudad).",
+      "options": ["quae", "quam", "cui"],
+      "answer": "quam",
+      "explanation": "El relativo funciona como objeto directo de «diligo» (yo amo), por lo que exige el caso acusativo femenino singular: «quam»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La mujer, a la que amo, está en la ciudad",
+      "direction": "es-en",
+      "tiles": ["Femina", "quam", "diligo", "in", "urbe", "est", "quae"],
+      "answer": "Femina quam diligo in urbe est",
+      "explanation": "El relativo funciona como objeto directo de «diligo», por lo que exige acusativo femenino: «quam». «Quae» (nominativo) sería el distractor de caso."
+    },
+    {
+      "type": "gap",
+      "text": "Caelum, ___ videmus, magnum est (el cielo, que vemos, es grande).",
+      "options": ["quod", "qui", "quos"],
+      "answer": "quod",
+      "explanation": "«Caelum» es neutro; el relativo concuerda en neutro acusativo (objeto directo de «videmus»): «quod»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El cielo que vemos es grande",
+      "direction": "es-en",
+      "tiles": ["Caelum", "quod", "videmus", "magnum", "est", "qui"],
+      "answer": "Caelum quod videmus magnum est",
+      "explanation": "«Caelum» es neutro; el relativo concuerda en neutro acusativo «quod» (objeto directo de «videmus»). «Qui» sería el distractor de género."
+    },
+    {
+      "type": "speak",
+      "text": "Vir cuius librum lego magnus est.",
+      "es": "El hombre cuyo libro leo es grande."
+    }
+  ]
+}

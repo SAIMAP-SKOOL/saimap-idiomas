@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod07",
+  "module": 7,
+  "title": "Praesens: Tertia et Quarta Coniugatio",
+  "subtitle": "Presente: 3ª y 4ª Conjugación",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "rego", "es": "dirigir, gobernar" },
+        { "en": "audio", "es": "oír, escuchar" },
+        { "en": "capio", "es": "tomar, capturar" },
+        { "en": "dico", "es": "decir, hablar" },
+        { "en": "facio", "es": "hacer, realizar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta para la 3ª persona del plural del presente de indicativo activo de mitto, mittere?",
+      "options": ["Mittent.", "Mittunt.", "Mittint."],
+      "correct": 1,
+      "hint": "Piensa en qué vocal de unión aparece ante la desinencia -nt en los temas en consonante.",
+      "explanation": "«Mittunt» inserta la vocal de unión -u- ante -nt, propia de la 3ª conjugación. «Mittent» es la forma de futuro imperfecto (confusión de tiempo), y «mittint» usa por error la vocal -i-, que no aparece ante esta desinencia."
+    },
+    {
+      "type": "gap",
+      "text": "Amīcus templum reg___.",
+      "options": ["it", "unt", "et"],
+      "answer": "it",
+      "explanation": "3ª sg. de la 3ª conjugación: raíz reg- + vocal de unión -i- + -t = «regit». «unt» es 3ª pl. y «et» pertenece a la 2ª conjugación, no a esta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El amigo dirige el templo",
+      "direction": "es-la",
+      "tiles": ["Amīcus", "templum", "regit", "regunt", "regis"],
+      "answer": "Amīcus templum regit",
+      "explanation": "«Regit» es 3ª sg. de la 3ª conjugación (raíz reg- + -i- + -t). «Regunt» es 3ª pl. y «regis» es 2ª sg., personas distintas al sujeto singular «el amigo»."
+    },
+    {
+      "type": "speak",
+      "text": "Amīcus templum regit.",
+      "es": "El amigo dirige el templo."
+    },
+    {
+      "type": "gap",
+      "text": "Nōs regem aud___.",
+      "options": ["īmus", "iunt", "it"],
+      "answer": "īmus",
+      "explanation": "1ª persona plural de la 4ª conjugación: tema audī- + -mus, conservando la vocal larga: «audīmus». «iunt» es 3ª plural (con vocal de unión -u-) y «it» es 3ª singular abreviada."
+    },
+    {
+      "type": "quiz",
+      "q": "El verbo facio, facere es de conjugación mixta. ¿Cuál es su infinitivo de presente activo?",
+      "options": ["Facere.", "Facire.", "Facīre."],
+      "correct": 0,
+      "hint": "En el infinitivo, la -i- breve del tema se abre por el contacto con la -r-.",
+      "explanation": "La -i- breve del tema de los verbos mixtos se abre en -e- ante la desinencia -re, dando «facere» (igual que en la 3ª conjugación). «Facire» y «facīre» suponen por error que el tema vocálico se mantiene cerrado o largo, como en la 4ª conjugación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "venio", "es": "venir, llegar" },
+        { "en": "scribo", "es": "escribir" },
+        { "en": "lego", "es": "leer, recoger" },
+        { "en": "mitto", "es": "enviar" },
+        { "en": "pono", "es": "poner, colocar" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Amīcī templum cap___.",
+      "options": ["iunt", "unt", "itis"],
+      "answer": "iunt",
+      "explanation": "En la conjugación mixta, la 3ª persona plural se comporta como la 4ª: tema capi- + vocal de unión -u- + -nt = «capiunt». «unt» (sin -i-) es propio de la 3ª conjugación pura, y «itis» es 2ª plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros oímos al rey",
+      "direction": "es-la",
+      "tiles": ["Regem", "audīmus", "audiunt", "audit"],
+      "answer": "Regem audīmus",
+      "explanation": "«Audīmus» es 1ª persona plural de la 4ª conjugación, con la vocal larga -ī- conservada. «Audiunt» es 3ª pl. y «audit» 3ª sg."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En cuál de estas formas de audire se abrevia por su posición final la vocal larga del tema?",
+      "options": ["Audīs.", "Audītis.", "Audit."],
+      "correct": 2,
+      "hint": "Compara la consonante final de cada desinencia: ¿cuál no es -s?",
+      "explanation": "«Audit» (3ª sg) termina en -t, así que la -ī- larga del tema se abrevia por la ley de abreviación ante consonante final distinta de -s o -r. «Audīs» y «audītis» conservan la vocal larga porque van seguidas de -s."
+    },
+    {
+      "type": "gap",
+      "text": "Tū patriam cap___.",
+      "options": ["is", "es", "īs"],
+      "answer": "is",
+      "explanation": "Ante desinencia consonántica, la conjugación mixta se comporta como la 3ª: tema capĭ- + -s = «capis» (esdrújula). «es» no es una desinencia verbal de presente y «īs» aplicaría por error la vocal larga de la 4ª conjugación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ellos toman el templo",
+      "direction": "es-la",
+      "tiles": ["Templum", "capiunt", "capit", "capimus"],
+      "answer": "Templum capiunt",
+      "explanation": "«Capiunt» es 3ª persona plural de la conjugación mixta, que aquí se comporta como la 4ª (tema capi- + -u- + -nt). «Capit» es 3ª sg. y «capimus» 1ª pl."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "scio", "es": "saber, conocer" },
+        { "en": "duco", "es": "guiar, conducir" },
+        { "en": "vinco", "es": "vencer, derrotar" },
+        { "en": "sentio", "es": "sentir, percibir" },
+        { "en": "peto", "es": "pedir, buscar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estas formas de la 3ª conjugación usa la vocal de unión -i- en la 1ª persona del plural?",
+      "options": ["Scribemus.", "Regimus.", "Audiunt."],
+      "correct": 1,
+      "hint": "Descarta primero la que pertenezca a otro tiempo verbal, y luego la que sea de otra conjugación.",
+      "explanation": "«Regimus» une la raíz reg- a la desinencia -mus mediante la vocal de unión -i-. «Scribemus» es futuro, no presente, y «audiunt» es la 3ª plural de la 4ª conjugación, no la 1ª plural de la 3ª."
+    },
+    {
+      "type": "gap",
+      "text": "Rex amīcum duc___.",
+      "options": ["it", "unt", "io"],
+      "answer": "it",
+      "explanation": "3ª sg. de la 3ª conjugación: raíz duc- + vocal de unión -i- + -t = «ducit». «unt» es plural e «io» es la desinencia de 1ª persona singular de los verbos en -io."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tú buscas al amigo",
+      "direction": "es-la",
+      "tiles": ["Amīcum", "petis", "petit", "petunt"],
+      "answer": "Amīcum petis",
+      "explanation": "«Petis» es 2ª persona singular de la 3ª conjugación (raíz pet- + -i- + -s). «Petit» es 3ª sg. y «petunt» 3ª pl."
+    },
+    {
+      "type": "speak",
+      "text": "Nōs regem audīmus.",
+      "es": "Nosotros oímos al rey."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué explica que el infinitivo de los verbos de conjugación mixta (-io) termine en -ere y no en -ire?",
+      "options": ["El acento prosódico recae en la desinencia.", "La desinencia se asimila a los temas en consonante.", "La vocal -i- breve del tema se abre ante la vibrante -r- del infinitivo."],
+      "correct": 2,
+      "hint": "Es un fenómeno vocálico (apofonía), no consonántico ni de acentuación.",
+      "explanation": "La -i- breve del tema (capĭ-) se abre en -e- por la influencia de la -r- del infinitivo, dando «capere». No hay asimilación consonántica (fenómeno distinto), y el acento es consecuencia de la cantidad silábica, no su causa."
+    },
+    {
+      "type": "gap",
+      "text": "Ego templum sci___.",
+      "options": ["o", "unt", "mus"],
+      "answer": "o",
+      "explanation": "1ª persona singular de la 4ª conjugación: tema sci- + -o, sin vocal de unión adicional: «scio». «unt» es 3ª plural y «mus» es 1ª plural."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El rey sabe",
+      "direction": "es-la",
+      "tiles": ["Rex", "scit", "scio", "sciunt"],
+      "answer": "Rex scit",
+      "explanation": "«Scit» es 3ª persona singular de la 4ª conjugación: la vocal larga -ī- se abrevia ante -t: «scit». «Scio» es 1ª sg. y «sciunt» 3ª pl."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada verbo con su traducción",
+      "pairs": [
+        { "en": "quaero", "es": "buscar, preguntar" },
+        { "en": "invenio", "es": "encontrar, hallar" },
+        { "en": "claudo", "es": "cerrar" },
+        { "en": "dormio", "es": "dormir" },
+        { "en": "cogo", "es": "reunir, obligar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la 2ª persona singular del presente de indicativo de scribere («escribir»)?",
+      "options": ["Scribis.", "Scribes.", "Scribit."],
+      "correct": 0,
+      "hint": "«Scribes» pertenece a otro tiempo verbal, no al presente.",
+      "explanation": "La 2ª sg. del presente de la 3ª conjugación toma la vocal de unión -i- ante -s: «scribis». «Scribes» es la forma de futuro imperfecto (parecido gráfico engañoso); «scribit» es 3ª persona, no 2ª."
+    },
+    {
+      "type": "gap",
+      "text": "Vōs regem pet___.",
+      "options": ["itis", "etis", "iunt"],
+      "answer": "itis",
+      "explanation": "2ª persona plural de la 3ª conjugación: raíz pet- + vocal de unión -i- + -tis = «petitis». «etis» pertenece a la 2ª conjugación y «iunt» es 3ª plural de otra conjugación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los amigos vencen al rey",
+      "direction": "es-la",
+      "tiles": ["Amīcī", "regem", "vincunt", "vincit", "vincimus"],
+      "answer": "Amīcī regem vincunt",
+      "explanation": "«Vincunt» es 3ª persona plural de la 3ª conjugación (raíz vinc- + -u- + -nt). «Vincit» es 3ª sg. y «vincimus» 1ª pl."
+    },
+    {
+      "type": "speak",
+      "text": "Amīcī templum capiunt.",
+      "es": "Los amigos toman el templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la forma correcta para «ellos oyen» (3ª pl. de audire)?",
+      "options": ["Audint.", "Audiunt.", "Audient."],
+      "correct": 1,
+      "hint": "La cuarta conjugación inserta una vocal epentética antes de -nt en la 3ª persona plural.",
+      "explanation": "«Audiunt» inserta la vocal de unión -u- entre el tema -i- puro y la desinencia -nt para evitar el hiato brusco. «Audint» omite esa vocal, y «audient» es la forma de futuro, no de presente."
+    },
+    {
+      "type": "gap",
+      "text": "Amīcī patriam ven___.",
+      "options": ["iunt", "unt", "ient"],
+      "answer": "iunt",
+      "explanation": "3ª persona plural de la 4ª conjugación: tema veni- + vocal de unión -u- + -nt = «veniunt». «unt» (sin -i-) es propio de la 3ª conjugación y «ient» es futuro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo cierro el templo",
+      "direction": "es-la",
+      "tiles": ["Templum", "claudo", "claudit", "claudimus"],
+      "answer": "Templum claudo",
+      "explanation": "«Claudo» es 1ª persona singular de la 3ª conjugación: raíz claud- + -o, sin vocal de unión. «Claudit» es 3ª sg. y «claudimus» 1ª pl."
+    },
+    {
+      "type": "speak",
+      "text": "Rex scit.",
+      "es": "El rey sabe."
+    }
+  ]
+}

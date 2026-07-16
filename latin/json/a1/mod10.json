@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod10",
+  "module": 10,
+  "title": "Casus Dativus",
+  "subtitle": "Caso Dativo",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "dare", "es": "dar" },
+        { "en": "dicere", "es": "decir" },
+        { "en": "monstrare", "es": "mostrar" },
+        { "en": "donare", "es": "regalar, donar" },
+        { "en": "promittere", "es": "prometer" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce correctamente la frase de posesión «Tibi sunt multi libri».",
+      "options": ["Para ti son muchos libros.", "Tú tienes muchos libros.", "Los libros son tuyos."],
+      "correct": 1,
+      "hint": "En el dativo de posesión, el dativo latino pasa a ser el sujeto en español y «sum» se traduce por «tener».",
+      "explanation": "«Tibi» (dativo, poseedor) pasa a ser sujeto («tú»), «sunt» se traduce por «tener» («tienes»), y el sujeto latino «multi libri» pasa a objeto directo («muchos libros»). La traducción literal palabra por palabra suena forzada en español."
+    },
+    {
+      "type": "gap",
+      "text": "Dominus donum ___ dat.",
+      "options": ["filia", "filiae", "filiam"],
+      "answer": "filiae",
+      "explanation": "El objeto indirecto «a la hija» exige el dativo singular de la 1ª declinación: «filiae», sin preposición. «Filia» es nominativo y «filiam» es acusativo (objeto directo, ya ocupado por «donum»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El señor da un regalo a la hija",
+      "direction": "es-la",
+      "tiles": ["Dominus", "filiae", "donum", "dat", "filia", "filiam"],
+      "answer": "Dominus filiae donum dat",
+      "explanation": "«Filiae» es el dativo singular (objeto indirecto), sin preposición «a». «Filia» es nominativo y «filiam» es acusativo, casos que no marcan al destinatario."
+    },
+    {
+      "type": "speak",
+      "text": "Mihi est liber.",
+      "es": "Tengo un libro (literalmente: para mí es un libro)."
+    },
+    {
+      "type": "gap",
+      "text": "Pater verbum ___ dicit.",
+      "options": ["filius", "filio", "filium"],
+      "answer": "filio",
+      "explanation": "«Dicit» rige objeto indirecto en dativo: «filio» (al hijo), sin preposición. «Filius» es nominativo y «filium» es acusativo, el caso del objeto directo que ya ocupa «verbum»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el dativo singular del sustantivo «pater» (3ª declinación)?",
+      "options": ["patris", "patrem", "patri"],
+      "correct": 2,
+      "hint": "La 3ª declinación forma el dativo singular con una desinencia distinta a la del genitivo y la del acusativo.",
+      "explanation": "Los sustantivos de la 3ª declinación tienen la desinencia «-i» en dativo singular: «patri». «Patris» es el genitivo y «patrem» el acusativo, ambos casos distintos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "gratus", "es": "agradable, agradecido" },
+        { "en": "amicus", "es": "amigo" },
+        { "en": "inimicus", "es": "enemigo" },
+        { "en": "donum", "es": "regalo" },
+        { "en": "verbum", "es": "palabra" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "___ est magna pecunia.",
+      "options": ["soror", "sorori", "sororem"],
+      "answer": "sorori",
+      "explanation": "Es un dativo de posesión: «para la hermana hay mucho dinero» = «la hermana tiene mucho dinero». El poseedor va en dativo singular de la 3ª declinación: «sorori». «Soror» es nominativo y «sororem» es acusativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El padre dice una palabra al hijo",
+      "direction": "es-la",
+      "tiles": ["Pater", "filio", "verbum", "dicit", "filius", "filium"],
+      "answer": "Pater filio verbum dicit",
+      "explanation": "«Filio» es el dativo singular de la 2ª declinación (objeto indirecto), sin preposición. «Filius» es nominativo y «filium» es acusativo, casos incorrectos aquí."
+    },
+    {
+      "type": "quiz",
+      "q": "En la oración «Dominus dat pecuniam servis», ¿qué caso y función tiene «servis»?",
+      "options": ["Acusativo de objeto directo.", "Dativo plural, Objeto Indirecto.", "Ablativo de instrumento."],
+      "correct": 1,
+      "hint": "El verbo «dat» ya tiene su objeto directo en «pecuniam»: ¿qué otro complemento suele llevar un verbo de dar?",
+      "explanation": "«Dat» rige un objeto directo en acusativo («pecuniam») y un objeto indirecto en dativo plural («servis», a los siervos), que indica el destinatario del dinero. No es ablativo porque no expresa instrumento."
+    },
+    {
+      "type": "gap",
+      "text": "Dominus donum ___ monstrat.",
+      "options": ["servus", "servis", "servos"],
+      "answer": "servis",
+      "explanation": "El destinatario de «monstrat» (a quién se muestra) va en dativo plural: «servis». «Servus» es nominativo singular y «servos» es acusativo plural, número correcto pero caso equivocado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Yo tengo un libro",
+      "direction": "es-la",
+      "tiles": ["Mihi", "est", "liber", "Ego", "librum"],
+      "answer": "Mihi est liber",
+      "explanation": "El dativo de posesión usa «mihi» (dativo, poseedor) + «est» + el sujeto «liber» (nominativo, lo poseído). «Ego» no encaja en esta estructura y «librum» sería acusativo, caso incorrecto para el sujeto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "mihi", "es": "a mí, para mí" },
+        { "en": "tibi", "es": "a ti, para ti" },
+        { "en": "sibi", "es": "a sí, para sí" },
+        { "en": "nobis", "es": "a nosotros, para nosotros" },
+        { "en": "vobis", "es": "a vosotros, para vosotros" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué error presenta la traducción de «Do panem ad sororem»?",
+      "options": ["Uso incorrecto de la preposición «ad» ante un acusativo para expresar objeto indirecto.", "El verbo «do» exige ablativo.", "«Panem» debería ser genitivo."],
+      "correct": 0,
+      "hint": "El objeto indirecto latino nunca lleva preposición: se marca solo con la desinencia del dativo.",
+      "explanation": "El destinatario de «dar» se marca únicamente con dativo sin preposición: «sorori». Usar «ad» + acusativo («ad sororem») calca la preposición española «a» y es agramatical en latín clásico."
+    },
+    {
+      "type": "gap",
+      "text": "___ sunt multi amici.",
+      "options": ["Nobis", "Nos", "Nostri"],
+      "answer": "Nobis",
+      "explanation": "El dativo de posesión «nosotros tenemos muchos amigos» exige el pronombre en dativo: «Nobis». «Nos» es la forma de nominativo/acusativo y «Nostri» es genitivo, ninguno sirve como poseedor en esta estructura."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El siervo regala dinero al señor",
+      "direction": "es-la",
+      "tiles": ["Servus", "domino", "pecuniam", "donat", "dominus", "dominum"],
+      "answer": "Servus domino pecuniam donat",
+      "explanation": "«Domino» es el dativo singular de la 2ª declinación (objeto indirecto). «Dominus» es nominativo y «dominum» es acusativo, casos que no marcan al destinatario."
+    },
+    {
+      "type": "speak",
+      "text": "Dat donum puellae.",
+      "es": "Da un regalo a la niña."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la traducción idiomática de «Mihi est nomen Iohannes»?",
+      "options": ["Yo me llamo Juan (traducción literal palabra por palabra).", "El nombre de Juan es mío.", "Mi nombre es Juan (para mí es el nombre Juan)."],
+      "correct": 2,
+      "hint": "Es un dativo de posesión aplicado al nombre propio: sigue el mismo proceso que «mihi est liber».",
+      "explanation": "Es un dativo de posesión de nombre: «mihi» (dativo, poseedor) pasa a «mi», y «est nomen» se traduce como «es el nombre», dando «Mi nombre es Juan». No significa que el nombre pertenezca a otro Juan, ni es una traducción palabra por palabra."
+    },
+    {
+      "type": "gap",
+      "text": "Frater ___ auxilium promittit.",
+      "options": ["amicus", "amico", "amicum"],
+      "answer": "amico",
+      "explanation": "«Promittit» rige objeto indirecto en dativo: «amico» (al amigo). «Amicus» es nominativo y «amicum» es acusativo, caso del objeto directo que ya ocupa «auxilium»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nosotros tenemos muchos amigos",
+      "direction": "es-la",
+      "tiles": ["Nobis", "sunt", "multi", "amici", "Nos", "amicos"],
+      "answer": "Nobis sunt multi amici",
+      "explanation": "«Nobis» es el dativo del pronombre de posesión y «amici» queda en nominativo plural (sujeto, lo poseído). «Nos» es la forma incorrecta para el poseedor y «amicos» sería acusativo, caso equivocado para el sujeto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "filius", "es": "hijo" },
+        { "en": "filia", "es": "hija" },
+        { "en": "pater", "es": "padre" },
+        { "en": "mater", "es": "madre" },
+        { "en": "frater", "es": "hermano" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué desinencia comparten el dativo plural de la 1ª y de la 2ª declinación?",
+      "options": ["-is", "-ibus", "-orum"],
+      "correct": 0,
+      "hint": "Piensa en «puellis» y «dominis»: ambas formas terminan igual.",
+      "explanation": "Tanto la 1ª declinación («puellis») como la 2ª («dominis») forman el dativo plural en «-is»; solo el contexto distingue a qué declinación pertenece cada una. «-ibus» es propio de la 3ª declinación y «-orum» es genitivo plural de la 2ª."
+    },
+    {
+      "type": "gap",
+      "text": "___ est magna gloria.",
+      "options": ["Tibi", "Te", "Tui"],
+      "answer": "Tibi",
+      "explanation": "El dativo de posesión «tú tienes una gran gloria» exige el pronombre en dativo: «Tibi». «Te» es acusativo/ablativo y «Tui» es genitivo, ninguno funciona como poseedor aquí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El hermano promete ayuda al amigo",
+      "direction": "es-la",
+      "tiles": ["Frater", "amico", "auxilium", "promittit", "amicus", "amicum"],
+      "answer": "Frater amico auxilium promittit",
+      "explanation": "«Amico» es el dativo singular (objeto indirecto). «Amicus» es nominativo y «amicum» es acusativo, caso que ya corresponde a «auxilium» como objeto directo."
+    },
+    {
+      "type": "speak",
+      "text": "Tibi sunt multi amici.",
+      "es": "Tú tienes muchos amigos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se traduce correctamente «Nobis est magna villa»?",
+      "options": ["Para nosotros es una gran casa de campo (traducción palabra por palabra).", "Nosotros tenemos una gran casa de campo.", "Nuestra casa de campo es grande."],
+      "correct": 1,
+      "hint": "Aplica el mismo proceso que con «mihi est liber»: el dativo pasa a sujeto y «sum» se traduce por «tener».",
+      "explanation": "Siguiendo el proceso del dativo de posesión, «nobis» (dativo) pasa a sujeto («nosotros»), «est» se traduce por «tenemos», y «magna villa» pasa a objeto directo: «Nosotros tenemos una gran casa de campo». La traducción palabra por palabra resulta forzada en español."
+    },
+    {
+      "type": "gap",
+      "text": "Servus ___ pecuniam donat.",
+      "options": ["dominus", "domino", "dominum"],
+      "answer": "domino",
+      "explanation": "El destinatario del regalo va en dativo singular: «domino» (al señor). «Dominus» es nominativo y «dominum» es acusativo, caso ya ocupado por «pecuniam»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tú tienes una gran gloria",
+      "direction": "es-la",
+      "tiles": ["Tibi", "est", "magna", "gloria", "Tu", "te"],
+      "answer": "Tibi est magna gloria",
+      "explanation": "«Tibi» es el dativo de posesión (poseedor) y «gloria» queda en nominativo (sujeto, lo poseído). «Tu» y «te» no son las formas de dativo correctas para esta estructura."
+    },
+    {
+      "type": "speak",
+      "text": "Dicit verbum discipulis.",
+      "es": "Dice una palabra a los discípulos."
+    }
+  ]
+}

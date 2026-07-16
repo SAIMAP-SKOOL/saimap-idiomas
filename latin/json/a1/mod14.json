@@ -1,0 +1,240 @@
+{
+  "id": "a1-mod14",
+  "module": 14,
+  "title": "Tertia Declinatio: Consonantes",
+  "subtitle": "3ª Declinación: Temas en Consonante",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "rex", "es": "rey" },
+        { "en": "lex", "es": "ley" },
+        { "en": "dux", "es": "guía, general" },
+        { "en": "miles", "es": "soldado" },
+        { "en": "pater", "es": "padre" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la raíz real del sustantivo «miles, militis»?",
+      "options": ["milit-", "mil-", "miles-"],
+      "correct": 0,
+      "hint": "La raíz se extrae siempre del genitivo singular, retirando la desinencia «-is».",
+      "explanation": "Retirando «-is» del genitivo «milit-is» obtenemos la raíz real «milit-». «Mil-» es una forma incompleta y «miles-» toma como base el nominativo, que en la 3ª declinación puede estar alterado fonéticamente."
+    },
+    {
+      "type": "gap",
+      "text": "Video ___.",
+      "options": ["rex", "regem", "regis"],
+      "answer": "regem",
+      "explanation": "El objeto directo «al rey» exige el acusativo singular: «regem» (raíz «reg-» + «-em»). «Rex» es nominativo y «regis» es genitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El general ve al rey",
+      "direction": "es-la",
+      "tiles": ["Dux", "regem", "videt", "rex", "regis"],
+      "answer": "Dux regem videt",
+      "explanation": "«Regem» es el acusativo singular (objeto directo), formado sobre la raíz del genitivo «reg-». «Rex» es nominativo y «regis» es genitivo, casos incorrectos aquí."
+    },
+    {
+      "type": "speak",
+      "text": "Milites regem defendunt.",
+      "es": "Los soldados defienden al rey."
+    },
+    {
+      "type": "gap",
+      "text": "___ tuum pulchrum est.",
+      "options": ["nomen", "nominis", "nominem"],
+      "answer": "nomen",
+      "explanation": "«Nomen» es neutro: su nominativo (sujeto) y acusativo singular son idénticos. «Nominis» es genitivo y «nominem» es una forma inexistente, pues los neutros nunca usan la desinencia «-em»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el acusativo singular del sustantivo neutro «nomen, nominis»?",
+      "options": ["nominem", "nomen", "nominis"],
+      "correct": 1,
+      "hint": "Por la ley de los neutros, el acusativo singular coincide siempre con el nominativo.",
+      "explanation": "Por la ley de los neutros, el acusativo singular es morfológicamente idéntico al nominativo: «nomen». «Nominem» es incorrecta porque los neutros no toman la desinencia «-em», y «nominis» es el genitivo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "mater", "es": "madre" },
+        { "en": "frater", "es": "hermano" },
+        { "en": "homo", "es": "hombre, ser humano" },
+        { "en": "nomen", "es": "nombre" },
+        { "en": "corpus", "es": "cuerpo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Milites ___ defendunt.",
+      "options": ["lex", "legem", "legis"],
+      "answer": "legem",
+      "explanation": "El objeto directo «la ley» exige el acusativo singular: «legem» (raíz «leg-» + «-em»). «Lex» es nominativo y «legis» es genitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los soldados defienden la ley",
+      "direction": "es-la",
+      "tiles": ["Milites", "legem", "defendunt", "lex", "legis"],
+      "answer": "Milites legem defendunt",
+      "explanation": "«Legem» es el acusativo singular (objeto directo). «Lex» es nominativo y «legis» es genitivo, casos incorrectos como objeto directo."
+    },
+    {
+      "type": "quiz",
+      "q": "Traduce «Milites regem defendunt»:",
+      "options": ["Los soldados defienden al rey.", "El rey defiende a los soldados.", "Defendemos la ley de los soldados."],
+      "correct": 0,
+      "hint": "Identifica primero el sujeto (nominativo plural) y luego el objeto directo (acusativo singular).",
+      "explanation": "«Milites» es nominativo plural (sujeto: los soldados), «regem» es acusativo singular (objeto directo: al rey) y «defendunt» es el verbo (defienden). Las otras opciones invierten los papeles sintácticos o introducen un sustantivo que no aparece en la frase."
+    },
+    {
+      "type": "gap",
+      "text": "___ mala sunt.",
+      "options": ["tempus", "tempori", "tempora"],
+      "answer": "tempora",
+      "explanation": "«Tempus» es neutro: su plural en los casos directos siempre termina en «-a»: «tempora». «Tempori» no es una forma existente y «tempus» está en singular, número incorrecto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El hombre ve la luz",
+      "direction": "es-la",
+      "tiles": ["Homo", "lucem", "videt", "lux", "lucis"],
+      "answer": "Homo lucem videt",
+      "explanation": "«Lucem» es el acusativo singular de «lux, lucis» (objeto directo). «Lux» es nominativo y «lucis» es genitivo, casos incorrectos aquí."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "tempus", "es": "tiempo" },
+        { "en": "salus", "es": "salud, salvación" },
+        { "en": "veritas", "es": "verdad" },
+        { "en": "pax", "es": "paz" },
+        { "en": "amor", "es": "amor" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el ablativo singular de «pater, patris»?",
+      "options": ["patri", "patris", "patre"],
+      "correct": 2,
+      "hint": "Los imparisílabos en consonante forman el ablativo singular con una sola vocal breve, distinta a la del dativo.",
+      "explanation": "La desinencia de ablativo singular de los imparisílabos en consonante es «-e»: «patre». «Patri» es el dativo y «patris» es el genitivo."
+    },
+    {
+      "type": "gap",
+      "text": "Pater ___ amat.",
+      "options": ["mater", "matrem", "matris"],
+      "answer": "matrem",
+      "explanation": "El objeto directo «a la madre» exige el acusativo singular: «matrem» (raíz «matr-» + «-em»). «Mater» es nominativo y «matris» es genitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El padre ama a la madre",
+      "direction": "es-la",
+      "tiles": ["Pater", "matrem", "amat", "mater", "matris"],
+      "answer": "Pater matrem amat",
+      "explanation": "«Matrem» es el acusativo singular (objeto directo). «Mater» es nominativo y «matris» es genitivo, casos incorrectos como objeto directo."
+    },
+    {
+      "type": "speak",
+      "text": "Nomen tuum pulchrum est.",
+      "es": "Tu nombre es hermoso."
+    },
+    {
+      "type": "quiz",
+      "q": "El plural de «corpus, corporis» es «corpora». ¿En qué casos puede estar esta forma?",
+      "options": ["Genitivo y Dativo Plural.", "Nominativo, Vocativo y Acusativo Plural.", "Solamente Nominativo Plural."],
+      "correct": 1,
+      "hint": "Recuerda la ley de los neutros: tres casos comparten siempre la misma forma.",
+      "explanation": "Al ser neutro, la terminación en «-a» («corpora») representa a la vez los tres casos directos del plural: nominativo, vocativo y acusativo. No es exclusiva del nominativo ni corresponde al genitivo o dativo, que tendrían otras desinencias («corporum», «corporibus»)."
+    },
+    {
+      "type": "gap",
+      "text": "Homo ___ videt.",
+      "options": ["lux", "lucem", "lucis"],
+      "answer": "lucem",
+      "explanation": "«Lucem» es el acusativo singular de «lux, lucis» (raíz «luc-» + «-em»). «Lux» es nominativo y «lucis» es genitivo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Los tiempos son malos",
+      "direction": "es-la",
+      "tiles": ["Tempora", "mala", "sunt", "tempus", "tempori"],
+      "answer": "Tempora mala sunt",
+      "explanation": "«Tempora» es el plural neutro de los casos directos (nominativo, sujeto). «Tempus» está en singular y «tempori» no es una forma existente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "soror", "es": "hermana" },
+        { "en": "vox", "es": "voz" },
+        { "en": "lux", "es": "luz" },
+        { "en": "pedes", "es": "infante, peatón" },
+        { "en": "eques", "es": "caballero, jinete" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la raíz real de «rex, regis», sobre la que se declinan todos los demás casos?",
+      "options": ["rex-", "reg-", "regis-"],
+      "correct": 1,
+      "hint": "El nominativo «rex» resulta de la fusión fonética de «g» y «s»: mira siempre al genitivo para hallar la raíz real.",
+      "explanation": "Retirando «-is» del genitivo «reg-is» obtenemos la raíz real «reg-». «Rex-» toma como base el nominativo, alterado por la fusión de «g+s» en «x», y «regis-» incluye erróneamente la desinencia del genitivo."
+    },
+    {
+      "type": "gap",
+      "text": "Dux ___ ducit.",
+      "options": ["miles", "militis", "milites"],
+      "answer": "milites",
+      "explanation": "El objeto directo plural «a los soldados» exige el acusativo plural: «milites». «Miles» es nominativo singular y «militis» es genitivo singular."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "La virtud del soldado es grande",
+      "direction": "es-la",
+      "tiles": ["Virtus", "militis", "magna", "est", "miles", "milites"],
+      "answer": "Virtus militis magna est",
+      "explanation": "«Militis» es el genitivo singular (complemento del nombre, «del soldado»). «Miles» es nominativo y «milites» es plural, ambos incorrectos aquí."
+    },
+    {
+      "type": "speak",
+      "text": "Dux milites ducit.",
+      "es": "El general guía a los soldados."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el nominativo/acusativo plural del sustantivo neutro «caput, capitis»?",
+      "options": ["capites", "caputa", "capita"],
+      "correct": 2,
+      "hint": "Aplica la ley de los neutros: el plural de los casos directos siempre termina en «-a», formado sobre la raíz del genitivo.",
+      "explanation": "Sobre la raíz «capit-» (del genitivo «capitis»), el plural neutro añade «-a»: «capita». «Capites» calca erróneamente un patrón masculino/femenino, y «caputa» toma como base el nominativo en vez de la raíz del genitivo."
+    },
+    {
+      "type": "gap",
+      "text": "___ magna est.",
+      "options": ["virtus", "virtutis", "virtutem"],
+      "answer": "virtus",
+      "explanation": "El sujeto «la virtud» va en nominativo singular: «virtus». «Virtutis» es genitivo y «virtutem» es acusativo, casos incorrectos para el sujeto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "El general guía a los soldados",
+      "direction": "es-la",
+      "tiles": ["Dux", "milites", "ducit", "miles", "militis"],
+      "answer": "Dux milites ducit",
+      "explanation": "«Milites» es el acusativo plural (objeto directo). «Miles» es nominativo singular y «militis» es genitivo singular, ambos incorrectos como objeto directo plural."
+    },
+    {
+      "type": "speak",
+      "text": "Corpus et sanguis.",
+      "es": "Cuerpo y sangre."
+    }
+  ]
+}

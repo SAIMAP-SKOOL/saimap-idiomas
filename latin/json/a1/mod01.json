@@ -1,0 +1,268 @@
+{
+  "id": "a1-mod01",
+  "module": 1,
+  "title": "De pronuntiatione et phonetica Latina",
+  "subtitle": "Fonética y Pronunciación",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "pater", "es": "padre" },
+        { "en": "mater", "es": "madre" },
+        { "en": "filius", "es": "hijo" },
+        { "en": "dominus", "es": "señor" },
+        { "en": "homo", "es": "hombre" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la pronunciación y acentuación correcta de la palabra pecunia (dinero) en latín clásico?",
+      "options": [
+        "/pekúnia/, siendo llana porque la vocal u es breve por naturaleza",
+        "/pekúːnia/, siendo esdrújula porque la penúltima sílaba es breve al ir ante otra vocal",
+        "/pékunia/, siendo esdrújula porque la antepenúltima sílaba es larga por posición"
+      ],
+      "correct": 1,
+      "hint": "Aplica la regla «vocalis ante vocalem corripitur» a la penúltima sílaba de pecunia.",
+      "explanation": "La penúltima sílaba (-ni-) tiene la vocal ĭ seguida de otra vocal (ă), así que se abrevia por la regla «vocalis ante vocalem corripitur» y queda breve. Al ser breve la penúltima, el acento salta a la antepenúltima (-cū-), larga por naturaleza: /pekúːnia/. La opción 0 confunde la cantidad de la u (es larga, no breve). La opción 2 acierta la sílaba acentuada pero por el motivo equivocado: la antepenúltima es larga por naturaleza, no por posición."
+    },
+    {
+      "type": "gap",
+      "text": "En latín clásico, la letra C siempre representa el sonido consonántico ___.",
+      "options": ["/k/", "/s/", "/tʃ/"],
+      "answer": "/k/",
+      "explanation": "En la pronunciación clásica restituta, la c es siempre la oclusiva velar sorda /k/, independientemente de la vocal que la siga (Cicero se lee /kíkero/)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "el hombre grande",
+      "direction": "es-en",
+      "tiles": ["homo", "magnus", "dominus", "filius"],
+      "answer": "homo magnus",
+      "explanation": "«Homo» significa hombre y «magnus» grande; en latín el adjetivo suele colocarse después del sustantivo, como en «homo magnus»."
+    },
+    {
+      "type": "gap",
+      "text": "El diptongo ___ presente en caelum se monoptonga en /e/ en la pronunciación eclesiástica.",
+      "options": ["ae", "au", "eu"],
+      "answer": "ae",
+      "explanation": "El diptongo ae, pronunciado /ae̯/ en clásica, se simplifica en la vocal /e/ en eclesiástica, lo que además palataliza la consonante c precedente (caelum -> /tʃélum/)."
+    },
+    {
+      "type": "quiz",
+      "q": "Compare la pronunciación de caelum (cielo) entre la pronunciación clásica y la eclesiástica. ¿Qué afirmación describe con precisión la diferencia fonética?",
+      "options": [
+        "En clásica se pronuncia /tʃélum/ con la c palatalizada; en eclesiástica se pronuncia /kae̯lum/ manteniendo el diptongo",
+        "Ambas pronunciaciones la leen igual, como /sélum/, adaptándola a las lenguas romances",
+        "En clásica se pronuncia /kae̯lum/ con diptongo y c oclusiva velar sorda; en eclesiástica se monoptonga en /tʃélum/ con la c palatalizada"
+      ],
+      "correct": 2,
+      "hint": "Recuerda qué sistema fonético es el más antiguo y cuál palataliza las consonantes.",
+      "explanation": "La pronunciación clásica (restituta) mantiene el diptongo /ae̯/ y la c dura /k/; la eclesiástica monoptonga ae en /e/, lo que convierte la c en palatal /tʃ/ por ir ante vocal palatal. La opción 0 invierte los dos sistemas. La opción 1 es un calco del español/francés modernos: ninguna de las dos pronunciaciones latinas usa el sonido /s/."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "el hijo hermoso",
+      "direction": "es-en",
+      "tiles": ["filius", "pulcher", "homo", "magnus"],
+      "answer": "filius pulcher",
+      "explanation": "«Filius» es hijo y «pulcher» hermoso; ambos concuerdan en género masculino, como se ve en la forma de pulcher dada en el vocabulario."
+    },
+    {
+      "type": "speak",
+      "text": "Vocalis ante vocalem corripitur.",
+      "es": "Una vocal ante otra vocal se abrevia."
+    },
+    {
+      "type": "gap",
+      "text": "Dominus es una palabra esdrújula porque su penúltima sílaba (-mi-) es ___.",
+      "options": ["breve", "larga por naturaleza", "larga por posición"],
+      "answer": "breve",
+      "explanation": "La penúltima sílaba de dominus contiene una vocal breve (ĭ) y termina en vocal (sílaba abierta), por lo que es breve; el acento retrocede entonces a la antepenúltima."
+    },
+    {
+      "type": "quiz",
+      "q": "Dada la palabra ancilla (sierva), ¿por qué el acento recae sobre la penúltima sílaba (-cil-), convirtiéndola en palabra llana?",
+      "options": [
+        "Porque la penúltima sílaba está trabada por la primera consonante de la geminada ll, siendo larga por posición",
+        "Porque la vocal i es larga por naturaleza en la declinación de los sustantivos femeninos",
+        "Porque las palabras latinas que terminan en vocal a son obligatoriamente llanas"
+      ],
+      "correct": 0,
+      "hint": "Fíjate en qué ocurre cuando una consonante geminada se divide entre dos sílabas.",
+      "explanation": "Ancilla se silabifica an-cil-la; la geminada ll se separa, y la primera l traba la penúltima sílaba (-cil-), haciéndola larga por posición aunque su vocal (ĭ) sea breve. La opción 1 es falsa: la i es breve. La opción 2 es una generalización falsa, pues palabras como agricŏla terminan en a y son esdrújulas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "caelum", "es": "cielo" },
+        { "en": "aurum", "es": "oro" },
+        { "en": "aqua", "es": "agua" },
+        { "en": "vox", "es": "voz" },
+        { "en": "bellum", "es": "guerra" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Magister es una palabra llana porque su penúltima sílaba, con vocal breve, resulta larga por ___ al estar trabada por dos consonantes.",
+      "options": ["posición", "naturaleza", "diptongo"],
+      "answer": "posición",
+      "explanation": "Aunque la ĭ de -gis- es breve por naturaleza, la sílaba está trabada por las consonantes s y t, lo que la convierte en larga por posición y atrae el acento: /magíster/."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "un hombre",
+      "direction": "es-en",
+      "tiles": ["unus", "homo", "populus", "rex"],
+      "answer": "unus homo",
+      "explanation": "«Unus» es el numeral uno, usado aquí con el sentido de «un»; «homo» es hombre."
+    },
+    {
+      "type": "quiz",
+      "q": "En la pronunciación eclesiástica, ¿en cuál de los siguientes casos el grupo ti se asibila y se pronuncia como /tsi/?",
+      "options": [
+        "En ostium, porque el grupo ti va precedido de la consonante s",
+        "En grātia, porque el grupo ti va seguido de vocal y no está precedido por s, t o x",
+        "En mixtum, porque la consonante doble x exige la palatalización del sonido dental siguiente"
+      ],
+      "correct": 1,
+      "hint": "La asibilación de ti tiene una excepción cuando le precede s, t o x.",
+      "explanation": "El grupo ti se asibila en /tsi/ en eclesiástica solo si va seguido de otra vocal y no está precedido de s, t o x. En grātia se cumplen ambas condiciones, así que se lee /grátsia/. En ostium, la s previa bloquea la asibilación (/óstium/). En mixtum ni siquiera hay un grupo ti seguido de vocal."
+    },
+    {
+      "type": "speak",
+      "text": "Caelum.",
+      "es": "Cielo."
+    },
+    {
+      "type": "gap",
+      "text": "En la pronunciación eclesiástica, la letra V se pronuncia como la fricativa labiodental ___, y no como la semivocal clásica /w/.",
+      "options": ["/v/", "/w/", "/b/"],
+      "answer": "/v/",
+      "explanation": "La pronunciación eclesiástica fricativiza la antigua semivocal /w/ en la fricativa labiodental /v/, como en francés o italiano: vīta se lee /víta/."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "un pueblo grande",
+      "direction": "es-en",
+      "tiles": ["unus", "populus", "magnus", "pulcher", "homo"],
+      "answer": "unus populus magnus",
+      "explanation": "Combina el numeral «unus», el sustantivo «populus» (pueblo) y el adjetivo «magnus» (grande), colocado tras el sustantivo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la acentuación correcta de la palabra fīlĭus (hijo) según las leyes de la fonética clásica?",
+      "options": [
+        "/filī́us/, porque la vocal i es larga por naturaleza en todas las declinaciones del latín",
+        "/fíli-us/, con acento en la última sílaba porque el hiato rompe la acentuación",
+        "/fíːlius/, porque la penúltima sílaba (-lĭ-) es breve por naturaleza al ir ante la vocal u"
+      ],
+      "correct": 2,
+      "hint": "Aplica de nuevo la regla «vocalis ante vocalem corripitur».",
+      "explanation": "Fīlĭus se silabifica fī-lĭ-us. La penúltima sílaba (-lĭ-) precede a otra vocal (u), así que se abrevia y queda breve; el acento retrocede entonces a la antepenúltima, larga por naturaleza (ī): /fíːlius/. La opción 0 generaliza falsamente que toda i es larga. La opción 1 inventa una acentuación aguda, inexistente en latín clásico."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "amicus", "es": "amigo" },
+        { "en": "regina", "es": "reina" },
+        { "en": "rex", "es": "rey" },
+        { "en": "populus", "es": "pueblo" },
+        { "en": "civitas", "es": "ciudad" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El grupo GN de magnus se pronuncia en eclesiástica como la nasal palatal ___, igual que la ñ española.",
+      "options": ["/ɲ/", "/gn/", "/nj/"],
+      "answer": "/ɲ/",
+      "explanation": "En eclesiástica, el grupo velar-nasal gn evoluciona hacia la nasal palatal /ɲ/, idéntica a la ñ española: magnus se pronuncia /máɲus/."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "un hombre hermoso",
+      "direction": "es-en",
+      "tiles": ["unus", "homo", "pulcher", "magnus", "filius"],
+      "answer": "unus homo pulcher",
+      "explanation": "«Unus homo» es «un hombre», y «pulcher» (hermoso) se añade después, como es habitual en latín."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se pronuncia genus (linaje, género) en la pronunciación eclesiástica?",
+      "options": [
+        "/dʒénus/, porque en eclesiástica la g se palataliza ante e",
+        "/génus/, con la g oclusiva velar sonora como en clásica",
+        "/xénus/, con la g pronunciada como la jota española"
+      ],
+      "correct": 0,
+      "hint": "Piensa en qué le ocurre a la g latina ante e o i en pronunciación eclesiástica.",
+      "explanation": "En eclesiástica, la g se palataliza ante e/i en la africada sonora /dʒ/ (como la j inglesa), así que genus se lee /dʒénus/. La opción 1 corresponde a la pronunciación clásica, no a la eclesiástica. La opción 2 es un calco del español, que no existe en ninguno de los dos sistemas latinos."
+    },
+    {
+      "type": "speak",
+      "text": "Magnus dominus.",
+      "es": "Gran señor."
+    },
+    {
+      "type": "gap",
+      "text": "Los monosílabos, como rex, llevan el acento siempre en su ___ sílaba.",
+      "options": ["única", "penúltima", "antepenúltima"],
+      "answer": "única",
+      "explanation": "Al tener una sola sílaba, los monosílabos reciben el acento en ella por definición: rex se pronuncia /réːks/."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "el pueblo grande",
+      "direction": "es-en",
+      "tiles": ["populus", "magnus", "pulcher", "rex"],
+      "answer": "populus magnus",
+      "explanation": "«Populus» es pueblo y «magnus» grande; el adjetivo sigue al sustantivo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se pronuncia vīta (vida) en la pronunciación clásica restituta?",
+      "options": [
+        "/bíta/, con la v pronunciada como la b española",
+        "/wíːta/, con la v como semivocal labiovelar /w/",
+        "/víta/, con la v como fricativa labiodental, propia de la eclesiástica"
+      ],
+      "correct": 1,
+      "hint": "La v clásica no suena como la v/b española ni como en la pronunciación eclesiástica.",
+      "explanation": "En la pronunciación clásica restituta, la letra v representa la semivocal /w/, así que vīta se pronuncia /wíːta/. La opción 0 es el vicio más frecuente del hispanohablante, que iguala v y b. La opción 2 corresponde a la pronunciación eclesiástica, no a la clásica."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada palabra con su traducción",
+      "pairs": [
+        { "en": "vita", "es": "vida" },
+        { "en": "magnus", "es": "grande" },
+        { "en": "pulcher", "es": "hermoso" },
+        { "en": "unus", "es": "uno" },
+        { "en": "genus", "es": "linaje" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Ancilla es palabra llana porque la consonante geminada ___ traba la penúltima sílaba, haciéndola larga por posición.",
+      "options": ["ll", "nc", "ci"],
+      "answer": "ll",
+      "explanation": "La geminada ll se divide en la silabificación (an-cil-la); la primera l cierra la penúltima sílaba y la convierte en larga por posición, atrayendo el acento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "un rey grande",
+      "direction": "es-en",
+      "tiles": ["unus", "rex", "magnus", "populus", "pulcher"],
+      "answer": "unus rex magnus",
+      "explanation": "«Rex» es rey; se combina con el numeral «unus» y el adjetivo «magnus» pospuesto."
+    },
+    {
+      "type": "speak",
+      "text": "Gratia.",
+      "es": "Gracia."
+    }
+  ]
+}
