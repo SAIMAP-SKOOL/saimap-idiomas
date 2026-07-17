@@ -3,238 +3,321 @@
   "module": 9,
   "title": "Past Simple: Verb To Be",
   "subtitle": "Pasado Simple: To Be",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "born", "es": "nacido" },
-        { "en": "childhood", "es": "infancia" },
-        { "en": "yesterday", "es": "ayer" },
-        { "en": "ago", "es": "hace (tiempo)" },
-        { "en": "tired", "es": "cansado" }
+      "n": 1,
+      "title": "Was/Were: conjugación y born",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "was", "es": "era/estaba" },
+            { "en": "were", "es": "eran/estaban" },
+            { "en": "wasn't", "es": "no era/estaba" },
+            { "en": "weren't", "es": "no eran/estaban" },
+            { "en": "born", "es": "nacido" }
+          ] },
+        { "type": "quiz", "q": "Where ________ you born? I ________ born in Valencia.",
+          "options": ["did / was", "were / was", "was / was"], "correct": 1,
+          "hint": "«To be born» nunca usa el auxiliar «did»; fíjate en la concordancia de cada sujeto.",
+          "explanation": "El sujeto «you» exige «were» y el sujeto «I» exige «was». No se puede usar «did» con la estructura «to be born», y «was you» rompe la concordancia." },
+        { "type": "gap", "text": "I ___ born in Spain.", "options": ["was", "were", "did"],
+          "answer": "was", "explanation": "El nacimiento se expresa con el pasado pasivo «was/were born». Con el sujeto «I» corresponde «was». Formas como «I borned» o «I did born» no existen." },
+        { "type": "wordbank", "prompt": "Nací en España", "direction": "es-en",
+          "tiles": ["I", "was", "born", "in", "Spain", "were", "did"],
+          "answer": "I was born in Spain",
+          "explanation": "En inglés el nacimiento es un estado pasivo: «to be» en pasado + participio «born». En español usamos un verbo activo («nací»), de ahí el choque." },
+        { "type": "speak", "text": "My grandparents were born in 1950.", "es": "Mis abuelos nacieron en 1950." },
+        { "type": "quiz", "q": "My childhood ________ full of happy memories.",
+          "options": ["was", "were", "born"], "correct": 0,
+          "hint": "«Childhood» es un sustantivo singular incontable.",
+          "explanation": "«Childhood» (infancia) es singular, por lo que concuerda con «was». «Were» sería para plural y «born» no es la forma correcta del verbo «to be»." },
+        { "type": "gap", "text": "My grandparents ___ born in 1950.", "options": ["were", "was", "are"],
+          "answer": "were", "explanation": "El sujeto «my grandparents» es plural, por lo que exige «were» en la estructura «to be born». «Was» rompe la concordancia y «are» sería presente." },
+        { "type": "wordbank", "prompt": "Mi infancia fue feliz", "direction": "es-en",
+          "tiles": ["My", "childhood", "was", "happy", "were", "born"],
+          "answer": "My childhood was happy",
+          "explanation": "«Childhood» (infancia) es un sustantivo singular que concuerda con «was». «Were» sería incorrecto porque «childhood» no es plural." },
+        { "type": "match", "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "were", "es": "eran/estaban" },
+            { "en": "wasn't", "es": "no era/estaba" },
+            { "en": "weren't", "es": "no eran/estaban" },
+            { "en": "born", "es": "nacido" },
+            { "en": "childhood", "es": "infancia" }
+          ] },
+        { "type": "quiz", "q": "________ your parents born in this country?",
+          "options": ["Was", "Were", "Did"], "correct": 1,
+          "hint": "El sujeto «your parents» es plural.",
+          "explanation": "«Your parents» es plural, así que la pregunta se invierte con «were»: «Were your parents born...?». «Was» no concuerda con un plural y «did» nunca acompaña a «to be»." },
+        { "type": "gap", "text": "I ___ born in a small village.", "options": ["was", "were", "did"],
+          "answer": "was", "explanation": "El nacimiento se expresa con «to be» en pasado + «born». Con el sujeto «I» corresponde «was»; «did» nunca se usa con «to be»." },
+        { "type": "wordbank", "prompt": "Ellos no nacieron aquí", "direction": "es-en",
+          "tiles": ["They", "weren't", "born", "here", "wasn't", "was"],
+          "answer": "They weren't born here",
+          "explanation": "El sujeto plural «they» exige «weren't» en la negación de «to be». «Wasn't» y «was» se reservan para sujetos singulares." },
+        { "type": "speak", "text": "My childhood was very happy.", "es": "Mi infancia fue muy feliz." },
+        { "type": "match", "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "was", "es": "era/estaba" },
+            { "en": "wasn't", "es": "no era/estaba" },
+            { "en": "weren't", "es": "no eran/estaban" },
+            { "en": "born", "es": "nacido" },
+            { "en": "childhood", "es": "infancia" }
+          ] },
+        { "type": "speak", "text": "They weren't born in this city.", "es": "Ellos no nacieron en esta ciudad." }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Where ________ you born? I ________ born in Valencia.",
-      "options": ["did / was", "were / was", "was / was"],
-      "correct": 1,
-      "hint": "«To be born» nunca usa el auxiliar «did»; fíjate en la concordancia de cada sujeto.",
-      "explanation": "El sujeto «you» exige «were» y el sujeto «I» exige «was». No se puede usar «did» con la estructura «to be born», y «was you» rompe la concordancia."
-    },
-    {
-      "type": "gap",
-      "text": "I ___ born in Spain.",
-      "options": ["was", "were", "did"],
-      "answer": "was",
-      "explanation": "El nacimiento se expresa con el pasado pasivo «was/were born». Con el sujeto «I» corresponde «was». Formas como «I borned» o «I did born» no existen."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nací en España",
-      "direction": "es-en",
-      "tiles": ["I", "was", "born", "in", "Spain", "were", "did"],
-      "answer": "I was born in Spain",
-      "explanation": "En inglés el nacimiento es un estado pasivo: «to be» en pasado + participio «born». En español usamos un verbo activo («nací»), de ahí el choque."
-    },
-    {
-      "type": "speak",
-      "text": "Were you at the party last night?",
-      "es": "¿Estuviste en la fiesta anoche?"
-    },
-    {
-      "type": "quiz",
-      "q": "We ________ at the restaurant last night because it ________ closed.",
-      "options": ["weren't / was", "wasn't / were", "didn't be / did be"],
-      "correct": 0,
-      "hint": "«We» es plural y «it» es singular; «to be» nunca lleva «did».",
-      "explanation": "«We» requiere «weren't» y «it» (el restaurante) requiere «was». La opción b intercambia las concordancias y la c usa el auxiliar «did» con «to be», estructura agramatical."
-    },
-    {
-      "type": "gap",
-      "text": "There ___ water on the floor.",
-      "options": ["was", "were", "is"],
-      "answer": "was",
-      "explanation": "«Water» es un sustantivo incontable, por lo que el existencial de pasado va en singular: «there was». «Is» sería presente y no encaja con el pasado."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Hubo una reunión ayer",
-      "direction": "es-en",
-      "tiles": ["There", "was", "a", "meeting", "yesterday", "were"],
-      "answer": "There was a meeting yesterday",
-      "explanation": "«A meeting» es singular, así que se usa «there was». En español «hubo/había» es invariable, pero el inglés obliga a concordar en número."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada lugar con su traducción",
-      "pairs": [
-        { "en": "school", "es": "escuela" },
-        { "en": "home", "es": "hogar/casa" },
-        { "en": "park", "es": "parque" },
-        { "en": "hotel", "es": "hotel" },
-        { "en": "holiday", "es": "vacaciones" }
+      "n": 2,
+      "title": "Lugares cotidianos y yesterday",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada lugar con su traducción",
+          "pairs": [
+            { "en": "school", "es": "escuela" },
+            { "en": "home", "es": "hogar/casa" },
+            { "en": "park", "es": "parque" },
+            { "en": "hotel", "es": "hotel" },
+            { "en": "holiday", "es": "vacaciones" }
+          ] },
+        { "type": "quiz", "q": "Which question is correct?",
+          "options": ["Were you at school yesterday?", "Did you be at school yesterday?", "Was you at school yesterday?"], "correct": 0,
+          "hint": "«To be» es autosuficiente: forma preguntas sin ayuda de «did».",
+          "explanation": "«Were you at school yesterday?» usa la inversión correcta. «Did you be» emplea el auxiliar «did» con «to be» (prohibido) y «was you» rompe la concordancia con «you»." },
+        { "type": "gap", "text": "There ___ water on the floor.", "options": ["was", "were", "is"],
+          "answer": "was", "explanation": "«Water» es un sustantivo incontable, por lo que el existencial de pasado va en singular: «there was». «Is» sería presente y no encaja con el pasado." },
+        { "type": "wordbank", "prompt": "Estábamos en casa ayer", "direction": "es-en",
+          "tiles": ["We", "were", "at", "home", "yesterday", "was"],
+          "answer": "We were at home yesterday",
+          "explanation": "El sujeto plural «we» exige «were». «Home» no lleva preposición «to» tras «at» en esta expresión fija «at home»." },
+        { "type": "speak", "text": "I was at school yesterday.", "es": "Estuve en el colegio ayer." },
+        { "type": "match", "prompt": "Empareja cada lugar con su traducción",
+          "pairs": [
+            { "en": "school", "es": "escuela" },
+            { "en": "home", "es": "hogar/casa" },
+            { "en": "park", "es": "parque" },
+            { "en": "hotel", "es": "hotel" },
+            { "en": "yesterday", "es": "ayer" }
+          ] },
+        { "type": "gap", "text": "We ___ at the park yesterday morning.", "options": ["was", "were", "did"],
+          "answer": "were", "explanation": "El sujeto plural «we» exige «were». «Did» nunca se combina con el verbo «to be»." },
+        { "type": "quiz", "q": "Where ________ you yesterday afternoon? I was at home.",
+          "options": ["was", "were", "did"], "correct": 1,
+          "hint": "El sujeto «you» siempre exige la misma forma, sea singular o plural.",
+          "explanation": "«You» siempre concuerda con «were» en pasado de «to be», nunca con «was» ni con el auxiliar «did»." },
+        { "type": "wordbank", "prompt": "El parque estaba vacío", "direction": "es-en",
+          "tiles": ["The", "park", "was", "empty", "were", "full"],
+          "answer": "The park was empty",
+          "explanation": "«Park» es singular, así que concuerda con «was». «Empty» describe que no había nadie; «full» sería el estado contrario." },
+        { "type": "speak", "text": "We were at home all day.", "es": "Estuvimos en casa todo el día." },
+        { "type": "match", "prompt": "Empareja cada lugar con su traducción",
+          "pairs": [
+            { "en": "home", "es": "hogar/casa" },
+            { "en": "park", "es": "parque" },
+            { "en": "hotel", "es": "hotel" },
+            { "en": "holiday", "es": "vacaciones" },
+            { "en": "yesterday", "es": "ayer" }
+          ] },
+        { "type": "gap", "text": "My family ___ on holiday last week.", "options": ["was", "were", "did"],
+          "answer": "was", "explanation": "«Family» se trata como sujeto singular en inglés, por lo que exige «was». «Were» sería para sujetos plurales." },
+        { "type": "quiz", "q": "The hotel ________ very expensive last summer.",
+          "options": ["was", "were", "born"], "correct": 0,
+          "hint": "«Hotel» es un sustantivo singular.",
+          "explanation": "«Hotel» es singular, por lo que exige «was». «Were» sería para plural y «born» no encaja en esta oración sobre un edificio." },
+        { "type": "wordbank", "prompt": "Ellos estaban de vacaciones", "direction": "es-en",
+          "tiles": ["They", "were", "on", "holiday", "was", "home"],
+          "answer": "They were on holiday",
+          "explanation": "«On holiday» es la expresión fija para «de vacaciones», y el sujeto plural «they» exige «were»." },
+        { "type": "speak", "text": "The hotel was near the park.", "es": "El hotel estaba cerca del parque." }
       ]
     },
     {
-      "type": "gap",
-      "text": "My grandparents ___ born in 1950.",
-      "options": ["were", "was", "are"],
-      "answer": "were",
-      "explanation": "El sujeto «my grandparents» es plural, por lo que exige «were» en la estructura «to be born». «Was» rompe la concordancia y «are» sería presente."
-    },
-    {
-      "type": "quiz",
-      "q": "Many years ________, there ________ a famous museum here.",
-      "options": ["last / were", "ago / was", "ago / were"],
-      "correct": 1,
-      "hint": "«Ago» va detrás del periodo de tiempo, y «a famous museum» es singular.",
-      "explanation": "«Ago» se coloca tras «many years» y el sujeto singular «a famous museum» pide «there was». La opción c usa «were» con un singular, y «last» nunca va pospuesto al periodo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "¿Estabas cansado ayer?",
-      "direction": "es-en",
-      "tiles": ["Were", "you", "tired", "yesterday", "Was", "did"],
-      "answer": "Were you tired yesterday?",
-      "explanation": "La pregunta con «to be» se forma por inversión: «Were you...?». Nunca se usa «did» con el verbo «to be», que es auxiliar en sí mismo."
-    },
-    {
-      "type": "speak",
-      "text": "My grandparents were born in 1950.",
-      "es": "Mis abuelos nacieron en 1950."
-    },
-    {
-      "type": "gap",
-      "text": "We went to London three years ___.",
-      "options": ["ago", "last", "yesterday"],
-      "answer": "ago",
-      "explanation": "«Ago» se coloca siempre detrás de la cantidad de tiempo: «three years ago» = «hace tres años». Es el orden inverso al español «hace»."
-    },
-    {
-      "type": "quiz",
-      "q": "Why ________ you late for the meeting yesterday morning?",
-      "options": ["did you were", "was", "were"],
-      "correct": 2,
-      "hint": "«To be» forma sus preguntas por inversión, sin auxiliar «did».",
-      "explanation": "La pregunta requiere invertir sujeto y verbo: «Why were you...?». «Did you were» mezcla auxiliar y pasado (agramatical) y «was» no concuerda con «you»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada lugar o evento con su traducción",
-      "pairs": [
-        { "en": "office", "es": "oficina" },
-        { "en": "meeting", "es": "reunión" },
-        { "en": "party", "es": "fiesta" },
-        { "en": "concert", "es": "concierto" },
-        { "en": "museum", "es": "museo" }
+      "n": 3,
+      "title": "Ago, last y office: expresiones de tiempo",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada expresión con su traducción",
+          "pairs": [
+            { "en": "last night", "es": "anoche" },
+            { "en": "last week", "es": "la semana pasada" },
+            { "en": "last year", "es": "el año pasado" },
+            { "en": "ago", "es": "hace (tiempo)" },
+            { "en": "office", "es": "oficina" }
+          ] },
+        { "type": "quiz", "q": "I saw her two days ________ at the office.",
+          "options": ["ago", "last", "before"], "correct": 0,
+          "hint": "Recuerda el orden: cantidad de tiempo + esta palabra.",
+          "explanation": "«Ago» se coloca siempre detrás de la cantidad de tiempo: «two days ago». «Last» no se pospone así y «before» no es la palabra estudiada en este bloque." },
+        { "type": "gap", "text": "We went to London three years ___.", "options": ["ago", "last", "yesterday"],
+          "answer": "ago", "explanation": "«Ago» se coloca siempre detrás de la cantidad de tiempo: «three years ago» = «hace tres años». Es el orden inverso al español «hace»." },
+        { "type": "wordbank", "prompt": "Ella estaba en la oficina anoche", "direction": "es-en",
+          "tiles": ["She", "was", "at", "the", "office", "last", "night", "were"],
+          "answer": "She was at the office last night",
+          "explanation": "«She» concuerda con «was». Recuerda que «anoche» es «last night», nunca «yesterday night»." },
+        { "type": "speak", "text": "Was she at the office last night?", "es": "¿Estaba ella en la oficina anoche?" },
+        { "type": "match", "prompt": "Empareja cada expresión con su traducción",
+          "pairs": [
+            { "en": "last week", "es": "la semana pasada" },
+            { "en": "last year", "es": "el año pasado" },
+            { "en": "ago", "es": "hace (tiempo)" },
+            { "en": "two days ago", "es": "hace dos días" },
+            { "en": "office", "es": "oficina" }
+          ] },
+        { "type": "gap", "text": "She started this job two years ___.", "options": ["ago", "last", "before"],
+          "answer": "ago", "explanation": "«Ago» se coloca detrás de la cantidad de tiempo transcurrida: «two years ago». «Last» se coloca delante de la unidad de tiempo, y «before» no es la palabra estudiada." },
+        { "type": "quiz", "q": "We visited that office ________ year.",
+          "options": ["ago", "two days", "last"], "correct": 2,
+          "hint": "Esta palabra va delante de la unidad de tiempo, sin artículo, y es la última opción.",
+          "explanation": "«Last» se coloca delante de la unidad de tiempo sin artículo: «last year». «Ago» se pospone y «two days» necesitaría «ago» detrás para tener sentido." },
+        { "type": "wordbank", "prompt": "Estuve en la oficina la semana pasada", "direction": "es-en",
+          "tiles": ["I", "was", "at", "the", "office", "last", "week", "were"],
+          "answer": "I was at the office last week",
+          "explanation": "«Last week» (la semana pasada) no lleva artículo «the» delante. El sujeto «I» exige «was»." },
+        { "type": "speak", "text": "I started this job two days ago.", "es": "Empecé este trabajo hace dos días." },
+        { "type": "match", "prompt": "Empareja cada expresión con su traducción",
+          "pairs": [
+            { "en": "last night", "es": "anoche" },
+            { "en": "last year", "es": "el año pasado" },
+            { "en": "ago", "es": "hace (tiempo)" },
+            { "en": "two days ago", "es": "hace dos días" },
+            { "en": "office", "es": "oficina" }
+          ] },
+        { "type": "gap", "text": "___ she at the office last night?", "options": ["Was", "Were", "Did"],
+          "answer": "Was", "explanation": "La pregunta se forma invirtiendo sujeto y verbo: «Was she...?». «She» exige «was», y «did» nunca acompaña al verbo «to be»." },
+        { "type": "quiz", "q": "Where were you last ________? I was at the office.",
+          "options": ["ago", "night", "two days"], "correct": 1,
+          "hint": "Busca la unidad de tiempo que combina naturalmente con «last» para referirse a la noche anterior; es la segunda opción.",
+          "explanation": "«Last night» (anoche) es la expresión fija correcta. «Last ago» no existe y «last two days» rompe la estructura fija de «last + unidad de tiempo»." },
+        { "type": "wordbank", "prompt": "Llegamos hace dos días", "direction": "es-en",
+          "tiles": ["We", "arrived", "two", "days", "ago", "last"],
+          "answer": "We arrived two days ago",
+          "explanation": "«Ago» se coloca siempre detrás de la cantidad de tiempo: «two days ago». «Last» no se combina con «two days» de esta forma." },
+        { "type": "speak", "text": "She was at the office last week.", "es": "Ella estuvo en la oficina la semana pasada." }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Había dos museos en la ciudad",
-      "direction": "es-en",
-      "tiles": ["There", "were", "two", "museums", "in", "the", "city", "was"],
-      "answer": "There were two museums in the city",
-      "explanation": "«Museums» es plural, así que la concordancia obliga a «there were». En español «había» no cambia en plural; en inglés sí."
-    },
-    {
-      "type": "gap",
-      "text": "There ___ many people at the concert.",
-      "options": ["were", "was", "be"],
-      "answer": "were",
-      "explanation": "«Many people» es plural: se usa «there were». Traducir el «había» invariable del español como «there was» es un error típico penalizado en examen."
-    },
-    {
-      "type": "speak",
-      "text": "There were many people at the concert.",
-      "es": "Había mucha gente en el concierto."
-    },
-    {
-      "type": "quiz",
-      "q": "________ there any tickets left for the concert last week?",
-      "options": ["Was", "Were", "Did there are"],
-      "correct": 1,
-      "hint": "«Tickets» es plural y la pregunta existencial se hace por inversión.",
-      "explanation": "Con el plural «tickets», la pregunta existencial en pasado es «Were there...?». «Was» no concuerda con un plural y «Did there are» mezcla auxiliares de forma inexistente."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Yo no estaba enfermo",
-      "direction": "es-en",
-      "tiles": ["I", "wasn't", "sick", "was", "didn't"],
-      "answer": "I wasn't sick",
-      "explanation": "La negación de «to be» en pasado se forma con «wasn't», sin auxiliar «did». «I didn't was sick» es un error grave."
-    },
-    {
-      "type": "gap",
-      "text": "___ she at the office last night?",
-      "options": ["Was", "Were", "Did"],
-      "answer": "Was",
-      "explanation": "La pregunta se forma invirtiendo sujeto y verbo: «Was she...?». «She» exige «was», y «did» nunca acompaña al verbo «to be»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "restaurant", "es": "restaurante" },
-        { "en": "airport", "es": "aeropuerto" },
-        { "en": "station", "es": "estación" },
-        { "en": "happy", "es": "feliz" },
-        { "en": "sick", "es": "enfermo" }
+      "n": 4,
+      "title": "Eventos y lugares: meeting, party, concert",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada lugar o evento con su traducción",
+          "pairs": [
+            { "en": "office", "es": "oficina" },
+            { "en": "meeting", "es": "reunión" },
+            { "en": "party", "es": "fiesta" },
+            { "en": "concert", "es": "concierto" },
+            { "en": "museum", "es": "museo" }
+          ] },
+        { "type": "quiz", "q": "We ________ at the restaurant last night because it ________ closed.",
+          "options": ["weren't / was", "wasn't / were", "didn't be / did be"], "correct": 0,
+          "hint": "«We» es plural y «it» es singular; «to be» nunca lleva «did».",
+          "explanation": "«We» requiere «weren't» y «it» (el restaurante) requiere «was». La opción b intercambia las concordancias y la c usa el auxiliar «did» con «to be», estructura agramatical." },
+        { "type": "gap", "text": "The ___ starts at seven o'clock tonight.", "options": ["party", "was", "were"],
+          "answer": "party", "explanation": "«Party» (fiesta) es el sustantivo que falta como sujeto de la oración. «Was» y «were» son verbos, no encajan como sujeto." },
+        { "type": "wordbank", "prompt": "Hubo una reunión ayer", "direction": "es-en",
+          "tiles": ["There", "was", "a", "meeting", "yesterday", "were"],
+          "answer": "There was a meeting yesterday",
+          "explanation": "«A meeting» es singular, así que se usa «there was». En español «hubo/había» es invariable, pero el inglés obliga a concordar en número." },
+        { "type": "speak", "text": "Were you at the party last night?", "es": "¿Estuviste en la fiesta anoche?" },
+        { "type": "match", "prompt": "Empareja cada lugar o evento con su traducción",
+          "pairs": [
+            { "en": "meeting", "es": "reunión" },
+            { "en": "party", "es": "fiesta" },
+            { "en": "concert", "es": "concierto" },
+            { "en": "museum", "es": "museo" },
+            { "en": "restaurant", "es": "restaurante" }
+          ] },
+        { "type": "gap", "text": "We ___ at the airport two hours early.", "options": ["were", "was", "did"],
+          "answer": "were", "explanation": "El sujeto plural «we» exige «were». «Did» nunca acompaña al verbo «to be»." },
+        { "type": "quiz", "q": "Why ________ you late for the meeting yesterday morning?",
+          "options": ["did you were", "was", "were"], "correct": 2,
+          "hint": "«To be» forma sus preguntas por inversión, sin auxiliar «did».",
+          "explanation": "La pregunta requiere invertir sujeto y verbo: «Why were you...?». «Did you were» mezcla auxiliar y pasado (agramatical) y «was» no concuerda con «you»." },
+        { "type": "wordbank", "prompt": "Había dos museos en la ciudad", "direction": "es-en",
+          "tiles": ["There", "were", "two", "museums", "in", "the", "city", "was"],
+          "answer": "There were two museums in the city",
+          "explanation": "«Museums» es plural, así que la concordancia obliga a «there were». En español «había» no cambia en plural; en inglés sí." },
+        { "type": "speak", "text": "The concert was amazing last night.", "es": "El concierto fue increíble anoche." },
+        { "type": "match", "prompt": "Empareja cada lugar o evento con su traducción",
+          "pairs": [
+            { "en": "party", "es": "fiesta" },
+            { "en": "concert", "es": "concierto" },
+            { "en": "museum", "es": "museo" },
+            { "en": "restaurant", "es": "restaurante" },
+            { "en": "airport", "es": "aeropuerto" }
+          ] },
+        { "type": "gap", "text": "The museum ___ closed on Mondays last year.", "options": ["was", "were", "did"],
+          "answer": "was", "explanation": "«Museum» es singular, por lo que concuerda con «was». «Were» sería para plural y «did» no se usa con «to be»." },
+        { "type": "quiz", "q": "________ there any tickets left for the concert last week?",
+          "options": ["Was", "Were", "Did there are"], "correct": 1,
+          "hint": "«Tickets» es plural y la pregunta existencial se hace por inversión.",
+          "explanation": "Con el plural «tickets», la pregunta existencial en pasado es «Were there...?». «Was» no concuerda con un plural y «Did there are» mezcla auxiliares de forma inexistente." },
+        { "type": "wordbank", "prompt": "Nosotros no estábamos en el restaurante anoche", "direction": "es-en",
+          "tiles": ["We", "weren't", "at", "the", "restaurant", "last", "night", "wasn't"],
+          "answer": "We weren't at the restaurant last night",
+          "explanation": "El sujeto plural «we» pide «weren't». «Wasn't» se reserva para «I, he, she, it»." },
+        { "type": "speak", "text": "We were at the airport very early.", "es": "Estuvimos en el aeropuerto muy temprano." }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which question is correct?",
-      "options": ["Were you at school yesterday?", "Did you be at school yesterday?", "Was you at school yesterday?"],
-      "correct": 0,
-      "hint": "«To be» es autosuficiente: forma preguntas sin ayuda de «did».",
-      "explanation": "«Were you at school yesterday?» usa la inversión correcta. «Did you be» emplea el auxiliar «did» con «to be» (prohibido) y «was you» rompe la concordancia con «you»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella estaba en la oficina anoche",
-      "direction": "es-en",
-      "tiles": ["She", "was", "at", "the", "office", "last", "night", "were"],
-      "answer": "She was at the office last night",
-      "explanation": "«She» concuerda con «was». Recuerda que «anoche» es «last night», nunca «yesterday night»."
-    },
-    {
-      "type": "gap",
-      "text": "There ___ a hotel near the station last year.",
-      "options": ["wasn't", "weren't", "didn't be"],
-      "answer": "wasn't",
-      "explanation": "«A hotel» es singular: el existencial negativo de pasado es «there wasn't». «Weren't» sería para plurales y «didn't be» no existe."
-    },
-    {
-      "type": "speak",
-      "text": "Was she at the office last night?",
-      "es": "¿Estaba ella en la oficina anoche?"
-    },
-    {
-      "type": "quiz",
-      "q": "There ________ three cars in the park.",
-      "options": ["was", "were", "be"],
-      "correct": 1,
-      "hint": "Cuenta el sujeto: ¿singular o plural?",
-      "explanation": "«Three cars» es plural y exige «there were». «There was three cars» es el calco típico del «había» invariable del español."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nosotros no estábamos en el restaurante anoche",
-      "direction": "es-en",
-      "tiles": ["We", "weren't", "at", "the", "restaurant", "last", "night", "wasn't"],
-      "answer": "We weren't at the restaurant last night",
-      "explanation": "El sujeto plural «we» pide «weren't». «Wasn't» se reserva para «I, he, she, it»."
-    },
-    {
-      "type": "gap",
-      "text": "We ___ tired after the holiday.",
-      "options": ["were", "was", "is"],
-      "answer": "were",
-      "explanation": "El sujeto «we» exige la forma plural «were». «Was» solo acompaña a «I, he, she, it» y «is» es presente."
+      "n": 5,
+      "title": "There was/were: existencial y repaso",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "born", "es": "nacido" },
+            { "en": "childhood", "es": "infancia" },
+            { "en": "yesterday", "es": "ayer" },
+            { "en": "ago", "es": "hace (tiempo)" },
+            { "en": "tired", "es": "cansado" }
+          ] },
+        { "type": "quiz", "q": "Many years ________, there ________ a famous museum here.",
+          "options": ["last / were", "ago / was", "ago / were"], "correct": 1,
+          "hint": "«Ago» va detrás del periodo de tiempo, y «a famous museum» es singular.",
+          "explanation": "«Ago» se coloca tras «many years» y el sujeto singular «a famous museum» pide «there was». La opción c usa «were» con un singular, y «last» nunca va pospuesto al periodo." },
+        { "type": "gap", "text": "There ___ many people at the concert.", "options": ["were", "was", "be"],
+          "answer": "were", "explanation": "«Many people» es plural: se usa «there were». Traducir el «había» invariable del español como «there was» es un error típico penalizado en examen." },
+        { "type": "wordbank", "prompt": "¿Estabas cansado ayer?", "direction": "es-en",
+          "tiles": ["Were", "you", "tired", "yesterday", "Was", "did"],
+          "answer": "Were you tired yesterday?",
+          "explanation": "La pregunta con «to be» se forma por inversión: «Were you...?». Nunca se usa «did» con el verbo «to be», que es auxiliar en sí mismo." },
+        { "type": "speak", "text": "There were many people at the concert.", "es": "Había mucha gente en el concierto." },
+        { "type": "match", "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "restaurant", "es": "restaurante" },
+            { "en": "airport", "es": "aeropuerto" },
+            { "en": "station", "es": "estación" },
+            { "en": "happy", "es": "feliz" },
+            { "en": "sick", "es": "enfermo" }
+          ] },
+        { "type": "gap", "text": "There ___ a hotel near the station last year.", "options": ["wasn't", "weren't", "didn't be"],
+          "answer": "wasn't", "explanation": "«A hotel» es singular: el existencial negativo de pasado es «there wasn't». «Weren't» sería para plurales y «didn't be» no existe." },
+        { "type": "quiz", "q": "There ________ three cars in the park.",
+          "options": ["was", "were", "be"], "correct": 1,
+          "hint": "Cuenta el sujeto: ¿singular o plural?",
+          "explanation": "«Three cars» es plural y exige «there were». «There was three cars» es el calco típico del «había» invariable del español." },
+        { "type": "wordbank", "prompt": "Yo no estaba enfermo", "direction": "es-en",
+          "tiles": ["I", "wasn't", "sick", "was", "didn't"],
+          "answer": "I wasn't sick",
+          "explanation": "La negación de «to be» en pasado se forma con «wasn't», sin auxiliar «did». «I didn't was sick» es un error grave." },
+        { "type": "speak", "text": "There was a hospital near the station.", "es": "Había un hospital cerca de la estación." },
+        { "type": "match", "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "station", "es": "estación" },
+            { "en": "tired", "es": "cansado" },
+            { "en": "happy", "es": "feliz" },
+            { "en": "sick", "es": "enfermo" },
+            { "en": "there was", "es": "había (singular)" }
+          ] },
+        { "type": "gap", "text": "We ___ tired after the holiday.", "options": ["were", "was", "is"],
+          "answer": "were", "explanation": "El sujeto «we» exige la forma plural «were». «Was» solo acompaña a «I, he, she, it» y «is» es presente." },
+        { "type": "quiz", "q": "________ there a hospital near the station last year?",
+          "options": ["Was", "Were", "Did"], "correct": 0,
+          "hint": "«A hospital» es singular.",
+          "explanation": "El sujeto «a hospital» es singular, por lo que la pregunta existencial en pasado es «Was there...?». «Were» sería para plural y «did» nunca acompaña a «to be»." },
+        { "type": "wordbank", "prompt": "Ella estaba feliz en la estación", "direction": "es-en",
+          "tiles": ["She", "was", "happy", "at", "the", "station", "were"],
+          "answer": "She was happy at the station",
+          "explanation": "El sujeto singular «she» exige «was». «Happy» (feliz) y «station» (estación) completan el resto de la oración sin cambios." },
+        { "type": "speak", "text": "I was very happy on holiday.", "es": "Estaba muy feliz de vacaciones." }
+      ]
     }
   ]
 }

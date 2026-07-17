@@ -3,238 +3,621 @@
   "module": 14,
   "title": "Past Simple vs. Past Continuous",
   "subtitle": "Pasado Simple vs. Continuo",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "when", "es": "cuando" },
-        { "en": "while", "es": "mientras" },
-        { "en": "suddenly", "es": "repentinamente" },
-        { "en": "immediately", "es": "inmediatamente" },
-        { "en": "noise", "es": "ruido" }
+      "n": 1,
+      "title": "Simple vs. continuo: la base del contraste",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada verbo con su traducción",
+          "pairs": [
+            { "en": "crash", "es": "chocar" },
+            { "en": "hit", "es": "golpear" },
+            { "en": "fall", "es": "caer" },
+            { "en": "drop", "es": "dejar caer" },
+            { "en": "break", "es": "romper" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the sentence correctly: \"I ___ a book while she ___ an email.\"",
+          "options": ["was reading / was writing", "read / was writing", "was reading / wrote"],
+          "correct": 0,
+          "hint": "«While» indica que las dos acciones ocurrían en paralelo en el pasado.",
+          "explanation": "Con «while» y simultaneidad, ambas acciones estaban en desarrollo a la vez, así que las dos van en Pasado Continuo. Las otras opciones rompen la simetría al presentar una acción como puntual."
+        },
+        {
+          "type": "gap",
+          "text": "The glass ___ and broke.",
+          "options": ["fell", "was falling", "falls"],
+          "answer": "fell",
+          "explanation": "Caerse y romperse es un suceso puntual y ya concluido: Pasado Simple «fell». «Was falling» alargaría el proceso de forma incoherente y «falls» está en presente."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él se cayó mientras corría",
+          "direction": "es-en",
+          "tiles": ["He", "fell", "while", "he", "was", "running", "when", "falling"],
+          "answer": "He fell while he was running",
+          "explanation": "El español usa gerundio simple («corriendo»); el inglés exige repetir pronombre y auxiliar: «while he was running». La caída puntual va en Pasado Simple «fell»."
+        },
+        {
+          "type": "speak",
+          "text": "The glass fell and broke.",
+          "es": "El vaso se cayó y se rompió."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja los conectores y verbos",
+          "pairs": [
+            { "en": "when", "es": "cuando" },
+            { "en": "while", "es": "mientras" },
+            { "en": "crash", "es": "chocar" },
+            { "en": "hit", "es": "golpear" },
+            { "en": "fall", "es": "caer" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence for a completed, punctual action in the past.",
+          "options": ["The car was hitting the wall.", "The car hit the wall.", "The car hits the wall."],
+          "correct": 1,
+          "hint": "Es un suceso instantáneo y ya terminado.",
+          "explanation": "Una acción puntual y concluida en el pasado se expresa con Pasado Simple: «The car hit the wall». «Was hitting» sugiere un proceso repetido y «hits» está en presente."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ his head on the wall.",
+          "options": ["hit", "was hitting", "hits"],
+          "answer": "hit",
+          "explanation": "Golpearse la cabeza de forma accidental es un evento puntual: Pasado Simple «hit» (que no cambia respecto a su infinitivo). «Was hitting» sugeriría un golpeo repetido."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Choqué contra la pared",
+          "direction": "es-en",
+          "tiles": ["I", "crashed", "into", "the", "wall", "was", "crashing"],
+          "answer": "I crashed into the wall",
+          "explanation": "Chocar es un suceso instantáneo y cerrado: Pasado Simple «crashed». «Was crashing» convertiría el choque en un proceso durativo, algo incoherente."
+        },
+        {
+          "type": "speak",
+          "text": "He hit his head on the wall.",
+          "es": "Se golpeó la cabeza con la pared."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja conectores y verbos sin repetir",
+          "pairs": [
+            { "en": "while", "es": "mientras" },
+            { "en": "crash", "es": "chocar" },
+            { "en": "hit", "es": "golpear" },
+            { "en": "fall", "es": "caer" },
+            { "en": "drop", "es": "dejar caer" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly uses 'when' with a punctual past event?",
+          "options": ["When she was falling, I helped her.", "When she falling, I helped her.", "When she fell, I helped her."],
+          "correct": 2,
+          "hint": "«When» exige el evento puntual: ¿qué tiempo verbal corresponde?",
+          "explanation": "«When» precede a la cláusula en Pasado Simple: «When she fell». «Was falling» convierte la caída en un proceso durativo, algo incoherente con un suceso instantáneo, y «falling» sin auxiliar es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "___ she arrived, we were having dinner.",
+          "options": ["When", "While", "During"],
+          "answer": "When",
+          "explanation": "«When» precede al suceso puntual («she arrived») cuando la oración se invierte y empieza con la subordinada, seguida de coma y de la cláusula en continuo. «During» no funciona como conjunción de este tipo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella se cayó",
+          "direction": "es-en",
+          "tiles": ["She", "fell", "was", "falling", "falls"],
+          "answer": "She fell",
+          "explanation": "Un evento puntual y concluido se expresa con Pasado Simple: «She fell». «Was falling» y «falls» no encajan con un suceso instantáneo ya terminado."
+        },
+        {
+          "type": "speak",
+          "text": "When she fell, I helped her.",
+          "es": "Cuando se cayó, la ayudé."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Complete the sentence correctly: \"I ___ a book while she ___ an email.\"",
-      "options": ["was reading / was writing", "read / was writing", "was reading / wrote"],
-      "correct": 0,
-      "hint": "«While» indica que las dos acciones ocurrían en paralelo en el pasado.",
-      "explanation": "Con «while» y simultaneidad, ambas acciones estaban en desarrollo a la vez, así que las dos van en Pasado Continuo. Las otras opciones rompen la simetría al presentar una acción como puntual."
-    },
-    {
-      "type": "gap",
-      "text": "I was walking when I ___ a crash.",
-      "options": ["saw", "was seeing", "see"],
-      "answer": "saw",
-      "explanation": "La acción que sigue a «when» es un evento puntual que interrumpe, y requiere Pasado Simple: «saw». «Was seeing» es el error típico de alargar lo instantáneo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "El teléfono sonó",
-      "direction": "es-en",
-      "tiles": ["The", "telephone", "rang", "was", "ringing"],
-      "answer": "The telephone rang",
-      "explanation": "Acción puntual y cerrada en el pasado: Pasado Simple «rang». No es una acción en curso, así que se descartan «was» y «ringing»."
-    },
-    {
-      "type": "speak",
-      "text": "I was reading a book when suddenly I heard a noise.",
-      "es": "Estaba leyendo un libro cuando de repente oí un ruido."
-    },
-    {
-      "type": "gap",
-      "text": "While I ___ driving, the telephone rang.",
-      "options": ["was", "were", "am"],
-      "answer": "was",
-      "explanation": "La cláusula con «while» introduce la acción en curso y exige Pasado Continuo: «I was driving». Con el sujeto «I» el auxiliar correcto es «was», no «were»."
-    },
-    {
-      "type": "quiz",
-      "q": "Select the option with the correct grammatical structure and punctuation:",
-      "options": ["When the police arrived the alarm was ringing.", "While the police arrived, the alarm was ringing.", "When the police arrived, the alarm was ringing."],
-      "correct": 2,
-      "hint": "Si la oración empieza con la subordinada, en inglés la coma es obligatoria.",
-      "explanation": "Al iniciar con la cláusula de «when», la coma es obligatoria. Además, «arrived» es puntual (va con «when») y «was ringing» es la acción de fondo. «While» no admite un verbo puntual como «arrived»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Yo estaba caminando a casa",
-      "direction": "es-en",
-      "tiles": ["I", "was", "walking", "home", "walked", "to"],
-      "answer": "I was walking home",
-      "explanation": "Acción con duración en el pasado: Pasado Continuo «was walking». «Home» funciona como adverbio de dirección y no lleva «to»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada verbo con su traducción",
-      "pairs": [
-        { "en": "crash", "es": "chocar" },
-        { "en": "hit", "es": "golpear" },
-        { "en": "fall", "es": "caer" },
-        { "en": "drop", "es": "dejar caer" },
-        { "en": "break", "es": "romper" }
+      "n": 2,
+      "title": "When + Pasado Simple: la interrupción",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada verbo con su traducción",
+          "pairs": [
+            { "en": "break", "es": "romper" },
+            { "en": "lose", "es": "perder" },
+            { "en": "ring", "es": "sonar" },
+            { "en": "call", "es": "llamar" },
+            { "en": "hear", "es": "oír" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence with the correct verb for a broken object.",
+          "options": ["She broke the cup.", "She was breaking the cup.", "She breaks the cup."],
+          "correct": 0,
+          "hint": "Es un suceso puntual y ya terminado.",
+          "explanation": "Romper algo de un golpe es un evento puntual y cerrado: Pasado Simple «broke». «Was breaking» sugeriría un proceso largo y «breaks» está en presente."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ my keys yesterday.",
+          "options": ["lost", "was losing", "lose"],
+          "answer": "lost",
+          "explanation": "Perder las llaves ayer es un hecho puntual y concluido: Pasado Simple «lost». «Was losing» convertiría la pérdida en un proceso durativo, algo incoherente con «yesterday»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella rompió el vaso",
+          "direction": "es-en",
+          "tiles": ["She", "broke", "the", "glass", "was", "breaking"],
+          "answer": "She broke the glass",
+          "explanation": "Romper un vaso es un suceso puntual: Pasado Simple «broke». «Was breaking» sugeriría un proceso de rotura prolongado, algo poco natural aquí."
+        },
+        {
+          "type": "speak",
+          "text": "I lost my keys yesterday.",
+          "es": "Perdí mis llaves ayer."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos",
+          "pairs": [
+            { "en": "lose", "es": "perder" },
+            { "en": "ring", "es": "sonar" },
+            { "en": "call", "es": "llamar" },
+            { "en": "hear", "es": "oír" },
+            { "en": "see", "es": "ver" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which is the correct question about a lost object in the past?",
+          "options": ["Did you were losing your keys?", "Did you lose your keys?", "Did you lost your keys?"],
+          "correct": 1,
+          "hint": "Con «did» el verbo principal vuelve a su forma base.",
+          "explanation": "Las preguntas con «did» exigen el verbo principal en infinitivo: «Did you lose your keys?». «Were losing» y «lost» después de «did» son incorrectos, porque el pasado ya lo marca «did»."
+        },
+        {
+          "type": "gap",
+          "text": "I was cooking ___ he called.",
+          "options": ["when", "while", "if"],
+          "answer": "when",
+          "explanation": "«When» introduce la cláusula en Pasado Simple («he called»), el evento puntual que irrumpe en la acción de fondo «was cooking»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Perdí las llaves",
+          "direction": "es-en",
+          "tiles": ["I", "lost", "my", "keys", "was", "losing"],
+          "answer": "I lost my keys",
+          "explanation": "Perder algo en un momento concreto es puntual: Pasado Simple «lost». «Was losing» describiría un proceso continuado, que no encaja aquí."
+        },
+        {
+          "type": "speak",
+          "text": "She broke the glass.",
+          "es": "Ella rompió el vaso."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja verbos sin repetir",
+          "pairs": [
+            { "en": "break", "es": "romper" },
+            { "en": "ring", "es": "sonar" },
+            { "en": "call", "es": "llamar" },
+            { "en": "hear", "es": "oír" },
+            { "en": "see", "es": "ver" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence describes a single, completed sound from the phone?",
+          "options": ["The phone was ringing.", "The phone rings.", "The phone rang."],
+          "correct": 2,
+          "hint": "Busca la opción que exprese un sonido puntual ya terminado.",
+          "explanation": "«Rang» es Pasado Simple y expresa el sonido puntual y concluido del teléfono. «Was ringing» sugeriría un sonido prolongado y «rings» está en presente."
+        },
+        {
+          "type": "gap",
+          "text": "___ you hear that?",
+          "options": ["Did", "Was", "Were"],
+          "answer": "Did",
+          "explanation": "Para preguntar por un evento puntual y percibido una sola vez se usa «did» + verbo base: «Did you hear that?». El pasado continuo no encaja con una percepción instantánea."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El teléfono sonó",
+          "direction": "es-en",
+          "tiles": ["The", "phone", "rang", "was", "ringing"],
+          "answer": "The phone rang",
+          "explanation": "El sonido puntual del teléfono se expresa con Pasado Simple: «rang». «Was ringing» sugeriría un sonido prolongado y repetido."
+        },
+        {
+          "type": "speak",
+          "text": "Did you hear that?",
+          "es": "¿Oíste eso?"
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "Suddenly she ___ her glass.",
-      "options": ["dropped", "was dropping", "drops"],
-      "answer": "dropped",
-      "explanation": "«Suddenly» indica un evento instantáneo e inesperado, por lo que exige Pasado Simple: «dropped». El continuo sugeriría un proceso durativo que contradice al adverbio."
-    },
-    {
-      "type": "quiz",
-      "q": "Fill in the blank: \"Suddenly, the car ___ the wall.\"",
-      "options": ["was hitting", "hit", "hits"],
-      "correct": 1,
-      "hint": "«Suddenly» marca un evento instantáneo y completado.",
-      "explanation": "«Suddenly» exige Pasado Simple; el verbo «hit» es irregular y no cambia (hit-hit-hit). «Was hitting» sugiere golpear repetidamente y «hits» está en presente, rompiendo la concordancia temporal."
-    },
-    {
-      "type": "speak",
-      "text": "While he was driving home, he saw an ambulance.",
-      "es": "Mientras conducía a casa, vio una ambulancia."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella estaba cocinando la cena",
-      "direction": "es-en",
-      "tiles": ["She", "was", "cooking", "dinner", "cooked", "is"],
-      "answer": "She was cooking dinner",
-      "explanation": "Acción en curso en el pasado: Pasado Continuo «was cooking». «Cooked» la presentaría como cerrada y «is» está en presente."
-    },
-    {
-      "type": "gap",
-      "text": "When the ambulance arrived, I ___ crying.",
-      "options": ["was", "were", "am"],
-      "answer": "was",
-      "explanation": "Falta el auxiliar del Pasado Continuo: «I was crying». Omitirlo (*I crying*) es un error frecuente que penalizan los exámenes."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the correct option: \"While they ___ in the park, they ___ a loud noise.\"",
-      "options": ["walked / were hearing", "were walking / heard", "was walking / heard"],
-      "correct": 1,
-      "hint": "«While» introduce la acción en curso; fíjate también en la concordancia con «they».",
-      "explanation": "La cláusula con «while» va en Pasado Continuo («were walking») y la interrupción puntual en Pasado Simple («heard»). «Was walking» falla en concordancia: «they» exige «were»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada verbo con su traducción",
-      "pairs": [
-        { "en": "walk", "es": "caminar" },
-        { "en": "drive", "es": "conducir" },
-        { "en": "cook", "es": "cocinar" },
-        { "en": "read", "es": "leer" },
-        { "en": "write", "es": "escribir" }
+      "n": 3,
+      "title": "While + Pasado Continuo: la acción en curso",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada verbo con su traducción",
+          "pairs": [
+            { "en": "walk", "es": "caminar" },
+            { "en": "drive", "es": "conducir" },
+            { "en": "cook", "es": "cocinar" },
+            { "en": "read", "es": "leer" },
+            { "en": "write", "es": "escribir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly describes two simultaneous actions with 'while'?",
+          "options": ["While I was cooking, she was reading.", "While I cooked, she was reading.", "While I was cooking, she read."],
+          "correct": 0,
+          "hint": "Dos acciones paralelas de larga duración van ambas en el mismo tiempo.",
+          "explanation": "Cuando dos acciones duran en paralelo, ambas cláusulas van en Pasado Continuo: «While I was cooking, she was reading». Mezclar un Simple rompe el paralelismo durativo."
+        },
+        {
+          "type": "gap",
+          "text": "I was walking when I ___ a crash.",
+          "options": ["saw", "was seeing", "see"],
+          "answer": "saw",
+          "explanation": "La acción que sigue a «when» es un evento puntual que interrumpe, y requiere Pasado Simple: «saw». «Was seeing» es el error típico de alargar lo instantáneo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El teléfono sonó",
+          "direction": "es-en",
+          "tiles": ["The", "telephone", "rang", "was", "ringing"],
+          "answer": "The telephone rang",
+          "explanation": "Acción puntual y cerrada en el pasado: Pasado Simple «rang». No es una acción en curso, así que se descartan «was» y «ringing»."
+        },
+        {
+          "type": "speak",
+          "text": "The telephone rang while I was writing a letter.",
+          "es": "El teléfono sonó mientras yo estaba escribiendo una carta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos de acción en curso",
+          "pairs": [
+            { "en": "drive", "es": "conducir" },
+            { "en": "cook", "es": "cocinar" },
+            { "en": "read", "es": "leer" },
+            { "en": "write", "es": "escribir" },
+            { "en": "telephone", "es": "teléfono" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence: the letter-writing was interrupted.",
+          "options": ["I wrote a letter when the phone was ringing.", "I was writing a letter when the phone rang.", "I was writing a letter when the phone was ringing."],
+          "correct": 1,
+          "hint": "Solo una acción es de fondo y la otra es la interrupción puntual.",
+          "explanation": "La acción de fondo va en continuo («was writing») y la interrupción puntual en simple («rang»). Poner ambas en continuo elimina la interrupción, y poner la de fondo en simple invierte los papeles."
+        },
+        {
+          "type": "gap",
+          "text": "While I ___ driving, the telephone rang.",
+          "options": ["was", "were", "am"],
+          "answer": "was",
+          "explanation": "La cláusula con «while» introduce la acción en curso y exige Pasado Continuo: «I was driving». Con el sujeto «I» el auxiliar correcto es «was», no «were»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Yo estaba caminando a casa",
+          "direction": "es-en",
+          "tiles": ["I", "was", "walking", "home", "walked", "to"],
+          "answer": "I was walking home",
+          "explanation": "Acción con duración en el pasado: Pasado Continuo «was walking». «Home» funciona como adverbio de dirección y no lleva «to»."
+        },
+        {
+          "type": "speak",
+          "text": "While my mother was cooking, my father was cleaning the kitchen.",
+          "es": "Mientras mi madre estaba cocinando, mi padre estaba limpiando la cocina."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja verbos de acción en curso sin repetir",
+          "pairs": [
+            { "en": "walk", "es": "caminar" },
+            { "en": "cook", "es": "cocinar" },
+            { "en": "read", "es": "leer" },
+            { "en": "write", "es": "escribir" },
+            { "en": "telephone", "es": "teléfono" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct: someone driving saw something?",
+          "options": ["While he drove home, he was seeing an ambulance.", "While he was driving home, he saw ambulance.", "While he was driving home, he saw an ambulance."],
+          "correct": 2,
+          "hint": "Fíjate en el artículo «an» y en qué tiempo va cada cláusula.",
+          "explanation": "La acción de fondo («was driving») va en continuo y la interrupción puntual («saw») en simple, con el artículo «an» obligatorio ante «ambulance». Las otras opciones fallan en el tiempo verbal o en el artículo."
+        },
+        {
+          "type": "gap",
+          "text": "While my mother was cooking, my father ___ cleaning the kitchen.",
+          "options": ["was", "were", "is"],
+          "answer": "was",
+          "explanation": "Dos acciones paralelas de larga duración: ambas cláusulas van en Pasado Continuo. «My father» es singular, así que el auxiliar es «was»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella estaba cocinando la cena",
+          "direction": "es-en",
+          "tiles": ["She", "was", "cooking", "dinner", "cooked", "is"],
+          "answer": "She was cooking dinner",
+          "explanation": "Acción en curso en el pasado: Pasado Continuo «was cooking». «Cooked» la presentaría como cerrada y «is» está en presente."
+        },
+        {
+          "type": "speak",
+          "text": "While I was cooking, she was writing a letter.",
+          "es": "Mientras yo estaba cocinando, ella estaba escribiendo una carta."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Vimos a la policía",
-      "direction": "es-en",
-      "tiles": ["We", "saw", "the", "police", "were", "seeing"],
-      "answer": "We saw the police",
-      "explanation": "Evento delimitado en el pasado: Pasado Simple «saw». «See» es un verbo de percepción y no se usa en continuo para un hecho puntual."
-    },
-    {
-      "type": "gap",
-      "text": "While my mother was cooking, my father ___ cleaning the kitchen.",
-      "options": ["was", "were", "is"],
-      "answer": "was",
-      "explanation": "Dos acciones paralelas de larga duración: ambas cláusulas van en Pasado Continuo. «My father» es singular, así que el auxiliar es «was»."
-    },
-    {
-      "type": "speak",
-      "text": "The telephone rang while I was writing a letter.",
-      "es": "El teléfono sonó mientras yo estaba escribiendo una carta."
-    },
-    {
-      "type": "quiz",
-      "q": "Fill in the blank: \"She dropped the plate because she ___ fast.\"",
-      "options": ["was walking", "walked", "walks"],
-      "correct": 0,
-      "hint": "La caída interrumpe una acción que estaba en desarrollo.",
-      "explanation": "«Dropped» irrumpe en mitad de la acción durativa de caminar rápido, que va en Pasado Continuo: «was walking». «Walked» pierde el sentido de causa durativa y «walks» está en presente."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "De repente oí un ruido",
-      "direction": "es-en",
-      "tiles": ["Suddenly", "I", "heard", "a", "noise", "was", "hearing"],
-      "answer": "Suddenly I heard a noise",
-      "explanation": "«Suddenly» marca un evento instantáneo, así que el verbo va en Pasado Simple: «heard», nunca «was hearing»."
-    },
-    {
-      "type": "gap",
-      "text": "He was driving home ___ he hit the wall.",
-      "options": ["when", "while", "during"],
-      "answer": "when",
-      "explanation": "«When» precede a la cláusula en Pasado Simple, el suceso puntual que interrumpe («hit»). «While» introduciría una acción con duración."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "police", "es": "policía" },
-        { "en": "ambulance", "es": "ambulancia" },
-        { "en": "alarm", "es": "alarma" },
-        { "en": "bell", "es": "campana" },
-        { "en": "telephone", "es": "teléfono" }
+      "n": 4,
+      "title": "Puntuación con conectores y sucesos repentinos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "police", "es": "policía" },
+            { "en": "ambulance", "es": "ambulancia" },
+            { "en": "alarm", "es": "alarma" },
+            { "en": "bell", "es": "campana" },
+            { "en": "telephone", "es": "teléfono" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Fill in the blank: \"Suddenly, the car ___ the wall.\"",
+          "options": ["was hitting", "hit", "hits"],
+          "correct": 1,
+          "hint": "«Suddenly» marca un evento instantáneo y completado.",
+          "explanation": "«Suddenly» exige Pasado Simple; el verbo «hit» es irregular y no cambia (hit-hit-hit). «Was hitting» sugiere golpear repetidamente y «hits» está en presente, rompiendo la concordancia temporal."
+        },
+        {
+          "type": "gap",
+          "text": "Suddenly she ___ her glass.",
+          "options": ["dropped", "was dropping", "drops"],
+          "answer": "dropped",
+          "explanation": "«Suddenly» indica un evento instantáneo e inesperado, por lo que exige Pasado Simple: «dropped». El continuo sugeriría un proceso durativo que contradice al adverbio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La alarma sonó de repente",
+          "direction": "es-en",
+          "tiles": ["The", "alarm", "rang", "suddenly", "was", "ringing"],
+          "answer": "The alarm rang suddenly",
+          "explanation": "«Suddenly» exige un verbo puntual en Pasado Simple: «rang». «Was ringing» describiría un sonido prolongado, incompatible con lo repentino."
+        },
+        {
+          "type": "speak",
+          "text": "Suddenly, the door opened.",
+          "es": "De repente, la puerta se abrió."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de sucesos repentinos",
+          "pairs": [
+            { "en": "door", "es": "puerta" },
+            { "en": "window", "es": "ventana" },
+            { "en": "alarm", "es": "alarma" },
+            { "en": "happen", "es": "ocurrir" },
+            { "en": "suddenly", "es": "repentinamente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Fill in the blank: \"She dropped the plate because she ___ fast.\"",
+          "options": ["was walking", "walked", "walks"],
+          "correct": 0,
+          "hint": "La caída interrumpe una acción que estaba en desarrollo.",
+          "explanation": "«Dropped» irrumpe en mitad de la acción durativa de caminar rápido, que va en Pasado Continuo: «was walking». «Walked» pierde el sentido de causa durativa y «walks» está en presente."
+        },
+        {
+          "type": "gap",
+          "text": "He was driving home ___ he hit the wall.",
+          "options": ["when", "while", "during"],
+          "answer": "when",
+          "explanation": "«When» precede a la cláusula en Pasado Simple, el suceso puntual que interrumpe («hit»). «While» introduciría una acción con duración."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Alguien tocó el timbre",
+          "direction": "es-en",
+          "tiles": ["Someone", "rang", "the", "bell", "was", "ringing"],
+          "answer": "Someone rang the bell",
+          "explanation": "Tocar el timbre una vez es un suceso puntual: Pasado Simple «rang». «Was ringing» sugeriría un timbre sonando de forma prolongada."
+        },
+        {
+          "type": "speak",
+          "text": "Someone rang the bell.",
+          "es": "Alguien tocó el timbre."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras de sucesos repentinos sin repetir",
+          "pairs": [
+            { "en": "bell", "es": "campana" },
+            { "en": "window", "es": "ventana" },
+            { "en": "alarm", "es": "alarma" },
+            { "en": "happen", "es": "ocurrir" },
+            { "en": "suddenly", "es": "repentinamente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["I was wanting to help.", "I wanted to help.", "I was want to help."],
+          "correct": 1,
+          "hint": "«Want» es un verbo estativo (cognitivo), no dinámico.",
+          "explanation": "Los verbos estativos como «want» no admiten el aspecto continuo en inglés: se usa Pasado Simple «wanted». El español sí acepta «estaba queriendo», de ahí el calco erróneo."
+        },
+        {
+          "type": "gap",
+          "text": "Suddenly, the door ___ open.",
+          "options": ["opened", "was opening", "opens"],
+          "answer": "opened",
+          "explanation": "«Suddenly» marca un evento instantáneo: Pasado Simple «opened». «Was opening» sugeriría un proceso lento y gradual, incoherente con lo repentino."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Qué pasó?",
+          "direction": "es-en",
+          "tiles": ["What", "happened", "was", "happening", "happens"],
+          "answer": "What happened",
+          "explanation": "Preguntar por un suceso puntual y ya concluido se hace con Pasado Simple: «What happened?». «Was happening» preguntaría por un proceso en curso."
+        },
+        {
+          "type": "speak",
+          "text": "What happened?",
+          "es": "¿Qué pasó?"
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct sentence:",
-      "options": ["I was wanting to help.", "I wanted to help.", "I was want to help."],
-      "correct": 1,
-      "hint": "«Want» es un verbo estativo (cognitivo), no dinámico.",
-      "explanation": "Los verbos estativos como «want» no admiten el aspecto continuo en inglés: se usa Pasado Simple «wanted». El español sí acepta «estaba queriendo», de ahí el calco erróneo."
-    },
-    {
-      "type": "speak",
-      "text": "While my mother was cooking, my father was cleaning the kitchen.",
-      "es": "Mientras mi madre estaba cocinando, mi padre estaba limpiando la cocina."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ellos estaban conduciendo rápido",
-      "direction": "es-en",
-      "tiles": ["They", "were", "driving", "fast", "was", "drove"],
-      "answer": "They were driving fast",
-      "explanation": "Duración en el pasado: Pasado Continuo. El sujeto plural «they» exige el auxiliar «were», no «was»."
-    },
-    {
-      "type": "gap",
-      "text": "While we ___ having a meeting, we heard a loud noise.",
-      "options": ["were", "was", "are"],
-      "answer": "were",
-      "explanation": "La reunión es la acción de fondo en desarrollo: Pasado Continuo con «we» pide «were». El ruido es la interrupción puntual en Pasado Simple."
-    },
-    {
-      "type": "quiz",
-      "q": "Fill in the blank: \"The alarm rang and immediately we ___.\"",
-      "options": ["was leaving", "were leave", "left"],
-      "correct": 2,
-      "hint": "Son dos acciones sucesivas y rápidas en el pasado.",
-      "explanation": "Dos acciones sucesivas y rápidas se expresan ambas en Pasado Simple: «rang» y «left». «Was leaving» además falla en concordancia con «we», y «were leave» mezcla auxiliar con forma base."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él se cayó mientras corría",
-      "direction": "es-en",
-      "tiles": ["He", "fell", "while", "he", "was", "running", "when", "falling"],
-      "answer": "He fell while he was running",
-      "explanation": "El español usa gerundio simple («corriendo»); el inglés exige repetir pronombre y auxiliar: «while he was running». La caída puntual va en Pasado Simple «fell»."
-    },
-    {
-      "type": "gap",
-      "text": "I was cooking ___ he called.",
-      "options": ["when", "while", "if"],
-      "answer": "when",
-      "explanation": "«When» introduce la cláusula en Pasado Simple («he called»), el evento puntual que irrumpe en la acción de fondo «was cooking»."
+      "n": 5,
+      "title": "Acciones simultáneas y repaso general",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "when", "es": "cuando" },
+            { "en": "while", "es": "mientras" },
+            { "en": "suddenly", "es": "repentinamente" },
+            { "en": "immediately", "es": "inmediatamente" },
+            { "en": "noise", "es": "ruido" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Select the option with the correct grammatical structure and punctuation:",
+          "options": ["When the police arrived the alarm was ringing.", "While the police arrived, the alarm was ringing.", "When the police arrived, the alarm was ringing."],
+          "correct": 2,
+          "hint": "Si la oración empieza con la subordinada, en inglés la coma es obligatoria.",
+          "explanation": "Al iniciar con la cláusula de «when», la coma es obligatoria. Además, «arrived» es puntual (va con «when») y «was ringing» es la acción de fondo. «While» no admite un verbo puntual como «arrived»."
+        },
+        {
+          "type": "gap",
+          "text": "When the ambulance arrived, I ___ crying.",
+          "options": ["was", "were", "am"],
+          "answer": "was",
+          "explanation": "Falta el auxiliar del Pasado Continuo: «I was crying». Omitirlo (*I crying*) es un error frecuente que penalizan los exámenes."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Vimos a la policía",
+          "direction": "es-en",
+          "tiles": ["We", "saw", "the", "police", "were", "seeing"],
+          "answer": "We saw the police",
+          "explanation": "Evento delimitado en el pasado: Pasado Simple «saw». «See» es un verbo de percepción y no se usa en continuo para un hecho puntual."
+        },
+        {
+          "type": "speak",
+          "text": "I was reading a book when suddenly I heard a noise.",
+          "es": "Estaba leyendo un libro cuando de repente oí un ruido."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de repaso",
+          "pairs": [
+            { "en": "fast", "es": "rápido" },
+            { "en": "slow", "es": "lento" },
+            { "en": "noise", "es": "ruido" },
+            { "en": "help", "es": "ayuda" },
+            { "en": "police", "es": "policía" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct option: \"While they ___ in the park, they ___ a loud noise.\"",
+          "options": ["walked / were hearing", "were walking / heard", "was walking / heard"],
+          "correct": 1,
+          "hint": "«While» introduce la acción en curso; fíjate también en la concordancia con «they».",
+          "explanation": "La cláusula con «while» va en Pasado Continuo («were walking») y la interrupción puntual en Pasado Simple («heard»). «Was walking» falla en concordancia: «they» exige «were»."
+        },
+        {
+          "type": "gap",
+          "text": "While we ___ having a meeting, we heard a loud noise.",
+          "options": ["were", "was", "are"],
+          "answer": "were",
+          "explanation": "La reunión es la acción de fondo en desarrollo: Pasado Continuo con «we» pide «were». El ruido es la interrupción puntual en Pasado Simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "De repente oí un ruido",
+          "direction": "es-en",
+          "tiles": ["Suddenly", "I", "heard", "a", "noise", "was", "hearing"],
+          "answer": "Suddenly I heard a noise",
+          "explanation": "«Suddenly» marca un evento instantáneo, así que el verbo va en Pasado Simple: «heard», nunca «was hearing»."
+        },
+        {
+          "type": "speak",
+          "text": "While he was driving home, he saw an ambulance.",
+          "es": "Mientras conducía a casa, vio una ambulancia."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras de repaso sin repetir",
+          "pairs": [
+            { "en": "immediately", "es": "inmediatamente" },
+            { "en": "fast", "es": "rápido" },
+            { "en": "slow", "es": "lento" },
+            { "en": "help", "es": "ayuda" },
+            { "en": "ambulance", "es": "ambulancia" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Fill in the blank: \"The alarm rang and immediately we ___.\"",
+          "options": ["was leaving", "were leave", "left"],
+          "correct": 2,
+          "hint": "Son dos acciones sucesivas y rápidas en el pasado.",
+          "explanation": "Dos acciones sucesivas y rápidas se expresan ambas en Pasado Simple: «rang» y «left». «Was leaving» además falla en concordancia con «we», y «were leave» mezcla auxiliar con forma base."
+        },
+        {
+          "type": "gap",
+          "text": "He drives very ___.",
+          "options": ["fast", "fastly", "fasting"],
+          "answer": "fast",
+          "explanation": "«Fast» es a la vez adjetivo y adverbio invariable: no existe la forma «fastly» en inglés estándar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos estaban conduciendo rápido",
+          "direction": "es-en",
+          "tiles": ["They", "were", "driving", "fast", "was", "drove"],
+          "answer": "They were driving fast",
+          "explanation": "Duración en el pasado: Pasado Continuo. El sujeto plural «they» exige el auxiliar «were», no «was»."
+        },
+        {
+          "type": "speak",
+          "text": "The police arrived immediately.",
+          "es": "La policía llegó inmediatamente."
+        }
+      ]
     }
   ]
 }

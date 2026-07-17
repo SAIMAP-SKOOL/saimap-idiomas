@@ -3,238 +3,621 @@
   "module": 6,
   "title": "Reflexive Pronouns",
   "subtitle": "Pronombres Reflexivos",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "cut", "es": "cortar" },
-        { "en": "burn", "es": "quemar" },
-        { "en": "hurt", "es": "lastimar" },
-        { "en": "mirror", "es": "espejo" },
-        { "en": "alone", "es": "solo" }
+      "n": 1,
+      "title": "Reflexivo directo: sujeto = objeto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "cut", "es": "cortar" },
+            { "en": "burn", "es": "quemar" },
+            { "en": "hurt", "es": "lastimar" },
+            { "en": "look at", "es": "mirar a" },
+            { "en": "mirror", "es": "espejo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["I cut myself while cooking.", "I cut me while cooking.", "I cut my while cooking."],
+          "correct": 0,
+          "hint": "Sujeto y objeto son la misma persona: necesitas la forma reflexiva.",
+          "explanation": "«Myself» es correcto porque el sujeto («I») y el objeto son la misma persona. «Me» es un pronombre objeto simple y «my» es un posesivo; ninguno expresa correferencia."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ myself with the knife while cooking.",
+          "options": ["cut", "cuts", "cutting"],
+          "answer": "cut",
+          "explanation": "«Cut» es un verbo irregular cuya forma de pasado es idéntica a la base: «cut - cut - cut». «Cuts» y «cutting» no son formas válidas tras el sujeto «I» en pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del episodio del espejo",
+          "pairs": [
+            { "en": "burn", "es": "quemar" },
+            { "en": "hurt", "es": "lastimar" },
+            { "en": "look at", "es": "mirar a" },
+            { "en": "mirror", "es": "espejo" },
+            { "en": "myself", "es": "a mí mismo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["I burned me with the oven.", "I burned myself with the oven.", "I burned my with the oven."],
+          "correct": 1,
+          "hint": "Sujeto y objeto son la misma persona: necesitas el reflexivo, no el pronombre objeto ni el posesivo.",
+          "explanation": "«Myself» es el reflexivo correcto porque sujeto y objeto coinciden («I»...«myself»). «Me» sería pronombre objeto simple (válido solo con otra persona) y «my» es un posesivo, agramatical aquí."
+        },
+        {
+          "type": "gap",
+          "text": "I always burn ___ when I cook.",
+          "options": ["myself", "me", "my"],
+          "answer": "myself",
+          "explanation": "El sujeto y el objeto son la misma persona, así que se necesita el reflexivo «myself». «Me» y «my» no expresan correferencia."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras del episodio del espejo sin repetir",
+          "pairs": [
+            { "en": "cut", "es": "cortar" },
+            { "en": "hurt", "es": "lastimar" },
+            { "en": "look at", "es": "mirar a" },
+            { "en": "mirror", "es": "espejo" },
+            { "en": "myself", "es": "a mí mismo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["I looked me in the mirror.", "I looked my in the mirror.", "I looked at myself in the mirror."],
+          "correct": 2,
+          "hint": "El verbo «look» necesita la preposición «at» antes del reflexivo.",
+          "explanation": "«looked at myself» es correcto: «look at» + reflexivo. Las otras opciones omiten la preposición «at» o usan un pronombre/posesivo incorrecto."
+        },
+        {
+          "type": "gap",
+          "text": "I looked at ___ in the mirror before leaving.",
+          "options": ["myself", "me", "my"],
+          "answer": "myself",
+          "explanation": "Tras «look at», si el sujeto se mira a sí mismo, se usa el reflexivo «myself», nunca el pronombre objeto ni el posesivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me corté con el cuchillo",
+          "direction": "es-en",
+          "tiles": ["I", "cut", "myself", "with", "the", "knife", "me", "himself"],
+          "answer": "I cut myself with the knife",
+          "explanation": "Sujeto y objeto coinciden, por eso se usa el reflexivo «myself» y no el pronombre objeto «me»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me hice daño jugando al fútbol",
+          "direction": "es-en",
+          "tiles": ["I", "hurt", "myself", "me", "playing", "football"],
+          "answer": "I hurt myself playing football",
+          "explanation": "Sujeto y objeto son la misma persona: el reflexivo «myself» es obligatorio, no el pronombre objeto «me»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me miré en el espejo",
+          "direction": "es-en",
+          "tiles": ["I", "looked", "at", "myself", "me", "in", "the", "mirror"],
+          "answer": "I looked at myself in the mirror",
+          "explanation": "«Look at myself» combina la preposición obligatoria «at» con el reflexivo «myself», ya que sujeto y objeto coinciden."
+        },
+        {
+          "type": "speak",
+          "text": "I cut myself with the scissors.",
+          "es": "Me corté con las tijeras."
+        },
+        {
+          "type": "speak",
+          "text": "I hurt myself yesterday.",
+          "es": "Me hice daño ayer."
+        },
+        {
+          "type": "speak",
+          "text": "I looked at myself in the mirror.",
+          "es": "Me miré en el espejo."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "My little sister is only four years old, but she can dress __________ now.",
-      "options": ["herself", "by herself", "by her own"],
-      "correct": 1,
-      "hint": "El verbo «dress» no lleva reflexivo directo; piensa en la estructura que significa «sin ayuda».",
-      "explanation": "«By herself» indica que la niña puede vestirse sola, sin ayuda. «Dress» no suele llevar reflexivo directo, y «by her own» es incorrecto: la expresión válida sería «on her own»."
-    },
-    {
-      "type": "gap",
-      "text": "She looked at ___ in the mirror.",
-      "options": ["herself", "her", "himself"],
-      "answer": "herself",
-      "explanation": "El sujeto «she» y el objeto son la misma persona (correferencia), así que se usa el reflexivo femenino «herself». «Her» indicaría otra mujer distinta."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Me corté con el cuchillo",
-      "direction": "es-en",
-      "tiles": ["I", "cut", "myself", "with", "the", "knife", "me", "himself"],
-      "answer": "I cut myself with the knife",
-      "explanation": "Sujeto y objeto coinciden, por eso se usa el reflexivo «myself» y no el pronombre objeto «me»."
-    },
-    {
-      "type": "speak",
-      "text": "Be careful! You might hurt yourself.",
-      "es": "¡Ten cuidado! Podrías hacerte daño."
-    },
-    {
-      "type": "quiz",
-      "q": "We went to the new theme park and we enjoyed __________ very much.",
-      "options": ["us", "ourselves", "each other"],
-      "correct": 1,
-      "hint": "El verbo «enjoy» con el sentido de «divertirse» exige un reflexivo concordado con el sujeto.",
-      "explanation": "«Enjoy» requiere el reflexivo «ourselves» concordado con «we» para significar divertirse. «Us» es agramatical aquí y «each other» indicaría reciprocidad, que no encaja con esta estructura fija."
-    },
-    {
-      "type": "gap",
-      "text": "He prefers to live by ___.",
-      "options": ["himself", "hisself", "him"],
-      "answer": "himself",
-      "explanation": "La construcción «by + reflexivo» significa vivir solo o sin ayuda. La forma «hisself» no existe: el reflexivo correcto es «himself»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada pronombre reflexivo con su traducción",
-      "pairs": [
-        { "en": "myself", "es": "a mí mismo" },
-        { "en": "yourself", "es": "a ti mismo" },
-        { "en": "himself", "es": "a sí mismo (él)" },
-        { "en": "herself", "es": "a sí misma (ella)" },
-        { "en": "itself", "es": "a sí mismo (neutro)" }
+      "n": 2,
+      "title": "La tabla completa: singular y plural en -self/-selves",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada pronombre reflexivo con su traducción",
+          "pairs": [
+            { "en": "myself", "es": "a mí mismo" },
+            { "en": "yourself", "es": "a ti mismo" },
+            { "en": "himself", "es": "a sí mismo (él)" },
+            { "en": "herself", "es": "a sí misma (ella)" },
+            { "en": "itself", "es": "a sí mismo (neutro)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Be careful with that hot soup! You might burn __________!",
+          "options": ["yourself", "you", "yourselves"],
+          "correct": 0,
+          "hint": "Es una advertencia dirigida a una sola persona: fíjate en el número del reflexivo.",
+          "explanation": "«Yourself» es el reflexivo singular que concuerda con el «you» individual de la advertencia. «You» no marca la correferencia obligatoria y «yourselves» sería plural."
+        },
+        {
+          "type": "gap",
+          "text": "She looked at ___ in the mirror.",
+          "options": ["herself", "her", "himself"],
+          "answer": "herself",
+          "explanation": "El sujeto «she» y el objeto son la misma persona (correferencia), así que se usa el reflexivo femenino «herself». «Her» indicaría otra mujer distinta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más pronombres reflexivos",
+          "pairs": [
+            { "en": "himself", "es": "a sí mismo (él)" },
+            { "en": "herself", "es": "a sí misma (ella)" },
+            { "en": "itself", "es": "a sí mismo (neutro)" },
+            { "en": "ourselves", "es": "a nosotros mismos" },
+            { "en": "yourselves", "es": "a vosotros mismos" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["The cat washes it.", "The cat washes itself.", "The cat washes its."],
+          "correct": 1,
+          "hint": "Sujeto y objeto son el mismo animal: usa el reflexivo neutro.",
+          "explanation": "«Itself» es el reflexivo neutro correcto para un animal en singular. «It» sería un pronombre objeto genérico y «its» es un posesivo, ambos agramaticales aquí."
+        },
+        {
+          "type": "gap",
+          "text": "He prefers to live by ___.",
+          "options": ["himself", "hisself", "him"],
+          "answer": "himself",
+          "explanation": "La construcción «by + reflexivo» significa vivir solo o sin ayuda. La forma «hisself» no existe: el reflexivo correcto es «himself»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja pronombres reflexivos sin repetir",
+          "pairs": [
+            { "en": "yourself", "es": "a ti mismo" },
+            { "en": "herself", "es": "a sí misma (ella)" },
+            { "en": "itself", "es": "a sí mismo (neutro)" },
+            { "en": "ourselves", "es": "a nosotros mismos" },
+            { "en": "yourselves", "es": "a vosotros mismos" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["We enjoyed us at the concert.", "We enjoyed we at the concert.", "We enjoyed ourselves at the concert."],
+          "correct": 2,
+          "hint": "«Enjoy» exige el reflexivo concordado con el sujeto.",
+          "explanation": "«Ourselves» es el reflexivo plural correcto para «we». «Us» y «we» son pronombres simples, agramaticales tras «enjoy» con este sentido."
+        },
+        {
+          "type": "gap",
+          "text": "The cat cleaned ___ after eating.",
+          "options": ["itself", "himself", "itselves"],
+          "answer": "itself",
+          "explanation": "Para animales o cosas en singular se usa el reflexivo neutro «itself». «Itselves» no existe: el plural neutro sería «themselves»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él vive solo",
+          "direction": "es-en",
+          "tiles": ["He", "lives", "by", "himself", "alone", "hisself"],
+          "answer": "He lives by himself",
+          "explanation": "«By himself» equivale a «solo, sin ayuda». Cuidado con la forma inexistente «hisself»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Podrías hacerte daño",
+          "direction": "es-en",
+          "tiles": ["You", "might", "hurt", "yourself", "you", "yourselves"],
+          "answer": "You might hurt yourself",
+          "explanation": "Con sujeto y objeto idénticos se usa el reflexivo singular «yourself». «Yourselves» sería para varias personas."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella se miró en el espejo",
+          "direction": "es-en",
+          "tiles": ["She", "looked", "at", "herself", "in", "the", "mirror", "her"],
+          "answer": "She looked at herself in the mirror",
+          "explanation": "Sujeto y objeto coinciden: «herself». Con «her» se entendería que miraba a otra mujer."
+        },
+        {
+          "type": "speak",
+          "text": "Be careful! You might hurt yourself.",
+          "es": "¡Ten cuidado! Podrías hacerte daño."
+        },
+        {
+          "type": "speak",
+          "text": "He prefers to live by himself.",
+          "es": "Prefiere vivir solo."
+        },
+        {
+          "type": "speak",
+          "text": "She hurt herself at the gym.",
+          "es": "Ella se lastimó en el gimnasio."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Él vive solo",
-      "direction": "es-en",
-      "tiles": ["He", "lives", "by", "himself", "alone", "hisself"],
-      "answer": "He lives by himself",
-      "explanation": "«By himself» equivale a «solo, sin ayuda». Cuidado con la forma inexistente «hisself»."
-    },
-    {
-      "type": "gap",
-      "text": "We enjoyed ___ at the party.",
-      "options": ["ourselves", "us", "ourself"],
-      "answer": "ourselves",
-      "explanation": "«Enjoy» exige el reflexivo plural «ourselves» con el sujeto «we». Recuerda el cambio morfológico f → ves en las formas plurales."
-    },
-    {
-      "type": "quiz",
-      "q": "Be careful with that hot soup! You might burn __________!",
-      "options": ["yourself", "you", "yourselves"],
-      "correct": 0,
-      "hint": "Es una advertencia dirigida a una sola persona: fíjate en el número del reflexivo.",
-      "explanation": "«Yourself» es el reflexivo singular que concuerda con el «you» individual de la advertencia. «You» no marca la correferencia obligatoria y «yourselves» sería plural."
-    },
-    {
-      "type": "speak",
-      "text": "He prefers to live by himself.",
-      "es": "Prefiere vivir solo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nos divertimos en la fiesta",
-      "direction": "es-en",
-      "tiles": ["We", "enjoyed", "ourselves", "at", "the", "party", "us"],
-      "answer": "We enjoyed ourselves at the party",
-      "explanation": "Para expresar «divertirse», el inglés usa «enjoy» + reflexivo obligatorio («ourselves»), nunca el pronombre objeto «us»."
-    },
-    {
-      "type": "gap",
-      "text": "Children, behave ___!",
-      "options": ["yourselves", "yourself", "themselves"],
-      "answer": "yourselves",
-      "explanation": "«Behave» exige reflexivo, y al dirigirse a varios niños se usa el plural «yourselves», no el singular «yourself»."
-    },
-    {
-      "type": "quiz",
-      "q": "The two boys looked at __________ in the mirror to see their new haircuts.",
-      "options": ["each other", "themselves", "theirselves"],
-      "correct": 1,
-      "hint": "Cada chico mira su propio corte de pelo, no el del otro. Y cuidado con la ortografía.",
-      "explanation": "«Themselves» marca que cada chico se miraba a sí mismo en el espejo. «Each other» significaría que se miraban el uno al otro, y «theirselves» es una forma inexistente."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "ourselves", "es": "a nosotros mismos" },
-        { "en": "yourselves", "es": "a vosotros mismos" },
-        { "en": "themselves", "es": "a sí mismos" },
-        { "en": "teach", "es": "enseñar" },
-        { "en": "help", "es": "ayudar" }
+      "n": 3,
+      "title": "By + reflexivo: solo y sin ayuda",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "cut", "es": "cortar" },
+            { "en": "burn", "es": "quemar" },
+            { "en": "hurt", "es": "lastimar" },
+            { "en": "mirror", "es": "espejo" },
+            { "en": "alone", "es": "solo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The two boys looked at __________ in the mirror to see their new haircuts.",
+          "options": ["each other", "themselves", "theirselves"],
+          "correct": 1,
+          "hint": "Cada chico mira su propio corte de pelo, no el del otro. Y cuidado con la ortografía.",
+          "explanation": "«Themselves» marca que cada chico se miraba a sí mismo en el espejo. «Each other» significaría que se miraban el uno al otro, y «theirselves» es una forma inexistente."
+        },
+        {
+          "type": "gap",
+          "text": "I did all my homework ___, without any help.",
+          "options": ["by myself", "by myselves", "alone myself"],
+          "answer": "by myself",
+          "explanation": "«By + reflexivo» expresa «solo, sin ayuda». «By myselves» duplica erróneamente el plural y «alone myself» combina dos formas de forma agramatical."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más pronombres reflexivos plurales y verbos de ayuda",
+          "pairs": [
+            { "en": "ourselves", "es": "a nosotros mismos" },
+            { "en": "yourselves", "es": "a vosotros mismos" },
+            { "en": "themselves", "es": "a sí mismos" },
+            { "en": "teach", "es": "enseñar" },
+            { "en": "help", "es": "ayudar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "She taught __________ how to play the guitar by reading books.",
+          "options": ["herself", "sheself", "her"],
+          "correct": 0,
+          "hint": "Aprendió de forma autodidacta: la que enseña y la que aprende son la misma persona.",
+          "explanation": "«Taught herself» indica que aprendió sola, de forma autodidacta. «Sheself» no existe y «her» significaría que enseñó a otra mujer distinta."
+        },
+        {
+          "type": "gap",
+          "text": "Can you ___ me carry these bags?",
+          "options": ["help", "teach", "wash"],
+          "answer": "help",
+          "explanation": "«Help» significa ayudar; es el verbo adecuado para pedir asistencia con una tarea física como cargar bolsas."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja la construcción de autonomía y ayuda sin repetir",
+          "pairs": [
+            { "en": "themselves", "es": "a sí mismos" },
+            { "en": "alone", "es": "solo" },
+            { "en": "by myself", "es": "por mí mismo/solo" },
+            { "en": "help", "es": "ayudar" },
+            { "en": "teach", "es": "enseñar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "They solved the problem by __________.",
+          "options": ["theirselves", "themself", "themselves"],
+          "correct": 2,
+          "hint": "El reflexivo de tercera persona plural se forma con el pronombre objeto, no con el posesivo.",
+          "explanation": "El reflexivo de «they» es «themselves». «Theirselves» es un error morfológico frecuente (usa el posesivo «their») y «themself» no es la forma estándar del plural."
+        },
+        {
+          "type": "gap",
+          "text": "She wants to ___ herself to swim before summer.",
+          "options": ["teach", "help", "wash"],
+          "answer": "teach",
+          "explanation": "«Teach herself» significa aprender de forma autodidacta, sin profesor. «Help» y «wash» no encajan con el sentido de aprender una habilidad."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Prefiere vivir solo, sin compañía",
+          "direction": "es-en",
+          "tiles": ["He", "prefers", "to", "live", "alone", "by"],
+          "answer": "He prefers to live alone",
+          "explanation": "«Alone» expresa soledad de forma directa, como alternativa más simple a la construcción «by himself»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella se enseñó a sí misma a tocar el piano",
+          "direction": "es-en",
+          "tiles": ["She", "taught", "herself", "to", "play", "the", "piano", "her"],
+          "answer": "She taught herself to play the piano",
+          "explanation": "«Teach» exige reflexivo cuando el sujeto aprende por sí mismo: «taught herself». Con «her» se entendería que enseñó a otra persona."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos se lavan las manos antes de comer",
+          "direction": "es-en",
+          "tiles": ["They", "wash", "their", "hands", "before", "eating", "themselves"],
+          "answer": "They wash their hands before eating",
+          "explanation": "Aquí «wash» es transitivo normal («lavar las manos»), no reflexivo: no hace falta añadir «themselves», que sería redundante e innecesario."
+        },
+        {
+          "type": "speak",
+          "text": "I wrote the report by myself.",
+          "es": "Escribí el informe yo solo."
+        },
+        {
+          "type": "speak",
+          "text": "Can you help me, please?",
+          "es": "¿Puedes ayudarme, por favor?"
+        },
+        {
+          "type": "speak",
+          "text": "They finished the project by themselves.",
+          "es": "Terminaron el proyecto ellos solos."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "He ___ every morning.",
-      "options": ["shaves", "shaves himself", "shaves him"],
-      "answer": "shaves",
-      "explanation": "Las acciones de higiene cotidiana como «shave» eliden el reflexivo en inglés: se sobreentiende que uno se afeita a sí mismo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Podrías hacerte daño",
-      "direction": "es-en",
-      "tiles": ["You", "might", "hurt", "yourself", "you", "yourselves"],
-      "answer": "You might hurt yourself",
-      "explanation": "Con sujeto y objeto idénticos se usa el reflexivo singular «yourself». «Yourselves» sería para varias personas."
-    },
-    {
-      "type": "speak",
-      "text": "We enjoyed ourselves at the party.",
-      "es": "Nos divertimos en la fiesta."
-    },
-    {
-      "type": "quiz",
-      "q": "She taught __________ how to play the guitar by reading books.",
-      "options": ["herself", "sheself", "her"],
-      "correct": 0,
-      "hint": "Aprendió de forma autodidacta: la que enseña y la que aprende son la misma persona.",
-      "explanation": "«Taught herself» indica que aprendió sola, de forma autodidacta. «Sheself» no existe y «her» significaría que enseñó a otra mujer distinta."
-    },
-    {
-      "type": "gap",
-      "text": "Let me introduce ___.",
-      "options": ["myself", "me", "herself"],
-      "answer": "myself",
-      "explanation": "«Introduce» con el sentido de «presentarse» exige el reflexivo concordado con quien habla: «myself»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él se afeita cada mañana",
-      "direction": "es-en",
-      "tiles": ["He", "shaves", "every", "morning", "himself"],
-      "answer": "He shaves every morning",
-      "explanation": "Aunque el español usa «se afeita», en inglés «shave» elide el reflexivo: decir «he shaves himself» sería un calco innecesario."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the correct sentence:",
-      "options": ["I feel myself very tired today.", "I feel very tired today.", "I feel me very tired today."],
-      "correct": 1,
-      "hint": "En español decimos «me siento cansado», pero el verbo «feel» funciona distinto en inglés.",
-      "explanation": "El verbo copulativo «feel» no admite reflexivo para sensaciones o emociones: se dice «I feel very tired». «I feel myself...» es un calco del español muy penalizado en el examen."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "wash", "es": "lavar" },
-        { "en": "dry", "es": "secar" },
-        { "en": "shave", "es": "afeitarse" },
-        { "en": "enjoy", "es": "disfrutar" },
-        { "en": "behave", "es": "comportarse" }
+      "n": 4,
+      "title": "Elisión reflexiva: verbos cotidianos sin reflexivo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "wash", "es": "lavar" },
+            { "en": "dry", "es": "secar" },
+            { "en": "shave", "es": "afeitarse" },
+            { "en": "enjoy", "es": "disfrutar" },
+            { "en": "behave", "es": "comportarse" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "My little sister is only four years old, but she can dress __________ now.",
+          "options": ["herself", "by herself", "by her own"],
+          "correct": 1,
+          "hint": "El verbo «dress» no lleva reflexivo directo; piensa en la estructura que significa «sin ayuda».",
+          "explanation": "«By herself» indica que la niña puede vestirse sola, sin ayuda. «Dress» no suele llevar reflexivo directo, y «by her own» es incorrecto: la expresión válida sería «on her own»."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ every morning.",
+          "options": ["shaves", "shaves himself", "shaves him"],
+          "answer": "shaves",
+          "explanation": "Las acciones de higiene cotidiana como «shave» eliden el reflexivo en inglés: se sobreentiende que uno se afeita a sí mismo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos cotidianos",
+          "pairs": [
+            { "en": "shave", "es": "afeitarse" },
+            { "en": "dress", "es": "vestir/vestido" },
+            { "en": "enjoy", "es": "disfrutar" },
+            { "en": "behave", "es": "comportarse" },
+            { "en": "introduce", "es": "presentar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We went to the new theme park and we enjoyed __________ very much.",
+          "options": ["us", "ourselves", "each other"],
+          "correct": 1,
+          "hint": "El verbo «enjoy» con el sentido de «divertirse» exige un reflexivo concordado con el sujeto.",
+          "explanation": "«Enjoy» requiere el reflexivo «ourselves» concordado con «we» para significar divertirse. «Us» es agramatical aquí y «each other» indicaría reciprocidad, que no encaja con esta estructura fija."
+        },
+        {
+          "type": "gap",
+          "text": "We enjoyed ___ at the party.",
+          "options": ["ourselves", "us", "ourself"],
+          "answer": "ourselves",
+          "explanation": "«Enjoy» exige el reflexivo plural «ourselves» con el sujeto «we». Recuerda el cambio morfológico f → ves en las formas plurales."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja verbos cotidianos sin repetir",
+          "pairs": [
+            { "en": "dry", "es": "secar" },
+            { "en": "dress", "es": "vestir/vestido" },
+            { "en": "enjoy", "es": "disfrutar" },
+            { "en": "behave", "es": "comportarse" },
+            { "en": "introduce", "es": "presentar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["Behave, children!", "Behave you, children!", "Behave yourselves, children!"],
+          "correct": 2,
+          "hint": "«Behave» exige un reflexivo concordado con el sujeto.",
+          "explanation": "«Behave yourselves» es correcto: este verbo sí exige reflexivo obligatorio, aquí en plural porque se dirige a varios niños. «Behave, children!» omite el reflexivo necesario, y «Behave you» usa un pronombre objeto en su lugar."
+        },
+        {
+          "type": "gap",
+          "text": "Children, behave ___!",
+          "options": ["yourselves", "yourself", "themselves"],
+          "answer": "yourselves",
+          "explanation": "«Behave» exige reflexivo, y al dirigirse a varios niños se usa el plural «yourselves», no el singular «yourself»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos divertimos en la fiesta",
+          "direction": "es-en",
+          "tiles": ["We", "enjoyed", "ourselves", "at", "the", "party", "us"],
+          "answer": "We enjoyed ourselves at the party",
+          "explanation": "Para expresar «divertirse», el inglés usa «enjoy» + reflexivo obligatorio («ourselves»), nunca el pronombre objeto «us»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él se afeita cada mañana",
+          "direction": "es-en",
+          "tiles": ["He", "shaves", "every", "morning", "himself"],
+          "answer": "He shaves every morning",
+          "explanation": "Aunque el español usa «se afeita», en inglés «shave» elide el reflexivo: decir «he shaves himself» sería un calco innecesario."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Preséntate, por favor",
+          "direction": "es-en",
+          "tiles": ["Introduce", "yourself", "please", "you", "your"],
+          "answer": "Introduce yourself, please",
+          "explanation": "«Introduce» (presentarse) exige el reflexivo obligatorio «yourself», a diferencia de verbos como «shave» o «dress» que lo eliden."
+        },
+        {
+          "type": "speak",
+          "text": "We enjoyed ourselves at the party.",
+          "es": "Nos divertimos en la fiesta."
+        },
+        {
+          "type": "speak",
+          "text": "Let me introduce myself.",
+          "es": "Deja que me presente."
+        },
+        {
+          "type": "speak",
+          "text": "She got dressed quickly this morning.",
+          "es": "Se vistió rápido esta mañana."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "The cat cleaned ___ after eating.",
-      "options": ["itself", "himself", "itselves"],
-      "answer": "itself",
-      "explanation": "Para animales o cosas en singular se usa el reflexivo neutro «itself». «Itselves» no existe: el plural neutro sería «themselves»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella se miró en el espejo",
-      "direction": "es-en",
-      "tiles": ["She", "looked", "at", "herself", "in", "the", "mirror", "her"],
-      "answer": "She looked at herself in the mirror",
-      "explanation": "Sujeto y objeto coinciden: «herself». Con «her» se entendería que miraba a otra mujer."
-    },
-    {
-      "type": "speak",
-      "text": "Let me introduce myself.",
-      "es": "Deja que me presente."
-    },
-    {
-      "type": "quiz",
-      "q": "They solved the problem by __________.",
-      "options": ["theirselves", "themself", "themselves"],
-      "correct": 2,
-      "hint": "El reflexivo de tercera persona plural se forma con el pronombre objeto, no con el posesivo.",
-      "explanation": "El reflexivo de «they» es «themselves». «Theirselves» es un error morfológico frecuente (usa el posesivo «their») y «themself» no es la forma estándar del plural."
-    },
-    {
-      "type": "gap",
-      "text": "The president ___ answered my email.",
-      "options": ["himself", "him", "hisself"],
-      "answer": "himself",
-      "explanation": "Es el uso enfático del reflexivo: «the president himself» subraya que lo hizo en persona, sin delegar. Puede eliminarse sin que la frase pierda su sentido básico."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Escribí el trabajo yo mismo",
-      "direction": "es-en",
-      "tiles": ["I", "wrote", "the", "paper", "myself", "me", "himself"],
-      "answer": "I wrote the paper myself",
-      "explanation": "Uso enfático del reflexivo: «myself» resalta que lo hice personalmente, sin encargarlo a nadie."
+      "n": 5,
+      "title": "Uso enfático y repaso: cada uno vs recíproco",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "history", "es": "historia" },
+            { "en": "picture", "es": "imagen/foto" },
+            { "en": "self", "es": "uno mismo" },
+            { "en": "control", "es": "controlar/control" },
+            { "en": "defend", "es": "defender" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["I feel myself very tired today.", "I feel very tired today.", "I feel me very tired today."],
+          "correct": 1,
+          "hint": "En español decimos «me siento cansado», pero el verbo «feel» funciona distinto en inglés.",
+          "explanation": "El verbo copulativo «feel» no admite reflexivo para sensaciones o emociones: se dice «I feel very tired». «I feel myself...» es un calco del español muy penalizado en el examen."
+        },
+        {
+          "type": "gap",
+          "text": "The president ___ answered my email.",
+          "options": ["himself", "him", "hisself"],
+          "answer": "himself",
+          "explanation": "Es el uso enfático del reflexivo: «the president himself» subraya que lo hizo en persona, sin delegar. Puede eliminarse sin que la frase pierda su sentido básico."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de repaso",
+          "pairs": [
+            { "en": "control", "es": "controlar/control" },
+            { "en": "defend", "es": "defender" },
+            { "en": "independent", "es": "independiente" },
+            { "en": "separate", "es": "separar/separado" },
+            { "en": "self", "es": "uno mismo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The boxers hit __________ during the match.",
+          "options": ["each other", "themselves", "theirselves"],
+          "correct": 0,
+          "hint": "Un boxeador golpea al otro, no a sí mismo.",
+          "explanation": "«Each other» expresa reciprocidad: el boxeador A golpea al B y viceversa. «Themselves» significaría que cada uno se golpeó a sí mismo, y «theirselves» es una forma inexistente."
+        },
+        {
+          "type": "gap",
+          "text": "Let me introduce ___.",
+          "options": ["myself", "me", "herself"],
+          "answer": "myself",
+          "explanation": "«Introduce» con el sentido de «presentarse» exige el reflexivo concordado con quien habla: «myself»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras de repaso sin repetir",
+          "pairs": [
+            { "en": "history", "es": "historia" },
+            { "en": "independent", "es": "independiente" },
+            { "en": "separate", "es": "separar/separado" },
+            { "en": "picture", "es": "imagen/foto" },
+            { "en": "defend", "es": "defender" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses the reflexive pronoun correctly?",
+          "options": ["The children washed theirselves before dinner.", "The children washed themself before dinner.", "The children introduced themselves before the show."],
+          "correct": 2,
+          "hint": "Dos opciones tienen errores ortográficos en el reflexivo de tercera persona plural.",
+          "explanation": "«Themselves» es la única forma correcta del reflexivo plural de «they». «Theirselves» usa el posesivo por error y «themself» no es la forma estándar."
+        },
+        {
+          "type": "gap",
+          "text": "This is a great opportunity to become more ___ and make your own decisions.",
+          "options": ["independent", "independence", "independently"],
+          "answer": "independent",
+          "explanation": "«Independent» es el adjetivo que describe a la persona («become more independent»). «Independence» es el sustantivo y «independently» el adverbio; ninguno encaja tras «become more»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Escribí el trabajo yo mismo",
+          "direction": "es-en",
+          "tiles": ["I", "wrote", "the", "paper", "myself", "me", "himself"],
+          "answer": "I wrote the paper myself",
+          "explanation": "Uso enfático del reflexivo: «myself» resalta que lo hice personalmente, sin encargarlo a nadie."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella puede defenderse sola",
+          "direction": "es-en",
+          "tiles": ["She", "can", "defend", "herself", "alone", "help"],
+          "answer": "She can defend herself alone",
+          "explanation": "Reflexivo directo «herself» (defenderse a sí misma) combinado con «alone» para reforzar la idea de independencia, repasando vocabulario de subniveles anteriores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos son completamente independientes",
+          "direction": "es-en",
+          "tiles": ["They", "are", "completely", "independent", "independently", "dependent"],
+          "answer": "They are completely independent",
+          "explanation": "«Independent» es el adjetivo correcto tras «be». «Independently» es el adverbio y «dependent» tiene el sentido contrario."
+        },
+        {
+          "type": "speak",
+          "text": "The manager herself signed the contract.",
+          "es": "La propia gerente firmó el contrato."
+        },
+        {
+          "type": "speak",
+          "text": "They defended themselves very well.",
+          "es": "Se defendieron muy bien."
+        },
+        {
+          "type": "speak",
+          "text": "I feel very happy today.",
+          "es": "Me siento muy feliz hoy."
+        }
+      ]
     }
   ]
 }

@@ -3,238 +3,621 @@
   "module": 1,
   "title": "Present Continuous: Affirmative & Spelling",
   "subtitle": "Presente Continuo: Afirmativo y Ortografía",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "standing", "es": "de pie" },
-        { "en": "sitting", "es": "sentado" },
-        { "en": "wearing", "es": "llevando puesto" },
-        { "en": "holding", "es": "sosteniendo" },
-        { "en": "smiling", "es": "sonriendo" }
+      "n": 1,
+      "title": "Presente continuo: estructura S-A-G",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "standing", "es": "de pie" },
+            { "en": "sitting", "es": "sentado" },
+            { "en": "wearing", "es": "llevando puesto" },
+            { "en": "holding", "es": "sosteniendo" },
+            { "en": "smiling", "es": "sonriendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Look! The two boys __________ up to greet their grandfather.",
+          "options": ["is standing", "are standing", "are standding"],
+          "correct": 1,
+          "hint": "Fíjate en el número del sujeto y en que «stand» termina en dos consonantes.",
+          "explanation": "«are standing» es correcta: el sujeto plural «the two boys» exige «are», y «stand» acaba en el grupo consonántico «nd», por lo que no se duplica la «d». «is standing» no concuerda y «standding» duplica erróneamente."
+        },
+        {
+          "type": "gap",
+          "text": "The dog is ___ on the floor.",
+          "options": ["lying", "lieing", "liying"],
+          "answer": "lying",
+          "explanation": "Los verbos terminados en «-ie» cambian ese grupo por «-y-» antes de añadir «-ing»: «lie» → «lying», igual que «die» → «dying»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella está sonriendo",
+          "direction": "es-en",
+          "tiles": ["She", "is", "smiling", "are", "smilling"],
+          "answer": "She is smiling",
+          "explanation": "Estructura S-A-G: sujeto + auxiliar «is» + gerundio. «smile» pierde la «-e» muda antes de «-ing»: «smiling», sin duplicar la «l»."
+        },
+        {
+          "type": "speak",
+          "text": "I am wearing a white shirt.",
+          "es": "Llevo puesta una camisa blanca."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "sitting", "es": "sentado" },
+            { "en": "wearing", "es": "llevando puesto" },
+            { "en": "holding", "es": "sosteniendo" },
+            { "en": "smiling", "es": "sonriendo" },
+            { "en": "laughing", "es": "riendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your grandmother __________ in the armchair right now.",
+          "options": ["is sitting", "are sitting", "is siting"],
+          "correct": 0,
+          "hint": "«sit» es un monosílabo con estructura CVC.",
+          "explanation": "«is sitting» es correcta: «grandmother» es tercera persona del singular (auxiliar «is») y «sit» duplica la «t» final por la regla CVC. «siting» olvida esa duplicación."
+        },
+        {
+          "type": "gap",
+          "text": "Look! The baby ___ on the floor.",
+          "options": ["sitting", "siting", "sittting"],
+          "answer": "sitting",
+          "explanation": "«sit» es un monosílabo CVC (consonante-vocal-consonante): se duplica la «t» final antes de «-ing»: «sitting», nunca con una sola «t» ni con tres."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estoy llevando una camisa blanca",
+          "direction": "es-en",
+          "tiles": ["I", "am", "wearing", "a", "white", "shirt", "wear", "is"],
+          "answer": "I am wearing a white shirt",
+          "explanation": "En inglés llevar ropa puesta es un proceso continuo: «I am wearing», no el presente simple como en español («llevo»). Con «I» el auxiliar es «am»."
+        },
+        {
+          "type": "speak",
+          "text": "My little brother is laughing and sitting on the sofa.",
+          "es": "Mi hermano pequeño se está riendo y está sentado en el sofá."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "standing", "es": "de pie" },
+            { "en": "sitting", "es": "sentado" },
+            { "en": "holding", "es": "sosteniendo" },
+            { "en": "smiling", "es": "sonriendo" },
+            { "en": "laughing", "es": "riendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence: your friends find the joke very funny right now.",
+          "options": ["They laughing.", "They is laughing.", "They are laughing."],
+          "correct": 2,
+          "hint": "El sujeto plural exige un auxiliar concreto y nunca se omite.",
+          "explanation": "«They are laughing» combina correctamente sujeto plural + auxiliar «are» + gerundio. «They laughing» omite el auxiliar obligatorio y «is» no concuerda con «they»."
+        },
+        {
+          "type": "gap",
+          "text": "She is ___ a small dog in her arms.",
+          "options": ["holding", "holdding", "holdinng"],
+          "answer": "holding",
+          "explanation": "«hold» termina en el grupo consonántico «ld», así que no se duplica ninguna letra: se añade «-ing» directamente: «holding»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él está sosteniendo un libro",
+          "direction": "es-en",
+          "tiles": ["He", "is", "holding", "a", "book", "are", "holdinng"],
+          "answer": "He is holding a book",
+          "explanation": "Sujeto «he» + auxiliar «is» + gerundio «holding». «hold» no duplica consonante porque termina en el grupo «ld»."
+        },
+        {
+          "type": "speak",
+          "text": "He is standing next to the door.",
+          "es": "Él está de pie junto a la puerta."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "In the background of the image, a woman __________ a blue hat.",
-      "options": ["wearing", "is wearing", "is wearring"],
-      "correct": 1,
-      "hint": "El presente continuo necesita siempre su auxiliar, y «wear» tiene dos vocales antes de la consonante final.",
-      "explanation": "La correcta es «is wearing»: combina el auxiliar «is» con el gerundio bien escrito. «wearing» sola carece del auxiliar obligatorio, y «wearring» duplica mal la consonante: «wear» tiene dos vocales (ea), así que no se aplica la regla CVC."
-    },
-    {
-      "type": "gap",
-      "text": "Look! She ___ writing a letter on her desk.",
-      "options": ["is", "are", "am"],
-      "answer": "is",
-      "explanation": "El participio en «-ing» no puede funcionar como verbo principal sin su auxiliar: con «she» el auxiliar correcto es «is». Omitirlo («She writing») es un calco del español muy penalizado."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella está sonriendo",
-      "direction": "es-en",
-      "tiles": ["She", "is", "smiling", "are", "smilling"],
-      "answer": "She is smiling",
-      "explanation": "Estructura S-A-G: sujeto + auxiliar «is» + gerundio. «smile» pierde la «-e» muda antes de «-ing»: «smiling», sin duplicar la «l»."
-    },
-    {
-      "type": "quiz",
-      "q": "Look! The two boys __________ up to greet their grandfather.",
-      "options": ["is standing", "are standing", "are standding"],
-      "correct": 1,
-      "hint": "Fíjate en el número del sujeto y en que «stand» termina en dos consonantes.",
-      "explanation": "«are standing» es correcta: el sujeto plural «the two boys» exige «are», y «stand» acaba en el grupo consonántico «nd», por lo que no se duplica la «d». «is standing» no concuerda y «standding» duplica erróneamente."
-    },
-    {
-      "type": "gap",
-      "text": "He is ___ in the park because he is late.",
-      "options": ["running", "runing", "runnying"],
-      "answer": "running",
-      "explanation": "«run» es un monosílabo con estructura CVC (consonante-vocal-consonante), así que duplica la consonante final antes de «-ing»: «running»."
-    },
-    {
-      "type": "speak",
-      "text": "In the foreground, a young woman is smiling and holding a book.",
-      "es": "En el primer plano, una mujer joven está sonriendo y sosteniendo un libro."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "laughing", "es": "riendo" },
-        { "en": "talking", "es": "hablando" },
-        { "en": "looking", "es": "mirando" },
-        { "en": "walking", "es": "caminando" },
-        { "en": "running", "es": "corriendo" }
+      "n": 2,
+      "title": "Ortografía -ing: la regla CVC",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "laughing", "es": "riendo" },
+            { "en": "talking", "es": "hablando" },
+            { "en": "looking", "es": "mirando" },
+            { "en": "walking", "es": "caminando" },
+            { "en": "running", "es": "corriendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence: it's a phone call right now.",
+          "options": ["She is talking on the phone.", "She talking on the phone.", "She talkking on the phone."],
+          "correct": 0,
+          "hint": "«talk» termina en dos consonantes, «lk».",
+          "explanation": "«is talking» necesita el auxiliar «is» + gerundio. «talk» añade «-ing» sin cambios porque no es un monosílabo CVC (dos consonantes finales «lk»)."
+        },
+        {
+          "type": "gap",
+          "text": "He is ___ in the park because he is late.",
+          "options": ["running", "runing", "runnying"],
+          "answer": "running",
+          "explanation": "«run» es un monosílabo con estructura CVC (consonante-vocal-consonante), así que duplica la consonante final antes de «-ing»: «running»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él está corriendo en el parque",
+          "direction": "es-en",
+          "tiles": ["He", "is", "running", "in", "the", "park", "are", "runing"],
+          "answer": "He is running in the park",
+          "explanation": "Con «he» el auxiliar es «is», y «run» duplica la «n» por la regla CVC: «running», nunca «runing»."
+        },
+        {
+          "type": "speak",
+          "text": "My sister is talking to a friend.",
+          "es": "Mi hermana está hablando con una amiga."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "looking", "es": "mirando" },
+            { "en": "walking", "es": "caminando" },
+            { "en": "running", "es": "corriendo" },
+            { "en": "playing", "es": "jugando" },
+            { "en": "carrying", "es": "cargando" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "At the moment, my parents __________ in the park.",
+          "options": ["is walking", "are walking", "are walkking"],
+          "correct": 1,
+          "hint": "El sujeto es plural.",
+          "explanation": "«are walking» concuerda con el sujeto plural «my parents». «walk» no duplica consonante porque termina en «lk», grupo de dos consonantes."
+        },
+        {
+          "type": "gap",
+          "text": "He is ___ for his keys.",
+          "options": ["looking", "lookking", "lookinng"],
+          "answer": "looking",
+          "explanation": "«look» tiene doble vocal (oo) antes de la consonante final, así que no cumple la regla CVC: se añade «-ing» sin duplicar: «looking»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos están hablando por teléfono",
+          "direction": "es-en",
+          "tiles": ["They", "are", "talking", "on", "the", "phone", "is", "talkking"],
+          "answer": "They are talking on the phone",
+          "explanation": "Sujeto plural «they» + auxiliar «are» + gerundio «talking» (sin duplicación, «talk» termina en dos consonantes)."
+        },
+        {
+          "type": "speak",
+          "text": "We are walking to school today.",
+          "es": "Hoy vamos caminando al colegio."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "talking", "es": "hablando" },
+            { "en": "walking", "es": "caminando" },
+            { "en": "running", "es": "corriendo" },
+            { "en": "playing", "es": "jugando" },
+            { "en": "carrying", "es": "cargando" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["The kids is playing outside.", "The kids playing outside.", "The kids are playing outside."],
+          "correct": 2,
+          "hint": "«play» termina en «y», que nunca se duplica.",
+          "explanation": "«are playing» es correcta: sujeto plural + auxiliar «are» + gerundio «playing» (la «y» de «play» nunca se duplica). Las otras opciones tienen concordancia incorrecta o auxiliar ausente."
+        },
+        {
+          "type": "gap",
+          "text": "The man is ___ two heavy bags.",
+          "options": ["carrying", "carring", "carriing"],
+          "answer": "carrying",
+          "explanation": "La raíz «carry» conserva su «y» y añade «-ing»: «carrying». Eliminar la «y» («carring») es un error ortográfico frecuente."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los niños están jugando en el jardín",
+          "direction": "es-en",
+          "tiles": ["The", "children", "are", "playing", "in", "the", "garden", "is", "playying"],
+          "answer": "The children are playing in the garden",
+          "explanation": "«play» nunca duplica la «y» final: «playing». El sujeto plural «the children» exige el auxiliar «are»."
+        },
+        {
+          "type": "speak",
+          "text": "He is carrying a big box.",
+          "es": "Él está cargando una caja grande."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Right now, he __________ down on the sofa because he is tired.",
-      "options": ["is sit-downing", "is siting down", "is sitting down"],
-      "correct": 2,
-      "hint": "El sufijo «-ing» se añade al verbo principal, y «sit» es un monosílabo CVC.",
-      "explanation": "«is sitting down» es correcta: el auxiliar «is» concuerda con «he» y «sit» duplica la «t» por la regla CVC. «sit-downing» pone el «-ing» en la partícula, y «siting» no duplica la consonante."
-    },
-    {
-      "type": "gap",
-      "text": "The dog is ___ on the floor.",
-      "options": ["lying", "lieing", "liying"],
-      "answer": "lying",
-      "explanation": "Los verbos terminados en «-ie» cambian ese grupo por «-y-» antes de añadir «-ing»: «lie» → «lying», igual que «die» → «dying»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él está corriendo en el parque",
-      "direction": "es-en",
-      "tiles": ["He", "is", "running", "in", "the", "park", "are", "runing"],
-      "answer": "He is running in the park",
-      "explanation": "Con «he» el auxiliar es «is», y «run» duplica la «n» por la regla CVC: «running», nunca «runing»."
-    },
-    {
-      "type": "quiz",
-      "q": "In the middle of the picture, a girl __________ a heavy bag.",
-      "options": ["is carrying", "is carring", "is carrying down"],
-      "correct": 0,
-      "hint": "La «y» final de «carry» no se toca al añadir «-ing».",
-      "explanation": "«is carrying» mantiene la raíz «carry» y añade «-ing» sin alterar la «y». «carring» elimina la «y» de forma agramatical y «carrying down» añade una partícula innecesaria que cambia el significado."
-    },
-    {
-      "type": "gap",
-      "text": "I am ___ an email to my friend.",
-      "options": ["writing", "writting", "writeing"],
-      "answer": "writing",
-      "explanation": "«write» termina en «-e» muda: se elimina la «e» antes de «-ing» («writing») y no se duplica la «t», porque no es un monosílabo CVC."
-    },
-    {
-      "type": "speak",
-      "text": "In the background, several people are waiting for the bus.",
-      "es": "En el fondo, varias personas están esperando el autobús."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "playing", "es": "jugando" },
-        { "en": "carrying", "es": "cargando" },
-        { "en": "waiting", "es": "esperando" },
-        { "en": "eating", "es": "comiendo" },
-        { "en": "drinking", "es": "bebiendo" }
+      "n": 3,
+      "title": "La \"e\" muda y verbos cotidianos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "playing", "es": "jugando" },
+            { "en": "carrying", "es": "cargando" },
+            { "en": "waiting", "es": "esperando" },
+            { "en": "eating", "es": "comiendo" },
+            { "en": "drinking", "es": "bebiendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "At this moment, we __________ at the computer.",
+          "options": ["am working", "is working", "are working"],
+          "correct": 2,
+          "hint": "El sujeto «we» es primera persona del plural.",
+          "explanation": "«are working» es correcta porque «we» exige el auxiliar «are». «am» se reserva para «I» y «is» para la tercera persona del singular («he, she, it»)."
+        },
+        {
+          "type": "gap",
+          "text": "Look! She ___ writing a letter on her desk.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "El participio en «-ing» no puede funcionar como verbo principal sin su auxiliar: con «she» el auxiliar correcto es «is». Omitirlo («She writing») es un calco del español muy penalizado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos están esperando el autobús",
+          "direction": "es-en",
+          "tiles": ["They", "are", "waiting", "for", "the", "bus", "is", "wait"],
+          "answer": "They are waiting for the bus",
+          "explanation": "Sujeto plural «they» + auxiliar «are» + gerundio «waiting». En inglés se espera «for» algo: «waiting for the bus»."
+        },
+        {
+          "type": "speak",
+          "text": "I am eating breakfast and drinking coffee.",
+          "es": "Estoy desayunando y bebiendo café."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "eating", "es": "comiendo" },
+            { "en": "drinking", "es": "bebiendo" },
+            { "en": "reading", "es": "leyendo" },
+            { "en": "writing", "es": "escribiendo" },
+            { "en": "working", "es": "trabajando" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which is the correct -ing form of the verb \"write\"?",
+          "options": ["writting", "writing", "writeing"],
+          "correct": 1,
+          "hint": "«write» termina en consonante + «-e» muda.",
+          "explanation": "Si el verbo acaba en una consonante seguida de «-e» muda, la «e» se elimina antes de «-ing»: «writing». «writting» duplica sin motivo y «writeing» conserva la «e» que debe caer."
+        },
+        {
+          "type": "gap",
+          "text": "I am ___ an email to my friend.",
+          "options": ["writing", "writting", "writeing"],
+          "answer": "writing",
+          "explanation": "«write» termina en «-e» muda: se elimina la «e» antes de «-ing» («writing») y no se duplica la «t», porque no es un monosílabo CVC."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estamos trabajando con el ordenador",
+          "direction": "es-en",
+          "tiles": ["We", "are", "working", "at", "the", "computer", "is", "on"],
+          "answer": "We are working at the computer",
+          "explanation": "Sujeto «we» + auxiliar «are» + «working». En inglés se trabaja «at the computer», con la preposición «at»."
+        },
+        {
+          "type": "speak",
+          "text": "She is reading a book in her room.",
+          "es": "Ella está leyendo un libro en su habitación."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "running", "es": "corriendo" },
+            { "en": "carrying", "es": "cargando" },
+            { "en": "waiting", "es": "esperando" },
+            { "en": "reading", "es": "leyendo" },
+            { "en": "working", "es": "trabajando" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence: it's lunchtime and she has a sandwich in her hand.",
+          "options": ["She is eating a sandwich.", "She eating a sandwich.", "She is eatting a sandwich."],
+          "correct": 0,
+          "hint": "«eat» tiene doble vocal, no duplica consonante.",
+          "explanation": "«is eating» es correcta: auxiliar obligatorio + gerundio. «eat» tiene dos vocales (ea) antes de la «t», así que no se duplica: «eating», no «eatting»."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ working at the computer right now.",
+          "options": ["are", "is", "am"],
+          "answer": "are",
+          "explanation": "El auxiliar «to be» debe concordar con el sujeto: «we» → «are». «am» solo acompaña a «I» y «is» a «he/she/it»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él está escribiendo una carta",
+          "direction": "es-en",
+          "tiles": ["He", "is", "writing", "a", "letter", "writting", "are"],
+          "answer": "He is writing a letter",
+          "explanation": "Auxiliar «is» para «he» + gerundio «writing» (la «-e» muda de «write» desaparece y la «t» no se duplica)."
+        },
+        {
+          "type": "speak",
+          "text": "They are working hard and writing reports.",
+          "es": "Ellos están trabajando duro y escribiendo informes."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "At this moment, we __________ at the computer.",
-      "options": ["am working", "is working", "are working"],
-      "correct": 2,
-      "hint": "El sujeto «we» es primera persona del plural.",
-      "explanation": "«are working» es correcta porque «we» exige el auxiliar «are». «am» se reserva para «I» y «is» para la tercera persona del singular («he, she, it»)."
-    },
-    {
-      "type": "gap",
-      "text": "We ___ working at the computer right now.",
-      "options": ["are", "is", "am"],
-      "answer": "are",
-      "explanation": "El auxiliar «to be» debe concordar con el sujeto: «we» → «are». «am» solo acompaña a «I» y «is» a «he/she/it»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ellos están esperando el autobús",
-      "direction": "es-en",
-      "tiles": ["They", "are", "waiting", "for", "the", "bus", "is", "wait"],
-      "answer": "They are waiting for the bus",
-      "explanation": "Sujeto plural «they» + auxiliar «are» + gerundio «waiting». En inglés se espera «for» algo: «waiting for the bus»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which is the correct -ing form of the verb \"write\"?",
-      "options": ["writting", "writing", "writeing"],
-      "correct": 1,
-      "hint": "«write» termina en consonante + «-e» muda.",
-      "explanation": "Si el verbo acaba en una consonante seguida de «-e» muda, la «e» se elimina antes de «-ing»: «writing». «writting» duplica sin motivo y «writeing» conserva la «e» que debe caer."
-    },
-    {
-      "type": "gap",
-      "text": "In the ___, several people are waiting for the bus.",
-      "options": ["background", "foreground", "middle"],
-      "answer": "background",
-      "explanation": "«In the background» significa «en el fondo» de la imagen; «foreground» es el primer plano y «middle» el centro. Son los adverbiales típicos para describir fotos en el examen A2."
-    },
-    {
-      "type": "speak",
-      "text": "On the left, a man is sitting down on a wooden bench.",
-      "es": "A la izquierda, un hombre se está sentando en un banco de madera."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "reading", "es": "leyendo" },
-        { "en": "writing", "es": "escribiendo" },
-        { "en": "working", "es": "trabajando" },
-        { "en": "background", "es": "fondo" },
-        { "en": "foreground", "es": "primer plano" }
+      "n": 4,
+      "title": "Verbos compuestos y posición en la imagen",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "reading", "es": "leyendo" },
+            { "en": "writing", "es": "escribiendo" },
+            { "en": "working", "es": "trabajando" },
+            { "en": "background", "es": "fondo" },
+            { "en": "foreground", "es": "primer plano" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Right now, he __________ down on the sofa because he is tired.",
+          "options": ["is sit-downing", "is siting down", "is sitting down"],
+          "correct": 2,
+          "hint": "El sufijo «-ing» se añade al verbo principal, y «sit» es un monosílabo CVC.",
+          "explanation": "«is sitting down» es correcta: el auxiliar «is» concuerda con «he» y «sit» duplica la «t» por la regla CVC. «sit-downing» pone el «-ing» en la partícula, y «siting» no duplica la consonante."
+        },
+        {
+          "type": "gap",
+          "text": "In the ___, several people are waiting for the bus.",
+          "options": ["background", "foreground", "middle"],
+          "answer": "background",
+          "explanation": "«In the background» significa «en el fondo» de la imagen; «foreground» es el primer plano y «middle» el centro. Son los adverbiales típicos para describir fotos en el examen A2."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella está de pie en el centro",
+          "direction": "es-en",
+          "tiles": ["She", "is", "standing", "in", "the", "middle", "stand", "on"],
+          "answer": "She is standing in the middle",
+          "explanation": "El español usa «estar de pie» (estado), pero el inglés lo concibe como acción continua: «is standing». La posición en la imagen se expresa con «in the middle»."
+        },
+        {
+          "type": "speak",
+          "text": "In the foreground, a young woman is smiling and holding a book.",
+          "es": "En el primer plano, una mujer joven está sonriendo y sosteniendo un libro."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "studying", "es": "estudiando" },
+            { "en": "sitting down", "es": "sentándose" },
+            { "en": "standing up", "es": "poniéndose de pie" },
+            { "en": "background", "es": "fondo" },
+            { "en": "middle", "es": "medio/centro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "It's exam season and my sister has books all over her desk. What is she doing?",
+          "options": ["She studying.", "She is studying.", "She is studing."],
+          "correct": 1,
+          "hint": "«study» termina en consonante + «y», que no se pierde.",
+          "explanation": "«is studying» es correcta: se necesita el auxiliar y la raíz «study» mantiene su «y» antes de «-ing». «studing» pierde erróneamente la «y»."
+        },
+        {
+          "type": "gap",
+          "text": "In the foreground, a young woman is ___ and holding a book.",
+          "options": ["smiling", "smilling", "smileing"],
+          "answer": "smiling",
+          "explanation": "«smile» acaba en «-e» muda, que se elimina antes de «-ing»: «smiling». No se duplica la «l» ni se conserva la «e»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estoy estudiando en la biblioteca",
+          "direction": "es-en",
+          "tiles": ["I", "am", "studying", "in", "the", "library", "studing", "is"],
+          "answer": "I am studying in the library",
+          "explanation": "Sujeto «I» + auxiliar «am» + gerundio «studying» (la raíz «study» conserva la «y»)."
+        },
+        {
+          "type": "speak",
+          "text": "In the background, several people are waiting for the bus.",
+          "es": "En el fondo, varias personas están esperando el autobús."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "foreground", "es": "primer plano" },
+            { "en": "middle", "es": "medio/centro" },
+            { "en": "studying", "es": "estudiando" },
+            { "en": "standing up", "es": "poniéndose de pie" },
+            { "en": "running", "es": "corriendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Everyone in the room hears the national anthem and reacts immediately. What are they doing?",
+          "options": ["They are standing up.", "They standing up.", "They are standing.up."],
+          "correct": 0,
+          "hint": "No olvides el auxiliar ni la partícula «up».",
+          "explanation": "«are standing up» combina el auxiliar plural «are» con el verbo compuesto «stand up» (ponerse de pie), correctamente en gerundio: «standing up»."
+        },
+        {
+          "type": "gap",
+          "text": "In the ___ of the room, a woman is studying.",
+          "options": ["middle", "center", "meddle"],
+          "answer": "middle",
+          "explanation": "«middle» es la palabra habitual para «centro» al describir la posición en una imagen o escena; «center» es más propio del inglés americano y no forma parte del vocabulario de este módulo, y «meddle» es una palabra distinta (entrometerse)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos se están poniendo de pie",
+          "direction": "es-en",
+          "tiles": ["They", "are", "standing", "up", "is", "stand"],
+          "answer": "They are standing up",
+          "explanation": "«stand up» (ponerse de pie) se conjuga igual que cualquier verbo continuo: auxiliar «are» + «standing» + partícula «up»."
+        },
+        {
+          "type": "speak",
+          "text": "In the background, an old man is sitting down slowly.",
+          "es": "En el fondo, un anciano se está sentando despacio."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "The children are __________ with a ball in the photo.",
-      "options": ["playying", "plaing", "playing"],
-      "correct": 2,
-      "hint": "La letra «y» nunca se duplica al añadir «-ing».",
-      "explanation": "«playing» es correcta: la «y» funciona como semivocal y no se duplica bajo ninguna circunstancia ortográfica («playying» es imposible), ni se elimina («plaing»)."
-    },
-    {
-      "type": "gap",
-      "text": "In the picture, a girl is ___ a heavy bag.",
-      "options": ["carrying", "carring", "carriing"],
-      "answer": "carrying",
-      "explanation": "La raíz «carry» se mantiene intacta y se añade «-ing»: «carrying». Eliminar la «y» («carring») es un error de ortografía típico."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella está de pie en el centro",
-      "direction": "es-en",
-      "tiles": ["She", "is", "standing", "in", "the", "middle", "stand", "on"],
-      "answer": "She is standing in the middle",
-      "explanation": "El español usa «estar de pie» (estado), pero el inglés lo concibe como acción continua: «is standing». La posición en la imagen se expresa con «in the middle»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Estoy llevando una camisa blanca",
-      "direction": "es-en",
-      "tiles": ["I", "am", "wearing", "a", "white", "shirt", "wear", "is"],
-      "answer": "I am wearing a white shirt",
-      "explanation": "En inglés llevar ropa puesta es un proceso continuo: «I am wearing», no el presente simple como en español («llevo»). Con «I» el auxiliar es «am»."
-    },
-    {
-      "type": "gap",
-      "text": "In the foreground, a young woman is ___ and holding a book.",
-      "options": ["smiling", "smilling", "smileing"],
-      "answer": "smiling",
-      "explanation": "«smile» acaba en «-e» muda, que se elimina antes de «-ing»: «smiling». No se duplica la «l» ni se conserva la «e»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Estamos trabajando con el ordenador",
-      "direction": "es-en",
-      "tiles": ["We", "are", "working", "at", "the", "computer", "is", "on"],
-      "answer": "We are working at the computer",
-      "explanation": "Sujeto «we» + auxiliar «are» + «working». En inglés se trabaja «at the computer», con la preposición «at»."
-    },
-    {
-      "type": "speak",
-      "text": "I am wearing a white shirt.",
-      "es": "Llevo puesta una camisa blanca."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él está escribiendo una carta",
-      "direction": "es-en",
-      "tiles": ["He", "is", "writing", "a", "letter", "writting", "are"],
-      "answer": "He is writing a letter",
-      "explanation": "Auxiliar «is» para «he» + gerundio «writing» (la «-e» muda de «write» desaparece y la «t» no se duplica)."
+      "n": 5,
+      "title": "Describir fotos: repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "left", "es": "izquierda" },
+            { "en": "right", "es": "derecha" },
+            { "en": "picture", "es": "cuadro/imagen" },
+            { "en": "photo", "es": "foto" },
+            { "en": "image", "es": "imagen" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In the background of the image, a woman __________ a blue hat.",
+          "options": ["wearing", "is wearing", "is wearring"],
+          "correct": 1,
+          "hint": "El presente continuo necesita siempre su auxiliar, y «wear» tiene dos vocales antes de la consonante final.",
+          "explanation": "La correcta es «is wearing»: combina el auxiliar «is» con el gerundio bien escrito. «wearing» sola carece del auxiliar obligatorio, y «wearring» duplica mal la consonante: «wear» tiene dos vocales (ea), así que no se aplica la regla CVC."
+        },
+        {
+          "type": "gap",
+          "text": "In the picture, a girl is ___ a heavy bag.",
+          "options": ["carrying", "carring", "carriing"],
+          "answer": "carrying",
+          "explanation": "La raíz «carry» se mantiene intacta y se añade «-ing»: «carrying». Eliminar la «y» («carring») es un error de ortografía típico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A la derecha, un hombre está leyendo el periódico",
+          "direction": "es-en",
+          "tiles": ["On", "the", "right", "a", "man", "is", "reading", "the", "newspaper", "left"],
+          "answer": "On the right, a man is reading the newspaper",
+          "explanation": "«On the right» sitúa la acción a la derecha de la imagen; el resto sigue la estructura S-A-G ya conocida: «is reading»."
+        },
+        {
+          "type": "speak",
+          "text": "On the left, a man is sitting down on a wooden bench.",
+          "es": "A la izquierda, un hombre se está sentando en un banco de madera."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "right", "es": "derecha" },
+            { "en": "picture", "es": "cuadro/imagen" },
+            { "en": "photo", "es": "foto" },
+            { "en": "image", "es": "imagen" },
+            { "en": "scene", "es": "escena" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In the middle of the picture, a girl __________ a heavy bag.",
+          "options": ["is carrying", "is carring", "is carrying down"],
+          "correct": 0,
+          "hint": "La «y» final de «carry» no se toca al añadir «-ing».",
+          "explanation": "«is carrying» mantiene la raíz «carry» y añade «-ing» sin alterar la «y». «carring» elimina la «y» de forma agramatical y «carrying down» añade una partícula innecesaria que cambia el significado."
+        },
+        {
+          "type": "gap",
+          "text": "On the ___, a woman is reading a magazine.",
+          "options": ["right", "left", "write"],
+          "answer": "right",
+          "explanation": "«right» (derecha) y «left» (izquierda) marcan la posición horizontal en la descripción de una imagen; «write» es un falso amigo por su pronunciación similar a «right»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta imagen muestra a una familia comiendo",
+          "direction": "es-en",
+          "tiles": ["This", "image", "shows", "a", "family", "eating", "picture", "is"],
+          "answer": "This image shows a family eating",
+          "explanation": "«image» y «picture» son sinónimos habituales para «imagen»; «shows» presenta la escena y «eating» describe la acción en curso."
+        },
+        {
+          "type": "speak",
+          "text": "This is a beautiful picture of the city.",
+          "es": "Esta es una foto preciosa de la ciudad."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "left", "es": "izquierda" },
+            { "en": "right", "es": "derecha" },
+            { "en": "image", "es": "imagen" },
+            { "en": "eating", "es": "comiendo" },
+            { "en": "laughing", "es": "riendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The children are __________ with a ball in the photo.",
+          "options": ["playying", "plaing", "playing"],
+          "correct": 2,
+          "hint": "La letra «y» nunca se duplica al añadir «-ing».",
+          "explanation": "«playing» es correcta: la «y» funciona como semivocal y no se duplica bajo ninguna circunstancia ortográfica («playying» es imposible), ni se elimina («plaing»)."
+        },
+        {
+          "type": "gap",
+          "text": "This ___ shows two children playing in the park.",
+          "options": ["scene", "seen", "scenary"],
+          "answer": "scene",
+          "explanation": "«scene» (escena) describe el conjunto de una imagen o fotografía. «seen» es el participio de «see» y «scenary» no es una palabra correcta en inglés (la forma correcta sería «scenery»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "En esta escena, los niños están jugando y riendo",
+          "direction": "es-en",
+          "tiles": ["In", "this", "scene", "the", "children", "are", "playing", "and", "laughing", "is"],
+          "answer": "In this scene, the children are playing and laughing",
+          "explanation": "Repaso final: «scene» (escena) + presente continuo con sujeto plural «the children» + auxiliar «are» + dos gerundios coordinados."
+        },
+        {
+          "type": "speak",
+          "text": "On the left, a girl is drinking water, and on the right, a boy is eating a sandwich.",
+          "es": "A la izquierda, una chica está bebiendo agua, y a la derecha, un chico está comiendo un bocadillo."
+        }
+      ]
     }
   ]
 }

@@ -3,254 +3,633 @@
   "module": 13,
   "title": "Past Continuous",
   "subtitle": "Pasado Continuo",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "scene", "es": "escena" },
-        { "en": "background", "es": "fondo" },
-        { "en": "weather", "es": "clima" },
-        { "en": "dark", "es": "oscuro" },
-        { "en": "bright", "es": "brillante" }
+      "n": 1,
+      "title": "Afirmativo: was/were + verbo-ing",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada forma con su traducción",
+          "pairs": [
+            { "en": "was working", "es": "estaba trabajando" },
+            { "en": "were talking", "es": "estaban hablando" },
+            { "en": "was raining", "es": "estaba lloviendo" },
+            { "en": "was sleeping", "es": "estaba durmiendo" },
+            { "en": "was reading", "es": "estaba leyendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which is the correct short answer to: \"Were they talking about the situation?\"",
+          "options": ["Yes, they talking.", "Yes, they was.", "Yes, they were."],
+          "correct": 2,
+          "hint": "Respuesta corta = pronombre + auxiliar, sin repetir el verbo en «-ing» y con la concordancia correcta.",
+          "explanation": "La respuesta corta es pronombre + auxiliar: «Yes, they were». «They talking» omite el auxiliar y repite el gerundio; «they was» rompe la concordancia plural."
+        },
+        {
+          "type": "gap",
+          "text": "It ___ raining at midnight.",
+          "options": ["was", "were", "is"],
+          "answer": "was",
+          "explanation": "El pronombre impersonal «it» es singular y exige «was». Además, el inglés obliga a poner ese sujeto: «*Was raining» sin «it» es agramatical."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él estaba durmiendo",
+          "direction": "es-en",
+          "tiles": ["He", "was", "sleeping", "were", "sleep"],
+          "answer": "He was sleeping",
+          "explanation": "El pasado continuo necesita las dos «pesas»: auxiliar «was» (para «he») + verbo con «-ing». Omitir cualquiera de las dos rompe la estructura."
+        },
+        {
+          "type": "speak",
+          "text": "Was he driving the car?",
+          "es": "¿Estaba él conduciendo el coche?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más formas del pasado continuo",
+          "pairs": [
+            { "en": "were talking", "es": "estaban hablando" },
+            { "en": "was raining", "es": "estaba lloviendo" },
+            { "en": "was sleeping", "es": "estaba durmiendo" },
+            { "en": "was reading", "es": "estaba leyendo" },
+            { "en": "was driving", "es": "estaba conduciendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["I was knowing the answer.", "I knew the answer.", "I was know the answer."],
+          "correct": 1,
+          "hint": "«Know» es un verbo de estado (stative verb): recuerda cómo se comportan en tiempos continuos.",
+          "explanation": "Los verbos de estado como «know, want, like, understand» no se conjugan habitualmente en tiempos continuos: lo correcto es el pasado simple «I knew the answer»."
+        },
+        {
+          "type": "gap",
+          "text": "She was ___ a letter.",
+          "options": ["writing", "writeing", "writting"],
+          "answer": "writing",
+          "explanation": "«Write» termina en «-e» muda: se elide la «e» antes de añadir «-ing» («writing»), sin conservarla ni duplicar la «t»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estaba lloviendo",
+          "direction": "es-en",
+          "tiles": ["It", "was", "raining", "were", "rains"],
+          "answer": "It was raining",
+          "explanation": "En español no hay sujeto («Estaba lloviendo»), pero el inglés exige el pronombre impersonal «it»: «It was raining»."
+        },
+        {
+          "type": "speak",
+          "text": "We were talking on the phone.",
+          "es": "Estábamos hablando por teléfono."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja formas del pasado continuo sin repetir",
+          "pairs": [
+            { "en": "was working", "es": "estaba trabajando" },
+            { "en": "was raining", "es": "estaba lloviendo" },
+            { "en": "was sleeping", "es": "estaba durmiendo" },
+            { "en": "was reading", "es": "estaba leyendo" },
+            { "en": "was driving", "es": "estaba conduciendo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["They were working at 9:00.", "They working at 9:00.", "They was working at 9:00."],
+          "correct": 0,
+          "hint": "La «balanza sintáctica» necesita sus dos pesas: auxiliar correcto + verbo en «-ing».",
+          "explanation": "El pasado continuo exige auxiliar + «-ing»: «They were working». Omitir el auxiliar («They working») es agramatical, y «was» no concuerda con el plural «they»."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ sleeping when you called.",
+          "options": ["wasn't", "weren't", "not was"],
+          "answer": "wasn't",
+          "explanation": "Con «I» el auxiliar es «was» y la negación se contrae en «wasn't». El español antepone «no» al verbo, pero el inglés inserta «not» tras el auxiliar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos estaban trabajando",
+          "direction": "es-en",
+          "tiles": ["They", "were", "working", "was", "work"],
+          "answer": "They were working",
+          "explanation": "«They» es plural y exige «were», no «was». Sin el auxiliar («*They working») la oración es agramatical."
+        },
+        {
+          "type": "speak",
+          "text": "She was driving to work.",
+          "es": "Ella estaba conduciendo al trabajo."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Select the grammatically correct option to complete: \"While my mother ___ in the kitchen, I was doing my homework.\"",
-      "options": ["was working", "were working", "was work"],
-      "correct": 0,
-      "hint": "«My mother» equivale a «she»: piensa qué auxiliar le corresponde y qué forma necesita el verbo.",
-      "explanation": "«My mother» es tercera persona del singular y exige «was»; el verbo léxico necesita la desinencia «-ing». «Were» es para plurales y «was work» carece del sufijo «-ing»."
-    },
-    {
-      "type": "gap",
-      "text": "We ___ walking in the forest.",
-      "options": ["were", "was", "are"],
-      "answer": "were",
-      "explanation": "El sujeto plural «we» exige el auxiliar «were». Decir «We was walking» es un error de concordancia típico por generalizar el «estaba» español."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él estaba durmiendo",
-      "direction": "es-en",
-      "tiles": ["He", "was", "sleeping", "were", "sleep"],
-      "answer": "He was sleeping",
-      "explanation": "El pasado continuo necesita las dos «pesas»: auxiliar «was» (para «he») + verbo con «-ing». Omitir cualquiera de las dos rompe la estructura."
-    },
-    {
-      "type": "speak",
-      "text": "It was raining in the forest.",
-      "es": "Estaba lloviendo en el bosque."
-    },
-    {
-      "type": "quiz",
-      "q": "Identify the sentence with the correct spelling:",
-      "options": [
-        "He was driveing to the forest.",
-        "He was driving to the forest.",
-        "He was drivving to the forest."
-      ],
-      "correct": 1,
-      "hint": "El verbo «drive» termina en «-e» muda: ¿qué le pasa a esa letra antes de añadir «-ing»?",
-      "explanation": "Los verbos terminados en «-e» muda eliden esa vocal antes de «-ing»: «drive» → «driving». «Driveing» conserva la «e» indebidamente y «drivving» duplica la «v» sin que aplique la regla CVC."
-    },
-    {
-      "type": "gap",
-      "text": "It ___ raining at midnight.",
-      "options": ["was", "were", "is"],
-      "answer": "was",
-      "explanation": "El pronombre impersonal «it» es singular y exige «was». Además, el inglés obliga a poner ese sujeto: «*Was raining» sin «it» es agramatical."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "noise", "es": "ruido" },
-        { "en": "silence", "es": "silencio" },
-        { "en": "street", "es": "calle" },
-        { "en": "road", "es": "carretera" },
-        { "en": "room", "es": "habitación" }
+      "n": 2,
+      "title": "Negativo, preguntas y el escenario",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "scene", "es": "escena" },
+            { "en": "background", "es": "fondo" },
+            { "en": "weather", "es": "clima" },
+            { "en": "dark", "es": "oscuro" },
+            { "en": "bright", "es": "brillante" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly describes the weather using the negative form?",
+          "options": ["It wasn't dark outside.", "It weren't dark outside.", "It not was dark outside."],
+          "correct": 0,
+          "hint": "«It» es singular: piensa en el auxiliar y en dónde va «not».",
+          "explanation": "«It» exige «was», y la negación contrae «was» + «not» = «wasn't». «Weren't» no concuerda con un sujeto singular y «not was» invierte el orden de forma imposible en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "The weather ___ bright this afternoon.",
+          "options": ["wasn't", "weren't", "not was"],
+          "answer": "wasn't",
+          "explanation": "«Weather» es un sustantivo incontable y singular, así que la negación es «wasn't». «Weren't» corresponde a plurales."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Yo no estaba leyendo",
+          "direction": "es-en",
+          "tiles": ["I", "wasn't", "reading", "weren't", "not"],
+          "answer": "I wasn't reading",
+          "explanation": "La negación va pegada al auxiliar: «was» + «not» = «wasn't». «Weren't» no concuerda con «I» y «not» suelto delante del auxiliar es un calco del español."
+        },
+        {
+          "type": "speak",
+          "text": "Was it dark outside?",
+          "es": "¿Estaba oscuro fuera?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de la escena",
+          "pairs": [
+            { "en": "was walking", "es": "estaba caminando" },
+            { "en": "background", "es": "fondo" },
+            { "en": "weather", "es": "clima" },
+            { "en": "dark", "es": "oscuro" },
+            { "en": "bright", "es": "brillante" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which is the correct way to ask if someone was walking in bright weather?",
+          "options": ["Was you walking in bright weather?", "You was walking in bright weather?", "Were you walking in bright weather?"],
+          "correct": 2,
+          "hint": "El sujeto «you» exige un auxiliar concreto, y las preguntas invierten el orden.",
+          "explanation": "Con «you» el auxiliar es «were», y las preguntas exigen inversión sujeto-auxiliar: «Were you walking...?». «Was you» rompe la concordancia y «You was walking...?» no invierte el orden."
+        },
+        {
+          "type": "gap",
+          "text": "___ it dark when you arrived?",
+          "options": ["Was", "Were", "Did"],
+          "answer": "Was",
+          "explanation": "El sujeto impersonal «it» es singular y exige «was»; la pregunta invierte auxiliar y sujeto. «Did» no se usa con el pasado continuo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Estabas durmiendo?",
+          "direction": "es-en",
+          "tiles": ["Were", "you", "sleeping", "Was", "Did"],
+          "answer": "Were you sleeping",
+          "explanation": "El auxiliar «were» (segunda persona) se traslada al inicio, delante del sujeto: «Were you sleeping?». No se usa «did» en tiempos continuos."
+        },
+        {
+          "type": "speak",
+          "text": "The weather wasn't bright today.",
+          "es": "El clima no estaba luminoso hoy."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras de la escena sin repetir",
+          "pairs": [
+            { "en": "was walking", "es": "estaba caminando" },
+            { "en": "scene", "es": "escena" },
+            { "en": "weather", "es": "clima" },
+            { "en": "dark", "es": "oscuro" },
+            { "en": "bright", "es": "brillante" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct negative sentence about the scene's background.",
+          "options": ["The background weren't dark.", "The background wasn't dark.", "The background not was dark."],
+          "correct": 1,
+          "hint": "«Background» es singular: ¿qué auxiliar y qué posición de «not» corresponde?",
+          "explanation": "«Background» es singular ⇒ «wasn't» (was + not). «Weren't» no concuerda con un sujeto singular y «not was» invierte mal el orden de la negación."
+        },
+        {
+          "type": "gap",
+          "text": "The dog was ___ on the floor.",
+          "options": ["lying", "lieing", "liing"],
+          "answer": "lying",
+          "explanation": "Los verbos terminados en «-ie» transforman esa secuencia en «-y» antes de añadir «-ing»: «lie» → «lying», igual que «die» → «dying»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El fondo no estaba oscuro",
+          "direction": "es-en",
+          "tiles": ["The", "background", "wasn't", "dark", "weren't", "not"],
+          "answer": "The background wasn't dark",
+          "explanation": "«Background» es singular y exige «wasn't» (was + not). La negación se coloca siempre tras el auxiliar, nunca delante."
+        },
+        {
+          "type": "speak",
+          "text": "I wasn't walking, I was driving.",
+          "es": "Yo no estaba caminando, estaba conduciendo."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Estaba lloviendo",
-      "direction": "es-en",
-      "tiles": ["It", "was", "raining", "were", "rains"],
-      "answer": "It was raining",
-      "explanation": "En español no hay sujeto («Estaba lloviendo»), pero el inglés exige el pronombre impersonal «it»: «It was raining»."
-    },
-    {
-      "type": "gap",
-      "text": "She was ___ a letter.",
-      "options": ["writing", "writeing", "writting"],
-      "answer": "writing",
-      "explanation": "«Write» termina en «-e» muda: se elide la «e» antes de añadir «-ing» («writing»), sin conservarla ni duplicar la «t»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which is the correct short answer to: \"Were they talking about the situation?\"",
-      "options": ["Yes, they talking.", "Yes, they was.", "Yes, they were."],
-      "correct": 2,
-      "hint": "Respuesta corta = pronombre + auxiliar, sin repetir el verbo en «-ing» y con la concordancia correcta.",
-      "explanation": "La respuesta corta es pronombre + auxiliar: «Yes, they were». «They talking» omite el auxiliar y repite el gerundio; «they was» rompe la concordancia plural."
-    },
-    {
-      "type": "speak",
-      "text": "The birds were singing in the garden.",
-      "es": "Los pájaros estaban cantando en el jardín."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ellos estaban trabajando",
-      "direction": "es-en",
-      "tiles": ["They", "were", "working", "was", "work"],
-      "answer": "They were working",
-      "explanation": "«They» es plural y exige «were», no «was». Sin el auxiliar («*They working») la oración es agramatical."
-    },
-    {
-      "type": "gap",
-      "text": "The children were ___ in the park.",
-      "options": ["running", "runing", "runnig"],
-      "answer": "running",
-      "explanation": "«Run» es monosílabo con estructura consonante-vocal-consonante (regla CVC): duplica la «n» final antes de «-ing» («running»)."
-    },
-    {
-      "type": "quiz",
-      "q": "Fill in the blank: \"At midnight, the situation was quiet and it ___ outside.\"",
-      "options": ["was raining", "were raining", "raining"],
-      "correct": 0,
-      "hint": "El sujeto es el impersonal «it»: necesitas auxiliar y verbo en «-ing», los dos.",
-      "explanation": "«It» exige el auxiliar «was» seguido del verbo en «-ing». «Were» no concuerda con «it» y «raining» a secas omite el auxiliar obligatorio."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "kitchen", "es": "cocina" },
-        { "en": "bedroom", "es": "dormitorio" },
-        { "en": "park", "es": "parque" },
-        { "en": "garden", "es": "jardín" },
-        { "en": "forest", "es": "bosque" }
+      "n": 3,
+      "title": "Backgrounding: sonidos y lugares",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "noise", "es": "ruido" },
+            { "en": "silence", "es": "silencio" },
+            { "en": "street", "es": "calle" },
+            { "en": "road", "es": "carretera" },
+            { "en": "room", "es": "habitación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Select the grammatically correct option to complete: \"While my mother ___ in the kitchen, I was doing my homework.\"",
+          "options": ["was working", "were working", "was work"],
+          "correct": 0,
+          "hint": "«My mother» equivale a «she»: piensa qué auxiliar le corresponde y qué forma necesita el verbo.",
+          "explanation": "«My mother» es tercera persona del singular y exige «was»; el verbo léxico necesita la desinencia «-ing». «Were» es para plurales y «was work» carece del sufijo «-ing»."
+        },
+        {
+          "type": "gap",
+          "text": "There was a lot of ___ in the street.",
+          "options": ["noise", "noisy", "noises"],
+          "answer": "noise",
+          "explanation": "«Noise» funciona aquí como sustantivo incontable: «a lot of noise». «Noisy» es el adjetivo y «noises» pluraliza un incontable, algo incorrecto en este uso."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Había mucho ruido en la calle",
+          "direction": "es-en",
+          "tiles": ["There", "was", "a", "lot", "of", "noise", "in", "the", "street", "were"],
+          "answer": "There was a lot of noise in the street",
+          "explanation": "«There was» introduce la existencia de algo singular/incontable en pasado. «Noise» es incontable, así que no lleva «-s»."
+        },
+        {
+          "type": "speak",
+          "text": "The street was dark and silent.",
+          "es": "La calle estaba oscura y en silencio."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más lugares y sonidos",
+          "pairs": [
+            { "en": "silence", "es": "silencio" },
+            { "en": "street", "es": "calle" },
+            { "en": "road", "es": "carretera" },
+            { "en": "room", "es": "habitación" },
+            { "en": "kitchen", "es": "cocina" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence best describes the background noise of a street scene?",
+          "options": ["The street were noisy.", "The street was noisy.", "The street noisy was."],
+          "correct": 1,
+          "hint": "«Street» es singular: ¿qué auxiliar concuerda con ella y en qué orden va el adjetivo?",
+          "explanation": "«Street» es singular y exige «was»; el adjetivo «noisy» va tras el verbo: «The street was noisy». Las otras dos opciones rompen la concordancia o el orden de palabras."
+        },
+        {
+          "type": "gap",
+          "text": "She was cooking in the ___.",
+          "options": ["kitchen", "room", "road"],
+          "answer": "kitchen",
+          "explanation": "«Kitchen» es la habitación donde se cocina. «Room» es más genérico y «road» es una vía para vehículos, no una estancia de la casa."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La habitación estaba en silencio",
+          "direction": "es-en",
+          "tiles": ["The", "room", "was", "silent", "were", "noise"],
+          "answer": "The room was silent",
+          "explanation": "«Room» es singular y exige «was». «Silent» es el adjetivo derivado de «silence» que describe el estado de la habitación."
+        },
+        {
+          "type": "speak",
+          "text": "She was cooking in the kitchen.",
+          "es": "Ella estaba cocinando en la cocina."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja lugares y sonidos sin repetir",
+          "pairs": [
+            { "en": "noise", "es": "ruido" },
+            { "en": "street", "es": "calle" },
+            { "en": "road", "es": "carretera" },
+            { "en": "room", "es": "habitación" },
+            { "en": "kitchen", "es": "cocina" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence: someone was cooking, describing the room.",
+          "options": ["The kitchen was silent.", "The kitchen were silent.", "The kitchen not was silent."],
+          "correct": 0,
+          "hint": "«Kitchen» es singular y la negación tiene una única posición correcta.",
+          "explanation": "«Kitchen» es singular ⇒ «was». «Were» no concuerda y «not was» coloca la negación en el orden incorrecto (siempre va tras el auxiliar)."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ was empty and silent.",
+          "options": ["room", "noise", "weather"],
+          "answer": "room",
+          "explanation": "«Room» es el sustantivo que puede describirse como «empty and silent» (vacía y silenciosa). «Noise» y «weather» no encajan semánticamente con «empty»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella estaba cocinando en la cocina",
+          "direction": "es-en",
+          "tiles": ["She", "was", "cooking", "in", "the", "kitchen", "were"],
+          "answer": "She was cooking in the kitchen",
+          "explanation": "«She» exige «was» + «-ing». «Kitchen» es la habitación correcta para «cooking» (cocinar)."
+        },
+        {
+          "type": "speak",
+          "text": "There was a strange noise in the room.",
+          "es": "Había un ruido extraño en la habitación."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "I ___ sleeping when you called.",
-      "options": ["wasn't", "weren't", "not was"],
-      "answer": "wasn't",
-      "explanation": "Con «I» el auxiliar es «was» y la negación se contrae en «wasn't». El español antepone «no» al verbo, pero el inglés inserta «not» tras el auxiliar."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Yo no estaba leyendo",
-      "direction": "es-en",
-      "tiles": ["I", "wasn't", "reading", "weren't", "not"],
-      "answer": "I wasn't reading",
-      "explanation": "La negación va pegada al auxiliar: «was» + «not» = «wasn't». «Weren't» no concuerda con «I» y «not» suelto delante del auxiliar es un calco del español."
-    },
-    {
-      "type": "speak",
-      "text": "At 10:00 last night, I was reading in my bedroom.",
-      "es": "Anoche a las diez, yo estaba leyendo en mi dormitorio."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is grammatically CORRECT?",
-      "options": [
-        "She weren't sleeping in her bedroom when the noise started.",
-        "She not was sleeping in her bedroom when the noise started.",
-        "She wasn't sleeping in her bedroom when the noise started."
-      ],
-      "correct": 2,
-      "hint": "Tercera persona del singular en negativa: fíjate en el auxiliar y en la posición de «not».",
-      "explanation": "Con «she» el auxiliar negativo contracto es «wasn't». «Weren't» corresponde a plurales y segunda persona, y «not was» coloca la negación delante del auxiliar, algo imposible en inglés."
-    },
-    {
-      "type": "gap",
-      "text": "___ you reading that book at night?",
-      "options": ["Were", "Was", "Did"],
-      "answer": "Were",
-      "explanation": "La pregunta exige inversión sujeto-auxiliar y con «you» el auxiliar es «were». El español pregunta solo con entonación; el inglés obliga a invertir."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "night", "es": "noche" },
-        { "en": "morning", "es": "mañana" },
-        { "en": "afternoon", "es": "tarde" },
-        { "en": "clock", "es": "reloj de pared" },
-        { "en": "situation", "es": "situación" }
+      "n": 4,
+      "title": "Momento concreto y verbos de estado",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "kitchen", "es": "cocina" },
+            { "en": "bedroom", "es": "dormitorio" },
+            { "en": "park", "es": "parque" },
+            { "en": "garden", "es": "jardín" },
+            { "en": "forest", "es": "bosque" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Identify the sentence with the correct spelling:",
+          "options": ["He was driveing to the forest.", "He was driving to the forest.", "He was drivving to the forest."],
+          "correct": 1,
+          "hint": "El verbo «drive» termina en «-e» muda: ¿qué le pasa a esa letra antes de añadir «-ing»?",
+          "explanation": "Los verbos terminados en «-e» muda eliden esa vocal antes de «-ing»: «drive» → «driving». «Driveing» conserva la «e» indebidamente y «drivving» duplica la «v» sin que aplique la regla CVC."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ walking in the forest.",
+          "options": ["were", "was", "are"],
+          "answer": "were",
+          "explanation": "El sujeto plural «we» exige el auxiliar «were». Decir «We was walking» es un error de concordancia típico por generalizar el «estaba» español."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella estaba leyendo en su dormitorio",
+          "direction": "es-en",
+          "tiles": ["She", "was", "reading", "in", "her", "bedroom", "were"],
+          "answer": "She was reading in her bedroom",
+          "explanation": "«She» exige el auxiliar «was» + «reading» con «-ing». «Were» sería un error de concordancia con sujeto singular."
+        },
+        {
+          "type": "speak",
+          "text": "It was raining in the forest.",
+          "es": "Estaba lloviendo en el bosque."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más lugares",
+          "pairs": [
+            { "en": "bedroom", "es": "dormitorio" },
+            { "en": "park", "es": "parque" },
+            { "en": "garden", "es": "jardín" },
+            { "en": "forest", "es": "bosque" },
+            { "en": "night", "es": "noche" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically CORRECT?",
+          "options": [
+            "She weren't sleeping in her bedroom when the noise started.",
+            "She not was sleeping in her bedroom when the noise started.",
+            "She wasn't sleeping in her bedroom when the noise started."
+          ],
+          "correct": 2,
+          "hint": "Tercera persona del singular en negativa: fíjate en el auxiliar y en la posición de «not».",
+          "explanation": "Con «she» el auxiliar negativo contracto es «wasn't». «Weren't» corresponde a plurales y segunda persona, y «not was» coloca la negación delante del auxiliar, algo imposible en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "The children were ___ in the park.",
+          "options": ["running", "runing", "runnig"],
+          "answer": "running",
+          "explanation": "«Run» es monosílabo con estructura consonante-vocal-consonante (regla CVC): duplica la «n» final antes de «-ing» («running»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nosotros estábamos caminando en el parque",
+          "direction": "es-en",
+          "tiles": ["We", "were", "walking", "in", "the", "park", "was"],
+          "answer": "We were walking in the park",
+          "explanation": "Con el sujeto plural «we» el auxiliar obligatorio es «were»; «was» queda reservado para «I, he, she, it»."
+        },
+        {
+          "type": "speak",
+          "text": "The birds were singing in the garden.",
+          "es": "Los pájaros estaban cantando en el jardín."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja lugares y momentos sin repetir",
+          "pairs": [
+            { "en": "park", "es": "parque" },
+            { "en": "garden", "es": "jardín" },
+            { "en": "forest", "es": "bosque" },
+            { "en": "night", "es": "noche" },
+            { "en": "morning", "es": "mañana" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about a specific moment last night.",
+          "options": [
+            "At 9 PM, I was walking in the forest.",
+            "At 9 PM, I were walking in the forest.",
+            "At 9 PM, I walking in the forest."
+          ],
+          "correct": 0,
+          "hint": "«I» exige un auxiliar concreto, y ambas piezas de la balanza son obligatorias.",
+          "explanation": "Con «I» el auxiliar es «was», y el verbo necesita «-ing»: «I was walking». «I were» rompe la concordancia y «I walking» omite el auxiliar."
+        },
+        {
+          "type": "gap",
+          "text": "___ you reading that book at night?",
+          "options": ["Were", "Was", "Did"],
+          "answer": "Were",
+          "explanation": "La pregunta exige inversión sujeto-auxiliar y con «you» el auxiliar es «were». El español pregunta solo con entonación; el inglés obliga a invertir."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estaba oscuro en el bosque por la noche",
+          "direction": "es-en",
+          "tiles": ["It", "was", "dark", "in", "the", "forest", "at", "night", "were"],
+          "answer": "It was dark in the forest at night",
+          "explanation": "«It» exige «was»; «at night» es la expresión habitual para «por la noche». Todo el conjunto describe el fondo de una escena."
+        },
+        {
+          "type": "speak",
+          "text": "At 10:00 last night, I was reading in my bedroom.",
+          "es": "Anoche a las diez, yo estaba leyendo en mi dormitorio."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "¿Estabas durmiendo?",
-      "direction": "es-en",
-      "tiles": ["Were", "you", "sleeping", "Was", "Did"],
-      "answer": "Were you sleeping",
-      "explanation": "El auxiliar «were» (segunda persona) se traslada al inicio, delante del sujeto: «Were you sleeping?». No se usa «did» en tiempos continuos."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the correct sentence:",
-      "options": [
-        "I was knowing the answer.",
-        "I knew the answer.",
-        "I was know the answer."
-      ],
-      "correct": 1,
-      "hint": "«Know» es un verbo de estado (stative verb): recuerda cómo se comportan en tiempos continuos.",
-      "explanation": "Los verbos de estado como «know, want, like, understand» no se conjugan habitualmente en tiempos continuos: lo correcto es el pasado simple «I knew the answer»."
-    },
-    {
-      "type": "gap",
-      "text": "The dog was ___ on the floor.",
-      "options": ["lying", "lieing", "liing"],
-      "answer": "lying",
-      "explanation": "Los verbos terminados en «-ie» transforman esa secuencia en «-y» antes de añadir «-ing»: «lie» → «lying», igual que «die» → «dying»."
-    },
-    {
-      "type": "speak",
-      "text": "Was he driving the car?",
-      "es": "¿Estaba él conduciendo el coche?"
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella estaba leyendo en su dormitorio",
-      "direction": "es-en",
-      "tiles": ["She", "was", "reading", "in", "her", "bedroom", "were"],
-      "answer": "She was reading in her bedroom",
-      "explanation": "«She» exige el auxiliar «was» + «reading» con «-ing». «Were» sería un error de concordancia con sujeto singular."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is grammatically correct?",
-      "options": [
-        "They were working at 9:00.",
-        "They working at 9:00.",
-        "They was working at 9:00."
-      ],
-      "correct": 0,
-      "hint": "La «balanza sintáctica» necesita sus dos pesas: auxiliar correcto + verbo en «-ing».",
-      "explanation": "El pasado continuo exige auxiliar + «-ing»: «They were working». Omitir el auxiliar («They working») es agramatical, y «was» no concuerda con el plural «they»."
-    },
-    {
-      "type": "gap",
-      "text": "It was ___ all night.",
-      "options": ["snowing", "snowwing", "snowying"],
-      "answer": "snowing",
-      "explanation": "Los verbos terminados en «w, x, y» no duplican la consonante final: «snow» → «snowing», igual que «play» → «playing»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nosotros estábamos caminando en el parque",
-      "direction": "es-en",
-      "tiles": ["We", "were", "walking", "in", "the", "park", "was"],
-      "answer": "We were walking in the park",
-      "explanation": "Con el sujeto plural «we» el auxiliar obligatorio es «were»; «was» queda reservado para «I, he, she, it»."
+      "n": 5,
+      "title": "Ortografía de -ing y repaso",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "night", "es": "noche" },
+            { "en": "morning", "es": "mañana" },
+            { "en": "afternoon", "es": "tarde" },
+            { "en": "clock", "es": "reloj de pared" },
+            { "en": "situation", "es": "situación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Fill in the blank: \"At midnight, the situation was quiet and it ___ outside.\"",
+          "options": ["was raining", "were raining", "raining"],
+          "correct": 0,
+          "hint": "El sujeto es el impersonal «it»: necesitas auxiliar y verbo en «-ing», los dos.",
+          "explanation": "«It» exige el auxiliar «was» seguido del verbo en «-ing». «Were» no concuerda con «it» y «raining» a secas omite el auxiliar obligatorio."
+        },
+        {
+          "type": "gap",
+          "text": "It was ___ all night.",
+          "options": ["snowing", "snowwing", "snowying"],
+          "answer": "snowing",
+          "explanation": "Los verbos terminados en «w, x, y» no duplican la consonante final: «snow» → «snowing», igual que «play» → «playing»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Qué hora era?",
+          "direction": "es-en",
+          "tiles": ["What", "time", "was", "it", "were", "is"],
+          "answer": "What time was it",
+          "explanation": "«Time» es singular y la pregunta invierte sujeto-auxiliar: «What time was it?». No se usa «is» para preguntar por el pasado."
+        },
+        {
+          "type": "speak",
+          "text": "What time was it?",
+          "es": "¿Qué hora era?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más momentos del día",
+          "pairs": [
+            { "en": "afternoon", "es": "tarde" },
+            { "en": "evening", "es": "tarde-noche" },
+            { "en": "clock", "es": "reloj de pared" },
+            { "en": "watch", "es": "reloj de pulsera" },
+            { "en": "situation", "es": "situación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence describing what happened in the evening.",
+          "options": [
+            "The situation were tense in the evening.",
+            "The situation was tense in the evening.",
+            "The situation was tense in the evening not."
+          ],
+          "correct": 1,
+          "hint": "«Situation» es singular, y «not» solo puede ir en un lugar de la frase.",
+          "explanation": "«Situation» es singular ⇒ «was». «Not» debe ir siempre inmediatamente después del auxiliar, nunca al final de una afirmativa; aquí la frase es afirmativa y no lleva «not» en absoluto."
+        },
+        {
+          "type": "gap",
+          "text": "What ___ the time when you called?",
+          "options": ["was", "were", "did"],
+          "answer": "was",
+          "explanation": "«The time» es singular y exige «was». «Did» no se combina con el pasado continuo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La situación estaba tranquila por la tarde",
+          "direction": "es-en",
+          "tiles": ["The", "situation", "was", "calm", "in", "the", "afternoon", "were"],
+          "answer": "The situation was calm in the afternoon",
+          "explanation": "«Situation» es singular ⇒ «was». «In the afternoon» es la expresión habitual para «por la tarde»."
+        },
+        {
+          "type": "speak",
+          "text": "The situation was calm in the evening.",
+          "es": "La situación estaba tranquila por la tarde-noche."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja momentos y objetos sin repetir",
+          "pairs": [
+            { "en": "evening", "es": "tarde-noche" },
+            { "en": "clock", "es": "reloj de pared" },
+            { "en": "watch", "es": "reloj de pulsera" },
+            { "en": "time", "es": "tiempo/hora" },
+            { "en": "situation", "es": "situación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which is the correct short answer to: 'Was it a difficult situation?'",
+          "options": ["Yes, it difficult was.", "Yes, situation was.", "Yes, it was."],
+          "correct": 2,
+          "hint": "La respuesta corta no repite el adjetivo ni el sustantivo, solo pronombre + auxiliar.",
+          "explanation": "La respuesta corta correcta es pronombre + auxiliar: «Yes, it was». No se repite el adjetivo («difficult») ni se sustituye el pronombre por el sustantivo («situation»)."
+        },
+        {
+          "type": "gap",
+          "text": "In the ___, the sky was dark.",
+          "options": ["evening", "clock", "watch"],
+          "answer": "evening",
+          "explanation": "«Evening» es el momento del día en que el cielo empieza a oscurecer. «Clock» y «watch» son objetos, no momentos del día."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella estaba mirando el reloj",
+          "direction": "es-en",
+          "tiles": ["She", "was", "looking", "at", "the", "clock", "were"],
+          "answer": "She was looking at the clock",
+          "explanation": "«She» exige «was» + «-ing». «Clock» es el reloj de pared, el que se suele mirar en una habitación."
+        },
+        {
+          "type": "speak",
+          "text": "I was checking my watch.",
+          "es": "Estaba mirando mi reloj."
+        }
+      ]
     }
   ]
 }

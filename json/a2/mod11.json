@@ -3,238 +3,321 @@
   "module": 11,
   "title": "Past Simple: Irregular Verbs",
   "subtitle": "Pasado Simple: Irregulares",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada pasado irregular con su traducción",
-      "pairs": [
-        { "en": "went", "es": "fue" },
-        { "en": "saw", "es": "vio" },
-        { "en": "bought", "es": "compró" },
-        { "en": "ate", "es": "comió" },
-        { "en": "drank", "es": "bebió" }
+      "n": 1,
+      "title": "Verbos irregulares básicos: ir, ver, comer",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada pasado irregular con su traducción",
+          "pairs": [
+            { "en": "went", "es": "fue" },
+            { "en": "saw", "es": "vio" },
+            { "en": "bought", "es": "compró" },
+            { "en": "ate", "es": "comió" },
+            { "en": "drank", "es": "bebió" }
+          ] },
+        { "type": "quiz", "q": "Yesterday I ________ a new computer.",
+          "options": ["bought", "buyed", "buying"], "correct": 0,
+          "hint": "«Buy» pertenece a la familia de verbos terminados en «-ought».",
+          "explanation": "El verbo «buy» es irregular y su pasado es «bought» (B + ought). «Buyed» es una regularización errónea y «buying» es el gerundio." },
+        { "type": "gap", "text": "We ___ to the park and saw a dog.", "options": ["went", "goed", "go"],
+          "answer": "went", "explanation": "«Go» forma su pasado por supleción completa: «went». «Goed» es un error morfológico grave que anula la puntuación en un examen." },
+        { "type": "match", "prompt": "Empareja más pasados irregulares",
+          "pairs": [
+            { "en": "saw", "es": "vio" },
+            { "en": "bought", "es": "compró" },
+            { "en": "ate", "es": "comió" },
+            { "en": "drank", "es": "bebió" },
+            { "en": "ran", "es": "corrió" }
+          ] },
+        { "type": "quiz", "q": "¿Cómo se dice «Corrimos cinco kilómetros ayer»?",
+          "options": ["We run five kilometres yesterday.", "We runned five kilometres yesterday.", "We ran five kilometres yesterday."], "correct": 2,
+          "hint": "«Ran» es la forma supletiva de «run», con cambio vocálico.",
+          "explanation": "El pasado irregular de «run» es «ran» (apofonía /ʌ/→/æ/). «Runned» regulariza indebidamente un verbo fuerte, y «run» es el infinitivo." },
+        { "type": "gap", "text": "She ___ a sandwich for lunch.", "options": ["ate", "eated", "eat"],
+          "answer": "ate", "explanation": "El pasado del verbo irregular «eat» es «ate» (apofonía). «Eated» es una regularización imposible." },
+        { "type": "match", "prompt": "Empareja pasados irregulares sin repetir",
+          "pairs": [
+            { "en": "went", "es": "fue" },
+            { "en": "ate", "es": "comió" },
+            { "en": "drank", "es": "bebió" },
+            { "en": "ran", "es": "corrió" },
+            { "en": "bought", "es": "compró" }
+          ] },
+        { "type": "quiz", "q": "Choose the correct sentence: Vimos una película anoche.",
+          "options": ["We saw a movie last night.", "We seed a movie last night.", "We see a movie last night."], "correct": 0,
+          "hint": "«Seed» significa semilla, no es un verbo.",
+          "explanation": "El pasado de «see» es «saw». «Seed» es un sustantivo (semilla) y «see» es el infinitivo, sin marca de pasado." },
+        { "type": "gap", "text": "They ___ a lot of water after the race.", "options": ["drank", "drinked", "drink"],
+          "answer": "drank", "explanation": "El pasado irregular de «drink» es «drank», con cambio de vocal /ɪ/ a /æ/. «Drinked» regulariza indebidamente un verbo fuerte." },
+        { "type": "wordbank", "prompt": "Fuimos al parque", "direction": "es-en",
+          "tiles": ["We", "went", "to", "the", "park", "goed", "a"],
+          "answer": "We went to the park",
+          "explanation": "El pasado de «go» es la forma supletiva «went» (del arcaico «wendan»). «Goed» no existe." },
+        { "type": "wordbank", "prompt": "Vi un perro", "direction": "es-en",
+          "tiles": ["I", "saw", "a", "dog", "seed", "see"],
+          "answer": "I saw a dog",
+          "explanation": "El pasado de «see» es «saw». Ojo: «seed» significa «semilla», no es una forma verbal." },
+        { "type": "wordbank", "prompt": "Compré un ordenador nuevo ayer", "direction": "es-en",
+          "tiles": ["I", "bought", "a", "new", "computer", "yesterday", "buyed"],
+          "answer": "I bought a new computer yesterday",
+          "explanation": "El pasado irregular de «buy» es «bought», con la terminación «-ought». «Buyed» es un error morfológico típico." },
+        { "type": "speak", "text": "We went to the park and saw a dog.", "es": "Fuimos al parque y vimos un perro." },
+        { "type": "speak", "text": "Yesterday I bought a new computer.", "es": "Ayer compré un ordenador nuevo." },
+        { "type": "speak", "text": "I ate breakfast and drank coffee.", "es": "Desayuné y bebí café." }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Last week, I ________ my old friend in the street, and we ________ a cup of coffee together.",
-      "options": ["met / drank", "meeted / drinked", "met / drunk"],
-      "correct": 0,
-      "hint": "Ninguno de los dos verbos admite la terminación «-ed».",
-      "explanation": "El pasado de «meet» es «met» y el de «drink» es «drank». «Meeted» y «drinked» regularizan verbos irregulares, y «drunk» es el participio, no el pasado simple."
-    },
-    {
-      "type": "gap",
-      "text": "He ___ a delicious cake last Sunday.",
-      "options": ["made", "maked", "makes"],
-      "answer": "made",
-      "explanation": "El pasado del verbo irregular «make» es «made». «Maked» es una regularización inexistente y «makes» es presente."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Fuimos al parque",
-      "direction": "es-en",
-      "tiles": ["We", "went", "to", "the", "park", "goed", "a"],
-      "answer": "We went to the park",
-      "explanation": "El pasado de «go» es la forma supletiva «went» (del arcaico «wendan»). «Goed» no existe."
-    },
-    {
-      "type": "quiz",
-      "q": "He ________ the book on the table, ________ goodbye, and left the office.",
-      "options": ["putted / sayed", "put / told", "put / said"],
-      "correct": 2,
-      "hint": "«Put» es invariable y «tell» necesita una persona detrás.",
-      "explanation": "«Put» no cambia en pasado y el pasado de «say» es «said», que se une directamente a «goodbye». «Told» exigiría un objeto de persona («he told us...») y «putted»/«sayed» no existen."
-    },
-    {
-      "type": "gap",
-      "text": "She ___ the letter yesterday.",
-      "options": ["read", "readed", "reads"],
-      "answer": "read",
-      "explanation": "El pasado de «read» se escribe igual que el presente pero se pronuncia /red/, como el color rojo. «Readed» es una regularización imposible."
-    },
-    {
-      "type": "speak",
-      "text": "We went to the park and saw a dog.",
-      "es": "Fuimos al parque y vimos un perro."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada pasado irregular con su traducción",
-      "pairs": [
-        { "en": "wrote", "es": "escribió" },
-        { "en": "spoke", "es": "habló" },
-        { "en": "made", "es": "hizo" },
-        { "en": "took", "es": "tomó" },
-        { "en": "came", "es": "vino" }
+      "n": 2,
+      "title": "Escribir, leer, hablar y hacer",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada pasado irregular con su traducción",
+          "pairs": [
+            { "en": "wrote", "es": "escribió" },
+            { "en": "read", "es": "leyó" },
+            { "en": "spoke", "es": "habló" },
+            { "en": "had", "es": "tuvo" },
+            { "en": "did", "es": "hizo" }
+          ] },
+        { "type": "quiz", "q": "¿Cómo se dice «Ella escribió una carta ayer»?",
+          "options": ["She wrote a letter yesterday.", "She writed a letter yesterday.", "She writes a letter yesterday."], "correct": 0,
+          "hint": "«Write» es un verbo fuerte con apofonía.",
+          "explanation": "El pasado irregular de «write» es «wrote». «Writed» regulariza un verbo fuerte y «writes» es presente." },
+        { "type": "gap", "text": "He ___ his homework before dinner.", "options": ["did", "doed", "does"],
+          "answer": "did", "explanation": "El pasado de «do» es la forma irregular «did». «Doed» no existe y «does» es presente de tercera persona." },
+        { "type": "match", "prompt": "Empareja más pasados irregulares",
+          "pairs": [
+            { "en": "read", "es": "leyó" },
+            { "en": "spoke", "es": "habló" },
+            { "en": "had", "es": "tuvo" },
+            { "en": "made", "es": "hizo/fabricó" },
+            { "en": "wrote", "es": "escribió" }
+          ] },
+        { "type": "quiz", "q": "How do you pronounce \"read\" in the sentence: \"Last night I read the newspaper\"?",
+          "options": ["/riːd/, like \"feed\"", "/red/, like the color red", "/reɪd/, like \"raid\""], "correct": 1,
+          "hint": "Busca el marcador temporal «last night».",
+          "explanation": "«Read» en pasado se escribe igual que en presente pero se pronuncia /red/, idéntico al color «red». El marcador «last night» confirma que es pasado." },
+        { "type": "gap", "text": "He ___ a delicious cake last Sunday.", "options": ["made", "maked", "makes"],
+          "answer": "made", "explanation": "El pasado del verbo irregular «make» es «made». «Maked» es una regularización inexistente y «makes» es presente." },
+        { "type": "match", "prompt": "Empareja pasados irregulares sin repetir",
+          "pairs": [
+            { "en": "wrote", "es": "escribió" },
+            { "en": "spoke", "es": "habló" },
+            { "en": "had", "es": "tuvo" },
+            { "en": "did", "es": "hizo" },
+            { "en": "made", "es": "hizo/fabricó" }
+          ] },
+        { "type": "quiz", "q": "Choose the correct sentence: Tuvimos una reunión larga.",
+          "options": ["We haved a long meeting.", "We have a long meeting.", "We had a long meeting."], "correct": 2,
+          "hint": "«Have» cambia completamente su forma en pasado.",
+          "explanation": "El pasado irregular de «have» es «had». «Haved» es una regularización imposible y «have» es el presente." },
+        { "type": "gap", "text": "She ___ the letter yesterday.", "options": ["read", "readed", "reads"],
+          "answer": "read", "explanation": "El pasado de «read» se escribe igual que el presente pero se pronuncia /red/, como el color rojo. «Readed» es una regularización imposible." },
+        { "type": "wordbank", "prompt": "Ella habló con el director", "direction": "es-en",
+          "tiles": ["She", "spoke", "with", "the", "director", "speak", "speaked"],
+          "answer": "She spoke with the director",
+          "explanation": "El pasado irregular de «speak» es «spoke», con cambio de vocal interna. «Speaked» no existe." },
+        { "type": "wordbank", "prompt": "Él hizo una tarta", "direction": "es-en",
+          "tiles": ["He", "made", "a", "cake", "maked", "makes"],
+          "answer": "He made a cake",
+          "explanation": "El pasado del verbo irregular «make» es «made». «Maked» no existe y «makes» es presente de tercera persona." },
+        { "type": "wordbank", "prompt": "Bebimos una taza de café", "direction": "es-en",
+          "tiles": ["We", "drank", "a", "cup", "of", "coffee", "drinked"],
+          "answer": "We drank a cup of coffee",
+          "explanation": "El pasado de «drink» es «drank», con cambio de vocal /i/ a /æ/. «Drinked» regulariza indebidamente un verbo fuerte." },
+        { "type": "speak", "text": "Last night I read the newspaper in my bed.", "es": "Anoche leí el periódico en mi cama." },
+        { "type": "speak", "text": "She wrote a letter and had lunch.", "es": "Ella escribió una carta y almorzó." },
+        { "type": "speak", "text": "He did his homework and made dinner.", "es": "Hizo los deberes y preparó la cena." }
       ]
     },
     {
-      "type": "quiz",
-      "q": "We ________ a lot of money on our holiday because we ________ in a luxury hotel.",
-      "options": ["spended / sleeped", "spent / slept", "spent / sleeped"],
-      "correct": 1,
-      "hint": "Ambos verbos cambian su final a un sonido /t/ seco.",
-      "explanation": "«Spent» es el pasado irregular de «spend» y «slept» el de «sleep». Las opciones con «-ed» («spended», «sleeped») regularizan indebidamente verbos irregulares."
-    },
-    {
-      "type": "gap",
-      "text": "We ___ to the park and saw a dog.",
-      "options": ["went", "goed", "go"],
-      "answer": "went",
-      "explanation": "«Go» forma su pasado por supleción completa: «went». «Goed» es un error morfológico grave que anula la puntuación en un examen."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella me dio un libro",
-      "direction": "es-en",
-      "tiles": ["She", "gave", "me", "a", "book", "gived"],
-      "answer": "She gave me a book",
-      "explanation": "El pasado irregular de «give» es «gave». «Gived» no existe: nunca regularices un verbo fuerte."
-    },
-    {
-      "type": "gap",
-      "text": "She ___ the cup on the table a moment ago.",
-      "options": ["put", "putted", "puts"],
-      "answer": "put",
-      "explanation": "«Put» es un verbo invariable: su pasado es idéntico al infinitivo. El marcador «a moment ago» es la pista de que estamos en pasado."
-    },
-    {
-      "type": "quiz",
-      "q": "She ________ me the truth, so I ________ her for the work she did.",
-      "options": ["told / payed", "told / paid", "sayed / paid"],
-      "correct": 1,
-      "hint": "Cuidado con la ortografía del pasado de «pay».",
-      "explanation": "El pasado de «tell» es «told» (seguido del objeto «me») y el de «pay» se escribe «paid». «Payed» es un error ortográfico y «sayed» no existe."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Vi un perro",
-      "direction": "es-en",
-      "tiles": ["I", "saw", "a", "dog", "seed", "see"],
-      "answer": "I saw a dog",
-      "explanation": "El pasado de «see» es «saw». Ojo: «seed» significa «semilla», no es una forma verbal."
-    },
-    {
-      "type": "speak",
-      "text": "Last night I read the newspaper in my bed.",
-      "es": "Anoche leí el periódico en mi cama."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada pasado irregular con su traducción",
-      "pairs": [
-        { "en": "met", "es": "conoció" },
-        { "en": "paid", "es": "pagó" },
-        { "en": "spent", "es": "gastó" },
-        { "en": "lost", "es": "perdió" },
-        { "en": "found", "es": "encontró" }
+      "n": 3,
+      "title": "Tomar, venir, sentarse y conocer",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada pasado irregular con su traducción",
+          "pairs": [
+            { "en": "wrote", "es": "escribió" },
+            { "en": "spoke", "es": "habló" },
+            { "en": "made", "es": "hizo" },
+            { "en": "took", "es": "tomó" },
+            { "en": "came", "es": "vino" }
+          ] },
+        { "type": "quiz", "q": "Last week, I ________ my old friend in the street, and we ________ a cup of coffee together.",
+          "options": ["met / drank", "meeted / drinked", "met / drunk"], "correct": 0,
+          "hint": "Ninguno de los dos verbos admite la terminación «-ed».",
+          "explanation": "El pasado de «meet» es «met» y el de «drink» es «drank». «Meeted» y «drinked» regularizan verbos irregulares, y «drunk» es el participio, no el pasado simple." },
+        { "type": "gap", "text": "He ___ the bus to work yesterday.", "options": ["took", "taked", "takes"],
+          "answer": "took", "explanation": "El pasado irregular de «take» es «took», con cambio vocálico. «Taked» no existe." },
+        { "type": "match", "prompt": "Empareja más pasados irregulares",
+          "pairs": [
+            { "en": "took", "es": "tomó" },
+            { "en": "came", "es": "vino" },
+            { "en": "sat", "es": "se sentó" },
+            { "en": "stood", "es": "se puso de pie" },
+            { "en": "met", "es": "conoció" }
+          ] },
+        { "type": "quiz", "q": "Choose the correct sentence: Ella pagó la cuenta.",
+          "options": ["She payed the bill.", "She paid the bill.", "She pays the bill."], "correct": 1,
+          "hint": "Cuidado con la ortografía del pasado de «pay».",
+          "explanation": "El pasado de «pay» se escribe «paid», no «payed» (error ortográfico frecuente). «Pays» es presente." },
+        { "type": "gap", "text": "They ___ down and waited for the bus.", "options": ["sat", "sitted", "sit"],
+          "answer": "sat", "explanation": "El pasado irregular de «sit» es «sat», con cambio de vocal /ɪ/ a /æ/. «Sitted» regulariza indebidamente." },
+        { "type": "match", "prompt": "Empareja pasados irregulares sin repetir",
+          "pairs": [
+            { "en": "took", "es": "tomó" },
+            { "en": "came", "es": "vino" },
+            { "en": "stood", "es": "se puso de pie" },
+            { "en": "met", "es": "conoció" },
+            { "en": "paid", "es": "pagó" }
+          ] },
+        { "type": "quiz", "q": "Choose the correct sentence: Nos conocimos en la universidad.",
+          "options": ["We meeted at university.", "We meet at university.", "We met at university."], "correct": 2,
+          "hint": "«Meet» cambia su vocal en pasado.",
+          "explanation": "El pasado irregular de «meet» es «met». «Meeted» regulariza indebidamente un verbo fuerte, y «meet» es el infinitivo." },
+        { "type": "gap", "text": "She ___ up when the teacher entered.", "options": ["stood", "standed", "stand"],
+          "answer": "stood", "explanation": "El pasado irregular de «stand» es «stood». «Standed» no existe." },
+        { "type": "wordbank", "prompt": "Vino a la fiesta", "direction": "es-en",
+          "tiles": ["He", "came", "to", "the", "party", "come", "comed"],
+          "answer": "He came to the party",
+          "explanation": "El pasado irregular de «come» es «came», con cambio vocálico. «Comed» no existe." },
+        { "type": "wordbank", "prompt": "Ellos pagaron la cena", "direction": "es-en",
+          "tiles": ["They", "paid", "for", "dinner", "payed", "pay"],
+          "answer": "They paid for dinner",
+          "explanation": "El pasado de «pay» se escribe «paid». «Payed» es un error ortográfico frecuente." },
+        { "type": "wordbank", "prompt": "Nos sentamos en el parque", "direction": "es-en",
+          "tiles": ["We", "sat", "in", "the", "park", "sitted", "sit"],
+          "answer": "We sat in the park",
+          "explanation": "El pasado irregular de «sit» es «sat». «Sitted» regulariza indebidamente un verbo fuerte." },
+        { "type": "speak", "text": "He took the bus and met a friend.", "es": "Tomó el autobús y se encontró con un amigo." },
+        { "type": "speak", "text": "She came home and sat down.", "es": "Llegó a casa y se sentó." },
+        { "type": "speak", "text": "They stood up and paid the bill.", "es": "Se pusieron de pie y pagaron la cuenta." }
       ]
     },
     {
-      "type": "gap",
-      "text": "Yesterday I ___ a lot of money on clothes.",
-      "options": ["spent", "spended", "spend"],
-      "answer": "spent",
-      "explanation": "«Spend» cambia su consonante final a «-t» en pasado: «spent». «Spended» regulariza un verbo irregular y «spend» es la forma base."
-    },
-    {
-      "type": "quiz",
-      "q": "Yesterday, I ________ the green leaves on the floor, and I ________ that autumn was here.",
-      "options": ["seed / thoughted", "saw / thinked", "saw / thought"],
-      "correct": 2,
-      "hint": "«Think» pertenece a la familia de verbos en «-ought».",
-      "explanation": "El pasado de «see» es «saw» y el de «think» es «thought». «Seed» significa semilla, y «thinked»/«thoughted» son regularizaciones imposibles."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella puso la taza en la mesa",
-      "direction": "es-en",
-      "tiles": ["She", "put", "the", "the", "cup", "on", "table", "putted"],
-      "answer": "She put the cup on the table",
-      "explanation": "«Put» pertenece al grupo de verbos invariables: su pasado es idéntico al infinitivo. «Putted» no existe."
-    },
-    {
-      "type": "gap",
-      "text": "He ___ the bread yesterday.",
-      "options": ["cut", "cuts", "cutted"],
-      "answer": "cut",
-      "explanation": "«Cut» es invariable: en pasado no lleva «-s» ni «-ed». La pista temporal «yesterday» indica que es pasado y no presente («he cuts»)."
-    },
-    {
-      "type": "quiz",
-      "q": "Yesterday I ________ a new computer.",
-      "options": ["bought", "buyed", "buying"],
-      "correct": 0,
-      "hint": "«Buy» pertenece a la familia de verbos terminados en «-ought».",
-      "explanation": "El verbo «buy» es irregular y su pasado es «bought» (B + ought). «Buyed» es una regularización errónea y «buying» es el gerundio."
-    },
-    {
-      "type": "speak",
-      "text": "She put the cup on the table a moment ago.",
-      "es": "Puso la taza en la mesa hace un momento."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Compré un ordenador nuevo ayer",
-      "direction": "es-en",
-      "tiles": ["I", "bought", "a", "new", "computer", "yesterday", "buyed"],
-      "answer": "I bought a new computer yesterday",
-      "explanation": "El pasado irregular de «buy» es «bought», con la terminación «-ought». «Buyed» es un error morfológico típico."
-    },
-    {
-      "type": "gap",
-      "text": "She ___ me a book and I read it.",
-      "options": ["gave", "gived", "give"],
-      "answer": "gave",
-      "explanation": "El pasado de «give» es «gave», con cambio de vocal interna (apofonía). Además, «read» aquí se pronuncia /red/ porque es pasado."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada pasado irregular con su traducción",
-      "pairs": [
-        { "en": "gave", "es": "dio" },
-        { "en": "told", "es": "contó" },
-        { "en": "slept", "es": "durmió" },
-        { "en": "won", "es": "ganó" },
-        { "en": "ran", "es": "corrió" }
+      "n": 4,
+      "title": "Gastar, perder, encontrar y dar",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada pasado irregular con su traducción",
+          "pairs": [
+            { "en": "met", "es": "conoció" },
+            { "en": "paid", "es": "pagó" },
+            { "en": "spent", "es": "gastó" },
+            { "en": "lost", "es": "perdió" },
+            { "en": "found", "es": "encontró" }
+          ] },
+        { "type": "quiz", "q": "¿Cómo se dice «Perdí mis llaves ayer»?",
+          "options": ["I losed my keys yesterday.", "I lost my keys yesterday.", "I lose my keys yesterday."], "correct": 1,
+          "hint": "«Lose» cambia de vocal y de consonante final en pasado.",
+          "explanation": "El pasado irregular de «lose» es «lost». «Losed» regulariza un verbo fuerte y «lose» es el infinitivo." },
+        { "type": "gap", "text": "Yesterday I ___ a lot of money on clothes.", "options": ["spent", "spended", "spend"],
+          "answer": "spent", "explanation": "«Spend» cambia su consonante final a «-t» en pasado: «spent». «Spended» regulariza un verbo irregular y «spend» es la forma base." },
+        { "type": "match", "prompt": "Empareja más pasados irregulares",
+          "pairs": [
+            { "en": "spent", "es": "gastó" },
+            { "en": "lost", "es": "perdió" },
+            { "en": "found", "es": "encontró" },
+            { "en": "gave", "es": "dio" },
+            { "en": "left", "es": "dejó" }
+          ] },
+        { "type": "quiz", "q": "Choose the correct sentence: Encontramos las llaves debajo del sofá.",
+          "options": ["We finded the keys under the sofa.", "We find the keys under the sofa.", "We found the keys under the sofa."], "correct": 2,
+          "hint": "«Find» cambia su vocal en pasado, como «bind»→«bound».",
+          "explanation": "El pasado irregular de «find» es «found». «Finded» regulariza indebidamente un verbo fuerte." },
+        { "type": "gap", "text": "She ___ me a book and I read it.", "options": ["gave", "gived", "give"],
+          "answer": "gave", "explanation": "El pasado de «give» es «gave», con cambio de vocal interna (apofonía). Además, «read» aquí se pronuncia /red/ porque es pasado." },
+        { "type": "match", "prompt": "Empareja pasados irregulares sin repetir",
+          "pairs": [
+            { "en": "spent", "es": "gastó" },
+            { "en": "lost", "es": "perdió" },
+            { "en": "gave", "es": "dio" },
+            { "en": "left", "es": "dejó" },
+            { "en": "got", "es": "obtuvo" }
+          ] },
+        { "type": "quiz", "q": "Choose the correct sentence: Se fueron temprano de la fiesta.",
+          "options": ["They left the party early.", "They leaved the party early.", "They leave the party early."], "correct": 0,
+          "hint": "«Leave» cambia toda su raíz en pasado.",
+          "explanation": "El pasado irregular de «leave» es «left». «Leaved» regulariza indebidamente y «leave» es el infinitivo." },
+        { "type": "gap", "text": "He ___ a new job last month.", "options": ["got", "getted", "get"],
+          "answer": "got", "explanation": "El pasado irregular de «get» es «got». «Getted» no existe." },
+        { "type": "wordbank", "prompt": "Ella me dio un libro", "direction": "es-en",
+          "tiles": ["She", "gave", "me", "a", "book", "gived"],
+          "answer": "She gave me a book",
+          "explanation": "El pasado irregular de «give» es «gave». «Gived» no existe: nunca regularices un verbo fuerte." },
+        { "type": "wordbank", "prompt": "Perdimos el tren", "direction": "es-en",
+          "tiles": ["We", "lost", "the", "train", "losed", "lose"],
+          "answer": "We lost the train",
+          "explanation": "El pasado irregular de «lose» es «lost». «Losed» no existe." },
+        { "type": "wordbank", "prompt": "Encontró las llaves", "direction": "es-en",
+          "tiles": ["She", "found", "the", "keys", "finded", "find"],
+          "answer": "She found the keys",
+          "explanation": "El pasado irregular de «find» es «found», con cambio vocálico completo." },
+        { "type": "speak", "text": "I spent a lot of money and lost my keys.", "es": "Gasté mucho dinero y perdí mis llaves." },
+        { "type": "speak", "text": "She found her phone and gave it to me.", "es": "Encontró su teléfono y me lo dio." },
+        { "type": "speak", "text": "They left early and got a taxi.", "es": "Se fueron temprano y cogieron un taxi." }
       ]
     },
     {
-      "type": "quiz",
-      "q": "How do you pronounce \"read\" in the sentence: \"Last night I read the newspaper\"?",
-      "options": ["/riːd/, like \"feed\"", "/red/, like the color red", "/reɪd/, like \"raid\""],
-      "correct": 1,
-      "hint": "Busca el marcador temporal «last night».",
-      "explanation": "«Read» en pasado se escribe igual que en presente pero se pronuncia /red/, idéntico al color «red». El marcador «last night» confirma que es pasado."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él hizo una tarta",
-      "direction": "es-en",
-      "tiles": ["He", "made", "a", "cake", "maked", "makes"],
-      "answer": "He made a cake",
-      "explanation": "El pasado del verbo irregular «make» es «made». «Maked» no existe y «makes» es presente de tercera persona."
-    },
-    {
-      "type": "gap",
-      "text": "I ___ that autumn was here.",
-      "options": ["thought", "thinked", "think"],
-      "answer": "thought",
-      "explanation": "«Think» forma su pasado con la terminación «-ought»: «thought». «Thinked» es una regularización errónea."
-    },
-    {
-      "type": "speak",
-      "text": "Yesterday I bought a new computer.",
-      "es": "Ayer compré un ordenador nuevo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Bebimos una taza de café",
-      "direction": "es-en",
-      "tiles": ["We", "drank", "a", "cup", "of", "coffee", "drinked"],
-      "answer": "We drank a cup of coffee",
-      "explanation": "El pasado de «drink» es «drank», con cambio de vocal /i/ a /æ/. «Drinked» regulariza indebidamente un verbo fuerte."
+      "n": 5,
+      "title": "Pensar, decir, dormir y repaso general",
+      "exercises": [
+        { "type": "match", "prompt": "Empareja cada pasado irregular con su traducción",
+          "pairs": [
+            { "en": "gave", "es": "dio" },
+            { "en": "told", "es": "contó" },
+            { "en": "slept", "es": "durmió" },
+            { "en": "won", "es": "ganó" },
+            { "en": "ran", "es": "corrió" }
+          ] },
+        { "type": "quiz", "q": "He ________ the book on the table, ________ goodbye, and left the office.",
+          "options": ["putted / sayed", "put / told", "put / said"], "correct": 2,
+          "hint": "«Put» es invariable y «tell» necesita una persona detrás.",
+          "explanation": "«Put» no cambia en pasado y el pasado de «say» es «said», que se une directamente a «goodbye». «Told» exigiría un objeto de persona («he told us...») y «putted»/«sayed» no existen." },
+        { "type": "gap", "text": "She ___ the cup on the table a moment ago.", "options": ["put", "putted", "puts"],
+          "answer": "put", "explanation": "«Put» es un verbo invariable: su pasado es idéntico al infinitivo. El marcador «a moment ago» es la pista de que estamos en pasado." },
+        { "type": "match", "prompt": "Empareja más pasados irregulares",
+          "pairs": [
+            { "en": "thought", "es": "pensó" },
+            { "en": "told", "es": "contó" },
+            { "en": "slept", "es": "durmió" },
+            { "en": "won", "es": "ganó" },
+            { "en": "cut", "es": "cortó" }
+          ] },
+        { "type": "quiz", "q": "We ________ a lot of money on our holiday because we ________ in a luxury hotel.",
+          "options": ["spended / sleeped", "spent / slept", "spent / sleeped"], "correct": 1,
+          "hint": "Ambos verbos cambian su final a un sonido /t/ seco.",
+          "explanation": "«Spent» es el pasado irregular de «spend» y «slept» el de «sleep». Las opciones con «-ed» («spended», «sleeped») regularizan indebidamente verbos irregulares." },
+        { "type": "gap", "text": "He ___ the bread yesterday.", "options": ["cut", "cuts", "cutted"],
+          "answer": "cut", "explanation": "«Cut» es invariable: en pasado no lleva «-s» ni «-ed». La pista temporal «yesterday» indica que es pasado y no presente («he cuts»)." },
+        { "type": "match", "prompt": "Empareja pasados irregulares sin repetir",
+          "pairs": [
+            { "en": "thought", "es": "pensó" },
+            { "en": "told", "es": "contó" },
+            { "en": "won", "es": "ganó" },
+            { "en": "cut", "es": "cortó" },
+            { "en": "put", "es": "puso" }
+          ] },
+        { "type": "quiz", "q": "She ________ me the truth, so I ________ her for the work she did.",
+          "options": ["told / paid", "told / payed", "sayed / paid"], "correct": 0,
+          "hint": "Cuidado con la ortografía del pasado de «pay».",
+          "explanation": "El pasado de «tell» es «told» (seguido del objeto «me») y el de «pay» se escribe «paid». «Payed» es un error ortográfico y «sayed» no existe." },
+        { "type": "gap", "text": "I ___ that autumn was here.", "options": ["thought", "thinked", "think"],
+          "answer": "thought", "explanation": "«Think» forma su pasado con la terminación «-ought»: «thought». «Thinked» es una regularización errónea." },
+        { "type": "wordbank", "prompt": "Ella puso la taza en la mesa", "direction": "es-en",
+          "tiles": ["She", "put", "the", "the", "cup", "on", "table", "putted"],
+          "answer": "She put the cup on the table",
+          "explanation": "«Put» pertenece al grupo de verbos invariables: su pasado es idéntico al infinitivo. «Putted» no existe." },
+        { "type": "wordbank", "prompt": "Ganamos el partido", "direction": "es-en",
+          "tiles": ["We", "won", "the", "match", "winned", "win"],
+          "answer": "We won the match",
+          "explanation": "El pasado irregular de «win» es «won» (pronunciado /uan/). «Winned» no existe." },
+        { "type": "wordbank", "prompt": "Cortó el pan", "direction": "es-en",
+          "tiles": ["He", "cut", "the", "bread", "cutted", "cuts"],
+          "answer": "He cut the bread",
+          "explanation": "«Cut» es un verbo invariable: su pasado es idéntico al infinitivo, sin «-ed» ni «-s»." },
+        { "type": "speak", "text": "She put the cup on the table a moment ago.", "es": "Puso la taza en la mesa hace un momento." },
+        { "type": "speak", "text": "Yesterday I saw the green leaves on the floor, and I thought that autumn was here.", "es": "Ayer vi las hojas verdes en el suelo y pensé que el otoño había llegado." },
+        { "type": "speak", "text": "They told the truth and won the game.", "es": "Dijeron la verdad y ganaron el partido." }
+      ]
     }
   ]
 }
