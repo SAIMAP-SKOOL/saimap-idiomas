@@ -3,238 +3,621 @@
   "module": 16,
   "title": "Prepositions of Time",
   "subtitle": "Preposiciones de Tiempo",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada estación o mes con su traducción",
-      "pairs": [
-        { "en": "spring", "es": "primavera" },
-        { "en": "summer", "es": "verano" },
-        { "en": "winter", "es": "invierno" },
-        { "en": "July", "es": "julio" },
-        { "en": "August", "es": "agosto" }
+      "n": 1,
+      "title": "In: meses, estaciones y años",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada estación o mes con su traducción",
+          "pairs": [
+            { "en": "spring", "es": "primavera" },
+            { "en": "summer", "es": "verano" },
+            { "en": "winter", "es": "invierno" },
+            { "en": "July", "es": "julio" },
+            { "en": "August", "es": "agosto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the sentence: \"We always celebrate our anniversary ___ July.\"",
+          "options": ["in", "on", "at"],
+          "correct": 0,
+          "hint": "Un mes es un contenedor temporal amplio.",
+          "explanation": "Julio es un mes: un periodo amplio concebido como contenedor, que exige «in». «On» solo se usaría con una fecha concreta («on July 14th») y «at» se reserva para horas y festividades globales."
+        },
+        {
+          "type": "gap",
+          "text": "The flowers bloom ___ spring.",
+          "options": ["in", "on", "at"],
+          "answer": "in",
+          "explanation": "Las estaciones son periodos de largo alcance (contenedores temporales), por lo que exigen la preposición «in»: «in spring»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más meses y estaciones",
+          "pairs": [
+            { "en": "spring", "es": "primavera" },
+            { "en": "winter", "es": "invierno" },
+            { "en": "July", "es": "julio" },
+            { "en": "August", "es": "agosto" },
+            { "en": "October", "es": "octubre" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["The class starts in October 5th.", "The class starts in October.", "The class starts at October."],
+          "correct": 1,
+          "hint": "Aquí no hay ningún día numérico, solo el mes.",
+          "explanation": "Un mes sin día numérico es un contenedor amplio: «The class starts in October». Con fecha exacta se usaría «on October 5th»."
+        },
+        {
+          "type": "gap",
+          "text": "We celebrate the festival ___ October.",
+          "options": ["in", "on", "at"],
+          "answer": "in",
+          "explanation": "«October» sin día numérico se trata como un contenedor amplio de 31 días: «in October»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja meses y estaciones sin repetir",
+          "pairs": [
+            { "en": "summer", "es": "verano" },
+            { "en": "winter", "es": "invierno" },
+            { "en": "July", "es": "julio" },
+            { "en": "August", "es": "agosto" },
+            { "en": "October", "es": "octubre" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["The flowers bloom on spring.", "The flowers bloom at spring.", "The flowers bloom in spring."],
+          "correct": 2,
+          "hint": "Las estaciones son contenedores temporales amplios.",
+          "explanation": "Las estaciones exigen «in» por ser periodos de largo alcance: «The flowers bloom in spring»."
+        },
+        {
+          "type": "gap",
+          "text": "Shakespeare was born ___ 1564.",
+          "options": ["in", "on", "at"],
+          "answer": "in",
+          "explanation": "Los años son periodos de largo alcance y exigen «in»: «born in 1564»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las flores florecen en primavera",
+          "direction": "es-en",
+          "tiles": ["The", "flowers", "bloom", "in", "spring", "on"],
+          "answer": "The flowers bloom in spring",
+          "explanation": "Las estaciones son contenedores temporales amplios y llevan siempre «in»: «in spring»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nací en 1990",
+          "direction": "es-en",
+          "tiles": ["I", "was", "born", "in", "1990", "on"],
+          "answer": "I was born in 1990",
+          "explanation": "Los años exigen la preposición «in»: «born in 1990», nunca «on 1990»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La clase empieza en octubre",
+          "direction": "es-en",
+          "tiles": ["The", "class", "starts", "in", "October", "on"],
+          "answer": "The class starts in October",
+          "explanation": "«October» sin día numérico es un contenedor amplio: «in October». Con fecha exacta cambiaría a «on October 5th»."
+        },
+        {
+          "type": "speak",
+          "text": "I love the flowers in spring.",
+          "es": "Me encantan las flores en primavera."
+        },
+        {
+          "type": "speak",
+          "text": "The class starts in October.",
+          "es": "La clase empieza en octubre."
+        },
+        {
+          "type": "speak",
+          "text": "We go on a trip in summer.",
+          "es": "Nos vamos de viaje en verano."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Complete the sentence: \"We always celebrate our anniversary ___ July.\"",
-      "options": ["in", "on", "at"],
-      "correct": 0,
-      "hint": "Un mes es un contenedor temporal amplio.",
-      "explanation": "Julio es un mes: un periodo amplio concebido como contenedor, que exige «in». «On» solo se usaría con una fecha concreta («on July 14th») y «at» se reserva para horas y festividades globales."
-    },
-    {
-      "type": "gap",
-      "text": "The flowers bloom ___ spring.",
-      "options": ["in", "on", "at"],
-      "answer": "in",
-      "explanation": "Las estaciones son periodos de largo alcance (contenedores temporales), por lo que exigen la preposición «in»: «in spring»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Estudio por la mañana",
-      "direction": "es-en",
-      "tiles": ["I", "study", "in", "the", "morning", "at", "on"],
-      "answer": "I study in the morning",
-      "explanation": "Las partes generales del día llevan «in» + artículo «the»: «in the morning». El comodín español «por» no se traduce con «at» ni «on»."
-    },
-    {
-      "type": "quiz",
-      "q": "Identify the grammatically correct sentence:",
-      "options": ["She went to Italy in last summer.", "She went to Italy last summer.", "She went to Italy on last summer."],
-      "correct": 1,
-      "hint": "El modificador «last» absorbe la función conectora.",
-      "explanation": "Con los modificadores temporales «next», «last», «this» y «every» se produce elisión preposicional: no se escribe ninguna preposición. «In last summer» y «on last summer» son calcos del español «en el último verano»."
-    },
-    {
-      "type": "gap",
-      "text": "We have an exam ___ Monday.",
-      "options": ["on", "in", "at"],
-      "answer": "on",
-      "explanation": "Los días de la semana son unidades de 24 horas y exigen «on»: «on Monday». Recuerda que en inglés los días se escriben siempre con mayúscula."
-    },
-    {
-      "type": "speak",
-      "text": "We go on holiday in August.",
-      "es": "Nos vamos de vacaciones en agosto."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada día o unidad de calendario con su traducción",
-      "pairs": [
-        { "en": "Monday", "es": "lunes" },
-        { "en": "Tuesday", "es": "martes" },
-        { "en": "Friday", "es": "viernes" },
-        { "en": "Saturday", "es": "sábado" },
-        { "en": "weekend", "es": "fin de semana" }
+      "n": 2,
+      "title": "On: días de la semana y fechas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada día o unidad de calendario con su traducción",
+          "pairs": [
+            { "en": "Monday", "es": "lunes" },
+            { "en": "Tuesday", "es": "martes" },
+            { "en": "Friday", "es": "viernes" },
+            { "en": "Saturday", "es": "sábado" },
+            { "en": "weekend", "es": "fin de semana" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the dialogue: \"Are you free ___ Monday morning?\" \"Yes, I am.\"",
+          "options": ["on", "in", "at"],
+          "correct": 0,
+          "hint": "El día de la semana manda sobre la parte del día.",
+          "explanation": "Cuando un día de la semana se combina con una parte del día, el elemento rector sigue siendo el día: «on Monday morning». «In» solo se usaría con la parte del día sola («in the morning»)."
+        },
+        {
+          "type": "gap",
+          "text": "We have an exam ___ Monday.",
+          "options": ["on", "in", "at"],
+          "answer": "on",
+          "explanation": "Los días de la semana son unidades de 24 horas y exigen «on»: «on Monday». Recuerda que en inglés los días se escriben siempre con mayúscula."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más días y calendario",
+          "pairs": [
+            { "en": "Tuesday", "es": "martes" },
+            { "en": "Friday", "es": "viernes" },
+            { "en": "Saturday", "es": "sábado" },
+            { "en": "weekend", "es": "fin de semana" },
+            { "en": "week", "es": "semana" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["We have an exam in Monday.", "We have an exam on Monday.", "We have an exam at Monday."],
+          "correct": 1,
+          "hint": "Los días de la semana llevan siempre la misma preposición.",
+          "explanation": "Los días de la semana exigen «on»: «We have an exam on Monday». «In» y «at» no encajan con unidades de 24 horas."
+        },
+        {
+          "type": "gap",
+          "text": "What do you do ___ Saturdays?",
+          "options": ["on", "in", "at"],
+          "answer": "on",
+          "explanation": "Los días de la semana en plural también exigen «on»: «on Saturdays» (los sábados, en general)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja días de la semana sin repetir",
+          "pairs": [
+            { "en": "Monday", "es": "lunes" },
+            { "en": "Tuesday", "es": "martes" },
+            { "en": "Saturday", "es": "sábado" },
+            { "en": "weekend", "es": "fin de semana" },
+            { "en": "week", "es": "semana" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about the weekend (British English).",
+          "options": ["I relax in the weekend.", "I relax on the weekend.", "I relax at the weekend."],
+          "correct": 2,
+          "hint": "El fin de semana se trata como un punto festivo, no como un contenedor.",
+          "explanation": "En inglés británico, el fin de semana usa «at the weekend». «On the weekend» es más habitual en inglés americano, e «in the weekend» no es estándar."
+        },
+        {
+          "type": "gap",
+          "text": "The train leaves ___ Tuesday.",
+          "options": ["on", "in", "at"],
+          "answer": "on",
+          "explanation": "Los días de la semana exigen «on»: «The train leaves on Tuesday»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tenemos un examen el lunes",
+          "direction": "es-en",
+          "tiles": ["We", "have", "an", "exam", "on", "Monday", "in", "the"],
+          "answer": "We have an exam on Monday",
+          "explanation": "Los días de la semana llevan «on» y sin artículo: «on Monday». El calco del artículo español («el lunes» → «the Monday») es un error típico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Te veo el sábado",
+          "direction": "es-en",
+          "tiles": ["See", "you", "on", "Saturday", "in", "at"],
+          "answer": "See you on Saturday",
+          "explanation": "Los días de la semana exigen «on»: «See you on Saturday»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estoy libre el fin de semana",
+          "direction": "es-en",
+          "tiles": ["I", "am", "free", "at", "the", "weekend", "on"],
+          "answer": "I am free at the weekend",
+          "explanation": "En inglés británico, «weekend» exige «at»: «at the weekend», el equivalente festivo del fin de semana."
+        },
+        {
+          "type": "speak",
+          "text": "Are you free on Monday morning?",
+          "es": "¿Estás libre el lunes por la mañana?"
+        },
+        {
+          "type": "speak",
+          "text": "See you on Friday.",
+          "es": "Nos vemos el viernes."
+        },
+        {
+          "type": "speak",
+          "text": "I relax at the weekend.",
+          "es": "Descanso el fin de semana."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "What is the correct preposition? \"The train arrives ___ half past six.\"",
-      "options": ["on", "at", "in"],
-      "correct": 1,
-      "hint": "Las seis y media es un punto exacto del reloj.",
-      "explanation": "«Half past six» es una hora exacta del reloj, el nivel de máxima precisión temporal, que exige la preposición puntual «at». «On» e «in» no denotan precisión cronométrica."
-    },
-    {
-      "type": "gap",
-      "text": "The class starts ___ October 5th.",
-      "options": ["on", "in", "at"],
-      "answer": "on",
-      "explanation": "Al añadir el día numérico al mes, el bloque temporal pasa de contenedor («in October») a unidad de 24 horas: «on October 5th»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tenemos un examen el lunes",
-      "direction": "es-en",
-      "tiles": ["We", "have", "an", "exam", "on", "Monday", "in", "the"],
-      "answer": "We have an exam on Monday",
-      "explanation": "Los días de la semana llevan «on» y sin artículo: «on Monday». El calco del artículo español («el lunes» → «the Monday») es un error típico."
-    },
-    {
-      "type": "gap",
-      "text": "The lesson starts ___ 9:00 AM.",
-      "options": ["at", "in", "on"],
-      "answer": "at",
-      "explanation": "Las horas del reloj son puntos cronométricos de máxima definición y exigen «at»: «at 9:00 AM»."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete the dialogue: \"Are you free ___ Monday morning?\" \"Yes, I am.\"",
-      "options": ["on", "in", "at"],
-      "correct": 0,
-      "hint": "El día de la semana manda sobre la parte del día.",
-      "explanation": "Cuando un día de la semana se combina con una parte del día, el elemento rector sigue siendo el día: «on Friday morning», «on Monday morning». «In» solo se usaría con la parte del día sola («in the morning»)."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Duermo por la noche",
-      "direction": "es-en",
-      "tiles": ["I", "sleep", "at", "night", "in", "the"],
-      "answer": "I sleep at night",
-      "explanation": "«Night» es la anomalía nocturna: a diferencia de «in the morning», la noche cerrada va sin artículo y con la preposición puntual «at»: «at night»."
-    },
-    {
-      "type": "speak",
-      "text": "The office is closed on Christmas Day.",
-      "es": "La oficina está cerrada el día de Navidad."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada parte del día con su traducción",
-      "pairs": [
-        { "en": "morning", "es": "mañana" },
-        { "en": "afternoon", "es": "tarde" },
-        { "en": "evening", "es": "tarde-noche" },
-        { "en": "night", "es": "noche" },
-        { "en": "midnight", "es": "medianoche" }
+      "n": 3,
+      "title": "At: horas y la excepción de la noche",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada parte del día con su traducción",
+          "pairs": [
+            { "en": "morning", "es": "mañana" },
+            { "en": "afternoon", "es": "tarde" },
+            { "en": "evening", "es": "tarde-noche" },
+            { "en": "night", "es": "noche" },
+            { "en": "midnight", "es": "medianoche" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct preposition? \"The train arrives ___ half past six.\"",
+          "options": ["on", "at", "in"],
+          "correct": 1,
+          "hint": "Las seis y media es un punto exacto del reloj.",
+          "explanation": "«Half past six» es una hora exacta del reloj, el nivel de máxima precisión temporal, que exige la preposición puntual «at». «On» e «in» no denotan precisión cronométrica."
+        },
+        {
+          "type": "gap",
+          "text": "I study ___ the morning.",
+          "options": ["in", "at", "on"],
+          "answer": "in",
+          "explanation": "Las partes generales del día («morning», «afternoon», «evening») son contenedores amplios: «in the morning». La excepción es «at night»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más partes del día",
+          "pairs": [
+            { "en": "afternoon", "es": "tarde" },
+            { "en": "evening", "es": "tarde-noche" },
+            { "en": "night", "es": "noche" },
+            { "en": "midnight", "es": "medianoche" },
+            { "en": "noon", "es": "mediodía" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that contains no grammatical errors:",
+          "options": ["I hate driving at night when it rains.", "I hate driving on night when it rains.", "I hate driving in the night when it rains."],
+          "correct": 0,
+          "hint": "La noche como concepto general tiene una fórmula fija.",
+          "explanation": "«At night» es la fórmula fija normativa para la noche como concepto general. «On night» es incorrecta porque «on» se reserva para días, e «in the night» no pertenece al inglés estándar actual."
+        },
+        {
+          "type": "gap",
+          "text": "The stars shine ___ night.",
+          "options": ["at", "in", "on"],
+          "answer": "at",
+          "explanation": "La noche se trata en inglés como un punto sin volumen: exige «at» y prohíbe el artículo. «In the night» no es inglés estándar de nivel A1."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja partes del día sin repetir",
+          "pairs": [
+            { "en": "morning", "es": "mañana" },
+            { "en": "evening", "es": "tarde-noche" },
+            { "en": "night", "es": "noche" },
+            { "en": "midnight", "es": "medianoche" },
+            { "en": "noon", "es": "mediodía" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence about parts of the day is correct?",
+          "options": ["I study at the morning.", "I study on the morning.", "I study in the morning."],
+          "correct": 2,
+          "hint": "«Morning» es un contenedor amplio, no un punto.",
+          "explanation": "«Morning» exige «in the morning». «At the morning» y «on the morning» son formas agramaticales."
+        },
+        {
+          "type": "gap",
+          "text": "I go to bed at ___.",
+          "options": ["midnight", "the midnight", "a midnight"],
+          "answer": "midnight",
+          "explanation": "Las expresiones temporales con «at» («noon», «midnight», «night») no llevan artículo: «at midnight», nunca «at the midnight»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estudio por la mañana",
+          "direction": "es-en",
+          "tiles": ["I", "study", "in", "the", "morning", "at", "on"],
+          "answer": "I study in the morning",
+          "explanation": "Las partes generales del día llevan «in» + artículo «the»: «in the morning». El comodín español «por» no se traduce con «at» ni «on»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Duermo por la noche",
+          "direction": "es-en",
+          "tiles": ["I", "sleep", "at", "night", "in", "the"],
+          "answer": "I sleep at night",
+          "explanation": "«Night» es la anomalía nocturna: a diferencia de «in the morning», la noche cerrada va sin artículo y con la preposición puntual «at»: «at night»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Como al mediodía",
+          "direction": "es-en",
+          "tiles": ["I", "eat", "at", "noon", "in", "the"],
+          "answer": "I eat at noon",
+          "explanation": "«Noon» (mediodía) es un punto cronométrico exacto y, como «midnight», exige «at» sin artículo."
+        },
+        {
+          "type": "speak",
+          "text": "The stars shine at night.",
+          "es": "Las estrellas brillan por la noche."
+        },
+        {
+          "type": "speak",
+          "text": "I have lunch at noon.",
+          "es": "Como al mediodía."
+        },
+        {
+          "type": "speak",
+          "text": "She reads in the evening.",
+          "es": "Ella lee por la tarde-noche."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "The stars shine ___ night.",
-      "options": ["at", "in", "on"],
-      "answer": "at",
-      "explanation": "La noche se trata en inglés como un punto sin volumen: exige «at» y prohíbe el artículo. «In the night» no es inglés estándar de nivel A1."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the sentence that contains no grammatical errors:",
-      "options": ["I hate driving on night when it rains.", "I hate driving at night when it rains.", "I hate driving in the night when it rains."],
-      "correct": 1,
-      "hint": "La noche como concepto general tiene una fórmula fija.",
-      "explanation": "«At night» es la fórmula fija normativa para la noche como concepto general. «On night» es incorrecta porque «on» se reserva para días, e «in the night» no pertenece al inglés estándar actual."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Te veo el próximo lunes",
-      "direction": "es-en",
-      "tiles": ["See", "you", "next", "Monday", "on", "the"],
-      "answer": "See you next Monday",
-      "explanation": "El modificador «next» elide la preposición: «See you next Monday», nunca «on next Monday». Es uno de los errores más penalizados en los exámenes."
-    },
-    {
-      "type": "gap",
-      "text": "See you ___ Monday. (el próximo lunes)",
-      "options": ["next", "on next", "in next"],
-      "answer": "next",
-      "explanation": "Los determinantes temporales «next», «last», «this» y «every» absorben la función conectora y anulan la preposición: «next Monday», sin «on» ni «in»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is grammatically correct?",
-      "options": ["My birthday is on June.", "My birthday is at June.", "My birthday is in June."],
-      "correct": 2,
-      "hint": "Junio sin día numérico es un contenedor de 30 días.",
-      "explanation": "Los meses sin día numérico se tratan como contenedores amplios y exigen «in»: «in June». «On» solo aparecería con fecha completa («on June 10th») y «at» se reserva para horas y festividades."
-    },
-    {
-      "type": "speak",
-      "text": "I will meet you on Friday morning.",
-      "es": "Te veré el viernes por la mañana."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra temporal con su traducción",
-      "pairs": [
-        { "en": "next", "es": "próximo" },
-        { "en": "last", "es": "pasado" },
-        { "en": "every", "es": "cada" },
-        { "en": "century", "es": "siglo" },
-        { "en": "Christmas", "es": "Navidad" }
+      "n": 4,
+      "title": "Sin preposición: next, last, every",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra temporal con su traducción",
+          "pairs": [
+            { "en": "next", "es": "próximo" },
+            { "en": "last", "es": "pasado" },
+            { "en": "every", "es": "cada" },
+            { "en": "century", "es": "siglo" },
+            { "en": "year", "es": "año" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Identify the grammatically correct sentence:",
+          "options": ["She went to Italy in last summer.", "She went to Italy last summer.", "She went to Italy on last summer."],
+          "correct": 1,
+          "hint": "El modificador «last» absorbe la función conectora.",
+          "explanation": "Con los modificadores temporales «next», «last», «this» y «every» se produce elisión preposicional: no se escribe ninguna preposición. «In last summer» y «on last summer» son calcos del español «en el último verano»."
+        },
+        {
+          "type": "gap",
+          "text": "See you ___ Monday.",
+          "options": ["next", "on next", "in next"],
+          "answer": "next",
+          "explanation": "Los determinantes temporales «next», «last», «this» y «every» absorben la función conectora y anulan la preposición: «next Monday», sin «on» ni «in»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras temporales",
+          "pairs": [
+            { "en": "next", "es": "próximo" },
+            { "en": "last", "es": "pasado" },
+            { "en": "every", "es": "cada" },
+            { "en": "century", "es": "siglo" },
+            { "en": "date", "es": "fecha" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["See you next Monday.", "See you on next Monday.", "See you in next Monday."],
+          "correct": 0,
+          "hint": "«Next» absorbe la función de la preposición.",
+          "explanation": "«Next» elide la preposición: «See you next Monday», nunca con «on» ni «in» delante."
+        },
+        {
+          "type": "gap",
+          "text": "I visited London ___ year.",
+          "options": ["last", "in last", "on last"],
+          "answer": "last",
+          "explanation": "«Last» elide la preposición: «last year», nunca «in last year» ni «on last year»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras temporales y días sin repetir",
+          "pairs": [
+            { "en": "last", "es": "pasado" },
+            { "en": "every", "es": "cada" },
+            { "en": "century", "es": "siglo" },
+            { "en": "date", "es": "fecha" },
+            { "en": "Monday", "es": "lunes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["She exercises at every day.", "She exercises on every day.", "She exercises every day."],
+          "correct": 2,
+          "hint": "«Every» absorbe la función de la preposición.",
+          "explanation": "«Every» elide la preposición: «every day», nunca «at every day» ni «on every day»."
+        },
+        {
+          "type": "gap",
+          "text": "She exercises ___ day.",
+          "options": ["every", "at every", "on every"],
+          "answer": "every",
+          "explanation": "«Every» absorbe la función conectora y anula la preposición: «every day»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Te veo el próximo lunes",
+          "direction": "es-en",
+          "tiles": ["See", "you", "next", "Monday", "on", "the"],
+          "answer": "See you next Monday",
+          "explanation": "El modificador «next» elide la preposición: «See you next Monday», nunca «on next Monday». Es uno de los errores más penalizados en los exámenes."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella hace ejercicio cada día",
+          "direction": "es-en",
+          "tiles": ["She", "exercises", "every", "day", "at", "on"],
+          "answer": "She exercises every day",
+          "explanation": "«Every» elide la preposición: «every day», nunca «at every day». Además, «she» exige la -s de tercera persona: «exercises»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Visité Londres el año pasado",
+          "direction": "es-en",
+          "tiles": ["I", "visited", "London", "last", "year", "in"],
+          "answer": "I visited London last year",
+          "explanation": "«Last» elide la preposición: «last year», nunca «in last year»."
+        },
+        {
+          "type": "speak",
+          "text": "See you next Monday.",
+          "es": "Nos vemos el próximo lunes."
+        },
+        {
+          "type": "speak",
+          "text": "I visited London last year.",
+          "es": "Visité Londres el año pasado."
+        },
+        {
+          "type": "speak",
+          "text": "She exercises every day.",
+          "es": "Ella hace ejercicio cada día."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Mi cumpleaños es en junio",
-      "direction": "es-en",
-      "tiles": ["My", "birthday", "is", "in", "June", "on"],
-      "answer": "My birthday is in June",
-      "explanation": "Un mes solo (sin día numérico) es un contenedor temporal y lleva «in»: «in June». «On June» es el error clásico del hispanohablante."
-    },
-    {
-      "type": "gap",
-      "text": "I go to bed at ___.",
-      "options": ["midnight", "the midnight", "a midnight"],
-      "answer": "midnight",
-      "explanation": "Las expresiones temporales con «at» («noon», «midnight», «night») no llevan artículo: «at midnight», nunca «at the midnight»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is grammatically correct?",
-      "options": ["The concert is on June 10th.", "The concert is in June 10th.", "The concert is at June 10th."],
-      "correct": 0,
-      "hint": "Hay un día numérico junto al mes.",
-      "explanation": "Al indicar la fecha exacta de un día, prima la regla de las 24 horas y se usa «on»: «on June 10th». «In» solo valdría para el mes completo («in June»)."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Visitamos a nuestra familia en Pascua",
-      "direction": "es-en",
-      "tiles": ["We", "visit", "our", "family", "at", "Easter", "in", "on"],
-      "answer": "We visit our family at Easter",
-      "explanation": "Las festividades tomadas como época global llevan «at» en inglés británico: «at Easter», «at Christmas». «On» solo se usa con el día concreto («on Christmas Day»)."
-    },
-    {
-      "type": "gap",
-      "text": "I study ___ the morning.",
-      "options": ["in", "at", "on"],
-      "answer": "in",
-      "explanation": "Las partes generales del día («morning», «afternoon», «evening») son contenedores amplios: «in the morning». La excepción es «at night»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella hace ejercicio cada día",
-      "direction": "es-en",
-      "tiles": ["She", "exercises", "every", "day", "at", "on"],
-      "answer": "She exercises every day",
-      "explanation": "«Every» elide la preposición: «every day», nunca «at every day». Además, «she» exige la -s de tercera persona: «exercises»."
-    },
-    {
-      "type": "speak",
-      "text": "I love the snow at Christmas.",
-      "es": "Me encanta la nieve en Navidad."
+      "n": 5,
+      "title": "Festividades: Christmas, Easter y repaso",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra temporal con su traducción",
+          "pairs": [
+            { "en": "Christmas", "es": "Navidad" },
+            { "en": "June", "es": "junio" },
+            { "en": "Easter", "es": "Pascua" },
+            { "en": "birthday", "es": "cumpleaños" },
+            { "en": "anniversary", "es": "aniversario" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["My birthday is on June.", "My birthday is at June.", "My birthday is in June."],
+          "correct": 2,
+          "hint": "Junio sin día numérico es un contenedor de 30 días.",
+          "explanation": "Los meses sin día numérico se tratan como contenedores amplios y exigen «in»: «in June». «On» solo aparecería con fecha completa («on June 10th») y «at» se reserva para horas y festividades."
+        },
+        {
+          "type": "gap",
+          "text": "My birthday is ___ June.",
+          "options": ["in", "on", "at"],
+          "answer": "in",
+          "explanation": "Un mes solo (sin día numérico) es un contenedor temporal y lleva «in»: «in June». «On June» es el error clásico del hispanohablante."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más festividades",
+          "pairs": [
+            { "en": "June", "es": "junio" },
+            { "en": "Easter", "es": "Pascua" },
+            { "en": "birthday", "es": "cumpleaños" },
+            { "en": "anniversary", "es": "aniversario" },
+            { "en": "holiday", "es": "vacaciones" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["The concert is on June 10th.", "The concert is in June 10th.", "The concert is at June 10th."],
+          "correct": 0,
+          "hint": "Hay un día numérico junto al mes.",
+          "explanation": "Al indicar la fecha exacta de un día, prima la regla de las 24 horas y se usa «on»: «on June 10th». «In» solo valdría para el mes completo («in June»)."
+        },
+        {
+          "type": "gap",
+          "text": "We visit our family ___ Easter.",
+          "options": ["at", "in", "on"],
+          "answer": "at",
+          "explanation": "Las festividades tomadas como época global llevan «at» en inglés británico: «at Easter», «at Christmas». «On» solo se usa con el día concreto («on Christmas Day»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Repaso final: mezcla de todo el módulo",
+          "pairs": [
+            { "en": "Christmas", "es": "Navidad" },
+            { "en": "Easter", "es": "Pascua" },
+            { "en": "holiday", "es": "vacaciones" },
+            { "en": "night", "es": "noche" },
+            { "en": "next", "es": "próximo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence about Christmas is correct?",
+          "options": ["We visit family on Christmas.", "We visit our family at Easter.", "We visit family in Easter."],
+          "correct": 1,
+          "hint": "Las festividades como época global llevan una preposición puntual.",
+          "explanation": "«At Easter» es correcto para la festividad tomada como época global. «On Christmas» e «in Easter» usan la preposición equivocada para este uso."
+        },
+        {
+          "type": "gap",
+          "text": "The office is closed ___ Christmas Day.",
+          "options": ["on", "in", "at"],
+          "answer": "on",
+          "explanation": "«Christmas Day» es un día concreto del calendario (25 de diciembre), así que exige «on», a diferencia de «at Christmas» (la época festiva completa)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi cumpleaños es en junio",
+          "direction": "es-en",
+          "tiles": ["My", "birthday", "is", "in", "June", "on"],
+          "answer": "My birthday is in June",
+          "explanation": "Un mes solo (sin día numérico) es un contenedor temporal y lleva «in»: «in June». «On June» es el error clásico del hispanohablante."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Visitamos a nuestra familia en Pascua",
+          "direction": "es-en",
+          "tiles": ["We", "visit", "our", "family", "at", "Easter", "in", "on"],
+          "answer": "We visit our family at Easter",
+          "explanation": "Las festividades tomadas como época global llevan «at» en inglés británico: «at Easter», «at Christmas». «On» solo se usa con el día concreto («on Christmas Day»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos vamos de vacaciones en agosto",
+          "direction": "es-en",
+          "tiles": ["We", "go", "on", "holiday", "in", "August", "at"],
+          "answer": "We go on holiday in August",
+          "explanation": "«Holiday» (vacaciones) es el objeto de «go on», y «August» sin día numérico exige «in»: «go on holiday in August»."
+        },
+        {
+          "type": "speak",
+          "text": "We go on holiday in August.",
+          "es": "Nos vamos de vacaciones en agosto."
+        },
+        {
+          "type": "speak",
+          "text": "I love the snow at Christmas.",
+          "es": "Me encanta la nieve en Navidad."
+        },
+        {
+          "type": "speak",
+          "text": "We always celebrate our anniversary in July.",
+          "es": "Siempre celebramos nuestro aniversario en julio."
+        }
+      ]
     }
   ]
 }

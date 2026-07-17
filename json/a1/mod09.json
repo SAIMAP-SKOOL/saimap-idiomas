@@ -3,238 +3,621 @@
   "module": 9,
   "title": "Quantifiers: Some and Any",
   "subtitle": "Cuantificadores Básicos",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "supermarket", "es": "supermercado" },
-        { "en": "money", "es": "dinero" },
-        { "en": "price", "es": "precio" },
-        { "en": "cheap", "es": "barato" },
-        { "en": "expensive", "es": "caro" }
+      "n": 1,
+      "title": "En la tienda: some y any básico",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "supermarket", "es": "supermercado" },
+            { "en": "shop", "es": "tienda / comprar" },
+            { "en": "store", "es": "tienda / almacén" },
+            { "en": "market", "es": "mercado" },
+            { "en": "money", "es": "dinero" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I have some money.", "I have any money.", "I have a money."],
+          "correct": 0,
+          "hint": "Es una oración afirmativa de hechos.",
+          "explanation": "En oraciones afirmativas se usa «some»: «I have some money». «Money» es incontable, así que tampoco admite «a»."
+        },
+        {
+          "type": "gap",
+          "text": "I have ___ money.",
+          "options": ["some", "any", "a"],
+          "answer": "some",
+          "explanation": "En una declaración afirmativa se usa el cuantificador asertivo «some»: «I have some money»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del comercio",
+          "pairs": [
+            { "en": "supermarket", "es": "supermercado" },
+            { "en": "store", "es": "tienda / almacén" },
+            { "en": "market", "es": "mercado" },
+            { "en": "money", "es": "dinero" },
+            { "en": "cash", "es": "dinero en efectivo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["I don't have some cash.", "I don't have any cash.", "I don't have a cash."],
+          "correct": 1,
+          "hint": "En negativas, «some» cambia de forma.",
+          "explanation": "En oraciones negativas «some» se sustituye obligatoriamente por «any»: «I don't have any cash»."
+        },
+        {
+          "type": "gap",
+          "text": "I don't have ___ cash.",
+          "options": ["some", "any", "no"],
+          "answer": "any",
+          "explanation": "La negación total de la existencia de efectivo exige el cuantificador no asertivo «any». «No» junto a «don't» crearía una doble negación, prohibida en inglés estándar."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el comercio sin repetir",
+          "pairs": [
+            { "en": "shop", "es": "tienda / comprar" },
+            { "en": "store", "es": "tienda / almacén" },
+            { "en": "market", "es": "mercado" },
+            { "en": "money", "es": "dinero" },
+            { "en": "cash", "es": "dinero en efectivo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct for a neutral question?",
+          "options": ["Do you have some money?", "Do you have a money?", "Do you have any money?"],
+          "correct": 2,
+          "hint": "Es una pregunta abierta de información, no un ofrecimiento.",
+          "explanation": "En preguntas de información neutra se usa «any»: «Do you have any money?». «Money» es incontable, así que tampoco admite «a»."
+        },
+        {
+          "type": "gap",
+          "text": "Is there a ___ near here?",
+          "options": ["market", "shop", "store"],
+          "answer": "market",
+          "explanation": "«Market» (mercado) es un lugar al aire libre donde se compran alimentos y otros productos, distinto de «shop» o «store» (tiendas cerradas)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tengo dinero",
+          "direction": "es-en",
+          "tiles": ["I", "don't", "have", "any", "money", "some", "no"],
+          "answer": "I don't have any money",
+          "explanation": "En una oración negativa ordinaria se usa «any», nunca «some». La doble negación («don't... no») es agramatical en inglés."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo algo de dinero en efectivo",
+          "direction": "es-en",
+          "tiles": ["I", "have", "some", "cash", "any", "a"],
+          "answer": "I have some cash",
+          "explanation": "Oración afirmativa: el cuantificador asertivo «some» acompaña al incontable «cash»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hay una tienda aquí",
+          "direction": "es-en",
+          "tiles": ["There", "is", "a", "shop", "here", "any"],
+          "answer": "There is a shop here",
+          "explanation": "«Shop» es contable singular: lleva el artículo «a», no un cuantificador de cantidad indefinida."
+        },
+        {
+          "type": "speak",
+          "text": "I don't have any cash.",
+          "es": "No tengo dinero en efectivo."
+        },
+        {
+          "type": "speak",
+          "text": "There is a supermarket near my house.",
+          "es": "Hay un supermercado cerca de mi casa."
+        },
+        {
+          "type": "speak",
+          "text": "I have some money for the market.",
+          "es": "Tengo algo de dinero para el mercado."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "She completed the transaction without ________ help from the cashier.",
-      "options": ["some", "any", "no"],
-      "correct": 1,
-      "hint": "«Without» introduce por sí sola una polaridad negativa en la frase.",
-      "explanation": "La preposición «without» tiene carácter negativo inherente y anula la aserción, por lo que exige «any». «Some» presupondría que la ayuda existe, y «no» crearía una doble negación inaceptable («without no help»)."
-    },
-    {
-      "type": "gap",
-      "text": "I don't have ___ cash.",
-      "options": ["some", "any", "no"],
-      "answer": "any",
-      "explanation": "La negación total de la existencia de efectivo exige el cuantificador no asertivo «any». «No» junto a «don't» crearía una doble negación, prohibida en inglés estándar."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "No tengo dinero",
-      "direction": "es-en",
-      "tiles": ["I", "don't", "have", "any", "money", "some", "no"],
-      "answer": "I don't have any money",
-      "explanation": "En una oración negativa ordinaria se usa «any», nunca «some». La doble negación («don't... no») es agramatical en inglés."
-    },
-    {
-      "type": "quiz",
-      "q": "You look tired. Would you like ________ tea to help you relax?",
-      "options": ["some", "any", "a"],
-      "correct": 0,
-      "hint": "No es una pregunta neutra: el hablante está ofreciendo algo.",
-      "explanation": "Aunque la frase es interrogativa, funciona como un ofrecimiento de cortesía, y en los ofrecimientos es obligatorio «some». «Any» sonaría distante o frío, y «a» no puede acompañar a «tea», que es incontable."
-    },
-    {
-      "type": "gap",
-      "text": "Would you like ___ water?",
-      "options": ["any", "some", "no"],
-      "answer": "some",
-      "explanation": "Es un ofrecimiento de cortesía: se usa «some» para predisponer al oyente a una respuesta afirmativa, aunque la oración sea interrogativa."
-    },
-    {
-      "type": "speak",
-      "text": "Would you like some coffee?",
-      "es": "¿Te apetecería un poco de café?"
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "buy", "es": "comprar" },
-        { "en": "sell", "es": "vender" },
-        { "en": "pay", "es": "pagar" },
-        { "en": "spend", "es": "gastar" },
-        { "en": "cost", "es": "costar" }
+      "n": 2,
+      "title": "Comprar y vender: any en negativas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "card", "es": "tarjeta" },
+            { "en": "price", "es": "precio" },
+            { "en": "cost", "es": "costo / costar" },
+            { "en": "buy", "es": "comprar" },
+            { "en": "sell", "es": "vender" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["He bought without some money.", "He went without any money.", "He went without no money."],
+          "correct": 1,
+          "hint": "«Without» ya tiene carga negativa por sí sola.",
+          "explanation": "La preposición «without» tiene carácter negativo inherente y exige «any». «Without no money» sería una doble negación agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "He went to the shop without ___ money.",
+          "options": ["some", "any", "a"],
+          "answer": "any",
+          "explanation": "La preposición «without» tiene carga semántica negativa: anula la aserción y fuerza el uso de «any» en lugar de «some»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos del comercio",
+          "pairs": [
+            { "en": "card", "es": "tarjeta" },
+            { "en": "cost", "es": "costo / costar" },
+            { "en": "buy", "es": "comprar" },
+            { "en": "sell", "es": "vender" },
+            { "en": "pay", "es": "pagar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["I don't need any card for this.", "I don't need some card for this.", "I don't need no card for this."],
+          "correct": 0,
+          "hint": "El inglés estándar prohíbe la doble negación.",
+          "explanation": "El verbo negado exige «any»: «I don't need any card». «Some» no encaja en una negativa y «no» junto a «don't» sería doble negación."
+        },
+        {
+          "type": "gap",
+          "text": "I don't have ___ card with me.",
+          "options": ["some", "any", "a"],
+          "answer": "any",
+          "explanation": "Tras un verbo negado, el cuantificador obligatorio es «any»: «I don't have any card with me»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja comercio sin repetir",
+          "pairs": [
+            { "en": "price", "es": "precio" },
+            { "en": "cost", "es": "costo / costar" },
+            { "en": "buy", "es": "comprar" },
+            { "en": "sell", "es": "vender" },
+            { "en": "pay", "es": "pagar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «Voy a pagar en efectivo»?",
+          "options": ["I'm going to cost in cash.", "I'm going to buy in cash.", "I'm going to pay in cash."],
+          "correct": 2,
+          "hint": "Uno de los verbos significa «costar», no «pagar».",
+          "explanation": "«Pay» es el verbo correcto para «pagar»: «I'm going to pay in cash». «Cost» significa «costar» y «buy», «comprar»."
+        },
+        {
+          "type": "gap",
+          "text": "How much does it ___?",
+          "options": ["cost", "costs", "costing"],
+          "answer": "cost",
+          "explanation": "Tras el auxiliar «does» el verbo va en infinitivo sin -s ni -ing: «How much does it cost?»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Voy a vender mi coche",
+          "direction": "es-en",
+          "tiles": ["I", "am", "going", "to", "sell", "my", "car", "buy"],
+          "answer": "I am going to sell my car",
+          "explanation": "«Sell» (vender) es lo opuesto de «buy» (comprar). Estructura de futuro con intención: «be going to + infinitivo»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Cuál es el precio?",
+          "direction": "es-en",
+          "tiles": ["What", "is", "the", "price", "cost", "a"],
+          "answer": "What is the price",
+          "explanation": "«Price» es el sustantivo para «precio»: «What is the price?». «Cost» es más frecuente como verbo («How much does it cost?»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Pagué con tarjeta",
+          "direction": "es-en",
+          "tiles": ["I", "paid", "with", "a", "card", "some"],
+          "answer": "I paid with a card",
+          "explanation": "«Card» es contable singular: lleva el artículo «a», no un cuantificador de cantidad indefinida."
+        },
+        {
+          "type": "speak",
+          "text": "He went to the shop without any money.",
+          "es": "Fue a la tienda sin dinero."
+        },
+        {
+          "type": "speak",
+          "text": "What is the price of this?",
+          "es": "¿Cuál es el precio de esto?"
+        },
+        {
+          "type": "speak",
+          "text": "I want to pay with my card.",
+          "es": "Quiero pagar con mi tarjeta."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "He went to the shop without ___ money.",
-      "options": ["some", "any", "a"],
-      "answer": "any",
-      "explanation": "La preposición «without» tiene carga semántica negativa: anula la aserción y fuerza el uso de «any» en lugar de «some»."
-    },
-    {
-      "type": "quiz",
-      "q": "You don't need a specific key for this door; ________ key will open it.",
-      "options": ["some", "any", "no"],
-      "correct": 1,
-      "hint": "El sentido es «no importa cuál»: elección libre.",
-      "explanation": "En oraciones afirmativas, «any» adquiere el valor de «cualquiera» (libre elección). «Some» significaría «alguna llave concreta», lo que contradice la frase, y «no» diría que ninguna llave la abre."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "¿Quieres un poco de café?",
-      "direction": "es-en",
-      "tiles": ["Would", "you", "like", "some", "coffee", "any", "a"],
-      "answer": "Would you like some coffee",
-      "explanation": "En los ofrecimientos de cortesía se usa siempre «some», nunca «any»: el hablante presupone que el café existe y espera un «sí»."
-    },
-    {
-      "type": "gap",
-      "text": "If you find ___ mistakes, tell me.",
-      "options": ["some", "any", "no"],
-      "answer": "any",
-      "explanation": "Las cláusulas condicionales con «if» son entornos no asertivos: la existencia de los errores está en duda, por lo que se exige «any»."
-    },
-    {
-      "type": "quiz",
-      "q": "I see you are raising your hand. Do you have ________ questions about the lesson?",
-      "options": ["some", "any", "no"],
-      "correct": 0,
-      "hint": "El profesor ya ve la mano levantada: espera un «sí».",
-      "explanation": "El indicio físico (la mano levantada) genera una fuerte expectativa positiva, y en preguntas con expectativa de respuesta afirmativa se usa «some». «Any» valdría solo en una pregunta neutra y abierta."
-    },
-    {
-      "type": "speak",
-      "text": "I don't have any cash.",
-      "es": "No tengo dinero en efectivo."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "customer", "es": "cliente" },
-        { "en": "cashier", "es": "cajero" },
-        { "en": "queue", "es": "cola" },
-        { "en": "receipt", "es": "recibo" },
-        { "en": "change", "es": "cambio" }
+      "n": 3,
+      "title": "Cualquiera: any en afirmativas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "spend", "es": "gastar" },
+            { "en": "cheap", "es": "barato/a" },
+            { "en": "expensive", "es": "caro/a" },
+            { "en": "free", "es": "gratis / libre" },
+            { "en": "bag", "es": "bolsa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You don't need a specific key for this door; ________ key will open it.",
+          "options": ["some", "any", "no"],
+          "correct": 1,
+          "hint": "El sentido es «no importa cuál»: elección libre.",
+          "explanation": "En oraciones afirmativas, «any» adquiere el valor de «cualquiera» (libre elección). «Some» significaría «alguna llave concreta», lo que contradice la frase, y «no» diría que ninguna llave la abre."
+        },
+        {
+          "type": "gap",
+          "text": "You can take ___ bag you want.",
+          "options": ["some", "any", "a"],
+          "answer": "any",
+          "explanation": "En afirmativas, «any» expresa libre elección: «cualquier bolsa que quieras». Es la excepción más evaluada de la regla de polaridad."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más precios y compras",
+          "pairs": [
+            { "en": "cheap", "es": "barato/a" },
+            { "en": "expensive", "es": "caro/a" },
+            { "en": "free", "es": "gratis / libre" },
+            { "en": "bag", "es": "bolsa" },
+            { "en": "basket", "es": "cesta / canasta" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence means «no importa cuál bolsa»?",
+          "options": ["Any bag is fine.", "Some bag is fine.", "No bag is fine."],
+          "correct": 0,
+          "hint": "Se trata de libre elección en afirmativa.",
+          "explanation": "«Any» en afirmativa significa «cualquiera»: «Any bag is fine». «Some bag» apuntaría a una bolsa concreta, y «no bag» negaría que ninguna sirva."
+        },
+        {
+          "type": "gap",
+          "text": "This shop is very ___, everything is cheap.",
+          "options": ["cheap", "expensive", "free"],
+          "answer": "cheap",
+          "explanation": "Si todo es barato, la tienda es «cheap» (barata). «Expensive» sería lo contrario y «free» significa gratis."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja precios y compras sin repetir",
+          "pairs": [
+            { "en": "spend", "es": "gastar" },
+            { "en": "expensive", "es": "caro/a" },
+            { "en": "free", "es": "gratis / libre" },
+            { "en": "basket", "es": "cesta / canasta" },
+            { "en": "price", "es": "precio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about spending money.",
+          "options": ["I don't spend some money on cheap things.", "I spend some money on any cheap things.", "I don't spend any money on expensive things."],
+          "correct": 2,
+          "hint": "Fíjate en el verbo negado y qué cuantificador lo acompaña.",
+          "explanation": "Con verbo negado se usa «any»: «I don't spend any money on expensive things». Las otras opciones mezclan mal «some» con la negación."
+        },
+        {
+          "type": "gap",
+          "text": "I don't want to spend ___ money on that.",
+          "options": ["some", "any", "a"],
+          "answer": "any",
+          "explanation": "Tras un verbo negado, el cuantificador obligatorio es «any»: «I don't want to spend any money»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Cualquier bolsa sirve",
+          "direction": "es-en",
+          "tiles": ["Any", "bag", "is", "fine", "Some", "are"],
+          "answer": "Any bag is fine",
+          "explanation": "«Any» en afirmativa con sustantivo contable singular expresa libre elección: «Any bag is fine»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es muy caro",
+          "direction": "es-en",
+          "tiles": ["It", "is", "very", "expensive", "cheap", "free"],
+          "answer": "It is very expensive",
+          "explanation": "«Expensive» (caro) es el adjetivo opuesto de «cheap» (barato). Ambos son invariables tras la cópula «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No quiero gastar dinero",
+          "direction": "es-en",
+          "tiles": ["I", "don't", "want", "to", "spend", "money", "some"],
+          "answer": "I don't want to spend money",
+          "explanation": "«Spend» (gastar) es el verbo para el dinero. Tras «want» va el infinitivo con «to»: «want to spend»."
+        },
+        {
+          "type": "speak",
+          "text": "You can take any bag you want.",
+          "es": "Puedes coger cualquier bolsa que quieras."
+        },
+        {
+          "type": "speak",
+          "text": "This basket is cheap, but that one is expensive.",
+          "es": "Esta cesta es barata, pero esa es cara."
+        },
+        {
+          "type": "speak",
+          "text": "The market is free to enter.",
+          "es": "La entrada al mercado es gratis."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Tengo algunas bolsas",
-      "direction": "es-en",
-      "tiles": ["I", "have", "some", "bags", "any", "a"],
-      "answer": "I have some bags",
-      "explanation": "Oración afirmativa que declara una cantidad real y existente: se usa el cuantificador asertivo «some» con el sustantivo contable en plural."
-    },
-    {
-      "type": "gap",
-      "text": "There are hardly ___ customers in the queue.",
-      "options": ["some", "any", "no"],
-      "answer": "any",
-      "explanation": "«Hardly» es un adverbio restrictivo con valor negativo: anula la aserción de la frase y exige «any», igual que «never» o «without»."
-    },
-    {
-      "type": "quiz",
-      "q": "I don't like ________ of these books, but the others are excellent.",
-      "options": ["any", "some", "no"],
-      "correct": 1,
-      "hint": "«But the others are excellent» indica que la negación no es total.",
-      "explanation": "La negación es parcial: solo algunos libros no le gustan, los demás sí. Por eso se usa «some» dentro de la negación. «Any» negaría todos los libros, contradiciendo la frase, y «no» crearía doble negación."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "No compró nada",
-      "direction": "es-en",
-      "tiles": ["She", "didn't", "buy", "anything", "something", "nothing"],
-      "answer": "She didn't buy anything",
-      "explanation": "Con verbo negativo se usa el compuesto no asertivo «anything». «Didn't buy nothing» sería una doble negación, agramatical en inglés estándar."
-    },
-    {
-      "type": "gap",
-      "text": "___ man is waiting for you.",
-      "options": ["Some", "Any", "No"],
-      "answer": "Some",
-      "explanation": "«Some» con sustantivo contable en singular significa «un tal», una persona concreta pero desconocida. «Any man» significaría «cualquier hombre», que no encaja aquí."
-    },
-    {
-      "type": "speak",
-      "text": "You can take any bus from this station.",
-      "es": "Puedes tomar cualquier autobús desde esta estación."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "bag", "es": "bolsa" },
-        { "en": "basket", "es": "cesta" },
-        { "en": "trolley", "es": "carrito de la compra" },
-        { "en": "shelf", "es": "estante" },
-        { "en": "offer", "es": "oferta" }
+      "n": 4,
+      "title": "Expectativa positiva: hardly any, some + singular",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "trolley", "es": "carrito de la compra" },
+            { "en": "customer", "es": "cliente" },
+            { "en": "seller", "es": "vendedor/a" },
+            { "en": "cashier", "es": "cajero" },
+            { "en": "queue", "es": "cola" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I see you are raising your hand. Do you have ________ questions about the lesson?",
+          "options": ["any", "some", "no"],
+          "correct": 1,
+          "hint": "El profesor ya ve la mano levantada: espera un «sí».",
+          "explanation": "El indicio físico (la mano levantada) genera una fuerte expectativa positiva, y en preguntas con expectativa de respuesta afirmativa se usa «some». «Any» valdría solo en una pregunta neutra y abierta."
+        },
+        {
+          "type": "gap",
+          "text": "There are hardly ___ customers in the queue.",
+          "options": ["some", "any", "no"],
+          "answer": "any",
+          "explanation": "«Hardly» es un adverbio restrictivo con valor negativo: anula la aserción de la frase y exige «any», igual que «never» o «without»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más gente de la tienda",
+          "pairs": [
+            { "en": "customer", "es": "cliente" },
+            { "en": "seller", "es": "vendedor/a" },
+            { "en": "cashier", "es": "cajero" },
+            { "en": "queue", "es": "cola" },
+            { "en": "receipt", "es": "recibo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["There are hardly any customers.", "There are hardly some customers.", "There are hardly no customers."],
+          "correct": 0,
+          "hint": "«Hardly» ya introduce una carga negativa.",
+          "explanation": "«Hardly» anula la aserción y exige «any»: «There are hardly any customers». Las otras opciones mezclan mal «some» o «no» con «hardly»."
+        },
+        {
+          "type": "gap",
+          "text": "___ man is waiting for you.",
+          "options": ["Some", "Any", "No"],
+          "answer": "Some",
+          "explanation": "«Some» con sustantivo contable en singular significa «un tal», una persona concreta pero desconocida. «Any man» significaría «cualquier hombre», que no encaja aquí."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja tienda y comercio sin repetir",
+          "pairs": [
+            { "en": "customer", "es": "cliente" },
+            { "en": "cashier", "es": "cajero" },
+            { "en": "queue", "es": "cola" },
+            { "en": "price", "es": "precio" },
+            { "en": "bag", "es": "bolsa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A man calls but you don't know him. How do you describe it?",
+          "options": ["Any man called you.", "No man called you.", "Some man called you."],
+          "correct": 2,
+          "hint": "Se refiere a una persona concreta pero desconocida.",
+          "explanation": "«Some» con singular contable expresa «un tal»: «Some man called you». «Any man» sería «cualquier hombre» y «No man» negaría que alguien llamara."
+        },
+        {
+          "type": "gap",
+          "text": "Do you have ___ questions?",
+          "options": ["some", "any", "no"],
+          "answer": "some",
+          "explanation": "Cuando el hablante ya presupone una respuesta afirmativa (por ejemplo, ve indicios), usa «some» aunque la frase sea interrogativa."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo algunas bolsas",
+          "direction": "es-en",
+          "tiles": ["I", "have", "some", "bags", "any", "a"],
+          "answer": "I have some bags",
+          "explanation": "Oración afirmativa que declara una cantidad real y existente: se usa el cuantificador asertivo «some» con el sustantivo contable en plural."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Apenas hay clientes",
+          "direction": "es-en",
+          "tiles": ["There", "are", "hardly", "any", "customers", "some"],
+          "answer": "There are hardly any customers",
+          "explanation": "«Hardly» tiene valor negativo restrictivo y exige «any», igual que «never» o «without»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesito un recibo",
+          "direction": "es-en",
+          "tiles": ["I", "need", "a", "receipt", "some", "any"],
+          "answer": "I need a receipt",
+          "explanation": "«Receipt» es contable singular: lleva el artículo «a», no un cuantificador de cantidad indefinida."
+        },
+        {
+          "type": "speak",
+          "text": "There are hardly any customers.",
+          "es": "Apenas hay clientes."
+        },
+        {
+          "type": "speak",
+          "text": "The cashier is waiting in the queue.",
+          "es": "El cajero está esperando en la cola."
+        },
+        {
+          "type": "speak",
+          "text": "Some customer left this bag here.",
+          "es": "Un tal cliente dejó esta bolsa aquí."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which sentence is grammatically correct?",
-      "options": ["I don't need no receipt.", "I don't need not receipt.", "I don't need any receipt."],
-      "correct": 2,
-      "hint": "El inglés estándar prohíbe negar dos veces en la misma frase.",
-      "explanation": "El inglés prohíbe la doble negación: con el verbo negado se usa «any» («I don't need any receipt»). Las otras opciones combinan dos negaciones («don't» + «no»/«not»), lo cual es agramatical."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "El supermercado está abierto",
-      "direction": "es-en",
-      "tiles": ["The", "supermarket", "is", "open", "are", "a"],
-      "answer": "The supermarket is open",
-      "explanation": "Oración copulativa simple: sujeto singular «the supermarket» + «is» + adjetivo «open» (abierto), vocabulario del área comercial del módulo."
-    },
-    {
-      "type": "gap",
-      "text": "You can take ___ bus from this station.",
-      "options": ["some", "any", "no"],
-      "answer": "any",
-      "explanation": "En afirmativas, «any» expresa libre elección: «cualquier autobús sirve, no importa cuál». Es la excepción más evaluada de la regla de polaridad."
-    },
-    {
-      "type": "quiz",
-      "q": "How do you say «Cualquier tarjeta sirve aquí» in English?",
-      "options": ["Some card works here.", "No card works here.", "Any card works here."],
-      "correct": 2,
-      "hint": "«Cualquiera» = no importa cuál: elección libre en afirmativa.",
-      "explanation": "El valor de «cualquiera» en oraciones afirmativas recae en «any». «Some card» significaría «alguna tarjeta concreta», y «no card» diría que ninguna tarjeta funciona."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "¿Tiene alguna pregunta?",
-      "direction": "es-en",
-      "tiles": ["Do", "you", "have", "any", "questions", "some"],
-      "answer": "Do you have any questions",
-      "explanation": "Pregunta informativa neutra, sin presuponer la respuesta: exige «any». Con «some» implicaría que el hablante espera un «sí»."
-    },
-    {
-      "type": "gap",
-      "text": "I didn't see ___ at the market.",
-      "options": ["anyone", "someone", "no one"],
-      "answer": "anyone",
-      "explanation": "Con verbo negativo se usa el compuesto no asertivo «anyone». «No one» requeriría verbo afirmativo («I saw no one») y «someone» es solo para afirmativas."
-    },
-    {
-      "type": "speak",
-      "text": "There are hardly any customers.",
-      "es": "Apenas hay clientes."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Cualquier tarjeta funciona aquí",
-      "direction": "es-en",
-      "tiles": ["Any", "card", "works", "here", "Some", "work"],
-      "answer": "Any card works here",
-      "explanation": "«Any» en afirmativa significa «cualquiera» (libre elección) y va con sustantivo contable singular; el verbo lleva la «-s» de tercera persona."
+      "n": 5,
+      "title": "Compuestos: someone, anything, anywhere",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "change", "es": "cambio / vuelta" },
+            { "en": "offer", "es": "oferta / ofrecer" },
+            { "en": "sale", "es": "rebaja / venta" },
+            { "en": "list", "es": "lista" },
+            { "en": "shelf", "es": "estante" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["I don't need no receipt.", "I don't need any receipt.", "I don't need not receipt."],
+          "correct": 1,
+          "hint": "El inglés estándar prohíbe negar dos veces en la misma frase.",
+          "explanation": "El inglés prohíbe la doble negación: con el verbo negado se usa «any» («I don't need any receipt»). Las otras opciones combinan dos negaciones («don't» + «no»/«not»), lo cual es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "I didn't see ___ at the market.",
+          "options": ["anyone", "someone", "no one"],
+          "answer": "anyone",
+          "explanation": "Con verbo negativo se usa el compuesto no asertivo «anyone». «No one» requeriría verbo afirmativo («I saw no one») y «someone» es solo para afirmativas."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de la tienda",
+          "pairs": [
+            { "en": "offer", "es": "oferta / ofrecer" },
+            { "en": "sale", "es": "rebaja / venta" },
+            { "en": "list", "es": "lista" },
+            { "en": "shelf", "es": "estante" },
+            { "en": "open", "es": "abierto / abrir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «Cualquier tarjeta sirve aquí»?",
+          "options": ["Any card works here.", "Some card works here.", "No card works here."],
+          "correct": 0,
+          "hint": "«Cualquiera» = no importa cuál: elección libre en afirmativa.",
+          "explanation": "El valor de «cualquiera» en oraciones afirmativas recae en «any». «Some card» significaría «alguna tarjeta concreta», y «no card» diría que ninguna tarjeta funciona."
+        },
+        {
+          "type": "gap",
+          "text": "She didn't buy ___.",
+          "options": ["anything", "something", "nothing"],
+          "answer": "anything",
+          "explanation": "Con verbo negativo se usa el compuesto no asertivo «anything». «Didn't buy nothing» sería una doble negación, agramatical en inglés estándar."
+        },
+        {
+          "type": "match",
+          "prompt": "Repaso final: mezcla de todo el módulo",
+          "pairs": [
+            { "en": "offer", "es": "oferta / ofrecer" },
+            { "en": "shelf", "es": "estante" },
+            { "en": "customer", "es": "cliente" },
+            { "en": "cheap", "es": "barato/a" },
+            { "en": "money", "es": "dinero" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly uses a compound of \"any\"?",
+          "options": ["I saw somebody at the shelf.", "I saw nobody at the shelf.", "I didn't see anybody at the shelf."],
+          "correct": 2,
+          "hint": "Busca el verbo negado junto al compuesto no asertivo.",
+          "explanation": "Con verbo negado se usa el compuesto no asertivo «anybody»: «I didn't see anybody». «Nobody» exigiría verbo afirmativo."
+        },
+        {
+          "type": "gap",
+          "text": "The shop has a big ___ this week, everything is cheaper.",
+          "options": ["sale", "shelf", "list"],
+          "answer": "sale",
+          "explanation": "«Sale» (rebaja/venta especial) es lo que hace que los precios bajen. «Shelf» es el estante y «list» es la lista."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No compró nada",
+          "direction": "es-en",
+          "tiles": ["She", "didn't", "buy", "anything", "something", "nothing"],
+          "answer": "She didn't buy anything",
+          "explanation": "Con verbo negativo se usa el compuesto no asertivo «anything». «Didn't buy nothing» sería una doble negación, agramatical en inglés estándar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Cualquier tarjeta funciona aquí",
+          "direction": "es-en",
+          "tiles": ["Any", "card", "works", "here", "Some", "work"],
+          "answer": "Any card works here",
+          "explanation": "«Any» en afirmativa significa «cualquiera» (libre elección) y va con sustantivo contable singular; el verbo lleva la «-s» de tercera persona."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Tiene alguna pregunta?",
+          "direction": "es-en",
+          "tiles": ["Do", "you", "have", "any", "questions", "some"],
+          "answer": "Do you have any questions",
+          "explanation": "Pregunta informativa neutra, sin presuponer la respuesta: exige «any». Con «some» implicaría que el hablante espera un «sí»."
+        },
+        {
+          "type": "speak",
+          "text": "You can take any bus from this station.",
+          "es": "Puedes tomar cualquier autobús desde esta estación."
+        },
+        {
+          "type": "speak",
+          "text": "I didn't buy anything on the shelf.",
+          "es": "No compré nada en el estante."
+        },
+        {
+          "type": "speak",
+          "text": "Is there a good offer or sale today?",
+          "es": "¿Hay una buena oferta o rebaja hoy?"
+        }
+      ]
     }
   ]
 }

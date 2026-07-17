@@ -3,246 +3,636 @@
   "module": 14,
   "title": "Possessives: Adjectives and Pronouns",
   "subtitle": "Posesivos",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada adjetivo posesivo con su traducción",
-      "pairs": [
-        { "en": "my", "es": "mi" },
-        { "en": "your", "es": "tu" },
-        { "en": "his", "es": "su (de él)" },
-        { "en": "her", "es": "su (de ella)" },
-        { "en": "our", "es": "nuestro" }
+      "n": 1,
+      "title": "Adjetivos posesivos: my, your, our, their",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada adjetivo posesivo con su traducción",
+          "pairs": [
+            { "en": "my", "es": "mi" },
+            { "en": "your", "es": "tu" },
+            { "en": "our", "es": "nuestro" },
+            { "en": "their", "es": "su (de ellos)" },
+            { "en": "book", "es": "libro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["This car is my.", "This is my car.", "This is the my car."],
+          "correct": 1,
+          "hint": "El adjetivo posesivo nunca puede ir solo al final.",
+          "explanation": "«My» es un adjetivo posesivo y siempre debe preceder a un sustantivo: «This is my car». «This car is my» lo deja sin sustantivo y «the my car» acumula artículo y posesivo, algo prohibido en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "___ computer is slow.",
+          "options": ["My", "The my", "Mine"],
+          "answer": "My",
+          "explanation": "El inglés prohíbe acumular artículo y posesivo («the my computer»). «Mine» es pronombre y no puede modificar a un sustantivo: se necesita el adjetivo «my»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi libro es azul",
+          "direction": "es-en",
+          "tiles": ["My", "book", "is", "blue", "mine", "the"],
+          "answer": "My book is blue",
+          "explanation": "El adjetivo posesivo «my» acompaña siempre a un sustantivo y nunca lleva artículo delante: «the my book» es agramatical en inglés."
+        },
+        {
+          "type": "speak",
+          "text": "This is my new car.",
+          "es": "Este es mi coche nuevo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más adjetivos posesivos",
+          "pairs": [
+            { "en": "your", "es": "tu" },
+            { "en": "our", "es": "nuestro" },
+            { "en": "their", "es": "su (de ellos)" },
+            { "en": "book", "es": "libro" },
+            { "en": "car", "es": "coche" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «tu libro» in English?",
+          "options": ["you book", "your book", "yours book"],
+          "correct": 1,
+          "hint": "Necesitas el adjetivo posesivo, no el pronombre sujeto ni el posesivo autónomo.",
+          "explanation": "«Your» es el adjetivo posesivo de segunda persona y acompaña directamente al sustantivo «book». «You book» usa el pronombre sujeto y «yours book» combina un pronombre posesivo con un sustantivo, algo agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "___ book is on the table. (tú)",
+          "options": ["Your", "You", "Yours"],
+          "answer": "Your",
+          "hint": "Necesitas el adjetivo posesivo pegado al sustantivo «book».",
+          "explanation": "«Your» es el adjetivo posesivo de segunda persona y debe preceder al sustantivo «book». «You» es el pronombre sujeto y «yours» es el pronombre posesivo autónomo, que no puede modificar a un sustantivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nuestra casa es grande",
+          "direction": "es-en",
+          "tiles": ["Our", "house", "is", "big", "ours", "the"],
+          "answer": "Our house is big",
+          "explanation": "El adjetivo posesivo «our» acompaña al sustantivo «house». «Ours» solo se usa cuando el sustantivo desaparece («the house is ours»)."
+        },
+        {
+          "type": "speak",
+          "text": "This is your book.",
+          "es": "Este es tu libro."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja adjetivos posesivos sin repetir",
+          "pairs": [
+            { "en": "my", "es": "mi" },
+            { "en": "our", "es": "nuestro" },
+            { "en": "their", "es": "su (de ellos)" },
+            { "en": "book", "es": "libro" },
+            { "en": "car", "es": "coche" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct for a group project?",
+          "options": ["This is our car.", "This is ours car.", "This is a our car."],
+          "correct": 0,
+          "hint": "El posesivo va pegado al sustantivo, sin artículo delante.",
+          "explanation": "«Our» es el adjetivo posesivo de primera persona plural y precede directamente al sustantivo: «our car». «Ours car» combina el pronombre con el sustantivo, y «a our car» acumula artículo y posesivo."
+        },
+        {
+          "type": "gap",
+          "text": "This is ___ car, not mine. (de ellos)",
+          "options": ["their", "they", "theirs"],
+          "answer": "their",
+          "hint": "Compara con «mine»: necesitas la forma que acompaña al sustantivo, no la autónoma.",
+          "explanation": "«Their» es el adjetivo posesivo de tercera persona plural y acompaña a «car». «They» es el pronombre sujeto y «theirs» es el pronombre posesivo autónomo, que exigiría omitir «car»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este es tu coche",
+          "direction": "es-en",
+          "tiles": ["This", "is", "your", "car", "yours", "the"],
+          "answer": "This is your car",
+          "explanation": "El adjetivo posesivo «your» acompaña directamente al sustantivo «car». «Yours» sería el pronombre autónomo, que exigiría eliminar «car» de la frase."
+        },
+        {
+          "type": "speak",
+          "text": "This is our car.",
+          "es": "Este es nuestro coche."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the sentence that correctly uses a possessive pronoun:",
-      "options": ["This classroom is our.", "This classroom is ours.", "This classroom is of ours."],
-      "correct": 1,
-      "hint": "Sin sustantivo detrás, necesitas la forma autónoma con «-s».",
-      "explanation": "«Ours» es el pronombre posesivo autónomo y puede cerrar la oración. «Our» es adjetivo posesivo y exige un sustantivo detrás («our classroom»), y «of ours» es redundante en esta posición copulativa."
-    },
-    {
-      "type": "gap",
-      "text": "The dog hurt ___ leg.",
-      "options": ["its", "it's", "his"],
-      "answer": "its",
-      "explanation": "Se necesita el adjetivo posesivo neutro «its» (sin apóstrofe). «It's» es la contracción de «it is», y «his» solo vale para poseedores masculinos humanos."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Mi libro es azul",
-      "direction": "es-en",
-      "tiles": ["My", "book", "is", "blue", "mine", "the"],
-      "answer": "My book is blue",
-      "explanation": "El adjetivo posesivo «my» acompaña siempre a un sustantivo y nunca lleva artículo delante: «the my book» es agramatical en inglés."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete the sentence: \"David is playing with __________ dog in the garden.\"",
-      "options": ["her", "its", "his"],
-      "correct": 2,
-      "hint": "El posesivo concuerda con el poseedor (David), no con el perro.",
-      "explanation": "El poseedor es David (masculino singular), así que el adjetivo posesivo es «his», sin importar el género del perro. «Her» apuntaría a una poseedora femenina e «its» a un poseedor neutro."
-    },
-    {
-      "type": "gap",
-      "text": "___ computer is slow.",
-      "options": ["My", "The my", "Mine"],
-      "answer": "My",
-      "explanation": "El inglés prohíbe acumular artículo y posesivo («the my computer»). «Mine» es pronombre y no puede modificar a un sustantivo: se necesita el adjetivo «my»."
-    },
-    {
-      "type": "speak",
-      "text": "This is my new car.",
-      "es": "Este es mi coche nuevo."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada posesivo con su traducción",
-      "pairs": [
-        { "en": "their", "es": "su (de ellos)" },
-        { "en": "its", "es": "su (de ello, neutro)" },
-        { "en": "mine", "es": "mío" },
-        { "en": "yours", "es": "tuyo" },
-        { "en": "hers", "es": "suya (de ella)" }
+      "n": 2,
+      "title": "Su de él, su de ella: his y her",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada adjetivo posesivo con su traducción",
+          "pairs": [
+            { "en": "my", "es": "mi" },
+            { "en": "your", "es": "tu" },
+            { "en": "his", "es": "su (de él)" },
+            { "en": "her", "es": "su (de ella)" },
+            { "en": "our", "es": "nuestro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about Juan's mother.",
+          "options": ["Her mother is nice.", "His mother is nice.", "He mother is nice."],
+          "correct": 1,
+          "hint": "El poseedor es Juan, un hombre.",
+          "explanation": "El posesivo concuerda con el poseedor (Juan, masculino), así que corresponde «his mother», sin importar que «mother» sea femenino. «Her» apuntaría a una poseedora mujer y «he mother» omite el posesivo por completo."
+        },
+        {
+          "type": "gap",
+          "text": "Ana loves ___ husband.",
+          "options": ["her", "his", "its"],
+          "answer": "her",
+          "explanation": "El género del posesivo lo decide el poseedor: Ana es mujer, así que «her husband». «His» sería el error clásico de concordar con el esposo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja los posesivos de tercera persona y familia",
+          "pairs": [
+            { "en": "his", "es": "su (de él)" },
+            { "en": "her", "es": "su (de ella)" },
+            { "en": "mother", "es": "madre" },
+            { "en": "father", "es": "padre" },
+            { "en": "husband", "es": "esposo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «sus coches» when talking about María?",
+          "options": ["His cars.", "Her cars.", "Its cars."],
+          "correct": 1,
+          "hint": "María es la poseedora, y es mujer.",
+          "explanation": "El género del posesivo lo decide la poseedora: María es mujer, así que «her cars». «His» sería el error de concordar con un poseedor masculino inexistente, e «its» es para poseedores neutros."
+        },
+        {
+          "type": "gap",
+          "text": "This is ___ father. (de Juan)",
+          "options": ["his", "her", "its"],
+          "answer": "his",
+          "hint": "El poseedor, Juan, es un hombre.",
+          "explanation": "El poseedor es Juan (masculino), así que el adjetivo posesivo correcto es «his», independientemente de que «father» sea también masculino: la concordancia depende del poseedor, no del objeto poseído."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella ama a su padre",
+          "direction": "es-en",
+          "tiles": ["She", "loves", "her", "father", "his", "love"],
+          "answer": "She loves her father",
+          "explanation": "El posesivo concuerda con la poseedora («she» → «her»), no con el objeto poseído: aunque «father» sea masculino, se dice «her father»."
+        },
+        {
+          "type": "speak",
+          "text": "This is his father.",
+          "es": "Este es su padre (de él)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de familia y posesivos",
+          "pairs": [
+            { "en": "her", "es": "su (de ella)" },
+            { "en": "mother", "es": "madre" },
+            { "en": "father", "es": "padre" },
+            { "en": "husband", "es": "esposo" },
+            { "en": "bag", "es": "bolso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["This is his bag.", "This is he bag.", "This is him bag."],
+          "correct": 0,
+          "hint": "Necesitas el adjetivo posesivo, no el pronombre sujeto ni el objeto.",
+          "explanation": "«His» es el adjetivo posesivo de tercera persona masculina y acompaña directamente a «bag». «He» es pronombre sujeto y «him» es pronombre objeto: ninguno de los dos puede modificar a un sustantivo."
+        },
+        {
+          "type": "gap",
+          "text": "This is ___ bag. (de María)",
+          "options": ["her", "his", "their"],
+          "answer": "her",
+          "hint": "La poseedora es una sola mujer.",
+          "explanation": "María es la poseedora (femenina singular), así que corresponde «her bag». «His» sería para un poseedor masculino y «their» exigiría varios poseedores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este es su padre (de él)",
+          "direction": "es-en",
+          "tiles": ["This", "is", "his", "father", "her", "the"],
+          "answer": "This is his father",
+          "explanation": "El poseedor es masculino, así que se usa «his father». «Her» sería incorrecto porque apuntaría a una poseedora mujer."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta es su madre (de ella)",
+          "direction": "es-en",
+          "tiles": ["This", "is", "her", "mother", "his", "the"],
+          "answer": "This is her mother",
+          "explanation": "La poseedora es una mujer, así que se usa «her mother». «His» sería el error clásico de concordar con un poseedor masculino."
+        },
+        {
+          "type": "speak",
+          "text": "This is her mother.",
+          "es": "Esta es su madre (de ella)."
+        },
+        {
+          "type": "speak",
+          "text": "She loves her husband.",
+          "es": "Ella ama a su esposo."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "This phone is ___.",
-      "options": ["mine", "my", "me"],
-      "answer": "mine",
-      "explanation": "Al final de la oración, sin sustantivo posterior, se usa el pronombre posesivo autónomo «mine». «This phone is my» es uno de los errores más penalizados en A1."
-    },
-    {
-      "type": "quiz",
-      "q": "Identify the grammatically correct sentence:",
-      "options": [
-        "The dog wags its tail when it is happy.",
-        "The dog wags it's tail when its happy.",
-        "The dog wags it's tail when it's sad and happy."
-      ],
-      "correct": 0,
-      "hint": "Prueba a expandir cada forma a «it is»: si no tiene sentido, va sin apóstrofe.",
-      "explanation": "Ante «tail» se requiere el posesivo «its» (sin apóstrofe), y «it is happy» es la forma verbal correcta. Las otras opciones usan la contracción «it's» donde toca el posesivo, o el posesivo donde toca el verbo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Este teléfono es mío",
-      "direction": "es-en",
-      "tiles": ["This", "phone", "is", "mine", "my", "me"],
-      "answer": "This phone is mine",
-      "explanation": "Sin sustantivo detrás se usa el pronombre posesivo «mine», que funciona como sintagma nominal completo y sustituye a «my phone»."
-    },
-    {
-      "type": "gap",
-      "text": "I need to wash ___ hair.",
-      "options": ["my", "the", "a"],
-      "answer": "my",
-      "explanation": "Con partes del cuerpo, el inglés exige el adjetivo posesivo donde el español usa artículo: «I wash my hair», no «the hair» (calco de «me lavo el pelo»)."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence displays a correct structure regarding personal belongings in English?",
-      "options": ["He put his hand in the pocket.", "He put his hand in his pocket.", "He put the hand in his pocket."],
-      "correct": 1,
-      "hint": "Tanto la mano como el bolsillo son pertenencias del sujeto.",
-      "explanation": "En inglés, tanto «his hand» como «his pocket» requieren el posesivo, por ser partes del cuerpo y pertenencias íntimas. Las otras opciones usan el artículo «the», un calco del español."
-    },
-    {
-      "type": "speak",
-      "text": "The dog wags its tail.",
-      "es": "El perro mueve su cola."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "ours", "es": "nuestro (pronombre)" },
-        { "en": "theirs", "es": "suyo (de ellos)" },
-        { "en": "book", "es": "libro" },
-        { "en": "car", "es": "coche" },
-        { "en": "dog", "es": "perro" }
+      "n": 3,
+      "title": "El cuerpo y las pertenencias personales",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada parte del cuerpo o prenda con su traducción",
+          "pairs": [
+            { "en": "hand", "es": "mano" },
+            { "en": "pocket", "es": "bolsillo" },
+            { "en": "hair", "es": "pelo" },
+            { "en": "coat", "es": "abrigo" },
+            { "en": "leg", "es": "pierna" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence displays a correct structure regarding personal belongings in English?",
+          "options": ["He put his hand in the pocket.", "He put his hand in his pocket.", "He put the hand in his pocket."],
+          "correct": 1,
+          "hint": "Tanto la mano como el bolsillo son pertenencias del sujeto.",
+          "explanation": "En inglés, tanto «his hand» como «his pocket» requieren el posesivo, por ser partes del cuerpo y pertenencias íntimas. Las otras opciones usan el artículo «the», un calco del español."
+        },
+        {
+          "type": "gap",
+          "text": "I need to wash ___ hair.",
+          "options": ["my", "the", "a"],
+          "answer": "my",
+          "explanation": "El inglés exige el adjetivo posesivo donde el español usa artículo: «I wash my hair», no «the hair» (calco de «me lavo el pelo»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me lavo las manos",
+          "direction": "es-en",
+          "tiles": ["I", "wash", "my", "hands", "the", "me"],
+          "answer": "I wash my hands",
+          "explanation": "El inglés exige el posesivo con las partes del cuerpo: «my hands». El calco del español «I wash the hands» es agramatical."
+        },
+        {
+          "type": "speak",
+          "text": "She took off her coat.",
+          "es": "Ella se quitó el abrigo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más partes del cuerpo y prendas",
+          "pairs": [
+            { "en": "pocket", "es": "bolsillo" },
+            { "en": "hair", "es": "pelo" },
+            { "en": "coat", "es": "abrigo" },
+            { "en": "leg", "es": "pierna" },
+            { "en": "face", "es": "cara" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I wash the face.", "I wash my face.", "I wash a face."],
+          "correct": 1,
+          "hint": "Las partes del cuerpo exigen posesivo, no artículo.",
+          "explanation": "El inglés exige el adjetivo posesivo con partes del cuerpo: «I wash my face». «The face» y «a face» son calcos del español que resultan agramaticales en este contexto."
+        },
+        {
+          "type": "gap",
+          "text": "She put on ___ coat. (ella)",
+          "options": ["her", "his", "the"],
+          "answer": "her",
+          "hint": "Recuerda: «She took off her coat» sigue el mismo patrón.",
+          "explanation": "Las prendas de vestir de uso personal exigen el adjetivo posesivo: «her coat». «The coat» sería el calco típico del español «se puso el abrigo»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me duele la mano",
+          "direction": "es-en",
+          "tiles": ["My", "hand", "hurts", "the", "I"],
+          "answer": "My hand hurts",
+          "explanation": "«My hand» es obligatorio: el inglés exige el posesivo con partes del cuerpo donde el español usa artículo («me duele LA mano»)."
+        },
+        {
+          "type": "speak",
+          "text": "My hair is wet.",
+          "es": "Mi pelo está mojado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja partes del cuerpo sin repetir",
+          "pairs": [
+            { "en": "hand", "es": "mano" },
+            { "en": "hair", "es": "pelo" },
+            { "en": "coat", "es": "abrigo" },
+            { "en": "leg", "es": "pierna" },
+            { "en": "face", "es": "cara" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete correctly:",
+          "options": ["He hurt the leg.", "He hurt his leg.", "He hurt him leg."],
+          "correct": 1,
+          "hint": "Compara con «his hand» y «his pocket».",
+          "explanation": "«His leg» es correcto porque las partes del cuerpo requieren el adjetivo posesivo del poseedor. «The leg» es un calco del español y «him leg» usa el pronombre objeto, que no puede modificar a un sustantivo."
+        },
+        {
+          "type": "gap",
+          "text": "I broke ___ leg. (yo)",
+          "options": ["my", "the", "a"],
+          "answer": "my",
+          "hint": "Las partes del cuerpo nunca llevan artículo en este tipo de frase.",
+          "explanation": "«My leg» es obligatorio porque las partes del cuerpo requieren posesivo. «The leg» y «a leg» son calcos agramaticales del español."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Su cara está sucia (de él)",
+          "direction": "es-en",
+          "tiles": ["His", "face", "is", "dirty", "the"],
+          "answer": "His face is dirty",
+          "explanation": "El poseedor es masculino, así que «his face». Usar «the face» sería un calco directo del español."
+        },
+        {
+          "type": "speak",
+          "text": "She put on her coat.",
+          "es": "Ella se puso el abrigo."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Ella ama a su padre",
-      "direction": "es-en",
-      "tiles": ["She", "loves", "her", "father", "his", "love"],
-      "answer": "She loves her father",
-      "explanation": "El posesivo concuerda con la poseedora («she» → «her»), no con el objeto poseído: aunque «father» sea masculino, se dice «her father»."
-    },
-    {
-      "type": "gap",
-      "text": "Ana loves ___ husband.",
-      "options": ["her", "his", "its"],
-      "answer": "her",
-      "explanation": "El género del posesivo lo decide el poseedor: Ana es mujer, así que «her husband». «His» sería el error clásico de concordar con el esposo."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the option that avoids duplicate determination:",
-      "options": [
-        "My book is on the table, and yours book is on the desk.",
-        "The my book is on the table, and yours is on the desk.",
-        "My book is on the table, and yours is on the desk."
-      ],
-      "correct": 2,
-      "hint": "Ni «artículo + posesivo» ni «pronombre posesivo + sustantivo» son válidos.",
-      "explanation": "Lo correcto es adjetivo con sustantivo («my book») y pronombre solo («yours»). «Yours book» combina pronombre con sustantivo y «the my book» acumula artículo y posesivo: ambas estructuras son agramaticales."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "El perro come su comida",
-      "direction": "es-en",
-      "tiles": ["The", "dog", "eats", "its", "food", "it's", "his"],
-      "answer": "The dog eats its food",
-      "explanation": "Para un poseedor neutro (animal) se usa «its» sin apóstrofe. «It's» es la contracción de «it is», nunca un posesivo."
-    },
-    {
-      "type": "gap",
-      "text": "They live in ___ house.",
-      "options": ["their", "theirs", "his"],
-      "answer": "their",
-      "explanation": "Con sustantivo detrás se necesita el adjetivo «their» (tercera persona del plural). «Theirs» es el pronombre autónomo y no puede modificar a «house»."
-    },
-    {
-      "type": "speak",
-      "text": "She took off her coat.",
-      "es": "Ella se quitó el abrigo."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "tail", "es": "cola" },
-        { "en": "hand", "es": "mano" },
-        { "en": "pocket", "es": "bolsillo" },
-        { "en": "hair", "es": "pelo" },
-        { "en": "coat", "es": "abrigo" }
+      "n": 4,
+      "title": "Its vs it's: la trampa homófona",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "tail", "es": "cola" },
+            { "en": "hand", "es": "mano" },
+            { "en": "pocket", "es": "bolsillo" },
+            { "en": "hair", "es": "pelo" },
+            { "en": "coat", "es": "abrigo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the sentence: \"David is playing with __________ dog in the garden.\"",
+          "options": ["her", "its", "his"],
+          "correct": 2,
+          "hint": "El posesivo concuerda con el poseedor (David), no con el perro.",
+          "explanation": "El poseedor es David (masculino singular), así que el adjetivo posesivo es «his», sin importar el género del perro. «Her» apuntaría a una poseedora femenina e «its» a un poseedor neutro."
+        },
+        {
+          "type": "gap",
+          "text": "The dog hurt ___ leg.",
+          "options": ["its", "it's", "his"],
+          "answer": "its",
+          "explanation": "Se necesita el adjetivo posesivo neutro «its» (sin apóstrofe). «It's» es la contracción de «it is», y «his» solo vale para poseedores masculinos humanos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El perro come su comida",
+          "direction": "es-en",
+          "tiles": ["The", "dog", "eats", "its", "food", "it's", "his"],
+          "answer": "The dog eats its food",
+          "explanation": "Para un poseedor neutro (animal) se usa «its» sin apóstrofe. «It's» es la contracción de «it is», nunca un posesivo."
+        },
+        {
+          "type": "speak",
+          "text": "The dog wags its tail.",
+          "es": "El perro mueve su cola."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra sobre el perro y la ciudad con su traducción",
+          "pairs": [
+            { "en": "its", "es": "su (de ello, neutro)" },
+            { "en": "dog", "es": "perro" },
+            { "en": "tail", "es": "cola" },
+            { "en": "food", "es": "comida" },
+            { "en": "city", "es": "ciudad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Identify the grammatically correct sentence:",
+          "options": [
+            "The dog wags its tail when it is happy.",
+            "The dog wags it's tail when its happy.",
+            "The dog wags it's tail when it's sad and happy."
+          ],
+          "correct": 0,
+          "hint": "Prueba a expandir cada forma a «it is»: si no tiene sentido, va sin apóstrofe.",
+          "explanation": "Ante «tail» se requiere el posesivo «its» (sin apóstrofe), y «it is happy» es la forma verbal correcta. Las otras opciones usan la contracción «it's» donde toca el posesivo, o el posesivo donde toca el verbo."
+        },
+        {
+          "type": "gap",
+          "text": "The city is famous for ___ museums.",
+          "options": ["its", "it's", "their"],
+          "answer": "its",
+          "explanation": "La ciudad es un poseedor neutro singular: «its museums». «It's» es contracción verbal y «their» requeriría un poseedor plural."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El perro persigue su cola",
+          "direction": "es-en",
+          "tiles": ["The", "dog", "chases", "its", "tail", "it's", "his"],
+          "answer": "The dog chases its tail",
+          "explanation": "El perro es un poseedor neutro singular, así que requiere «its» sin apóstrofe. «It's» sería la contracción de «it is», que no tiene sentido aquí."
+        },
+        {
+          "type": "speak",
+          "text": "The city is famous for its museums.",
+          "es": "La ciudad es famosa por sus museos."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más vocabulario neutro",
+          "pairs": [
+            { "en": "dog", "es": "perro" },
+            { "en": "tail", "es": "cola" },
+            { "en": "food", "es": "comida" },
+            { "en": "city", "es": "ciudad" },
+            { "en": "bone", "es": "hueso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the sentence: \"__________ raining today.\"",
+          "options": ["It's", "Its", "Its'"],
+          "correct": 0,
+          "hint": "Expande la palabra: ¿tiene sentido «it is raining»?",
+          "explanation": "La prueba de sustitución funciona: «It is raining today» tiene pleno sentido, así que la forma correcta es la contracción «it's» con apóstrofe. «Its» es el posesivo neutro e «its'» no existe."
+        },
+        {
+          "type": "gap",
+          "text": "The dog is chewing ___ bone.",
+          "options": ["its", "it's", "his"],
+          "answer": "its",
+          "hint": "El perro es un poseedor neutro.",
+          "explanation": "El perro, como poseedor neutro, requiere el adjetivo posesivo «its» (sin apóstrofe). «It's» es la contracción verbal de «it is», nunca un posesivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un día bonito",
+          "direction": "es-en",
+          "tiles": ["It's", "a", "nice", "day", "Its"],
+          "answer": "It's a nice day",
+          "explanation": "«It's» es la contracción de «it is», correcta aquí porque la oración se puede expandir a «It is a nice day». «Its» sin apóstrofe sería el posesivo neutro, que no encaja en esta frase."
+        },
+        {
+          "type": "speak",
+          "text": "The dog is eating its bone.",
+          "es": "El perro está comiendo su hueso."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Complete the sentence: \"__________ raining today.\"",
-      "options": ["It's", "Its", "Its'"],
-      "correct": 0,
-      "hint": "Expande la palabra: ¿tiene sentido «it is raining»?",
-      "explanation": "La prueba de sustitución funciona: «It is raining today» tiene pleno sentido, así que la forma correcta es la contracción «it's» con apóstrofe. «Its» es el posesivo neutro e «its'» no existe."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Me lavo las manos",
-      "direction": "es-en",
-      "tiles": ["I", "wash", "my", "hands", "the", "me"],
-      "answer": "I wash my hands",
-      "explanation": "El inglés exige el posesivo con las partes del cuerpo: «my hands». El calco del español «I wash the hands» es agramatical."
-    },
-    {
-      "type": "gap",
-      "text": "The city is famous for ___ museums.",
-      "options": ["its", "it's", "their"],
-      "answer": "its",
-      "explanation": "La ciudad es un poseedor neutro singular: «its museums». «It's» es contracción verbal y «their» requeriría un poseedor plural."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete the sentence: \"Those cars are __________.\" (de ella)",
-      "options": ["her", "hers", "her's"],
-      "correct": 1,
-      "hint": "Al final de la oración no hay sustantivo: hace falta el pronombre.",
-      "explanation": "Sin sustantivo posterior se usa el pronombre posesivo «hers». «Her» es el adjetivo (necesita sustantivo: «her cars») y «her's» no existe: ningún posesivo inglés lleva apóstrofe."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nuestra casa es grande",
-      "direction": "es-en",
-      "tiles": ["Our", "house", "is", "big", "ours", "the"],
-      "answer": "Our house is big",
-      "explanation": "El adjetivo posesivo «our» acompaña al sustantivo «house». «Ours» solo se usa cuando el sustantivo desaparece («the house is ours»)."
-    },
-    {
-      "type": "gap",
-      "text": "This car is ___, not yours.",
-      "options": ["ours", "our", "us"],
-      "answer": "ours",
-      "explanation": "En posición final sin sustantivo se usa el pronombre posesivo «ours». «Our» necesitaría un sustantivo detrás y «us» es pronombre objeto, no posesivo."
-    },
-    {
-      "type": "speak",
-      "text": "My book is on the table, and yours is on the desk.",
-      "es": "Mi libro está en la mesa y el tuyo está en el escritorio."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Esta clase es nuestra",
-      "direction": "es-en",
-      "tiles": ["This", "classroom", "is", "ours", "our", "mine"],
-      "answer": "This classroom is ours",
-      "explanation": "El pronombre posesivo «ours» funciona de forma autónoma como núcleo del predicado; «our» sería incorrecto porque no hay sustantivo que lo acompañe."
+      "n": 5,
+      "title": "Pronombres posesivos: mine, yours, hers, ours, theirs",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada posesivo con su traducción",
+          "pairs": [
+            { "en": "their", "es": "su (de ellos)" },
+            { "en": "its", "es": "su (de ello, neutro)" },
+            { "en": "mine", "es": "mío" },
+            { "en": "yours", "es": "tuyo" },
+            { "en": "hers", "es": "suya (de ella)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that correctly uses a possessive pronoun:",
+          "options": ["This classroom is our.", "This classroom is ours.", "This classroom is of ours."],
+          "correct": 1,
+          "hint": "Sin sustantivo detrás, necesitas la forma autónoma con «-s».",
+          "explanation": "«Ours» es el pronombre posesivo autónomo y puede cerrar la oración. «Our» es adjetivo posesivo y exige un sustantivo detrás («our classroom»), y «of ours» es redundante en esta posición copulativa."
+        },
+        {
+          "type": "gap",
+          "text": "This phone is ___.",
+          "options": ["mine", "my", "me"],
+          "answer": "mine",
+          "explanation": "Al final de la oración, sin sustantivo posterior, se usa el pronombre posesivo autónomo «mine». «This phone is my» es uno de los errores más penalizados en A1."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este teléfono es mío",
+          "direction": "es-en",
+          "tiles": ["This", "phone", "is", "mine", "my", "me"],
+          "answer": "This phone is mine",
+          "explanation": "Sin sustantivo detrás se usa el pronombre posesivo «mine», que funciona como sintagma nominal completo y sustituye a «my phone»."
+        },
+        {
+          "type": "speak",
+          "text": "My book is on the table, and yours is on the desk.",
+          "es": "Mi libro está en la mesa y el tuyo está en el escritorio."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "ours", "es": "nuestro (pronombre)" },
+            { "en": "theirs", "es": "suyo (de ellos)" },
+            { "en": "book", "es": "libro" },
+            { "en": "car", "es": "coche" },
+            { "en": "dog", "es": "perro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the option that avoids duplicate determination:",
+          "options": [
+            "My book is on the table, and yours book is on the desk.",
+            "The my book is on the table, and yours is on the desk.",
+            "My book is on the table, and yours is on the desk."
+          ],
+          "correct": 2,
+          "hint": "Ni «artículo + posesivo» ni «pronombre posesivo + sustantivo» son válidos.",
+          "explanation": "Lo correcto es adjetivo con sustantivo («my book») y pronombre solo («yours»). «Yours book» combina pronombre con sustantivo y «the my book» acumula artículo y posesivo: ambas estructuras son agramaticales."
+        },
+        {
+          "type": "gap",
+          "text": "They live in ___ house.",
+          "options": ["their", "theirs", "his"],
+          "answer": "their",
+          "explanation": "Con sustantivo detrás se necesita el adjetivo «their» (tercera persona del plural). «Theirs» es el pronombre autónomo y no puede modificar a «house»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta clase es nuestra",
+          "direction": "es-en",
+          "tiles": ["This", "classroom", "is", "ours", "our", "mine"],
+          "answer": "This classroom is ours",
+          "explanation": "El pronombre posesivo «ours» funciona de forma autónoma como núcleo del predicado; «our» sería incorrecto porque no hay sustantivo que lo acompañe."
+        },
+        {
+          "type": "speak",
+          "text": "This car is ours, not theirs.",
+          "es": "Este coche es nuestro, no de ellos."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja los pronombres posesivos restantes",
+          "pairs": [
+            { "en": "mine", "es": "mío" },
+            { "en": "yours", "es": "tuyo" },
+            { "en": "hers", "es": "suya (de ella)" },
+            { "en": "theirs", "es": "suyo (de ellos)" },
+            { "en": "phone", "es": "teléfono" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the sentence: \"Those cars are __________.\" (de ella)",
+          "options": ["her", "hers", "her's"],
+          "correct": 1,
+          "hint": "Al final de la oración no hay sustantivo: hace falta el pronombre.",
+          "explanation": "Sin sustantivo posterior se usa el pronombre posesivo «hers». «Her» es el adjetivo (necesita sustantivo: «her cars») y «her's» no existe: ningún posesivo inglés lleva apóstrofe."
+        },
+        {
+          "type": "gap",
+          "text": "This car is ___, not yours.",
+          "options": ["ours", "our", "us"],
+          "answer": "ours",
+          "explanation": "En posición final sin sustantivo se usa el pronombre posesivo «ours». «Our» necesitaría un sustantivo detrás y «us» es pronombre objeto, no posesivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este teléfono es tuyo",
+          "direction": "es-en",
+          "tiles": ["This", "phone", "is", "yours", "your", "the"],
+          "answer": "This phone is yours",
+          "explanation": "Sin sustantivo detrás se usa el pronombre posesivo autónomo «yours». «Your» sería el adjetivo, que exigiría repetir «phone»: «your phone»."
+        },
+        {
+          "type": "speak",
+          "text": "Is this phone yours?",
+          "es": "¿Es tuyo este teléfono?"
+        }
+      ]
     }
   ]
 }

@@ -3,238 +3,621 @@
   "module": 17,
   "title": "Telling the Time / Daily Schedule",
   "subtitle": "Decir la Hora",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada pieza del reloj inglés con su significado",
-      "pairs": [
-        { "en": "o'clock", "es": "en punto" },
-        { "en": "past", "es": "y (minutos pasados)" },
-        { "en": "to", "es": "menos (para la hora)" },
-        { "en": "quarter", "es": "cuarto" },
-        { "en": "half", "es": "media" }
+      "n": 1,
+      "title": "It's + o'clock: la hora en punto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra sobre el reloj con su traducción",
+          "pairs": [
+            { "en": "o'clock", "es": "en punto" },
+            { "en": "clock", "es": "reloj" },
+            { "en": "time", "es": "hora / tiempo" },
+            { "en": "hour", "es": "hora (unidad)" },
+            { "en": "minute", "es": "minuto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses 'o'clock' correctly to say 3:00?",
+          "options": ["It's three o'clock.", "It's three-fifteen o'clock.", "Is three o'clock."],
+          "correct": 0,
+          "hint": "«O'clock» solo se enciende con los minutos en cero.",
+          "explanation": "«O'clock» se usa exclusivamente con horas exactas: «It's three o'clock». Añadirlo a una hora con minutos (opción b) es agramatical, y omitir el sujeto «it» (opción c) también lo es."
+        },
+        {
+          "type": "gap",
+          "text": "___ is four o'clock.",
+          "options": ["It", "Is", "They"],
+          "answer": "It",
+          "explanation": "La hora exige el sujeto impersonal vacío «it» + «is», siempre en singular: «It is four o'clock». En español decimos «son las cuatro» sin sujeto, pero el inglés prohíbe las oraciones sin sujeto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del reloj",
+          "pairs": [
+            { "en": "clock", "es": "reloj" },
+            { "en": "time", "es": "hora / tiempo" },
+            { "en": "hour", "es": "hora (unidad)" },
+            { "en": "minute", "es": "minuto" },
+            { "en": "second", "es": "segundo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the sentence: \"We always have breakfast at seven ___.\"",
+          "options": ["o'clock", "of the clock", "hours"],
+          "correct": 0,
+          "hint": "Es la contracción moderna de una frase medieval.",
+          "explanation": "«O'clock» acompaña a las horas exactas. «Of the clock» es la forma medieval arcaica de la que deriva, ya en desuso, y «hours» no se usa en inglés para declarar la hora."
+        },
+        {
+          "type": "gap",
+          "text": "It's nine ___. (9:00)",
+          "options": ["o'clock", "hours", "clock"],
+          "answer": "o'clock",
+          "explanation": "Con los minutos en cero se usa «o'clock»: «It's nine o'clock». Piensa en el interruptor del «cero absoluto»: solo se enciende si el minutero apunta al 12."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario del reloj sin repetir",
+          "pairs": [
+            { "en": "o'clock", "es": "en punto" },
+            { "en": "time", "es": "hora / tiempo" },
+            { "en": "hour", "es": "hora (unidad)" },
+            { "en": "minute", "es": "minuto" },
+            { "en": "second", "es": "segundo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «Son las ocho en punto»?",
+          "options": ["It has eight o'clock.", "It is eight o'clock.", "Is eight o'clock."],
+          "correct": 1,
+          "hint": "El verbo es «to be», no «to have», y el sujeto es obligatorio.",
+          "explanation": "La hora se declara con el sujeto impersonal «it» + «is»: «It is eight o'clock». «Has» calca el verbo tener, y omitir «it» deja la oración sin sujeto, algo prohibido en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "It ___ six o'clock.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "El sujeto impersonal «it» siempre concuerda con el verbo «to be» en singular: «it is», nunca «are» ni «am»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las cinco en punto",
+          "direction": "es-en",
+          "tiles": ["It", "is", "five", "o'clock", "are", "They"],
+          "answer": "It is five o'clock",
+          "explanation": "El tiempo es una entidad singular abstracta: sujeto impersonal «it» + «is», aunque el español use el plural «son». «O'clock» marca la hora exacta."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las cuatro",
+          "direction": "es-en",
+          "tiles": ["It", "is", "four", "are", "They"],
+          "answer": "It is four",
+          "explanation": "«It's four» es válido sin «o'clock». Lo imprescindible es el sujeto impersonal singular: nunca «Are the four» ni «Is four», calcos del plural español «son las cuatro»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es la una en punto",
+          "direction": "es-en",
+          "tiles": ["It", "is", "one", "o'clock", "are", "the"],
+          "answer": "It is one o'clock",
+          "explanation": "Aunque en español «la una» sea singular y «las cuatro» plural, en inglés el sujeto es siempre «it» + «is», sin importar el número de la hora."
+        },
+        {
+          "type": "speak",
+          "text": "It's five o'clock.",
+          "es": "Son las cinco en punto."
+        },
+        {
+          "type": "speak",
+          "text": "It's nine o'clock.",
+          "es": "Son las nueve en punto."
+        },
+        {
+          "type": "speak",
+          "text": "What time is it?",
+          "es": "¿Qué hora es?"
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "What is the correct way to express the time 11:15 in a formal conversation?",
-      "options": ["It's eleven and fifteen.", "It's fifteen past eleven.", "It's quarter past eleven."],
-      "correct": 2,
-      "hint": "Los quince minutos tienen una fracción con nombre propio.",
-      "explanation": "La fracción de quince minutos pasados se expresa con la estructura fija «quarter past»: «quarter past eleven». «Eleven and fifteen» es un calco del español y «fifteen past eleven» no sigue la sintaxis analógica formal."
-    },
-    {
-      "type": "gap",
-      "text": "___ is four o'clock.",
-      "options": ["It", "Is", "They"],
-      "answer": "It",
-      "explanation": "La hora exige el sujeto impersonal vacío «it» + «is», siempre en singular: «It is four o'clock». En español decimos «son las cuatro» sin sujeto, pero el inglés prohíbe las oraciones sin sujeto."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Son las cinco en punto",
-      "direction": "es-en",
-      "tiles": ["It", "is", "five", "o'clock", "are", "They"],
-      "answer": "It is five o'clock",
-      "explanation": "El tiempo es una entidad singular abstracta: sujeto impersonal «it» + «is», aunque el español use el plural «son». «O'clock» marca la hora exacta."
-    },
-    {
-      "type": "quiz",
-      "q": "A student says: \"The train leaves at ten to five.\" What time does the train leave?",
-      "options": ["5:10", "4:50", "5:50"],
-      "correct": 1,
-      "hint": "«To» indica los minutos que FALTAN para la hora siguiente.",
-      "explanation": "«Ten to five» significa que faltan diez minutos para las cinco: las 4:50. Las 5:10 se dirían «ten past five». Con «to» se cuenta hacia atrás desde la hora de destino."
-    },
-    {
-      "type": "gap",
-      "text": "It's ten ___ eight. (8:10)",
-      "options": ["past", "to", "and"],
-      "answer": "past",
-      "explanation": "Los minutos 1 a 30 usan «past» (pasados de la hora): «ten past eight» = las ocho y diez. El orden inglés es [minutos] + past/to + [hora], el espejo del español."
-    },
-    {
-      "type": "speak",
-      "text": "It's five o'clock.",
-      "es": "Son las cinco en punto."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada momento del día con su traducción",
-      "pairs": [
-        { "en": "noon", "es": "mediodía" },
-        { "en": "midnight", "es": "medianoche" },
-        { "en": "morning", "es": "mañana" },
-        { "en": "afternoon", "es": "tarde" },
-        { "en": "evening", "es": "tarde-noche" }
+      "n": 2,
+      "title": "Past: los minutos pasados de la hora",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja los minutos y «past» con su traducción",
+          "pairs": [
+            { "en": "five", "es": "cinco" },
+            { "en": "ten", "es": "diez" },
+            { "en": "fifteen", "es": "quince" },
+            { "en": "twenty", "es": "veinte" },
+            { "en": "past", "es": "pasado (y)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What time is 3:10?",
+          "options": ["It's ten past three.", "It's three past ten.", "It's ten to three."],
+          "correct": 0,
+          "hint": "El orden inglés es [minutos] + past + [hora].",
+          "explanation": "El orden correcto es minutos + «past» + hora: «ten past three» = las tres y diez. Invertir el orden (opción b) o usar «to» (opción c) da una hora distinta."
+        },
+        {
+          "type": "gap",
+          "text": "It's ten ___ eight. (8:10)",
+          "options": ["past", "to", "and"],
+          "answer": "past",
+          "explanation": "Los minutos 1 a 30 usan «past» (pasados de la hora): «ten past eight» = las ocho y diez. El orden inglés es [minutos] + past/to + [hora], el espejo del español."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más minutos y «past»",
+          "pairs": [
+            { "en": "ten", "es": "diez" },
+            { "en": "fifteen", "es": "quince" },
+            { "en": "twenty", "es": "veinte" },
+            { "en": "twenty-five", "es": "veinticinco" },
+            { "en": "past", "es": "pasado (y)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly expresses 8:20?",
+          "options": ["It's twenty past eight.", "It's eight twenty past.", "It's past twenty eight."],
+          "correct": 0,
+          "hint": "Los minutos siempre van antes de «past».",
+          "explanation": "El orden fijo es minutos + «past» + hora: «twenty past eight». Cualquier otro orden (opciones b y c) rompe la sintaxis inglesa."
+        },
+        {
+          "type": "gap",
+          "text": "It's twenty ___ three. (3:20)",
+          "options": ["past", "to", "and"],
+          "answer": "past",
+          "explanation": "Entre los minutos 1 y 30 se usa «past»: «twenty past three» = las tres y veinte."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja minutos y «past» sin repetir",
+          "pairs": [
+            { "en": "five", "es": "cinco" },
+            { "en": "fifteen", "es": "quince" },
+            { "en": "twenty", "es": "veinte" },
+            { "en": "twenty-five", "es": "veinticinco" },
+            { "en": "past", "es": "pasado (y)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «Son las cinco y veinticinco»?",
+          "options": ["It's twenty-five past five.", "It's five past twenty-five.", "It's twenty-five five past."],
+          "correct": 0,
+          "hint": "Los minutos siempre preceden a «past».",
+          "explanation": "El orden es minutos + «past» + hora: «twenty-five past five». Cambiar el orden (opciones b y c) produce una oración agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "It's five ___ nine. (9:05)",
+          "options": ["past", "and", "to"],
+          "answer": "past",
+          "explanation": "Los primeros cinco minutos después de la hora también usan «past»: «five past nine» = las nueve y cinco."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las diez y cinco",
+          "direction": "es-en",
+          "tiles": ["It", "is", "five", "past", "ten", "to", "o'clock"],
+          "answer": "It is five past ten",
+          "explanation": "Orden inglés: minutos + «past» + hora → «five past ten». Y sin «o'clock», que está prohibido cuando la hora contiene minutos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las tres y veinte",
+          "direction": "es-en",
+          "tiles": ["It", "is", "twenty", "past", "three", "to"],
+          "answer": "It is twenty past three",
+          "explanation": "Minutos + «past» + hora: «twenty past three». «To» se reserva para los minutos 31 a 59."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las ocho y diez",
+          "direction": "es-en",
+          "tiles": ["It", "is", "ten", "past", "eight", "to"],
+          "answer": "It is ten past eight",
+          "explanation": "Minutos + «past» + hora: «ten past eight» = las ocho y diez."
+        },
+        {
+          "type": "speak",
+          "text": "It's ten past eight.",
+          "es": "Son las ocho y diez."
+        },
+        {
+          "type": "speak",
+          "text": "It's twenty past three.",
+          "es": "Son las tres y veinte."
+        },
+        {
+          "type": "speak",
+          "text": "It's five past nine.",
+          "es": "Son las nueve y cinco."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the grammatically INCORRECT sentence:",
-      "options": ["It's six-thirty.", "It's half past six o'clock.", "It's half past six."],
-      "correct": 1,
-      "hint": "«O'clock» es un interruptor que solo se enciende con horas exactas.",
-      "explanation": "Combinar «half past» con «o'clock» está prohibido: «o'clock» solo se usa cuando los minutos están en cero. «Six-thirty» (lectura digital) y «half past six» (lectura analógica) son correctas."
-    },
-    {
-      "type": "gap",
-      "text": "It's twenty ___ ten. (9:40)",
-      "options": ["to", "past", "for"],
-      "answer": "to",
-      "explanation": "A partir del minuto 31 se cuenta hacia la hora siguiente con «to»: a las 9:40 faltan 20 minutos para las 10 → «twenty to ten». Recuerda sumar uno a la hora."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Son las diez y cinco",
-      "direction": "es-en",
-      "tiles": ["It", "is", "five", "past", "ten", "to", "o'clock"],
-      "answer": "It is five past ten",
-      "explanation": "Orden inglés: minutos + «past» + hora → «five past ten». Y sin «o'clock», que está prohibido cuando la hora contiene minutos."
-    },
-    {
-      "type": "gap",
-      "text": "It's ___ past six. (6:15)",
-      "options": ["quarter", "fifteen", "half"],
-      "answer": "quarter",
-      "explanation": "La fracción de quince minutos se expresa con «quarter», sin la palabra «minutes»: «quarter past six» = las seis y cuarto."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is correct to say the time 3:30?",
-      "options": ["Is half past three.", "It's half past three.", "It's three and half."],
-      "correct": 1,
-      "hint": "El inglés no tolera oraciones sin sujeto.",
-      "explanation": "Falta o no el sujeto impersonal: «It's half past three» es la única correcta. «Is half past three» omite el «it» obligatorio y «three and half» calca la estructura española con «and», que no se usa para fracciones."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Son las seis y media",
-      "direction": "es-en",
-      "tiles": ["It", "is", "half", "past", "six", "to", "and"],
-      "answer": "It is half past six",
-      "explanation": "La media hora se concibe como tránsito pasado: «half past six». Ni «six and half» (calco del español) ni «half to seven» son correctas."
-    },
-    {
-      "type": "speak",
-      "text": "It's half past seven.",
-      "es": "Son las siete y media."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "night", "es": "noche" },
-        { "en": "clock", "es": "reloj" },
-        { "en": "time", "es": "hora / tiempo" },
-        { "en": "train", "es": "tren" },
-        { "en": "tea", "es": "té" }
+      "n": 3,
+      "title": "To: la cuenta atrás hacia la hora",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja «to» y los minutos con su traducción",
+          "pairs": [
+            { "en": "to", "es": "menos (para la hora)" },
+            { "en": "five", "es": "cinco" },
+            { "en": "ten", "es": "diez" },
+            { "en": "twenty", "es": "veinte" },
+            { "en": "past", "es": "pasado (repaso)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A student says: \"The train leaves at ten to five.\" What time does the train leave?",
+          "options": ["5:10", "4:50", "5:50"],
+          "correct": 1,
+          "hint": "«To» indica los minutos que FALTAN para la hora siguiente.",
+          "explanation": "«Ten to five» significa que faltan diez minutos para las cinco: las 4:50. Las 5:10 se dirían «ten past five». Con «to» se cuenta hacia atrás desde la hora de destino."
+        },
+        {
+          "type": "gap",
+          "text": "It's twenty ___ ten. (9:40)",
+          "options": ["to", "past", "for"],
+          "answer": "to",
+          "explanation": "A partir del minuto 31 se cuenta hacia la hora siguiente con «to»: a las 9:40 faltan 20 minutos para las 10 → «twenty to ten». Recuerda sumar uno a la hora."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más minutos y «to»",
+          "pairs": [
+            { "en": "to", "es": "menos (para la hora)" },
+            { "en": "ten", "es": "diez" },
+            { "en": "twenty", "es": "veinte" },
+            { "en": "twenty-five", "es": "veinticinco" },
+            { "en": "five", "es": "cinco" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "It is 2:40. What do you say?",
+          "options": ["It's twenty to two.", "It's twenty past three.", "It's twenty to three."],
+          "correct": 2,
+          "hint": "Con «to», suma uno a la hora actual.",
+          "explanation": "A las 2:40 faltan veinte minutos para las tres: «twenty to three». El error típico del hispanohablante es mantener la hora actual («twenty to two») al pasar a la zona de sustracción."
+        },
+        {
+          "type": "gap",
+          "text": "It's five ___ eleven. (10:55)",
+          "options": ["to", "past", "and"],
+          "answer": "to",
+          "explanation": "A las 10:55 faltan cinco minutos para las once: «five to eleven»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja «to» y minutos sin repetir",
+          "pairs": [
+            { "en": "to", "es": "menos (para la hora)" },
+            { "en": "past", "es": "pasado (repaso)" },
+            { "en": "twenty", "es": "veinte" },
+            { "en": "twenty-five", "es": "veinticinco" },
+            { "en": "ten", "es": "diez" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct for 6:50?",
+          "options": ["It's ten to seven.", "It's fifty to six.", "It's ten to six."],
+          "correct": 0,
+          "hint": "Cuenta los minutos que faltan para la hora SIGUIENTE.",
+          "explanation": "A las 6:50 faltan diez minutos para las siete: «ten to seven». Mantener la hora actual (opción c) es el error típico de interferencia del español."
+        },
+        {
+          "type": "gap",
+          "text": "It's fifteen ___ four. (3:45)",
+          "options": ["to", "past", "and"],
+          "answer": "to",
+          "explanation": "A las 3:45 faltan quince minutos para las cuatro: «fifteen to four» (equivalente a «quarter to four»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las seis menos diez",
+          "direction": "es-en",
+          "tiles": ["It", "is", "ten", "to", "six", "past", "o'clock"],
+          "answer": "It is ten to six",
+          "explanation": "Las 5:50 se leen contando lo que falta para las seis: «ten to six». Añadir «o'clock» sería agramatical porque la hora contiene minutos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las once menos cinco",
+          "direction": "es-en",
+          "tiles": ["It", "is", "five", "to", "eleven", "past"],
+          "answer": "It is five to eleven",
+          "explanation": "A las 10:55 faltan cinco minutos para las once: «five to eleven»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las cuatro menos quince",
+          "direction": "es-en",
+          "tiles": ["It", "is", "fifteen", "to", "four", "past"],
+          "answer": "It is fifteen to four",
+          "explanation": "A las 3:45 faltan quince minutos para las cuatro: «fifteen to four»."
+        },
+        {
+          "type": "speak",
+          "text": "The train leaves at ten to five.",
+          "es": "El tren sale a las cinco menos diez."
+        },
+        {
+          "type": "speak",
+          "text": "It's twenty to ten.",
+          "es": "Son las diez menos veinte."
+        },
+        {
+          "type": "speak",
+          "text": "It's ten to six.",
+          "es": "Son las seis menos diez."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "It's half ___ seven. (7:30)",
-      "options": ["past", "to", "and"],
-      "answer": "past",
-      "explanation": "El inglés estándar usa exclusivamente «half past» para la media hora: «half past seven». «Half to eight» es incorrecta."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete the sentence: \"We always have breakfast at seven ___.\"",
-      "options": ["o'clock", "of the clock", "hours"],
-      "correct": 0,
-      "hint": "Es la contracción moderna de una frase medieval.",
-      "explanation": "«O'clock» acompaña a las horas exactas. «Of the clock» es la forma medieval arcaica de la que deriva, ya en desuso, y «hours» no se usa en inglés para declarar la hora."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Son las tres menos cuarto",
-      "direction": "es-en",
-      "tiles": ["It", "is", "quarter", "to", "three", "past"],
-      "answer": "It is quarter to three",
-      "explanation": "Las 2:45 se expresan mirando a la hora siguiente: «quarter to three» (un cuarto para las tres). Con «to» siempre se avanza a la hora de destino."
-    },
-    {
-      "type": "gap",
-      "text": "It's quarter ___ three. (2:45)",
-      "options": ["to", "past", "and"],
-      "answer": "to",
-      "explanation": "A y 45 faltan quince minutos para la hora siguiente: «quarter to three». «Quarter past three» serían las 3:15."
-    },
-    {
-      "type": "quiz",
-      "q": "It is 2:40. What do you say?",
-      "options": ["It's twenty to two.", "It's twenty past three.", "It's twenty to three."],
-      "correct": 2,
-      "hint": "Con «to», suma uno a la hora actual.",
-      "explanation": "A las 2:40 faltan veinte minutos para las tres: «twenty to three». El error típico del hispanohablante es mantener la hora actual («twenty to two») al pasar a la zona de sustracción."
-    },
-    {
-      "type": "speak",
-      "text": "It's quarter to three.",
-      "es": "Son las tres menos cuarto."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra de la rutina con su traducción",
-      "pairs": [
-        { "en": "wake up", "es": "despertarse" },
-        { "en": "early", "es": "temprano" },
-        { "en": "breakfast", "es": "desayuno" },
-        { "en": "drink", "es": "beber" },
-        { "en": "goodbye", "es": "despedida / adiós" }
+      "n": 4,
+      "title": "Quarter y Half: fracciones horarias",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada pieza del reloj inglés con su significado",
+          "pairs": [
+            { "en": "o'clock", "es": "en punto" },
+            { "en": "past", "es": "y (minutos pasados)" },
+            { "en": "to", "es": "menos (para la hora)" },
+            { "en": "quarter", "es": "cuarto" },
+            { "en": "half", "es": "media" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct way to express the time 11:15 in a formal conversation?",
+          "options": ["It's eleven and fifteen.", "It's fifteen past eleven.", "It's quarter past eleven."],
+          "correct": 2,
+          "hint": "Los quince minutos tienen una fracción con nombre propio.",
+          "explanation": "La fracción de quince minutos pasados se expresa con la estructura fija «quarter past»: «quarter past eleven». «Eleven and fifteen» es un calco del español y «fifteen past eleven» no sigue la sintaxis analógica formal."
+        },
+        {
+          "type": "gap",
+          "text": "It's ___ past six. (6:15)",
+          "options": ["quarter", "fifteen", "half"],
+          "answer": "quarter",
+          "explanation": "La fracción de quince minutos se expresa con «quarter», sin la palabra «minutes»: «quarter past six» = las seis y cuarto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja fracciones horarias y repaso",
+          "pairs": [
+            { "en": "quarter", "es": "cuarto" },
+            { "en": "half", "es": "media" },
+            { "en": "past", "es": "pasado (repaso)" },
+            { "en": "to", "es": "menos (repaso)" },
+            { "en": "o'clock", "es": "en punto (repaso)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the grammatically INCORRECT sentence:",
+          "options": ["It's six-thirty.", "It's half past six o'clock.", "It's half past six."],
+          "correct": 1,
+          "hint": "«O'clock» es un interruptor que solo se enciende con horas exactas.",
+          "explanation": "Combinar «half past» con «o'clock» está prohibido: «o'clock» solo se usa cuando los minutos están en cero. «Six-thirty» (lectura digital) y «half past six» (lectura analógica) son correctas."
+        },
+        {
+          "type": "gap",
+          "text": "It's half ___ seven. (7:30)",
+          "options": ["past", "to", "and"],
+          "answer": "past",
+          "explanation": "El inglés estándar usa exclusivamente «half past» para la media hora: «half past seven». «Half to eight» es incorrecta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja fracciones horarias sin repetir",
+          "pairs": [
+            { "en": "quarter", "es": "cuarto" },
+            { "en": "half", "es": "media" },
+            { "en": "to", "es": "menos (repaso)" },
+            { "en": "thirty", "es": "treinta" },
+            { "en": "past", "es": "pasado (repaso)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct to say the time 3:30?",
+          "options": ["Is half past three.", "It's half past three.", "It's three and half."],
+          "correct": 1,
+          "hint": "El inglés no tolera oraciones sin sujeto.",
+          "explanation": "Falta o no el sujeto impersonal: «It's half past three» es la única correcta. «Is half past three» omite el «it» obligatorio y «three and half» calca la estructura española con «and», que no se usa para fracciones."
+        },
+        {
+          "type": "gap",
+          "text": "It's quarter ___ three. (2:45)",
+          "options": ["to", "past", "and"],
+          "answer": "to",
+          "explanation": "A y 45 faltan quince minutos para la hora siguiente: «quarter to three». «Quarter past three» serían las 3:15."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las seis y media",
+          "direction": "es-en",
+          "tiles": ["It", "is", "half", "past", "six", "to", "and"],
+          "answer": "It is half past six",
+          "explanation": "La media hora se concibe como tránsito pasado: «half past six». Ni «six and half» (calco del español) ni «half to seven» son correctas."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las tres menos cuarto",
+          "direction": "es-en",
+          "tiles": ["It", "is", "quarter", "to", "three", "past"],
+          "answer": "It is quarter to three",
+          "explanation": "Las 2:45 se expresan mirando a la hora siguiente: «quarter to three» (un cuarto para las tres). Con «to» siempre se avanza a la hora de destino."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las nueve y cuarto",
+          "direction": "es-en",
+          "tiles": ["It", "is", "quarter", "past", "nine", "to"],
+          "answer": "It is quarter past nine",
+          "explanation": "Las 9:15 sustituyen «quince» por la fracción «quarter»: «quarter past nine». Es la mitad derecha del reloj, la zona «past»."
+        },
+        {
+          "type": "speak",
+          "text": "It's half past seven.",
+          "es": "Son las siete y media."
+        },
+        {
+          "type": "speak",
+          "text": "It's quarter to three.",
+          "es": "Son las tres menos cuarto."
+        },
+        {
+          "type": "speak",
+          "text": "It's quarter past six.",
+          "es": "Son las seis y cuarto."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Son las seis menos diez",
-      "direction": "es-en",
-      "tiles": ["It", "is", "ten", "to", "six", "past", "o'clock"],
-      "answer": "It is ten to six",
-      "explanation": "Las 5:50 se leen contando lo que falta para las seis: «ten to six». Añadir «o'clock» sería agramatical porque la hora contiene minutos."
-    },
-    {
-      "type": "gap",
-      "text": "It's nine ___. (9:00)",
-      "options": ["o'clock", "hours", "clock"],
-      "answer": "o'clock",
-      "explanation": "Con los minutos en cero se usa «o'clock»: «It's nine o'clock». Piensa en el interruptor del «cero absoluto»: solo se enciende si el minutero apunta al 12."
-    },
-    {
-      "type": "quiz",
-      "q": "How do you say goodbye to someone at 10:00 PM before going home to bed?",
-      "options": ["Good evening.", "Good afternoon.", "Good night."],
-      "correct": 2,
-      "hint": "Una es saludo de llegada; otra, de despedida.",
-      "explanation": "«Good night» es la despedida exclusiva de la noche, sobre todo antes de dormir. «Good evening» funciona solo como saludo de encuentro al llegar, y «Good afternoon» pertenece a la franja de la tarde."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Son las nueve y cuarto",
-      "direction": "es-en",
-      "tiles": ["It", "is", "quarter", "past", "nine", "to"],
-      "answer": "It is quarter past nine",
-      "explanation": "Las 9:15 sustituyen «quince» por la fracción «quarter»: «quarter past nine». Es la mitad derecha del reloj, la zona «past»."
-    },
-    {
-      "type": "gap",
-      "text": "Good ___! (despedida antes de irse a dormir)",
-      "options": ["night", "evening", "afternoon"],
-      "answer": "night",
-      "explanation": "«Good night» se usa casi exclusivamente como despedida al retirarse. El español agrupa todo en «noche», pero el inglés bifurca: «evening» (llegada) vs. «night» (despedida)."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Son las cuatro",
-      "direction": "es-en",
-      "tiles": ["It", "is", "four", "are", "They"],
-      "answer": "It is four",
-      "explanation": "«It's four» es válido sin «o'clock». Lo imprescindible es el sujeto impersonal singular: nunca «Are the four» ni «Is four», calcos del plural español «son las cuatro»."
-    },
-    {
-      "type": "speak",
-      "text": "The train leaves at ten to five.",
-      "es": "El tren sale a las cinco menos diez."
+      "n": 5,
+      "title": "Partes del día, rutina y despedidas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada momento del día con su traducción",
+          "pairs": [
+            { "en": "noon", "es": "mediodía" },
+            { "en": "midnight", "es": "medianoche" },
+            { "en": "morning", "es": "mañana" },
+            { "en": "afternoon", "es": "tarde" },
+            { "en": "evening", "es": "tarde-noche" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say goodbye to someone at 10:00 PM before going home to bed?",
+          "options": ["Good evening.", "Good afternoon.", "Good night."],
+          "correct": 2,
+          "hint": "Una es saludo de llegada; otra, de despedida.",
+          "explanation": "«Good night» es la despedida exclusiva de la noche, sobre todo antes de dormir. «Good evening» funciona solo como saludo de encuentro al llegar, y «Good afternoon» pertenece a la franja de la tarde."
+        },
+        {
+          "type": "gap",
+          "text": "Good ___! (despedida antes de irse a dormir)",
+          "options": ["night", "evening", "afternoon"],
+          "answer": "night",
+          "explanation": "«Good night» se usa casi exclusivamente como despedida al retirarse. El español agrupa todo en «noche», pero el inglés bifurca: «evening» (llegada) vs. «night» (despedida)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "night", "es": "noche" },
+            { "en": "clock", "es": "reloj" },
+            { "en": "time", "es": "hora / tiempo" },
+            { "en": "train", "es": "tren" },
+            { "en": "tea", "es": "té" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "It's 6:00 PM and you just arrived at a friend's house. What do you say?",
+          "options": ["Good night.", "Good evening.", "Good afternoon."],
+          "correct": 1,
+          "hint": "Esta franja empieza al caer la tarde y sirve para saludar al llegar.",
+          "explanation": "«Good evening» es el saludo de llegada desde aproximadamente las 6 PM. «Good night» es exclusivamente de despedida y «Good afternoon» pertenece a la franja anterior a las 6 PM."
+        },
+        {
+          "type": "gap",
+          "text": "Good ___! See you at the meeting tomorrow morning. (despedida nocturna)",
+          "options": ["night", "evening", "afternoon"],
+          "answer": "night",
+          "explanation": "Al despedirse antes de ir a dormir se usa exclusivamente «Good night», nunca «Good evening», que es solo saludo de llegada."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra de la rutina con su traducción",
+          "pairs": [
+            { "en": "wake up", "es": "despertarse" },
+            { "en": "early", "es": "temprano" },
+            { "en": "breakfast", "es": "desayuno" },
+            { "en": "drink", "es": "beber" },
+            { "en": "goodbye", "es": "despedida / adiós" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses 'noon' correctly?",
+          "options": ["We have lunch at noon.", "We have lunch in noon.", "We have lunch at the noon."],
+          "correct": 0,
+          "hint": "«Noon» se comporta como «night»: sin artículo y con la misma preposición puntual.",
+          "explanation": "«Noon» es un momento puntual del mediodía y va con «at», sin artículo: «at noon». «In noon» y «at the noon» son errores de preposición y artículo."
+        },
+        {
+          "type": "gap",
+          "text": "The train arrives ___ midnight.",
+          "options": ["at", "in", "on"],
+          "answer": "at",
+          "explanation": "«Midnight», igual que «noon» y «night», es un momento puntual y se usa con «at», sin artículo: «at midnight»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Buenas tardes",
+          "direction": "es-en",
+          "tiles": ["Good", "afternoon", "evening", "morning"],
+          "answer": "Good afternoon",
+          "explanation": "«Good afternoon» es el saludo de la franja de la tarde (12h-18h aprox.), distinto de «Good evening» (tarde-noche, al llegar) y «Good morning» (mañana)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El tren llega al mediodía",
+          "direction": "es-en",
+          "tiles": ["The", "train", "arrives", "at", "noon", "midnight"],
+          "answer": "The train arrives at noon",
+          "explanation": "«Noon» es un momento puntual y se declara con «at», sin artículo: «arrives at noon»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Bebo té por la tarde",
+          "direction": "es-en",
+          "tiles": ["I", "drink", "tea", "in", "the", "afternoon", "at"],
+          "answer": "I drink tea in the afternoon",
+          "explanation": "Los períodos del día llevan «in the»: «in the afternoon». «At» sería incorrecto porque «afternoon» no es un momento puntual como «noon» o «midnight»."
+        },
+        {
+          "type": "speak",
+          "text": "Good afternoon! Would you like some tea?",
+          "es": "¡Buenas tardes! ¿Quieres té?"
+        },
+        {
+          "type": "speak",
+          "text": "The train arrives at midnight.",
+          "es": "El tren llega a medianoche."
+        },
+        {
+          "type": "speak",
+          "text": "I wake up early and have breakfast.",
+          "es": "Me despierto temprano y desayuno."
+        }
+      ]
     }
   ]
 }

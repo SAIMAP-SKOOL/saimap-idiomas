@@ -3,238 +3,621 @@
   "module": 4,
   "title": "Personal Pronouns & Family",
   "subtitle": "Pronombres Personales y Familia",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada miembro de la familia con su traducción",
-      "pairs": [
-        { "en": "mother", "es": "madre" },
-        { "en": "father", "es": "padre" },
-        { "en": "brother", "es": "hermano" },
-        { "en": "daughter", "es": "hija" },
-        { "en": "wife", "es": "esposa" }
+      "n": 1,
+      "title": "Los pronombres personales sujeto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada pronombre con su traducción",
+          "pairs": [
+            { "en": "I", "es": "yo" },
+            { "en": "you", "es": "tú / usted" },
+            { "en": "he", "es": "él" },
+            { "en": "she", "es": "ella" },
+            { "en": "it", "es": "ello" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which of the following sentences displays correct spelling and punctuation?",
+          "options": ["She knows that I am tired.", "She knows that i am tired.", "She knows that I'm is tired."],
+          "correct": 0,
+          "hint": "Hay un pronombre que nunca va en minúscula.",
+          "explanation": "El pronombre «I» se escribe siempre en mayúscula, en cualquier posición. «I'm is» duplica el verbo de forma agramatical porque la contracción ya contiene «am»."
+        },
+        {
+          "type": "gap",
+          "text": "The book is old. ___ is on the desk.",
+          "options": ["It", "He", "She"],
+          "answer": "It",
+          "explanation": "El inglés usa género natural: los objetos inanimados como «the book» se sustituyen por el pronombre neutro «it», nunca por he/she."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos están en Italia",
+          "direction": "es-en",
+          "tiles": ["They", "are", "in", "Italy", "is", "them"],
+          "answer": "They are in Italy",
+          "explanation": "Sujeto plural «They» + «are» + ubicación. Recuerda que el inglés no permite omitir el pronombre: «Are in Italy» sería agramatical."
+        },
+        {
+          "type": "speak",
+          "text": "I am a teacher.",
+          "es": "Soy profesor/a."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más pronombres",
+          "pairs": [
+            { "en": "he", "es": "él" },
+            { "en": "she", "es": "ella" },
+            { "en": "it", "es": "ello" },
+            { "en": "we", "es": "nosotros/as" },
+            { "en": "they", "es": "ellos/as" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct pronoun replacement for \"the school desk\"?",
+          "options": ["He", "She", "It"],
+          "correct": 2,
+          "hint": "¿Es un ser vivo?",
+          "explanation": "«The school desk» es un objeto inanimado singular ⇒ pronombre neutro «it». «He» y «she» se reservan para personas (y mascotas queridas)."
+        },
+        {
+          "type": "gap",
+          "text": "___ am a student.",
+          "options": ["I", "i", "Am"],
+          "answer": "I",
+          "explanation": "El inglés prohíbe omitir el sujeto (non-pro-drop) y el pronombre «I» se escribe siempre en mayúscula, en cualquier posición de la frase."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nosotros somos altos",
+          "direction": "es-en",
+          "tiles": ["We", "are", "tall", "am", "they", "is"],
+          "answer": "We are tall",
+          "explanation": "«My brother and I» = We. Sujeto plural incluyente + «are» + adjetivo invariable (tall no cambia en plural)."
+        },
+        {
+          "type": "speak",
+          "text": "He is my friend.",
+          "es": "Él es mi amigo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja pronombres sin repetir",
+          "pairs": [
+            { "en": "I", "es": "yo" },
+            { "en": "you", "es": "tú / usted" },
+            { "en": "we", "es": "nosotros/as" },
+            { "en": "they", "es": "ellos/as" },
+            { "en": "she", "es": "ella" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The pronoun \"you\" in English covers:",
+          "options": ["Only informal singular (tú)", "Tú, usted, vosotros and ustedes", "Only plural (vosotros/ustedes)"],
+          "correct": 1,
+          "hint": "El inglés moderno perdió la distinción de cortesía.",
+          "explanation": "«You» es multidimensional: cubre tú, usted, vosotros/as y ustedes. El antiguo «thou» (tú informal) se extinguió y «you» absorbió todos los usos."
+        },
+        {
+          "type": "gap",
+          "text": "___ is my friend.",
+          "options": ["He", "Him", "His"],
+          "answer": "He",
+          "explanation": "El sujeto de la oración exige el pronombre sujeto «He», no las formas de objeto («him») ni posesivas («his»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tú eres mi amigo",
+          "direction": "es-en",
+          "tiles": ["You", "are", "my", "friend", "is"],
+          "answer": "You are my friend",
+          "explanation": "«You» siempre se empareja con «are», tanto en singular como en plural."
+        },
+        {
+          "type": "speak",
+          "text": "They are happy.",
+          "es": "Ellos están felices."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Replace the underlined words with the correct pronoun: \"My grandfather and my grandmother are in England.\"",
-      "options": ["We", "They", "He"],
-      "correct": 1,
-      "hint": "El hablante no forma parte del grupo.",
-      "explanation": "«My grandfather and my grandmother» es un plural en tercera persona ⇒ «They». «We» requeriría que el hablante estuviera incluido, y «He» omitiría a la abuela."
-    },
-    {
-      "type": "gap",
-      "text": "My sister and I = ___",
-      "options": ["We", "They", "You"],
-      "answer": "We",
-      "explanation": "Fórmula de la inclusión: cualquier persona + and I = We (nosotros). El hablante forma parte del grupo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Mi madre es doctora",
-      "direction": "es-en",
-      "tiles": ["My", "mother", "is", "a", "doctor", "the", "are"],
-      "answer": "My mother is a doctor",
-      "explanation": "Posesivo (My) + sustantivo + is + artículo clasificador (a) + profesión. Recuerda: las profesiones singulares siempre llevan a/an."
-    },
-    {
-      "type": "quiz",
-      "q": "Which of the following sentences displays correct spelling and punctuation?",
-      "options": ["She knows that i am tired.", "She knows that I am tired.", "She knows that I'm is tired."],
-      "correct": 1,
-      "hint": "Hay un pronombre que nunca va en minúscula.",
-      "explanation": "El pronombre «I» se escribe siempre en mayúscula, en cualquier posición. «I'm is» duplica el verbo de forma agramatical porque la contracción ya contiene «am»."
-    },
-    {
-      "type": "gap",
-      "text": "The book is old. ___ is on the desk.",
-      "options": ["It", "He", "She"],
-      "answer": "It",
-      "explanation": "El inglés usa género natural: los objetos inanimados como «the book» se sustituyen por el pronombre neutro «it», nunca por he/she."
-    },
-    {
-      "type": "speak",
-      "text": "My father and I are busy.",
-      "es": "Mi padre y yo estamos ocupados."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja más miembros de la familia",
-      "pairs": [
-        { "en": "uncle", "es": "tío" },
-        { "en": "aunt", "es": "tía" },
-        { "en": "cousin", "es": "primo/a" },
-        { "en": "children", "es": "niños / hijos" },
-        { "en": "husband", "es": "esposo" }
+      "n": 2,
+      "title": "La familia: padres e hijos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra de familia con su traducción",
+          "pairs": [
+            { "en": "family", "es": "familia" },
+            { "en": "mother", "es": "madre" },
+            { "en": "father", "es": "padre" },
+            { "en": "parent", "es": "progenitor" },
+            { "en": "son", "es": "hijo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Fill in the blank: \"My mother is a doctor. ___ is busy.\"",
+          "options": ["She", "He", "It"],
+          "correct": 0,
+          "hint": "¿Qué género tiene el sujeto original?",
+          "explanation": "«My mother» es un sustantivo singular femenino ⇒ se sustituye por «She». «He» denota masculino e «it» se reserva para lo inanimado."
+        },
+        {
+          "type": "gap",
+          "text": "My parents ___ in Spain.",
+          "options": ["are", "is", "am"],
+          "answer": "are",
+          "explanation": "«My parents» es plural (equivale a they) y exige «are». El error «My parents is» es una discordancia de número típica de examen."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi madre es doctora",
+          "direction": "es-en",
+          "tiles": ["My", "mother", "is", "a", "doctor", "the", "are"],
+          "answer": "My mother is a doctor",
+          "explanation": "Posesivo (My) + sustantivo + is + artículo clasificador (a) + profesión. Recuerda: las profesiones singulares siempre llevan a/an."
+        },
+        {
+          "type": "speak",
+          "text": "My father and I are busy.",
+          "es": "Mi padre y yo estamos ocupados."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más familia",
+          "pairs": [
+            { "en": "mother", "es": "madre" },
+            { "en": "father", "es": "padre" },
+            { "en": "parent", "es": "progenitor" },
+            { "en": "son", "es": "hijo" },
+            { "en": "daughter", "es": "hija" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In A1 standard grammar, the word \"family\" is replaced by which pronoun?",
+          "options": ["They", "She", "It"],
+          "correct": 2,
+          "hint": "Gramaticalmente es un sustantivo singular.",
+          "explanation": "«Family» es un colectivo singular: la familia como institución se sustituye por «it» (My family is big. It is happy). Tratarla como «they» es el error típico de examen."
+        },
+        {
+          "type": "gap",
+          "text": "My family ___ big.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«Family» es un sustantivo colectivo singular en A1 ⇒ «is». Aunque englobe a varias personas, gramaticalmente funciona como una unidad (it)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él es mi padre",
+          "direction": "es-en",
+          "tiles": ["He", "is", "my", "father", "It", "a"],
+          "answer": "He is my father",
+          "explanation": "Persona masculina ⇒ «He». Con posesivo (my) no se usa artículo: «He is my father», no «a my father»."
+        },
+        {
+          "type": "speak",
+          "text": "My mother is a nurse.",
+          "es": "Mi madre es enfermera."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja familia sin repetir",
+          "pairs": [
+            { "en": "family", "es": "familia" },
+            { "en": "father", "es": "padre" },
+            { "en": "parent", "es": "progenitor" },
+            { "en": "son", "es": "hijo" },
+            { "en": "daughter", "es": "hija" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When can an animal be referred to as \"he\" or \"she\"?",
+          "options": ["Never; animals are always «it»", "When it is a beloved pet", "Only for large animals"],
+          "correct": 1,
+          "hint": "Depende del vínculo afectivo.",
+          "explanation": "Los animales son «it» por defecto, pero las mascotas con vínculo afectivo estrecho pueden ser «he/she». El tamaño del animal es irrelevante."
+        },
+        {
+          "type": "gap",
+          "text": "My son ___ tall.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«My son» es tercera persona singular (he) ⇒ «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi hijo es alto",
+          "direction": "es-en",
+          "tiles": ["My", "son", "is", "tall", "are"],
+          "answer": "My son is tall",
+          "explanation": "Sujeto singular «my son» (he) + is + adjetivo invariable: «My son is tall»."
+        },
+        {
+          "type": "speak",
+          "text": "They are my parents.",
+          "es": "Ellos son mis padres."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "What is the correct pronoun replacement for \"the school desk\"?",
-      "options": ["He", "She", "It"],
-      "correct": 2,
-      "hint": "¿Es un ser vivo?",
-      "explanation": "«The school desk» es un objeto inanimado singular ⇒ pronombre neutro «it». «He» y «she» se reservan para personas (y mascotas queridas)."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ellos están en Italia",
-      "direction": "es-en",
-      "tiles": ["They", "are", "in", "Italy", "is", "them"],
-      "answer": "They are in Italy",
-      "explanation": "Sujeto plural «They» + «are» + ubicación. Recuerda que el inglés no permite omitir el pronombre: «Are in Italy» sería agramatical."
-    },
-    {
-      "type": "gap",
-      "text": "My parents ___ in Spain.",
-      "options": ["are", "is", "am"],
-      "answer": "are",
-      "explanation": "«My parents» es plural (equivale a they) y exige «are». El error «My parents is» es una discordancia de número típica de examen."
-    },
-    {
-      "type": "quiz",
-      "q": "Fill in the blank: \"My mother is a doctor. ___ is busy.\"",
-      "options": ["He", "She", "It"],
-      "correct": 1,
-      "hint": "¿Qué género tiene el sujeto original?",
-      "explanation": "«My mother» es un sustantivo singular femenino ⇒ se sustituye por «She». «He» denota masculino e «it» se reserva para lo inanimado."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nosotros somos altos",
-      "direction": "es-en",
-      "tiles": ["We", "are", "tall", "am", "they", "is"],
-      "answer": "We are tall",
-      "explanation": "«My brother and I» = We. Sujeto plural incluyente + «are» + adjetivo invariable (tall no cambia en plural)."
-    },
-    {
-      "type": "speak",
-      "text": "She is my sister.",
-      "es": "Ella es mi hermana."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja los abuelos y sobrinos",
-      "pairs": [
-        { "en": "grandfather", "es": "abuelo" },
-        { "en": "grandmother", "es": "abuela" },
-        { "en": "son", "es": "hijo" },
-        { "en": "nephew", "es": "sobrino" },
-        { "en": "niece", "es": "sobrina" }
+      "n": 3,
+      "title": "Hermanos, niños y bebés",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja hermanos y niños",
+          "pairs": [
+            { "en": "brother", "es": "hermano" },
+            { "en": "sister", "es": "hermana" },
+            { "en": "child", "es": "niño/a" },
+            { "en": "children", "es": "niños/as" },
+            { "en": "baby", "es": "bebé" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct plural of \"child\":",
+          "options": ["children", "childs", "childes"],
+          "correct": 0,
+          "hint": "Es un plural irregular.",
+          "explanation": "«Children» es el plural irregular de «child» (¡«childs» no existe!). Se usa con concordancia plural: «The children are happy»."
+        },
+        {
+          "type": "gap",
+          "text": "My sister and I = ___",
+          "options": ["We", "They", "You"],
+          "answer": "We",
+          "explanation": "Fórmula de la inclusión: cualquier persona + and I = We (nosotros). El hablante forma parte del grupo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi hermana está cansada",
+          "direction": "es-en",
+          "tiles": ["My", "sister", "is", "tired", "are", "she"],
+          "answer": "My sister is tired",
+          "explanation": "Sujeto singular femenino + is + adjetivo invariable: «My sister is tired». El adjetivo no tiene forma femenina en inglés."
+        },
+        {
+          "type": "speak",
+          "text": "She is my sister.",
+          "es": "Ella es mi hermana."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más hermanos y niños",
+          "pairs": [
+            { "en": "sister", "es": "hermana" },
+            { "en": "child", "es": "niño/a" },
+            { "en": "children", "es": "niños/as" },
+            { "en": "baby", "es": "bebé" },
+            { "en": "husband", "es": "esposo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which pronoun replaces \"my brother\"?",
+          "options": ["She", "It", "He"],
+          "correct": 2,
+          "hint": "Es una persona de sexo masculino.",
+          "explanation": "«My brother» es un sustantivo singular masculino ⇒ se sustituye por «He». «She» e «it» no corresponden a un hermano."
+        },
+        {
+          "type": "gap",
+          "text": "___ is my brother.",
+          "options": ["He", "It", "She"],
+          "answer": "He",
+          "explanation": "«Brother» (hermano) es un ser humano masculino ⇒ «He». El pronombre no puede omitirse: «Is my brother» es agramatical."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los niños están felices",
+          "direction": "es-en",
+          "tiles": ["The", "children", "are", "happy", "is", "childs"],
+          "answer": "The children are happy",
+          "explanation": "«Children» es el plural irregular de «child» (¡«childs» no existe!) y exige «are». Adjetivo invariable: happy, sin -s."
+        },
+        {
+          "type": "speak",
+          "text": "My brother is tall.",
+          "es": "Mi hermano es alto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja hermanos y niños sin repetir",
+          "pairs": [
+            { "en": "brother", "es": "hermano" },
+            { "en": "child", "es": "niño/a" },
+            { "en": "children", "es": "niños/as" },
+            { "en": "baby", "es": "bebé" },
+            { "en": "husband", "es": "esposo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["The baby are happy.", "The baby is happy.", "The baby happy is."],
+          "correct": 1,
+          "hint": "«Baby» es singular.",
+          "explanation": "«The baby» es singular ⇒ «is». La tercera persona singular (he/she/it) siempre concuerda con «is»."
+        },
+        {
+          "type": "gap",
+          "text": "The baby ___ happy.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«The baby» es singular ⇒ «is». La tercera persona singular (he/she/it) siempre concuerda con «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El bebé está feliz",
+          "direction": "es-en",
+          "tiles": ["The", "baby", "is", "happy", "are"],
+          "answer": "The baby is happy",
+          "explanation": "Sujeto singular «the baby» (it) + is + adjetivo invariable: «The baby is happy»."
+        },
+        {
+          "type": "speak",
+          "text": "The baby is happy.",
+          "es": "El bebé está feliz."
+        }
       ]
     },
     {
-      "type": "match",
-      "prompt": "Empareja personas",
-      "pairs": [
-        { "en": "boy", "es": "chico" },
-        { "en": "girl", "es": "chica" },
-        { "en": "man", "es": "hombre" },
-        { "en": "woman", "es": "mujer" },
-        { "en": "baby", "es": "bebé" }
+      "n": 4,
+      "title": "Abuelos y tíos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada miembro de la familia con su traducción",
+          "pairs": [
+            { "en": "mother", "es": "madre" },
+            { "en": "father", "es": "padre" },
+            { "en": "brother", "es": "hermano" },
+            { "en": "daughter", "es": "hija" },
+            { "en": "wife", "es": "esposa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Replace the underlined words with the correct pronoun: \"My grandfather and my grandmother are in England.\"",
+          "options": ["We", "They", "He"],
+          "correct": 1,
+          "hint": "El hablante no forma parte del grupo.",
+          "explanation": "«My grandfather and my grandmother» es un plural en tercera persona ⇒ «They». «We» requeriría que el hablante estuviera incluido, y «He» omitiría a la abuela."
+        },
+        {
+          "type": "gap",
+          "text": "My uncle and my aunt = ___",
+          "options": ["They", "We", "It"],
+          "answer": "They",
+          "explanation": "Fórmula de la exclusión: persona + and + otra persona (sin incluirme) = They. Si el hablante estuviera incluido («and I») sería We."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi tío es profesor",
+          "direction": "es-en",
+          "tiles": ["My", "uncle", "is", "a", "teacher", "the"],
+          "answer": "My uncle is a teacher",
+          "explanation": "Profesión singular ⇒ artículo clasificador: «My uncle is a teacher». Omitir la «a» es el calco típico del español («es profesor»)."
+        },
+        {
+          "type": "speak",
+          "text": "My uncle is a doctor.",
+          "es": "Mi tío es médico."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja los abuelos y sobrinos",
+          "pairs": [
+            { "en": "uncle", "es": "tío" },
+            { "en": "aunt", "es": "tía" },
+            { "en": "cousin", "es": "primo/a" },
+            { "en": "children", "es": "niños / hijos" },
+            { "en": "husband", "es": "esposo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which pronoun replaces \"my wife and I\"?",
+          "options": ["We", "They", "You"],
+          "correct": 0,
+          "hint": "El hablante forma parte del grupo.",
+          "explanation": "Fórmula de la inclusión: cualquier persona + and I = We. El hablante está incluido, así que corresponde «we»."
+        },
+        {
+          "type": "gap",
+          "text": "My wife and I ___ tired.",
+          "options": ["are", "is", "am"],
+          "answer": "are",
+          "explanation": "«My wife and I» = We ⇒ «are». No te dejes engañar por el «I» final: la concordancia la decide el sujeto compuesto plural."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi abuela es feliz",
+          "direction": "es-en",
+          "tiles": ["My", "grandmother", "is", "happy", "are"],
+          "answer": "My grandmother is happy",
+          "explanation": "Sujeto singular femenino («my grandmother» = she) + is + adjetivo invariable."
+        },
+        {
+          "type": "speak",
+          "text": "My grandfather is old.",
+          "es": "Mi abuelo es mayor."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja abuelos y tíos sin repetir",
+          "pairs": [
+            { "en": "wife", "es": "esposa" },
+            { "en": "grandfather", "es": "abuelo" },
+            { "en": "grandmother", "es": "abuela" },
+            { "en": "uncle", "es": "tío" },
+            { "en": "aunt", "es": "tía" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["My uncle are a doctor.", "My uncle a doctor is.", "My uncle is a doctor."],
+          "correct": 2,
+          "hint": "Sujeto singular + to be + artículo + profesión.",
+          "explanation": "«My uncle» es singular (he) ⇒ «is». Además, las profesiones singulares exigen el artículo clasificador «a»: «My uncle is a doctor»."
+        },
+        {
+          "type": "gap",
+          "text": "My grandmother ___ happy.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«My grandmother» es tercera persona singular (she) ⇒ «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi prima es alta",
+          "direction": "es-en",
+          "tiles": ["My", "cousin", "is", "tall", "are"],
+          "answer": "My cousin is tall",
+          "explanation": "Sujeto singular («my cousin» = she/he) + is + adjetivo invariable: «My cousin is tall»."
+        },
+        {
+          "type": "speak",
+          "text": "My cousin is young.",
+          "es": "Mi prima/o es joven."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "The pronoun \"you\" in English covers:",
-      "options": ["Only informal singular (tú)", "Tú, usted, vosotros and ustedes", "Only plural (vosotros/ustedes)"],
-      "correct": 1,
-      "hint": "El inglés moderno perdió la distinción de cortesía.",
-      "explanation": "«You» es multidimensional: cubre tú, usted, vosotros/as y ustedes. El antiguo «thou» (tú informal) se extinguió y «you» absorbió todos los usos."
-    },
-    {
-      "type": "quiz",
-      "q": "In A1 standard grammar, the word \"family\" is replaced by which pronoun?",
-      "options": ["They", "It", "She"],
-      "correct": 1,
-      "hint": "Gramaticalmente es un sustantivo singular.",
-      "explanation": "«Family» es un colectivo singular: la familia como institución se sustituye por «it» (My family is big. It is happy). Tratarla como «they» es el error típico de examen."
-    },
-    {
-      "type": "quiz",
-      "q": "When can an animal be referred to as \"he\" or \"she\"?",
-      "options": ["Never; animals are always «it»", "When it is a beloved pet", "Only for large animals"],
-      "correct": 1,
-      "hint": "Depende del vínculo afectivo.",
-      "explanation": "Los animales son «it» por defecto, pero las mascotas con vínculo afectivo estrecho pueden ser «he/she». El tamaño del animal es irrelevante."
-    },
-    {
-      "type": "gap",
-      "text": "My uncle and my aunt = ___",
-      "options": ["They", "We", "It"],
-      "answer": "They",
-      "explanation": "Fórmula de la exclusión: persona + and + otra persona (sin incluirme) = They. Si el hablante estuviera incluido («and I») sería We."
-    },
-    {
-      "type": "gap",
-      "text": "___ is my brother.",
-      "options": ["He", "It", "She"],
-      "answer": "He",
-      "explanation": "«Brother» (hermano) es un ser humano masculino ⇒ «He». El pronombre no puede omitirse: «Is my brother» es agramatical."
-    },
-    {
-      "type": "gap",
-      "text": "My family ___ big.",
-      "options": ["is", "are", "am"],
-      "answer": "is",
-      "explanation": "«Family» es un sustantivo colectivo singular en A1 ⇒ «is». Aunque englobe a varias personas, gramaticalmente funciona como una unidad (it)."
-    },
-    {
-      "type": "gap",
-      "text": "The baby ___ happy.",
-      "options": ["is", "are", "am"],
-      "answer": "is",
-      "explanation": "«The baby» es singular ⇒ «is». La tercera persona singular (he/she/it) siempre concuerda con «is»."
-    },
-    {
-      "type": "gap",
-      "text": "My wife and I ___ tired.",
-      "options": ["are", "is", "am"],
-      "answer": "are",
-      "explanation": "«My wife and I» = We ⇒ «are». No te dejes engañar por el «I» final: la concordancia la decide el sujeto compuesto plural."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él es mi padre",
-      "direction": "es-en",
-      "tiles": ["He", "is", "my", "father", "It", "a"],
-      "answer": "He is my father",
-      "explanation": "Persona masculina ⇒ «He». Con posesivo (my) no se usa artículo: «He is my father», no «a my father»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Mi hermana está cansada",
-      "direction": "es-en",
-      "tiles": ["My", "sister", "is", "tired", "are", "she"],
-      "answer": "My sister is tired",
-      "explanation": "Sujeto singular femenino + is + adjetivo invariable: «My sister is tired». El adjetivo no tiene forma femenina en inglés."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Los niños están felices",
-      "direction": "es-en",
-      "tiles": ["The", "children", "are", "happy", "is", "childs"],
-      "answer": "The children are happy",
-      "explanation": "«Children» es el plural irregular de «child» (¡«childs» no existe!) y exige «are». Adjetivo invariable: happy, sin -s."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Mi tío es profesor",
-      "direction": "es-en",
-      "tiles": ["My", "uncle", "is", "a", "teacher", "the"],
-      "answer": "My uncle is a teacher",
-      "explanation": "Profesión singular ⇒ artículo clasificador: «My uncle is a teacher». Omitir la «a» es el calco típico del español («es profesor»)."
-    },
-    {
-      "type": "speak",
-      "text": "My mother is a nurse.",
-      "es": "Mi madre es enfermera."
-    },
-    {
-      "type": "speak",
-      "text": "They are my parents.",
-      "es": "Ellos son mis padres."
+      "n": 5,
+      "title": "Sobrinos y personas: repaso",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja los abuelos y sobrinos",
+          "pairs": [
+            { "en": "grandfather", "es": "abuelo" },
+            { "en": "grandmother", "es": "abuela" },
+            { "en": "son", "es": "hijo" },
+            { "en": "nephew", "es": "sobrino" },
+            { "en": "niece", "es": "sobrina" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which pronoun replaces \"the boy\"?",
+          "options": ["He", "She", "It"],
+          "correct": 0,
+          "hint": "Es una persona de sexo masculino.",
+          "explanation": "«The boy» es un sustantivo singular masculino ⇒ se sustituye por «He». «It» solo vale para lo inanimado."
+        },
+        {
+          "type": "gap",
+          "text": "My niece ___ young.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«My niece» es tercera persona singular (she) ⇒ «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El hombre es alto",
+          "direction": "es-en",
+          "tiles": ["The", "man", "is", "tall", "are"],
+          "answer": "The man is tall",
+          "explanation": "Sujeto singular masculino («the man» = he) + is + adjetivo invariable."
+        },
+        {
+          "type": "speak",
+          "text": "The boy is happy.",
+          "es": "El chico está feliz."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja personas",
+          "pairs": [
+            { "en": "boy", "es": "chico" },
+            { "en": "girl", "es": "chica" },
+            { "en": "man", "es": "hombre" },
+            { "en": "woman", "es": "mujer" },
+            { "en": "baby", "es": "bebé" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which pronoun replaces \"the woman\"?",
+          "options": ["He", "She", "It"],
+          "correct": 1,
+          "hint": "Es una persona de sexo femenino.",
+          "explanation": "«The woman» es un sustantivo singular femenino ⇒ se sustituye por «She». «He» denota masculino e «it» se reserva para lo inanimado."
+        },
+        {
+          "type": "gap",
+          "text": "The man ___ tall.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«The man» es tercera persona singular (he) ⇒ «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La mujer es feliz",
+          "direction": "es-en",
+          "tiles": ["The", "woman", "is", "happy", "are"],
+          "answer": "The woman is happy",
+          "explanation": "Sujeto singular femenino («the woman» = she) + is + adjetivo invariable."
+        },
+        {
+          "type": "speak",
+          "text": "My niece is young.",
+          "es": "Mi sobrina es joven."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sobrinos y personas sin repetir",
+          "pairs": [
+            { "en": "nephew", "es": "sobrino" },
+            { "en": "niece", "es": "sobrina" },
+            { "en": "boy", "es": "chico" },
+            { "en": "girl", "es": "chica" },
+            { "en": "man", "es": "hombre" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["My nephew are happy.", "My nephew happy is.", "My nephew is happy."],
+          "correct": 2,
+          "hint": "Sujeto singular + to be + adjetivo, en ese orden.",
+          "explanation": "«My nephew» es singular (he) ⇒ «is», y el orden correcto es sujeto + verbo + adjetivo: «My nephew is happy»."
+        },
+        {
+          "type": "gap",
+          "text": "The boy and the girl ___ happy.",
+          "options": ["are", "is", "am"],
+          "answer": "are",
+          "explanation": "Sujeto compuesto («the boy and the girl» = they) ⇒ concordancia plural «are»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi sobrino es joven",
+          "direction": "es-en",
+          "tiles": ["My", "nephew", "is", "young", "are"],
+          "answer": "My nephew is young",
+          "explanation": "Sujeto singular («my nephew» = he) + is + adjetivo invariable: «My nephew is young»."
+        },
+        {
+          "type": "speak",
+          "text": "The woman is my mother.",
+          "es": "La mujer es mi madre."
+        }
+      ]
     }
   ]
 }

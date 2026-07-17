@@ -3,408 +3,621 @@
   "module": 22,
   "title": "Frequency Adverbs",
   "subtitle": "Adverbios de Frecuencia",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada adverbio de frecuencia con su traducción",
-      "pairs": [
+      "n": 1,
+      "title": "Alta frecuencia y posición intermedia",
+      "exercises": [
         {
-          "en": "always",
-          "es": "siempre"
+          "type": "match",
+          "prompt": "Empareja cada adverbio de alta frecuencia con su traducción",
+          "pairs": [
+            { "en": "always", "es": "siempre" },
+            { "en": "usually", "es": "usualmente" },
+            { "en": "normally", "es": "normalmente" },
+            { "en": "generally", "es": "generalmente" },
+            { "en": "often", "es": "a menudo" }
+          ]
         },
         {
-          "en": "usually",
-          "es": "usualmente"
+          "type": "quiz",
+          "q": "Choose the sentence with the correct word order:",
+          "options": ["She usually is tired after work.", "She is usually tired after work.", "She is tired usually after work."],
+          "correct": 1,
+          "hint": "El verbo «to be» actúa como un imán que empuja el adverbio a su derecha.",
+          "explanation": "Con el verbo «to be», el adverbio de una sola palabra va después: «She is usually tired». Colocarlo antes de «is» o al final de la frase viola la regla posicional del inglés."
         },
         {
-          "en": "often",
-          "es": "a menudo"
+          "type": "gap",
+          "text": "I ___ drink coffee in the morning.",
+          "options": ["often", "am often", "ever"],
+          "answer": "often",
+          "explanation": "Con verbos plenos, el adverbio va en posición intermedia, entre sujeto y verbo: «I often drink». «Am often» introduciría un «to be» imposible ante otro verbo pleno."
         },
         {
-          "en": "sometimes",
-          "es": "a veces"
+          "type": "wordbank",
+          "prompt": "Siempre bebo agua",
+          "direction": "es-en",
+          "tiles": ["I", "always", "drink", "water", "am", "every"],
+          "answer": "I always drink water",
+          "explanation": "Fórmula del sándwich: sujeto «I» + adverbio «always» + verbo pleno «drink». En español el adverbio es libre; en inglés su posición es fija."
         },
         {
-          "en": "never",
-          "es": "nunca"
+          "type": "speak",
+          "text": "I usually eat cereal for breakfast.",
+          "es": "Usualmente como cereales en el desayuno."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más adverbios de alta frecuencia",
+          "pairs": [
+            { "en": "always", "es": "siempre" },
+            { "en": "usually", "es": "usualmente" },
+            { "en": "generally", "es": "generalmente" },
+            { "en": "often", "es": "a menudo" },
+            { "en": "frequently", "es": "frecuentemente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence has the correct word order?",
+          "options": ["We often study English at night.", "We study often English at night.", "We study English often at night."],
+          "correct": 0,
+          "hint": "El adverbio va justo después del sujeto, antes del verbo pleno.",
+          "explanation": "Con verbos plenos, el adverbio de frecuencia ocupa la posición intermedia: sujeto + adverbio + verbo. «We often study» es correcto; separar el verbo de su objeto («study often English») es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "She is ___ happy.",
+          "options": ["always", "every day", "all days"],
+          "answer": "always",
+          "explanation": "Tras el verbo «to be» se coloca el adverbio simple: «She is always happy». «Every day» es una locución que iría al final de la frase, y «all days» es un calco del español."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella siempre está contenta",
+          "direction": "es-en",
+          "tiles": ["She", "is", "always", "happy", "does"],
+          "answer": "She is always happy",
+          "explanation": "Regla del imán del «to be»: el adverbio va después del verbo «is», nunca antes. «She always is happy» es el error clásico del hispanohablante."
+        },
+        {
+          "type": "speak",
+          "text": "We often study English at night.",
+          "es": "A menudo estudiamos inglés por la noche."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja los adverbios de alta frecuencia sin repetir",
+          "pairs": [
+            { "en": "always", "es": "siempre" },
+            { "en": "usually", "es": "usualmente" },
+            { "en": "normally", "es": "normalmente" },
+            { "en": "often", "es": "a menudo" },
+            { "en": "frequently", "es": "frecuentemente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the grammatically correct sentence:",
+          "options": ["Frequently I visit my grandmother on weekends.", "I visit frequently my grandmother on weekends.", "I frequently visit my grandmother on weekends."],
+          "correct": 2,
+          "hint": "Coloca el adverbio justo entre el sujeto y el verbo pleno, no antes de todo ni separando verbo y objeto.",
+          "explanation": "«Frequently» es un adverbio simple de frecuencia y debe ir en posición intermedia: sujeto + adverbio + verbo. Empezar la frase con el adverbio o insertarlo entre el verbo y su complemento no sigue la regla estándar de mid-position."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ study English at night.",
+          "options": ["often", "are often", "ever"],
+          "answer": "often",
+          "explanation": "El adverbio simple «often» va en posición intermedia ante el verbo pleno «study»: «We often study». «Are often» introduciría un «to be» imposible ante otro verbo pleno, y «ever» no es un adverbio afirmativo de frecuencia habitual."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Usualmente como cereales en el desayuno",
+          "direction": "es-en",
+          "tiles": ["I", "usually", "eat", "cereal", "for", "breakfast", "am"],
+          "answer": "I usually eat cereal for breakfast",
+          "explanation": "Posición intermedia del adverbio: «I usually eat...». Colocar «usually» al final o entre «eat» y «cereal» sería incorrecto en inglés estándar."
+        },
+        {
+          "type": "speak",
+          "text": "I frequently visit my grandmother.",
+          "es": "Frecuentemente visito a mi abuela."
         }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the sentence with the correct word order:",
-      "options": [
-        "She usually is tired after work.",
-        "She is usually tired after work.",
-        "She is tired usually after work."
-      ],
-      "correct": 1,
-      "hint": "El verbo «to be» actúa como un imán que empuja el adverbio a su derecha.",
-      "explanation": "Con el verbo «to be», el adverbio de una sola palabra va después: «She is usually tired». Colocarlo antes de «is» o al final de la frase viola la regla posicional del inglés."
-    },
-    {
-      "type": "gap",
-      "text": "I ___ drink coffee in the morning.",
-      "options": [
-        "often",
-        "am often",
-        "ever"
-      ],
-      "answer": "often",
-      "explanation": "Con verbos plenos, el adverbio va en posición intermedia, entre sujeto y verbo: «I often drink». «Am often» introduciría un «to be» imposible ante otro verbo pleno."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Siempre bebo agua",
-      "direction": "es-en",
-      "tiles": [
-        "I",
-        "always",
-        "drink",
-        "water",
-        "am",
-        "every"
-      ],
-      "answer": "I always drink water",
-      "explanation": "Fórmula del sándwich: sujeto «I» + adverbio «always» + verbo pleno «drink». En español el adverbio es libre; en inglés su posición es fija."
-    },
-    {
-      "type": "quiz",
-      "q": "Identify the grammatically correct sentence:",
-      "options": [
-        "We play tennis twice a week.",
-        "We twice a week play tennis.",
-        "We play twice a week tennis."
-      ],
-      "correct": 0,
-      "hint": "Las expresiones de frecuencia de varias palabras no van en posición intermedia.",
-      "explanation": "Las locuciones largas como «twice a week» van al final de la oración. Situarlas en posición intermedia o entre el verbo y su objeto es agramatical en inglés estándar."
-    },
-    {
-      "type": "gap",
-      "text": "She is ___ happy.",
-      "options": [
-        "always",
-        "every day",
-        "all days"
-      ],
-      "answer": "always",
-      "explanation": "Tras el verbo «to be» se coloca el adverbio simple: «She is always happy». «Every day» es una locución que iría al final de la frase, y «all days» es un calco del español."
-    },
-    {
-      "type": "speak",
-      "text": "I usually eat cereal for breakfast.",
-      "es": "Usualmente como cereales en el desayuno."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada adverbio de baja frecuencia con su traducción",
-      "pairs": [
+      "n": 2,
+      "title": "Frecuencia media-baja y la regla del to be",
+      "exercises": [
         {
-          "en": "rarely",
-          "es": "rara vez"
+          "type": "match",
+          "prompt": "Empareja cada adverbio de frecuencia con su traducción",
+          "pairs": [
+            { "en": "always", "es": "siempre" },
+            { "en": "usually", "es": "usualmente" },
+            { "en": "often", "es": "a menudo" },
+            { "en": "sometimes", "es": "a veces" },
+            { "en": "never", "es": "nunca" }
+          ]
         },
         {
-          "en": "seldom",
-          "es": "raras veces"
+          "type": "quiz",
+          "q": "Complete the sentence: \"I __________ watch TV in the morning.\"",
+          "options": ["rarely", "daily", "am rarely"],
+          "correct": 0,
+          "hint": "Busca un adverbio simple que encaje entre el sujeto y el verbo pleno.",
+          "explanation": "«Rarely» se coloca correctamente entre «I» y el verbo pleno «watch». «Am rarely» introduce un «to be» imposible ante otro verbo, y «daily» debe ir al final de la frase."
         },
         {
-          "en": "hardly ever",
-          "es": "casi nunca"
+          "type": "gap",
+          "text": "They ___ watch television.",
+          "options": ["rarely", "are rarely", "once a week"],
+          "answer": "rarely",
+          "explanation": "El adverbio simple «rarely» ocupa la posición intermedia ante el verbo pleno «watch». «Once a week» es una locución que solo puede ir al final de la oración."
         },
         {
-          "en": "occasionally",
-          "es": "ocasionalmente"
+          "type": "wordbank",
+          "prompt": "Nunca comemos carne",
+          "direction": "es-en",
+          "tiles": ["We", "never", "eat", "meat", "don't"],
+          "answer": "We never eat meat",
+          "explanation": "«Never» ocupa la posición intermedia y ya niega por sí solo: «We never eat meat». Añadir «don't» crearía la doble negación «*We don't never eat meat»."
         },
         {
-          "en": "frequently",
-          "es": "frecuentemente"
+          "type": "speak",
+          "text": "I am never tired in the morning.",
+          "es": "Nunca estoy cansado por la mañana."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada adverbio de baja frecuencia con su traducción",
+          "pairs": [
+            { "en": "rarely", "es": "rara vez" },
+            { "en": "seldom", "es": "raras veces" },
+            { "en": "hardly ever", "es": "casi nunca" },
+            { "en": "occasionally", "es": "ocasionalmente" },
+            { "en": "frequently", "es": "frecuentemente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly describes a negative habit?",
+          "options": ["My parents don't never drink coffee.", "My parents never drink coffee.", "My parents drink never coffee."],
+          "correct": 1,
+          "hint": "En inglés no se admite la doble negación.",
+          "explanation": "«Never» ya es negativo, así que va solo ante el verbo pleno: «My parents never drink coffee». Combinar «don't» con «never» es doble negación, y colocarlo tras el verbo es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "We are ___ busy on Mondays.",
+          "options": ["often", "every week", "frequently busy"],
+          "answer": "often",
+          "explanation": "Tras el verbo «to be» («are») va el adverbio simple: «We are often busy». Las locuciones largas como «every week» se colocan al final de la oración."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A menudo estamos ocupados los lunes",
+          "direction": "es-en",
+          "tiles": ["We", "are", "often", "busy", "on", "Mondays", "is"],
+          "answer": "We are often busy on Mondays",
+          "explanation": "Con «to be» el adverbio va detrás del verbo: «We are often busy». «*We often are busy» sería el error típico de anteposición."
+        },
+        {
+          "type": "speak",
+          "text": "She is always happy.",
+          "es": "Ella siempre está contenta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja los adverbios de baja frecuencia sin repetir",
+          "pairs": [
+            { "en": "sometimes", "es": "a veces" },
+            { "en": "seldom", "es": "raras veces" },
+            { "en": "rarely", "es": "rara vez" },
+            { "en": "hardly ever", "es": "casi nunca" },
+            { "en": "never", "es": "nunca" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence has the correct word order?",
+          "options": ["He always is late for class.", "He is late always for class.", "He is always late for class."],
+          "correct": 2,
+          "hint": "Recuerda dónde coloca el «imán» del verbo «to be» al adverbio.",
+          "explanation": "El adverbio debe ir después del verbo «to be»: «He is always late». Anteponerlo a «is» es el error más penalizado del módulo, y la posición tras «late» rompe el orden estándar."
+        },
+        {
+          "type": "gap",
+          "text": "I am never ___ in the morning.",
+          "options": ["tired", "tire", "tiredly"],
+          "answer": "tired",
+          "explanation": "Tras «am never» va el adjetivo «tired»: «I am never tired in the morning». El adverbio se coloca después del verbo «to be» y antes del adjetivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ocasionalmente bebo té",
+          "direction": "es-en",
+          "tiles": ["I", "occasionally", "drink", "tea", "sometimes"],
+          "answer": "I occasionally drink tea",
+          "explanation": "«Occasionally» ocupa la posición intermedia ante el verbo pleno «drink», igual que el resto de adverbios simples de frecuencia."
+        },
+        {
+          "type": "speak",
+          "text": "They seldom go to the cinema.",
+          "es": "Ellos raras veces van al cine."
         }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Complete the sentence: \"I __________ watch TV in the morning.\"",
-      "options": [
-        "daily",
-        "am rarely",
-        "rarely"
-      ],
-      "correct": 2,
-      "hint": "Busca un adverbio simple que encaje entre el sujeto y el verbo pleno.",
-      "explanation": "«Rarely» se coloca correctamente entre «I» y el verbo pleno «watch». «Am rarely» introduce un «to be» imposible ante otro verbo, y «daily» debe ir al final de la frase."
-    },
-    {
-      "type": "gap",
-      "text": "They ___ watch television.",
-      "options": [
-        "rarely",
-        "are rarely",
-        "once a week"
-      ],
-      "answer": "rarely",
-      "explanation": "El adverbio simple «rarely» ocupa la posición intermedia ante el verbo pleno «watch». «Once a week» es una locución que solo puede ir al final de la oración."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella siempre está contenta",
-      "direction": "es-en",
-      "tiles": [
-        "She",
-        "is",
-        "always",
-        "happy",
-        "does"
-      ],
-      "answer": "She is always happy",
-      "explanation": "Regla del imán del «to be»: el adverbio va después del verbo «is», nunca antes. «She always is happy» es el error clásico del hispanohablante."
-    },
-    {
-      "type": "gap",
-      "text": "I study English ___ day.",
-      "options": [
-        "every",
-        "always",
-        "all"
-      ],
-      "answer": "every",
-      "explanation": "«Every day» (todos los días) es la locución de frecuencia que va al final de la oración. «Always» no combina con «day» y «all day» significaría «todo el día», no frecuencia."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence correctly describes a negative habit?",
-      "options": [
-        "My parents don't never drink coffee.",
-        "My parents never drink coffee.",
-        "My parents drink never coffee."
-      ],
-      "correct": 1,
-      "hint": "En inglés no se admite la doble negación.",
-      "explanation": "«Never» ya es negativo, así que va solo ante el verbo pleno: «My parents never drink coffee». Combinar «don't» con «never» es doble negación, y colocarlo tras el verbo es agramatical."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nunca comemos carne",
-      "direction": "es-en",
-      "tiles": [
-        "We",
-        "never",
-        "eat",
-        "meat",
-        "don't"
-      ],
-      "answer": "We never eat meat",
-      "explanation": "«Never» ocupa la posición intermedia y ya niega por sí solo: «We never eat meat». Añadir «don't» crearía la doble negación «*We don't never eat meat»."
-    },
-    {
-      "type": "speak",
-      "text": "I am never tired in the morning.",
-      "es": "Nunca estoy cansado por la mañana."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada expresión de frecuencia con su traducción",
-      "pairs": [
+      "n": 3,
+      "title": "Ever, cifras de frecuencia y locuciones finales",
+      "exercises": [
         {
-          "en": "once",
-          "es": "una vez"
+          "type": "match",
+          "prompt": "Empareja cada expresión numérica y locución de frecuencia con su traducción",
+          "pairs": [
+            { "en": "once", "es": "una vez" },
+            { "en": "twice", "es": "dos veces" },
+            { "en": "three times", "es": "tres veces" },
+            { "en": "every day", "es": "todos los días" },
+            { "en": "every week", "es": "todas las semanas" }
+          ]
         },
         {
-          "en": "twice",
-          "es": "dos veces"
+          "type": "quiz",
+          "q": "Identify the grammatically correct sentence:",
+          "options": ["We play tennis twice a week.", "We twice a week play tennis.", "We play twice a week tennis."],
+          "correct": 0,
+          "hint": "Las expresiones de frecuencia de varias palabras no van en posición intermedia.",
+          "explanation": "Las locuciones largas como «twice a week» van al final de la oración. Situarlas en posición intermedia o entre el verbo y su objeto es agramatical en inglés estándar."
         },
         {
-          "en": "every day",
-          "es": "todos los días"
+          "type": "gap",
+          "text": "I study English ___ day.",
+          "options": ["every", "always", "all"],
+          "answer": "every",
+          "explanation": "«Every day» (todos los días) es la locución de frecuencia que va al final de la oración. «Always» no combina con «day» y «all day» significaría «todo el día», no frecuencia."
         },
         {
-          "en": "every week",
-          "es": "todas las semanas"
+          "type": "wordbank",
+          "prompt": "Estudio inglés todos los días",
+          "direction": "es-en",
+          "tiles": ["I", "study", "English", "every", "day", "always"],
+          "answer": "I study English every day",
+          "explanation": "La locución «every day» va al final de la oración, nunca en posición intermedia: «*I every day study English» es un error sintáctico grave."
         },
         {
-          "en": "daily",
-          "es": "diariamente"
+          "type": "speak",
+          "text": "I study English every day.",
+          "es": "Estudio inglés todos los días."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más expresiones numéricas de frecuencia",
+          "pairs": [
+            { "en": "ever", "es": "alguna vez" },
+            { "en": "once", "es": "una vez" },
+            { "en": "twice", "es": "dos veces" },
+            { "en": "three times", "es": "tres veces" },
+            { "en": "every day", "es": "todos los días" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the dialogue: A: \"Are you late for meetings?\" B: \"No, I am __________ on time. It is my common habit.\"",
+          "options": ["sometimes", "twice", "always"],
+          "correct": 2,
+          "hint": "La respuesta niega llegar tarde y habla de un hábito constante.",
+          "explanation": "«Always» aporta coherencia («siempre a tiempo») y va correctamente tras «am». «Sometimes» contradice el «No» inicial, y «twice» exige una unidad temporal («twice a week») al final de la frase."
+        },
+        {
+          "type": "gap",
+          "text": "She plays tennis once a ___.",
+          "options": ["week", "weekly", "always"],
+          "answer": "week",
+          "explanation": "La locución es «once a week» (una vez a la semana) y va al final de la oración. «Weekly» es un adverbio que no admite el artículo «a» delante."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella juega al tenis una vez a la semana",
+          "direction": "es-en",
+          "tiles": ["She", "plays", "tennis", "once", "a", "week", "play"],
+          "answer": "She plays tennis once a week",
+          "explanation": "La locución «once a week» cierra la oración: verbo + objeto + expresión de frecuencia. «*She once a week plays tennis» es agramatical."
+        },
+        {
+          "type": "speak",
+          "text": "They travel three times a week.",
+          "es": "Ellos viajan tres veces a la semana."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja expresiones de frecuencia mezclando niveles anteriores",
+          "pairs": [
+            { "en": "ever", "es": "alguna vez" },
+            { "en": "once", "es": "una vez" },
+            { "en": "twice", "es": "dos veces" },
+            { "en": "every day", "es": "todos los días" },
+            { "en": "never", "es": "nunca" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence places the frequency expression correctly?",
+          "options": ["She once a week plays tennis.", "She plays once a week tennis.", "She plays tennis once a week."],
+          "correct": 2,
+          "hint": "Las locuciones de tres palabras tienen su sitio reservado al final.",
+          "explanation": "«Once a week» debe ir al final: «She plays tennis once a week». La posición intermedia es solo para adverbios simples, y separar «play» de su objeto «tennis» es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "I don't ___ sleep late.",
+          "options": ["often", "never", "always late"],
+          "answer": "often",
+          "explanation": "Con auxiliares, el adverbio va entre el auxiliar y el verbo: «I don't often sleep late». «Never» con «don't» produciría una doble negación prohibida."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella corre dos veces a la semana",
+          "direction": "es-en",
+          "tiles": ["She", "runs", "twice", "a", "week", "always"],
+          "answer": "She runs twice a week",
+          "explanation": "«Twice a week» es una locución de frecuencia de tres palabras que se coloca al final de la oración: «She runs twice a week»."
+        },
+        {
+          "type": "speak",
+          "text": "Have you ever visited London?",
+          "es": "¿Has visitado Londres alguna vez?"
         }
       ]
     },
     {
-      "type": "gap",
-      "text": "She plays tennis once a ___.",
-      "options": [
-        "week",
-        "weekly",
-        "always"
-      ],
-      "answer": "week",
-      "explanation": "La locución es «once a week» (una vez a la semana) y va al final de la oración. «Weekly» es un adverbio que no admite el artículo «a» delante."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete the dialogue: A: \"Are you late for meetings?\" B: \"No, I am __________ on time. It is my common habit.\"",
-      "options": [
-        "always",
-        "sometimes",
-        "twice"
-      ],
-      "correct": 0,
-      "hint": "La respuesta niega llegar tarde y habla de un hábito constante.",
-      "explanation": "«Always» aporta coherencia («siempre a tiempo») y va correctamente tras «am». «Sometimes» contradice el «No» inicial, y «twice» exige una unidad temporal («twice a week») al final de la frase."
-    },
-    {
-      "type": "gap",
-      "text": "We are ___ busy on Mondays.",
-      "options": [
-        "often",
-        "every week",
-        "frequently busy"
-      ],
-      "answer": "often",
-      "explanation": "Tras el verbo «to be» («are») va el adverbio simple: «We are often busy». Las locuciones largas como «every week» se colocan al final de la oración."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Estudio inglés todos los días",
-      "direction": "es-en",
-      "tiles": [
-        "I",
-        "study",
-        "English",
-        "every",
-        "day",
-        "always"
-      ],
-      "answer": "I study English every day",
-      "explanation": "La locución «every day» va al final de la oración, nunca en posición intermedia: «*I every day study English» es un error sintáctico grave."
-    },
-    {
-      "type": "gap",
-      "text": "I don't ___ sleep late.",
-      "options": [
-        "often",
-        "never",
-        "always late"
-      ],
-      "answer": "often",
-      "explanation": "Con auxiliares, el adverbio va entre el auxiliar y el verbo: «I don't often sleep late». «Never» con «don't» produciría una doble negación prohibida."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence has the correct word order?",
-      "options": [
-        "He always is late for class.",
-        "He is late always for class.",
-        "He is always late for class."
-      ],
-      "correct": 2,
-      "hint": "Recuerda dónde coloca el «imán» del verbo «to be» al adverbio.",
-      "explanation": "El adverbio debe ir después del verbo «to be»: «He is always late». Anteponerlo a «is» es el error más penalizado del módulo, y la posición tras «late» rompe el orden estándar."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella juega al tenis una vez a la semana",
-      "direction": "es-en",
-      "tiles": [
-        "She",
-        "plays",
-        "tennis",
-        "once",
-        "a",
-        "week",
-        "play"
-      ],
-      "answer": "She plays tennis once a week",
-      "explanation": "La locución «once a week» cierra la oración: verbo + objeto + expresión de frecuencia. «*She once a week plays tennis» es agramatical."
-    },
-    {
-      "type": "speak",
-      "text": "She is always happy.",
-      "es": "Ella siempre está contenta."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra de tiempo con su traducción",
-      "pairs": [
+      "n": 4,
+      "title": "Locuciones largas y adverbios en -ly",
+      "exercises": [
         {
-          "en": "week",
-          "es": "semana"
+          "type": "match",
+          "prompt": "Empareja cada expresión de frecuencia con su traducción",
+          "pairs": [
+            { "en": "once", "es": "una vez" },
+            { "en": "twice", "es": "dos veces" },
+            { "en": "every day", "es": "todos los días" },
+            { "en": "every week", "es": "todas las semanas" },
+            { "en": "daily", "es": "diariamente" }
+          ]
         },
         {
-          "en": "month",
-          "es": "mes"
+          "type": "quiz",
+          "q": "Choose the sentence with the correct word order:",
+          "options": ["I every month visit my parents.", "I visit my parents every month.", "I visit every month my parents."],
+          "correct": 1,
+          "hint": "Las locuciones largas de frecuencia van al final de la oración.",
+          "explanation": "«Every month» es una locución de frecuencia larga y debe colocarse al final: «I visit my parents every month». Insertarla en posición intermedia o entre el verbo y su objeto es agramatical."
         },
         {
-          "en": "year",
-          "es": "año"
+          "type": "gap",
+          "text": "We visit our grandparents ___ year.",
+          "options": ["every", "always", "ever"],
+          "answer": "every",
+          "explanation": "«Every year» es la locución de frecuencia que va al final de la oración: «We visit our grandparents every year». «Always» no combina con «year» y «ever» no es afirmativo en frases declarativas."
         },
         {
-          "en": "regular",
-          "es": "regular / habitual"
+          "type": "wordbank",
+          "prompt": "Visitamos a mis abuelos todos los años",
+          "direction": "es-en",
+          "tiles": ["We", "visit", "my", "grandparents", "every", "year", "always"],
+          "answer": "We visit my grandparents every year",
+          "explanation": "«Every year» es una locución larga y se coloca al final de la oración: «We visit my grandparents every year»."
         },
         {
-          "en": "common",
-          "es": "común / frecuente"
+          "type": "speak",
+          "text": "They travel three times a month.",
+          "es": "Ellos viajan tres veces al mes."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja los adverbios de periodicidad en -ly",
+          "pairs": [
+            { "en": "every month", "es": "todos los meses" },
+            { "en": "daily", "es": "diariamente" },
+            { "en": "weekly", "es": "semanalmente" },
+            { "en": "monthly", "es": "mensualmente" },
+            { "en": "yearly", "es": "anualmente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses the periodicity adverb correctly?",
+          "options": ["This magazine is published monthly.", "This magazine is published a monthly.", "This magazine is monthly published."],
+          "correct": 0,
+          "hint": "«Monthly» funciona como adverbio simple, sin artículo.",
+          "explanation": "«Monthly» es un adverbio en «-ly» que se coloca tras el verbo (aquí en pasiva, al final): «is published monthly». No lleva artículo «a» delante ni se interpone entre el auxiliar y el participio."
+        },
+        {
+          "type": "gap",
+          "text": "This report is updated ___.",
+          "options": ["daily", "every", "month"],
+          "answer": "daily",
+          "explanation": "«Daily» es un adverbio en «-ly» que expresa periodicidad diaria y se coloca al final de la oración: «updated daily»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este informe se actualiza diariamente",
+          "direction": "es-en",
+          "tiles": ["This", "report", "is", "updated", "daily", "every"],
+          "answer": "This report is updated daily",
+          "explanation": "«Daily» es el adverbio de periodicidad que corresponde a «diariamente» y va al final de la frase."
+        },
+        {
+          "type": "speak",
+          "text": "We visit our grandparents every year.",
+          "es": "Visitamos a nuestros abuelos todos los años."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja adverbios de periodicidad sin repetir",
+          "pairs": [
+            { "en": "every month", "es": "todos los meses" },
+            { "en": "every year", "es": "todos los años" },
+            { "en": "daily", "es": "diariamente" },
+            { "en": "weekly", "es": "semanalmente" },
+            { "en": "yearly", "es": "anualmente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete naturally: The newsletter comes out once a month, so it is...",
+          "options": ["...a daily newsletter.", "...a weekly newsletter.", "...a monthly newsletter."],
+          "correct": 2,
+          "hint": "Piensa en la periodicidad que corresponde a «once a month».",
+          "explanation": "Si algo ocurre «once a month», su periodicidad es «monthly» (mensual). «Daily» sería diaria y «weekly» semanal, periodicidades distintas."
+        },
+        {
+          "type": "gap",
+          "text": "The team meets ___ to review progress.",
+          "options": ["weekly", "week", "every"],
+          "answer": "weekly",
+          "explanation": "«Weekly» es el adverbio de periodicidad semanal («semanalmente»); «week» es el sustantivo y «every» necesitaría ir acompañado de «week» para formar la locución «every week»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La revista se publica mensualmente",
+          "direction": "es-en",
+          "tiles": ["The", "magazine", "is", "published", "monthly", "weekly"],
+          "answer": "The magazine is published monthly",
+          "explanation": "«Monthly» (mensualmente) es el adverbio de periodicidad correcto; «weekly» sería semanalmente, un distractor plausible."
+        },
+        {
+          "type": "speak",
+          "text": "This magazine is published monthly.",
+          "es": "Esta revista se publica mensualmente."
         }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which sentence places the frequency expression correctly?",
-      "options": [
-        "She once a week plays tennis.",
-        "She plays tennis once a week.",
-        "She plays once a week tennis."
-      ],
-      "correct": 1,
-      "hint": "Las locuciones de tres palabras tienen su sitio reservado al final.",
-      "explanation": "«Once a week» debe ir al final: «She plays tennis once a week». La posición intermedia es solo para adverbios simples, y separar «play» de su objeto «tennis» es agramatical."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Usualmente como cereales en el desayuno",
-      "direction": "es-en",
-      "tiles": [
-        "I",
-        "usually",
-        "eat",
-        "cereal",
-        "for",
-        "breakfast",
-        "am"
-      ],
-      "answer": "I usually eat cereal for breakfast",
-      "explanation": "Posición intermedia del adverbio: «I usually eat...». Colocar «usually» al final o entre «eat» y «cereal» sería incorrecto en inglés estándar."
-    },
-    {
-      "type": "gap",
-      "text": "I am never ___ in the morning.",
-      "options": [
-        "tired",
-        "tire",
-        "tiredly"
-      ],
-      "answer": "tired",
-      "explanation": "Tras «am never» va el adjetivo «tired»: «I am never tired in the morning». El adverbio se coloca después del verbo «to be» y antes del adjetivo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "A menudo estamos ocupados los lunes",
-      "direction": "es-en",
-      "tiles": [
-        "We",
-        "are",
-        "often",
-        "busy",
-        "on",
-        "Mondays",
-        "is"
-      ],
-      "answer": "We are often busy on Mondays",
-      "explanation": "Con «to be» el adverbio va detrás del verbo: «We are often busy». «*We often are busy» sería el error típico de anteposición."
-    },
-    {
-      "type": "speak",
-      "text": "I study English every day.",
-      "es": "Estudio inglés todos los días."
+      "n": 5,
+      "title": "Repaso acumulativo: tiempo, regularidad y las 4 reglas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra de tiempo con su traducción",
+          "pairs": [
+            { "en": "week", "es": "semana" },
+            { "en": "month", "es": "mes" },
+            { "en": "year", "es": "año" },
+            { "en": "regular", "es": "regular / habitual" },
+            { "en": "common", "es": "común / frecuente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence with the correct word order:",
+          "options": ["My habits are regular normally.", "My habits normally are regular.", "My habits are normally regular."],
+          "correct": 2,
+          "hint": "El adverbio va justo después del verbo «to be».",
+          "explanation": "Con el verbo «to be», el adverbio va después: «My habits are normally regular». Anteponerlo («normally are») o desplazarlo al final rompe la regla del imán."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ visits her parents every week.",
+          "options": ["always", "is always", "ever"],
+          "answer": "always",
+          "explanation": "Repaso: con verbo pleno «visits», el adverbio simple va en posición intermedia: «She always visits». La locución «every week» cierra la frase, sin repetir otro marcador de frecuencia."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un error común",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "common", "mistake", "regular"],
+          "answer": "It is a common mistake",
+          "explanation": "«Common» (común/frecuente) es el adjetivo correcto; «regular» sería un distractor con significado próximo pero distinto matiz."
+        },
+        {
+          "type": "speak",
+          "text": "It is a common mistake.",
+          "es": "Es un error común."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de tiempo y regularidad",
+          "pairs": [
+            { "en": "day", "es": "día" },
+            { "en": "week", "es": "semana" },
+            { "en": "month", "es": "mes" },
+            { "en": "year", "es": "año" },
+            { "en": "common", "es": "común / frecuente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly reviews a habit with an auxiliary?",
+          "options": ["I don't usually work on Sundays.", "I usually don't work on Sundays.", "I don't work usually on Sundays."],
+          "correct": 0,
+          "hint": "Recuerda: con auxiliares el adverbio va entre el auxiliar y el verbo principal.",
+          "explanation": "La regla de este módulo coloca el adverbio entre el auxiliar y el verbo pleno: «I don't usually work». Situarlo antes del auxiliar o después del verbo no sigue el patrón enseñado."
+        },
+        {
+          "type": "gap",
+          "text": "This is not a ___ mistake; it happens all the time.",
+          "options": ["common", "regular habit", "never"],
+          "answer": "common",
+          "explanation": "«Common» (común/frecuente) es el adjetivo que describe algo que ocurre con frecuencia. Las otras opciones no encajan gramaticalmente en el hueco."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella nunca llega tarde a las reuniones",
+          "direction": "es-en",
+          "tiles": ["She", "never", "arrives", "late", "to", "meetings", "doesn't"],
+          "answer": "She never arrives late to meetings",
+          "explanation": "«Never» ya es negativo y ocupa la posición intermedia; añadir «doesn't» crearía una doble negación agramatical, el error de la Tabla 22.3."
+        },
+        {
+          "type": "speak",
+          "text": "She never arrives late to meetings.",
+          "es": "Ella nunca llega tarde a las reuniones."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja repasando adverbios y palabras de tiempo",
+          "pairs": [
+            { "en": "day", "es": "día" },
+            { "en": "year", "es": "año" },
+            { "en": "regular", "es": "regular / habitual" },
+            { "en": "always", "es": "siempre" },
+            { "en": "never", "es": "nunca" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the review: it's not a rare event, it's...",
+          "options": ["...an occasionally visit.", "...a common occurrence.", "...a hardly ever situation."],
+          "correct": 1,
+          "hint": "Busca la palabra que significa «común/frecuente» y funciona como adjetivo.",
+          "explanation": "«Common» (común/frecuente) es el adjetivo correcto para describir algo habitual: «a common occurrence». Las otras opciones combinan mal adverbios de frecuencia con sustantivos."
+        },
+        {
+          "type": "gap",
+          "text": "We don't ___ eat meat; it's a rare choice for us.",
+          "options": ["often", "never", "always ever"],
+          "answer": "often",
+          "explanation": "Repaso de la regla del auxiliar: «don't» + adverbio + verbo: «We don't often eat meat». «Never» con «don't» crearía doble negación, error señalado en la Tabla 22.3."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Normalmente somos puntuales",
+          "direction": "es-en",
+          "tiles": ["We", "are", "normally", "punctual", "is"],
+          "answer": "We are normally punctual",
+          "explanation": "Repaso de la regla del imán: con «to be» («are»), el adverbio «normally» va después del verbo, nunca antes."
+        },
+        {
+          "type": "speak",
+          "text": "We are normally punctual, but we don't often work on Sundays.",
+          "es": "Normalmente somos puntuales, pero no solemos trabajar los domingos."
+        }
+      ]
     }
   ]
 }

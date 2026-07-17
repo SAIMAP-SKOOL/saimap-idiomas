@@ -3,238 +3,621 @@
   "module": 10,
   "title": "Adjectives: Colours and Descriptions",
   "subtitle": "Adjetivos: Colores y Descripciones",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada color con su traducción",
-      "pairs": [
-        { "en": "red", "es": "rojo" },
-        { "en": "blue", "es": "azul" },
-        { "en": "green", "es": "verde" },
-        { "en": "yellow", "es": "amarillo" },
-        { "en": "black", "es": "negro" }
+      "n": 1,
+      "title": "Colores primarios y posición del adjetivo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada color con su traducción",
+          "pairs": [
+            { "en": "red", "es": "rojo" },
+            { "en": "blue", "es": "azul" },
+            { "en": "green", "es": "verde" },
+            { "en": "yellow", "es": "amarillo" },
+            { "en": "black", "es": "negro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Fill in the blank: \"Those are ______ cars.\"",
+          "options": ["reds", "red", "reding"],
+          "correct": 1,
+          "hint": "¿El adjetivo inglés cambia cuando el sustantivo es plural?",
+          "explanation": "El adjetivo en inglés no varía en número: aunque «cars» está en plural, «red» permanece invariable. «Reds» calca la concordancia del español y «reding» no existe como adjetivo."
+        },
+        {
+          "type": "gap",
+          "text": "I have a ___ car.",
+          "options": ["red", "roja", "reds"],
+          "answer": "red",
+          "explanation": "El adjetivo inglés es invariable: no concuerda en género («roja») ni admite plural («reds»). «A red car» = un coche rojo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada color con su traducción",
+          "pairs": [
+            { "en": "color", "es": "color" },
+            { "en": "red", "es": "rojo" },
+            { "en": "blue", "es": "azul" },
+            { "en": "green", "es": "verde" },
+            { "en": "yellow", "es": "amarillo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["I have a car red.", "I have a red cars.", "I have a red car."],
+          "correct": 2,
+          "hint": "Posición del adjetivo y concordancia del artículo con el sustantivo.",
+          "explanation": "El adjetivo atributivo es siempre prenominal: «a red car». «A car red» pospone el adjetivo (agramatical) y «a red cars» combina el artículo singular «a» con un sustantivo plural."
+        },
+        {
+          "type": "gap",
+          "text": "I need something ___ for the party.",
+          "options": ["red", "reds", "roja"],
+          "answer": "red",
+          "explanation": "Con pronombres indefinidos compuestos («something», «nothing»...) el adjetivo va obligatoriamente después, siempre en su forma invariable: «something red»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada color con su traducción",
+          "pairs": [
+            { "en": "color", "es": "color" },
+            { "en": "red", "es": "rojo" },
+            { "en": "green", "es": "verde" },
+            { "en": "yellow", "es": "amarillo" },
+            { "en": "black", "es": "negro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «El coche es rojo» in English?",
+          "options": ["The car is red.", "The car have red.", "Red is the car."],
+          "correct": 0,
+          "hint": "Para predicar una cualidad se necesita un verbo copulativo.",
+          "explanation": "La cualidad se predica con el copulativo «to be»: «The car is red». «Have» no sirve para predicar cualidades, y «Red is the car» invierte el orden canónico de la oración."
+        },
+        {
+          "type": "gap",
+          "text": "My bag is ___.",
+          "options": ["blue", "blues", "azul"],
+          "answer": "blue",
+          "explanation": "El adjetivo «blue» no lleva marca de plural ni se traduce directamente del español: es invariable en cualquier posición predicativa."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un coche rojo",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "red", "car", "reds", "blue"],
+          "answer": "It is a red car",
+          "explanation": "El adjetivo atributivo va siempre antes del sustantivo en inglés: «a red car», nunca «a car red»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los coches son rojos",
+          "direction": "es-en",
+          "tiles": ["The", "cars", "are", "red", "reds", "is"],
+          "answer": "The cars are red",
+          "explanation": "Aunque el sujeto es plural («cars» + «are»), el adjetivo «red» permanece invariable: los adjetivos ingleses nunca llevan «-s»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El sol es amarillo",
+          "direction": "es-en",
+          "tiles": ["The", "sun", "is", "yellow", "yellows", "a"],
+          "answer": "The sun is yellow",
+          "explanation": "«Yellow» en posición predicativa no lleva artículo ni marca de género: «The sun is yellow»."
+        },
+        {
+          "type": "speak",
+          "text": "It's a red ball.",
+          "es": "Es una pelota roja."
+        },
+        {
+          "type": "speak",
+          "text": "My car is blue.",
+          "es": "Mi coche es azul."
+        },
+        {
+          "type": "speak",
+          "text": "The grass is green.",
+          "es": "La hierba es verde."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct sentence.",
-      "options": ["The dog is a big brown.", "A brown dog big is there.", "There is a big brown dog."],
-      "correct": 2,
-      "hint": "El adjetivo va antes del sustantivo, y el tamaño antes del color.",
-      "explanation": "Solo la tercera opción respeta las dos reglas: el adjetivo precede al sustantivo y el orden es tamaño + color («big brown dog»). Las otras posponen los adjetivos o colocan mal el artículo con adjetivos predicativos."
-    },
-    {
-      "type": "gap",
-      "text": "I have a ___ car.",
-      "options": ["red", "roja", "reds"],
-      "answer": "red",
-      "explanation": "El adjetivo inglés es invariable: no concuerda en género («roja») ni admite plural («reds»). «A red car» = un coche rojo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Es un coche rojo",
-      "direction": "es-en",
-      "tiles": ["It", "is", "a", "red", "car", "reds", "blue"],
-      "answer": "It is a red car",
-      "explanation": "El adjetivo atributivo va siempre antes del sustantivo en inglés: «a red car», nunca «a car red»."
-    },
-    {
-      "type": "quiz",
-      "q": "Fill in the blank: \"Those are ______ cars.\"",
-      "options": ["reds", "red", "reding"],
-      "correct": 1,
-      "hint": "¿El adjetivo inglés cambia cuando el sustantivo es plural?",
-      "explanation": "El adjetivo en inglés no varía en número: aunque «cars» está en plural, «red» permanece invariable. «Reds» calca la concordancia del español y «reding» no existe como adjetivo."
-    },
-    {
-      "type": "gap",
-      "text": "The ball is ___.",
-      "options": ["round", "rounds", "a round"],
-      "answer": "round",
-      "explanation": "En posición predicativa (tras el verbo copulativo «is»), el adjetivo tampoco lleva marca de número ni necesita artículo: «The ball is round»."
-    },
-    {
-      "type": "speak",
-      "text": "It's a red ball.",
-      "es": "Es una pelota roja."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada color con su traducción",
-      "pairs": [
-        { "en": "white", "es": "blanco" },
-        { "en": "grey", "es": "gris" },
-        { "en": "brown", "es": "marrón" },
-        { "en": "purple", "es": "morado" },
-        { "en": "pink", "es": "rosa" }
+      "n": 2,
+      "title": "Más colores: sin género ni plural",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada color con su traducción",
+          "pairs": [
+            { "en": "white", "es": "blanco" },
+            { "en": "grey", "es": "gris" },
+            { "en": "brown", "es": "marrón" },
+            { "en": "purple", "es": "morado" },
+            { "en": "pink", "es": "rosa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which colour is a carrot?",
+          "options": ["orange", "purple", "grey"],
+          "correct": 0,
+          "hint": "Piensa en el color de la verdura.",
+          "explanation": "Una zanahoria es de color «orange» (naranja). «Purple» es morado y «grey» es gris, colores que no describen una zanahoria."
+        },
+        {
+          "type": "gap",
+          "text": "The elephant is ___.",
+          "options": ["grey", "greys", "gris"],
+          "answer": "grey",
+          "explanation": "«Grey» es invariable: no lleva marca de plural ni se traduce directamente. Se usa siempre en su forma base tras el verbo copulativo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más colores con su traducción",
+          "pairs": [
+            { "en": "orange", "es": "naranja" },
+            { "en": "pink", "es": "rosa" },
+            { "en": "brown", "es": "marrón" },
+            { "en": "purple", "es": "morado" },
+            { "en": "white", "es": "blanco" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["A brown table is.", "A brown table is there.", "There is a brown table."],
+          "correct": 2,
+          "hint": "Solo una opción respeta el orden sujeto-verbo-adjetivo del inglés.",
+          "explanation": "«There is a brown table» sigue el orden correcto: «there is» + artículo + adjetivo + sustantivo. Las otras dos opciones colocan mal el verbo respecto al adjetivo."
+        },
+        {
+          "type": "gap",
+          "text": "I like ___ flowers.",
+          "options": ["purple", "purples", "morado"],
+          "answer": "purple",
+          "explanation": "«Purple» modifica a «flowers» sin cambiar de forma, aunque el sustantivo esté en plural: los adjetivos ingleses no concuerdan en número."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja colores sin repetir",
+          "pairs": [
+            { "en": "white", "es": "blanco" },
+            { "en": "grey", "es": "gris" },
+            { "en": "orange", "es": "naranja" },
+            { "en": "purple", "es": "morado" },
+            { "en": "pink", "es": "rosa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «una camisa rosa»?",
+          "options": ["a shirt pink", "a pink shirt", "a rosa shirt"],
+          "correct": 1,
+          "hint": "El adjetivo de color va justo antes del sustantivo, en inglés.",
+          "explanation": "«A pink shirt» respeta la posición prenominal del adjetivo. «A shirt pink» pospone el adjetivo (agramatical) y «rosa» es un calco directo del español."
+        },
+        {
+          "type": "gap",
+          "text": "She has a ___ bag.",
+          "options": ["brown", "browns", "marrón"],
+          "answer": "brown",
+          "explanation": "El adjetivo «brown» precede al sustantivo «bag» sin cambiar de forma, igual que cualquier otro color en inglés."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo una bufanda blanca",
+          "direction": "es-en",
+          "tiles": ["I", "have", "a", "white", "scarf", "whites", "black"],
+          "answer": "I have a white scarf",
+          "explanation": "«White» precede al sustantivo «scarf» sin marca de género: la bufanda es femenina en español pero el adjetivo inglés no cambia."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El gato es gris",
+          "direction": "es-en",
+          "tiles": ["The", "cat", "is", "grey", "greys", "a"],
+          "answer": "The cat is grey",
+          "explanation": "En posición predicativa, «grey» va tras «is» sin artículo ni marca de plural."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella tiene zapatos morados",
+          "direction": "es-en",
+          "tiles": ["She", "has", "purple", "shoes", "purples", "a"],
+          "answer": "She has purple shoes",
+          "explanation": "«Purple» modifica a «shoes» (plural) sin cambiar de forma: nunca «purples shoes»."
+        },
+        {
+          "type": "speak",
+          "text": "I have a brown dog.",
+          "es": "Tengo un perro marrón."
+        },
+        {
+          "type": "speak",
+          "text": "Her dress is pink.",
+          "es": "Su vestido es rosa."
+        },
+        {
+          "type": "speak",
+          "text": "The sky is orange at sunset.",
+          "es": "El cielo es naranja al atardecer."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "I need something ___ for the party.",
-      "options": ["red", "reds", "roja"],
-      "answer": "red",
-      "explanation": "Con pronombres indefinidos compuestos («something», «nothing»...) el adjetivo va obligatoriamente después, siempre en su forma invariable: «something red»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence uses the adjective in PREDICATIVE position?",
-      "options": ["I have a beautiful house.", "The beautiful house is old.", "The house is beautiful."],
-      "correct": 2,
-      "hint": "Busca el adjetivo separado del sustantivo por un verbo copulativo.",
-      "explanation": "En la posición predicativa el adjetivo va tras un verbo copulativo: «The house is beautiful». En las otras dos opciones «beautiful» está en posición atributiva, directamente antes del sustantivo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "La casa es grande",
-      "direction": "es-en",
-      "tiles": ["The", "house", "is", "big", "bigs", "a"],
-      "answer": "The house is big",
-      "explanation": "Estructura predicativa: sujeto + «to be» + adjetivo. «Big» es la opción coloquial y general para «grande», y nunca lleva marca de género ni número."
-    },
-    {
-      "type": "gap",
-      "text": "She has a ___ shirt.",
-      "options": ["light blue", "blue light", "light blues"],
-      "answer": "light blue",
-      "explanation": "El modificador de intensidad («light», claro) precede al color: «light blue» = azul claro. «Blue light» significaría «luz azul», un sintagma completamente distinto."
-    },
-    {
-      "type": "quiz",
-      "q": "A student writes: \"My mother has a dress beautifuls whites.\" How many errors are there?",
-      "options": ["One error", "Two errors", "Three errors"],
-      "correct": 2,
-      "hint": "Revisa la posición de los adjetivos y sus terminaciones.",
-      "explanation": "Hay tres errores: «beautifuls» y «whites» llevan una «-s» de plural que el adjetivo inglés nunca admite, y ambos adjetivos están pospuestos al sustantivo. Lo correcto: «a beautiful white dress»."
-    },
-    {
-      "type": "speak",
-      "text": "The dog looks big.",
-      "es": "El perro parece grande."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada adjetivo con su traducción",
-      "pairs": [
-        { "en": "big", "es": "grande" },
-        { "en": "small", "es": "pequeño" },
-        { "en": "long", "es": "largo" },
-        { "en": "short", "es": "corto" },
-        { "en": "round", "es": "redondo" }
+      "n": 3,
+      "title": "Intensidad de color y formas: círculo, cuadrado",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "bright", "es": "brillante" },
+            { "en": "dark", "es": "oscuro" },
+            { "en": "light", "es": "claro" },
+            { "en": "shape", "es": "forma" },
+            { "en": "circle", "es": "círculo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct translation of \"Tengo un bolígrafo azul claro\"?",
+          "options": ["I have a light blue pen.", "I have a blue light pen.", "I have a pen blue light."],
+          "correct": 0,
+          "hint": "El modificador de intensidad va antes del color, y todo antes del sustantivo.",
+          "explanation": "«Light blue» (azul claro) precede al sustantivo «pen». «Blue light pen» significaría «bolígrafo de luz azul», y la tercera opción pospone los adjetivos, algo agramatical en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "She has a ___ shirt.",
+          "options": ["light blue", "blue light", "light blues"],
+          "answer": "light blue",
+          "explanation": "El modificador de intensidad («light», claro) precede al color: «light blue» = azul claro. «Blue light» significaría «luz azul», un sintagma completamente distinto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras con su traducción",
+          "pairs": [
+            { "en": "dark", "es": "oscuro" },
+            { "en": "light", "es": "claro" },
+            { "en": "shape", "es": "forma" },
+            { "en": "circle", "es": "círculo" },
+            { "en": "square", "es": "cuadrado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which word means \"forma\"?",
+          "options": ["shapes", "shaped", "shape"],
+          "correct": 2,
+          "hint": "Busca la forma base del sustantivo, sin terminaciones añadidas.",
+          "explanation": "«Shape» es la forma base del sustantivo (forma). «Shapes» es el plural y «shaped» es un adjetivo derivado (con forma de), ninguno responde a la pregunta."
+        },
+        {
+          "type": "gap",
+          "text": "The sun is very ___ today.",
+          "options": ["bright", "brights", "brillante"],
+          "answer": "bright",
+          "explanation": "«Bright» describe intensidad luminosa y es invariable, como todos los adjetivos ingleses: nunca «brights» ni el calco «brillante»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja formas y colores sin repetir",
+          "pairs": [
+            { "en": "bright", "es": "brillante" },
+            { "en": "light", "es": "claro" },
+            { "en": "circle", "es": "círculo" },
+            { "en": "square", "es": "cuadrado" },
+            { "en": "red", "es": "rojo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["It is a window square.", "It is a square window.", "It a square is window."],
+          "correct": 1,
+          "hint": "El adjetivo de forma también va antes del sustantivo.",
+          "explanation": "«Square» funciona aquí como adjetivo y precede al sustantivo: «a square window». Las otras opciones posponen el adjetivo o rompen el orden de la oración."
+        },
+        {
+          "type": "gap",
+          "text": "The window is ___.",
+          "options": ["square", "squares", "cuadrado"],
+          "answer": "square",
+          "explanation": "«Square» en posición predicativa no lleva marca de plural ni se traduce literalmente: «The window is square»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo una camisa azul claro",
+          "direction": "es-en",
+          "tiles": ["I", "have", "a", "light", "blue", "shirt", "dark", "blues"],
+          "answer": "I have a light blue shirt",
+          "explanation": "El compuesto adjetival va antes del sustantivo y el modificador antes del color: «light blue shirt». El orden inverso («blue light») cambiaría el significado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El cielo es oscuro",
+          "direction": "es-en",
+          "tiles": ["The", "sky", "is", "dark", "darks", "light"],
+          "answer": "The sky is dark",
+          "explanation": "Adjetivo predicativo tras el copulativo «is»: «dark» (oscuro) queda invariable, sin artículo ni marca de número."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una ventana cuadrada",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "square", "window", "squares", "circle"],
+          "answer": "It is a square window",
+          "explanation": "«Square» precede al sustantivo «window» como cualquier adjetivo atributivo, sin marca de plural."
+        },
+        {
+          "type": "speak",
+          "text": "She has a dark green car.",
+          "es": "Ella tiene un coche verde oscuro."
+        },
+        {
+          "type": "speak",
+          "text": "I like this bright colour.",
+          "es": "Me gusta este color vivo."
+        },
+        {
+          "type": "speak",
+          "text": "The circle is light blue.",
+          "es": "El círculo es azul claro."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Tengo una camisa azul claro",
-      "direction": "es-en",
-      "tiles": ["I", "have", "a", "light", "blue", "shirt", "dark", "blues"],
-      "answer": "I have a light blue shirt",
-      "explanation": "El compuesto adjetival va antes del sustantivo y el modificador antes del color: «light blue shirt». El orden inverso («blue light») cambiaría el significado."
-    },
-    {
-      "type": "gap",
-      "text": "It is a very ___ building.",
-      "options": ["tall", "long", "large"],
-      "answer": "tall",
-      "explanation": "Para la dimensión vertical (edificios, personas) se usa «tall»; «long» se reserva para la dimensión horizontal («a long road»). Nunca «a long building» para la altura."
-    },
-    {
-      "type": "quiz",
-      "q": "What is the correct translation of \"Tengo un bolígrafo azul claro\"?",
-      "options": ["I have a light blue pen.", "I have a blue light pen.", "I have a pen blue light."],
-      "correct": 0,
-      "hint": "El modificador de intensidad va antes del color, y todo antes del sustantivo.",
-      "explanation": "«Light blue» (azul claro) precede al sustantivo «pen». «Blue light pen» significaría «bolígrafo de luz azul», y la tercera opción pospone los adjetivos, algo agramatical en inglés."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "El cielo es oscuro",
-      "direction": "es-en",
-      "tiles": ["The", "sky", "is", "dark", "darks", "light"],
-      "answer": "The sky is dark",
-      "explanation": "Adjetivo predicativo tras el copulativo «is»: «dark» (oscuro) queda invariable, sin artículo ni marca de número."
-    },
-    {
-      "type": "gap",
-      "text": "The baby is ___.",
-      "options": ["asleep", "an asleep", "asleeps"],
-      "answer": "asleep",
-      "explanation": "«Asleep» es un adjetivo exclusivamente predicativo: solo puede ir tras un verbo copulativo («The baby is asleep»), nunca antes del sustantivo ni con artículo."
-    },
-    {
-      "type": "speak",
-      "text": "She has a dark green car.",
-      "es": "Ella tiene un coche verde oscuro."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada adjetivo con su traducción",
-      "pairs": [
-        { "en": "dark", "es": "oscuro" },
-        { "en": "light", "es": "claro" },
-        { "en": "thick", "es": "grueso" },
-        { "en": "thin", "es": "delgado" },
-        { "en": "beautiful", "es": "hermoso" }
+      "n": 4,
+      "title": "Tamaño y forma: big, small, large, triangle, round, flat",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "triangle", "es": "triángulo" },
+            { "en": "round", "es": "redondo" },
+            { "en": "flat", "es": "plano" },
+            { "en": "big", "es": "grande" },
+            { "en": "small", "es": "pequeño" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["The dog is a big brown.", "A brown dog big is there.", "There is a big brown dog."],
+          "correct": 2,
+          "hint": "El adjetivo va antes del sustantivo, y el tamaño antes del color.",
+          "explanation": "Solo la tercera opción respeta las dos reglas: el adjetivo precede al sustantivo y el orden es tamaño + color («big brown dog»). Las otras posponen los adjetivos o colocan mal el artículo con adjetivos predicativos."
+        },
+        {
+          "type": "gap",
+          "text": "The ball is ___.",
+          "options": ["round", "rounds", "a round"],
+          "answer": "round",
+          "explanation": "En posición predicativa (tras el verbo copulativo «is»), el adjetivo tampoco lleva marca de número ni necesita artículo: «The ball is round»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de tamaño y forma",
+          "pairs": [
+            { "en": "round", "es": "redondo" },
+            { "en": "flat", "es": "plano" },
+            { "en": "big", "es": "grande" },
+            { "en": "small", "es": "pequeño" },
+            { "en": "large", "es": "grande (formal)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence for a clothing store.",
+          "options": ["I need a large size.", "I need a size large.", "I need large a size."],
+          "correct": 0,
+          "hint": "En tiendas y formularios se usa «large» para tallas, antes del sustantivo.",
+          "explanation": "«Large» precede al sustantivo «size», como cualquier adjetivo atributivo: «a large size». Las otras opciones posponen o desordenan el adjetivo."
+        },
+        {
+          "type": "gap",
+          "text": "She orders a ___ pizza at the restaurant.",
+          "options": ["large", "tall", "thin"],
+          "answer": "large",
+          "explanation": "Para tallas y tamaños en contextos formales (menús, tiendas) se usa «large»; «big» es la opción coloquial general. «Tall» es solo para altura vertical."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja tamaño y forma sin repetir",
+          "pairs": [
+            { "en": "triangle", "es": "triángulo" },
+            { "en": "big", "es": "grande" },
+            { "en": "small", "es": "pequeño" },
+            { "en": "large", "es": "grande (formal)" },
+            { "en": "square", "es": "cuadrado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["The table is a round.", "The table is round.", "The round is table."],
+          "correct": 1,
+          "hint": "En posición predicativa, el adjetivo no lleva artículo.",
+          "explanation": "«The table is round» es correcta: adjetivo predicativo sin artículo. «A round» añade un artículo indebido y la tercera opción invierte sujeto y adjetivo."
+        },
+        {
+          "type": "gap",
+          "text": "This is a ___ house.",
+          "options": ["small", "smalls", "pequeño"],
+          "answer": "small",
+          "explanation": "«Small» precede al sustantivo «house» sin marca de género ni número, igual que cualquier adjetivo inglés."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La casa es grande",
+          "direction": "es-en",
+          "tiles": ["The", "house", "is", "big", "bigs", "a"],
+          "answer": "The house is big",
+          "explanation": "Estructura predicativa: sujeto + «to be» + adjetivo. «Big» es la opción coloquial y general para «grande», y nunca lleva marca de género ni número."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una mesa redonda",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "round", "table", "circle", "rounds"],
+          "answer": "It is a round table",
+          "explanation": "El adjetivo de forma «round» precede al sustantivo, como cualquier otro adjetivo. «Circle» es el sustantivo (círculo), no el adjetivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un triángulo pequeño",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "small", "triangle", "triangles", "big"],
+          "answer": "It is a small triangle",
+          "explanation": "«Small» precede al sustantivo «triangle», sin marca de plural ni artículo adicional."
+        },
+        {
+          "type": "speak",
+          "text": "The dog looks big.",
+          "es": "El perro parece grande."
+        },
+        {
+          "type": "speak",
+          "text": "There is a big brown dog.",
+          "es": "Hay un perro grande y marrón."
+        },
+        {
+          "type": "speak",
+          "text": "The box is flat.",
+          "es": "La caja es plana."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct sentence.",
-      "options": ["I have a car red.", "I have a red car.", "I have a red cars."],
-      "correct": 1,
-      "hint": "Posición del adjetivo y concordancia del artículo con el sustantivo.",
-      "explanation": "El adjetivo atributivo es siempre prenominal: «a red car». «A car red» pospone el adjetivo (agramatical) y «a red cars» combina el artículo singular «a» con un sustantivo plural."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Los coches son rojos",
-      "direction": "es-en",
-      "tiles": ["The", "cars", "are", "red", "reds", "is"],
-      "answer": "The cars are red",
-      "explanation": "Aunque el sujeto es plural («cars» + «are»), el adjetivo «red» permanece invariable: los adjetivos ingleses nunca llevan «-s»."
-    },
-    {
-      "type": "gap",
-      "text": "She orders a ___ pizza at the restaurant.",
-      "options": ["large", "tall", "thin"],
-      "answer": "large",
-      "explanation": "Para tallas y tamaños en contextos formales (menús, tiendas) se usa «large»; «big» es la opción coloquial general. «Tall» es solo para altura vertical."
-    },
-    {
-      "type": "quiz",
-      "q": "How do you say «El coche es rojo» in English?",
-      "options": ["The car is red.", "The car have red.", "Red is the car."],
-      "correct": 0,
-      "hint": "Para predicar una cualidad se necesita un verbo copulativo.",
-      "explanation": "La cualidad se predica con el copulativo «to be»: «The car is red». «Have» no sirve para predicar cualidades, y «Red is the car» invierte el orden canónico de la oración."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Es una mesa redonda",
-      "direction": "es-en",
-      "tiles": ["It", "is", "a", "round", "table", "circle", "rounds"],
-      "answer": "It is a round table",
-      "explanation": "El adjetivo de forma «round» precede al sustantivo, como cualquier otro adjetivo. «Circle» es el sustantivo (círculo), no el adjetivo."
-    },
-    {
-      "type": "gap",
-      "text": "Those are ___ houses.",
-      "options": ["beautiful", "beautifuls", "beautifules"],
-      "answer": "beautiful",
-      "explanation": "El error más frecuente del hispanohablante: añadir «-s» al adjetivo. En inglés el adjetivo es morfológicamente invariable, también en plural."
-    },
-    {
-      "type": "speak",
-      "text": "There is a big brown dog.",
-      "es": "Hay un perro grande y marrón."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "La chica es hermosa",
-      "direction": "es-en",
-      "tiles": ["The", "girl", "is", "beautiful", "a", "beautifuls"],
-      "answer": "The girl is beautiful",
-      "explanation": "En posición predicativa el adjetivo va solo, sin artículo indefinido: «She is beautiful», nunca «She is a beautiful»."
+      "n": 5,
+      "title": "Dimensiones y adjetivos predicativos: repaso",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada adjetivo con su traducción",
+          "pairs": [
+            { "en": "big", "es": "grande" },
+            { "en": "small", "es": "pequeño" },
+            { "en": "long", "es": "largo" },
+            { "en": "short", "es": "corto" },
+            { "en": "round", "es": "redondo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses the adjective in PREDICATIVE position?",
+          "options": ["I have a beautiful house.", "The beautiful house is old.", "The house is beautiful."],
+          "correct": 2,
+          "hint": "Busca el adjetivo separado del sustantivo por un verbo copulativo.",
+          "explanation": "En la posición predicativa el adjetivo va tras un verbo copulativo: «The house is beautiful». En las otras dos opciones «beautiful» está en posición atributiva, directamente antes del sustantivo."
+        },
+        {
+          "type": "gap",
+          "text": "It is a very ___ building.",
+          "options": ["tall", "long", "large"],
+          "answer": "tall",
+          "explanation": "Para la dimensión vertical (edificios, personas) se usa «tall»; «long» se reserva para la dimensión horizontal («a long road»). Nunca «a long building» para la altura."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más adjetivos con su traducción",
+          "pairs": [
+            { "en": "dark", "es": "oscuro" },
+            { "en": "light", "es": "claro" },
+            { "en": "thick", "es": "grueso" },
+            { "en": "thin", "es": "delgado" },
+            { "en": "beautiful", "es": "hermoso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A student writes: \"My mother has a dress beautifuls whites.\" How many errors are there?",
+          "options": ["Three errors", "One error", "Two errors"],
+          "correct": 0,
+          "hint": "Revisa la posición de los adjetivos y sus terminaciones.",
+          "explanation": "Hay tres errores: «beautifuls» y «whites» llevan una «-s» de plural que el adjetivo inglés nunca admite, y ambos adjetivos están pospuestos al sustantivo. Lo correcto: «a beautiful white dress»."
+        },
+        {
+          "type": "gap",
+          "text": "The baby is ___.",
+          "options": ["asleep", "an asleep", "asleeps"],
+          "answer": "asleep",
+          "explanation": "«Asleep» es un adjetivo exclusivamente predicativo: solo puede ir tras un verbo copulativo («The baby is asleep»), nunca antes del sustantivo ni con artículo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja dimensiones sin repetir",
+          "pairs": [
+            { "en": "long", "es": "largo" },
+            { "en": "short", "es": "corto" },
+            { "en": "thick", "es": "grueso" },
+            { "en": "thin", "es": "delgado" },
+            { "en": "ugly", "es": "feo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["The old man ugly is.", "The old man is ugly.", "Ugly is the old man."],
+          "correct": 1,
+          "hint": "Busca la estructura sujeto + verbo copulativo + adjetivo.",
+          "explanation": "«The old man is ugly» respeta la estructura predicativa estándar: sujeto + «to be» + adjetivo. Las otras opciones alteran ese orden fijo."
+        },
+        {
+          "type": "gap",
+          "text": "Those are ___ houses.",
+          "options": ["beautiful", "beautifuls", "beautifules"],
+          "answer": "beautiful",
+          "explanation": "El error más frecuente del hispanohablante: añadir «-s» al adjetivo. En inglés el adjetivo es morfológicamente invariable, también en plural."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La chica es hermosa",
+          "direction": "es-en",
+          "tiles": ["The", "girl", "is", "beautiful", "a", "beautifuls"],
+          "answer": "The girl is beautiful",
+          "explanation": "En posición predicativa el adjetivo va solo, sin artículo indefinido: «She is beautiful», nunca «She is a beautiful»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El libro es grueso",
+          "direction": "es-en",
+          "tiles": ["The", "book", "is", "thick", "thicks", "a"],
+          "answer": "The book is thick",
+          "explanation": "«Thick» en posición predicativa no lleva artículo ni marca de plural: «The book is thick»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un camino largo",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "long", "road", "longs", "short"],
+          "answer": "It is a long road",
+          "explanation": "«Long» se usa para la dimensión horizontal («a long road»), y precede al sustantivo sin marca de plural."
+        },
+        {
+          "type": "speak",
+          "text": "The road is long.",
+          "es": "La carretera es larga."
+        },
+        {
+          "type": "speak",
+          "text": "My pencil is thin.",
+          "es": "Mi lápiz es delgado."
+        },
+        {
+          "type": "speak",
+          "text": "This building is ugly.",
+          "es": "Este edificio es feo."
+        }
+      ]
     }
   ]
 }

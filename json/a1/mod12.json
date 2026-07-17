@@ -3,238 +3,621 @@
   "module": 12,
   "title": "Demonstratives: This, That, These, Those",
   "subtitle": "Demostrativos",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "shirt", "es": "camisa" },
-        { "en": "trousers", "es": "pantalones" },
-        { "en": "skirt", "es": "falda" },
-        { "en": "dress", "es": "vestido" },
-        { "en": "jacket", "es": "chaqueta" }
+      "n": 1,
+      "title": "This/that, these/those: lo básico",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "shirt", "es": "camisa" },
+            { "en": "t-shirt", "es": "camiseta" },
+            { "en": "trousers", "es": "pantalones" },
+            { "en": "jeans", "es": "vaqueros" },
+            { "en": "skirt", "es": "falda" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is CORRECT?",
+          "options": ["I want to buy this jeans.", "I want to buy these jeans.", "I want to buy that jeans."],
+          "correct": 1,
+          "hint": "«Jeans» acaba en -s y es un plural sintáctico.",
+          "explanation": "«Jeans» es un plural sintáctico y exige demostrativo plural: «these jeans». «This jeans» y «that jeans» son errores de concordancia, aunque el español use el singular «este vaquero»."
+        },
+        {
+          "type": "gap",
+          "text": "___ days are very cold.",
+          "options": ["This", "These", "That"],
+          "answer": "These",
+          "explanation": "«Days» es plural y exige un demostrativo plural: «these days». «This days» es un error de concordancia muy frecuente por interferencia de pronunciación."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más ropa básica con su traducción",
+          "pairs": [
+            { "en": "clothes", "es": "ropa" },
+            { "en": "shirt", "es": "camisa" },
+            { "en": "t-shirt", "es": "camiseta" },
+            { "en": "trousers", "es": "pantalones" },
+            { "en": "skirt", "es": "falda" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «Esta falda es muy bonita»?",
+          "options": ["This skirt is very nice.", "These skirt is very nice.", "That skirt is very nice."],
+          "correct": 0,
+          "hint": "«Skirt» es singular: descarta el demostrativo plural.",
+          "explanation": "«Skirt» es singular y está cerca del hablante («esta»), así que corresponde «this». «These» es plural (error de concordancia) y «that» indicaría distancia, contradiciendo «esta»."
+        },
+        {
+          "type": "gap",
+          "text": "This water ___ cold.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«Water» es un sustantivo incontable y se trata como singular: acepta «this» y el verbo «is»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja la ropa básica sin repetir",
+          "pairs": [
+            { "en": "clothes", "es": "ropa" },
+            { "en": "shirt", "es": "camisa" },
+            { "en": "trousers", "es": "pantalones" },
+            { "en": "jeans", "es": "vaqueros" },
+            { "en": "skirt", "es": "falda" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You are pointing at some jeans on a shelf across the shop, away from you. What do you say?",
+          "options": ["I like these jeans.", "I like this jeans.", "I like those jeans."],
+          "correct": 2,
+          "hint": "«Jeans» es un plural sintáctico y está lejos de ti.",
+          "explanation": "«Jeans» exige siempre demostrativo plural, lo que descarta «this jeans». Como el objeto está lejos («across the shop»), corresponde «those», no «these»."
+        },
+        {
+          "type": "gap",
+          "text": "Look at ___ t-shirt I'm wearing!",
+          "options": ["this", "these", "that"],
+          "answer": "this",
+          "explanation": "«T-shirt» es singular y está en contacto inmediato con el hablante (la lleva puesta), así que corresponde «this». «These» es plural y «that» indicaría distancia."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta camisa es muy barata",
+          "direction": "es-en",
+          "tiles": ["This", "shirt", "is", "very", "cheap", "These", "that"],
+          "answer": "This shirt is very cheap",
+          "explanation": "«Shirt» es singular y está cerca del hablante: se usa «this». «These» es plural y «that» indicaría distancia."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Aquellos pantalones son demasiado largos",
+          "direction": "es-en",
+          "tiles": ["Those", "trousers", "are", "too", "long", "That", "is"],
+          "answer": "Those trousers are too long",
+          "explanation": "«Trousers» es un plural sintáctico: exige demostrativo plural («those») y verbo plural («are»), aunque el español diga «ese pantalón»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me gustan estos vaqueros",
+          "direction": "es-en",
+          "tiles": ["I", "like", "these", "jeans", "this", "that"],
+          "answer": "I like these jeans",
+          "explanation": "«Jeans» es un plural sintáctico y exige siempre demostrativo plural. «Estos» indica cercanía, así que corresponde «these», no «this» ni «that»."
+        },
+        {
+          "type": "speak",
+          "text": "This shirt is very cheap.",
+          "es": "Esta camisa es muy barata."
+        },
+        {
+          "type": "speak",
+          "text": "Those trousers are too long.",
+          "es": "Aquellos pantalones son demasiado largos."
+        },
+        {
+          "type": "speak",
+          "text": "I like this skirt.",
+          "es": "Me gusta esta falda."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "\"Excuse me, are ______ your shoes over there under the chair?\"",
-      "options": ["these", "those", "this"],
-      "correct": 1,
-      "hint": "«Over there» indica distancia y «shoes» es plural.",
-      "explanation": "«Shoes» es plural, lo que descarta «this», y la marca «over there» indica lejanía respecto al hablante, así que se exige «those». «These» indicaría proximidad, contradiciendo el contexto."
-    },
-    {
-      "type": "gap",
-      "text": "___ days are very cold.",
-      "options": ["This", "These", "That"],
-      "answer": "These",
-      "explanation": "«Days» es plural y exige un demostrativo plural: «these days». «This days» es un error de concordancia muy frecuente por interferencia de pronunciación."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Esta camisa es muy barata",
-      "direction": "es-en",
-      "tiles": ["This", "shirt", "is", "very", "cheap", "These", "that"],
-      "answer": "This shirt is very cheap",
-      "explanation": "«Shirt» es singular y está cerca del hablante: se usa «this». «These» es plural y «that» indicaría distancia."
-    },
-    {
-      "type": "speak",
-      "text": "This shirt is very cheap.",
-      "es": "Esta camisa es muy barata."
-    },
-    {
-      "type": "gap",
-      "text": "This pair of trousers ___ mine.",
-      "options": ["is", "are", "am"],
-      "answer": "is",
-      "explanation": "Con la locución «pair of», el núcleo del sintagma pasa a ser «pair» (singular), así que el verbo también va en singular: «is»."
-    },
-    {
-      "type": "quiz",
-      "q": "(On the telephone) \"Hello? ______ is Tom speaking. Is ______ Jessica?\"",
-      "options": ["This / that", "That / this", "I / you"],
-      "correct": 0,
-      "hint": "El que llama se identifica con cercanía; por el otro lado se pregunta con distancia.",
-      "explanation": "En la pragmática telefónica inglesa, el emisor se identifica con «this» («This is Tom») y se pregunta por el receptor con «that» («Is that Jessica?»). Invertir el orden es agramatical, y usar pronombres de sujeto es inadecuado al abrir una llamada."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "coat", "es": "abrigo" },
-        { "en": "shoes", "es": "zapatos" },
-        { "en": "boots", "es": "botas" },
-        { "en": "socks", "es": "calcetines" },
-        { "en": "scarf", "es": "bufanda" }
+      "n": 2,
+      "title": "Más ropa: cerca y lejos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "shirt", "es": "camisa" },
+            { "en": "trousers", "es": "pantalones" },
+            { "en": "skirt", "es": "falda" },
+            { "en": "dress", "es": "vestido" },
+            { "en": "jacket", "es": "chaqueta" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"Excuse me, are ______ your shoes over there under the chair?\"",
+          "options": ["these", "those", "this"],
+          "correct": 1,
+          "hint": "«Over there» indica distancia y «shoes» es plural.",
+          "explanation": "«Shoes» es plural, lo que descarta «this», y la marca «over there» indica lejanía respecto al hablante, así que se exige «those». «These» indicaría proximidad, contradiciendo el contexto."
+        },
+        {
+          "type": "gap",
+          "text": "___ shoes I am wearing are very comfortable.",
+          "options": ["This", "These", "Those"],
+          "answer": "These",
+          "explanation": "«Shoes» es plural, lo que descarta «this», y llevarlos puestos indica máxima cercanía, así que corresponde «these» y no «those»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más ropa con su traducción",
+          "pairs": [
+            { "en": "dress", "es": "vestido" },
+            { "en": "jacket", "es": "chaqueta" },
+            { "en": "coat", "es": "abrigo" },
+            { "en": "sweater", "es": "suéter / jersey" },
+            { "en": "shoes", "es": "zapatos" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Could you hand me ______ jacket on the chair? (it's not near you)",
+          "options": ["that", "this", "these"],
+          "correct": 0,
+          "hint": "El objeto está en la silla, no en tus manos.",
+          "explanation": "El objeto está fuera del espacio inmediato del hablante («on the chair»), así que corresponde el demostrativo de distancia «that». «This» indicaría cercanía y «these» es plural, pero «jacket» es singular."
+        },
+        {
+          "type": "gap",
+          "text": "My new sweater is warm, but ___ jacket over there is too thin.",
+          "options": ["this", "that", "these"],
+          "answer": "that",
+          "explanation": "«Jacket» es singular y «over there» marca distancia respecto al hablante, así que corresponde «that». «This» indicaría cercanía y «these» es plural."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja ropa y calzado sin repetir",
+          "pairs": [
+            { "en": "dress", "es": "vestido" },
+            { "en": "jacket", "es": "chaqueta" },
+            { "en": "coat", "es": "abrigo" },
+            { "en": "shoes", "es": "zapatos" },
+            { "en": "boots", "es": "botas" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You are trying on a coat right now, in front of the mirror. How do you describe it to your friend?",
+          "options": ["I like that coat.", "I like those coats.", "I like this coat."],
+          "correct": 2,
+          "hint": "Lo llevas puesto en este momento: máxima cercanía.",
+          "explanation": "Llevar puesta una prenda es el grado máximo de proximidad física, así que corresponde «this». «That» indicaría distancia y «those» es plural, pero «coat» es singular."
+        },
+        {
+          "type": "gap",
+          "text": "___ boots by the door are wet.",
+          "options": ["This", "These", "Those"],
+          "answer": "Those",
+          "explanation": "«Boots» es plural, lo que descarta «this», y «by the door» marca distancia respecto al hablante, así que corresponde «those» y no «these»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Aquel vestido es hermoso",
+          "direction": "es-en",
+          "tiles": ["That", "dress", "is", "beautiful", "This", "are"],
+          "answer": "That dress is beautiful",
+          "explanation": "«Dress» es singular y está lejos: «that». Los determinantes demostrativos no admiten artículo delante: «the that dress» es imposible."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ese abrigo es muy caliente",
+          "direction": "es-en",
+          "tiles": ["That", "coat", "is", "very", "warm", "This", "are"],
+          "answer": "That coat is very warm",
+          "explanation": "«Coat» es singular y no está en el espacio inmediato del hablante: corresponde «that», no «this» (cercanía) ni «are» (verbo plural)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estos zapatos son cómodos",
+          "direction": "es-en",
+          "tiles": ["These", "shoes", "are", "comfortable", "This", "is"],
+          "answer": "These shoes are comfortable",
+          "explanation": "«Shoes» es plural y está cerca (puestos): «these» + verbo plural «are». «This is» solo funciona con singulares."
+        },
+        {
+          "type": "speak",
+          "text": "Could you hand me that jacket on the chair?",
+          "es": "¿Podrías pasarme esa chaqueta que está en la silla?"
+        },
+        {
+          "type": "speak",
+          "text": "These shoes are very comfortable.",
+          "es": "Estos zapatos son muy cómodos."
+        },
+        {
+          "type": "speak",
+          "text": "I love this new sweater.",
+          "es": "Me encanta este suéter nuevo."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Aquellos pantalones son demasiado largos",
-      "direction": "es-en",
-      "tiles": ["Those", "trousers", "are", "too", "long", "That", "is"],
-      "answer": "Those trousers are too long",
-      "explanation": "«Trousers» es un plural sintáctico: exige demostrativo plural («those») y verbo plural («are»), aunque el español diga «ese pantalón»."
-    },
-    {
-      "type": "gap",
-      "text": "Hello? Is ___ Helen?",
-      "options": ["that", "this", "these"],
-      "answer": "that",
-      "explanation": "Para preguntar por el interlocutor al teléfono se usa la deixis de distancia: «Is that Helen?». «Is this Helen?» solo valdría mirando, por ejemplo, una foto en la mano."
-    },
-    {
-      "type": "quiz",
-      "q": "\"Could you please pass me ______ scissors? I need to cut my new t-shirt.\"",
-      "options": ["that", "this", "those"],
-      "correct": 2,
-      "hint": "«Scissors» pertenece a los plurales sintácticos, como «trousers» o «glasses».",
-      "explanation": "«Scissors» es un plural sintáctico (pluralia tantum) y exige concordancia plural, lo que invalida «that» y «this». Como además el objeto está lejos del hablante que lo pide, corresponde «those»."
-    },
-    {
-      "type": "speak",
-      "text": "Hello, this is Mark.",
-      "es": "Hola, soy Mark (al teléfono)."
-    },
-    {
-      "type": "gap",
-      "text": "David, ___ is my colleague, Sophia.",
-      "options": ["this", "that", "she"],
-      "answer": "this",
-      "explanation": "En las presentaciones cara a cara se usa «this is» para enfocar la atención en la persona presentada. «She is» no se usa en la fórmula inicial de presentación."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Estos son sus guantes (de él)",
-      "direction": "es-en",
-      "tiles": ["These", "are", "his", "gloves", "This", "is"],
-      "answer": "These are his gloves",
-      "explanation": "«Gloves» es plural: demostrativo «these» y verbo «are». «This is» solo funciona con singulares."
-    },
-    {
-      "type": "quiz",
-      "q": "\"Clara, please come here and look at ______ ring on my finger. It was a present from my grandmother.\"",
-      "options": ["this", "that", "these"],
-      "correct": 0,
-      "hint": "El anillo está «on my finger»: máxima cercanía al hablante.",
-      "explanation": "«Ring» es singular (descarta «these») y está «on my finger», en contacto inmediato con el hablante, así que se usa «this». «That» indicaría distancia, en contradicción con el contexto."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "gloves", "es": "guantes" },
-        { "en": "belt", "es": "cinturón" },
-        { "en": "tie", "es": "corbata" },
-        { "en": "umbrella", "es": "paraguas" },
-        { "en": "watch", "es": "reloj de pulsera" }
+      "n": 3,
+      "title": "Plurales sintácticos y pair of",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "coat", "es": "abrigo" },
+            { "en": "shoes", "es": "zapatos" },
+            { "en": "boots", "es": "botas" },
+            { "en": "socks", "es": "calcetines" },
+            { "en": "scarf", "es": "bufanda" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "(On the telephone) \"Hello? ______ is Tom speaking. Is ______ Jessica?\"",
+          "options": ["This / that", "That / this", "I / you"],
+          "correct": 0,
+          "hint": "El que llama se identifica con cercanía; por el otro lado se pregunta con distancia.",
+          "explanation": "En la pragmática telefónica inglesa, el emisor se identifica con «this» («This is Tom») y se pregunta por el receptor con «that» («Is that Jessica?»). Invertir el orden es agramatical, y usar pronombres de sujeto es inadecuado al abrir una llamada."
+        },
+        {
+          "type": "gap",
+          "text": "This pair of trousers ___ mine.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "Con la locución «pair of», el núcleo del sintagma pasa a ser «pair» (singular), así que el verbo también va en singular: «is»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más ropa y accesorios",
+          "pairs": [
+            { "en": "trainers", "es": "zapatillas de deporte" },
+            { "en": "socks", "es": "calcetines" },
+            { "en": "hat", "es": "sombrero / gorro" },
+            { "en": "cap", "es": "gorra" },
+            { "en": "scarf", "es": "bufanda" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"Could you please pass me ______ scissors? I need to cut my new t-shirt.\"",
+          "options": ["that", "this", "those"],
+          "correct": 2,
+          "hint": "«Scissors» pertenece a los plurales sintácticos, como «trousers» o «glasses».",
+          "explanation": "«Scissors» es un plural sintáctico (pluralia tantum) y exige concordancia plural, lo que invalida «that» y «this». Como además el objeto está lejos del hablante que lo pide, corresponde «those»."
+        },
+        {
+          "type": "gap",
+          "text": "Hello? Is ___ Helen?",
+          "options": ["that", "this", "these"],
+          "answer": "that",
+          "explanation": "Para preguntar por el interlocutor al teléfono se usa la deixis de distancia: «Is that Helen?». «Is this Helen?» solo valdría mirando, por ejemplo, una foto en la mano."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja accesorios sin repetir",
+          "pairs": [
+            { "en": "socks", "es": "calcetines" },
+            { "en": "hat", "es": "sombrero / gorro" },
+            { "en": "cap", "es": "gorra" },
+            { "en": "scarf", "es": "bufanda" },
+            { "en": "gloves", "es": "guantes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You are on the phone and don't recognize the voice. What is the correct way to ask who is calling?",
+          "options": ["Who are you?", "Who is that?", "Who is this?"],
+          "correct": 1,
+          "hint": "Una opción suena descortés y otra no es la fórmula estándar para preguntar por el otro.",
+          "explanation": "En la pragmática telefónica inglesa, para preguntar por el interlocutor se usa «Who is that?» (deixis de distancia). «Who are you?» resulta demasiado directo y descortés, y «Who is this?» no es la fórmula estándar para referirse al receptor."
+        },
+        {
+          "type": "gap",
+          "text": "___ trainers over there, next to the door, are wet.",
+          "options": ["Those", "That", "This"],
+          "answer": "Those",
+          "explanation": "«Trainers» es plural y «over there» marca distancia: se exige «those». «That» y «this» son singulares."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estos son sus guantes (de él)",
+          "direction": "es-en",
+          "tiles": ["These", "are", "his", "gloves", "This", "is"],
+          "answer": "These are his gloves",
+          "explanation": "«Gloves» es plural: demostrativo «these» y verbo «are». «This is» solo funciona con singulares."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hola, soy Mark (al teléfono)",
+          "direction": "es-en",
+          "tiles": ["Hello", "this", "is", "Mark", "that", "I"],
+          "answer": "Hello this is Mark",
+          "explanation": "Al identificarse en una llamada, la norma inglesa exige «this is + nombre». Ni «I am Mark» ni «that is Mark» son la fórmula telefónica estándar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estas zapatillas me quedan perfectas",
+          "direction": "es-en",
+          "tiles": ["These", "trainers", "fit", "me", "perfectly", "Those", "fits"],
+          "answer": "These trainers fit me perfectly",
+          "explanation": "«Trainers» es plural y está cerca (las lleva puestas): «these». El verbo va sin -s porque el sujeto es plural."
+        },
+        {
+          "type": "speak",
+          "text": "Hello, this is Mark.",
+          "es": "Hola, soy Mark (al teléfono)."
+        },
+        {
+          "type": "speak",
+          "text": "Is that Helen?",
+          "es": "¿Eres Helen? (al teléfono)."
+        },
+        {
+          "type": "speak",
+          "text": "This pair of gloves is mine.",
+          "es": "Este par de guantes es mío."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "___ trainers over there, next to the door, are wet.",
-      "options": ["Those", "That", "This"],
-      "answer": "Those",
-      "explanation": "«Trainers» es plural y «over there» marca distancia: se exige «those». «That» y «this» son singulares."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Esa no es mi cartera",
-      "direction": "es-en",
-      "tiles": ["That", "is", "not", "my", "wallet", "This", "no"],
-      "answer": "That is not my wallet",
-      "explanation": "«That» señala un objeto singular alejado del hablante. La negación en inglés usa «not» tras el verbo «is», no la palabra «no»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is CORRECT?",
-      "options": ["I want to buy this jeans.", "I want to buy these jeans.", "I want to buy that jeans."],
-      "correct": 1,
-      "hint": "«Jeans» acaba en -s y es un plural sintáctico.",
-      "explanation": "«Jeans» es un plural sintáctico y exige demostrativo plural: «these jeans». «This jeans» y «that jeans» son errores de concordancia, aunque el español use el singular «este vaquero»."
-    },
-    {
-      "type": "speak",
-      "text": "Those trousers are too long.",
-      "es": "Aquellos pantalones son demasiado largos."
-    },
-    {
-      "type": "gap",
-      "text": "This water ___ cold.",
-      "options": ["is", "are", "am"],
-      "answer": "is",
-      "explanation": "«Water» es un sustantivo incontable y se trata como singular: acepta «this» y el verbo «is»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Aquel vestido es hermoso",
-      "direction": "es-en",
-      "tiles": ["That", "dress", "is", "beautiful", "This", "are"],
-      "answer": "That dress is beautiful",
-      "explanation": "«Dress» es singular y está lejos: «that». Los determinantes demostrativos no admiten artículo delante: «the that dress» es imposible."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is CORRECT?",
-      "options": ["The that dress is beautiful.", "This my coat is new.", "That dress is beautiful."],
-      "correct": 2,
-      "hint": "Los demostrativos no se combinan con artículos ni posesivos ante el mismo sustantivo.",
-      "explanation": "Los determinantes demostrativos son incompatibles con otros especificadores: no pueden coaparecer con «the» ni con «my» ante el mismo sustantivo. La única estructura válida es «That dress is beautiful»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "glasses", "es": "gafas" },
-        { "en": "ring", "es": "anillo" },
-        { "en": "wallet", "es": "cartera" },
-        { "en": "wear", "es": "llevar puesto" },
-        { "en": "take off", "es": "quitarse (ropa)" }
+      "n": 4,
+      "title": "Accesorios: determinante o pronombre",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "gloves", "es": "guantes" },
+            { "en": "belt", "es": "cinturón" },
+            { "en": "tie", "es": "corbata" },
+            { "en": "umbrella", "es": "paraguas" },
+            { "en": "watch", "es": "reloj de pulsera" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is CORRECT?",
+          "options": ["The that dress is beautiful.", "This my coat is new.", "That dress is beautiful."],
+          "correct": 2,
+          "hint": "Los demostrativos no se combinan con artículos ni posesivos ante el mismo sustantivo.",
+          "explanation": "Los determinantes demostrativos son incompatibles con otros especificadores: no pueden coaparecer con «the» ni con «my» ante el mismo sustantivo. La única estructura válida es «That dress is beautiful»."
+        },
+        {
+          "type": "gap",
+          "text": "Which shirt do you want? — I want this ___.",
+          "options": ["one", "ones", "those"],
+          "answer": "one",
+          "explanation": "Cuando el pronombre demostrativo singular sustituye a un contable, puede apoyarse en «one»: «I want this one». «Ones» sería para plural."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más accesorios",
+          "pairs": [
+            { "en": "belt", "es": "cinturón" },
+            { "en": "tie", "es": "corbata" },
+            { "en": "bag", "es": "bolso / bolsa" },
+            { "en": "umbrella", "es": "paraguas" },
+            { "en": "watch", "es": "reloj de pulsera" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which shoes are yours? Choose the best answer.",
+          "options": ["I want those ones.", "I want that one.", "I want this ones."],
+          "correct": 0,
+          "hint": "«Shoes» es plural: el pronombre de apoyo debe concordar.",
+          "explanation": "«Shoes» es plural, así que el pronombre demostrativo y el soporte opcional deben ir en plural: «those ones» (o simplemente «those»). «That one» es singular y «this ones» mezcla singular y plural, ambos agramaticales."
+        },
+        {
+          "type": "gap",
+          "text": "___ leather gloves are wet.",
+          "options": ["This", "These", "Those"],
+          "answer": "Those",
+          "explanation": "«Gloves» es plural, lo que descarta «this», y el contexto sitúa el objeto lejos del hablante, así que corresponde «those» y no «these»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja accesorios sin repetir",
+          "pairs": [
+            { "en": "tie", "es": "corbata" },
+            { "en": "bag", "es": "bolso / bolsa" },
+            { "en": "umbrella", "es": "paraguas" },
+            { "en": "watch", "es": "reloj de pulsera" },
+            { "en": "glasses", "es": "gafas" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence to talk about the umbrella you are holding right now.",
+          "options": ["I like that umbrella.", "I like this umbrella.", "I like these umbrella."],
+          "correct": 1,
+          "hint": "Lo tienes en la mano ahora mismo y es un solo objeto.",
+          "explanation": "Tenerlo en la mano es máxima cercanía, así que corresponde «this»; además «umbrella» es singular, lo que descarta «these» (plural) y «that» (distancia)."
+        },
+        {
+          "type": "gap",
+          "text": "I like ___ coat of mine.",
+          "options": ["this", "my", "the"],
+          "answer": "this",
+          "explanation": "El demostrativo es incompatible con un posesivo ante el mismo sustantivo («this my coat» es incorrecto), pero sí puede combinarse mediante «of mine»: «this coat of mine»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta corbata es elegante",
+          "direction": "es-en",
+          "tiles": ["This", "tie", "is", "elegant", "These", "are"],
+          "answer": "This tie is elegant",
+          "explanation": "«Tie» es singular y cercano: «this» + verbo singular «is». «These are» exigiría un sustantivo plural."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Aquellas gafas son caras",
+          "direction": "es-en",
+          "tiles": ["Those", "glasses", "are", "expensive", "That", "is"],
+          "answer": "Those glasses are expensive",
+          "explanation": "«Glasses» es un plural sintáctico: exige demostrativo plural «those» y verbo plural «are», nunca «that... is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Quiero este bolso, no aquel",
+          "direction": "es-en",
+          "tiles": ["I", "want", "this", "bag,", "not", "that", "one.", "these", "ones"],
+          "answer": "I want this bag, not that one.",
+          "explanation": "El primer demostrativo («this») acompaña a «bag» como determinante; el segundo («that one») funciona como pronombre apoyado en «one» para no repetir «bag»."
+        },
+        {
+          "type": "speak",
+          "text": "This is my new watch.",
+          "es": "Este es mi reloj de pulsera nuevo."
+        },
+        {
+          "type": "speak",
+          "text": "Those glasses are expensive.",
+          "es": "Aquellas gafas son caras."
+        },
+        {
+          "type": "speak",
+          "text": "I want this one, not that one.",
+          "es": "Quiero este, no aquel."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "___ summer in London was beautiful.",
-      "options": ["That", "This", "These"],
-      "answer": "That",
-      "explanation": "La distancia temporal (un pasado concluido) se expresa con «that»: «That summer... was beautiful». «This» se reserva para el periodo actual."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Hola, soy Mark (al teléfono)",
-      "direction": "es-en",
-      "tiles": ["Hello", "this", "is", "Mark", "that", "I"],
-      "answer": "Hello this is Mark",
-      "explanation": "Al identificarse en una llamada, la norma inglesa exige «this is + nombre». Ni «I am Mark» ni «that is Mark» son la fórmula telefónica estándar."
-    },
-    {
-      "type": "speak",
-      "text": "This is my new watch.",
-      "es": "Este es mi reloj de pulsera nuevo."
-    },
-    {
-      "type": "quiz",
-      "q": "(Introducing a colleague) \"Hello, Mr. Harrison. ______ is our new manager, Susan. She starts working with us today.\"",
-      "options": ["She", "This", "That"],
-      "correct": 1,
-      "hint": "Para presentar a alguien presente se usa el deíctico de proximidad.",
-      "explanation": "En las presentaciones de personas presentes, la fórmula estándar es «This is + nombre». «She is» no sirve para la introducción inicial (aunque sí después), y «that» denotaría un alejamiento inapropiado."
-    },
-    {
-      "type": "gap",
-      "text": "Which shirt do you want? — I want this ___.",
-      "options": ["one", "ones", "those"],
-      "answer": "one",
-      "explanation": "Cuando el pronombre demostrativo singular sustituye a un contable, puede apoyarse en «one»: «I want this one». «Ones» sería para plural."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Estas zapatillas me quedan perfectas",
-      "direction": "es-en",
-      "tiles": ["These", "trainers", "fit", "me", "perfectly", "Those", "fits"],
-      "answer": "These trainers fit me perfectly",
-      "explanation": "«Trainers» es plural y está cerca (las lleva puestas): «these». El verbo va sin -s porque el sujeto es plural."
+      "n": 5,
+      "title": "Repaso: presentaciones y deixis",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "glasses", "es": "gafas" },
+            { "en": "ring", "es": "anillo" },
+            { "en": "wallet", "es": "cartera" },
+            { "en": "wear", "es": "llevar puesto" },
+            { "en": "take off", "es": "quitarse (ropa)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"Clara, please come here and look at ______ ring on my finger. It was a present from my grandmother.\"",
+          "options": ["this", "that", "these"],
+          "correct": 0,
+          "hint": "El anillo está «on my finger»: máxima cercanía al hablante.",
+          "explanation": "«Ring» es singular (descarta «these») y está «on my finger», en contacto inmediato con el hablante, así que se usa «this». «That» indicaría distancia, en contradicción con el contexto."
+        },
+        {
+          "type": "gap",
+          "text": "David, ___ is my colleague, Sophia.",
+          "options": ["this", "that", "she"],
+          "answer": "this",
+          "explanation": "En las presentaciones cara a cara se usa «this is» para enfocar la atención en la persona presentada. «She is» no se usa en la fórmula inicial de presentación."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más vocabulario de repaso",
+          "pairs": [
+            { "en": "ring", "es": "anillo" },
+            { "en": "wallet", "es": "cartera" },
+            { "en": "put on", "es": "ponerse (ropa)" },
+            { "en": "take off", "es": "quitarse (ropa)" },
+            { "en": "try on", "es": "probarse (ropa)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "(Introducing a colleague) \"Hello, Mr. Harrison. ______ is our new manager, Susan. She starts working with us today.\"",
+          "options": ["She", "This", "That"],
+          "correct": 1,
+          "hint": "Para presentar a alguien presente se usa el deíctico de proximidad.",
+          "explanation": "En las presentaciones de personas presentes, la fórmula estándar es «This is + nombre». «She is» no sirve para la introducción inicial (aunque sí después), y «that» denotaría un alejamiento inapropiado."
+        },
+        {
+          "type": "gap",
+          "text": "___ summer in London was beautiful.",
+          "options": ["That", "This", "These"],
+          "answer": "That",
+          "explanation": "La distancia temporal (un pasado concluido) se expresa con «that»: «That summer... was beautiful». «This» se reserva para el periodo actual."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario final sin repetir",
+          "pairs": [
+            { "en": "ring", "es": "anillo" },
+            { "en": "wallet", "es": "cartera" },
+            { "en": "put on", "es": "ponerse (ropa)" },
+            { "en": "take off", "es": "quitarse (ropa)" },
+            { "en": "try on", "es": "probarse (ropa)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"The company decided to close the store. ______ was a terrible decision.\"",
+          "options": ["This", "These", "That"],
+          "correct": 2,
+          "hint": "El pronombre resume toda la frase anterior, no señala un objeto físico cercano.",
+          "explanation": "«That» se usa para hacer referencia anafórica, resumiendo o remitiendo a toda una idea u oración ya mencionada. «This» se reservaría para anticipar información nueva (catáfora), y «these» es plural, sin sentido aquí."
+        },
+        {
+          "type": "gap",
+          "text": "Get rid of ___ jacket! It looks awful.",
+          "options": ["this", "that", "these"],
+          "answer": "that",
+          "explanation": "La distancia psicológica expresa rechazo o desagrado hacia el referente: «that jacket» aleja simbólicamente la prenda del hablante. «This» indicaría aprecio o cercanía afectiva."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esa no es mi cartera",
+          "direction": "es-en",
+          "tiles": ["That", "is", "not", "my", "wallet", "This", "no"],
+          "answer": "That is not my wallet",
+          "explanation": "«That» señala un objeto singular alejado del hablante. La negación en inglés usa «not» tras el verbo «is», no la palabra «no»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Recuerda esto: ponte la chaqueta",
+          "direction": "es-en",
+          "tiles": ["Remember", "this:", "put", "on", "your", "jacket.", "that:", "those:"],
+          "answer": "Remember this: put on your jacket.",
+          "explanation": "«This» se usa aquí de forma catafórica: anuncia que la información importante viene justo a continuación. «That» apuntaría hacia atrás, a algo ya dicho."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Pruébate este anillo",
+          "direction": "es-en",
+          "tiles": ["Try", "on", "this", "ring.", "that", "those"],
+          "answer": "Try on this ring.",
+          "explanation": "«Try on» es el verbo para «probarse ropa o accesorios». «Ring» es singular y cercano, así que el demostrativo correcto es «this»."
+        },
+        {
+          "type": "speak",
+          "text": "Sophia, these are my parents.",
+          "es": "Sophia, estos son mis padres."
+        },
+        {
+          "type": "speak",
+          "text": "That was a terrible decision.",
+          "es": "Esa fue una decisión terrible."
+        },
+        {
+          "type": "speak",
+          "text": "Please, remember this: take off your shoes.",
+          "es": "Por favor, recuerda esto: quítate los zapatos."
+        }
+      ]
     }
   ]
 }

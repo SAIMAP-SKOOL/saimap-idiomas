@@ -194,9 +194,11 @@
 const params = new URLSearchParams(location.search);
 const FILE = params.get("file");
 const MOD_ID = params.get("id");
+const SUB = params.get("sub"); // subnivel (1-5) cuando el módulo está subdividido; null en módulos "planos"
 const XP_PER_OK = 10;
-const SESSION_SIZE = 12;   // ejercicios por sesión (del banco de ~30 del módulo)
-const REVIEW_SLOTS = 3;    // huecos reservados para repaso de módulos anteriores
+// Los módulos subdivididos usan bancos más pequeños (15) con sesiones más cortas (10) para no perder ritmo.
+const SESSION_SIZE = SUB ? 10 : 12;
+const REVIEW_SLOTS = SUB ? 2 : 3;    // huecos reservados para repaso de subniveles/módulos anteriores
 
 const store = {
   key: "saimap-idiomas-en",
@@ -606,15 +608,24 @@ function endLesson(passed){
     return;
   }
   try {
-    /* 1) Banco del módulo actual, con ids estables */
+    /* 1) Banco del módulo (o subnivel) actual, con ids estables */
     const res = await fetch("json/" + FILE);
     const mod = await res.json();
-    const pool = mod.exercises.map((ex, i) => ({ ...ex, _id: `${MOD_ID}#${i}` }));
-    document.title = `Módulo ${mod.module}: ${mod.title} — SAIMAP Idiomas`;
+    let bank, lessonLabel;
+    if (SUB){
+      const sl = mod.sublevels[Number(SUB) - 1];
+      bank = sl.exercises;
+      lessonLabel = `Módulo ${mod.module}.${SUB}: ${mod.title} — ${sl.title}`;
+    } else {
+      bank = mod.exercises;
+      lessonLabel = `Módulo ${mod.module}: ${mod.title}`;
+    }
+    const pool = bank.map((ex, i) => ({ ...ex, _id: `${MOD_ID}#${i}` }));
+    document.title = `${lessonLabel} — SAIMAP Idiomas`;
 
     const stats = d.stats || {};
 
-    /* 2) Banco de repaso: módulos ya completados (aprendizaje continuado) */
+    /* 2) Banco de repaso: módulos/subniveles ya completados (aprendizaje continuado) */
     let review = [];
     const completed = (d.completed || []).filter(id => id !== MOD_ID);
     if (completed.length){
@@ -622,13 +633,20 @@ function endLesson(passed){
         const course = await (await fetch("json/course.json")).json();
         const sources = [];
         course.levels.forEach(lvl => (lvl.modules || []).forEach(m => {
-          const id = `${lvl.code.toLowerCase()}-mod${String(m.n).padStart(2,"0")}`;
-          if (m.file && completed.includes(id)) sources.push({ id, n: m.n, file: m.file });
+          const subCount = m.sublevels || 1;
+          for (let s = 1; s <= subCount; s++){
+            const id = subCount > 1
+              ? `${lvl.code.toLowerCase()}-mod${String(m.n).padStart(2,"0")}-s${s}`
+              : `${lvl.code.toLowerCase()}-mod${String(m.n).padStart(2,"0")}`;
+            if (m.file && completed.includes(id)) sources.push({ id, n: m.n, file: m.file, sub: subCount > 1 ? s : null });
+          }
         }));
         const pools = await Promise.all(sources.map(async src => {
           const mj = await (await fetch("json/" + src.file)).json();
-          return mj.exercises
-            .map((ex, i) => ({ ...ex, _id: `${src.id}#${i}`, _review: `Módulo ${src.n}` }))
+          const exs = src.sub ? mj.sublevels[src.sub - 1].exercises : mj.exercises;
+          const label = src.sub ? `Módulo ${src.n}.${src.sub}` : `Módulo ${src.n}`;
+          return exs
+            .map((ex, i) => ({ ...ex, _id: `${src.id}#${i}`, _review: label }))
             .filter(ex => ex.type !== "speak"); // el repaso no mete ejercicios de micrófono
         }));
         const all = shuffle(pools.flat()); // barajar antes de ordenar ⇒ los empates de prioridad se reparten entre módulos

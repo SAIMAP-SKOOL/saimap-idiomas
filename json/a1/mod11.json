@@ -3,246 +3,629 @@
   "module": 11,
   "title": "Have Got: Possession and Description",
   "subtitle": "Tener: Posesión y Rasgos",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "hair", "es": "pelo" },
-        { "en": "eyes", "es": "ojos" },
-        { "en": "nose", "es": "nariz" },
-        { "en": "mouth", "es": "boca" },
-        { "en": "ear", "es": "oreja" }
+      "n": 1,
+      "title": "Have got: afirmativa básica (partes de la cara)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "have", "es": "tener" },
+            { "en": "hair", "es": "pelo" },
+            { "en": "eyes", "es": "ojos" },
+            { "en": "nose", "es": "nariz" },
+            { "en": "mouth", "es": "boca" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «Ella tiene los ojos azules» in English?",
+          "options": ["She have got blue eyes.", "She's got blue eyes.", "She is got blue eyes."],
+          "correct": 1,
+          "hint": "Con «she» el verbo have muta a una forma distinta, y se contrae con el pronombre.",
+          "explanation": "Con «she» (3.ª persona del singular) el auxiliar es «has», contraído como «she's got». «Have» no concuerda con «she», e «is got» no existe: «is» y «got» no se combinan directamente."
+        },
+        {
+          "type": "gap",
+          "text": "They ___ got two dogs.",
+          "options": ["have", "has", "is"],
+          "answer": "have",
+          "explanation": "«They» es plural: exige «have got». «Has» solo se usa con la 3.ª persona del singular («he/she/it»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo un perro",
+          "direction": "es-en",
+          "tiles": ["I", "have", "got", "a", "dog", "has", "do"],
+          "answer": "I have got a dog",
+          "explanation": "El inglés británico usa la perífrasis «have got» para la posesión. Con «I» el auxiliar es «have», nunca «has», y el auxiliar «do» no interviene."
+        },
+        {
+          "type": "speak",
+          "text": "I've got a new phone.",
+          "es": "Tengo un teléfono nuevo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del cuerpo",
+          "pairs": [
+            { "en": "got", "es": "partícula de «have got»" },
+            { "en": "hair", "es": "pelo" },
+            { "en": "eyes", "es": "ojos" },
+            { "en": "nose", "es": "nariz" },
+            { "en": "mouth", "es": "boca" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["I've got a big nose.", "I has got a big nose.", "I am got a big nose."],
+          "correct": 0,
+          "hint": "Con «I» el auxiliar de «have got» no cambia nunca.",
+          "explanation": "Con «I» el auxiliar es siempre «have» (contraído «I've»). «Has» es solo para «he/she/it», y «am got» no es una estructura posible en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ got green eyes.",
+          "options": ["have", "has", "is"],
+          "answer": "has",
+          "explanation": "«She» es 3.ª persona del singular, así que el auxiliar de «have got» es «has», nunca «have» ni «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tenemos una casa grande",
+          "direction": "es-en",
+          "tiles": ["We", "have", "got", "a", "big", "house", "has", "the"],
+          "answer": "We have got a big house",
+          "explanation": "Con «we» el auxiliar es «have». El adjetivo «big» va delante del sustantivo: «a big house»."
+        },
+        {
+          "type": "speak",
+          "text": "She's got a small nose and a big mouth.",
+          "es": "Ella tiene la nariz pequeña y la boca grande."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras del cuerpo sin repetir",
+          "pairs": [
+            { "en": "have", "es": "tener" },
+            { "en": "got", "es": "partícula de «have got»" },
+            { "en": "eyes", "es": "ojos" },
+            { "en": "nose", "es": "nariz" },
+            { "en": "mouth", "es": "boca" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct option to complete the sentence: \"My brother ___ got a small mouth.\"",
+          "options": ["have", "is", "has"],
+          "correct": 2,
+          "hint": "«My brother» equivale a «he».",
+          "explanation": "«My brother» es 3.ª persona del singular (equivale a «he»), así que el auxiliar es «has». «Have» es para I/you/we/they y «is» no se usa con el sintagma nominal «got a small mouth»."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ got a small nose.",
+          "options": ["have", "has", "do"],
+          "answer": "have",
+          "explanation": "Con «I» el auxiliar de «have got» es «have». El auxiliar «do» no forma parte del sistema de «have got»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos tienen un profesor nuevo",
+          "direction": "es-en",
+          "tiles": ["They", "have", "got", "a", "new", "teacher", "has", "is"],
+          "answer": "They have got a new teacher",
+          "explanation": "«They» es plural y exige «have got», nunca «has got». El adjetivo «new» precede al sustantivo «teacher»."
+        },
+        {
+          "type": "speak",
+          "text": "We've got blue eyes.",
+          "es": "Tenemos los ojos azules."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct option to complete the sentence: \"My sister _____ got long, curly hair.\"",
-      "options": ["have", "has", "is"],
-      "correct": 1,
-      "hint": "«My sister» equivale a «she»: 3.ª persona del singular.",
-      "explanation": "«My sister» es 3.ª persona del singular, así que el auxiliar es «has». «Have» se usa con I, you, we, they; «is» solo valdría con un adjetivo predicativo, pero aquí hay un sintagma nominal con «got»."
-    },
-    {
-      "type": "gap",
-      "text": "They ___ got two dogs.",
-      "options": ["have", "has", "is"],
-      "answer": "have",
-      "explanation": "«They» es plural: exige «have got». «Has» solo se usa con la 3.ª persona del singular («he/she/it»)."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tengo un perro",
-      "direction": "es-en",
-      "tiles": ["I", "have", "got", "a", "dog", "has", "do"],
-      "answer": "I have got a dog",
-      "explanation": "El inglés británico usa la perífrasis «have got» para la posesión. Con «I» el auxiliar es «have», nunca «has», y el auxiliar «do» no interviene."
-    },
-    {
-      "type": "speak",
-      "text": "I've got a new phone.",
-      "es": "Tengo un teléfono nuevo."
-    },
-    {
-      "type": "gap",
-      "text": "He ___ got a beard.",
-      "options": ["have", "has", "do"],
-      "answer": "has",
-      "explanation": "La 3.ª persona del singular («he») exige «has got». «He have got» es un error de concordancia muy penalizado."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is CORRECT?",
-      "options": ["Have you got a brother?", "Do you have got a brother?", "Have you a brother?"],
-      "correct": 0,
-      "hint": "La interrogativa de «have got» se forma por inversión, sin auxiliar «do».",
-      "explanation": "La interrogativa correcta es «Have + sujeto + got»: «Have you got a brother?». «Do you have got» mezcla dos sistemas incompatibles, y «Have you a brother?» es una forma arcaica que ya no se usa."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "face", "es": "cara" },
-        { "en": "hand", "es": "mano" },
-        { "en": "arm", "es": "brazo" },
-        { "en": "leg", "es": "pierna" },
-        { "en": "foot", "es": "pie" }
+      "n": 2,
+      "title": "Más partes del cuerpo y la negación",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "hair", "es": "pelo" },
+            { "en": "eyes", "es": "ojos" },
+            { "en": "nose", "es": "nariz" },
+            { "en": "mouth", "es": "boca" },
+            { "en": "ear", "es": "oreja" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct negative sentence:",
+          "options": ["I haven't got a car.", "I don't have got a car.", "I not have got a car."],
+          "correct": 0,
+          "hint": "En «have got», el «not» va incrustado en la perífrasis, sin auxiliar «do».",
+          "explanation": "La negativa correcta inserta «not» entre «have» y «got»: «I haven't got a car». «I don't have got» mezcla el sistema del auxiliar «do» con «have got», y «I not have got» deja el «not» suelto, ambas imposibles en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "I haven't got ___ money.",
+          "options": ["any", "no", "a"],
+          "answer": "any",
+          "explanation": "El doble negativo es imposible en inglés estándar: la negación ya está en «haven't», así que se usa «any», no «no»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tengo coche",
+          "direction": "es-en",
+          "tiles": ["I", "haven't", "got", "a", "car", "don't", "have"],
+          "answer": "I haven't got a car",
+          "explanation": "La negación de «have got» inserta «not» en la perífrasis: «haven't got». «I don't have got» es una estructura imposible en cualquier variedad del inglés."
+        },
+        {
+          "type": "speak",
+          "text": "I haven't got a car.",
+          "es": "No tengo coche."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más partes del cuerpo",
+          "pairs": [
+            { "en": "face", "es": "cara" },
+            { "en": "hand", "es": "mano" },
+            { "en": "arm", "es": "brazo" },
+            { "en": "leg", "es": "pierna" },
+            { "en": "foot", "es": "pie" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct negative sentence:",
+          "options": ["She don't have got a big nose.", "She hasn't got a big nose.", "She not has got a big nose."],
+          "correct": 1,
+          "hint": "Con «she» el «not» se contrae con «has».",
+          "explanation": "Con «she» (3.ª persona) la negativa correcta es «hasn't got», con el «not» contraído en «has». «Don't have got» mezcla el auxiliar «do» y «not has got» deja el «not» fuera de su sitio."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ got a big ear.",
+          "options": ["haven't", "hasn't", "doesn't"],
+          "answer": "hasn't",
+          "explanation": "«He» es 3.ª persona del singular: la negativa de «have got» es «hasn't got». «Doesn't» pertenece al Present Simple ordinario, no a «have got»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tiene los ojos verdes",
+          "direction": "es-en",
+          "tiles": ["He", "hasn't", "got", "green", "eyes", "doesn't", "have"],
+          "answer": "He hasn't got green eyes",
+          "explanation": "Con «he» la negativa es «hasn't got». «Doesn't have» pertenece al sistema del Present Simple, incompatible con «have got»."
+        },
+        {
+          "type": "speak",
+          "text": "She hasn't got green eyes.",
+          "es": "Ella no tiene los ojos verdes."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja partes del cuerpo sin repetir",
+          "pairs": [
+            { "en": "hair", "es": "pelo" },
+            { "en": "ear", "es": "oreja" },
+            { "en": "face", "es": "cara" },
+            { "en": "hand", "es": "mano" },
+            { "en": "foot", "es": "pie" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «No tenemos los ojos verdes» in English?",
+          "options": ["We don't have got green eyes.", "We hasn't got green eyes.", "We haven't got green eyes."],
+          "correct": 2,
+          "hint": "Con «we» el auxiliar es «have», y el «not» se contrae con él.",
+          "explanation": "Con «we» la negativa es «haven't got». «Don't have got» mezcla el auxiliar «do», y «hasn't» solo se usa con «he/she/it», nunca con «we»."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ got any pets.",
+          "options": ["haven't", "hasn't", "don't"],
+          "answer": "haven't",
+          "explanation": "Con «we» la negativa de «have got» es «haven't got». «Hasn't» es solo para 3.ª persona singular y «don't» pertenece al Present Simple ordinario."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tenemos ninguna mascota",
+          "direction": "es-en",
+          "tiles": ["We", "haven't", "got", "any", "pets", "hasn't", "do"],
+          "answer": "We haven't got any pets",
+          "explanation": "Con «we» la negativa es «haven't got», seguida de «any» en lugar de «no» (el doble negativo es imposible en inglés)."
+        },
+        {
+          "type": "speak",
+          "text": "We haven't got any pets.",
+          "es": "No tenemos ninguna mascota."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Ella tiene el pelo largo",
-      "direction": "es-en",
-      "tiles": ["She", "has", "got", "long", "hair", "have", "the"],
-      "answer": "She has got long hair",
-      "explanation": "Con «she» el auxiliar es «has». En inglés no se usa artículo con el rasgo físico: el español dice «el pelo», pero el inglés dice «long hair» sin «the»."
-    },
-    {
-      "type": "gap",
-      "text": "___ she got blue eyes?",
-      "options": ["Have", "Has", "Does"],
-      "answer": "Has",
-      "explanation": "Con «she» el auxiliar es «has», también en la interrogativa: «Has she got...?». «Does» pertenece al Present Simple ordinario, no a «have got»."
-    },
-    {
-      "type": "quiz",
-      "q": "What is the correct SHORT ANSWER to \"Has your father got a moustache?\" if the answer is negative?",
-      "options": ["No, he doesn't.", "No, he hasn't got.", "No, he hasn't."],
-      "correct": 2,
-      "hint": "La respuesta corta repite el auxiliar de la pregunta y el «got» desaparece.",
-      "explanation": "La pregunta usa «has», así que la respuesta corta negativa es «No, he hasn't». «No, he doesn't» confunde el sistema de «have got» con el auxiliar «do», y en las respuestas cortas el «got» nunca aparece."
-    },
-    {
-      "type": "speak",
-      "text": "She's got dark hair.",
-      "es": "Ella tiene el pelo moreno."
-    },
-    {
-      "type": "gap",
-      "text": "I haven't got ___ money.",
-      "options": ["any", "no", "a"],
-      "answer": "any",
-      "explanation": "El doble negativo es imposible en inglés estándar: la negación ya está en «haven't», así que se usa «any», no «no»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "No tengo coche",
-      "direction": "es-en",
-      "tiles": ["I", "haven't", "got", "a", "car", "don't", "have"],
-      "answer": "I haven't got a car",
-      "explanation": "La negación de «have got» inserta «not» en la perífrasis: «haven't got». «I don't have got» es una estructura imposible en cualquier variedad del inglés."
-    },
-    {
-      "type": "quiz",
-      "q": "Read the description and choose the correct sentence: \"Tom: beard OK | moustache NO | curly hair OK | blue eyes NO\"",
-      "options": [
-        "Tom has got a beard and a moustache. He's got curly hair but he hasn't got blue eyes.",
-        "Tom has got a beard but he hasn't got a moustache. He's got curly hair but he hasn't got blue eyes.",
-        "Tom hasn't got a beard but he's got a moustache. He has curly hair and blue eyes."
-      ],
-      "correct": 1,
-      "hint": "Comprueba dato por dato: barba sí, bigote no, pelo rizado sí, ojos azules no.",
-      "explanation": "Solo la opción correcta refleja los cuatro datos: tiene barba, no tiene bigote, tiene el pelo rizado y no tiene los ojos azules. La primera añade un bigote que no tiene, y la tercera invierte barba y bigote además de omitir «got»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "beard", "es": "barba" },
-        { "en": "moustache", "es": "bigote" },
-        { "en": "blonde", "es": "rubio/a" },
-        { "en": "curly", "es": "rizado/a" },
-        { "en": "straight", "es": "liso/a" }
+      "n": 3,
+      "title": "Estatura y complexión: have got vs. to be",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "back", "es": "espalda" },
+            { "en": "head", "es": "cabeza" },
+            { "en": "tall", "es": "alto/a" },
+            { "en": "short", "es": "bajo/a, corto/a" },
+            { "en": "thin", "es": "delgado/a" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is CORRECT?",
+          "options": ["Have you got a brother?", "Do you have got a brother?", "Have you a brother?"],
+          "correct": 0,
+          "hint": "La interrogativa de «have got» se forma por inversión, sin auxiliar «do».",
+          "explanation": "La interrogativa correcta es «Have + sujeto + got»: «Have you got a brother?». «Do you have got» mezcla dos sistemas incompatibles, y «Have you a brother?» es una forma arcaica que ya no se usa."
+        },
+        {
+          "type": "gap",
+          "text": "___ she got blue eyes?",
+          "options": ["Have", "Has", "Does"],
+          "answer": "Has",
+          "explanation": "Con «she» el auxiliar es «has», también en la interrogativa: «Has she got...?». «Does» pertenece al Present Simple ordinario, no a «have got»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Tienes hermanos?",
+          "direction": "es-en",
+          "tiles": ["Have", "you", "got", "any", "brothers", "Do", "has"],
+          "answer": "Have you got any brothers",
+          "explanation": "La pregunta se forma invirtiendo sujeto y auxiliar: «Have you got...?». Nunca se usa «do» con «have got»."
+        },
+        {
+          "type": "speak",
+          "text": "She is tall and thin.",
+          "es": "Ella es alta y delgada."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más rasgos de estatura y complexión",
+          "pairs": [
+            { "en": "head", "es": "cabeza" },
+            { "en": "tall", "es": "alto/a" },
+            { "en": "short", "es": "bajo/a, corto/a" },
+            { "en": "thin", "es": "delgado/a" },
+            { "en": "fat", "es": "gordo/a" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["She have tall and thin.", "She has got tall and thin.", "She is tall and thin."],
+          "correct": 2,
+          "hint": "Los adjetivos de estatura y complexión no se combinan con «got».",
+          "explanation": "Los adjetivos predicativos de estatura y complexión van con «to be»: «She is tall and thin». «Have got» solo se usa con sintagmas nominales, no con adjetivos sueltos."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ tall.",
+          "options": ["is", "has got", "have got"],
+          "answer": "is",
+          "explanation": "Los adjetivos predicativos de estatura y complexión van con «to be»: «She is tall». «Have got» solo se usa con sintagmas nominales, como «She has got long legs»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella es alta y delgada",
+          "direction": "es-en",
+          "tiles": ["She", "is", "tall", "and", "thin", "has", "got"],
+          "answer": "She is tall and thin",
+          "explanation": "La estatura y la complexión se describen con «to be», no con «have got»: «She is tall and thin»."
+        },
+        {
+          "type": "speak",
+          "text": "Has he got a big head?",
+          "es": "¿Tiene la cabeza grande?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja rasgos y partes del cuerpo sin repetir",
+          "pairs": [
+            { "en": "back", "es": "espalda" },
+            { "en": "tall", "es": "alto/a" },
+            { "en": "short", "es": "bajo/a, corto/a" },
+            { "en": "fat", "es": "gordo/a" },
+            { "en": "hand", "es": "mano" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct question:",
+          "options": ["Does she has got a big nose?", "Has she got a big nose?", "Has she a big nose got?"],
+          "correct": 1,
+          "hint": "El orden es: Have/Has + sujeto + got + complemento.",
+          "explanation": "La interrogativa correcta invierte sujeto y auxiliar: «Has she got a big nose?». «Does she has got» mezcla el sistema del Present Simple con «have got», y «Has she a big nose got?» descoloca el orden de la perífrasis."
+        },
+        {
+          "type": "gap",
+          "text": "Have you got a pet? — Yes, I ___.",
+          "options": ["have", "have got", "do"],
+          "answer": "have",
+          "explanation": "En la respuesta corta el «got» desaparece: «Yes, I have». Responder «Yes, I do» confunde «have got» con el Present Simple ordinario."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Tiene la cabeza grande?",
+          "direction": "es-en",
+          "tiles": ["Has", "he", "got", "a", "big", "head", "Does", "is"],
+          "answer": "Has he got a big head",
+          "explanation": "La interrogativa de «have got» invierte sujeto y auxiliar: «Has he got...?». «Does» e «is» no se combinan con «got»."
+        },
+        {
+          "type": "speak",
+          "text": "He is short and fat.",
+          "es": "Él es bajo y gordo."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "She ___ tall.",
-      "options": ["is", "has got", "have got"],
-      "answer": "is",
-      "explanation": "Los adjetivos predicativos de estatura y complexión van con «to be»: «She is tall». «Have got» solo se usa con sintagmas nominales, como «She has got long legs»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "¿Tienes hermanos?",
-      "direction": "es-en",
-      "tiles": ["Have", "you", "got", "any", "brothers", "Do", "has"],
-      "answer": "Have you got any brothers",
-      "explanation": "La pregunta se forma invirtiendo sujeto y auxiliar: «Have you got...?». Nunca se usa «do» con «have got»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence uses \"have got\" INCORRECTLY?",
-      "options": [
-        "She's got a weak arm after the accident.",
-        "They haven't got a strong team this year.",
-        "I've got hungry after the race."
-      ],
-      "correct": 2,
-      "hint": "Los estados como el hambre o la sed no se expresan con «have got» en inglés.",
-      "explanation": "«I've got hungry» es un calco del español «tengo hambre»: los estados físico-emocionales usan «to be» («I'm hungry»). Las otras dos frases son correctas porque «a weak arm» y «a strong team» son sintagmas nominales."
-    },
-    {
-      "type": "speak",
-      "text": "He's got a long nose and a big mouth.",
-      "es": "Él tiene la nariz larga y la boca grande."
-    },
-    {
-      "type": "gap",
-      "text": "I ___ hungry.",
-      "options": ["am", "have got", "has got"],
-      "answer": "am",
-      "explanation": "El hambre, la sed y el sueño se expresan con «to be» en inglés: «I am hungry». Decir «I've got hungry» es un calco directo de «tengo hambre»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él no tiene barba",
-      "direction": "es-en",
-      "tiles": ["He", "hasn't", "got", "a", "beard", "haven't", "isn't"],
-      "answer": "He hasn't got a beard",
-      "explanation": "Con «he» la negativa es «hasn't got»: el «not» se contrae con «has». «Haven't» sería para I, you, we, they."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the correct negative sentence:",
-      "options": ["I haven't got a car.", "I don't have got a car.", "I not have got a car."],
-      "correct": 0,
-      "hint": "En «have got», el «not» va incrustado en la perífrasis, sin auxiliar «do».",
-      "explanation": "La negativa correcta inserta «not» entre «have» y «got»: «I haven't got a car». «I don't have got» mezcla el sistema del auxiliar «do» con «have got», y «I not have got» deja el «not» suelto, ambas imposibles en inglés."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "tall", "es": "alto/a" },
-        { "en": "thin", "es": "delgado/a" },
-        { "en": "young", "es": "joven" },
-        { "en": "strong", "es": "fuerte" },
-        { "en": "weak", "es": "débil" }
+      "n": 4,
+      "title": "Rasgos faciales: barba, bigote y pelo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "beard", "es": "barba" },
+            { "en": "moustache", "es": "bigote" },
+            { "en": "blonde", "es": "rubio/a" },
+            { "en": "curly", "es": "rizado/a" },
+            { "en": "straight", "es": "liso/a" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct SHORT ANSWER to \"Has your father got a moustache?\" if the answer is negative?",
+          "options": ["No, he doesn't.", "No, he hasn't got.", "No, he hasn't."],
+          "correct": 2,
+          "hint": "La respuesta corta repite el auxiliar de la pregunta y el «got» desaparece.",
+          "explanation": "La pregunta usa «has», así que la respuesta corta negativa es «No, he hasn't». «No, he doesn't» confunde el sistema de «have got» con el auxiliar «do», y en las respuestas cortas el «got» nunca aparece."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ got a beard.",
+          "options": ["have", "has", "do"],
+          "answer": "has",
+          "explanation": "La 3.ª persona del singular («he») exige «has got». «He have got» es un error de concordancia muy penalizado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él no tiene barba",
+          "direction": "es-en",
+          "tiles": ["He", "hasn't", "got", "a", "beard", "haven't", "isn't"],
+          "answer": "He hasn't got a beard",
+          "explanation": "Con «he» la negativa es «hasn't got»: el «not» se contrae con «has». «Haven't» sería para I, you, we, they."
+        },
+        {
+          "type": "speak",
+          "text": "She's got dark hair.",
+          "es": "Ella tiene el pelo moreno."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más rasgos faciales",
+          "pairs": [
+            { "en": "beard", "es": "barba" },
+            { "en": "blonde", "es": "rubio/a" },
+            { "en": "dark", "es": "moreno/a, oscuro/a" },
+            { "en": "curly", "es": "rizado/a" },
+            { "en": "straight", "es": "liso/a" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Read the description and choose the correct sentence: \"Tom: beard OK | moustache NO | curly hair OK | blue eyes NO\"",
+          "options": [
+            "Tom has got a beard and a moustache. He's got curly hair but he hasn't got blue eyes.",
+            "Tom has got a beard but he hasn't got a moustache. He's got curly hair but he hasn't got blue eyes.",
+            "Tom hasn't got a beard but he's got a moustache. He has curly hair and blue eyes."
+          ],
+          "correct": 1,
+          "hint": "Comprueba dato por dato: barba sí, bigote no, pelo rizado sí, ojos azules no.",
+          "explanation": "Solo la opción correcta refleja los cuatro datos: tiene barba, no tiene bigote, tiene el pelo rizado y no tiene los ojos azules. La primera añade un bigote que no tiene, y la tercera invierte barba y bigote además de omitir «got»."
+        },
+        {
+          "type": "gap",
+          "text": "She hasn't got curly hair; she's got ___ hair.",
+          "options": ["straight", "tall", "young"],
+          "answer": "straight",
+          "explanation": "El contrario de «curly» (rizado) es «straight» (liso). «Tall» y «young» describen a la persona con «to be», no al pelo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella tiene el pelo rubio y rizado",
+          "direction": "es-en",
+          "tiles": ["She's", "got", "blonde,", "curly", "hair", "He's", "straight"],
+          "answer": "She's got blonde, curly hair",
+          "explanation": "Varios adjetivos pueden acompañar al mismo sustantivo dentro de «have got»: «She's got blonde, curly hair», separados por coma."
+        },
+        {
+          "type": "speak",
+          "text": "I haven't got a beard, but I've got a moustache.",
+          "es": "No tengo barba, pero tengo bigote."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja rasgos faciales sin repetir",
+          "pairs": [
+            { "en": "beard", "es": "barba" },
+            { "en": "moustache", "es": "bigote" },
+            { "en": "dark", "es": "moreno/a, oscuro/a" },
+            { "en": "straight", "es": "liso/a" },
+            { "en": "eyes", "es": "ojos" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct SHORT ANSWER to \"Have you got a moustache?\" if the answer is affirmative?",
+          "options": ["Yes, I have.", "Yes, I have got.", "Yes, I do."],
+          "correct": 0,
+          "hint": "En la respuesta corta, «got» siempre desaparece.",
+          "explanation": "La respuesta corta afirmativa repite solo el auxiliar: «Yes, I have». «Yes, I have got» añade «got» incorrectamente, y «Yes, I do» confunde el sistema con el Present Simple."
+        },
+        {
+          "type": "gap",
+          "text": "She's got blonde hair, but he's got ___ hair.",
+          "options": ["dark", "curly", "straight"],
+          "answer": "dark",
+          "explanation": "«Blonde» y «dark» son colores de pelo; «curly» y «straight» son texturas, no colores, así que no contrastan con «blonde» en este hueco."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella no tiene el pelo liso",
+          "direction": "es-en",
+          "tiles": ["She", "hasn't", "got", "straight", "hair", "haven't", "is"],
+          "answer": "She hasn't got straight hair",
+          "explanation": "Con «she» la negativa es «hasn't got». «Haven't» sería para I/you/we/they e «is» no se combina con el sintagma «got straight hair»."
+        },
+        {
+          "type": "speak",
+          "text": "He's got a beard and a moustache.",
+          "es": "Él tiene barba y bigote."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "Have you got a pet? — Yes, I ___.",
-      "options": ["have", "have got", "do"],
-      "answer": "have",
-      "explanation": "En la respuesta corta el «got» desaparece: «Yes, I have». Responder «Yes, I do» confunde «have got» con el Present Simple ordinario."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tenemos una casa grande",
-      "direction": "es-en",
-      "tiles": ["We", "have", "got", "a", "big", "house", "has", "the"],
-      "answer": "We have got a big house",
-      "explanation": "Con «we» el auxiliar es «have». El adjetivo «big» va delante del sustantivo: «a big house»."
-    },
-    {
-      "type": "speak",
-      "text": "I haven't got a beard, but I've got a moustache.",
-      "es": "No tengo barba, pero tengo bigote."
-    },
-    {
-      "type": "quiz",
-      "q": "Which question is correct to ask about age?",
-      "options": ["How old have you got?", "How old are you?", "How old has you?"],
-      "correct": 1,
-      "hint": "La edad nunca se pregunta con «have got» en inglés.",
-      "explanation": "«How old» nunca se combina con «have got»: la edad siempre usa «to be» («How old are you?»). Es una pregunta trampa muy frecuente en los exámenes A1."
-    },
-    {
-      "type": "gap",
-      "text": "She hasn't got curly hair; she's got ___ hair.",
-      "options": ["straight", "tall", "young"],
-      "answer": "straight",
-      "explanation": "El contrario de «curly» (rizado) es «straight» (liso). «Tall» y «young» describen a la persona con «to be», no al pelo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ellos tienen un profesor nuevo",
-      "direction": "es-en",
-      "tiles": ["They", "have", "got", "a", "new", "teacher", "has", "is"],
-      "answer": "They have got a new teacher",
-      "explanation": "«They» es plural y exige «have got», nunca «has got». El adjetivo «new» precede al sustantivo «teacher»."
+      "n": 5,
+      "title": "Repaso y contraste británico-americano",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "tall", "es": "alto/a" },
+            { "en": "thin", "es": "delgado/a" },
+            { "en": "young", "es": "joven" },
+            { "en": "strong", "es": "fuerte" },
+            { "en": "weak", "es": "débil" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct option to complete the sentence: \"My sister _____ got long, curly hair.\"",
+          "options": ["has", "have", "is"],
+          "correct": 0,
+          "hint": "«My sister» equivale a «she»: 3.ª persona del singular.",
+          "explanation": "«My sister» es 3.ª persona del singular, así que el auxiliar es «has». «Have» se usa con I, you, we, they; «is» solo valdría con un adjetivo predicativo, pero aquí hay un sintagma nominal con «got»."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ hungry.",
+          "options": ["am", "have got", "has got"],
+          "answer": "am",
+          "explanation": "El hambre, la sed y el sueño se expresan con «to be» en inglés: «I am hungry». Decir «I've got hungry» es un calco directo de «tengo hambre»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella tiene el pelo largo",
+          "direction": "es-en",
+          "tiles": ["She", "has", "got", "long", "hair", "have", "the"],
+          "answer": "She has got long hair",
+          "explanation": "Con «she» el auxiliar es «has». En inglés no se usa artículo con el rasgo físico: el español dice «el pelo», pero el inglés dice «long hair» sin «the»."
+        },
+        {
+          "type": "speak",
+          "text": "He's got a long nose and a big mouth.",
+          "es": "Él tiene la nariz larga y la boca grande."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más rasgos de repaso",
+          "pairs": [
+            { "en": "long", "es": "largo/a" },
+            { "en": "young", "es": "joven" },
+            { "en": "strong", "es": "fuerte" },
+            { "en": "weak", "es": "débil" },
+            { "en": "brown", "es": "marrón, castaño" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses \"have got\" INCORRECTLY?",
+          "options": [
+            "She's got a weak arm after the accident.",
+            "They haven't got a strong team this year.",
+            "I've got hungry after the race."
+          ],
+          "correct": 2,
+          "hint": "Los estados como el hambre o la sed no se expresan con «have got» en inglés.",
+          "explanation": "«I've got hungry» es un calco del español «tengo hambre»: los estados físico-emocionales usan «to be» («I'm hungry»). Las otras dos frases son correctas porque «a weak arm» y «a strong team» son sintagmas nominales."
+        },
+        {
+          "type": "gap",
+          "text": "What colour hair ___ she got?",
+          "options": ["has", "is", "does"],
+          "answer": "has",
+          "explanation": "Las wh-questions con «have got» siguen el mismo orden: Wh- + has/have + sujeto + got. Con «she» corresponde «has»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿De qué color tiene el pelo?",
+          "direction": "es-en",
+          "tiles": ["What", "colour", "hair", "has", "she", "got", "does", "is"],
+          "answer": "What colour hair has she got",
+          "explanation": "Las preguntas con partícula interrogativa siguen el mismo patrón de inversión que «have got»: Wh- + has + sujeto + got."
+        },
+        {
+          "type": "speak",
+          "text": "In American English you can say 'I have a car' instead of 'I've got a car'.",
+          "es": "En inglés americano puedes decir 'I have a car' en vez de 'I've got a car'."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja rasgos de repaso sin repetir",
+          "pairs": [
+            { "en": "long", "es": "largo/a" },
+            { "en": "old", "es": "viejo/a, mayor" },
+            { "en": "strong", "es": "fuerte" },
+            { "en": "weak", "es": "débil" },
+            { "en": "beard", "es": "barba" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which question is correct to ask about age?",
+          "options": ["How old have you got?", "How old are you?", "How old has you?"],
+          "correct": 1,
+          "hint": "La edad nunca se pregunta con «have got» en inglés.",
+          "explanation": "«How old» nunca se combina con «have got»: la edad siempre usa «to be» («How old are you?»). Es una pregunta trampa muy frecuente en los exámenes A1."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ thirsty.",
+          "options": ["am", "have got", "has got"],
+          "answer": "am",
+          "explanation": "Al igual que el hambre, la sed se expresa con «to be»: «I am thirsty», nunca con «have got»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tiene los ojos marrones",
+          "direction": "es-en",
+          "tiles": ["She's", "got", "brown", "eyes", "is", "are"],
+          "answer": "She's got brown eyes",
+          "explanation": "«Brown» es el color marrón/castaño del vocabulario oficial del módulo, usado como adjetivo dentro del sintagma nominal de «have got»: «She's got brown eyes»."
+        },
+        {
+          "type": "speak",
+          "text": "How old are you? I'm ten years old.",
+          "es": "¿Cuántos años tienes? Tengo diez años."
+        }
+      ]
     }
   ]
 }

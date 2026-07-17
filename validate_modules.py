@@ -14,6 +14,11 @@ sys.stdout.reconfigure(encoding="utf-8")
 EXPECTED = {"match": 4, "quiz": 7, "gap": 8, "wordbank": 7, "speak": 4}
 TOTAL = 30
 
+# Módulos subdivididos en 5 subniveles (banco más pequeño por subnivel, sesión de 10 en vez de 12)
+EXPECTED_SUB = {"match": 3, "quiz": 3, "gap": 3, "wordbank": 3, "speak": 3}
+TOTAL_SUB = 15
+SUBLEVELS_COUNT = 5
+
 
 def norm(s):
     s = s.lower()
@@ -72,25 +77,48 @@ def validate_exercise(ex, i):
     return errs
 
 
+def validate_exercise_list(exs, expected, total, prefix=""):
+    errs = []
+    if len(exs) != total:
+        errs.append(f"{prefix}{len(exs)} ejercicios (deben ser {total})")
+    counts = {}
+    for i, ex in enumerate(exs):
+        counts[ex.get("type")] = counts.get(ex.get("type"), 0) + 1
+        errs.extend(f"{prefix}{e}" for e in validate_exercise(ex, i))
+    for t, n in expected.items():
+        if counts.get(t, 0) != n:
+            errs.append(f"{prefix}distribución: {t}={counts.get(t, 0)} (esperado {n})")
+    return errs
+
+
 def validate_file(path):
     errs = []
     try:
         mod = json.loads(path.read_text(encoding="utf-8"))
     except Exception as e:
         return [f"JSON inválido: {e}"]
-    for field in ("id", "module", "title", "subtitle", "exercises"):
+    for field in ("id", "module", "title", "subtitle"):
         if field not in mod:
             errs.append(f"falta el campo «{field}»")
-    exs = mod.get("exercises", [])
-    if len(exs) != TOTAL:
-        errs.append(f"{len(exs)} ejercicios (deben ser {TOTAL})")
-    counts = {}
-    for i, ex in enumerate(exs):
-        counts[ex.get("type")] = counts.get(ex.get("type"), 0) + 1
-        errs.extend(validate_exercise(ex, i))
-    for t, n in EXPECTED.items():
-        if counts.get(t, 0) != n:
-            errs.append(f"distribución: {t}={counts.get(t, 0)} (esperado {n})")
+
+    if "sublevels" in mod:
+        sls = mod["sublevels"]
+        if "exercises" in mod:
+            errs.append("un módulo no puede tener a la vez «sublevels» y «exercises» de nivel superior")
+        if len(sls) != SUBLEVELS_COUNT:
+            errs.append(f"{len(sls)} subniveles (deben ser {SUBLEVELS_COUNT})")
+        for sl in sls:
+            n = sl.get("n", "?")
+            for field in ("n", "title", "exercises"):
+                if field not in sl:
+                    errs.append(f"subnivel {n}: falta el campo «{field}»")
+            errs.extend(validate_exercise_list(sl.get("exercises", []), EXPECTED_SUB, TOTAL_SUB, prefix=f"subnivel {n}: "))
+    else:
+        exs = mod.get("exercises")
+        if exs is None:
+            errs.append("falta el campo «exercises» (o «sublevels»)")
+        else:
+            errs.extend(validate_exercise_list(exs, EXPECTED, TOTAL))
     return errs
 
 

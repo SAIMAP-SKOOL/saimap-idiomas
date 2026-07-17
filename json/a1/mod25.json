@@ -3,258 +3,653 @@
   "module": 25,
   "title": "Review and Consolidation A1",
   "subtitle": "Repaso y Cierre de Nivel",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "hello", "es": "hola" },
-        { "en": "this", "es": "este" },
-        { "en": "that", "es": "ese" },
-        { "en": "here", "es": "aquí" },
-        { "en": "there", "es": "allí" }
+      "n": 1,
+      "title": "To be y pronombres",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "hello", "es": "hola" },
+            { "en": "I", "es": "yo" },
+            { "en": "am", "es": "soy / estoy" },
+            { "en": "is", "es": "es / está" },
+            { "en": "here", "es": "aquí" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": [
+            "She am a doctor and he is a nurse.",
+            "She is a doctor and he is a nurse.",
+            "She is a doctor and he are a nurse."
+          ],
+          "correct": 1,
+          "hint": "«She» y «he» son terceras personas del singular: ambas usan la misma forma de «to be».",
+          "explanation": "«Is» es la forma de «to be» para tercera persona del singular («he, she, it»). «Am» solo acompaña a «I», y «are» corresponde a «you, we, they»."
+        },
+        {
+          "type": "gap",
+          "text": "___ is raining.",
+          "options": ["It", "There", "This"],
+          "answer": "It",
+          "explanation": "El inglés exige sujeto explícito siempre: para el clima se usa el sujeto expletivo «it» («It is raining»), aunque en español digamos «Está lloviendo» sin sujeto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras básicas",
+          "pairs": [
+            { "en": "I", "es": "yo" },
+            { "en": "am", "es": "soy / estoy" },
+            { "en": "is", "es": "es / está" },
+            { "en": "here", "es": "aquí" },
+            { "en": "there", "es": "allí" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete: «__________ a supermarket near my house, but __________ no parks.»",
+          "options": [
+            "There is / there are",
+            "There are / there is",
+            "It is / they are"
+          ],
+          "correct": 0,
+          "hint": "Fíjate en el número: «a supermarket» es singular y «parks» es plural.",
+          "explanation": "«There is» acompaña a singulares («a supermarket») y «there are» a plurales («no parks»). «It is» es referencial, no expresa existencia como el expletivo «there»."
+        },
+        {
+          "type": "gap",
+          "text": "There ___ a dog in the garden.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«There is» acompaña a sustantivos singulares («a dog»); «there are» se reserva para plurales. Decir «There are a dog» es un error de concordancia típico."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "hello", "es": "hola" },
+            { "en": "I", "es": "yo" },
+            { "en": "am", "es": "soy / estoy" },
+            { "en": "here", "es": "aquí" },
+            { "en": "there", "es": "allí" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence for «Yo estoy feliz»:",
+          "options": ["Me is happy.", "I are happy.", "I am happy."],
+          "correct": 2,
+          "hint": "El sujeto «yo» exige una única forma de «to be».",
+          "explanation": "«I» siempre se combina con «am», nunca con «is» ni «are». Además, el sujeto debe ser el pronombre «I», no el pronombre objeto «me»: decir «Me is happy» invierte sujeto y objeto."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ tired.",
+          "options": ["am", "is", "are"],
+          "answer": "am",
+          "explanation": "El pronombre «I» exige siempre la forma «am» del verbo «to be»; «is» y «are» corresponden a otras personas."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Está lloviendo",
+          "direction": "es-en",
+          "tiles": ["It", "is", "raining", "are", "rains"],
+          "answer": "It is raining",
+          "explanation": "El español omite el sujeto («Está lloviendo»), pero el inglés necesita el sujeto expletivo «it»: «It is raining»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Yo estoy cansado",
+          "direction": "es-en",
+          "tiles": ["I", "am", "tired", "is", "are"],
+          "answer": "I am tired",
+          "explanation": "«I» se combina siempre con «am»: «I am tired», nunca con «is» ni «are»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él está allí",
+          "direction": "es-en",
+          "tiles": ["He", "is", "there", "are", "here"],
+          "answer": "He is there",
+          "explanation": "«He» es tercera persona del singular y usa «is». «There» (allí) indica lugar lejano, distinto de «here» (aquí)."
+        },
+        {
+          "type": "speak",
+          "text": "Good morning! Can I help you?",
+          "es": "¡Buenos días! ¿Puedo ayudarle?"
+        },
+        {
+          "type": "speak",
+          "text": "Hello! Is there a room available?",
+          "es": "¡Hola! ¿Hay una habitación disponible?"
+        },
+        {
+          "type": "speak",
+          "text": "I am not tired, but she is.",
+          "es": "No estoy cansado, pero ella sí."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct sentence:",
-      "options": [
-        "She am a doctor and he is a nurse.",
-        "She is a doctor and he is a nurse.",
-        "She is a doctor and he are a nurse."
-      ],
-      "correct": 1,
-      "hint": "«She» y «he» son terceras personas del singular: ambas usan la misma forma de «to be».",
-      "explanation": "«Is» es la forma de «to be» para tercera persona del singular («he, she, it»). «Am» solo acompaña a «I», y «are» corresponde a «you, we, they»."
-    },
-    {
-      "type": "gap",
-      "text": "___ is raining.",
-      "options": ["It", "There", "This"],
-      "answer": "It",
-      "explanation": "El inglés exige sujeto explícito siempre: para el clima se usa el sujeto expletivo «it» («It is raining»), aunque en español digamos «Está lloviendo» sin sujeto."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella tiene un coche",
-      "direction": "es-en",
-      "tiles": ["She", "has", "a", "car", "have", "is"],
-      "answer": "She has a car",
-      "explanation": "«Have» es irregular en tercera persona: «she has», nunca «she have»."
-    },
-    {
-      "type": "speak",
-      "text": "Good morning! Can I help you?",
-      "es": "¡Buenos días! ¿Puedo ayudarle?"
-    },
-    {
-      "type": "quiz",
-      "q": "Complete: «__________ a supermarket near my house, but __________ no parks.»",
-      "options": [
-        "There is / there are",
-        "There are / there is",
-        "It is / they are"
-      ],
-      "correct": 0,
-      "hint": "Fíjate en el número: «a supermarket» es singular y «parks» es plural.",
-      "explanation": "«There is» acompaña a singulares («a supermarket») y «there are» a plurales («no parks»). «It is» es referencial, no expresa existencia como el expletivo «there»."
-    },
-    {
-      "type": "gap",
-      "text": "She ___ a car.",
-      "options": ["has", "have", "haves"],
-      "answer": "has",
-      "explanation": "«Have» es irregular en tercera persona del singular: «she has», no «she have» ni «she haves»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "my", "es": "mi" },
-        { "en": "your", "es": "tu" },
-        { "en": "where", "es": "dónde" },
-        { "en": "what", "es": "qué" },
-        { "en": "when", "es": "cuándo" }
+      "n": 2,
+      "title": "Sustantivos, artículos y cuantificadores",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "hello", "es": "hola" },
+            { "en": "this", "es": "este" },
+            { "en": "that", "es": "ese" },
+            { "en": "here", "es": "aquí" },
+            { "en": "there", "es": "allí" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": [
+            "I don't have some milk in the fridge.",
+            "There aren't some chairs in the classroom.",
+            "Would you like some biscuits with your tea?"
+          ],
+          "correct": 2,
+          "hint": "Recuerda la excepción: las ofertas educadas rompen la regla general de «some/any».",
+          "explanation": "«Some» es correcto en ofertas educadas («Would you like...?») aunque sean preguntas. Las otras dos son negativas («don't have», «aren't») y exigen «any», no «some»."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ a car.",
+          "options": ["has", "have", "haves"],
+          "answer": "has",
+          "explanation": "«Have» es irregular en tercera persona del singular: «she has», no «she have» ni «she haves»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "have", "es": "tener / haber" },
+            { "en": "this", "es": "este" },
+            { "en": "that", "es": "ese" },
+            { "en": "some", "es": "algo de / un poco de" },
+            { "en": "any", "es": "algo de / ningún/a" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct plural:",
+          "options": ["two childs", "two children", "two child"],
+          "correct": 1,
+          "hint": "«Child» tiene un plural irregular.",
+          "explanation": "El plural de «child» es irregular: «children», no «childs» (regla regular) ni «child» sin marca."
+        },
+        {
+          "type": "gap",
+          "text": "Do you have ___ bread?",
+          "options": ["any", "some", "a"],
+          "answer": "any",
+          "explanation": "En preguntas neutras se usa «any»; «some» queda reservado para afirmativas y ofertas educadas («Would you like some...?»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "have", "es": "tener / haber" },
+            { "en": "this", "es": "este" },
+            { "en": "that", "es": "ese" },
+            { "en": "any", "es": "algo de / ningún/a" },
+            { "en": "very", "es": "muy" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is a correct polite offer?",
+          "options": [
+            "Would you like some coffee?",
+            "Would you like any coffee?",
+            "Do you have some coffee?"
+          ],
+          "correct": 0,
+          "hint": "Las ofertas educadas rompen la regla general de «some/any».",
+          "explanation": "En ofertas educadas con «Would you like...?» se usa «some», aunque sea una pregunta. «Any» sería la opción neutra habitual en preguntas, pero aquí no aplica por tratarse de una oferta."
+        },
+        {
+          "type": "gap",
+          "text": "She is ___ nurse.",
+          "options": ["a", "an", "the"],
+          "answer": "a",
+          "explanation": "Las profesiones singulares exigen artículo indefinido. «Nurse» empieza con sonido consonántico, así que corresponde «a»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella tiene un coche",
+          "direction": "es-en",
+          "tiles": ["She", "has", "a", "car", "have", "is"],
+          "answer": "She has a car",
+          "explanation": "«Have» es irregular en tercera persona: «she has», nunca «she have»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tengo leche",
+          "direction": "es-en",
+          "tiles": ["I", "don't", "have", "any", "milk", "some", "no"],
+          "answer": "I don't have any milk",
+          "explanation": "En oraciones negativas el cuantificador correcto es «any»: «I don't have any milk», nunca «some» ni la doble negación con «no»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella tiene algo de pan",
+          "direction": "es-en",
+          "tiles": ["She", "has", "some", "bread", "any", "have"],
+          "answer": "She has some bread",
+          "explanation": "En afirmativas se usa «some»: «She has some bread». «Any» se reserva para negativas y preguntas neutras."
+        },
+        {
+          "type": "speak",
+          "text": "Do you have any fresh bread?",
+          "es": "¿Tienen pan fresco?"
+        },
+        {
+          "type": "speak",
+          "text": "Yes, we have some.",
+          "es": "Sí, tenemos un poco."
+        },
+        {
+          "type": "speak",
+          "text": "We don't have any milk today.",
+          "es": "Hoy no tenemos leche."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Está lloviendo",
-      "direction": "es-en",
-      "tiles": ["It", "is", "raining", "are", "rains"],
-      "answer": "It is raining",
-      "explanation": "El español omite el sujeto («Está lloviendo»), pero el inglés necesita el sujeto expletivo «it»: «It is raining»."
-    },
-    {
-      "type": "gap",
-      "text": "Do you have ___ bread?",
-      "options": ["any", "some", "a"],
-      "answer": "any",
-      "explanation": "En preguntas neutras se usa «any»; «some» queda reservado para afirmativas y ofertas educadas («Would you like some...?»)."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is correct?",
-      "options": [
-        "I don't have some milk in the fridge.",
-        "There aren't some chairs in the classroom.",
-        "Would you like some biscuits with your tea?"
-      ],
-      "correct": 2,
-      "hint": "Recuerda la excepción: las ofertas educadas rompen la regla general de «some/any».",
-      "explanation": "«Some» es correcto en ofertas educadas («Would you like...?») aunque sean preguntas. Las otras dos son negativas («don't have», «aren't») y exigen «any», no «some»."
-    },
-    {
-      "type": "speak",
-      "text": "I am from Spain, but I live in London now.",
-      "es": "Soy de España, pero ahora vivo en Londres."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "No tengo leche",
-      "direction": "es-en",
-      "tiles": ["I", "don't", "have", "any", "milk", "some", "no"],
-      "answer": "I don't have any milk",
-      "explanation": "En oraciones negativas el cuantificador correcto es «any»: «I don't have any milk», nunca «some» ni la doble negación con «no»."
-    },
-    {
-      "type": "gap",
-      "text": "Does she ___ coffee?",
-      "options": ["like", "likes", "to like"],
-      "answer": "like",
-      "explanation": "El auxiliar «does» ya porta la marca de tercera persona: el verbo queda en forma base. «Does she likes» es el error de doble marca más penalizado en Cambridge Key."
-    },
-    {
-      "type": "quiz",
-      "q": "Identify the grammatically INCORRECT sentence:",
-      "options": [
-        "She can play the piano very well.",
-        "Can they speak French? No, they can't.",
-        "He can swims very fast."
-      ],
-      "correct": 2,
-      "hint": "El modal «can» es invariable y rige una forma verbal muy concreta.",
-      "explanation": "«Can» exige infinitivo sin «to» (bare infinitive): lo correcto es «He can swim». La -s de tercera persona es incompatible con los modales; las otras dos frases son correctas."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "who", "es": "quién" },
-        { "en": "how", "es": "cómo" },
-        { "en": "because", "es": "porque" },
-        { "en": "but", "es": "pero" },
-        { "en": "and", "es": "y" }
+      "n": 3,
+      "title": "Posesión, demostrativos y preposiciones",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "my", "es": "mi" },
+            { "en": "your", "es": "tu" },
+            { "en": "where", "es": "dónde" },
+            { "en": "when", "es": "cuándo" },
+            { "en": "also", "es": "también" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete: «This is not my book. It is __________.»",
+          "options": ["her", "hers", "she's"],
+          "correct": 1,
+          "hint": "El posesivo va solo, sin sustantivo detrás: necesitas un pronombre, no un determinante.",
+          "explanation": "Cuando el posesivo sustituye al sintagma completo («her book») se usa el pronombre posesivo «hers». «Her» es determinante y exige un sustantivo detrás; «she's» es la contracción de «she is»."
+        },
+        {
+          "type": "gap",
+          "text": "The keys are ___ the table, next to the lamp.",
+          "options": ["on", "in", "at"],
+          "answer": "on",
+          "explanation": "«On» se usa para indicar que algo está sobre una superficie."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "my", "es": "mi" },
+            { "en": "your", "es": "tu" },
+            { "en": "where", "es": "dónde" },
+            { "en": "when", "es": "cuándo" },
+            { "en": "really", "es": "realmente / de verdad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["This is my book.", "This book is my.", "This is mine book."],
+          "correct": 0,
+          "hint": "El posesivo determinante va antes del sustantivo.",
+          "explanation": "«My» es un determinante posesivo y debe ir justo antes del sustantivo: «This is my book». «This book is my» rompe el orden y «mine book» combina incorrectamente pronombre y determinante."
+        },
+        {
+          "type": "gap",
+          "text": "I usually go for a walk ___ the morning.",
+          "options": ["in", "on", "at"],
+          "answer": "in",
+          "explanation": "Las partes del día (mañana, tarde) usan la preposición «in»: «in the morning»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja mezclando con bloques anteriores",
+          "pairs": [
+            { "en": "my", "es": "mi" },
+            { "en": "your", "es": "tu" },
+            { "en": "some", "es": "algo de / un poco de" },
+            { "en": "any", "es": "algo de / ningún/a" },
+            { "en": "have", "es": "tener / haber" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": [
+            "The concert is in Friday at 8 o'clock.",
+            "The concert is at Friday on 8 o'clock.",
+            "The concert is on Friday at 8 o'clock."
+          ],
+          "correct": 2,
+          "hint": "Cada preposición de tiempo tiene su propio uso: días, horas...",
+          "explanation": "Los días de la semana usan «on» («on Friday») y la hora exacta usa «at» («at 8 o'clock»). «In» corresponde a meses, años y partes del día, no a días concretos."
+        },
+        {
+          "type": "gap",
+          "text": "Breakfast is ___ half past seven.",
+          "options": ["at", "in", "on"],
+          "answer": "at",
+          "explanation": "Las horas exactas usan siempre «at»: «at half past seven»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo un coche rojo",
+          "direction": "es-en",
+          "tiles": ["I", "have", "a", "red", "car", "is"],
+          "answer": "I have a red car",
+          "explanation": "El adjetivo atributivo siempre precede al sustantivo en inglés: «a red car», nunca el calco español «a car red»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las llaves están en la mesa",
+          "direction": "es-en",
+          "tiles": ["The", "keys", "are", "on", "the", "table", "in"],
+          "answer": "The keys are on the table",
+          "explanation": "El artículo «the» se repite porque aparece dos veces en la frase: antes de «keys» y antes de «table». La preposición de lugar correcta es «on»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta es mi casa",
+          "direction": "es-en",
+          "tiles": ["This", "is", "my", "house", "your", "that"],
+          "answer": "This is my house",
+          "explanation": "«This» (esta, cercanía) + «is» + posesivo «my» + sustantivo. «Your» y «that» son distractores de posesivo y demostrativo."
+        },
+        {
+          "type": "speak",
+          "text": "Breakfast is at half past seven.",
+          "es": "El desayuno es a las siete y media."
+        },
+        {
+          "type": "speak",
+          "text": "Is there a restaurant in the hotel?",
+          "es": "¿Hay un restaurante en el hotel?"
+        },
+        {
+          "type": "speak",
+          "text": "Room 14 is on the second floor, next to the lift.",
+          "es": "La habitación 14 está en la segunda planta, junto al ascensor."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "He doesn't ___ on Fridays.",
-      "options": ["work", "works", "working"],
-      "answer": "work",
-      "explanation": "La «-s viajera» ya está en el auxiliar «doesn't», así que el verbo principal permanece en forma base: «He doesn't work»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tengo un coche rojo",
-      "direction": "es-en",
-      "tiles": ["I", "have", "a", "red", "car", "is"],
-      "answer": "I have a red car",
-      "explanation": "El adjetivo atributivo siempre precede al sustantivo en inglés: «a red car», nunca el calco español «a car red»."
-    },
-    {
-      "type": "speak",
-      "text": "Breakfast is at half past seven.",
-      "es": "El desayuno es a las siete y media."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete: «This is not my book. It is __________.»",
-      "options": ["her", "hers", "she's"],
-      "correct": 1,
-      "hint": "El posesivo va solo, sin sustantivo detrás: necesitas un pronombre, no un determinante.",
-      "explanation": "Cuando el posesivo sustituye al sintagma completo («her book») se usa el pronombre posesivo «hers». «Her» es determinante y exige un sustantivo detrás; «she's» es la contracción de «she is»."
-    },
-    {
-      "type": "gap",
-      "text": "Can she ___?",
-      "options": ["sing", "sings", "to sing"],
-      "answer": "sing",
-      "explanation": "El modal «can» rige el infinitivo sin «to»: «Can she sing?». Ni desinencia -s ni «to» son posibles tras un modal."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "or", "es": "o" },
-        { "en": "very", "es": "muy" },
-        { "en": "also", "es": "también" },
-        { "en": "always", "es": "siempre" },
-        { "en": "never", "es": "nunca" }
+      "n": 4,
+      "title": "Presente simple y conectores",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "my", "es": "mi" },
+            { "en": "your", "es": "tu" },
+            { "en": "where", "es": "dónde" },
+            { "en": "what", "es": "qué" },
+            { "en": "when", "es": "cuándo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": [
+            "Does she goes to the gym on Mondays?",
+            "She doesn't goes to the gym on Mondays.",
+            "Does she go to the gym on Mondays?"
+          ],
+          "correct": 2,
+          "hint": "La -s de tercera persona solo puede estar en un sitio: ¿dónde está ya en esta pregunta?",
+          "explanation": "El auxiliar «does» ya lleva la marca de tercera persona, así que el verbo queda en forma base («go»). Las opciones con «does/doesn't + goes» cometen el error de doble marca."
+        },
+        {
+          "type": "gap",
+          "text": "Does she ___ coffee?",
+          "options": ["like", "likes", "to like"],
+          "answer": "like",
+          "explanation": "El auxiliar «does» ya porta la marca de tercera persona: el verbo queda en forma base. «Does she likes» es el error de doble marca más penalizado en Cambridge Key."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "who", "es": "quién" },
+            { "en": "how", "es": "cómo" },
+            { "en": "because", "es": "porque" },
+            { "en": "but", "es": "pero" },
+            { "en": "and", "es": "y" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the conjunction that best completes the sentence: «I want to go to the party, __________ I am very tired.»",
+          "options": ["and", "but", "because"],
+          "correct": 1,
+          "hint": "Hay una oposición entre el deseo de ir y el cansancio: busca el conector adversativo.",
+          "explanation": "«But» introduce contraste entre querer ir y estar cansado. «And» suma ideas similares y «because» daría a entender que el cansancio es la razón para querer ir, lo cual es incoherente."
+        },
+        {
+          "type": "gap",
+          "text": "He doesn't ___ on Fridays.",
+          "options": ["work", "works", "working"],
+          "answer": "work",
+          "explanation": "La «-s viajera» ya está en el auxiliar «doesn't», así que el verbo principal permanece en forma base: «He doesn't work»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "what", "es": "qué" },
+            { "en": "who", "es": "quién" },
+            { "en": "how", "es": "cómo" },
+            { "en": "because", "es": "porque" },
+            { "en": "but", "es": "pero" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Read: «Does your sister work in a hospital?» Choose the correct response:",
+          "options": [
+            "Yes, she does. She is a nurse.",
+            "Yes, she work there. She is a nurse.",
+            "Yes, she does works there. She is a nurse."
+          ],
+          "correct": 0,
+          "hint": "La respuesta corta con «does» nunca lleva el verbo pleno.",
+          "explanation": "La respuesta corta afirmativa es «Yes, she does», usando solo el auxiliar. «She work» carece de la «-s» obligatoria en afirmativa y «does works» duplica la marca de tercera persona."
+        },
+        {
+          "type": "gap",
+          "text": "It is cold, ___ I wear a jacket.",
+          "options": ["so", "because", "or"],
+          "answer": "so",
+          "explanation": "«So» introduce la consecuencia (el frío causa que me ponga la chaqueta); «because» introduciría la causa y aquí invertiría el sentido lógico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Trabaja él aquí?",
+          "direction": "es-en",
+          "tiles": ["Does", "he", "work", "here", "works", "Do"],
+          "answer": "Does he work here",
+          "explanation": "Las preguntas de presente simple exigen el auxiliar «does» delante del sujeto y el verbo en forma base: «Does he work here?», nunca «Does he works»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella no trabaja los viernes",
+          "direction": "es-en",
+          "tiles": ["She", "doesn't", "work", "on", "Fridays", "works"],
+          "answer": "She doesn't work on Fridays",
+          "explanation": "El auxiliar «doesn't» ya lleva la marca de tercera persona, así que el verbo principal queda en forma base: «doesn't work», nunca «doesn't works»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Le gusta el café a ella?",
+          "direction": "es-en",
+          "tiles": ["Does", "she", "like", "coffee", "likes", "do"],
+          "answer": "Does she like coffee",
+          "explanation": "El auxiliar «does» absorbe la marca de tercera persona; el verbo principal se queda en infinitivo: «Does she like», nunca «does she likes»."
+        },
+        {
+          "type": "speak",
+          "text": "I am from Spain, but I live in London now.",
+          "es": "Soy de España, pero ahora vivo en Londres."
+        },
+        {
+          "type": "speak",
+          "text": "I am tired because I work a lot.",
+          "es": "Estoy cansado porque trabajo mucho."
+        },
+        {
+          "type": "speak",
+          "text": "I usually start work at eight o'clock.",
+          "es": "Normalmente empiezo a trabajar a las ocho."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Ella sabe nadar",
-      "direction": "es-en",
-      "tiles": ["She", "can", "swim", "swims", "to"],
-      "answer": "She can swim",
-      "explanation": "Tras el modal «can» va el infinitivo sin «to» y sin -s: «She can swim», nunca «can swims» ni «can to swim»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is grammatically correct?",
-      "options": [
-        "Does she goes to the gym on Mondays?",
-        "She doesn't goes to the gym on Mondays.",
-        "Does she go to the gym on Mondays?"
-      ],
-      "correct": 2,
-      "hint": "La -s de tercera persona solo puede estar en un sitio: ¿dónde está ya en esta pregunta?",
-      "explanation": "El auxiliar «does» ya lleva la marca de tercera persona, así que el verbo queda en forma base («go»). Las opciones con «does/doesn't + goes» cometen el error de doble marca."
-    },
-    {
-      "type": "gap",
-      "text": "There ___ a dog in the garden.",
-      "options": ["is", "are", "am"],
-      "answer": "is",
-      "explanation": "«There is» acompaña a sustantivos singulares («a dog»); «there are» se reserva para plurales. Decir «There are a dog» es un error de concordancia típico."
-    },
-    {
-      "type": "speak",
-      "text": "I am tired because I work a lot.",
-      "es": "Estoy cansado porque trabajo mucho."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nunca bebo café",
-      "direction": "es-en",
-      "tiles": ["I", "never", "drink", "coffee", "drinks", "not"],
-      "answer": "I never drink coffee",
-      "explanation": "Los adverbios de frecuencia van entre el sujeto y el verbo pleno: «I never drink», no «I drink never». «Never» ya es negativo: no se añade «not»."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the conjunction that best completes the sentence: «I want to go to the party, __________ I am very tired.»",
-      "options": ["and", "but", "because"],
-      "correct": 1,
-      "hint": "Hay una oposición entre el deseo de ir y el cansancio: busca el conector adversativo.",
-      "explanation": "«But» introduce contraste entre querer ir y estar cansado. «And» suma ideas similares y «because» daría a entender que el cansancio es la razón para querer ir, lo cual es incoherente."
-    },
-    {
-      "type": "gap",
-      "text": "It is cold, ___ I wear a jacket.",
-      "options": ["so", "because", "or"],
-      "answer": "so",
-      "explanation": "«So» introduce la consecuencia (el frío causa que me ponga la chaqueta); «because» introduciría la causa y aquí invertiría el sentido lógico."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "¿Trabaja él aquí?",
-      "direction": "es-en",
-      "tiles": ["Does", "he", "work", "here", "works", "Do"],
-      "answer": "Does he work here",
-      "explanation": "Las preguntas de presente simple exigen el auxiliar «does» delante del sujeto y el verbo en forma base: «Does he work here?», nunca «Does he works»."
+      "n": 5,
+      "title": "Modales, clima y simulacro final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "or", "es": "o" },
+            { "en": "very", "es": "muy" },
+            { "en": "also", "es": "también" },
+            { "en": "always", "es": "siempre" },
+            { "en": "never", "es": "nunca" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Identify the grammatically INCORRECT sentence:",
+          "options": [
+            "She can play the piano very well.",
+            "Can they speak French? No, they can't.",
+            "He can swims very fast."
+          ],
+          "correct": 2,
+          "hint": "El modal «can» es invariable y rige una forma verbal muy concreta.",
+          "explanation": "«Can» exige infinitivo sin «to» (bare infinitive): lo correcto es «He can swim». La -s de tercera persona es incompatible con los modales; las otras dos frases son correctas."
+        },
+        {
+          "type": "gap",
+          "text": "Can she ___?",
+          "options": ["sing", "sings", "to sing"],
+          "answer": "sing",
+          "explanation": "El modal «can» rige el infinitivo sin «to»: «Can she sing?». Ni desinencia -s ni «to» son posibles tras un modal."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "can", "es": "poder (modal)" },
+            { "en": "or", "es": "o" },
+            { "en": "not", "es": "no" },
+            { "en": "maybe", "es": "quizás / tal vez" },
+            { "en": "always", "es": "siempre" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the grammatically correct sentence:",
+          "options": ["She have a car.", "She has a car.", "She has car."],
+          "correct": 1,
+          "hint": "«Have» es irregular en tercera persona.",
+          "explanation": "La forma correcta en tercera persona es «has»: «She has a car». «She have» es un calco del presente general sin la irregularidad, y «She has car» omite el artículo."
+        },
+        {
+          "type": "gap",
+          "text": "___ is cold today.",
+          "options": ["It", "There", "This"],
+          "answer": "It",
+          "explanation": "El clima se expresa con el sujeto expletivo «it»: «It is cold», aunque en español se omita el sujeto («Hace frío»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "can", "es": "poder (modal)" },
+            { "en": "not", "es": "no" },
+            { "en": "maybe", "es": "quizás / tal vez" },
+            { "en": "always", "es": "siempre" },
+            { "en": "never", "es": "nunca" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the grammatically correct sentence:",
+          "options": ["I have a red car.", "I have a car red.", "I have red a car."],
+          "correct": 0,
+          "hint": "El adjetivo en inglés va antes del sustantivo.",
+          "explanation": "El adjetivo atributivo siempre precede al sustantivo: «a red car». «A car red» es un calco directo del orden español."
+        },
+        {
+          "type": "gap",
+          "text": "He is ___ tired.",
+          "options": ["always", "is", "does"],
+          "answer": "always",
+          "explanation": "Los adverbios de frecuencia se colocan después de «to be»: «He is always tired», nunca antes («He always is»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella sabe nadar",
+          "direction": "es-en",
+          "tiles": ["She", "can", "swim", "swims", "to"],
+          "answer": "She can swim",
+          "explanation": "Tras el modal «can» va el infinitivo sin «to» y sin -s: «She can swim», nunca «can swims» ni «can to swim»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca bebo café",
+          "direction": "es-en",
+          "tiles": ["I", "never", "drink", "coffee", "drinks", "not"],
+          "answer": "I never drink coffee",
+          "explanation": "Los adverbios de frecuencia van entre el sujeto y el verbo pleno: «I never drink», no «I drink never». «Never» ya es negativo: no se añade «not»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella siempre está cansada",
+          "direction": "es-en",
+          "tiles": ["She", "is", "always", "tired", "never"],
+          "answer": "She is always tired",
+          "explanation": "El adverbio de frecuencia «always» se coloca después de «to be»: «She is always tired»."
+        },
+        {
+          "type": "speak",
+          "text": "She can swim, but she can't drive.",
+          "es": "Ella sabe nadar, pero no sabe conducir."
+        },
+        {
+          "type": "speak",
+          "text": "I am tired, so I don't want to go out.",
+          "es": "Estoy cansado, así que no quiero salir."
+        },
+        {
+          "type": "speak",
+          "text": "It is not serious. Take this medicine and drink a lot of water.",
+          "es": "No es grave. Tome esta medicina y beba mucha agua."
+        }
+      ]
     }
   ]
 }

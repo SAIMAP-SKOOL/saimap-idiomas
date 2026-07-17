@@ -3,238 +3,621 @@
   "module": 8,
   "title": "Food and Drinks: Countable & Uncountable",
   "subtitle": "Alimentos y Bebidas",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "apple", "es": "manzana" },
-        { "en": "bread", "es": "pan" },
-        { "en": "milk", "es": "leche" },
-        { "en": "egg", "es": "huevo" },
-        { "en": "cheese", "es": "queso" }
+      "n": 1,
+      "title": "Frutas y verduras contables",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada alimento con su traducción",
+          "pairs": [
+            { "en": "apple", "es": "manzana" },
+            { "en": "banana", "es": "plátano" },
+            { "en": "orange", "es": "naranja" },
+            { "en": "tomato", "es": "tomate" },
+            { "en": "potato", "es": "patata" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I have a apple.", "I have an apple.", "I have the apple."],
+          "correct": 1,
+          "hint": "Fíjate en el sonido con el que empieza «apple».",
+          "explanation": "«Apple» empieza con sonido de vocal /æ/, así que exige el artículo «an»: «I have an apple». «A apple» es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "I want ___ apple.",
+          "options": ["a", "an", "some"],
+          "answer": "an",
+          "explanation": "«Apple» es contable singular y empieza con sonido vocálico, así que necesita el artículo «an», no «a» ni «some» (que se reserva para incontables o plurales)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más alimentos contables",
+          "pairs": [
+            { "en": "banana", "es": "plátano" },
+            { "en": "orange", "es": "naranja" },
+            { "en": "tomato", "es": "tomate" },
+            { "en": "potato", "es": "patata" },
+            { "en": "egg", "es": "huevo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «dos plátanos» in English?",
+          "options": ["two bananas", "two banana", "a two bananas"],
+          "correct": 0,
+          "hint": "Los contables forman el plural regular con -s.",
+          "explanation": "«Banana» es contable: el plural regular añade -s, «two bananas». Nunca se deja el sustantivo en singular tras un número."
+        },
+        {
+          "type": "gap",
+          "text": "There are three ___ on the table.",
+          "options": ["potato", "potatoes", "potatos"],
+          "answer": "potatoes",
+          "explanation": "«Potato» forma el plural con -es (por terminar en consonante + o): «potatoes». «Potatos» es una grafía incorrecta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja alimentos contables sin repetir",
+          "pairs": [
+            { "en": "apple", "es": "manzana" },
+            { "en": "orange", "es": "naranja" },
+            { "en": "tomato", "es": "tomate" },
+            { "en": "potato", "es": "patata" },
+            { "en": "egg", "es": "huevo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct plural: one egg, two ___.",
+          "options": ["egg", "eggs's", "eggs"],
+          "correct": 2,
+          "hint": "El plural regular en inglés no lleva apóstrofo.",
+          "explanation": "El plural regular de «egg» añade solo -s: «two eggs». «Eggs's» confunde el plural con el genitivo sajón."
+        },
+        {
+          "type": "gap",
+          "text": "She has one ___ for breakfast.",
+          "options": ["egg", "eggs", "a egg"],
+          "answer": "egg",
+          "explanation": "Tras el número «one» el sustantivo contable va en singular: «one egg». «A egg» es agramatical porque «egg» empieza con sonido vocálico y exigiría «an»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Quiero una manzana",
+          "direction": "es-en",
+          "tiles": ["I", "want", "an", "apple", "a", "some"],
+          "answer": "I want an apple",
+          "explanation": "«Apple» es contable singular con sonido inicial vocálico: exige el artículo «an», no «a» ni «some»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo dos plátanos",
+          "direction": "es-en",
+          "tiles": ["I", "have", "two", "bananas", "banana", "a"],
+          "answer": "I have two bananas",
+          "explanation": "Tras un número mayor que uno, el sustantivo contable va en plural: «two bananas», nunca en singular."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesito tres patatas",
+          "direction": "es-en",
+          "tiles": ["I", "need", "three", "potatoes", "potato", "some"],
+          "answer": "I need three potatoes",
+          "explanation": "«Potato» pluraliza en «potatoes» (con -es). Tras el número «three» el plural es obligatorio."
+        },
+        {
+          "type": "speak",
+          "text": "I like apples and bananas.",
+          "es": "Me gustan las manzanas y los plátanos."
+        },
+        {
+          "type": "speak",
+          "text": "I want an orange, please.",
+          "es": "Quiero una naranja, por favor."
+        },
+        {
+          "type": "speak",
+          "text": "I have two eggs and one tomato.",
+          "es": "Tengo dos huevos y un tomate."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct option: \"Can I have ___ water, please?\"",
-      "options": ["a", "some", "any"],
-      "correct": 1,
-      "hint": "Es una petición cortés, no una pregunta de información.",
-      "explanation": "«Water» es incontable, así que no admite «a». Y aunque es interrogativa, se trata de una petición cortés, contexto en el que el inglés usa «some», no «any»."
-    },
-    {
-      "type": "gap",
-      "text": "I want ___ bread.",
-      "options": ["some", "a", "any"],
-      "answer": "some",
-      "explanation": "«Bread» es incontable: no admite «a/an». En una frase afirmativa la cantidad indefinida se expresa con «some»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tengo pan",
-      "direction": "es-en",
-      "tiles": ["I", "have", "some", "bread", "a", "any"],
-      "answer": "I have some bread",
-      "explanation": "El español omite el cuantificador («tengo pan»), pero el inglés añade «some» para la indefinición positiva con incontables."
-    },
-    {
-      "type": "speak",
-      "text": "Would you like some tea?",
-      "es": "¿Te apetece un té?"
-    },
-    {
-      "type": "gap",
-      "text": "Do you have ___ eggs?",
-      "options": ["any", "some", "a"],
-      "answer": "any",
-      "explanation": "Es una interrogativa de información (no un ofrecimiento), y en ese caso se usa «any». «Some» se reserva para ofrecimientos y peticiones corteses."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is grammatically correct?",
-      "options": ["I like eat vegetables for dinner.", "I likes eating vegetables for dinner.", "I like eating vegetables for dinner."],
-      "correct": 2,
-      "hint": "Tras «like», el verbo va en una forma especial; y fíjate en la persona del sujeto.",
-      "explanation": "Tras «like» el inglés exige el gerundio: «like eating». «Like eat» es el calco del infinitivo español, y «I likes» añade una «-s» que solo corresponde a la tercera persona singular."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "water", "es": "agua" },
-        { "en": "rice", "es": "arroz" },
-        { "en": "sugar", "es": "azúcar" },
-        { "en": "chicken", "es": "pollo (carne)" },
-        { "en": "juice", "es": "zumo" }
+      "n": 2,
+      "title": "Pan, leche y otros incontables: some",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada alimento con su traducción",
+          "pairs": [
+            { "en": "onion", "es": "cebolla" },
+            { "en": "carrot", "es": "zanahoria" },
+            { "en": "bread", "es": "pan" },
+            { "en": "milk", "es": "leche" },
+            { "en": "water", "es": "agua" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct option: \"Can I have ___ water, please?\"",
+          "options": ["a", "some", "any"],
+          "correct": 1,
+          "hint": "Es una petición cortés, no una pregunta de información.",
+          "explanation": "«Water» es incontable, así que no admite «a». Y aunque es interrogativa, se trata de una petición cortés, contexto en el que el inglés usa «some», no «any»."
+        },
+        {
+          "type": "gap",
+          "text": "I want ___ bread.",
+          "options": ["some", "a", "any"],
+          "answer": "some",
+          "explanation": "«Bread» es incontable: no admite «a/an». En una frase afirmativa la cantidad indefinida se expresa con «some»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más incontables",
+          "pairs": [
+            { "en": "onion", "es": "cebolla" },
+            { "en": "carrot", "es": "zanahoria" },
+            { "en": "bread", "es": "pan" },
+            { "en": "water", "es": "agua" },
+            { "en": "rice", "es": "arroz" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I want some bread.", "I want a bread.", "I want breads."],
+          "correct": 0,
+          "hint": "«Bread» no admite artículo indefinido ni plural.",
+          "explanation": "«Bread» es incontable: nunca lleva «a» ni forma plural («breads»). La indefinición positiva se expresa con «some»."
+        },
+        {
+          "type": "gap",
+          "text": "There is some ___ in the glass.",
+          "options": ["water", "waters", "a water"],
+          "answer": "water",
+          "explanation": "«Water» es incontable: no tiene forma plural ni admite «a». Se mantiene invariable tras «some»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja incontables y contables de la cocina",
+          "pairs": [
+            { "en": "onion", "es": "cebolla" },
+            { "en": "carrot", "es": "zanahoria" },
+            { "en": "bread", "es": "pan" },
+            { "en": "milk", "es": "leche" },
+            { "en": "rice", "es": "arroz" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["I have a rice.", "I have rices.", "I have some rice."],
+          "correct": 2,
+          "hint": "«Rice» no admite artículo indefinido ni plural.",
+          "explanation": "«Rice» es incontable: nunca lleva «a» ni forma plural («rices»). La cantidad indefinida positiva usa «some»: «I have some rice»."
+        },
+        {
+          "type": "gap",
+          "text": "I have ___ carrots in the fridge.",
+          "options": ["some", "a", "much"],
+          "answer": "some",
+          "explanation": "«Carrots» está en plural (contable), así que la cantidad indefinida positiva se expresa con «some», no con «a» (singular) ni «much» (reservado a incontables)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo pan",
+          "direction": "es-en",
+          "tiles": ["I", "have", "some", "bread", "a", "any"],
+          "answer": "I have some bread",
+          "explanation": "El español omite el cuantificador («tengo pan»), pero el inglés añade «some» para la indefinición positiva con incontables."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hay leche",
+          "direction": "es-en",
+          "tiles": ["There", "is", "some", "milk", "any", "are"],
+          "answer": "There is some milk",
+          "explanation": "Frase afirmativa con incontable: «There is some milk». «Any» se usaría en negativa o interrogativa, y «are» falla porque «milk» funciona como singular."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesito una cebolla",
+          "direction": "es-en",
+          "tiles": ["I", "need", "an", "onion", "a", "some"],
+          "answer": "I need an onion",
+          "explanation": "«Onion» es contable y empieza con sonido vocálico: exige el artículo «an», a diferencia de los incontables de este grupo como «bread» o «rice»."
+        },
+        {
+          "type": "speak",
+          "text": "I have some bread and milk.",
+          "es": "Tengo pan y leche."
+        },
+        {
+          "type": "speak",
+          "text": "Can I have some water, please?",
+          "es": "¿Me puedes dar agua, por favor?"
+        },
+        {
+          "type": "speak",
+          "text": "I need a carrot and an onion.",
+          "es": "Necesito una zanahoria y una cebolla."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "I don't have ___ rice.",
-      "options": ["any", "some", "much"],
-      "answer": "any",
-      "explanation": "En oraciones negativas «some» se sustituye obligatoriamente por «any»: «I don't have any rice». Es la A de «Absence» en la fórmula SAFE."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "No tengo arroz",
-      "direction": "es-en",
-      "tiles": ["I", "don't", "have", "any", "rice", "some"],
-      "answer": "I don't have any rice",
-      "explanation": "El español solo niega el verbo («no tengo arroz»), pero el inglés además cambia «some» por «any» en la negación."
-    },
-    {
-      "type": "quiz",
-      "q": "There ___ any milk in the fridge.",
-      "options": ["isn't", "is", "aren't"],
-      "correct": 0,
-      "hint": "La presencia de «any» en una frase declarativa pide negación, y «milk» funciona como singular.",
-      "explanation": "«Any» en una declarativa exige verbo negativo: «There isn't any milk». «There is any» es agramatical, y «aren't» falla porque «milk» es incontable y funciona como singular."
-    },
-    {
-      "type": "speak",
-      "text": "I have lunch at one o'clock.",
-      "es": "Como a la una."
-    },
-    {
-      "type": "gap",
-      "text": "I like ___ chicken.",
-      "options": ["eating", "eat", "eats"],
-      "answer": "eating",
-      "explanation": "«Like» + verbo exige el gerundio «-ing»: «I like eating chicken». «I like eat» es el error de interferencia del infinitivo español «me gusta comer»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Me gusta comer fruta",
-      "direction": "es-en",
-      "tiles": ["I", "like", "eating", "fruit", "eat"],
-      "answer": "I like eating fruit",
-      "explanation": "El gerundio «eating» funciona como el nombre de la acción de comer: «I like eating fruit». Nunca «I like eat», calco del español."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "butter", "es": "mantequilla" },
-        { "en": "salt", "es": "sal" },
-        { "en": "meat", "es": "carne" },
-        { "en": "onion", "es": "cebolla" },
-        { "en": "carrot", "es": "zanahoria" }
+      "n": 3,
+      "title": "Carnes y quesos: any en negativas y preguntas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada alimento con su traducción",
+          "pairs": [
+            { "en": "cheese", "es": "queso" },
+            { "en": "meat", "es": "carne" },
+            { "en": "chicken", "es": "pollo (carne)" },
+            { "en": "fish", "es": "pescado (alimento)" },
+            { "en": "butter", "es": "mantequilla" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I don't have some cheese.", "I don't have any cheese.", "I don't have cheese any."],
+          "correct": 1,
+          "hint": "En negativas, «some» se sustituye por otro cuantificador.",
+          "explanation": "En oraciones negativas, «some» se reemplaza obligatoriamente por «any»: «I don't have any cheese»."
+        },
+        {
+          "type": "gap",
+          "text": "I don't have ___ rice.",
+          "options": ["any", "some", "much"],
+          "answer": "any",
+          "explanation": "En oraciones negativas «some» se sustituye obligatoriamente por «any»: «I don't have any rice». Es la A de «Absence» en la fórmula SAFE."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más alimentos y su traducción",
+          "pairs": [
+            { "en": "meat", "es": "carne" },
+            { "en": "chicken", "es": "pollo (carne)" },
+            { "en": "fish", "es": "pescado (alimento)" },
+            { "en": "butter", "es": "mantequilla" },
+            { "en": "sugar", "es": "azúcar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "There ___ any milk in the fridge.",
+          "options": ["isn't", "is", "aren't"],
+          "correct": 0,
+          "hint": "La presencia de «any» en una frase declarativa pide negación, y «milk» funciona como singular.",
+          "explanation": "«Any» en una declarativa exige verbo negativo: «There isn't any milk». «There is any» es agramatical, y «aren't» falla porque «milk» es incontable y funciona como singular."
+        },
+        {
+          "type": "gap",
+          "text": "Do you have ___ chicken for dinner?",
+          "options": ["any", "some", "a"],
+          "answer": "any",
+          "explanation": "Es una pregunta de información neutral, no un ofrecimiento: exige «any». «Some» se reserva para ofrecimientos y peticiones corteses."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja carnes, quesos y pan sin repetir",
+          "pairs": [
+            { "en": "cheese", "es": "queso" },
+            { "en": "chicken", "es": "pollo (carne)" },
+            { "en": "butter", "es": "mantequilla" },
+            { "en": "sugar", "es": "azúcar" },
+            { "en": "bread", "es": "pan" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct translation of «no tengo mantequilla»:",
+          "options": ["I don't have some butter.", "I have not any butter.", "I don't have any butter."],
+          "correct": 2,
+          "hint": "Fíjate en dónde va la negación y qué cuantificador la acompaña.",
+          "explanation": "La negación correcta se forma con «don't» + verbo + «any»: «I don't have any butter». Las otras opciones colocan mal la negación o usan «some»."
+        },
+        {
+          "type": "gap",
+          "text": "There isn't ___ butter.",
+          "options": ["any", "some", "a"],
+          "answer": "any",
+          "explanation": "Tras un verbo negado, el cuantificador obligatorio es «any»: «There isn't any butter»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tengo arroz",
+          "direction": "es-en",
+          "tiles": ["I", "don't", "have", "any", "rice", "some"],
+          "answer": "I don't have any rice",
+          "explanation": "El español solo niega el verbo («no tengo arroz»), pero el inglés además cambia «some» por «any» en la negación."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No hay mantequilla",
+          "direction": "es-en",
+          "tiles": ["There", "isn't", "any", "butter", "is", "some"],
+          "answer": "There isn't any butter",
+          "explanation": "«Any» en declarativa exige verbo negativo: «There isn't any butter», nunca «There is any butter»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Tienes queso?",
+          "direction": "es-en",
+          "tiles": ["Do", "you", "have", "any", "cheese", "some"],
+          "answer": "Do you have any cheese",
+          "explanation": "Pregunta de información neutral: exige «any». Con «some» implicaría un ofrecimiento en vez de una pregunta abierta."
+        },
+        {
+          "type": "speak",
+          "text": "There isn't any butter.",
+          "es": "No hay mantequilla."
+        },
+        {
+          "type": "speak",
+          "text": "I don't have any cheese or fish.",
+          "es": "No tengo queso ni pescado."
+        },
+        {
+          "type": "speak",
+          "text": "Do you have any chicken?",
+          "es": "¿Tienes pollo?"
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "\"How ___ sugar do you want in your coffee?\"",
-      "options": ["many", "much", "some"],
-      "correct": 1,
-      "hint": "¿«Sugar» admite plural? Esa es la prueba rápida.",
-      "explanation": "«Sugar» es incontable, así que la cantidad se pregunta con «How much». «Many» solo acompaña a contables («How many eggs?») y «How some» no existe."
-    },
-    {
-      "type": "gap",
-      "text": "How ___ eggs do you need?",
-      "options": ["many", "much", "some"],
-      "answer": "many",
-      "explanation": "«Eggs» es contable y va en plural, por lo que se usa «How many». «Much» se reserva para incontables como «rice» o «sugar»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Quiero un vaso de agua",
-      "direction": "es-en",
-      "tiles": ["I", "want", "a", "glass", "of", "water", "some"],
-      "answer": "I want a glass of water",
-      "explanation": "El incontable «water» se cuantifica con una expresión partitiva: «a glass of water» (artículo + contenedor + «of» + incontable)."
-    },
-    {
-      "type": "speak",
-      "text": "I like eating fruit for breakfast.",
-      "es": "Me gusta comer fruta en el desayuno."
-    },
-    {
-      "type": "quiz",
-      "q": "What does a typical British person eat for lunch?",
-      "options": ["A large three-course meal with soup, main dish and dessert at 2 pm.", "Coffee and toast at 8 am.", "A sandwich, a salad or soup between 12:00 and 13:30."],
-      "correct": 2,
-      "hint": "El «lunch» anglosajón es rápido y ligero, no la comida principal.",
-      "explanation": "El «lunch» británico es ligero y rápido (sándwich, sopa o ensalada, 12:00-13:30). La comida de varios platos a las 14:00 es el almuerzo español, y el café con tostadas describe el «breakfast»."
-    },
-    {
-      "type": "gap",
-      "text": "Two glasses ___ milk, please.",
-      "options": ["of", "for", "to"],
-      "answer": "of",
-      "explanation": "Los incontables no se pluralizan: «dos leches» se dice con partitivo, «two glasses of milk». La estructura es contenedor + «of» + incontable."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Hay leche",
-      "direction": "es-en",
-      "tiles": ["There", "is", "some", "milk", "any", "are"],
-      "answer": "There is some milk",
-      "explanation": "Frase afirmativa con incontable: «There is some milk». «Any» se usaría en negativa o interrogativa, y «are» falla porque «milk» funciona como singular."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "breakfast", "es": "desayuno" },
-        { "en": "lunch", "es": "almuerzo" },
-        { "en": "dinner", "es": "cena" },
-        { "en": "fruit", "es": "fruta" },
-        { "en": "vegetable", "es": "verdura" }
+      "n": 4,
+      "title": "Sal, café y cuantificadores: much / many",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "salt", "es": "sal" },
+            { "en": "coffee", "es": "café" },
+            { "en": "tea", "es": "té" },
+            { "en": "juice", "es": "zumo" },
+            { "en": "oil", "es": "aceite" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"How ___ sugar do you want in your coffee?\"",
+          "options": ["many", "much", "some"],
+          "correct": 1,
+          "hint": "¿«Sugar» admite plural? Esa es la prueba rápida.",
+          "explanation": "«Sugar» es incontable, así que la cantidad se pregunta con «How much». «Many» solo acompaña a contables («How many eggs?») y «How some» no existe."
+        },
+        {
+          "type": "gap",
+          "text": "Two glasses ___ milk, please.",
+          "options": ["of", "for", "to"],
+          "answer": "of",
+          "explanation": "Los incontables no se pluralizan: «dos leches» se dice con partitivo, «two glasses of milk». La estructura es contenedor + «of» + incontable."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más bebidas y condimentos",
+          "pairs": [
+            { "en": "coffee", "es": "café" },
+            { "en": "tea", "es": "té" },
+            { "en": "juice", "es": "zumo" },
+            { "en": "oil", "es": "aceite" },
+            { "en": "food", "es": "comida (en general)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How ___ eggs do you need?",
+          "options": ["many", "much", "some"],
+          "correct": 0,
+          "hint": "¿«Eggs» admite plural? Esa es la prueba rápida.",
+          "explanation": "«Eggs» es contable y va en plural, por lo que se usa «How many». «Much» se reserva para incontables como «rice» o «sugar»."
+        },
+        {
+          "type": "gap",
+          "text": "I want a cup of ___.",
+          "options": ["coffee", "coffees", "a coffee"],
+          "answer": "coffee",
+          "explanation": "«Coffee» es incontable: no admite plural ni artículo indefinido. Se cuantifica con el partitivo «a cup of coffee»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja condimentos y comida sin repetir",
+          "pairs": [
+            { "en": "salt", "es": "sal" },
+            { "en": "tea", "es": "té" },
+            { "en": "oil", "es": "aceite" },
+            { "en": "food", "es": "comida (en general)" },
+            { "en": "sugar", "es": "azúcar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Would you like ___ tea?",
+          "options": ["any", "a", "some"],
+          "correct": 2,
+          "hint": "No es una pregunta neutra: el hablante está ofreciendo algo.",
+          "explanation": "Aunque la frase es interrogativa, es un ofrecimiento de cortesía, y en los ofrecimientos es obligatorio «some». «Any» sonaría distante o frío, y «a» no puede acompañar a «tea», que es incontable."
+        },
+        {
+          "type": "gap",
+          "text": "Would you like ___ tea?",
+          "options": ["some", "any", "a"],
+          "answer": "some",
+          "explanation": "Aunque es interrogativa, es un ofrecimiento cortés, y en los ofrecimientos y peticiones se usa «some» («Would you like some tea?»), no «any»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Quiero un vaso de agua",
+          "direction": "es-en",
+          "tiles": ["I", "want", "a", "glass", "of", "water", "some"],
+          "answer": "I want a glass of water",
+          "explanation": "El incontable «water» se cuantifica con una expresión partitiva: «a glass of water» (artículo + contenedor + «of» + incontable)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Quieres un poco de café?",
+          "direction": "es-en",
+          "tiles": ["Would", "you", "like", "some", "coffee", "any", "a"],
+          "answer": "Would you like some coffee",
+          "explanation": "En los ofrecimientos de cortesía se usa siempre «some», nunca «any»: el hablante presupone que el café existe y espera un «sí»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No hay mucha sal",
+          "direction": "es-en",
+          "tiles": ["There", "isn't", "much", "salt", "many", "some"],
+          "answer": "There isn't much salt",
+          "explanation": "«Salt» es incontable: la cantidad se cuantifica con «much», no con «many» (reservado a contables)."
+        },
+        {
+          "type": "speak",
+          "text": "Would you like some tea?",
+          "es": "¿Te apetece un té?"
+        },
+        {
+          "type": "speak",
+          "text": "I don't want much salt in my food.",
+          "es": "No quiero mucha sal en mi comida."
+        },
+        {
+          "type": "speak",
+          "text": "I want a cup of coffee, please.",
+          "es": "Quiero una taza de café, por favor."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which sentence is correct?",
-      "options": ["I want some bread.", "I want a bread.", "I want two breads."],
-      "correct": 0,
-      "hint": "«Bread» se concibe como una masa continua, no como unidades.",
-      "explanation": "«Bread» es incontable: no admite «a» ni plural («breads»). La cantidad indefinida se expresa con «some» o con partitivos como «a slice of bread»."
-    },
-    {
-      "type": "gap",
-      "text": "Would you like ___ tea?",
-      "options": ["some", "any", "a"],
-      "answer": "some",
-      "explanation": "Aunque es interrogativa, es un ofrecimiento cortés, y en los ofrecimientos y peticiones se usa «some» («Would you like some tea?»), no «any»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Desayuno huevos y tostadas",
-      "direction": "es-en",
-      "tiles": ["I", "have", "eggs", "and", "toast", "for", "breakfast", "eat", "the"],
-      "answer": "I have eggs and toast for breakfast",
-      "explanation": "El inglés usa «have» (no «take» ni «eat» necesariamente) para consumir alimentos: «have + comida + for + nombre de la comida»."
-    },
-    {
-      "type": "speak",
-      "text": "There isn't any butter.",
-      "es": "No hay mantequilla."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete: \"She ___ cooking chicken with vegetables.\"",
-      "options": ["love", "loves", "loving"],
-      "correct": 1,
-      "hint": "El sujeto es tercera persona del singular.",
-      "explanation": "Con «she/he/it» el verbo toma «-s»: «She loves cooking». «She love» omite la marca de tercera persona y «loving» dejaría la frase sin verbo conjugado."
-    },
-    {
-      "type": "gap",
-      "text": "I have toast ___ breakfast.",
-      "options": ["for", "in", "at"],
-      "answer": "for",
-      "explanation": "La estructura fija es «have + comida + for + nombre de la comida»: «I have toast for breakfast». Es un patrón idiomático que no se traduce literalmente."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "A ella le gusta cocinar",
-      "direction": "es-en",
-      "tiles": ["She", "likes", "cooking", "like", "cook"],
-      "answer": "She likes cooking",
-      "explanation": "Tercera persona singular: «likes» con «-s». Y tras el verbo de gusto va el gerundio «cooking», nunca el infinitivo «cook»."
+      "n": 5,
+      "title": "Comidas del día y \"like + verbo-ing\"",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "drink", "es": "bebida" },
+            { "en": "fruit", "es": "fruta" },
+            { "en": "vegetable", "es": "verdura / vegetal" },
+            { "en": "breakfast", "es": "desayuno" },
+            { "en": "lunch", "es": "almuerzo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["I like eat vegetables for dinner.", "I like eating vegetables for dinner.", "I likes eating vegetables for dinner."],
+          "correct": 1,
+          "hint": "Tras «like», el verbo va en una forma especial; y fíjate en la persona del sujeto.",
+          "explanation": "Tras «like» el inglés exige el gerundio: «like eating». «Like eat» es el calco del infinitivo español, y «I likes» añade una «-s» que solo corresponde a la tercera persona singular."
+        },
+        {
+          "type": "gap",
+          "text": "I like ___ chicken.",
+          "options": ["eating", "eat", "eats"],
+          "answer": "eating",
+          "explanation": "«Like» + verbo exige el gerundio «-ing»: «I like eating chicken». «I like eat» es el error de interferencia del infinitivo español «me gusta comer»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de las comidas",
+          "pairs": [
+            { "en": "fruit", "es": "fruta" },
+            { "en": "vegetable", "es": "verdura / vegetal" },
+            { "en": "breakfast", "es": "desayuno" },
+            { "en": "lunch", "es": "almuerzo" },
+            { "en": "dinner", "es": "cena" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What does a typical British person eat for lunch?",
+          "options": ["A sandwich, a salad or soup between 12:00 and 13:30.", "A large three-course meal with soup, main dish and dessert at 2 pm.", "Coffee and toast at 8 am."],
+          "correct": 0,
+          "hint": "El «lunch» anglosajón es rápido y ligero, no la comida principal.",
+          "explanation": "El «lunch» británico es ligero y rápido (sándwich, sopa o ensalada, 12:00-13:30). La comida de varios platos a las 14:00 es el almuerzo español, y el café con tostadas describe el «breakfast»."
+        },
+        {
+          "type": "gap",
+          "text": "I have toast ___ breakfast.",
+          "options": ["for", "in", "at"],
+          "answer": "for",
+          "explanation": "La estructura fija es «have + comida + for + nombre de la comida»: «I have toast for breakfast». Es un patrón idiomático que no se traduce literalmente."
+        },
+        {
+          "type": "match",
+          "prompt": "Repaso final: mezcla de todo el módulo",
+          "pairs": [
+            { "en": "fruit", "es": "fruta" },
+            { "en": "vegetable", "es": "verdura / vegetal" },
+            { "en": "dinner", "es": "cena" },
+            { "en": "chicken", "es": "pollo (carne)" },
+            { "en": "coffee", "es": "café" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete: \"She ___ cooking chicken with vegetables.\"",
+          "options": ["love", "loving", "loves"],
+          "correct": 2,
+          "hint": "El sujeto es tercera persona del singular.",
+          "explanation": "Con «she/he/it» el verbo toma «-s»: «She loves cooking». «She love» omite la marca de tercera persona y «loving» dejaría la frase sin verbo conjugado."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ cooking fruit salads.",
+          "options": ["like", "likes", "liking"],
+          "answer": "likes",
+          "explanation": "Con «she», el verbo «like» exige la «-s» de tercera persona: «She likes cooking». «Liking» dejaría la frase sin verbo conjugado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me gusta comer fruta",
+          "direction": "es-en",
+          "tiles": ["I", "like", "eating", "fruit", "eat"],
+          "answer": "I like eating fruit",
+          "explanation": "El gerundio «eating» funciona como el nombre de la acción de comer: «I like eating fruit». Nunca «I like eat», calco del español."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A ella le gusta cocinar",
+          "direction": "es-en",
+          "tiles": ["She", "likes", "cooking", "like", "cook"],
+          "answer": "She likes cooking",
+          "explanation": "Tercera persona singular: «likes» con «-s». Y tras el verbo de gusto va el gerundio «cooking», nunca el infinitivo «cook»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Desayuno huevos y tostadas",
+          "direction": "es-en",
+          "tiles": ["I", "have", "eggs", "and", "toast", "for", "breakfast", "eat", "the"],
+          "answer": "I have eggs and toast for breakfast",
+          "explanation": "El inglés usa «have» (no «take» ni «eat» necesariamente) para consumir alimentos: «have + comida + for + nombre de la comida»."
+        },
+        {
+          "type": "speak",
+          "text": "I like eating fruit for breakfast.",
+          "es": "Me gusta comer fruta en el desayuno."
+        },
+        {
+          "type": "speak",
+          "text": "We have dinner at eight o'clock.",
+          "es": "Cenamos a las ocho."
+        },
+        {
+          "type": "speak",
+          "text": "I don't like drinking coffee without sugar.",
+          "es": "No me gusta beber café sin azúcar."
+        }
+      ]
     }
   ]
 }

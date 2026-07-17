@@ -3,238 +3,621 @@
   "module": 5,
   "title": "Dummy Subjects: It and There",
   "subtitle": "Sujetos Vacíos y el Clima",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada fenómeno del clima con su traducción",
-      "pairs": [
-        { "en": "rain", "es": "lluvia" },
-        { "en": "snow", "es": "nieve" },
-        { "en": "wind", "es": "viento" },
-        { "en": "sun", "es": "sol" },
-        { "en": "cloud", "es": "nube" }
+      "n": 1,
+      "title": "El sujeto vacío \"it\": clima básico",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra del clima con su traducción",
+          "pairs": [
+            { "en": "weather", "es": "tiempo / clima" },
+            { "en": "rain", "es": "lluvia / llover" },
+            { "en": "snow", "es": "nieve / nevar" },
+            { "en": "wind", "es": "viento" },
+            { "en": "sun", "es": "sol" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the grammatically correct sentence to describe the weather:",
+          "options": ["Makes cold in winter.", "It is cold in winter.", "Is cold in winter."],
+          "correct": 1,
+          "hint": "El inglés no tolera un hueco en la posición de sujeto.",
+          "explanation": "El clima exige el sujeto vacío «it» + cópula + adjetivo: «It is cold». «Makes cold» es un calco de «hace frío» y «Is cold» carece del sujeto obligatorio."
+        },
+        {
+          "type": "gap",
+          "text": "___ is raining.",
+          "options": ["It", "He", "Is"],
+          "answer": "It",
+          "explanation": "Los verbos atmosféricos exigen el sujeto expletivo «it»: «It is raining». En español decimos «llueve» sin sujeto, pero el inglés no lo permite."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del clima",
+          "pairs": [
+            { "en": "weather", "es": "tiempo / clima" },
+            { "en": "climate", "es": "clima" },
+            { "en": "rain", "es": "lluvia / llover" },
+            { "en": "snow", "es": "nieve / nevar" },
+            { "en": "wind", "es": "viento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses the dummy subject correctly?",
+          "options": ["It rains a lot in this climate.", "Rains a lot in this climate.", "Is rain a lot in this climate."],
+          "correct": 0,
+          "hint": "Falta un elemento obligatorio en dos de las opciones.",
+          "explanation": "El verbo atmosférico «rains» necesita el sujeto expletivo «it»: «It rains a lot». Las otras dos opciones omiten ese sujeto obligatorio."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ in Spain is warm.",
+          "options": ["climate", "weather", "wind"],
+          "answer": "climate",
+          "explanation": "«Climate» describe el patrón general de un lugar a largo plazo («the climate in Spain»), mientras que «weather» se refiere a las condiciones de un día concreto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el clima sin repetir",
+          "pairs": [
+            { "en": "climate", "es": "clima" },
+            { "en": "rain", "es": "lluvia / llover" },
+            { "en": "snow", "es": "nieve / nevar" },
+            { "en": "wind", "es": "viento" },
+            { "en": "sun", "es": "sol" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct translation of «hace viento»:",
+          "options": ["It makes wind.", "There is windy.", "It is windy."],
+          "correct": 2,
+          "hint": "El sustantivo español se convierte en adjetivo.",
+          "explanation": "El inglés adjetiva el clima: viento (wind) → ventoso (windy) con la cópula: «It is windy». «It makes wind» calca el «hace» español."
+        },
+        {
+          "type": "gap",
+          "text": "It ___ a lot in this country.",
+          "options": ["rains", "rain", "raining"],
+          "answer": "rains",
+          "explanation": "Hábito o hecho general ⇒ presente simple. El sujeto «it» es tercera persona singular, así que el verbo lleva la -s obligatoria: «it rains»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hace viento",
+          "direction": "es-en",
+          "tiles": ["It", "is", "windy", "wind", "does", "have"],
+          "answer": "It is windy",
+          "explanation": "El clima ventoso se adjetiva con la cópula: «It is windy» (de «wind», viento). Nunca «It does wind» ni «It have wind»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hace sol",
+          "direction": "es-en",
+          "tiles": ["It", "is", "sunny", "sun", "makes", "are"],
+          "answer": "It is sunny",
+          "explanation": "El sustantivo «sun» (sol) se convierte en el adjetivo «sunny» (soleado): «It is sunny». «It makes sun» es un calco imposible."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Llueve mucho",
+          "direction": "es-en",
+          "tiles": ["It", "rains", "a", "lot", "is", "raining"],
+          "answer": "It rains a lot",
+          "explanation": "Hábito general ⇒ presente simple: «It rains a lot». Compara con «It is raining» (ahora mismo, en este instante)."
+        },
+        {
+          "type": "speak",
+          "text": "It is sunny today.",
+          "es": "Hoy hace sol."
+        },
+        {
+          "type": "speak",
+          "text": "It is very windy today.",
+          "es": "Hoy hace mucho viento."
+        },
+        {
+          "type": "speak",
+          "text": "The wind and the rain are strong.",
+          "es": "El viento y la lluvia son fuertes."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the grammatically correct sentence to describe the weather:",
-      "options": ["Makes cold in winter.", "It is cold in winter.", "Is cold in winter."],
-      "correct": 1,
-      "hint": "El inglés no tolera un hueco en la posición de sujeto.",
-      "explanation": "El clima exige el sujeto vacío «it» + cópula + adjetivo: «It is cold». «Makes cold» es un calco de «hace frío» y «Is cold» carece del sujeto obligatorio."
-    },
-    {
-      "type": "gap",
-      "text": "___ is raining.",
-      "options": ["It", "He", "Is"],
-      "answer": "It",
-      "explanation": "Los verbos atmosféricos exigen el sujeto expletivo «it»: «It is raining». En español decimos «llueve» sin sujeto, pero el inglés no lo permite."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Hace frío",
-      "direction": "es-en",
-      "tiles": ["It", "is", "cold", "makes", "does", "have"],
-      "answer": "It is cold",
-      "explanation": "En inglés el clima «es», no «hace»: It is cold. Desactiva el verbo hacer del español — «It makes cold» es agramatical."
-    },
-    {
-      "type": "quiz",
-      "q": "What is the correct way to say «son las ocho» in English?",
-      "options": ["They are eight o'clock.", "It is eight o'clock.", "It are eight o'clock."],
-      "correct": 1,
-      "hint": "En inglés la hora siempre es singular.",
-      "explanation": "La hora usa siempre el expletivo singular invariable: «It is eight o'clock», aunque en español digamos «son las ocho» en plural."
-    },
-    {
-      "type": "gap",
-      "text": "It ___ five o'clock.",
-      "options": ["is", "are", "am"],
-      "answer": "is",
-      "explanation": "El pronombre expletivo «it» concuerda siempre con «is», sea la una o las doce. «It are» es imposible en inglés."
-    },
-    {
-      "type": "speak",
-      "text": "It is sunny today.",
-      "es": "Hoy hace sol."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja estaciones y accesorios",
-      "pairs": [
-        { "en": "summer", "es": "verano" },
-        { "en": "winter", "es": "invierno" },
-        { "en": "umbrella", "es": "paraguas" },
-        { "en": "coat", "es": "abrigo" },
-        { "en": "sky", "es": "cielo" }
+      "n": 2,
+      "title": "Adjetivos del clima: hot, cold, warm...",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada adjetivo del clima con su traducción",
+          "pairs": [
+            { "en": "cloud", "es": "nube" },
+            { "en": "hot", "es": "caliente / caluroso" },
+            { "en": "cold", "es": "frío" },
+            { "en": "warm", "es": "cálido / templado" },
+            { "en": "cool", "es": "fresco" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you say «está nublado» in English?",
+          "options": ["It is cloud.", "It is cloudy.", "It makes cloud."],
+          "correct": 1,
+          "hint": "El sustantivo «cloud» necesita convertirse en adjetivo.",
+          "explanation": "«Cloud» (nube) se adjetiva como «cloudy» (nublado): «It is cloudy». «It is cloud» y «It makes cloud» son calcos agramaticales."
+        },
+        {
+          "type": "gap",
+          "text": "It is very ___ today.",
+          "options": ["hot", "hots", "hoting"],
+          "answer": "hot",
+          "explanation": "Los adjetivos en inglés son invariables: nunca llevan -s ni -ing. «It is very hot» es la forma correcta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más adjetivos del clima",
+          "pairs": [
+            { "en": "cloud", "es": "nube" },
+            { "en": "cold", "es": "frío" },
+            { "en": "warm", "es": "cálido / templado" },
+            { "en": "cool", "es": "fresco" },
+            { "en": "dry", "es": "seco/a" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["It is hot in summer.", "It hot in summer.", "It has hot in summer."],
+          "correct": 0,
+          "hint": "Falta la cópula obligatoria en dos opciones.",
+          "explanation": "El adjetivo climático necesita la cópula «is»: «It is hot». «It hot» omite el verbo y «It has hot» es un calco del verbo tener."
+        },
+        {
+          "type": "gap",
+          "text": "The weather is ___ in the desert.",
+          "options": ["dry", "dries", "drying"],
+          "answer": "dry",
+          "explanation": "Tras la cópula «is» va el adjetivo invariable «dry» (seco). «Dries» y «drying» son formas verbales, no adjetivos."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja los adjetivos del clima sin repetir",
+          "pairs": [
+            { "en": "hot", "es": "caliente / caluroso" },
+            { "en": "cold", "es": "frío" },
+            { "en": "warm", "es": "cálido / templado" },
+            { "en": "cool", "es": "fresco" },
+            { "en": "dry", "es": "seco/a" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct translation of «hace fresco por la mañana»:",
+          "options": ["It cools in the morning.", "It makes cool in the morning.", "It is cool in the morning."],
+          "correct": 2,
+          "hint": "El clima «es», no «hace» ni conjuga un verbo propio.",
+          "explanation": "El clima se adjetiva con la cópula: «It is cool». «It cools» y «It makes cool» son formas agramaticales para este contexto."
+        },
+        {
+          "type": "gap",
+          "text": "It's ___ outside, look at the sky.",
+          "options": ["cloud", "cloudy", "clouds"],
+          "answer": "cloudy",
+          "explanation": "El adjetivo derivado de «cloud» es «cloudy» (nublado): «It's cloudy outside». «Cloud» y «clouds» son sustantivos, no adjetivos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hace calor",
+          "direction": "es-en",
+          "tiles": ["It", "is", "hot", "makes", "has", "sun"],
+          "answer": "It is hot",
+          "explanation": "El calor climático se adjetiva con la cópula: «It is hot». Ni «makes hot» (calco de hacer) ni «has hot» son posibles."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Está nublado",
+          "direction": "es-en",
+          "tiles": ["It", "is", "cloudy", "cloud", "makes", "clouds"],
+          "answer": "It is cloudy",
+          "explanation": "«Cloudy» es el adjetivo derivado de «cloud» (nube): «It is cloudy». «It is cloud» usa el sustantivo en vez del adjetivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hace fresco",
+          "direction": "es-en",
+          "tiles": ["It", "is", "cool", "warm", "makes", "does"],
+          "answer": "It is cool",
+          "explanation": "«Cool» (fresco) es el adjetivo climático correcto tras la cópula «is». No confundir con «warm» (cálido/templado)."
+        },
+        {
+          "type": "speak",
+          "text": "It is hot today.",
+          "es": "Hoy hace calor."
+        },
+        {
+          "type": "speak",
+          "text": "It is cloudy and cool.",
+          "es": "Está nublado y hace fresco."
+        },
+        {
+          "type": "speak",
+          "text": "The weather is dry in summer.",
+          "es": "El clima es seco en verano."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Fill in the blank: \"Take an umbrella. ___ is raining.\"",
-      "options": ["It", "He", "Is"],
-      "correct": 0,
-      "hint": "Necesitas un «marcador de posición» sin significado.",
-      "explanation": "«It» actúa como sujeto vacío obligatorio delante del verbo atmosférico. «He» no tiene sentido semántico aquí e «Is» duplicaría el verbo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Está nevando",
-      "direction": "es-en",
-      "tiles": ["It", "is", "snowing", "snow", "makes", "are"],
-      "answer": "It is snowing",
-      "explanation": "Acción climática en curso ⇒ presente continuo con sujeto expletivo: «It is snowing». La forma -ing marca que ocurre ahora mismo."
-    },
-    {
-      "type": "gap",
-      "text": "In winter it ___.",
-      "options": ["snows", "snow", "snowing"],
-      "answer": "snows",
-      "explanation": "Hábito o hecho general ⇒ presente simple. El sujeto «it» es tercera persona singular, así que el verbo lleva la -s obligatoria: «it snows»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is correct regarding the word \"weather\"?",
-      "options": ["We are in a beautiful weather.", "The weather is wet today.", "It makes a wet weather."],
-      "correct": 1,
-      "hint": "«Weather» es un sustantivo incontable.",
-      "explanation": "«Weather» es incontable: prohibido anteponerle «a/an». Se dice «good weather» o «The weather is wet», nunca «a beautiful weather» ni «makes a wet weather»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Son las tres",
-      "direction": "es-en",
-      "tiles": ["It", "is", "three", "o'clock", "They", "are"],
-      "answer": "It is three o'clock",
-      "explanation": "La hora en inglés es invariablemente singular con sujeto expletivo: «It is three o'clock», aunque el español use el plural «son»."
-    },
-    {
-      "type": "speak",
-      "text": "It is three o'clock.",
-      "es": "Son las tres."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja sensaciones térmicas y estados",
-      "pairs": [
-        { "en": "warm", "es": "cálido / templado" },
-        { "en": "cool", "es": "fresco" },
-        { "en": "dry", "es": "seco" },
-        { "en": "wet", "es": "mojado / húmedo" },
-        { "en": "season", "es": "estación del año" }
+      "n": 3,
+      "title": "Las estaciones del año",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada estación con su traducción",
+          "pairs": [
+            { "en": "wet", "es": "mojado / húmedo" },
+            { "en": "spring", "es": "primavera" },
+            { "en": "summer", "es": "verano" },
+            { "en": "autumn", "es": "otoño" },
+            { "en": "winter", "es": "invierno" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence about seasons is correct in a general statement?",
+          "options": ["In the winter it snows.", "In winter it snows.", "In winter it snow."],
+          "correct": 1,
+          "hint": "Cuidado con el artículo y con la -s del verbo.",
+          "explanation": "Las estaciones en declaraciones generales no llevan artículo: «In winter». Y el sujeto «it» exige la -s de tercera persona: «snows»."
+        },
+        {
+          "type": "gap",
+          "text": "It is very hot in ___.",
+          "options": ["summer", "winter", "autumn"],
+          "answer": "summer",
+          "explanation": "«Summer» (verano) es la estación calurosa. Nota la estructura: It is + adjetivo + in + estación (sin artículo)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más estaciones y clima",
+          "pairs": [
+            { "en": "spring", "es": "primavera" },
+            { "en": "summer", "es": "verano" },
+            { "en": "autumn", "es": "otoño" },
+            { "en": "winter", "es": "invierno" },
+            { "en": "season", "es": "estación (del año)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence: «Es primavera».",
+          "options": ["It is spring.", "It is a spring.", "It has spring."],
+          "correct": 0,
+          "hint": "Las estaciones no llevan artículo tras el sujeto expletivo.",
+          "explanation": "Las estaciones se declaran con el expletivo y sin artículo: «It is spring», nunca «It is a spring» ni «It has spring»."
+        },
+        {
+          "type": "gap",
+          "text": "The leaves fall in ___.",
+          "options": ["autumn", "spring", "summer"],
+          "answer": "autumn",
+          "explanation": "«Autumn» (otoño) es la estación en la que caen las hojas de los árboles."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja estaciones y adjetivos del clima",
+          "pairs": [
+            { "en": "wet", "es": "mojado / húmedo" },
+            { "en": "summer", "es": "verano" },
+            { "en": "winter", "es": "invierno" },
+            { "en": "season", "es": "estación (del año)" },
+            { "en": "hot", "es": "caliente / caluroso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["The weather makes wet today.", "The weather wet today.", "The weather is wet today."],
+          "correct": 2,
+          "hint": "Falta la cópula obligatoria en dos opciones.",
+          "explanation": "«Weather» es incontable y va con la cópula «is» + adjetivo: «The weather is wet today». Las otras opciones omiten o usan mal el verbo."
+        },
+        {
+          "type": "gap",
+          "text": "The weather is ___ today.",
+          "options": ["wet", "wets", "a wet"],
+          "answer": "wet",
+          "explanation": "Tras la cópula va el adjetivo invariable: «The weather is wet». Los adjetivos no llevan -s y «weather» nunca acepta el artículo «a»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es primavera",
+          "direction": "es-en",
+          "tiles": ["It", "is", "spring", "the", "season", "are"],
+          "answer": "It is spring",
+          "explanation": "Las estaciones se declaran con el expletivo y sin artículo: «It is spring», no «It is the spring»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El clima está húmedo",
+          "direction": "es-en",
+          "tiles": ["The", "weather", "is", "wet", "are", "a"],
+          "answer": "The weather is wet",
+          "explanation": "«Weather» es incontable y singular: concuerda con «is», nunca con «are». El adjetivo invariable «wet» va al final."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me gusta el invierno",
+          "direction": "es-en",
+          "tiles": ["I", "like", "winter", "the", "season", "summer"],
+          "answer": "I like winter",
+          "explanation": "Las estaciones como objeto directo de «like» no llevan artículo en inglés: «I like winter», no «I like the winter»."
+        },
+        {
+          "type": "speak",
+          "text": "It is winter.",
+          "es": "Es invierno."
+        },
+        {
+          "type": "speak",
+          "text": "I love summer and spring.",
+          "es": "Me encantan el verano y la primavera."
+        },
+        {
+          "type": "speak",
+          "text": "The weather is wet in autumn.",
+          "es": "El clima está húmedo en otoño."
+        }
       ]
     },
     {
-      "type": "match",
-      "prompt": "Empareja las estaciones y la naturaleza",
-      "pairs": [
-        { "en": "spring", "es": "primavera" },
-        { "en": "autumn", "es": "otoño" },
-        { "en": "temperature", "es": "temperatura" },
-        { "en": "degree", "es": "grado" },
-        { "en": "nature", "es": "naturaleza" }
+      "n": 4,
+      "title": "Temperatura y ropa de abrigo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "degree", "es": "grado (temperatura)" },
+            { "en": "temperature", "es": "temperatura" },
+            { "en": "umbrella", "es": "paraguas" },
+            { "en": "coat", "es": "abrigo" },
+            { "en": "gloves", "es": "guantes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is 30 degrees Celsius like?",
+          "options": ["Very cold.", "Very hot.", "Snowy."],
+          "correct": 1,
+          "hint": "Piensa en una temperatura alta.",
+          "explanation": "30 grados centígrados es una temperatura alta: «very hot». «Very cold» y «snowy» describirían temperaturas muy bajas."
+        },
+        {
+          "type": "gap",
+          "text": "It is 30 ___ today.",
+          "options": ["degrees", "degree", "temperatures"],
+          "answer": "degrees",
+          "explanation": "La temperatura se expresa con el plural regular «degrees» (grados): «It is 30 degrees today», siempre con el sujeto expletivo it."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más ropa de abrigo",
+          "pairs": [
+            { "en": "temperature", "es": "temperatura" },
+            { "en": "umbrella", "es": "paraguas" },
+            { "en": "coat", "es": "abrigo" },
+            { "en": "boots", "es": "botas" },
+            { "en": "gloves", "es": "guantes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["Take an umbrella, it is raining.", "Take a umbrella, it is raining.", "Take the umbrella, is raining."],
+          "correct": 0,
+          "hint": "«Umbrella» empieza con sonido de vocal.",
+          "explanation": "«Umbrella» empieza con sonido vocálico, así que exige «an»: «Take an umbrella». La tercera opción también omite el sujeto «it»."
+        },
+        {
+          "type": "gap",
+          "text": "Take an ___, it's going to rain.",
+          "options": ["umbrella", "coat", "boots"],
+          "answer": "umbrella",
+          "explanation": "El objeto que protege de la lluvia es «umbrella» (paraguas). «Coat» y «boots» son prendas contra el frío, no contra la lluvia directamente."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja temperatura y accesorios sin repetir",
+          "pairs": [
+            { "en": "degree", "es": "grado (temperatura)" },
+            { "en": "umbrella", "es": "paraguas" },
+            { "en": "coat", "es": "abrigo" },
+            { "en": "boots", "es": "botas" },
+            { "en": "cold", "es": "frío" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete: \"In winter you need a warm scarf and a warm ___.\"",
+          "options": ["umbrella", "gloves", "coat"],
+          "correct": 2,
+          "hint": "Piensa en la prenda principal contra el frío.",
+          "explanation": "«Coat» (abrigo) es la prenda principal contra el frío. «Umbrella» es para la lluvia y «gloves» es plural, no encaja tras «a warm»."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ is very low today, it's freezing.",
+          "options": ["temperature", "degree", "weather"],
+          "answer": "temperature",
+          "explanation": "«Temperature» (temperatura) es lo que sube o baja y se mide en «degrees» (grados)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesito un abrigo",
+          "direction": "es-en",
+          "tiles": ["I", "need", "a", "coat", "umbrella", "boots"],
+          "answer": "I need a coat",
+          "explanation": "«Coat» es contable singular y exige el artículo «a»: «I need a coat»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Llévate un paraguas",
+          "direction": "es-en",
+          "tiles": ["Take", "an", "umbrella", "a", "coat"],
+          "answer": "Take an umbrella",
+          "explanation": "«Umbrella» empieza con sonido vocálico, así que exige el artículo «an»: «Take an umbrella», no «a umbrella»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hace 30 grados",
+          "direction": "es-en",
+          "tiles": ["It", "is", "30", "degrees", "degree", "temperature"],
+          "answer": "It is 30 degrees",
+          "explanation": "La temperatura se expresa con el plural regular «degrees», siempre con el sujeto expletivo «it is»."
+        },
+        {
+          "type": "speak",
+          "text": "It is 30 degrees today.",
+          "es": "Hoy hace 30 grados."
+        },
+        {
+          "type": "speak",
+          "text": "Take your gloves, it is cold.",
+          "es": "Llévate los guantes, hace frío."
+        },
+        {
+          "type": "speak",
+          "text": "I need my coat and boots in winter.",
+          "es": "Necesito mi abrigo y mis botas en invierno."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct translation of \"hace viento\":",
-      "options": ["It makes wind.", "It is windy.", "There is windy."],
-      "correct": 1,
-      "hint": "El sustantivo español se convierte en adjetivo.",
-      "explanation": "El inglés adjetiva el clima: viento (wind) → ventoso (windy) con la cópula: «It is windy». «It makes wind» calca el «hace» español."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete: \"___ rains a lot in autumn.\" Why?",
-      "options": ["It — sujeto expletivo obligatorio", "He — el clima es masculino", "Ø — como en español"],
-      "correct": 0,
-      "hint": "El inglés tiene «horror al vacío» en el sujeto.",
-      "explanation": "Los verbos atmosféricos necesitan el sujeto vacío «it»: «It rains a lot in autumn». El inglés no admite la opción española de omitir el sujeto."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence about seasons is correct in a general statement?",
-      "options": ["In the winter it snows.", "In winter it snows.", "In winter it snow."],
-      "correct": 1,
-      "hint": "Cuidado con el artículo y con la -s del verbo.",
-      "explanation": "Las estaciones en declaraciones generales no llevan artículo: «In winter». Y el sujeto «it» exige la -s de tercera persona: «snows»."
-    },
-    {
-      "type": "gap",
-      "text": "___ is Monday.",
-      "options": ["It", "He", "This"],
-      "answer": "It",
-      "explanation": "Los días de la semana, fechas y estaciones también usan el sujeto expletivo: «It is Monday», «It is spring», «It's June 21st»."
-    },
-    {
-      "type": "gap",
-      "text": "It ___ in autumn.",
-      "options": ["rains", "rain", "raining"],
-      "answer": "rains",
-      "explanation": "Hecho habitual ⇒ presente simple con la -s de tercera persona: «It rains in autumn». «It raining» carecería de verbo conjugado."
-    },
-    {
-      "type": "gap",
-      "text": "The weather is ___ today.",
-      "options": ["wet", "wets", "a wet"],
-      "answer": "wet",
-      "explanation": "Tras la cópula va el adjetivo invariable: «The weather is wet». Los adjetivos no llevan -s y «weather» nunca acepta el artículo «a»."
-    },
-    {
-      "type": "gap",
-      "text": "It is very hot in ___.",
-      "options": ["summer", "winter", "autumn"],
-      "answer": "summer",
-      "explanation": "«Summer» (verano) es la estación calurosa. Nota la estructura: It is + adjetivo + in + estación (sin artículo)."
-    },
-    {
-      "type": "gap",
-      "text": "It is 30 ___ today.",
-      "options": ["degrees", "degree", "temperatures"],
-      "answer": "degrees",
-      "explanation": "La temperatura se expresa con el plural regular «degrees» (grados): «It is 30 degrees today», siempre con el sujeto expletivo it."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Hace calor",
-      "direction": "es-en",
-      "tiles": ["It", "is", "hot", "makes", "has", "sun"],
-      "answer": "It is hot",
-      "explanation": "El calor climático se adjetiva con la cópula: «It is hot». Ni «makes hot» (calco de hacer) ni «has hot» son posibles."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Es lunes",
-      "direction": "es-en",
-      "tiles": ["It", "is", "Monday", "The", "day", "are"],
-      "answer": "It is Monday",
-      "explanation": "Los días de la semana usan el expletivo: «It is Monday». Recuerda que los días llevan mayúscula en inglés."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Está lloviendo",
-      "direction": "es-en",
-      "tiles": ["It", "is", "raining", "rains", "rain", "makes"],
-      "answer": "It is raining",
-      "explanation": "Acción en curso ⇒ presente continuo: «It is raining» (ahora mismo). Compara con el hábito: «It rains in autumn» (llueve en otoño)."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Es primavera",
-      "direction": "es-en",
-      "tiles": ["It", "is", "spring", "the", "season", "are"],
-      "answer": "It is spring",
-      "explanation": "Las estaciones se declaran con el expletivo y sin artículo: «It is spring», no «It is the spring»."
-    },
-    {
-      "type": "speak",
-      "text": "It is cold and wet.",
-      "es": "Hace frío y está húmedo."
-    },
-    {
-      "type": "speak",
-      "text": "It is winter.",
-      "es": "Es invierno."
+      "n": 5,
+      "title": "La hora, los días y repaso general",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "glasses", "es": "gafas" },
+            { "en": "hat", "es": "sombrero / gorro" },
+            { "en": "scarf", "es": "bufanda" },
+            { "en": "sky", "es": "cielo" },
+            { "en": "earth", "es": "tierra" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct way to say «son las ocho» in English?",
+          "options": ["They are eight o'clock.", "It is eight o'clock.", "It are eight o'clock."],
+          "correct": 1,
+          "hint": "En inglés la hora siempre es singular.",
+          "explanation": "La hora usa siempre el expletivo singular invariable: «It is eight o'clock», aunque en español digamos «son las ocho» en plural."
+        },
+        {
+          "type": "gap",
+          "text": "It ___ five o'clock.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "El pronombre expletivo «it» concuerda siempre con «is», sea la una o las doce. «It are» es imposible en inglés."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de repaso",
+          "pairs": [
+            { "en": "hat", "es": "sombrero / gorro" },
+            { "en": "scarf", "es": "bufanda" },
+            { "en": "sky", "es": "cielo" },
+            { "en": "earth", "es": "tierra" },
+            { "en": "nature", "es": "naturaleza" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete: \"___ rains a lot in autumn.\" Why?",
+          "options": ["It — sujeto expletivo obligatorio", "He — el clima es masculino", "Ø — como en español"],
+          "correct": 0,
+          "hint": "El inglés tiene «horror al vacío» en el sujeto.",
+          "explanation": "Los verbos atmosféricos necesitan el sujeto vacío «it»: «It rains a lot in autumn». El inglés no admite la opción española de omitir el sujeto."
+        },
+        {
+          "type": "gap",
+          "text": "___ is Monday.",
+          "options": ["It", "He", "This"],
+          "answer": "It",
+          "explanation": "Los días de la semana, fechas y estaciones también usan el sujeto expletivo: «It is Monday», «It is spring», «It's June 21st»."
+        },
+        {
+          "type": "match",
+          "prompt": "Repaso final: mezcla de todo el módulo",
+          "pairs": [
+            { "en": "sky", "es": "cielo" },
+            { "en": "earth", "es": "tierra" },
+            { "en": "nature", "es": "naturaleza" },
+            { "en": "rain", "es": "lluvia / llover" },
+            { "en": "cold", "es": "frío" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence about the sky is correct?",
+          "options": ["The sky have many clouds.", "The sky are blue.", "The sky is blue."],
+          "correct": 2,
+          "hint": "«Sky» es singular.",
+          "explanation": "«Sky» es un sustantivo singular: concuerda con «is», nunca con «have» ni «are»: «The sky is blue»."
+        },
+        {
+          "type": "gap",
+          "text": "Put on your ___ and scarf, it's freezing.",
+          "options": ["hat", "glasses", "earth"],
+          "answer": "hat",
+          "explanation": "«Hat» (gorro/sombrero) y «scarf» (bufanda) se combinan como abrigo para la cabeza y el cuello contra el frío."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Son las tres",
+          "direction": "es-en",
+          "tiles": ["It", "is", "three", "o'clock", "They", "are"],
+          "answer": "It is three o'clock",
+          "explanation": "La hora en inglés es invariablemente singular con sujeto expletivo: «It is three o'clock», aunque el español use el plural «son»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es lunes",
+          "direction": "es-en",
+          "tiles": ["It", "is", "Monday", "The", "day", "are"],
+          "answer": "It is Monday",
+          "explanation": "Los días de la semana usan el expletivo: «It is Monday». Recuerda que los días llevan mayúscula en inglés."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El cielo está azul",
+          "direction": "es-en",
+          "tiles": ["The", "sky", "is", "blue", "are", "a"],
+          "answer": "The sky is blue",
+          "explanation": "«Sky» es singular y no lleva artículo indefinido en esta frase: «The sky is blue»."
+        },
+        {
+          "type": "speak",
+          "text": "It is three o'clock.",
+          "es": "Son las tres."
+        },
+        {
+          "type": "speak",
+          "text": "I love nature and the sky.",
+          "es": "Me encanta la naturaleza y el cielo."
+        },
+        {
+          "type": "speak",
+          "text": "It is cold and wet.",
+          "es": "Hace frío y está húmedo."
+        }
+      ]
     }
   ]
 }

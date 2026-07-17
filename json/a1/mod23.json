@@ -3,238 +3,621 @@
   "module": 23,
   "title": "Can for Ability: Sports and Hobbies",
   "subtitle": "Can en Deportes",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada deporte con su traducción",
-      "pairs": [
-        { "en": "football", "es": "fútbol" },
-        { "en": "tennis", "es": "tenis" },
-        { "en": "basketball", "es": "baloncesto" },
-        { "en": "chess", "es": "ajedrez" },
-        { "en": "swimming", "es": "natación" }
+      "n": 1,
+      "title": "Can afirmativo y negativo: deportes de equipo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "sport", "es": "deporte" },
+            { "en": "hobby", "es": "pasatiempo" },
+            { "en": "football", "es": "fútbol" },
+            { "en": "tennis", "es": "tenis" },
+            { "en": "basketball", "es": "baloncesto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the grammatically correct sentence about a classmate's ability:",
+          "options": ["My friend cans play basketball very well.", "My friend can play basketball very well.", "My friend can playing basketball very well."],
+          "correct": 1,
+          "hint": "Los verbos modales son invariables y rigen infinitivo desnudo.",
+          "explanation": "«Can» es morfológicamente invariable (nunca «cans») y va seguido de infinitivo desnudo: «can play». El gerundio «playing» tras el modal es interferencia del español."
+        },
+        {
+          "type": "gap",
+          "text": "I can ___ very well.",
+          "options": ["swim", "swimming", "to swim"],
+          "answer": "swim",
+          "explanation": "Tras un modal, el verbo va en infinitivo desnudo: «can swim». «Can swimming» es el error típico por interferencia del español."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más deportes",
+          "pairs": [
+            { "en": "sport", "es": "deporte" },
+            { "en": "football", "es": "fútbol" },
+            { "en": "tennis", "es": "tenis" },
+            { "en": "basketball", "es": "baloncesto" },
+            { "en": "swimming", "es": "natación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct negative sentence:",
+          "options": ["She can't swim.", "She doesn't can swim.", "She cans not swim."],
+          "correct": 0,
+          "hint": "Los modales niegan directamente, sin auxiliar «do/does».",
+          "explanation": "«Can» niega añadiendo «not» directamente: «cannot / can't». «Doesn't can» aplica erróneamente el do-support y «cans not» añade una -s imposible en un modal."
+        },
+        {
+          "type": "gap",
+          "text": "She can ___ play football. She hates it.",
+          "options": ["not", "no", "don't"],
+          "answer": "not",
+          "explanation": "La negación del modal se forma añadiendo «not» directamente tras «can» («cannot»/«can't»), nunca con el auxiliar «don't»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja deportes sin repetir",
+          "pairs": [
+            { "en": "hobby", "es": "pasatiempo" },
+            { "en": "football", "es": "fútbol" },
+            { "en": "tennis", "es": "tenis" },
+            { "en": "basketball", "es": "baloncesto" },
+            { "en": "swimming", "es": "natación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the short answer: — \"Can she play football?\" — \"___\"",
+          "options": ["Yes, she plays.", "Yes, she does.", "Yes, she can."],
+          "correct": 2,
+          "hint": "La respuesta corta repite solo el modal, no el verbo principal.",
+          "explanation": "Las respuestas cortas con «can» repiten únicamente sujeto + modal: «Yes, she can» / «No, she can't». No se usa «does» ni se repite el infinitivo completo."
+        },
+        {
+          "type": "gap",
+          "text": "___ you play tennis?",
+          "options": ["Can", "Do", "Are"],
+          "answer": "Can",
+          "explanation": "La pregunta de habilidad se forma invirtiendo «can» y el sujeto, sin auxiliar «do/does»: «Can you play tennis?»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Sé nadar muy bien",
+          "direction": "es-en",
+          "tiles": ["I", "can", "swim", "very", "well", "swimming", "cans"],
+          "answer": "I can swim very well",
+          "explanation": "«Can» absorbe el «saber» y el «poder» del español, va seguido de infinitivo desnudo («swim»), y el adverbio de grado «very well» cierra el predicado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Puedes jugar al fútbol?",
+          "direction": "es-en",
+          "tiles": ["Can", "you", "play", "football", "do", "playing"],
+          "answer": "Can you play football?",
+          "explanation": "La interrogativa de habilidad invierte modal y sujeto («Can you...?») sin usar «do/does», y tras «can» va el infinitivo desnudo «play»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella no sabe jugar al tenis",
+          "direction": "es-en",
+          "tiles": ["She", "can't", "play", "tennis", "doesn't", "playing"],
+          "answer": "She can't play tennis",
+          "explanation": "La negación del modal es directa: «can't», nunca «doesn't can». El verbo va en infinitivo desnudo: «play», no «playing»."
+        },
+        {
+          "type": "speak",
+          "text": "Can you swim? Yes, I can.",
+          "es": "¿Sabes nadar? Sí, sé."
+        },
+        {
+          "type": "speak",
+          "text": "I can play football very well.",
+          "es": "Sé jugar muy bien al fútbol."
+        },
+        {
+          "type": "speak",
+          "text": "Can you play basketball?",
+          "es": "¿Sabes jugar al baloncesto?"
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the grammatically correct sentence about a classmate's ability:",
-      "options": ["My friend cans play basketball very well.", "My friend can play basketball very well.", "My friend can playing basketball very well."],
-      "correct": 1,
-      "hint": "Los verbos modales son invariables y rigen infinitivo desnudo.",
-      "explanation": "«Can» es morfológicamente invariable (nunca «cans») y va seguido de infinitivo desnudo: «can play». El gerundio «playing» tras el modal es interferencia del español."
-    },
-    {
-      "type": "gap",
-      "text": "She ___ play tennis.",
-      "options": ["can", "cans", "can to"],
-      "answer": "can",
-      "explanation": "Los modales no reciben la -s de tercera persona: «She can», nunca «She cans». Tampoco admiten «to» antes del verbo siguiente."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Sé nadar muy bien",
-      "direction": "es-en",
-      "tiles": ["I", "can", "swim", "very", "well", "swimming", "cans"],
-      "answer": "I can swim very well",
-      "explanation": "«Can» absorbe el «saber» y el «poder» del español, va seguido de infinitivo desnudo («swim»), y el adverbio de grado «very well» cierra el predicado."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete the dialogue: \"Do you enjoy ________ in your free time?\" — \"Yes! I enjoy hiking and I also like ________ photos.\"",
-      "options": ["to hike / to take", "hiking / to take", "hiking / taking"],
-      "correct": 2,
-      "hint": "«Enjoy» nunca acepta infinitivo con «to».",
-      "explanation": "«Enjoy» rige exclusivamente gerundio («hiking»), y «like» toma «taking» para mantener la consistencia del registro. «Enjoy to hike» viola una regla sin excepciones."
-    },
-    {
-      "type": "gap",
-      "text": "I can ___ very well.",
-      "options": ["swim", "swimming", "to swim"],
-      "answer": "swim",
-      "explanation": "Tras un modal, el verbo va en infinitivo desnudo: «can swim». «Can swimming» es el error típico por interferencia del español."
-    },
-    {
-      "type": "speak",
-      "text": "I can play chess very well.",
-      "es": "Sé jugar muy bien al ajedrez."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra de competición con su traducción",
-      "pairs": [
-        { "en": "hobby", "es": "pasatiempo" },
-        { "en": "team", "es": "equipo" },
-        { "en": "player", "es": "jugador/a" },
-        { "en": "win", "es": "ganar" },
-        { "en": "lose", "es": "perder" }
+      "n": 2,
+      "title": "Tercera persona con can: yoga e instrumentos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "running", "es": "correr / carrera" },
+            { "en": "cycling", "es": "ciclismo" },
+            { "en": "yoga", "es": "yoga" },
+            { "en": "gym", "es": "gimnasio" },
+            { "en": "guitar", "es": "guitarra" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence describes your brother's ability correctly?",
+          "options": ["My brother can plays guitar.", "My brother can play guitar.", "My brother cans play guitar."],
+          "correct": 1,
+          "hint": "El modal es invariable y rige infinitivo desnudo.",
+          "explanation": "«Can» no cambia en 3ª persona y va seguido de infinitivo desnudo: «can play». «Can plays» añade una -s imposible al verbo principal, y «cans play» se la añade al propio modal."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ play tennis.",
+          "options": ["can", "cans", "can to"],
+          "answer": "can",
+          "explanation": "Los modales no reciben la -s de tercera persona: «She can», nunca «She cans». Tampoco admiten «to» antes del verbo siguiente."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más pasatiempos",
+          "pairs": [
+            { "en": "running", "es": "correr / carrera" },
+            { "en": "cycling", "es": "ciclismo" },
+            { "en": "yoga", "es": "yoga" },
+            { "en": "guitar", "es": "guitarra" },
+            { "en": "piano", "es": "piano" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete: She ___ yoga at the gym every morning.",
+          "options": ["plays", "goes", "does"],
+          "correct": 2,
+          "hint": "Las disciplinas individuales como el yoga usan un verbo distinto de «play».",
+          "explanation": "Según la regla P-D-G, las actividades disciplinadas como el yoga usan «do»: «She does yoga». «Play» es para deportes con pelota o adversario."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ yoga in the morning.",
+          "options": ["do", "play", "go"],
+          "answer": "do",
+          "explanation": "Las actividades individuales y disciplinas como el yoga, la gimnasia o el karate usan «do» (regla P-D-G): «do yoga»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja pasatiempos sin repetir",
+          "pairs": [
+            { "en": "cycling", "es": "ciclismo" },
+            { "en": "yoga", "es": "yoga" },
+            { "en": "gym", "es": "gimnasio" },
+            { "en": "guitar", "es": "guitarra" },
+            { "en": "piano", "es": "piano" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct question about a friend's musical ability:",
+          "options": ["Can she play the piano?", "She can play the piano?", "Does she can play piano?"],
+          "correct": 0,
+          "hint": "La pregunta con modal invierte «can» y el sujeto.",
+          "explanation": "La interrogativa correcta invierte modal y sujeto: «Can she play the piano?». «Does she can» aplica un auxiliar que los modales rechazan por completo."
+        },
+        {
+          "type": "gap",
+          "text": "He can ___ the guitar very well.",
+          "options": ["play", "do", "go"],
+          "answer": "play",
+          "explanation": "Los instrumentos musicales usan el verbo «play» (regla P-D-G): «play the guitar/piano»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Sabes tocar la guitarra?",
+          "direction": "es-en",
+          "tiles": ["Can", "you", "play", "guitar", "do", "to"],
+          "answer": "Can you play guitar?",
+          "explanation": "La pregunta de habilidad invierte modal y sujeto («Can you...?») sin usar «do/does», y tras «can» va el infinitivo desnudo «play»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él sabe jugar al fútbol bastante bien",
+          "direction": "es-en",
+          "tiles": ["He", "can", "play", "football", "quite", "well", "plays", "do"],
+          "answer": "He can play football quite well",
+          "explanation": "«Can» es invariable incluso con «he», el verbo va en infinitivo desnudo y el adverbio de grado «quite well» se coloca al final del predicado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Voy al gimnasio los lunes",
+          "direction": "es-en",
+          "tiles": ["I", "go", "to", "the", "gym", "on", "Mondays", "do"],
+          "answer": "I go to the gym on Mondays",
+          "explanation": "«Gym» es un lugar (sustantivo), no una actividad; «go to the gym» es la preposición locativa normal, distinta de la estructura «go + gerundio» («go swimming»)."
+        },
+        {
+          "type": "speak",
+          "text": "He can play the piano.",
+          "es": "Él sabe tocar el piano."
+        },
+        {
+          "type": "speak",
+          "text": "She can run very fast.",
+          "es": "Ella corre muy rápido."
+        },
+        {
+          "type": "speak",
+          "text": "My sister does yoga every day.",
+          "es": "Mi hermana hace yoga todos los días."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which sentence uses the gerund correctly as a subject?",
-      "options": ["Swimming is very healthy.", "To swim is very healthy.", "Swim is very healthy."],
-      "correct": 0,
-      "hint": "Para nominalizar una actividad como sujeto, el inglés prefiere la forma -ing.",
-      "explanation": "El gerundio «Swimming» funciona como sujeto nominal y concuerda con el verbo singular «is». «To swim» es posible pero muy infrecuente en el registro A1, y el infinitivo desnudo «Swim» no puede ser sujeto."
-    },
-    {
-      "type": "gap",
-      "text": "Can you ___ chess?",
-      "options": ["play", "to play", "playing"],
-      "answer": "play",
-      "explanation": "La pregunta con modal invierte «can» y sujeto, y el verbo siguiente va en infinitivo desnudo: «Can you play chess?», sin «to»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella no sabe esquiar",
-      "direction": "es-en",
-      "tiles": ["She", "can't", "ski", "doesn't", "skiing"],
-      "answer": "She can't ski",
-      "explanation": "La negación del modal es directa: «can't» (cannot), nunca «doesn't can». El verbo va en infinitivo desnudo: «ski», no «skiing»."
-    },
-    {
-      "type": "quiz",
-      "q": "Read the club description: \"Members must love ________ and be a good team ________. In our last competition, our ________ was 3-0.\" Fill in the blanks:",
-      "options": ["to run / player / score", "running / player / score", "running / plays / score"],
-      "correct": 1,
-      "hint": "«Love» funciona como «enjoy» en el nivel A1, y busca el sustantivo del compuesto «team ___».",
-      "explanation": "«Love» rige gerundio («running»), «team player» es un compuesto léxico fijo, y «score» es el sustantivo que nombra el marcador. «Plays» es un verbo conjugado, no un sustantivo."
-    },
-    {
-      "type": "gap",
-      "text": "I enjoy ___.",
-      "options": ["fishing", "to fish", "fish"],
-      "answer": "fishing",
-      "explanation": "«Enjoy» NUNCA acepta infinitivo con «to»: siempre gerundio. «I enjoy fishing» es la única forma correcta."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "¿Sabes tocar la guitarra?",
-      "direction": "es-en",
-      "tiles": ["Can", "you", "play", "guitar", "do", "to"],
-      "answer": "Can you play guitar?",
-      "explanation": "La pregunta de habilidad invierte modal y sujeto («Can you...?») sin usar «do/does», y tras «can» va el infinitivo desnudo «play»."
-    },
-    {
-      "type": "speak",
-      "text": "She can dance quite well.",
-      "es": "Ella baila bastante bien."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada actividad con su traducción",
-      "pairs": [
-        { "en": "cycling", "es": "ciclismo" },
-        { "en": "hiking", "es": "senderismo" },
-        { "en": "fishing", "es": "pesca" },
-        { "en": "skiing", "es": "esquí" },
-        { "en": "running", "es": "correr / carrera" }
+      "n": 3,
+      "title": "El gerundio como sustantivo: aficiones creativas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "painting", "es": "pintura / pintar" },
+            { "en": "cooking", "es": "cocina / cocinar" },
+            { "en": "reading", "es": "lectura / leer" },
+            { "en": "photography", "es": "fotografía" },
+            { "en": "dancing", "es": "baile / bailar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses the gerund correctly as a subject?",
+          "options": ["Swimming is very healthy.", "To swim is very healthy.", "Swim is very healthy."],
+          "correct": 0,
+          "hint": "Para nominalizar una actividad como sujeto, el inglés prefiere la forma -ing.",
+          "explanation": "El gerundio «Swimming» funciona como sujeto nominal y concuerda con el verbo singular «is». «To swim» es posible pero muy infrecuente en el registro A1, y el infinitivo desnudo «Swim» no puede ser sujeto."
+        },
+        {
+          "type": "gap",
+          "text": "My hobby is ___.",
+          "options": ["painting", "paint", "to paint"],
+          "answer": "painting",
+          "explanation": "Como predicado nominal que nombra un pasatiempo se usa el gerundio: «My hobby is painting». Es la respuesta estándar a «What's your hobby?»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más aficiones",
+          "pairs": [
+            { "en": "cooking", "es": "cocina / cocinar" },
+            { "en": "reading", "es": "lectura / leer" },
+            { "en": "photography", "es": "fotografía" },
+            { "en": "dancing", "es": "baile / bailar" },
+            { "en": "singing", "es": "canto / cantar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is the standard answer to \"What's your hobby?\"",
+          "options": ["My hobby is to paint.", "My hobby is painting.", "My hobby paint."],
+          "correct": 1,
+          "hint": "El pasatiempo se nombra con una forma nominal derivada del verbo.",
+          "explanation": "Como predicado nominal que nombra un pasatiempo se usa el gerundio: «My hobby is painting». «To paint» y «paint» sin más no son formas nominales válidas aquí."
+        },
+        {
+          "type": "gap",
+          "text": "I love ___ photos of animals.",
+          "options": ["take", "taking", "to take"],
+          "answer": "taking",
+          "explanation": "«Love», igual que «enjoy» y «like», rige gerundio como complemento: «love taking photos»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja aficiones con vocabulario ya visto",
+          "pairs": [
+            { "en": "painting", "es": "pintura / pintar" },
+            { "en": "dancing", "es": "baile / bailar" },
+            { "en": "singing", "es": "canto / cantar" },
+            { "en": "guitar", "es": "guitarra" },
+            { "en": "yoga", "es": "yoga" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["I enjoy to cook.", "I enjoy cook.", "I enjoy cooking."],
+          "correct": 2,
+          "hint": "«Enjoy» exige una forma nominal, nunca infinitivo con «to».",
+          "explanation": "«Enjoy» rige obligatoriamente gerundio como complemento: «I enjoy cooking». «Enjoy to cook» viola una regla sin excepciones y «enjoy cook» carece de la forma nominal necesaria."
+        },
+        {
+          "type": "gap",
+          "text": "___ is my favourite hobby.",
+          "options": ["Read", "Reading", "To read"],
+          "answer": "Reading",
+          "explanation": "El gerundio funciona como sujeto nominal y concuerda con el verbo singular: «Reading is my favourite hobby»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me gusta cocinar",
+          "direction": "es-en",
+          "tiles": ["I", "like", "cooking", "to", "cook"],
+          "answer": "I like cooking",
+          "explanation": "En el nivel A1, «like» se practica con gerundio: «I like cooking». El español usa infinitivo tras «gustar», de ahí la interferencia «like to cook»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La natación es muy relajante",
+          "direction": "es-en",
+          "tiles": ["Swimming", "is", "very", "relaxing", "Swim", "are"],
+          "answer": "Swimming is very relaxing",
+          "explanation": "El gerundio «Swimming» funciona como sujeto y activa la concordancia singular «is». El español usa artículo + sustantivo («la natación»); el inglés, el gerundio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella disfruta cantando",
+          "direction": "es-en",
+          "tiles": ["She", "enjoys", "singing", "sing", "to"],
+          "answer": "She enjoys singing",
+          "explanation": "«Enjoy» siempre rige gerundio, nunca infinitivo con «to»: «She enjoys singing»."
+        },
+        {
+          "type": "speak",
+          "text": "She can dance quite well.",
+          "es": "Ella baila bastante bien."
+        },
+        {
+          "type": "speak",
+          "text": "My hobby is painting.",
+          "es": "Mi pasatiempo es la pintura."
+        },
+        {
+          "type": "speak",
+          "text": "Reading is relaxing.",
+          "es": "Leer es relajante."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Your friend asks: \"Can you ski?\" You have never tried skiing. Which is the most appropriate and natural response?",
-      "options": ["No, I cannot skiing.", "No, I don't can ski.", "No, I can't ski at all."],
-      "correct": 2,
-      "hint": "La negación del modal es directa, y hay un adverbio que expresa ausencia total de habilidad.",
-      "explanation": "«Can't» + infinitivo desnudo + «at all» expresa con naturalidad la ausencia total de habilidad. «Cannot skiing» pone gerundio tras el modal y «don't can» aplica un auxiliar que los modales rechazan."
-    },
-    {
-      "type": "gap",
-      "text": "My hobby is ___.",
-      "options": ["painting", "paint", "to paint"],
-      "answer": "painting",
-      "explanation": "Como predicado nominal que nombra un pasatiempo se usa el gerundio: «My hobby is painting». Es la respuesta estándar a «What's your hobby?»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Me gusta cocinar",
-      "direction": "es-en",
-      "tiles": ["I", "like", "cooking", "to", "cook"],
-      "answer": "I like cooking",
-      "explanation": "En el nivel A1, «like» se practica con gerundio: «I like cooking». El español usa infinitivo tras «gustar», de ahí la interferencia «like to cook»."
-    },
-    {
-      "type": "gap",
-      "text": "I ___ football with my team.",
-      "options": ["play", "do", "go"],
-      "answer": "play",
-      "explanation": "Los deportes de equipo con pelota o adversario usan «play» (regla P-D-G: Play con Pelota o Partner). «Do football» es un error de distribución de verbos."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is correct?",
-      "options": ["I do hiking at weekends.", "I play hiking at weekends.", "I go hiking at weekends."],
-      "correct": 2,
-      "hint": "Regla P-D-G: las actividades dinámicas en -ing usan un verbo concreto.",
-      "explanation": "Las actividades de ocio dinámico que terminan en -ing usan «go + gerundio»: «go hiking». «Play» es para deportes con pelota o adversario y «do» para disciplinas como yoga o karate."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "La natación es muy relajante",
-      "direction": "es-en",
-      "tiles": ["Swimming", "is", "very", "relaxing", "Swim", "are"],
-      "answer": "Swimming is very relaxing",
-      "explanation": "El gerundio «Swimming» funciona como sujeto y activa la concordancia singular «is». El español usa artículo + sustantivo («la natación»); el inglés, el gerundio."
-    },
-    {
-      "type": "speak",
-      "text": "Can you swim? Yes, I can.",
-      "es": "¿Sabes nadar? Sí, sé."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada pasatiempo con su traducción",
-      "pairs": [
-        { "en": "guitar", "es": "guitarra" },
-        { "en": "piano", "es": "piano" },
-        { "en": "painting", "es": "pintura / pintar" },
-        { "en": "cooking", "es": "cocina / cocinar" },
-        { "en": "train", "es": "entrenar" }
+      "n": 4,
+      "title": "Go + gerundio: senderismo, ajedrez y equipo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada deporte con su traducción",
+          "pairs": [
+            { "en": "football", "es": "fútbol" },
+            { "en": "tennis", "es": "tenis" },
+            { "en": "basketball", "es": "baloncesto" },
+            { "en": "chess", "es": "ajedrez" },
+            { "en": "swimming", "es": "natación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the dialogue: \"Do you enjoy ________ in your free time?\" — \"Yes! I enjoy hiking and I also like ________ photos.\"",
+          "options": ["to hike / to take", "hiking / taking", "hiking / to take"],
+          "correct": 1,
+          "hint": "«Enjoy» nunca acepta infinitivo con «to».",
+          "explanation": "«Enjoy» rige exclusivamente gerundio («hiking»), y «like» toma «taking» para mantener la consistencia del registro. «Enjoy to hike» viola una regla sin excepciones."
+        },
+        {
+          "type": "gap",
+          "text": "Can you ___ chess?",
+          "options": ["play", "to play", "playing"],
+          "answer": "play",
+          "explanation": "La pregunta con modal invierte «can» y sujeto, y el verbo siguiente va en infinitivo desnudo: «Can you play chess?», sin «to»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada actividad con su traducción",
+          "pairs": [
+            { "en": "cycling", "es": "ciclismo" },
+            { "en": "hiking", "es": "senderismo" },
+            { "en": "fishing", "es": "pesca" },
+            { "en": "skiing", "es": "esquí" },
+            { "en": "running", "es": "correr / carrera" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your friend asks: \"Can you ski?\" You have never tried skiing. Which is the most appropriate and natural response?",
+          "options": ["No, I cannot skiing.", "No, I don't can ski.", "No, I can't ski at all."],
+          "correct": 2,
+          "hint": "La negación del modal es directa, y hay un adverbio que expresa ausencia total de habilidad.",
+          "explanation": "«Can't» + infinitivo desnudo + «at all» expresa con naturalidad la ausencia total de habilidad. «Cannot skiing» pone gerundio tras el modal y «don't can» aplica un auxiliar que los modales rechazan."
+        },
+        {
+          "type": "gap",
+          "text": "I enjoy ___.",
+          "options": ["fishing", "to fish", "fish"],
+          "answer": "fishing",
+          "explanation": "«Enjoy» NUNCA acepta infinitivo con «to»: siempre gerundio. «I enjoy fishing» es la única forma correcta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja actividades de ocio y equipo",
+          "pairs": [
+            { "en": "hiking", "es": "senderismo" },
+            { "en": "fishing", "es": "pesca" },
+            { "en": "skiing", "es": "esquí" },
+            { "en": "chess", "es": "ajedrez" },
+            { "en": "team", "es": "equipo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I go hiking at weekends.", "I do hiking at weekends.", "I play hiking at weekends."],
+          "correct": 0,
+          "hint": "Regla P-D-G: las actividades dinámicas en -ing usan un verbo concreto.",
+          "explanation": "Las actividades de ocio dinámico que terminan en -ing usan «go + gerundio»: «go hiking». «Play» es para deportes con pelota o adversario y «do» para disciplinas como yoga o karate."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ football with my team.",
+          "options": ["play", "do", "go"],
+          "answer": "play",
+          "explanation": "Los deportes de equipo con pelota o adversario usan «play» (regla P-D-G: Play con Pelota o Partner). «Do football» es un error de distribución de verbos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella no sabe esquiar",
+          "direction": "es-en",
+          "tiles": ["She", "can't", "ski", "doesn't", "skiing"],
+          "answer": "She can't ski",
+          "explanation": "La negación del modal es directa: «can't» (cannot), nunca «doesn't can». El verbo va en infinitivo desnudo: «ski», no «skiing»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Voy a pescar los domingos",
+          "direction": "es-en",
+          "tiles": ["I", "go", "fishing", "on", "Sundays", "play", "fish"],
+          "answer": "I go fishing on Sundays",
+          "explanation": "«Go + gerundio» expresa la actividad habitual de ocio: «go fishing». La rutina semanal se marca con «on Sundays»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El jugador puede correr muy rápido",
+          "direction": "es-en",
+          "tiles": ["The", "player", "can", "run", "very", "fast", "runs"],
+          "answer": "The player can run very fast",
+          "explanation": "«Player» es el sustantivo de este grupo de vocabulario y «can» sigue siendo invariable incluso en 3ª persona del singular."
+        },
+        {
+          "type": "speak",
+          "text": "I can play chess very well.",
+          "es": "Sé jugar muy bien al ajedrez."
+        },
+        {
+          "type": "speak",
+          "text": "Can you play chess?",
+          "es": "¿Sabes jugar al ajedrez?"
+        },
+        {
+          "type": "speak",
+          "text": "I go hiking every weekend.",
+          "es": "Voy de senderismo cada fin de semana."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct negative sentence:",
-      "options": ["She can't swim.", "She doesn't can swim.", "She cans not swim."],
-      "correct": 0,
-      "hint": "Los modales niegan directamente, sin auxiliar «do/does».",
-      "explanation": "«Can» niega añadiendo «not» directamente: «cannot / can't». «Doesn't can» aplica erróneamente el do-support y «cans not» añade una -s imposible en un modal."
-    },
-    {
-      "type": "gap",
-      "text": "They can't sing ___ all.",
-      "options": ["at", "in", "of"],
-      "answer": "at",
-      "explanation": "«At all» (en absoluto) es la expresión fija que marca el nivel más bajo de la escala de habilidad: «can't + verbo + at all»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Voy a pescar los domingos",
-      "direction": "es-en",
-      "tiles": ["I", "go", "fishing", "on", "Sundays", "play", "fish"],
-      "answer": "I go fishing on Sundays",
-      "explanation": "«Go + gerundio» expresa la actividad habitual de ocio: «go fishing». La rutina semanal se marca con «on Sundays»."
-    },
-    {
-      "type": "gap",
-      "text": "I ___ yoga in the morning.",
-      "options": ["do", "play", "go"],
-      "answer": "do",
-      "explanation": "Las actividades individuales y disciplinas como el yoga, la gimnasia o el karate usan «do» (regla P-D-G): «do yoga»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él sabe jugar al fútbol bastante bien",
-      "direction": "es-en",
-      "tiles": ["He", "can", "play", "football", "quite", "well", "plays", "do"],
-      "answer": "He can play football quite well",
-      "explanation": "«Can» es invariable incluso con «he», el verbo va en infinitivo desnudo y el adverbio de grado «quite well» se coloca al final del predicado."
-    },
-    {
-      "type": "speak",
-      "text": "My hobby is painting.",
-      "es": "Mi pasatiempo es la pintura."
+      "n": 5,
+      "title": "Competición: ganar, perder y entrenar",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario de competición",
+          "pairs": [
+            { "en": "score", "es": "puntuación / marcar" },
+            { "en": "win", "es": "ganar" },
+            { "en": "lose", "es": "perder" },
+            { "en": "practice", "es": "practicar / práctica" },
+            { "en": "train", "es": "entrenar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Read the club description: \"Members must love ________ and be a good team ________. In our last competition, our ________ was 3-0.\" Fill in the blanks:",
+          "options": ["to run / player / score", "running / player / score", "running / plays / score"],
+          "correct": 1,
+          "hint": "«Love» funciona como «enjoy» en el nivel A1, y busca el sustantivo del compuesto «team ___».",
+          "explanation": "«Love» rige gerundio («running»), «team player» es un compuesto léxico fijo, y «score» es el sustantivo que nombra el marcador. «Plays» es un verbo conjugado, no un sustantivo."
+        },
+        {
+          "type": "gap",
+          "text": "They can't sing ___ all.",
+          "options": ["at", "in", "of"],
+          "answer": "at",
+          "explanation": "«At all» (en absoluto) es la expresión fija que marca el nivel más bajo de la escala de habilidad: «can't + verbo + at all»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra de competición con su traducción",
+          "pairs": [
+            { "en": "hobby", "es": "pasatiempo" },
+            { "en": "team", "es": "equipo" },
+            { "en": "player", "es": "jugador/a" },
+            { "en": "win", "es": "ganar" },
+            { "en": "lose", "es": "perder" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["Our team can win the competition.", "Our team can wins the competition.", "Our team cans win the competition."],
+          "correct": 0,
+          "hint": "El modal es invariable, incluso con sujetos de 3ª persona como «team».",
+          "explanation": "«Can» no cambia con sujetos de 3ª persona ni singulares como «team»: «can win», nunca «can wins» ni «cans win»."
+        },
+        {
+          "type": "gap",
+          "text": "Our team needs to ___ hard before the competition.",
+          "options": ["train", "trains", "training"],
+          "answer": "train",
+          "explanation": "Tras la partícula «to» va el infinitivo del verbo principal: «to train hard». No confundir con el infinitivo desnudo, que solo aparece tras un modal como «can»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja vocabulario de repaso",
+          "pairs": [
+            { "en": "guitar", "es": "guitarra" },
+            { "en": "piano", "es": "piano" },
+            { "en": "painting", "es": "pintura / pintar" },
+            { "en": "cooking", "es": "cocina / cocinar" },
+            { "en": "train", "es": "entrenar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct short answer: — \"Can your team win the competition?\" — \"___\"",
+          "options": ["Yes, it does.", "Yes, it plays.", "Yes, it can."],
+          "correct": 2,
+          "hint": "Repite solo el modal, no un auxiliar distinto.",
+          "explanation": "La respuesta corta con «can» repite únicamente el modal: «Yes, it can». No se usa «does» ni «plays»."
+        },
+        {
+          "type": "gap",
+          "text": "I can ___ a goal from here.",
+          "options": ["score", "scores", "scoring"],
+          "answer": "score",
+          "explanation": "Tras el modal «can» el verbo va en infinitivo desnudo: «can score», nunca con «-s» ni con «-ing»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nuestro equipo puede ganar la competición",
+          "direction": "es-en",
+          "tiles": ["Our", "team", "can", "win", "the", "competition", "wins", "to"],
+          "answer": "Our team can win the competition",
+          "explanation": "«Can» es invariable con el sujeto «team», y el verbo «win» va en infinitivo desnudo tras el modal."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella entrena todos los días",
+          "direction": "es-en",
+          "tiles": ["She", "trains", "every", "day", "train", "to"],
+          "answer": "She trains every day",
+          "explanation": "En presente simple, fuera de un modal, la 3ª persona del singular sí lleva -s: «trains». Esto contrasta con «can», que nunca la lleva."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No me gusta perder",
+          "direction": "es-en",
+          "tiles": ["I", "don't", "like", "losing", "lose", "to"],
+          "answer": "I don't like losing",
+          "explanation": "«Like» se practica con gerundio en A1: «like losing». El español usa infinitivo tras «gustar», de ahí la interferencia «like to lose»."
+        },
+        {
+          "type": "speak",
+          "text": "Our team can win the competition if we train hard.",
+          "es": "Nuestro equipo puede ganar la competición si entrenamos duro."
+        },
+        {
+          "type": "speak",
+          "text": "Can you score a goal from there? Yes, I can!",
+          "es": "¿Puedes marcar un gol desde ahí? ¡Sí, puedo!"
+        },
+        {
+          "type": "speak",
+          "text": "She can't lose — she always wins!",
+          "es": "Ella no puede perder... ¡siempre gana!"
+        }
+      ]
     }
   ]
 }

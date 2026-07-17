@@ -289,36 +289,48 @@ async function loadCourse(){
     path.className = "path";
     const offsets = ["", "offset-l", "", "offset-r"]; // serpentina
 
-    level.modules.forEach((mod, i) => {
-      const modId = `${level.code.toLowerCase()}-mod${String(mod.n).padStart(2,"0")}`;
-      const hasContent = !!mod.file;
-      const done = p.completed.includes(modId);
-      const unlocked = hasContent && (prevModId === null || p.completed.includes(prevModId));
-      prevModId = modId;
+    let nodeIdx = 0; // cuenta TODOS los nodos renderizados en el nivel (no solo módulos) para la serpentina
+    level.modules.forEach(mod => {
+      const subCount = mod.sublevels || 1; // módulos "planos" (sin subniveles) siguen igual que siempre
 
-      const row = document.createElement("div");
-      row.className = "node-row";
-      const wrap = document.createElement("div");
-      wrap.className = "node-wrap " + offsets[i % 4];
+      for (let s = 1; s <= subCount; s++){
+        const modId = subCount > 1
+          ? `${level.code.toLowerCase()}-mod${String(mod.n).padStart(2,"0")}-s${s}`
+          : `${level.code.toLowerCase()}-mod${String(mod.n).padStart(2,"0")}`;
+        const hasContent = !!mod.file;
+        const done = p.completed.includes(modId);
+        const unlocked = hasContent && (prevModId === null || p.completed.includes(prevModId));
+        prevModId = modId;
 
-      const btn = document.createElement("button");
-      btn.className = "node" + (done ? " done" : (unlocked ? " available" : ""));
-      btn.disabled = !unlocked && !done;
-      btn.innerHTML = (done ? "👑" : (unlocked ? "⭐" : "🔒")) + `<span class="mod-num">${mod.n}</span>`;
-      btn.setAttribute("aria-label", `Módulo ${mod.n}: ${mod.title}`);
-      if (unlocked || done){
-        btn.addEventListener("click", () => {
-          location.href = `leccion.html?file=${encodeURIComponent(mod.file)}&id=${modId}`;
-        });
+        const row = document.createElement("div");
+        row.className = "node-row";
+        const wrap = document.createElement("div");
+        wrap.className = "node-wrap " + offsets[nodeIdx % 4];
+        nodeIdx++;
+
+        const btn = document.createElement("button");
+        btn.className = "node" + (done ? " done" : (unlocked ? " available" : ""));
+        btn.disabled = !unlocked && !done;
+        const badge = subCount > 1 ? `${mod.n}.${s}` : `${mod.n}`;
+        btn.innerHTML = (done ? "👑" : (unlocked ? "⭐" : "🔒")) + `<span class="mod-num">${badge}</span>`;
+        btn.setAttribute("aria-label", subCount > 1
+          ? `Módulo ${mod.n}, parte ${s} de ${subCount}: ${mod.title}`
+          : `Módulo ${mod.n}: ${mod.title}`);
+        if (unlocked || done){
+          btn.addEventListener("click", () => {
+            const subParam = subCount > 1 ? `&sub=${s}` : "";
+            location.href = `leccion.html?file=${encodeURIComponent(mod.file)}&id=${modId}${subParam}`;
+          });
+        }
+        const label = document.createElement("div");
+        label.className = "node-label";
+        label.textContent = (mod.es || mod.title) + (subCount > 1 ? ` · ${s}/${subCount}` : "");
+
+        wrap.appendChild(btn);
+        wrap.appendChild(label);
+        row.appendChild(wrap);
+        path.appendChild(row);
       }
-      const label = document.createElement("div");
-      label.className = "node-label";
-      label.textContent = mod.es || mod.title;
-
-      wrap.appendChild(btn);
-      wrap.appendChild(label);
-      row.appendChild(wrap);
-      path.appendChild(row);
     });
 
     app.appendChild(path);

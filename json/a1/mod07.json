@@ -3,238 +3,621 @@
   "module": 7,
   "title": "Plural Morphology",
   "subtitle": "Morfología del Plural",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada plural con su traducción",
-      "pairs": [
-        { "en": "dogs", "es": "perros" },
-        { "en": "cats", "es": "gatos" },
-        { "en": "boxes", "es": "cajas" },
-        { "en": "babies", "es": "bebés" },
-        { "en": "knives", "es": "cuchillos" }
+      "n": 1,
+      "title": "Plural regular: -s y -es sibilantes",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "dogs", "es": "perros" },
+            { "en": "cats", "es": "gatos" },
+            { "en": "classes", "es": "clases" },
+            { "en": "boxes", "es": "cajas" },
+            { "en": "watches", "es": "relojes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct plural of «box»?",
+          "options": ["boxs", "boxes", "boxies"],
+          "correct": 1,
+          "hint": "«Box» termina en un sonido sibilante.",
+          "explanation": "Los sustantivos terminados en sonido sibilante (s, x, ch, sh) añaden «-es» para poder pronunciarse: «box» → «boxes». «Boxs» es impronunciable y «boxies» aplica una regla que no corresponde a esta terminación."
+        },
+        {
+          "type": "gap",
+          "text": "I have two ___.",
+          "options": ["classes", "classs", "classies"],
+          "answer": "classes",
+          "explanation": "«Class» termina en el sonido sibilante /s/, así que añade «-es» de apoyo: «classes». «Classs» es impronunciable."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más plurales regulares",
+          "pairs": [
+            { "en": "dogs", "es": "perros" },
+            { "en": "cats", "es": "gatos" },
+            { "en": "classes", "es": "clases" },
+            { "en": "boxes", "es": "cajas" },
+            { "en": "brushes", "es": "cepillos" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct plural: «one dog, two ___».",
+          "options": ["dogs", "doges", "dogies"],
+          "correct": 0,
+          "hint": "«Dog» no termina en sonido sibilante.",
+          "explanation": "«Dog» no termina en un sonido sibilante, así que forma su plural regular simplemente añadiendo «-s»: «dogs». «Doges» y «dogies» aplican reglas de otras terminaciones."
+        },
+        {
+          "type": "gap",
+          "text": "She has three ___.",
+          "options": ["brushes", "brushs", "brushies"],
+          "answer": "brushes",
+          "explanation": "«Brush» termina en el sonido sibilante /ʃ/ (sh), que exige la «-es» de apoyo: «brushes»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja plurales regulares sin repetir",
+          "pairs": [
+            { "en": "cats", "es": "gatos" },
+            { "en": "classes", "es": "clases" },
+            { "en": "boxes", "es": "cajas" },
+            { "en": "watches", "es": "relojes" },
+            { "en": "brushes", "es": "cepillos" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses the correct plural of «watch»?",
+          "options": ["I have two watchs.", "I have two watchies.", "I have two watches."],
+          "correct": 2,
+          "hint": "«Watch» termina en el sonido /tʃ/.",
+          "explanation": "«Watch» termina en el sonido sibilante /tʃ/, que exige la vocal de apoyo: «watches». «Watchs» sería impronunciable y «watchies» no es la terminación correcta para esta palabra."
+        },
+        {
+          "type": "gap",
+          "text": "I like ___.",
+          "options": ["cats", "cates", "catss"],
+          "answer": "cats",
+          "explanation": "«Cat» no termina en sonido sibilante, así que su plural regular solo añade «-s»: «cats»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo dos relojes",
+          "direction": "es-en",
+          "tiles": ["I", "have", "two", "watches", "watchs"],
+          "answer": "I have two watches",
+          "explanation": "«Watch» termina en el sonido sibilante /tʃ/, que exige la vocal de apoyo: «watches» (pronunciado con sílaba extra /ɪz/). «Watchs» sería impronunciable."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo dos perros",
+          "direction": "es-en",
+          "tiles": ["I", "have", "two", "dogs", "dog"],
+          "answer": "I have two dogs",
+          "explanation": "«Dog» no termina en sonido sibilante, así que su plural se forma solo añadiendo «-s»: «dogs»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las clases son buenas",
+          "direction": "es-en",
+          "tiles": ["The", "classes", "are", "good", "class"],
+          "answer": "The classes are good",
+          "explanation": "«Class» termina en sonido sibilante y forma su plural con «-es»: «classes», que concuerda con el verbo plural «are»."
+        },
+        {
+          "type": "speak",
+          "text": "I have two dogs and three cats.",
+          "es": "Tengo dos perros y tres gatos."
+        },
+        {
+          "type": "speak",
+          "text": "The classes start at nine.",
+          "es": "Las clases empiezan a las nueve."
+        },
+        {
+          "type": "speak",
+          "text": "I need new brushes.",
+          "es": "Necesito cepillos nuevos."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "What is the correct plural form of the word \"city\"?",
-      "options": ["citys", "cities", "cityes"],
-      "correct": 1,
-      "hint": "Fíjate en la letra que hay justo antes de la «y».",
-      "explanation": "«City» termina en consonante + «y»: la «y» se convierte en «i» y se añade «-es» («cities»). «Citys» y «cityes» ignoran esta mutación ortográfica obligatoria."
-    },
-    {
-      "type": "gap",
-      "text": "The ___ are at school.",
-      "options": ["children", "childs", "childrens"],
-      "answer": "children",
-      "explanation": "El plural de «child» es irregular: «children», con la antigua terminación germánica «-ren». Nunca admite la «-s» regular («childs»)."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Los niños están en la escuela",
-      "direction": "es-en",
-      "tiles": ["The", "children", "are", "at", "school", "childs"],
-      "answer": "The children are at school",
-      "explanation": "«Children» es el plural irregular de «child» y, al ser plural, concuerda con «are». «Childs» es una regularización agramatical."
-    },
-    {
-      "type": "speak",
-      "text": "People are very nice here.",
-      "es": "La gente es muy agradable aquí."
-    },
-    {
-      "type": "gap",
-      "text": "Three ___ are here.",
-      "options": ["sheep", "sheeps", "sheepes"],
-      "answer": "sheep",
-      "explanation": "«Sheep» es un sustantivo invariable (plural cero): no admite «-s». El número se reconoce por el numeral y el verbo («three sheep are»)."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the sentence that displays correct grammar and spelling:",
-      "options": ["My two childs are in the classroom.", "My two children is in the classroom.", "My two children are in the classroom."],
-      "correct": 2,
-      "hint": "Revisa dos cosas: la forma del plural de «child» y la concordancia con el verbo.",
-      "explanation": "«Child» tiene plural irregular «children» y, al ser plural, exige la cópula «are». «Childs» regulariza mal el plural y «children is» rompe la concordancia de número."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada plural con su traducción",
-      "pairs": [
-        { "en": "watches", "es": "relojes" },
-        { "en": "cities", "es": "ciudades" },
-        { "en": "men", "es": "hombres" },
-        { "en": "women", "es": "mujeres" },
-        { "en": "children", "es": "niños" }
+      "n": 2,
+      "title": "Plural en -y y en consonante+o",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "tomatoes", "es": "tomates" },
+            { "en": "potatoes", "es": "patatas" },
+            { "en": "babies", "es": "bebés" },
+            { "en": "cities", "es": "ciudades" },
+            { "en": "countries", "es": "países" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct plural form of the word \"city\"?",
+          "options": ["citys", "cities", "cityes"],
+          "correct": 1,
+          "hint": "Fíjate en la letra que hay justo antes de la «y».",
+          "explanation": "«City» termina en consonante + «y»: la «y» se convierte en «i» y se añade «-es» («cities»). «Citys» y «cityes» ignoran esta mutación ortográfica obligatoria."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ are happy.",
+          "options": ["families", "familys", "familyes"],
+          "answer": "families",
+          "explanation": "«Family» acaba en consonante + «y»: la «y» pasa a «i» y se añade «-es» («families»), igual que «baby» → «babies» o «city» → «cities»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más plurales de -y y -o",
+          "pairs": [
+            { "en": "tomatoes", "es": "tomates" },
+            { "en": "potatoes", "es": "patatas" },
+            { "en": "babies", "es": "bebés" },
+            { "en": "cities", "es": "ciudades" },
+            { "en": "families", "es": "familias" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct plural of «potato»?",
+          "options": ["potatoes", "potatos", "potatoies"],
+          "correct": 0,
+          "hint": "«Potato» termina en consonante + «o».",
+          "explanation": "Los sustantivos terminados en consonante + «o» añaden «-es»: «potato» → «potatoes», igual que «tomato» → «tomatoes». «Potatos» omite la «e» de apoyo."
+        },
+        {
+          "type": "gap",
+          "text": "I like ___.",
+          "options": ["tomatoes", "tomatos", "tomates"],
+          "answer": "tomatoes",
+          "explanation": "Los sustantivos en consonante + «o» como «tomato» y «potato» añaden «-es»: «tomatoes». «Tomatos» omite la «e» de apoyo y «tomates» es un calco del español."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja plurales de -y y -o sin repetir",
+          "pairs": [
+            { "en": "potatoes", "es": "patatas" },
+            { "en": "babies", "es": "bebés" },
+            { "en": "cities", "es": "ciudades" },
+            { "en": "countries", "es": "países" },
+            { "en": "families", "es": "familias" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct plural: «one country, two ___».",
+          "options": ["countrys", "countryes", "countries"],
+          "correct": 2,
+          "hint": "Antes de la «y» final hay una consonante.",
+          "explanation": "«Country» termina en consonante + «y»: la «y» se convierte en «i» y se añade «-es»: «countries». «Countrys» y «countryes» ignoran esta mutación ortográfica."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ are far away.",
+          "options": ["countries", "countrys", "countryes"],
+          "answer": "countries",
+          "explanation": "«Country» acaba en consonante + «y»: la «y» pasa a «i» y se añade «-es» → «countries», igual que «city» → «cities»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las ciudades son grandes",
+          "direction": "es-en",
+          "tiles": ["The", "cities", "are", "big", "citys", "is"],
+          "answer": "The cities are big",
+          "explanation": "Consonante + «y» exige el cambio a «i» más «-es»: «cities». El sujeto plural concuerda con «are», no con «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo dos patatas",
+          "direction": "es-en",
+          "tiles": ["I", "have", "two", "potatoes", "potatos"],
+          "answer": "I have two potatoes",
+          "explanation": "«Potato» acaba en consonante + «o» y forma su plural con «-es»: «potatoes». «Potatos» omite la «e» de apoyo, un error ortográfico frecuente."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los bebés son felices",
+          "direction": "es-en",
+          "tiles": ["The", "babies", "are", "happy", "babys"],
+          "answer": "The babies are happy",
+          "explanation": "«Baby» acaba en consonante + «y»: la «y» pasa a «i» y se añade «-es» → «babies». «Babys» ignora esa mutación ortográfica."
+        },
+        {
+          "type": "speak",
+          "text": "I like tomatoes and potatoes.",
+          "es": "Me gustan los tomates y las patatas."
+        },
+        {
+          "type": "speak",
+          "text": "There are many countries in the world.",
+          "es": "Hay muchos países en el mundo."
+        },
+        {
+          "type": "speak",
+          "text": "My family has two babies.",
+          "es": "Mi familia tiene dos bebés."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "The ___ are happy.",
-      "options": ["families", "familys", "familyes"],
-      "answer": "families",
-      "explanation": "«Family» acaba en consonante + «y»: la «y» pasa a «i» y se añade «-es» («families»), igual que «baby» → «babies» o «city» → «cities»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tengo dos cuchillos",
-      "direction": "es-en",
-      "tiles": ["I", "have", "two", "knives", "knifes"],
-      "answer": "I have two knives",
-      "explanation": "Los sustantivos en «-f» o «-fe» cambian a «-ves» en plural: «knife» → «knives». La /f/ sorda se sonoriza en /v/."
-    },
-    {
-      "type": "quiz",
-      "q": "Complete the sentence: \"The wooden __________ are in the kitchen.\"",
-      "options": ["knifes", "knives", "knife"],
-      "correct": 1,
-      "hint": "El verbo «are» pide un plural, y las palabras en «-fe» tienen un plural especial.",
-      "explanation": "«Knife» termina en «-fe», que en plural se sustituye por «-ves»: «knives». «Knifes» no aplica la sonorización y «knife» es singular, incompatible con «are»."
-    },
-    {
-      "type": "speak",
-      "text": "My two children are in the classroom.",
-      "es": "Mis dos hijos están en la clase."
-    },
-    {
-      "type": "gap",
-      "text": "I have two ___.",
-      "options": ["knives", "knifes", "knife"],
-      "answer": "knives",
-      "explanation": "La terminación «-fe» de «knife» se convierte en «-ves» en plural: «two knives». La consonante sorda /f/ se transforma en la sonora /v/."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Las ciudades son grandes",
-      "direction": "es-en",
-      "tiles": ["The", "cities", "are", "big", "citys", "is"],
-      "answer": "The cities are big",
-      "explanation": "Consonante + «y» exige el cambio a «i» más «-es»: «cities». El sujeto plural concuerda con «are», no con «is»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada plural con su traducción",
-      "pairs": [
-        { "en": "people", "es": "gente" },
-        { "en": "feet", "es": "pies" },
-        { "en": "teeth", "es": "dientes" },
-        { "en": "mice", "es": "ratones" },
-        { "en": "toys", "es": "juguetes" }
+      "n": 3,
+      "title": "Sonorización -f→-ves y hombres/mujeres",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja plurales de distintos tipos",
+          "pairs": [
+            { "en": "dogs", "es": "perros" },
+            { "en": "cats", "es": "gatos" },
+            { "en": "boxes", "es": "cajas" },
+            { "en": "babies", "es": "bebés" },
+            { "en": "knives", "es": "cuchillos" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the sentence: \"The wooden __________ are in the kitchen.\"",
+          "options": ["knifes", "knives", "knife"],
+          "correct": 1,
+          "hint": "El verbo «are» pide un plural, y las palabras en «-fe» tienen un plural especial.",
+          "explanation": "«Knife» termina en «-fe», que en plural se sustituye por «-ves»: «knives». «Knifes» no aplica la sonorización y «knife» es singular, incompatible con «are»."
+        },
+        {
+          "type": "gap",
+          "text": "I have two ___.",
+          "options": ["knives", "knifes", "knife"],
+          "answer": "knives",
+          "explanation": "La terminación «-fe» de «knife» se convierte en «-ves» en plural: «two knives». La consonante sorda /f/ se transforma en la sonora /v/."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja plurales con sonorización y apofonía",
+          "pairs": [
+            { "en": "knives", "es": "cuchillos" },
+            { "en": "wives", "es": "esposas" },
+            { "en": "leaves", "es": "hojas" },
+            { "en": "lives", "es": "vidas" },
+            { "en": "men", "es": "hombres" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct plural of «wife»?",
+          "options": ["wives", "wifes", "wifies"],
+          "correct": 0,
+          "hint": "«Wife» termina en «-fe».",
+          "explanation": "Los sustantivos terminados en «-f» o «-fe» sustituyen esa terminación por «-ves»: «wife» → «wives». «Wifes» no aplica la sonorización."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ are here.",
+          "options": ["men", "mans", "mens"],
+          "answer": "men",
+          "explanation": "«Man» forma su plural por apofonía vocálica: «men». No admite la «-s» regular («mans», «mens» son agramaticales)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja plurales con sonorización y apofonía sin repetir",
+          "pairs": [
+            { "en": "wives", "es": "esposas" },
+            { "en": "leaves", "es": "hojas" },
+            { "en": "lives", "es": "vidas" },
+            { "en": "men", "es": "hombres" },
+            { "en": "women", "es": "mujeres" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct plural: «one leaf, two ___».",
+          "options": ["leafs", "leafes", "leaves"],
+          "correct": 2,
+          "hint": "Misma regla que «knife» → «knives».",
+          "explanation": "«Leaf» termina en «-f», que se sustituye por «-ves» en plural: «leaves». «Leafs» y «leafes» no aplican la sonorización de la /f/ en /v/."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ are working today.",
+          "options": ["women", "womans", "womens"],
+          "answer": "women",
+          "explanation": "El plural de «woman» es irregular por apofonía vocálica: «women» (/wímin/). No admite la «-s» regular («womans»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo dos cuchillos",
+          "direction": "es-en",
+          "tiles": ["I", "have", "two", "knives", "knifes"],
+          "answer": "I have two knives",
+          "explanation": "Los sustantivos en «-f» o «-fe» cambian a «-ves» en plural: «knife» → «knives». La /f/ sorda se sonoriza en /v/."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las hojas son verdes",
+          "direction": "es-en",
+          "tiles": ["The", "leaves", "are", "green", "leafs"],
+          "answer": "The leaves are green",
+          "explanation": "«Leaf» sustituye su terminación «-f» por «-ves» en plural: «leaves». «Leafs» no aplica esa sonorización."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los hombres están aquí",
+          "direction": "es-en",
+          "tiles": ["The", "men", "are", "here", "mans"],
+          "answer": "The men are here",
+          "explanation": "«Man» forma su plural por apofonía vocálica: «men», nunca con la «-s» regular («mans»)."
+        },
+        {
+          "type": "speak",
+          "text": "I have two knives.",
+          "es": "Tengo dos cuchillos."
+        },
+        {
+          "type": "speak",
+          "text": "The leaves are falling.",
+          "es": "Las hojas están cayendo."
+        },
+        {
+          "type": "speak",
+          "text": "The women are talking.",
+          "es": "Las mujeres están hablando."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which of the following nouns has an irregular plural formed by internal vowel change?",
-      "options": ["foot", "baby", "box"],
-      "correct": 0,
-      "hint": "Busca la palabra cuyo plural cambia la vocal de dentro, sin añadir «-s».",
-      "explanation": "«Foot» → «feet» se forma por apofonía vocálica (cambio interno de «oo» a «ee»). «Baby» → «babies» y «box» → «boxes» usan sufijación regular."
-    },
-    {
-      "type": "gap",
-      "text": "The ___ are here.",
-      "options": ["men", "mans", "mens"],
-      "answer": "men",
-      "explanation": "«Man» forma su plural por apofonía vocálica: «men». No admite la «-s» regular («mans», «mens» son agramaticales)."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "La gente es feliz",
-      "direction": "es-en",
-      "tiles": ["People", "are", "happy", "is"],
-      "answer": "People are happy",
-      "explanation": "«People» es gramaticalmente plural en inglés y exige «are». Decir «people is» es un calco del español «la gente es»."
-    },
-    {
-      "type": "speak",
-      "text": "People are happy.",
-      "es": "La gente es feliz."
-    },
-    {
-      "type": "quiz",
-      "q": "Select the option where \"people\" is grammatically matched with the verb:",
-      "options": ["People is very nice here.", "People are very nice here.", "People's is very nice here."],
-      "correct": 1,
-      "hint": "Aunque «gente» sea singular en español, piensa en el número gramatical inglés.",
-      "explanation": "«People» es plural en inglés y requiere «are». «People is» es un error por influencia del singular español «gente», y «people's is» añade un apóstrofo y una cópula duplicada agramaticales."
-    },
-    {
-      "type": "gap",
-      "text": "Two ___ are in the box.",
-      "options": ["mice", "mouses", "mices"],
-      "answer": "mice",
-      "explanation": "«Mouse» tiene plural irregular por mutación: «mice». Las formas «mouses» y «mices» regularizan indebidamente el plural."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tres ovejas están aquí",
-      "direction": "es-en",
-      "tiles": ["Three", "sheep", "are", "here", "sheeps"],
-      "answer": "Three sheep are here",
-      "explanation": "«Sheep» es invariable (plural cero): «three sheep», nunca «three sheeps». El plural se marca con el numeral y el verbo «are»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada plural con su traducción",
-      "pairs": [
-        { "en": "tomatoes", "es": "tomates" },
-        { "en": "countries", "es": "países" },
-        { "en": "leaves", "es": "hojas" },
-        { "en": "sheep", "es": "ovejas" },
-        { "en": "keys", "es": "llaves" }
+      "n": 4,
+      "title": "Plurales irregulares: children, people, feet",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "watches", "es": "relojes" },
+            { "en": "cities", "es": "ciudades" },
+            { "en": "men", "es": "hombres" },
+            { "en": "women", "es": "mujeres" },
+            { "en": "children", "es": "niños" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that displays correct grammar and spelling:",
+          "options": ["My two childs are in the classroom.", "My two children is in the classroom.", "My two children are in the classroom."],
+          "correct": 2,
+          "hint": "Revisa dos cosas: la forma del plural de «child» y la concordancia con el verbo.",
+          "explanation": "«Child» tiene plural irregular «children» y, al ser plural, exige la cópula «are». «Childs» regulariza mal el plural y «children is» rompe la concordancia de número."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ are at school.",
+          "options": ["children", "childs", "childrens"],
+          "answer": "children",
+          "explanation": "El plural de «child» es irregular: «children», con la antigua terminación germánica «-ren». Nunca admite la «-s» regular («childs»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja plurales irregulares",
+          "pairs": [
+            { "en": "people", "es": "gente" },
+            { "en": "feet", "es": "pies" },
+            { "en": "teeth", "es": "dientes" },
+            { "en": "mice", "es": "ratones" },
+            { "en": "toys", "es": "juguetes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which of the following nouns has an irregular plural formed by internal vowel change?",
+          "options": ["foot", "baby", "box"],
+          "correct": 0,
+          "hint": "Busca la palabra cuyo plural cambia la vocal de dentro, sin añadir «-s».",
+          "explanation": "«Foot» → «feet» se forma por apofonía vocálica (cambio interno de «oo» a «ee»). «Baby» → «babies» y «box» → «boxes» usan sufijación regular."
+        },
+        {
+          "type": "gap",
+          "text": "Two ___ are in the box.",
+          "options": ["mice", "mouses", "mices"],
+          "answer": "mice",
+          "explanation": "«Mouse» tiene plural irregular por mutación: «mice». Las formas «mouses» y «mices» regularizan indebidamente el plural."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja plurales irregulares sin repetir",
+          "pairs": [
+            { "en": "people", "es": "gente" },
+            { "en": "feet", "es": "pies" },
+            { "en": "teeth", "es": "dientes" },
+            { "en": "mice", "es": "ratones" },
+            { "en": "fish", "es": "peces" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Select the option where \"people\" is grammatically matched with the verb:",
+          "options": ["People is very nice here.", "People are very nice here.", "People's is very nice here."],
+          "correct": 1,
+          "hint": "Aunque «gente» sea singular en español, piensa en el número gramatical inglés.",
+          "explanation": "«People» es plural en inglés y requiere «are». «People is» es un error por influencia del singular español «gente», y «people's is» añade un apóstrofo y una cópula duplicada agramaticales."
+        },
+        {
+          "type": "gap",
+          "text": "People ___ very nice here.",
+          "options": ["are", "is", "be"],
+          "answer": "are",
+          "explanation": "«People» es gramaticalmente plural y coordina siempre con formas verbales plurales: «people are». «People is» es un error grave penalizado en el A1."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los niños están en la escuela",
+          "direction": "es-en",
+          "tiles": ["The", "children", "are", "at", "school", "childs"],
+          "answer": "The children are at school",
+          "explanation": "«Children» es el plural irregular de «child» y, al ser plural, concuerda con «are». «Childs» es una regularización agramatical."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La gente es feliz",
+          "direction": "es-en",
+          "tiles": ["People", "are", "happy", "is"],
+          "answer": "People are happy",
+          "explanation": "«People» es gramaticalmente plural en inglés y exige «are». Decir «people is» es un calco del español «la gente es»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mis dos hijos están en la clase",
+          "direction": "es-en",
+          "tiles": ["My", "two", "children", "are", "in", "the", "classroom", "childs", "is"],
+          "answer": "My two children are in the classroom",
+          "explanation": "Plural irregular «children» + concordancia plural «are». «Childs» y la cópula singular «is» son los dos errores clásicos de examen."
+        },
+        {
+          "type": "speak",
+          "text": "People are very nice here.",
+          "es": "La gente es muy agradable aquí."
+        },
+        {
+          "type": "speak",
+          "text": "My two children are in the classroom.",
+          "es": "Mis dos hijos están en la clase."
+        },
+        {
+          "type": "speak",
+          "text": "People are happy.",
+          "es": "La gente es feliz."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the correct plural: \"one fish, two ___\".",
-      "options": ["fishes", "fishs", "fish"],
-      "correct": 2,
-      "hint": "Es un plural invariable, como «sheep».",
-      "explanation": "«Fish» tiene plural cero en contextos básicos: «one fish, two fish». «Fishes» debe evitarse en el nivel A1 y «fishs» es ortográficamente imposible."
-    },
-    {
-      "type": "gap",
-      "text": "I like ___.",
-      "options": ["tomatoes", "tomatos", "tomates"],
-      "answer": "tomatoes",
-      "explanation": "Los sustantivos en consonante + «o» como «tomato» y «potato» añaden «-es»: «tomatoes». «Tomatos» omite la «e» de apoyo y «tomates» es un calco del español."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Mis dos hijos están en la clase",
-      "direction": "es-en",
-      "tiles": ["My", "two", "children", "are", "in", "the", "classroom", "childs", "is"],
-      "answer": "My two children are in the classroom",
-      "explanation": "Plural irregular «children» + concordancia plural «are». «Childs» y la cópula singular «is» son los dos errores clásicos de examen."
-    },
-    {
-      "type": "speak",
-      "text": "I have two knives.",
-      "es": "Tengo dos cuchillos."
-    },
-    {
-      "type": "quiz",
-      "q": "What is the correct plural form of the word \"toy\"?",
-      "options": ["toys", "toies", "toyes"],
-      "correct": 0,
-      "hint": "Mira la letra anterior a la «y»: aquí es una vocal.",
-      "explanation": "Cuando la «y» final va precedida de vocal, forma un diptongo fuerte y solo se añade «-s»: «toys», «days», «keys». El cambio a «-ies» solo ocurre tras consonante."
-    },
-    {
-      "type": "gap",
-      "text": "People ___ very nice here.",
-      "options": ["are", "is", "be"],
-      "answer": "are",
-      "explanation": "«People» es gramaticalmente plural y coordina siempre con formas verbales plurales: «people are». «People is» es un error grave penalizado en el A1."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tengo dos relojes",
-      "direction": "es-en",
-      "tiles": ["I", "have", "two", "watches", "watchs"],
-      "answer": "I have two watches",
-      "explanation": "«Watch» termina en el sonido sibilante /tʃ/, que exige la vocal de apoyo: «watches» (pronunciado con sílaba extra /ɪz/). «Watchs» sería impronunciable."
+      "n": 5,
+      "title": "Repaso: sheep, keys y plurales invariables",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja plurales irregulares e invariables",
+          "pairs": [
+            { "en": "people", "es": "gente" },
+            { "en": "feet", "es": "pies" },
+            { "en": "teeth", "es": "dientes" },
+            { "en": "mice", "es": "ratones" },
+            { "en": "toys", "es": "juguetes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct plural form of the word \"toy\"?",
+          "options": ["toys", "toies", "toyes"],
+          "correct": 0,
+          "hint": "Mira la letra anterior a la «y»: aquí es una vocal.",
+          "explanation": "Cuando la «y» final va precedida de vocal, forma un diptongo fuerte y solo se añade «-s»: «toys», «days», «keys». El cambio a «-ies» solo ocurre tras consonante."
+        },
+        {
+          "type": "gap",
+          "text": "Three ___ are here.",
+          "options": ["sheep", "sheeps", "sheepes"],
+          "answer": "sheep",
+          "explanation": "«Sheep» es un sustantivo invariable (plural cero): no admite «-s». El número se reconoce por el numeral y el verbo («three sheep are»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja plurales de vocal+y e invariables",
+          "pairs": [
+            { "en": "tomatoes", "es": "tomates" },
+            { "en": "countries", "es": "países" },
+            { "en": "leaves", "es": "hojas" },
+            { "en": "sheep", "es": "ovejas" },
+            { "en": "keys", "es": "llaves" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct plural: \"one fish, two ___\".",
+          "options": ["fishes", "fishs", "fish"],
+          "correct": 2,
+          "hint": "Es un plural invariable, como «sheep».",
+          "explanation": "«Fish» tiene plural cero en contextos básicos: «one fish, two fish». «Fishes» debe evitarse en el nivel A1 y «fishs» es ortográficamente imposible."
+        },
+        {
+          "type": "gap",
+          "text": "I see three ___.",
+          "options": ["boys", "boyes", "boies"],
+          "answer": "boys",
+          "explanation": "«Boy» termina en vocal + «y», así que solo añade «-s»: «boys». El cambio a «-ies» solo ocurre tras consonante."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja plurales invariables y de vocal+y sin repetir",
+          "pairs": [
+            { "en": "sheep", "es": "ovejas" },
+            { "en": "toys", "es": "juguetes" },
+            { "en": "days", "es": "días" },
+            { "en": "boys", "es": "chicos" },
+            { "en": "keys", "es": "llaves" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "What is the correct plural of «shelf»?",
+          "options": ["shelfs", "shelves", "shelfes"],
+          "correct": 1,
+          "hint": "«Shelf» termina en «-f», como «knife» o «leaf».",
+          "explanation": "«Shelf» sigue la regla de sonorización «-f» → «-ves»: «shelves». «Shelfs» y «shelfes» no aplican ese cambio fonético."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ are in the room.",
+          "options": ["shelves", "shelfs", "shelfes"],
+          "answer": "shelves",
+          "explanation": "«Shelf» sustituye su terminación «-f» por «-ves» en plural: «shelves»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tres ovejas están aquí",
+          "direction": "es-en",
+          "tiles": ["Three", "sheep", "are", "here", "sheeps"],
+          "answer": "Three sheep are here",
+          "explanation": "«Sheep» es invariable (plural cero): «three sheep», nunca «three sheeps». El plural se marca con el numeral y el verbo «are»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo tres juguetes",
+          "direction": "es-en",
+          "tiles": ["I", "have", "three", "toys", "toyes"],
+          "answer": "I have three toys",
+          "explanation": "«Toy» termina en vocal + «y», así que su plural regular solo añade «-s»: «toys». «Toyes» aplica indebidamente la regla de consonante + «y»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los estantes están vacíos",
+          "direction": "es-en",
+          "tiles": ["The", "shelves", "are", "empty", "shelfs"],
+          "answer": "The shelves are empty",
+          "explanation": "«Shelf» cambia su terminación «-f» por «-ves» en plural: «shelves». «Shelfs» no aplica esa sonorización."
+        },
+        {
+          "type": "speak",
+          "text": "Ten sheep are in the field.",
+          "es": "Diez ovejas están en el campo."
+        },
+        {
+          "type": "speak",
+          "text": "I like these toys.",
+          "es": "Me gustan estos juguetes."
+        },
+        {
+          "type": "speak",
+          "text": "The shelves are full of books.",
+          "es": "Los estantes están llenos de libros."
+        }
+      ]
     }
   ]
 }

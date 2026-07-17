@@ -3,238 +3,621 @@
   "module": 20,
   "title": "Present Simple: Negative",
   "subtitle": "Presente Simple: Negativo",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada verbo con su traducción",
-      "pairs": [
-        { "en": "work", "es": "trabajar" },
-        { "en": "study", "es": "estudiar" },
-        { "en": "live", "es": "vivir" },
-        { "en": "know", "es": "saber / conocer" },
-        { "en": "want", "es": "querer" }
+      "n": 1,
+      "title": "Don't / doesn't: el auxiliar de negación",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada forma de negación con su traducción",
+          "pairs": [
+            { "en": "not", "es": "no" },
+            { "en": "don't", "es": "no (contracción de do not)" },
+            { "en": "doesn't", "es": "no (contracción de does not)" },
+            { "en": "never", "es": "nunca" },
+            { "en": "do not", "es": "no / no hacer (auxiliar)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your friend asks if your brother works on Sundays. Which is the correct negative answer?",
+          "options": ["He doesn't works on Sundays.", "He doesn't work on Sundays.", "He not work on Sundays."],
+          "correct": 1,
+          "hint": "El auxiliar ya lleva la marca de tercera persona; no la dupliques ni prescindas de él.",
+          "explanation": "«He doesn't work on Sundays» es correcta: «doesn't» absorbe la -s y el verbo queda en forma base. Duplicar la -s (opción a) o negar sin auxiliar (opción c) son errores típicos del hispanohablante."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ speak German.",
+          "options": ["don't", "doesn't", "not"],
+          "answer": "don't",
+          "explanation": "Con sujeto «I» el auxiliar negativo es «don't». «Doesn't» solo se usa con he/she/it, y «not» no puede negar un verbo pleno por sí solo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más formas de negación",
+          "pairs": [
+            { "en": "don't", "es": "no (contracción de do not)" },
+            { "en": "doesn't", "es": "no (contracción de does not)" },
+            { "en": "never", "es": "nunca" },
+            { "en": "do not", "es": "no / no hacer (auxiliar)" },
+            { "en": "does not", "es": "no (auxiliar tercera persona)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly negates «She works on Saturdays»?",
+          "options": ["She doesn't work on Saturdays.", "She no work on Saturdays.", "She doesn't works on Saturdays."],
+          "correct": 0,
+          "hint": "Busca la única opción sin auxiliar duplicado ni «no» calcado del español.",
+          "explanation": "«She doesn't work on Saturdays» es correcta: el auxiliar «doesn't» absorbe la -s y el verbo queda en forma base. Las otras dos calcan el «no» español o duplican la marca de tercera persona."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ live in Paris.",
+          "options": ["doesn't", "don't", "isn't"],
+          "answer": "doesn't",
+          "explanation": "Con sujetos de tercera persona singular el auxiliar negativo es «doesn't». «Isn't» pertenece al verbo «to be» y no puede negar un verbo pleno."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja formas de negación sin repetir",
+          "pairs": [
+            { "en": "not", "es": "no" },
+            { "en": "doesn't", "es": "no (contracción de does not)" },
+            { "en": "never", "es": "nunca" },
+            { "en": "do not", "es": "no / no hacer (auxiliar)" },
+            { "en": "does not", "es": "no (auxiliar tercera persona)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence for third person negative:",
+          "options": ["She don't speak French.", "She doesn't speak French.", "She doesn't speaks French."],
+          "correct": 1,
+          "hint": "«She» necesita el auxiliar de tercera persona, y el verbo se queda limpio.",
+          "explanation": "«She» exige «doesn't», y el verbo principal vuelve a su forma base: «speak», sin -s."
+        },
+        {
+          "type": "gap",
+          "text": "They ___ speak Italian.",
+          "options": ["don't", "doesn't", "not"],
+          "answer": "don't",
+          "explanation": "«They» es plural y requiere «don't». «Doesn't» sería un error de concordancia y «not» no puede negar un verbo pleno por sí solo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No trabajo aquí",
+          "direction": "es-en",
+          "tiles": ["I", "don't", "work", "here", "doesn't", "not"],
+          "answer": "I don't work here",
+          "explanation": "El adverbio «not» necesita la muleta del auxiliar: «don't» (do not). «I no work» sería la traducción literal del español, incorrecta."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella no vive aquí",
+          "direction": "es-en",
+          "tiles": ["She", "doesn't", "live", "here", "don't", "not"],
+          "answer": "She doesn't live here",
+          "explanation": "«She» exige el auxiliar «doesn't», que absorbe la marca de tercera persona; el verbo «live» queda en forma base."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos no hablan italiano",
+          "direction": "es-en",
+          "tiles": ["They", "don't", "speak", "Italian", "doesn't", "not"],
+          "answer": "They don't speak Italian",
+          "explanation": "«They» requiere «don't»; el verbo «speak» queda en forma base tras el auxiliar."
+        },
+        {
+          "type": "speak",
+          "text": "I don't like classical music.",
+          "es": "No me gusta la música clásica."
+        },
+        {
+          "type": "speak",
+          "text": "He doesn't study on Sundays.",
+          "es": "Él no estudia los domingos."
+        },
+        {
+          "type": "speak",
+          "text": "He doesn't speak Italian.",
+          "es": "Él no habla italiano."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Choose the grammatically correct negative sentence:",
-      "options": ["He doesn't likes coffee.", "He doesn't like coffee.", "He no likes coffee."],
-      "correct": 1,
-      "hint": "El auxiliar «doesn't» ya lleva la marca de tercera persona.",
-      "explanation": "«Doesn't» absorbe la marca de tercera persona, así que el verbo va en forma base: «like». La primera duplica la -s (doesn't + likes) y la tercera calca el «no» español sin el auxiliar obligatorio."
-    },
-    {
-      "type": "gap",
-      "text": "She doesn't ___ on Sundays.",
-      "options": ["work", "works", "working"],
-      "answer": "work",
-      "explanation": "El auxiliar «doesn't» ya indica tercera persona; el verbo principal queda limpio, en forma base. «Doesn't works» duplica la marca y es agramatical."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "No hablo inglés",
-      "direction": "es-en",
-      "tiles": ["I", "don't", "speak", "English", "no", "not"],
-      "answer": "I don't speak English",
-      "explanation": "El adverbio «not» necesita la muleta del auxiliar: «don't» (do not). «I no speak» es la traducción literal del español y es incorrecta."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence represents a correct grammatical negation with the adverb \"never\"?",
-      "options": ["She doesn't never study at night.", "She never study at night.", "She never studies at night."],
-      "correct": 2,
-      "hint": "«Never» ya es negativo por sí solo, y sin auxiliar el verbo debe concordar.",
-      "explanation": "Sin auxiliar negativo, el verbo concuerda en tercera persona: «never studies». La primera incurre en doble negación («doesn't never») y la segunda omite la -ies obligatoria."
-    },
-    {
-      "type": "gap",
-      "text": "I ___ like tea.",
-      "options": ["don't", "doesn't", "not"],
-      "answer": "don't",
-      "explanation": "Con sujeto «I» el auxiliar negativo es «don't». «Doesn't» solo se usa con he/she/it, y «not» no puede negar un verbo pleno por sí solo."
-    },
-    {
-      "type": "speak",
-      "text": "I don't work on Sundays.",
-      "es": "No trabajo los domingos."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada verbo con su traducción",
-      "pairs": [
-        { "en": "eat", "es": "comer" },
-        { "en": "drink", "es": "beber" },
-        { "en": "sleep", "es": "dormir" },
-        { "en": "read", "es": "leer" },
-        { "en": "write", "es": "escribir" }
+      "n": 2,
+      "title": "Verbos de gustos y rutina en negativo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada verbo con su traducción",
+          "pairs": [
+            { "en": "rarely", "es": "rara vez" },
+            { "en": "like", "es": "gustar" },
+            { "en": "love", "es": "amar / encantar" },
+            { "en": "hate", "es": "odiar" },
+            { "en": "work", "es": "trabajar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the grammatically correct negative sentence:",
+          "options": ["He doesn't likes coffee.", "He doesn't like coffee.", "He no likes coffee."],
+          "correct": 1,
+          "hint": "El auxiliar «doesn't» ya lleva la marca de tercera persona.",
+          "explanation": "«Doesn't» absorbe la marca de tercera persona, así que el verbo va en forma base: «like». La primera duplica la -s (doesn't + likes) y la tercera calca el «no» español sin el auxiliar obligatorio."
+        },
+        {
+          "type": "gap",
+          "text": "She doesn't ___ on Sundays.",
+          "options": ["work", "works", "working"],
+          "answer": "work",
+          "explanation": "El auxiliar «doesn't» ya indica tercera persona; el verbo principal queda limpio, en forma base. «Doesn't works» duplica la marca y es agramatical."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos de gustos y rutina",
+          "pairs": [
+            { "en": "like", "es": "gustar" },
+            { "en": "love", "es": "amar / encantar" },
+            { "en": "hate", "es": "odiar" },
+            { "en": "work", "es": "trabajar" },
+            { "en": "study", "es": "estudiar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence represents a correct grammatical negation with the adverb \"never\"?",
+          "options": ["She doesn't never study at night.", "She never study at night.", "She never studies at night."],
+          "correct": 2,
+          "hint": "«Never» ya es negativo por sí solo, y sin auxiliar el verbo debe concordar.",
+          "explanation": "Sin auxiliar negativo, el verbo concuerda en tercera persona: «never studies». La primera incurre en doble negación («doesn't never») y la segunda omite la -ies obligatoria."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ like tea.",
+          "options": ["don't", "doesn't", "not"],
+          "answer": "don't",
+          "explanation": "Con sujeto «I» el auxiliar negativo es «don't». «Doesn't» solo se usa con he/she/it, y «not» no puede negar un verbo pleno por sí solo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja verbos de gustos y rutina sin repetir",
+          "pairs": [
+            { "en": "rarely", "es": "rara vez" },
+            { "en": "love", "es": "amar / encantar" },
+            { "en": "hate", "es": "odiar" },
+            { "en": "work", "es": "trabajar" },
+            { "en": "study", "es": "estudiar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["They no like Italian food.", "They don't like Italian food.", "They doesn't like Italian food."],
+          "correct": 1,
+          "hint": "«They» es plural: ¿qué auxiliar le corresponde?",
+          "explanation": "El sujeto «they» requiere el auxiliar «don't». «They no like» calca el «no» español sin auxiliar y «doesn't» solo acompaña a la tercera persona del singular."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ work here.",
+          "options": ["doesn't", "don't", "isn't"],
+          "answer": "doesn't",
+          "explanation": "Con sujetos de tercera persona singular («he, she, it») el auxiliar negativo es «doesn't». «Isn't» pertenece al verbo «to be» y no puede negar un verbo pleno."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella no trabaja los domingos",
+          "direction": "es-en",
+          "tiles": ["She", "doesn't", "work", "on", "Sundays", "works", "don't"],
+          "answer": "She doesn't work on Sundays",
+          "explanation": "«Doesn't» absorbe la -s de tercera persona y el verbo queda en forma base: «work», no «works». Los domingos como rutina van con «on Sundays»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A él no le gusta el fútbol",
+          "direction": "es-en",
+          "tiles": ["He", "doesn't", "like", "football", "don't", "likes"],
+          "answer": "He doesn't like football",
+          "explanation": "«He» exige «doesn't», que absorbe la -s de tercera persona; el verbo «like» queda en forma base, sin -s."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos no estudian los domingos",
+          "direction": "es-en",
+          "tiles": ["They", "don't", "study", "on", "Sundays", "doesn't"],
+          "answer": "They don't study on Sundays",
+          "explanation": "Sujeto plural «they» + auxiliar «don't» + verbo en forma base «study», sin desinencia."
+        },
+        {
+          "type": "speak",
+          "text": "I don't work on Sundays.",
+          "es": "No trabajo los domingos."
+        },
+        {
+          "type": "speak",
+          "text": "He doesn't like coffee.",
+          "es": "A él no le gusta el café."
+        },
+        {
+          "type": "speak",
+          "text": "She rarely studies at night.",
+          "es": "Ella rara vez estudia de noche."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Complete the sentence: \"We __________ understand the instruction.\"",
-      "options": ["don't", "doesn't", "not"],
-      "correct": 0,
-      "hint": "Fíjate en la persona gramatical del sujeto «we».",
-      "explanation": "«We» es primera persona del plural y requiere «don't». «Doesn't» se reserva para la tercera persona del singular, y «not» aislado no puede negar el verbo pleno «understand»."
-    },
-    {
-      "type": "gap",
-      "text": "He ___ work here.",
-      "options": ["doesn't", "don't", "isn't"],
-      "answer": "doesn't",
-      "explanation": "Con sujetos de tercera persona singular («he, she, it») el auxiliar negativo es «doesn't». «Isn't» pertenece al verbo «to be» y no puede negar un verbo pleno."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella no trabaja los domingos",
-      "direction": "es-en",
-      "tiles": ["She", "doesn't", "work", "on", "Sundays", "works", "don't"],
-      "answer": "She doesn't work on Sundays",
-      "explanation": "«Doesn't» absorbe la -s de tercera persona y el verbo queda en forma base: «work», no «works». Los domingos como rutina van con «on Sundays»."
-    },
-    {
-      "type": "quiz",
-      "q": "Identify the correct negative sentence for the verb \"to be\":",
-      "options": ["They aren't tired.", "They don't be tired.", "They doesn't are tired."],
-      "correct": 0,
-      "hint": "El verbo «to be» tiene autonomía sintáctica: no necesita auxiliar.",
-      "explanation": "«To be» niega directamente añadiendo «not» («aren't»), sin auxiliar «do/does». Las otras dos aplican erróneamente el do-support a un verbo que no lo admite."
-    },
-    {
-      "type": "gap",
-      "text": "He never ___ meat.",
-      "options": ["eats", "eat", "eating"],
-      "answer": "eats",
-      "explanation": "Con «never» no hay auxiliar que absorba la marca, así que el verbo CONSERVA la -s de tercera persona: «He never eats meat»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nunca como carne",
-      "direction": "es-en",
-      "tiles": ["I", "never", "eat", "meat", "don't", "eats"],
-      "answer": "I never eat meat",
-      "explanation": "«Never» ya aporta la negación completa: no se combina con «don't» (sería doble negación, incorrecta en inglés estándar)."
-    },
-    {
-      "type": "speak",
-      "text": "He doesn't like coffee.",
-      "es": "A él no le gusta el café."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada verbo con su traducción",
-      "pairs": [
-        { "en": "like", "es": "gustar" },
-        { "en": "love", "es": "amar / encantar" },
-        { "en": "hate", "es": "odiar" },
-        { "en": "need", "es": "necesitar" },
-        { "en": "understand", "es": "entender" }
+      "n": 3,
+      "title": "Verbos de conocimiento y comunicación en negativo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada verbo con su traducción",
+          "pairs": [
+            { "en": "work", "es": "trabajar" },
+            { "en": "study", "es": "estudiar" },
+            { "en": "live", "es": "vivir" },
+            { "en": "know", "es": "saber / conocer" },
+            { "en": "want", "es": "querer" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Complete the sentence: \"We __________ understand the instruction.\"",
+          "options": ["don't", "doesn't", "not"],
+          "correct": 0,
+          "hint": "Fíjate en la persona gramatical del sujeto «we».",
+          "explanation": "«We» es primera persona del plural y requiere «don't». «Doesn't» se reserva para la tercera persona del singular, y «not» aislado no puede negar el verbo pleno «understand»."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ know the answer.",
+          "options": ["don't", "doesn't", "not"],
+          "answer": "don't",
+          "explanation": "Con sujeto «I» el auxiliar negativo es «don't». «Not» no puede negar un verbo pleno sin la muleta del auxiliar."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos",
+          "pairs": [
+            { "en": "like", "es": "gustar" },
+            { "en": "love", "es": "amar / encantar" },
+            { "en": "hate", "es": "odiar" },
+            { "en": "need", "es": "necesitar" },
+            { "en": "understand", "es": "entender" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly expresses «No sé la respuesta»?",
+          "options": ["I don't know the answer.", "I doesn't know the answer.", "I no know the answer."],
+          "correct": 0,
+          "hint": "El sujeto «I» exige un auxiliar concreto, y el «no» español no basta.",
+          "explanation": "Con «I» el auxiliar negativo es «don't»: «I don't know the answer». «Doesn't» no concuerda con la primera persona y «no know» calca el español sin auxiliar."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ want coffee.",
+          "options": ["doesn't", "don't", "isn't"],
+          "answer": "doesn't",
+          "explanation": "Con sujetos de tercera persona singular el auxiliar negativo es «doesn't». «Isn't» pertenece al verbo «to be», no a un verbo pleno como «want»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja verbos de conocimiento y comunicación",
+          "pairs": [
+            { "en": "live", "es": "vivir" },
+            { "en": "know", "es": "saber / conocer" },
+            { "en": "want", "es": "querer" },
+            { "en": "need", "es": "necesitar" },
+            { "en": "understand", "es": "entender" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["She doesn't want to go.", "She don't want to go.", "She doesn't wants to go."],
+          "correct": 0,
+          "hint": "«She» exige «doesn't», y el verbo se queda limpio de desinencias.",
+          "explanation": "«Doesn't» concuerda con «she» y absorbe la -s; el verbo principal queda en forma base: «want». «Don't» no concuerda y «wants» duplica la marca."
+        },
+        {
+          "type": "gap",
+          "text": "They ___ need help.",
+          "options": ["don't", "doesn't", "not"],
+          "answer": "don't",
+          "explanation": "El sujeto plural «they» exige el auxiliar «don't». «Doesn't» sería un error de concordancia."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No hablo inglés",
+          "direction": "es-en",
+          "tiles": ["I", "don't", "speak", "English", "no", "not"],
+          "answer": "I don't speak English",
+          "explanation": "El adverbio «not» necesita la muleta del auxiliar: «don't» (do not). «I no speak» es la traducción literal del español y es incorrecta."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos no entienden la instrucción",
+          "direction": "es-en",
+          "tiles": ["They", "don't", "understand", "the", "instruction", "doesn't"],
+          "answer": "They don't understand the instruction",
+          "explanation": "Sujeto plural «they» + auxiliar «don't» + verbo en forma base «understand». «Doesn't» sería el error de usar el auxiliar de tercera persona singular."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella no quiere café",
+          "direction": "es-en",
+          "tiles": ["She", "doesn't", "want", "coffee", "don't", "wants"],
+          "answer": "She doesn't want coffee",
+          "explanation": "«She» exige «doesn't», que absorbe la marca de tercera persona; el verbo «want» queda en forma base."
+        },
+        {
+          "type": "speak",
+          "text": "I don't know the answer.",
+          "es": "No sé la respuesta."
+        },
+        {
+          "type": "speak",
+          "text": "He doesn't want tea.",
+          "es": "Él no quiere té."
+        },
+        {
+          "type": "speak",
+          "text": "We don't need help.",
+          "es": "No necesitamos ayuda."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which is the correct negative transformation of: \"My brother writes emails every day\"?",
-      "options": ["My brother doesn't writes emails every day.", "My brother no write emails every day.", "My brother doesn't write emails every day."],
-      "correct": 2,
-      "hint": "El auxiliar roba la -s del verbo principal.",
-      "explanation": "«Doesn't» (apropiado para «my brother» = he) devuelve el verbo a su forma base: «write». La primera mantiene la -s de forma agramatical y la segunda usa la estructura de negación del español."
-    },
-    {
-      "type": "gap",
-      "text": "We ___ angry.",
-      "options": ["aren't", "don't be", "doesn't"],
-      "answer": "aren't",
-      "explanation": "El verbo «to be» rechaza el auxiliar «do»: niega directamente con «not» («We aren't / We are not angry»). «We don't be» es agramatical."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Él nunca duerme tarde",
-      "direction": "es-en",
-      "tiles": ["He", "never", "sleeps", "late", "sleep", "doesn't"],
-      "answer": "He never sleeps late",
-      "explanation": "Sin auxiliar, el verbo mantiene la -s de tercera persona: «sleeps». Combinar «doesn't» con «never» sería una doble negación incorrecta."
-    },
-    {
-      "type": "gap",
-      "text": "She ___ swim.",
-      "options": ["can't", "doesn't can", "don't"],
-      "answer": "can't",
-      "explanation": "Los verbos modales como «can» niegan directamente con «not» («cannot / can't»), sin auxiliar «do/does». «She doesn't can swim» es agramatical."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the correct sentence:",
-      "options": ["They no like Italian food.", "They don't like Italian food.", "They doesn't like Italian food."],
-      "correct": 1,
-      "hint": "«They» es plural: ¿qué auxiliar le corresponde?",
-      "explanation": "El sujeto «they» requiere el auxiliar «don't». «They no like» calca el «no» español sin auxiliar y «doesn't» solo acompaña a la tercera persona del singular."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "No estamos cansados",
-      "direction": "es-en",
-      "tiles": ["We", "aren't", "tired", "don't", "be"],
-      "answer": "We aren't tired",
-      "explanation": "«To be» tiene autonomía sintáctica: niega con «not» contraído («aren't») y nunca acepta el auxiliar «do» («We don't be tired» es incorrecto)."
-    },
-    {
-      "type": "speak",
-      "text": "I never eat meat.",
-      "es": "Nunca como carne."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "speak", "es": "hablar" },
-        { "en": "listen", "es": "escuchar" },
-        { "en": "watch", "es": "mirar / ver" },
-        { "en": "never", "es": "nunca" },
-        { "en": "rarely", "es": "rara vez" }
+      "n": 4,
+      "title": "Verbos de acciones diarias en negativo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada verbo con su traducción",
+          "pairs": [
+            { "en": "eat", "es": "comer" },
+            { "en": "drink", "es": "beber" },
+            { "en": "sleep", "es": "dormir" },
+            { "en": "read", "es": "leer" },
+            { "en": "write", "es": "escribir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which is the correct negative transformation of: \"My brother writes emails every day\"?",
+          "options": ["My brother doesn't writes emails every day.", "My brother no write emails every day.", "My brother doesn't write emails every day."],
+          "correct": 2,
+          "hint": "El auxiliar roba la -s del verbo principal.",
+          "explanation": "«Doesn't» (apropiado para «my brother» = he) devuelve el verbo a su forma base: «write». La primera mantiene la -s de forma agramatical y la segunda usa la estructura de negación del español."
+        },
+        {
+          "type": "gap",
+          "text": "He never ___ meat.",
+          "options": ["eats", "eat", "eating"],
+          "answer": "eats",
+          "explanation": "Con «never» no hay auxiliar que absorba la marca, así que el verbo CONSERVA la -s de tercera persona: «He never eats meat»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos de acciones diarias",
+          "pairs": [
+            { "en": "drink", "es": "beber" },
+            { "en": "sleep", "es": "dormir" },
+            { "en": "read", "es": "leer" },
+            { "en": "write", "es": "escribir" },
+            { "en": "go", "es": "ir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I don't never sleep late.", "I don't ever sleep late.", "I no sleep late."],
+          "correct": 1,
+          "hint": "Si usas el auxiliar negativo, el adverbio debe ser de polaridad neutra.",
+          "explanation": "Con el auxiliar «don't» se usa el adverbio neutro «ever»: «I don't ever sleep late» (o bien «I never sleep late» sin auxiliar). «Don't never» es doble negación y «I no sleep» calca el español."
+        },
+        {
+          "type": "gap",
+          "text": "I don't ___ sleep late.",
+          "options": ["ever", "never", "no"],
+          "answer": "ever",
+          "explanation": "Si ya hay auxiliar negativo («don't»), el adverbio debe ser el neutro «ever». «Don't never» sería una doble negación agramatical en inglés estándar."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja verbos de acciones diarias sin repetir",
+          "pairs": [
+            { "en": "eat", "es": "comer" },
+            { "en": "sleep", "es": "dormir" },
+            { "en": "read", "es": "leer" },
+            { "en": "write", "es": "escribir" },
+            { "en": "go", "es": "ir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["She doesn't eat meat.", "She don't eat meat.", "She doesn't eats meat."],
+          "correct": 0,
+          "hint": "«She» necesita el auxiliar de tercera persona sin duplicar la -s.",
+          "explanation": "«Doesn't» concuerda con «she» y el verbo queda limpio: «eat». «Don't» no concuerda y «eats» duplica la marca de tercera persona."
+        },
+        {
+          "type": "gap",
+          "text": "They ___ go to school on Sundays.",
+          "options": ["don't", "doesn't", "isn't"],
+          "answer": "don't",
+          "explanation": "El sujeto plural «they» requiere «don't». «Isn't» pertenece al verbo «to be» y «doesn't» no concuerda con un sujeto plural."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca como carne",
+          "direction": "es-en",
+          "tiles": ["I", "never", "eat", "meat", "don't", "eats"],
+          "answer": "I never eat meat",
+          "explanation": "«Never» ya aporta la negación completa: no se combina con «don't» (sería doble negación, incorrecta en inglés estándar)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él nunca duerme tarde",
+          "direction": "es-en",
+          "tiles": ["He", "never", "sleeps", "late", "sleep", "doesn't"],
+          "answer": "He never sleeps late",
+          "explanation": "Sin auxiliar, el verbo mantiene la -s de tercera persona: «sleeps». Combinar «doesn't» con «never» sería una doble negación incorrecta."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella no bebe café",
+          "direction": "es-en",
+          "tiles": ["She", "doesn't", "drink", "coffee", "don't", "drinks"],
+          "answer": "She doesn't drink coffee",
+          "explanation": "«Doesn't» es el «imán morfológico» que atrae la marca de tercera persona: el verbo queda limpio, «drink» sin -s."
+        },
+        {
+          "type": "speak",
+          "text": "I never eat meat.",
+          "es": "Nunca como carne."
+        },
+        {
+          "type": "speak",
+          "text": "We don't go to bed late.",
+          "es": "No nos acostamos tarde."
+        },
+        {
+          "type": "speak",
+          "text": "She doesn't eat meat.",
+          "es": "Ella no come carne."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which sentence is correct?",
-      "options": ["I don't never sleep late.", "I don't ever sleep late.", "I no sleep late."],
-      "correct": 1,
-      "hint": "Si usas el auxiliar negativo, el adverbio debe ser de polaridad neutra.",
-      "explanation": "Con el auxiliar «don't» se usa el adverbio neutro «ever»: «I don't ever sleep late» (o bien «I never sleep late» sin auxiliar). «Don't never» es doble negación y «I no sleep» calca el español."
-    },
-    {
-      "type": "gap",
-      "text": "They don't ___ Italian food.",
-      "options": ["like", "likes", "liking"],
-      "answer": "like",
-      "explanation": "Tras el auxiliar «don't», el verbo principal va siempre en forma base: «like», sin desinencias."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ellos no entienden la instrucción",
-      "direction": "es-en",
-      "tiles": ["They", "don't", "understand", "the", "instruction", "doesn't"],
-      "answer": "They don't understand the instruction",
-      "explanation": "Sujeto plural «they» + auxiliar «don't» + verbo en forma base «understand». «Doesn't» sería el error de usar el auxiliar de tercera persona singular."
-    },
-    {
-      "type": "gap",
-      "text": "I don't ___ sleep late.",
-      "options": ["ever", "never", "no"],
-      "answer": "ever",
-      "explanation": "Si ya hay auxiliar negativo («don't»), el adverbio debe ser el neutro «ever». «Don't never» sería una doble negación agramatical en inglés estándar."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella no bebe café",
-      "direction": "es-en",
-      "tiles": ["She", "doesn't", "drink", "coffee", "don't", "drinks"],
-      "answer": "She doesn't drink coffee",
-      "explanation": "«Doesn't» es el «imán morfológico» que atrae la marca de tercera persona: el verbo queda limpio, «drink» sin -s."
-    },
-    {
-      "type": "speak",
-      "text": "We aren't tired.",
-      "es": "No estamos cansados."
+      "n": 5,
+      "title": "Never, rarely, to be y modales: repaso",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "speak", "es": "hablar" },
+            { "en": "listen", "es": "escuchar" },
+            { "en": "watch", "es": "mirar / ver" },
+            { "en": "never", "es": "nunca" },
+            { "en": "rarely", "es": "rara vez" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Identify the correct negative sentence for the verb \"to be\":",
+          "options": ["They aren't tired.", "They don't be tired.", "They doesn't are tired."],
+          "correct": 0,
+          "hint": "El verbo «to be» tiene autonomía sintáctica: no necesita auxiliar.",
+          "explanation": "«To be» niega directamente añadiendo «not» («aren't»), sin auxiliar «do/does». Las otras dos aplican erróneamente el do-support a un verbo que no lo admite."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ angry.",
+          "options": ["aren't", "don't be", "doesn't"],
+          "answer": "aren't",
+          "explanation": "El verbo «to be» rechaza el auxiliar «do»: niega directamente con «not» («We aren't / We are not angry»). «We don't be» es agramatical."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja verbos y aficiones",
+          "pairs": [
+            { "en": "play", "es": "jugar / tocar un instrumento" },
+            { "en": "watch", "es": "mirar / ver" },
+            { "en": "listen", "es": "escuchar" },
+            { "en": "have", "es": "tener" },
+            { "en": "do", "es": "hacer" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I don't have time today.", "I doesn't have time today.", "I no have time today."],
+          "correct": 0,
+          "hint": "El sujeto «I» exige el auxiliar «don't», no «doesn't» ni el «no» español.",
+          "explanation": "«I don't have time» es correcta: el sujeto «I» exige «don't». «Doesn't» no concuerda con la primera persona y «no have» calca el español sin auxiliar."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ swim.",
+          "options": ["can't", "doesn't can", "don't"],
+          "answer": "can't",
+          "explanation": "Los verbos modales como «can» niegan directamente con «not» («cannot / can't»), sin auxiliar «do/does». «She doesn't can swim» es agramatical."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos y aficiones",
+          "pairs": [
+            { "en": "play", "es": "jugar / tocar un instrumento" },
+            { "en": "listen", "es": "escuchar" },
+            { "en": "have", "es": "tener" },
+            { "en": "do", "es": "hacer" },
+            { "en": "make", "es": "hacer / fabricar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence:",
+          "options": ["He doesn't play the guitar.", "He don't play the guitar.", "He doesn't plays the guitar."],
+          "correct": 0,
+          "hint": "«He» necesita «doesn't», y el verbo se queda sin desinencia.",
+          "explanation": "«Doesn't» concuerda con «he» y el verbo principal queda en forma base: «play». «Don't» no concuerda con la tercera persona y «plays» duplica la marca."
+        },
+        {
+          "type": "gap",
+          "text": "They don't ___ Italian food.",
+          "options": ["like", "likes", "liking"],
+          "answer": "like",
+          "explanation": "Tras el auxiliar «don't», el verbo principal va siempre en forma base: «like», sin desinencias."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No estamos cansados",
+          "direction": "es-en",
+          "tiles": ["We", "aren't", "tired", "don't", "be"],
+          "answer": "We aren't tired",
+          "explanation": "«To be» tiene autonomía sintáctica: niega con «not» contraído («aren't») y nunca acepta el auxiliar «do» («We don't be tired» es incorrecto)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él no tiene tiempo",
+          "direction": "es-en",
+          "tiles": ["He", "doesn't", "have", "time", "don't", "has"],
+          "answer": "He doesn't have time",
+          "explanation": "«He» exige «doesn't», que absorbe la marca de tercera persona; el verbo «have» queda en forma base (no «has»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos no ven la televisión",
+          "direction": "es-en",
+          "tiles": ["They", "don't", "watch", "television", "doesn't", "watches"],
+          "answer": "They don't watch television",
+          "explanation": "Sujeto plural «they» + auxiliar «don't» + verbo base «watch», sin -es."
+        },
+        {
+          "type": "speak",
+          "text": "We aren't tired.",
+          "es": "No estamos cansados."
+        },
+        {
+          "type": "speak",
+          "text": "I don't have a car.",
+          "es": "No tengo coche."
+        },
+        {
+          "type": "speak",
+          "text": "He doesn't watch TV at night.",
+          "es": "Él no ve la tele por la noche."
+        }
+      ]
     }
   ]
 }
