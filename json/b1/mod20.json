@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod20",
+  "module": 20,
+  "title": "Reported Speech: Statements and Tense Backshifts",
+  "subtitle": "Reported Speech: Afirmaciones",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Contar lo que se dice: el principio del backshift",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "say", "es": "decir" },
+            { "en": "tell", "es": "decir/contar" },
+            { "en": "speak", "es": "hablar" },
+            { "en": "talk", "es": "hablar/conversar" },
+            { "en": "repeat", "es": "repetir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Sarah wanted her colleagues to know that she would turn down the job offer, so she spoke directly to them in the office. How did she communicate this to her colleagues?",
+          "options": ["She said us that she would refuse the offer.", "She spoke us that she would refuse the offer.", "She told us that she would refuse the offer."],
+          "correct": 2,
+          "hint": "Busca el verbo que exige obligatoriamente un objeto de persona justo después.",
+          "explanation": "«Told» es la forma en pasado de «tell», que requiere obligatoriamente un objeto personal directo inmediatamente después («told us»). «Said us» es incorrecto porque «say» necesita la preposición «to» para dirigirse a una persona, y «spoke us» tampoco existe con esa estructura."
+        },
+        {
+          "type": "gap",
+          "text": "Direct speech: 'I speak the truth.' Reported: He said that he ___ the truth.",
+          "options": ["spoke", "speaks", "has spoken"],
+          "answer": "spoke",
+          "explanation": "El backshift convierte el presente simple («speak») en pasado simple («spoke») cuando el verbo de reporte está en pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "tell", "es": "decir/contar" },
+            { "en": "speak", "es": "hablar" },
+            { "en": "talk", "es": "hablar/conversar" },
+            { "en": "repeat", "es": "repetir" },
+            { "en": "explain", "es": "explicar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "During the meeting, the manager wanted to make it clear that some details of the contract were now different, giving a clear justification for the change. Which option best introduces this clarification?",
+          "options": ["told me that the details had changed", "explained that the details had changed", "said me that the details had changed"],
+          "correct": 1,
+          "hint": "Busca el verbo que introduce mejor una aclaración formal con una cláusula «that».",
+          "explanation": "«Explained that...» es el verbo idóneo para introducir una aclaración formal. «Said me» es gramaticalmente incorrecto («say» no admite objeto de persona sin «to»), y «told me» no transmite el matiz de aclaración que pide el contexto."
+        },
+        {
+          "type": "gap",
+          "text": "Direct speech: 'They are discussing the secret.' Reported: She mentioned that they ___ the secret.",
+          "options": ["were discussing", "are discussing", "discussed"],
+          "answer": "were discussing",
+          "explanation": "El backshift convierte el presente continuo («are discussing») en pasado continuo («were discussing») cuando el verbo de reporte está en pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "say", "es": "decir" },
+            { "en": "speak", "es": "hablar" },
+            { "en": "talk", "es": "hablar/conversar" },
+            { "en": "repeat", "es": "repetir" },
+            { "en": "explain", "es": "explicar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A teacher wants students to say the same information out loud again so everyone remembers it clearly. Which verb describes this?",
+          "options": ["to repeat", "to explain", "to talk"],
+          "correct": 0,
+          "hint": "Es la acción de decir lo mismo otra vez.",
+          "explanation": "«Repeat» significa «repetir», decir algo de nuevo. «Explain» es aclarar algo nuevo y «talk» es conversar; ninguno implica decir lo mismo otra vez."
+        },
+        {
+          "type": "gap",
+          "text": "Can you ___ that? I didn't hear you the first time.",
+          "options": ["repeat", "tell", "explain"],
+          "answer": "repeat",
+          "explanation": "«Repeat» es «repetir». «Tell» y «explain» no encajan cuando simplemente pedimos que se diga otra vez lo mismo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él dijo que hablaba la verdad",
+          "direction": "es-en",
+          "tiles": ["He", "said", "that", "he", "spoke", "the", "truth", "speaks", "tells"],
+          "answer": "He said that he spoke the truth",
+          "explanation": "«Spoke» es el backshift de «speak» (de presente a pasado). «Speaks» y «tells» son distractores de otras formas verbales."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella explicó todo",
+          "direction": "es-en",
+          "tiles": ["She", "explained", "everything", "told", "repeated"],
+          "answer": "She explained everything",
+          "explanation": "«Explained» es el pasado de «explain» (explicar). «Told» y «repeated» son distractores de otros verbos de reporte."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesitamos hablar",
+          "direction": "es-en",
+          "tiles": ["We", "need", "to", "talk", "speak", "say"],
+          "answer": "We need to talk",
+          "explanation": "«Talk» es «hablar/conversar» en este contexto informal. «Speak» y «say» son distractores de otros verbos de comunicación."
+        },
+        {
+          "type": "speak",
+          "text": "He said that he spoke the truth.",
+          "es": "Él dijo que hablaba la verdad."
+        },
+        {
+          "type": "speak",
+          "text": "She mentioned that they were discussing the secret.",
+          "es": "Ella mencionó que estaban discutiendo el secreto."
+        },
+        {
+          "type": "speak",
+          "text": "Can you repeat that, please?",
+          "es": "¿Puedes repetir eso, por favor?"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Afirmaciones formales: más regresión temporal",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "claim", "es": "afirmar/reclamar" },
+            { "en": "report", "es": "informar/reporte" },
+            { "en": "state", "es": "declarar/estado" },
+            { "en": "mention", "es": "mencionar" },
+            { "en": "voice", "es": "voz/expresar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A journalist originally said, 'I have received the news from a reliable source.' Weeks later, someone reports what she said. Which sentence correctly applies the backshift?",
+          "options": ["The journalist claimed that she has received the news from a reliable source.", "The journalist claimed that she had received the news from a reliable source.", "The journalist claimed that she receives the news from a reliable source."],
+          "correct": 1,
+          "hint": "El Present Perfect original retrocede un paso cuando el verbo de reporte está en pasado.",
+          "explanation": "El Present Perfect original («I have received») experimenta regresión y pasa a Past Perfect («had received») porque el reporte se sitúa en el pasado («claimed»). Ni el Present Perfect ni el presente simple respetan esa regla de backshift."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I visited the meeting yesterday.' Reported: The witness stated that he ___ the meeting the day before.",
+          "options": ["had visited", "visited", "has visited"],
+          "answer": "had visited",
+          "explanation": "El pasado simple («visited») experimenta backshift y pasa a pasado perfecto («had visited») cuando el verbo de reporte está en pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "report", "es": "informar/reporte" },
+            { "en": "state", "es": "declarar/estado" },
+            { "en": "mention", "es": "mencionar" },
+            { "en": "voice", "es": "voz/expresar" },
+            { "en": "opinion", "es": "opinión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "During the debate, a politician wanted to share his personal view clearly with the audience. What was he doing?",
+          "options": ["voicing his opinion", "reporting his claim", "mentioning his state"],
+          "correct": 0,
+          "hint": "Busca el verbo que significa «expresar» combinado con «opinión».",
+          "explanation": "«Voice an opinion» significa «expresar una opinión». «Report a claim» y «mention a state» no son combinaciones naturales en este contexto."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I will repeat the context,' the chief explained. Reported: The chief explained that he ___ repeat the context.",
+          "options": ["would", "will", "can"],
+          "answer": "would",
+          "explanation": "El modal «will» experimenta backshift y pasa a «would» cuando el verbo de reporte está en pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "claim", "es": "afirmar/reclamar" },
+            { "en": "state", "es": "declarar/estado" },
+            { "en": "mention", "es": "mencionar" },
+            { "en": "voice", "es": "voz/expresar" },
+            { "en": "opinion", "es": "opinión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A lawyer promised her client, 'I can advise you,' assuring him she was fully capable of helping him in court. A colleague reports this days later. How is it correctly reported?",
+          "options": ["The lawyer declared that she can advise me.", "The lawyer declared that she will advise me.", "The lawyer declared that she could advise me."],
+          "correct": 2,
+          "hint": "El modal «can» retrocede a su forma de pasado en el estilo indirecto.",
+          "explanation": "«Can» retrocede a «could» en el backshift. Mantener «can» sin cambiar rompe la regresión temporal, y «will» no es el backshift correcto de «can»."
+        },
+        {
+          "type": "gap",
+          "text": "She refused to ___ her personal opinion in public.",
+          "options": ["voice", "report", "claim"],
+          "answer": "voice",
+          "explanation": "«Voice an opinion» significa expresarla abiertamente. «Report» y «claim» no forman esta combinación natural con «opinion»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella declaró la opinión públicamente",
+          "direction": "es-en",
+          "tiles": ["She", "stated", "the", "opinion", "publicly", "mentioned", "claimed"],
+          "answer": "She stated the opinion publicly",
+          "explanation": "«Stated» es el pasado de «state» (declarar). «Mentioned» y «claimed» son distractores de otros verbos de reporte similares."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él mencionó su opinión",
+          "direction": "es-en",
+          "tiles": ["He", "mentioned", "his", "opinion", "voiced", "claimed"],
+          "answer": "He mentioned his opinion",
+          "explanation": "«Mentioned» es el pasado de «mention» (mencionar). «Voiced» y «claimed» son distractores de otros verbos de reporte similares."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella afirmó que era verdad",
+          "direction": "es-en",
+          "tiles": ["She", "claimed", "it", "was", "true", "stated", "voiced"],
+          "answer": "She claimed it was true",
+          "explanation": "«Claimed» es el pasado de «claim» (afirmar). «Stated» y «voiced» son distractores de otros verbos de reporte."
+        },
+        {
+          "type": "speak",
+          "text": "The journalist claimed that she had received the news from a reliable source.",
+          "es": "La periodista afirmó que había recibido la noticia de una fuente fiable."
+        },
+        {
+          "type": "speak",
+          "text": "The witness stated that he had visited the meeting the day before.",
+          "es": "El testigo declaró que había visitado la reunión el día anterior."
+        },
+        {
+          "type": "speak",
+          "text": "The chief explained that he would repeat the context.",
+          "es": "El jefe explicó que repetiría el contexto."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Chismes y mentiras: los verbos que rigen gerundio",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "gossip", "es": "chisme/chismorrear" },
+            { "en": "secret", "es": "secreto" },
+            { "en": "truth", "es": "verdad" },
+            { "en": "lie", "es": "mentira/mentir" },
+            { "en": "witness", "es": "testigo/presenciar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "During the interrogation, the suspect insisted that he had not lied about anything, rejecting the accusation completely. How did he respond regarding the accusation of lying?",
+          "options": ["He denied lying about the context.", "He denied to lie about the context.", "He denied that lying about the context."],
+          "correct": 0,
+          "hint": "El verbo «deny» rige un gerundio, nunca un infinitivo con «to».",
+          "explanation": "«Deny» rige gerundio (-ing) cuando nos referimos a la acción que se niega haber cometido. «Deny to lie» es incorrecto porque «deny» nunca lleva infinitivo, y la tercera opción no es una estructura gramatical válida."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I didn't lie about the context,' he said. Reported: He denied ___ about the context.",
+          "options": ["lying", "to lie", "lied"],
+          "answer": "lying",
+          "explanation": "«Deny» siempre va seguido de gerundio (-ing). «To lie» y «lied» no son formas válidas tras este verbo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "secret", "es": "secreto" },
+            { "en": "truth", "es": "verdad" },
+            { "en": "lie", "es": "mentira/mentir" },
+            { "en": "witness", "es": "testigo/presenciar" },
+            { "en": "detail", "es": "detalle" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Neighbours were talking about a rumour concerning the new couple next door, even though nobody had confirmed if it was true. What were the neighbours doing?",
+          "options": ["They were confirming the truth.", "They were gossiping about the couple.", "They were witnessing the couple."],
+          "correct": 1,
+          "hint": "Es la palabra para «chismorrear», hablar de rumores sin confirmar si son ciertos.",
+          "explanation": "«Gossip» significa «chismorrear», hablar de rumores sin pruebas. «Confirming the truth» implicaría verificación, y «witnessing» significa presenciar algo directamente, no hablar de rumores."
+        },
+        {
+          "type": "gap",
+          "text": "The lawyer asked the ___ to describe every small detail of the accident.",
+          "options": ["witness", "secret", "lie"],
+          "answer": "witness",
+          "explanation": "«Witness» es «testigo», la persona a quien se le pide describir lo que presenció. «Secret» y «lie» no son personas."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "gossip", "es": "chisme/chismorrear" },
+            { "en": "truth", "es": "verdad" },
+            { "en": "lie", "es": "mentira/mentir" },
+            { "en": "witness", "es": "testigo/presenciar" },
+            { "en": "detail", "es": "detalle" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The company wanted to make sure that no confidential information about the new product left the building before the launch. What kind of information were they protecting?",
+          "options": ["the truth", "the detail", "the secret"],
+          "correct": 2,
+          "hint": "Es la palabra para información confidencial que no debe salir.",
+          "explanation": "«Secret» es «secreto», información que se mantiene oculta. «Truth» es verdad en general y «detail» es un dato concreto, sin implicar necesariamente confidencialidad."
+        },
+        {
+          "type": "gap",
+          "text": "Every ___ of the story matched what the witness had said before.",
+          "options": ["detail", "secret", "gossip"],
+          "answer": "detail",
+          "explanation": "«Detail» es «detalle», un dato concreto de una historia. «Secret» y «gossip» no encajan con «matched what the witness had said»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él negó haber mentido",
+          "direction": "es-en",
+          "tiles": ["He", "denied", "lying", "lied", "to", "lie"],
+          "answer": "He denied lying",
+          "explanation": "«Denied lying» usa el gerundio obligatorio tras «deny». «Lied» y «to lie» son formas incorrectas tras este verbo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El testigo conocía cada detalle",
+          "direction": "es-en",
+          "tiles": ["The", "witness", "knew", "every", "detail", "secret", "truth"],
+          "answer": "The witness knew every detail",
+          "explanation": "«Witness» y «detail» son las palabras clave. «Secret» y «truth» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un secreto, no un chisme",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "secret", "not", "gossip", "truth", "lie"],
+          "answer": "It is a secret, not gossip",
+          "explanation": "«Secret» es «secreto» y «gossip» es «chisme»; ambos son sustantivos del mismo campo semántico usados aquí en contraste."
+        },
+        {
+          "type": "speak",
+          "text": "He denied lying about the context.",
+          "es": "Negó haber mentido sobre el contexto."
+        },
+        {
+          "type": "speak",
+          "text": "The witness described every detail of the accident.",
+          "es": "El testigo describió cada detalle del accidente."
+        },
+        {
+          "type": "speak",
+          "text": "It's not gossip, it's the truth.",
+          "es": "No es un chisme, es la verdad."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Reuniones y acuerdos: verbos con infinitivo y con that",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "context", "es": "contexto" },
+            { "en": "meeting", "es": "reunión" },
+            { "en": "discussion", "es": "discusión" },
+            { "en": "agree", "es": "estar de acuerdo" },
+            { "en": "disagree", "es": "no estar de acuerdo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After a long discussion in the meeting, both managers finally accepted the same proposal and were ready to move forward together. What did they do?",
+          "options": ["They agreed on the proposal.", "They disagreed on the proposal.", "They suggested the proposal."],
+          "correct": 0,
+          "hint": "Busca el verbo para «estar de acuerdo».",
+          "explanation": "«Agree» significa «estar de acuerdo». «Disagree» es lo contrario y «suggest» es proponer algo nuevo, no aceptar una propuesta ya existente."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I disagree with this opinion,' she claimed. Reported: She claimed that she ___ with that opinion.",
+          "options": ["disagreed", "disagrees", "has disagreed"],
+          "answer": "disagreed",
+          "explanation": "El backshift convierte el presente simple («disagree») en pasado simple («disagreed») cuando el verbo de reporte está en pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "meeting", "es": "reunión" },
+            { "en": "discussion", "es": "discusión" },
+            { "en": "agree", "es": "estar de acuerdo" },
+            { "en": "disagree", "es": "no estar de acuerdo" },
+            { "en": "suggest", "es": "sugerir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Although the two companies disagreed on several terms during the discussion, they finally accepted one condition: signing the contract together. How is this correctly reported?",
+          "options": ["they finally agreed signing the document", "they finally agreed to sign the document", "they finally agreed that sign the document"],
+          "correct": 1,
+          "hint": "El verbo «agree», cuando significa comprometerse a hacer algo, rige infinitivo con «to».",
+          "explanation": "«Agree to do something» rige infinitivo con «to» cuando significa aceptar realizar una acción. «Agreed signing» usa gerundio, incorrecto aquí, y «that sign» carece de un sujeto para el verbo «sign»."
+        },
+        {
+          "type": "gap",
+          "text": "The teacher ___ that we should read the context of the story more carefully.",
+          "options": ["suggested", "agreed", "refused"],
+          "answer": "suggested",
+          "explanation": "«Suggested that + should» introduce una recomendación. «Agreed» y «refused» no encajan con dar un consejo nuevo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "context", "es": "contexto" },
+            { "en": "discussion", "es": "discusión" },
+            { "en": "agree", "es": "estar de acuerdo" },
+            { "en": "disagree", "es": "no estar de acuerdo" },
+            { "en": "suggest", "es": "sugerir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In Spanish we often say 'Él sugirió ir al cine.' Many students wrongly translate this literally into English. Which sentence correctly reports this suggestion?",
+          "options": ["He suggested to go to the cinema.", "He suggested that to go to the cinema.", "He suggested going to the cinema."],
+          "correct": 2,
+          "hint": "«Suggest» nunca va seguido de infinitivo con «to».",
+          "explanation": "«Suggest» rige gerundio (-ing) o una cláusula con «that» + should, pero nunca infinitivo con «to». Por eso «suggested going» es correcto, mientras que las otras dos opciones son calcos incorrectos del español."
+        },
+        {
+          "type": "gap",
+          "text": "Without understanding the full ___, it's easy to misunderstand what someone really meant.",
+          "options": ["context", "meeting", "discussion"],
+          "answer": "context",
+          "explanation": "«Context» es «contexto», la información necesaria para entender correctamente un mensaje. «Meeting» y «discussion» no encajan aquí."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Sugirió ir al cine",
+          "direction": "es-en",
+          "tiles": ["He", "suggested", "going", "to", "the", "cinema", "go", "agreed"],
+          "answer": "He suggested going to the cinema",
+          "explanation": "«Suggested going» usa el gerundio obligatorio tras «suggest». «Go» (infinitivo) sería incorrecto, y «agreed» es un verbo distinto usado como distractor."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estuvieron de acuerdo en el contexto",
+          "direction": "es-en",
+          "tiles": ["They", "agreed", "on", "the", "context", "disagreed", "meeting"],
+          "answer": "They agreed on the context",
+          "explanation": "«Agreed» es el pasado de «agree». «Disagreed» es su antónimo y «meeting» un distractor del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hubo una larga discusión en la reunión",
+          "direction": "es-en",
+          "tiles": ["There", "was", "a", "long", "discussion", "at", "the", "meeting", "context", "suggested"],
+          "answer": "There was a long discussion at the meeting",
+          "explanation": "«Discussion» y «meeting» son las palabras clave de esta frase. «Context» y «suggested» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "They finally agreed to sign the document.",
+          "es": "Finalmente accedieron a firmar el documento."
+        },
+        {
+          "type": "speak",
+          "text": "He suggested going to the cinema.",
+          "es": "Sugirió ir al cine."
+        },
+        {
+          "type": "speak",
+          "text": "She claimed that she disagreed with that opinion.",
+          "es": "Afirmó que no estaba de acuerdo con esa opinión."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Negar, confirmar, rechazar: repaso final del estilo indirecto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "advise", "es": "aconsejar" },
+            { "en": "inform", "es": "informar" },
+            { "en": "confirm", "es": "confirmar" },
+            { "en": "deny", "es": "negar" },
+            { "en": "accept", "es": "aceptar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The lawyer told her client exactly what she thought he should do next, giving him professional guidance before the trial. What did she do?",
+          "options": ["She advised him.", "She informed him.", "She confirmed him."],
+          "correct": 0,
+          "hint": "Es el verbo para dar consejo profesional.",
+          "explanation": "«Advise» significa «aconsejar». «Inform» es informar de un hecho y «confirm» no se usa con un objeto de persona de esta forma, ya que se confirma algo, no a alguien."
+        },
+        {
+          "type": "gap",
+          "text": "The secretary called to ___ us that the meeting had been cancelled.",
+          "options": ["inform", "advise", "refuse"],
+          "answer": "inform",
+          "explanation": "«Inform» es «informar» de un hecho. «Advise» es aconsejar y «refuse» es rechazar; ninguno encaja con dar una noticia."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "inform", "es": "informar" },
+            { "en": "confirm", "es": "confirmar" },
+            { "en": "deny", "es": "negar" },
+            { "en": "accept", "es": "aceptar" },
+            { "en": "refuse", "es": "rechazar/negarse" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "During the interview, the witness insisted that she had never heard any rumours about the secret project, rejecting the accusation completely. Which sentence correctly reports her denial?",
+          "options": ["The witness denied to hear any gossip about the secret project.", "The witness denied hearing any gossip about the secret project.", "The witness denied she hears any gossip about the secret project."],
+          "correct": 1,
+          "hint": "«Deny» rige gerundio, nunca infinitivo con «to».",
+          "explanation": "«Deny» rige un gerundio (-ing) cuando nos referimos a la acción que se niega haber cometido («denied hearing»). La primera opción usa infinitivo, incorrecto tras «deny», y la tercera rompe la concordancia temporal y carece de conector adecuado."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I will not speak to the journalist,' the witness said. Reported: The witness ___ to speak to the journalist.",
+          "options": ["refused", "accepted", "denied"],
+          "answer": "refused",
+          "explanation": "«Refuse to» rige infinitivo con «to» y expresa una negativa rotunda a hacer algo, coherente con «I will not speak»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "advise", "es": "aconsejar" },
+            { "en": "confirm", "es": "confirmar" },
+            { "en": "deny", "es": "negar" },
+            { "en": "accept", "es": "aceptar" },
+            { "en": "refuse", "es": "rechazar/negarse" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After thinking about the job offer for a week, the candidate finally called the company to say yes and start the following month. What did the candidate do?",
+          "options": ["She refused the offer.", "She denied the offer.", "She accepted the offer."],
+          "correct": 2,
+          "hint": "Es el verbo para decir que sí a algo.",
+          "explanation": "«Accept» significa «aceptar». «Refuse» es rechazar y «deny» es negar un hecho, no una oferta; ninguno encaja con decir que sí a un trabajo."
+        },
+        {
+          "type": "gap",
+          "text": "The manager ___ that the new schedule would start on Monday.",
+          "options": ["confirmed", "denied", "refused"],
+          "answer": "confirmed",
+          "explanation": "«Confirm» es «confirmar» un hecho ya anunciado. «Deny» y «refuse» expresarían rechazo o negación, lo contrario de confirmar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El testigo negó haber oído nada",
+          "direction": "es-en",
+          "tiles": ["The", "witness", "denied", "hearing", "anything", "heard", "refused"],
+          "answer": "The witness denied hearing anything",
+          "explanation": "«Denied hearing» usa el gerundio obligatorio tras «deny». «Heard» y «refused» son distractores de otras formas verbales."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella aceptó el consejo",
+          "direction": "es-en",
+          "tiles": ["She", "accepted", "the", "advice", "refused", "denied"],
+          "answer": "She accepted the advice",
+          "explanation": "«Accepted» es el pasado de «accept» (aceptar). «Refused» y «denied» son distractores de verbos opuestos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Se negó a firmar",
+          "direction": "es-en",
+          "tiles": ["He", "refused", "to", "sign", "signing", "denied"],
+          "answer": "He refused to sign",
+          "explanation": "«Refuse» rige infinitivo con «to». «Signing» (gerundio) sería incorrecto tras «refuse», y «denied» es un verbo distinto usado como distractor."
+        },
+        {
+          "type": "speak",
+          "text": "The witness denied hearing any gossip about the secret project.",
+          "es": "La testigo negó haber oído ningún chisme sobre el proyecto secreto."
+        },
+        {
+          "type": "speak",
+          "text": "The witness refused to speak to the journalist.",
+          "es": "El testigo se negó a hablar con el periodista."
+        },
+        {
+          "type": "speak",
+          "text": "She finally accepted the job offer.",
+          "es": "Finalmente aceptó la oferta de trabajo."
+        }
+      ]
+    }
+  ]
+}

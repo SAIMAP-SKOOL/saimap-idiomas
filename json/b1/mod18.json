@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod18",
+  "module": 18,
+  "title": "Passive Voice: Present & Past Simple",
+  "subtitle": "Voz Pasiva: Presente y Pasado Simple",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Industria y producción: presente simple pasivo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "process", "es": "proceso" },
+            { "en": "industry", "es": "industria" },
+            { "en": "manufacture", "es": "fabricar" },
+            { "en": "produce", "es": "producir" },
+            { "en": "factory", "es": "fábrica" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "This large building contains many machines where cars are manufactured from raw materials. What do we call this building?",
+          "options": ["a machine", "a process", "a factory"],
+          "correct": 1,
+          "hint": "No es el edificio físico donde se fabrica; busca el edificio en sí.",
+          "explanation": "«Factory» es la fábrica, el edificio donde se fabrican productos. «Process» es el proceso (abstracto) y «machine» es una máquina individual; ninguno es el edificio en sí."
+        },
+        {
+          "type": "gap",
+          "text": "Cars ___ in this factory every week.",
+          "options": ["are manufactured", "is manufactured", "manufacture"],
+          "answer": "are manufactured",
+          "explanation": "«Cars» es plural, así que el auxiliar «to be» debe ser «are», seguido del participio «manufactured». «Manufacture» sin auxiliar sería una estructura activa incorrecta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "industry", "es": "industria" },
+            { "en": "manufacture", "es": "fabricar" },
+            { "en": "produce", "es": "producir" },
+            { "en": "factory", "es": "fábrica" },
+            { "en": "machine", "es": "máquina" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Steel is _______ in this large factory every day to meet international demand.",
+          "options": ["produced", "produce", "produces"],
+          "correct": 0,
+          "hint": "Tras el auxiliar «is» se necesita el participio pasado.",
+          "explanation": "En voz pasiva, tras el verbo «to be» (is) se usa el participio pasado: «produced». «Produce» es el infinitivo y «produces» es una forma activa de tercera persona; ninguna encaja tras «is» en pasiva."
+        },
+        {
+          "type": "gap",
+          "text": "Plastic ___ produced from oil in this process.",
+          "options": ["is", "are", "am"],
+          "answer": "is",
+          "explanation": "«Plastic» es incontable singular, por lo que el auxiliar «to be» debe ir en singular: «is». «Are» es plural y «am» es primera persona; ninguno concuerda con «plastic»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "process", "es": "proceso" },
+            { "en": "manufacture", "es": "fabricar" },
+            { "en": "factory", "es": "fábrica" },
+            { "en": "machine", "es": "máquina" },
+            { "en": "industry", "es": "industria" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In this steel plant, the whole production procedure follows the same steps every single day. What do we call this repeated procedure?",
+          "options": ["a process", "an industry", "a factory"],
+          "correct": 0,
+          "hint": "Es el conjunto de pasos que se repiten, no el lugar ni el sector.",
+          "explanation": "«Process» es «proceso», el conjunto de pasos repetidos que se siguen. «Industry» es el sector económico general y «factory» es el edificio; ninguno es el procedimiento en sí."
+        },
+        {
+          "type": "gap",
+          "text": "Many machines ___ upgraded every year to save energy.",
+          "options": ["are", "is", "was"],
+          "answer": "are",
+          "explanation": "«Machines» es plural, por lo que el auxiliar debe ser «are». «Is» es singular y «was» es pasado; ninguno concuerda en número y tiempo con la frase."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El proceso es importante",
+          "direction": "es-en",
+          "tiles": ["The", "process", "is", "important", "machine", "factory"],
+          "answer": "The process is important",
+          "explanation": "«Process» (proceso) es el sustantivo clave de la frase. «Machine» y «factory» son distractores del mismo campo semántico industrial."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las máquinas son caras",
+          "direction": "es-en",
+          "tiles": ["The", "machines", "are", "expensive", "factory", "process"],
+          "answer": "The machines are expensive",
+          "explanation": "«Machines» (máquinas) es el sustantivo clave, en plural, por eso usa «are». «Factory» y «process» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta industria fabrica máquinas",
+          "direction": "es-en",
+          "tiles": ["This", "industry", "manufactures", "machines", "factory", "produces"],
+          "answer": "This industry manufactures machines",
+          "explanation": "«Industry» (industria) y «manufactures» (fabrica) son el vocabulario clave en voz activa. «Factory» y «produces» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "This factory produces machines every day.",
+          "es": "Esta fábrica produce máquinas todos los días."
+        },
+        {
+          "type": "speak",
+          "text": "The whole process is very efficient.",
+          "es": "Todo el proceso es muy eficiente."
+        },
+        {
+          "type": "speak",
+          "text": "The car industry manufactures many products.",
+          "es": "La industria del automóvil fabrica muchos productos."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Inventos e historia: pasado simple pasivo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "design", "es": "diseñar / diseño" },
+            { "en": "construct", "es": "construir" },
+            { "en": "build", "es": "construir / construcción" },
+            { "en": "assemble", "es": "montar / ensamblar" },
+            { "en": "pack", "es": "empaquetar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The first electronic reading machine _______ by a creative inventor in the late 20th century.",
+          "options": ["was designed", "designed", "were designed"],
+          "correct": 0,
+          "hint": "El sujeto «the first electronic reading machine» es singular.",
+          "explanation": "«Was designed» es la forma pasiva del pasado simple singular adecuada para el sujeto «the first electronic reading machine» (singular) y la indicación temporal del siglo pasado. «Designed» sin auxiliar sería una estructura activa incorrecta y «were designed» exigiría un sujeto plural."
+        },
+        {
+          "type": "gap",
+          "text": "This bridge ___ constructed in 1950 by hundreds of workers.",
+          "options": ["was", "is", "were"],
+          "answer": "was",
+          "explanation": "«Bridge» es singular y la acción ocurrió en el pasado, por lo que el auxiliar debe ser «was». «Is» es presente y «were» es plural; ninguno concuerda."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "construct", "es": "construir" },
+            { "en": "build", "es": "construir / construcción" },
+            { "en": "assemble", "es": "montar / ensamblar" },
+            { "en": "pack", "es": "empaquetar" },
+            { "en": "ship", "es": "enviar / barco" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The new office building was put together brick by brick over three years by hundreds of workers. What did they do to it?",
+          "options": ["They designed it.", "They built it.", "They packed it."],
+          "correct": 1,
+          "hint": "Es el verbo para levantar un edificio pieza a pieza.",
+          "explanation": "«Build» (construir) es la acción de levantar un edificio pieza a pieza. «Design» es diseñar (planificar antes de construir) y «pack» es empaquetar; ninguno describe la construcción física."
+        },
+        {
+          "type": "gap",
+          "text": "The machines ___ assembled by hand before the new technology arrived.",
+          "options": ["were", "was", "are"],
+          "answer": "were",
+          "explanation": "«Machines» es plural y la acción ocurrió en el pasado, por lo que el auxiliar debe ser «were». «Was» es singular y «are» es presente; ninguno concuerda."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "design", "es": "diseñar / diseño" },
+            { "en": "build", "es": "construir / construcción" },
+            { "en": "pack", "es": "empaquetar" },
+            { "en": "ship", "es": "enviar / barco" },
+            { "en": "construct", "es": "construir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Before sending the products overseas, workers put them safely inside boxes at the factory. What did they do?",
+          "options": ["They designed them.", "They shipped them.", "They packed them."],
+          "correct": 2,
+          "hint": "Es meter los productos en cajas, antes de enviarlos.",
+          "explanation": "«Pack» (empaquetar) es meter los productos en cajas. «Ship» es enviarlos (una vez empaquetados) y «design» es diseñarlos (antes de fabricar); ninguno describe meterlos en cajas."
+        },
+        {
+          "type": "gap",
+          "text": "The new design ___ tested carefully before production began.",
+          "options": ["was", "were", "is"],
+          "answer": "was",
+          "explanation": "«Design» aquí es singular (el diseño), por lo que el auxiliar debe ser «was». «Were» es plural y «is» es presente; ninguno concuerda con el sujeto singular en pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El puente fue construido en 1950",
+          "direction": "es-en",
+          "tiles": ["The", "bridge", "was", "built", "in", "1950", "were", "designed"],
+          "answer": "The bridge was built in 1950",
+          "explanation": "«Was built» es la pasiva de pasado simple singular. «Were» es la forma plural incorrecta aquí y «designed» es un participio de otro verbo; ambos son distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las máquinas fueron montadas a mano",
+          "direction": "es-en",
+          "tiles": ["The", "machines", "were", "assembled", "by", "hand", "was", "packed"],
+          "answer": "The machines were assembled by hand",
+          "explanation": "«Were assembled» es la pasiva de pasado simple plural, concordando con «machines». «Was» es singular y «packed» es otro participio; ambos son distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los productos fueron enviados al extranjero",
+          "direction": "es-en",
+          "tiles": ["The", "products", "were", "shipped", "overseas", "was", "built"],
+          "answer": "The products were shipped overseas",
+          "explanation": "«Were shipped» es la pasiva de pasado simple plural. «Was» es singular y «built» es otro participio; ambos son distractores."
+        },
+        {
+          "type": "speak",
+          "text": "The bridge was built in 1950 by hundreds of workers.",
+          "es": "El puente fue construido en 1950 por cientos de trabajadores."
+        },
+        {
+          "type": "speak",
+          "text": "The machine was designed by a talented engineer.",
+          "es": "La máquina fue diseñada por un ingeniero talentoso."
+        },
+        {
+          "type": "speak",
+          "text": "The products were packed and shipped overseas.",
+          "es": "Los productos fueron empaquetados y enviados al extranjero."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Descubrimientos y pruebas: el agente con by",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "deliver", "es": "entregar" },
+            { "en": "sell", "es": "vender" },
+            { "en": "consume", "es": "consumir" },
+            { "en": "invent", "es": "inventar" },
+            { "en": "discover", "es": "descubrir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Alexander Fleming found a new substance that could kill bacteria, completely by accident in his lab. What did he do?",
+          "options": ["He delivered penicillin.", "He discovered penicillin.", "He tested penicillin."],
+          "correct": 1,
+          "hint": "Es encontrar algo que ya existía pero era desconocido.",
+          "explanation": "«Discover» (descubrir) es encontrar algo que ya existía pero era desconocido. «Deliver» es entregar y «test» es probar; ninguno describe el hallazgo original."
+        },
+        {
+          "type": "gap",
+          "text": "Penicillin ___ discovered by Alexander Fleming in 1928.",
+          "options": ["was", "is", "were"],
+          "answer": "was",
+          "explanation": "«Penicillin» es singular incontable y el descubrimiento ocurrió en el pasado, por lo que se necesita «was». «Is» es presente y «were» es plural; ninguno concuerda."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "sell", "es": "vender" },
+            { "en": "consume", "es": "consumir" },
+            { "en": "invent", "es": "inventar" },
+            { "en": "discover", "es": "descubrir" },
+            { "en": "test", "es": "probar / prueba" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Thomas Edison created the light bulb, a completely new device that did not exist before. What did he do?",
+          "options": ["He invented the light bulb.", "He sold the light bulb.", "He consumed the light bulb."],
+          "correct": 0,
+          "hint": "Es crear algo completamente nuevo que no existía antes.",
+          "explanation": "«Invent» (inventar) es crear algo completamente nuevo. «Sell» es vender y «consume» es consumir; ninguno describe la creación original de un objeto."
+        },
+        {
+          "type": "gap",
+          "text": "These products ___ sold all over the world every year.",
+          "options": ["are", "is", "was"],
+          "answer": "are",
+          "explanation": "«Products» es plural y la frase describe un hecho habitual en presente, por lo que se necesita «are». «Is» es singular y «was» es pasado; ninguno concuerda."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "deliver", "es": "entregar" },
+            { "en": "consume", "es": "consumir" },
+            { "en": "discover", "es": "descubrir" },
+            { "en": "test", "es": "probar / prueba" },
+            { "en": "sell", "es": "vender" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Before a new car model reaches customers, engineers check it carefully many times to make sure it is safe. What do they do to it?",
+          "options": ["They discover it.", "They deliver it.", "They test it."],
+          "correct": 2,
+          "hint": "Es comprobar que algo funciona correctamente antes de su lanzamiento.",
+          "explanation": "«Test» (probar) es comprobar que algo funciona correctamente antes de su lanzamiento. «Deliver» es entregarlo (después) y «discover» es descubrirlo; ninguno encaja con la verificación."
+        },
+        {
+          "type": "gap",
+          "text": "New medicines ___ tested for years before they reach the market.",
+          "options": ["are", "is", "was"],
+          "answer": "are",
+          "explanation": "«Medicines» es plural y la frase describe un proceso habitual en presente, por lo que se necesita «are». «Is» es singular y «was» es pasado; ninguno concuerda."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Fue descubierto por un científico",
+          "direction": "es-en",
+          "tiles": ["It", "was", "discovered", "by", "a", "scientist", "invented", "with"],
+          "answer": "It was discovered by a scientist",
+          "explanation": "«Discovered» es el participio de «discover». «By» introduce al agente (la persona), nunca «with». «Invented» es un participio de otro verbo, distractor."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El coche fue inventado hace mucho tiempo",
+          "direction": "es-en",
+          "tiles": ["The", "car", "was", "invented", "a", "long", "time", "ago", "discovered"],
+          "answer": "The car was invented a long time ago",
+          "explanation": "«Invented» es el participio de «invent». «Discovered» es el participio de otro verbo del mismo bloque, usado aquí como distractor."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los productos se venden en todo el mundo",
+          "direction": "es-en",
+          "tiles": ["The", "products", "are", "sold", "all", "over", "the", "world", "delivered"],
+          "answer": "The products are sold all over the world",
+          "explanation": "«Are sold» es la pasiva de presente simple plural de «sell». «Delivered» es el participio de otro verbo del bloque, usado como distractor."
+        },
+        {
+          "type": "speak",
+          "text": "Penicillin was discovered by Alexander Fleming.",
+          "es": "La penicilina fue descubierta por Alexander Fleming."
+        },
+        {
+          "type": "speak",
+          "text": "This device was invented many years ago.",
+          "es": "Este dispositivo fue inventado hace muchos años."
+        },
+        {
+          "type": "speak",
+          "text": "New products are tested before they are sold.",
+          "es": "Los productos nuevos se prueban antes de venderse."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Materiales y mejoras: by vs with",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "improve", "es": "mejorar" },
+            { "en": "upgrade", "es": "actualizar / mejora" },
+            { "en": "material", "es": "material" },
+            { "en": "steel", "es": "acero" },
+            { "en": "plastic", "es": "plástico" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Wood and steel are common materials that _______ to construct strong office buildings.",
+          "options": ["use", "is used", "are used"],
+          "correct": 2,
+          "hint": "El pronombre relativo «that» hace referencia a «materials», plural.",
+          "explanation": "El pronombre relativo «that» hace referencia a «materials» (plural), por lo que exige el verbo auxiliar plural «are» seguido del participio «used». «Is used» es singular y «use» es una forma activa; ninguna encaja."
+        },
+        {
+          "type": "gap",
+          "text": "The machine was built ___ steel and plastic.",
+          "options": ["with", "by", "for"],
+          "answer": "with",
+          "explanation": "«With» se usa para el material o instrumento empleado en la construcción. «By» se usa para el agente (persona) y «for» no encaja en esta estructura pasiva de material."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "upgrade", "es": "actualizar / mejora" },
+            { "en": "material", "es": "material" },
+            { "en": "steel", "es": "acero" },
+            { "en": "plastic", "es": "plástico" },
+            { "en": "wood", "es": "madera" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "This factory made its old machines faster and more efficient than before, without buying completely new ones. What did they do to the machines?",
+          "options": ["They upgraded them.", "They invented them.", "They discovered them."],
+          "correct": 0,
+          "hint": "Es hacer que algo funcione mejor sin sustituirlo por completo.",
+          "explanation": "«Upgrade» (actualizar/mejorar) es hacer que algo funcione mejor sin sustituirlo por completo. «Invent» es crear algo nuevo y «discover» es descubrir algo desconocido; ninguno describe una mejora técnica."
+        },
+        {
+          "type": "gap",
+          "text": "The bridge was designed ___ a famous architect, not by a machine.",
+          "options": ["by", "with", "for"],
+          "answer": "by",
+          "explanation": "«By» se usa para la persona o entidad que realiza la acción (el agente). «With» se usa para materiales o instrumentos y «for» no encaja aquí."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "improve", "es": "mejorar" },
+            { "en": "material", "es": "material" },
+            { "en": "plastic", "es": "plástico" },
+            { "en": "wood", "es": "madera" },
+            { "en": "upgrade", "es": "actualizar / mejora" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After customer complaints, the company made its product better in quality and performance. What did they do?",
+          "options": ["They packed it.", "They improved it.", "They shipped it."],
+          "correct": 1,
+          "hint": "Es hacer que algo sea de mejor calidad.",
+          "explanation": "«Improve» (mejorar) es hacer que algo sea de mejor calidad. «Pack» es empaquetar y «ship» es enviar; ninguno implica una mejora en la calidad del producto."
+        },
+        {
+          "type": "gap",
+          "text": "These products are made from durable ___ like steel and wood.",
+          "options": ["materials", "material", "materialize"],
+          "answer": "materials",
+          "explanation": "Tras «from durable» se necesita el sustantivo plural «materials» (materiales), ya que se enumeran varios tipos. «Material» es singular y «materialize» es un verbo; ninguno encaja aquí."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El edificio fue construido con acero",
+          "direction": "es-en",
+          "tiles": ["The", "building", "was", "built", "with", "steel", "by", "wood"],
+          "answer": "The building was built with steel",
+          "explanation": "«With» introduce el material empleado (acero), no el agente. «By» sería incorrecto aquí y «wood» es otro material, usado como distractor."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Fue diseñado por un ingeniero",
+          "direction": "es-en",
+          "tiles": ["It", "was", "designed", "by", "an", "engineer", "with", "material"],
+          "answer": "It was designed by an engineer",
+          "explanation": "«By» introduce al agente (la persona). «With» sería incorrecto aquí (se usa para materiales) y «material» es un distractor de otro campo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El plástico es un material ligero",
+          "direction": "es-en",
+          "tiles": ["Plastic", "is", "a", "light", "material", "steel", "wood"],
+          "answer": "Plastic is a light material",
+          "explanation": "«Material» es la palabra clave, y «plastic» es un ejemplo de material ligero. «Steel» y «wood» son otros materiales, usados como distractores."
+        },
+        {
+          "type": "speak",
+          "text": "This machine was built with steel and plastic.",
+          "es": "Esta máquina fue construida con acero y plástico."
+        },
+        {
+          "type": "speak",
+          "text": "The company upgraded all its old machines.",
+          "es": "La empresa actualizó todas sus máquinas antiguas."
+        },
+        {
+          "type": "speak",
+          "text": "Wood and steel are used to construct strong buildings.",
+          "es": "La madera y el acero se usan para construir edificios resistentes."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Reciclaje y energía: repaso final de la pasiva",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "chemical", "es": "sustancia química" },
+            { "en": "energy", "es": "energía" },
+            { "en": "power", "es": "energía / potencia" },
+            { "en": "fuel", "es": "combustible" },
+            { "en": "waste", "es": "residuos / desperdiciar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In modern industry, chemical waste _______ carefully before it is shipped to the recycle factory.",
+          "options": ["treats", "is treated", "was treated"],
+          "correct": 1,
+          "hint": "La frase describe un proceso habitual actual.",
+          "explanation": "La frase describe un proceso general actual («In modern industry») y el sujeto «chemical waste» es singular incontable, por lo que requiere el presente simple pasivo «is treated». «Treats» es una forma activa y «was treated» está en pasado, lo cual no encaja con el contexto habitual."
+        },
+        {
+          "type": "gap",
+          "text": "___ waste must be handled carefully to protect the workers' health.",
+          "options": ["Chemical", "Chemically", "Chemistry"],
+          "answer": "Chemical",
+          "explanation": "«Chemical» es el adjetivo «químico» que describe el tipo de residuo. «Chemically» es un adverbio y «chemistry» es un sustantivo distinto; ninguno encaja como adjetivo aquí."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "energy", "es": "energía" },
+            { "en": "power", "es": "energía / potencia" },
+            { "en": "fuel", "es": "combustible" },
+            { "en": "waste", "es": "residuos / desperdiciar" },
+            { "en": "recycle", "es": "reciclar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Many factories in the region were closed because too much energy _______ by outdated machines.",
+          "options": ["was consumed", "consumed", "were consumed"],
+          "correct": 0,
+          "hint": "«Energy» es un sustantivo incontable singular y la frase está en pasado.",
+          "explanation": "«Energy» es un sustantivo incontable singular. El tiempo de la frase principal está en pasado («were closed»), por lo que requiere el pasado pasivo singular «was consumed». «Consumed» sin auxiliar sería activo y «were consumed» no concuerda con el sujeto singular."
+        },
+        {
+          "type": "gap",
+          "text": "Old cars ___ recycled to protect the environment.",
+          "options": ["are", "is", "was"],
+          "answer": "are",
+          "explanation": "«Cars» es plural y la frase describe un hábito general en presente, por lo que se necesita «are». «Is» es singular y «was» es pasado; ninguno concuerda."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "chemical", "es": "sustancia química" },
+            { "en": "power", "es": "energía / potencia" },
+            { "en": "waste", "es": "residuos / desperdiciar" },
+            { "en": "recycle", "es": "reciclar" },
+            { "en": "energy", "es": "energía" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "This ecological project was successful because all the plastic bottles _______ by local students.",
+          "options": ["recycled", "are recycled", "were recycled"],
+          "correct": 2,
+          "hint": "El sujeto es plural y la acción ya ocurrió, según indica «was successful».",
+          "explanation": "El sujeto «all the plastic bottles» es plural y la acción ocurrió en el pasado (según indica «was successful»), por lo que «were recycled» es gramaticalmente correcta. «Recycled» sin auxiliar sería activo y «are recycled» está en presente, lo cual no encaja con el contexto pasado."
+        },
+        {
+          "type": "gap",
+          "text": "This old machine wastes a lot of ___ every day.",
+          "options": ["energy", "waste", "chemical"],
+          "answer": "energy",
+          "explanation": "«Energy» es la energía que se consume o desperdicia. «Waste» es el verbo/sustantivo de desperdiciar y «chemical» no encaja; «energy» es la respuesta lógica tras «a lot of»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los residuos químicos se reciclan",
+          "direction": "es-en",
+          "tiles": ["The", "chemical", "waste", "is", "recycled", "are", "energy"],
+          "answer": "The chemical waste is recycled",
+          "explanation": "«Chemical waste» es singular incontable, por lo que usa «is». «Are» sería incorrecto y «energy» es un distractor de otro sustantivo del bloque."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La energía fue consumida por máquinas antiguas",
+          "direction": "es-en",
+          "tiles": ["The", "energy", "was", "consumed", "by", "old", "machines", "with", "power"],
+          "answer": "The energy was consumed by old machines",
+          "explanation": "«Was consumed» es la pasiva de pasado simple singular, concordando con «energy» (incontable). «With» sería incorrecto para el agente (se usa «by») y «power» es un distractor de otro sustantivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las botellas fueron recicladas por estudiantes",
+          "direction": "es-en",
+          "tiles": ["The", "bottles", "were", "recycled", "by", "students", "was", "with"],
+          "answer": "The bottles were recycled by students",
+          "explanation": "«Were recycled» es la pasiva de pasado simple plural, concordando con «bottles». «Was» es singular y «with» sería incorrecto para el agente; ambos son distractores."
+        },
+        {
+          "type": "speak",
+          "text": "Chemical waste is treated carefully in this factory.",
+          "es": "Los residuos químicos se tratan con cuidado en esta fábrica."
+        },
+        {
+          "type": "speak",
+          "text": "A lot of energy was consumed by old machines.",
+          "es": "Se consumió mucha energía por culpa de máquinas antiguas."
+        },
+        {
+          "type": "speak",
+          "text": "All the plastic bottles were recycled by local students.",
+          "es": "Todas las botellas de plástico fueron recicladas por estudiantes locales."
+        }
+      ]
+    }
+  ]
+}

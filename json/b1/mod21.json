@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod21",
+  "module": 21,
+  "title": "Reported Speech: Pronoun & Deictic Changes",
+  "subtitle": "Reported Speech: Deícticos",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Cambiando de perspectiva: pronombres, aquí y ahora",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "here", "es": "aquí" },
+            { "en": "there", "es": "allí" },
+            { "en": "now", "es": "ahora" },
+            { "en": "then", "es": "entonces" },
+            { "en": "today", "es": "hoy" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Mary called at noon and said, 'I am working from home now.' Later that day, a colleague reports what she said. How is 'now' correctly reported?",
+          "options": ["Mary said she was working from home then.", "Mary said she was working from home now.", "Mary said she was working from home here."],
+          "correct": 0,
+          "hint": "El adverbio «now» cambia a «then» cuando reportamos un hecho pasado.",
+          "explanation": "En estilo indirecto, «now» cambia a «then» (o «at that moment») cuando reportamos un hecho pasado. «Now» sugeriría que ocurre en este mismo instante, y «here» es un deíctico de lugar, no de tiempo."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I left my bag here,' Mark said. Reported: Mark said that he had left his bag ___.",
+          "options": ["there", "here", "then"],
+          "answer": "there",
+          "explanation": "«Here» cambia a «there» en estilo indirecto para marcar la distancia espacial respecto al lugar original."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "there", "es": "allí" },
+            { "en": "now", "es": "ahora" },
+            { "en": "then", "es": "entonces" },
+            { "en": "today", "es": "hoy" },
+            { "en": "that day", "es": "ese día" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "On Monday morning, John said, 'I'm meeting the manager today.' A friend reports this on Wednesday, two days later. How should 'today' be reported?",
+          "options": ["John said he was meeting the manager today.", "John said he was meeting the manager that day.", "John said he was meeting the manager then."],
+          "correct": 1,
+          "hint": "«Today» cambia a «that day» cuando el reporte ocurre en un día distinto.",
+          "explanation": "«Today» cambia a «that day» en estilo indirecto cuando reportamos en un día diferente al original. «Today» sin cambiar sería incorrecto, y «then» sustituye a «now», no a «today»."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I left my phone on your desk,' Mark said to Sarah. Reported: Mark told Sarah that he had left his phone on ___ desk.",
+          "options": ["her", "your", "my"],
+          "answer": "her",
+          "explanation": "«Your» (de Sarah) se convierte en «her» porque quien reporta ahora es un tercero, no Mark ni Sarah. El pronombre cambia según la perspectiva de quien informa."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "here", "es": "aquí" },
+            { "en": "now", "es": "ahora" },
+            { "en": "then", "es": "entonces" },
+            { "en": "today", "es": "hoy" },
+            { "en": "that day", "es": "ese día" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Someone calls you from a different city and says, 'I am sitting in the kitchen here.' When you report this later, from your own location elsewhere, how should 'here' be reported?",
+          "options": ["He said he was sitting in the kitchen now.", "He said he was sitting in the kitchen today.", "He said he was sitting in the kitchen there."],
+          "correct": 2,
+          "hint": "«Here» cambia a «there» a menos que el reportero esté en el mismo lugar.",
+          "explanation": "«Here» cambia a «there» para indicar la distancia espacial respecto al lugar original, salvo que el reportero esté físicamente en el mismo sitio. «Now» y «today» son deícticos de tiempo, no de lugar."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I will call you today,' he said in the morning. If you report it later that same day, you can say: He said he would call me ___.",
+          "options": ["today", "that day", "then"],
+          "answer": "today",
+          "explanation": "Si el reporte ocurre el mismo día que la frase original, «today» no necesita cambiar; sigue refiriéndose al mismo día."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dijo que estaba allí entonces",
+          "direction": "es-en",
+          "tiles": ["He", "said", "he", "was", "there", "then", "here", "now"],
+          "answer": "He said he was there then",
+          "explanation": "«There» y «then» son los deícticos que sustituyen a «here» y «now» en estilo indirecto. «Here» y «now» son los distractores de la forma original."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella dijo que estaba trabajando ese día",
+          "direction": "es-en",
+          "tiles": ["She", "said", "she", "was", "working", "that", "day", "today", "now"],
+          "answer": "She said she was working that day",
+          "explanation": "«That day» sustituye a «today» en estilo indirecto. «Today» y «now» son distractores de la forma original en estilo directo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dejó su bolsa allí",
+          "direction": "es-en",
+          "tiles": ["He", "left", "his", "bag", "there", "here", "now"],
+          "answer": "He left his bag there",
+          "explanation": "«There» sustituye a «here» en estilo indirecto para marcar la distancia respecto al lugar original."
+        },
+        {
+          "type": "speak",
+          "text": "Mary said she was working from home then.",
+          "es": "Mary dijo que estaba trabajando desde casa entonces."
+        },
+        {
+          "type": "speak",
+          "text": "John said he was meeting the manager that day.",
+          "es": "John dijo que se reunía con el jefe ese día."
+        },
+        {
+          "type": "speak",
+          "text": "He said he had left his phone on her desk.",
+          "es": "Dijo que había dejado su teléfono en el escritorio de ella."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Ayer y mañana: los deícticos temporales cambian de día",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "tonight", "es": "esta noche" },
+            { "en": "that night", "es": "esa noche" },
+            { "en": "yesterday", "es": "ayer" },
+            { "en": "the day before", "es": "el día anterior" },
+            { "en": "tomorrow", "es": "mañana" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "On Tuesday, Anna said, 'I received the package yesterday.' A colleague reports this conversation on Thursday. How should 'yesterday' be reported?",
+          "options": ["Anna said she had received the package the day before.", "Anna said she had received the package yesterday.", "Anna said she had received the package that night."],
+          "correct": 0,
+          "hint": "«Yesterday» cambia a «the day before» o «the previous day» en estilo indirecto.",
+          "explanation": "«Yesterday» se transforma en «the day before» (o «the previous day») cuando reportamos en un momento distinto. Mantenerlo sin cambiar es un error típico de examen, y «that night» es el deíctico de «tonight», no de «yesterday»."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I will send the email tomorrow,' he said on Monday. Reported a week later: He said he would send the email ___.",
+          "options": ["the next day", "tomorrow", "today"],
+          "answer": "the next day",
+          "explanation": "«Tomorrow» cambia a «the next day» (o «the following day») en estilo indirecto, ya que el «mañana» original ya pasó."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "that night", "es": "esa noche" },
+            { "en": "yesterday", "es": "ayer" },
+            { "en": "the day before", "es": "el día anterior" },
+            { "en": "tomorrow", "es": "mañana" },
+            { "en": "the next day", "es": "el día siguiente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "On Friday evening, Tom said, 'I'm going to a party tonight.' A friend reports this the following week. How should 'tonight' be reported?",
+          "options": ["Tom said he was going to a party tomorrow.", "Tom said he was going to a party that night.", "Tom said he was going to a party tonight."],
+          "correct": 1,
+          "hint": "«Tonight» cambia a «that night» cuando el reporte ocurre en otro momento.",
+          "explanation": "«Tonight» se transforma en «that night» en estilo indirecto. «Tomorrow» es un deíctico distinto, y mantener «tonight» sin cambiar rompería la perspectiva temporal del reporte."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'The concert is tomorrow,' she said on Monday. Reported: She said the concert was ___.",
+          "options": ["the next day", "tomorrow", "yesterday"],
+          "answer": "the next day",
+          "explanation": "«Tomorrow» cambia a «the next day» en estilo indirecto, para mantener la referencia correcta respecto al momento original."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "tonight", "es": "esta noche" },
+            { "en": "yesterday", "es": "ayer" },
+            { "en": "the day before", "es": "el día anterior" },
+            { "en": "tomorrow", "es": "mañana" },
+            { "en": "the next day", "es": "el día siguiente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "David said on Sunday, 'I'll finish the report tomorrow.' Someone reports what he said on Wednesday of the same week. How should 'tomorrow' be reported?",
+          "options": ["David said he would finish the report tomorrow.", "David said he would finish the report yesterday.", "David said he would finish the report the next day."],
+          "correct": 2,
+          "hint": "«Tomorrow» cambia a «the next day» o «the following day» al reportar en otro momento.",
+          "explanation": "«Tomorrow» se transforma en «the next day» (o «the following day») en estilo indirecto. Mantenerlo igual sería incorrecto, y «yesterday» tiene el sentido opuesto."
+        },
+        {
+          "type": "gap",
+          "text": "She said she had a meeting ___, referring to the night of the original conversation.",
+          "options": ["that night", "tonight", "the next day"],
+          "answer": "that night",
+          "explanation": "«That night» sustituye a «tonight» en estilo indirecto, marcando la distancia temporal respecto al momento original."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dijo que lo enviaría al día siguiente",
+          "direction": "es-en",
+          "tiles": ["He", "said", "he", "would", "send", "it", "the", "next", "day", "tomorrow", "yesterday"],
+          "answer": "He said he would send it the next day",
+          "explanation": "«The next day» sustituye a «tomorrow» en estilo indirecto. «Tomorrow» y «yesterday» son distractores de la forma original y del sentido opuesto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dijo que lo había recibido el día anterior",
+          "direction": "es-en",
+          "tiles": ["She", "said", "she", "had", "received", "it", "the", "day", "before", "yesterday", "tomorrow"],
+          "answer": "She said she had received it the day before",
+          "explanation": "«The day before» sustituye a «yesterday» en estilo indirecto. «Yesterday» y «tomorrow» son distractores de la forma original y del sentido opuesto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Iba a una fiesta esa noche",
+          "direction": "es-en",
+          "tiles": ["He", "was", "going", "to", "a", "party", "that", "night", "tonight", "tomorrow"],
+          "answer": "He was going to a party that night",
+          "explanation": "«That night» sustituye a «tonight» en estilo indirecto. «Tonight» y «tomorrow» son distractores de otros deícticos temporales."
+        },
+        {
+          "type": "speak",
+          "text": "Anna said she had received the package the day before.",
+          "es": "Anna dijo que había recibido el paquete el día anterior."
+        },
+        {
+          "type": "speak",
+          "text": "Tom said he was going to a party that night.",
+          "es": "Tom dijo que iba a una fiesta esa noche."
+        },
+        {
+          "type": "speak",
+          "text": "David said he would finish the report the next day.",
+          "es": "David dijo que terminaría el informe al día siguiente."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Hace tiempo y el mes que viene: ago, before y las referencias largas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "ago", "es": "hace (tiempo)" },
+            { "en": "before", "es": "antes" },
+            { "en": "last week", "es": "la semana pasada" },
+            { "en": "the previous week", "es": "la semana anterior" },
+            { "en": "next month", "es": "el próximo mes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The secretary originally said, 'I received your letter three days ago.' A colleague reports this conversation later that week. How should 'three days ago' be reported?",
+          "options": ["The secretary told me that she had received my letter three days before.", "The secretary told me that she had received my letter three days ago.", "The secretary told me that she had received my letter three days then."],
+          "correct": 0,
+          "hint": "«Ago» cambia sistemáticamente a «before» o «earlier» en estilo indirecto.",
+          "explanation": "«Ago» no se conserva en estilo indirecto; cambia a «before» (o «earlier»). «Then» es el sustituto de «now», no de «ago», así que no encaja aquí."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I finished the project a week ago,' he said. Reported: He said he had finished the project a week ___.",
+          "options": ["before", "ago", "then"],
+          "answer": "before",
+          "explanation": "«Ago» cambia a «before» (o «earlier») en las cláusulas de estilo indirecto, manteniendo la perspectiva temporal coherente."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "before", "es": "antes" },
+            { "en": "last week", "es": "la semana pasada" },
+            { "en": "the previous week", "es": "la semana anterior" },
+            { "en": "next month", "es": "el próximo mes" },
+            { "en": "the following month", "es": "el mes siguiente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "On a Monday, Laura said, 'I visited my parents last week.' A friend reports this conversation the following month. How should 'last week' be reported?",
+          "options": ["Laura said she had visited her parents last week.", "Laura said she had visited her parents the previous week.", "Laura said she had visited her parents the following week."],
+          "correct": 1,
+          "hint": "«Last week» cambia a «the previous week» o «the week before» en estilo indirecto.",
+          "explanation": "«Last week» se transforma en «the previous week» (o «the week before») en estilo indirecto. Mantenerlo igual pierde la referencia correcta, y «the following week» tendría sentido de futuro, opuesto al original."
+        },
+        {
+          "type": "gap",
+          "text": "He said he had called the office ___, referring to the week before our conversation.",
+          "options": ["the previous week", "last week", "next month"],
+          "answer": "the previous week",
+          "explanation": "«The previous week» sustituye a «last week» en estilo indirecto, marcando la referencia retrospectiva correcta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "ago", "es": "hace (tiempo)" },
+            { "en": "last week", "es": "la semana pasada" },
+            { "en": "the previous week", "es": "la semana anterior" },
+            { "en": "next month", "es": "el próximo mes" },
+            { "en": "the following month", "es": "el mes siguiente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Last week, the manager confirmed, 'We will discuss the email next month.' Someone reports this conversation today. How should 'next month' be reported?",
+          "options": ["The manager confirmed that they would discuss the email next month.", "The manager confirmed that they would discuss the email the month before.", "The manager confirmed that they would discuss the email the following month."],
+          "correct": 2,
+          "hint": "«Next month» cambia a «the following month» o «the next month» cuando el verbo de reporte está en pasado.",
+          "explanation": "«Next month» se convierte en «the following month» (o «the next month») al reportar desde otro momento. Mantenerlo igual pierde la referencia correcta, y «the month before» invierte el sentido, indicando pasado en vez de futuro."
+        },
+        {
+          "type": "gap",
+          "text": "In her report, she wrote that the meeting had taken place two months ___.",
+          "options": ["before", "ago", "then"],
+          "answer": "before",
+          "explanation": "En un contexto de estilo indirecto, «ago» debe cambiarse a «before» para mantener la perspectiva temporal coherente."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dijo que lo había terminado antes",
+          "direction": "es-en",
+          "tiles": ["He", "said", "he", "had", "finished", "it", "before", "ago", "then"],
+          "answer": "He said he had finished it before",
+          "explanation": "«Before» sustituye a «ago» en estilo indirecto. «Ago» y «then» son distractores de otros deícticos temporales."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dijo que había sido la semana anterior",
+          "direction": "es-en",
+          "tiles": ["She", "said", "it", "had", "been", "the", "previous", "week", "last", "next"],
+          "answer": "She said it had been the previous week",
+          "explanation": "«The previous week» sustituye a «last week» en estilo indirecto. «Last» y «next» son distractores de otras referencias temporales."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Confirmó que sería el mes siguiente",
+          "direction": "es-en",
+          "tiles": ["He", "confirmed", "it", "would", "be", "the", "following", "month", "next", "before"],
+          "answer": "He confirmed it would be the following month",
+          "explanation": "«The following month» sustituye a «next month» en estilo indirecto. «Next» y «before» son distractores de otras referencias temporales."
+        },
+        {
+          "type": "speak",
+          "text": "The secretary told me that she had received my letter three days before.",
+          "es": "La secretaria me dijo que había recibido mi carta tres días antes."
+        },
+        {
+          "type": "speak",
+          "text": "Laura said she had visited her parents the previous week.",
+          "es": "Laura dijo que había visitado a sus padres la semana anterior."
+        },
+        {
+          "type": "speak",
+          "text": "The manager confirmed that they would discuss the email the following month.",
+          "es": "El jefe confirmó que discutirían el correo el mes siguiente."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Este y aquel: los demostrativos y los lugares",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "this", "es": "este/esto" },
+            { "en": "that", "es": "ese/eso" },
+            { "en": "these", "es": "estos" },
+            { "en": "those", "es": "esos" },
+            { "en": "flat", "es": "piso/apartamento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "On Tuesday, John said, 'I left my keys on this desk yesterday.' A colleague reports this conversation on Wednesday. Which pair of words correctly completes: 'John said that he had left his keys on ___ desk ___'?",
+          "options": ["this / the day before", "that / the day before", "that / yesterday"],
+          "correct": 1,
+          "hint": "Ambos deícticos cambian: el demostrativo de cercanía y el marcador temporal.",
+          "explanation": "«This» cambia a «that» (distancia) y «yesterday» cambia a «the day before» (o «the previous day»). La primera opción no cambia el demostrativo, y la tercera no cambia el marcador temporal; ambos son errores típicos de examen."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'We must move these desks out of the office,' she ordered. Reported: She ordered them to move ___ desks out of the office.",
+          "options": ["those", "these", "that"],
+          "answer": "those",
+          "explanation": "«These» cambia a «those» en estilo indirecto, el demostrativo plural que refleja la distancia respecto al momento original."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "that", "es": "ese/eso" },
+            { "en": "these", "es": "estos" },
+            { "en": "those", "es": "esos" },
+            { "en": "flat", "es": "piso/apartamento" },
+            { "en": "office", "es": "oficina" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Laura pointed at some documents right next to her and said, 'I need these files today.' A colleague reports this the next day, from a different room. How should 'these' be reported?",
+          "options": ["Laura said she needed this files that day.", "Laura said she needed these files that day.", "Laura said she needed those files that day."],
+          "correct": 2,
+          "hint": "El demostrativo plural de cercanía cambia a su forma de lejanía.",
+          "explanation": "«These» cambia a «those» en estilo indirecto, reflejando la distancia respecto al momento y lugar originales. «This files» es incorrecto porque «this» es singular y no concuerda con «files» (plural)."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'This is a great flat,' he said. Reported: He said ___ was a great flat.",
+          "options": ["it", "this", "these"],
+          "answer": "it",
+          "explanation": "Cuando «this» se refiere a una idea abstracta completa (no a un objeto físico), suele convertirse en «it» en estilo indirecto, que suena más natural que «that»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "this", "es": "este/esto" },
+            { "en": "these", "es": "estos" },
+            { "en": "those", "es": "esos" },
+            { "en": "flat", "es": "piso/apartamento" },
+            { "en": "office", "es": "oficina" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Standing in her new apartment for the first time, Sarah said, 'I really like this flat.' Her friend reports the comment later, from outside the building. How should 'this flat' be reported?",
+          "options": ["Sarah said she really liked that flat.", "Sarah said she really liked this flat.", "Sarah said she really liked these flats."],
+          "correct": 0,
+          "hint": "El demostrativo de cercanía cambia a su forma de lejanía en estilo indirecto.",
+          "explanation": "«This» cambia a «that» en estilo indirecto, ya que el piso ya no está psicológicamente «cerca» de quien reporta. «These flats» es plural, y no concuerda con «flat» en singular."
+        },
+        {
+          "type": "gap",
+          "text": "She works in a small ___ in the city centre, on the fifth floor.",
+          "options": ["office", "flat", "desk"],
+          "answer": "office",
+          "explanation": "«Office» es «oficina», el lugar de trabajo. «Flat» es una vivienda y «desk» es un escritorio; ninguno encaja con «works in»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dijo que era un piso estupendo",
+          "direction": "es-en",
+          "tiles": ["He", "said", "it", "was", "a", "great", "flat", "this", "that"],
+          "answer": "He said it was a great flat",
+          "explanation": "«It» sustituye a «this» cuando se refiere a una idea abstracta completa. «This» y «that» son distractores de la forma original en estilo directo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ordenó mover esas cajas",
+          "direction": "es-en",
+          "tiles": ["She", "ordered", "them", "to", "move", "those", "boxes", "these", "that"],
+          "answer": "She ordered them to move those boxes",
+          "explanation": "«Those» sustituye a «these» en estilo indirecto. «These» y «that» son distractores de otros demostrativos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Le gustaba esa oficina",
+          "direction": "es-en",
+          "tiles": ["She", "liked", "that", "office", "this", "flat"],
+          "answer": "She liked that office",
+          "explanation": "«That» es el demostrativo de lejanía usado en estilo indirecto. «This» y «flat» son distractores de otras palabras del bloque."
+        },
+        {
+          "type": "speak",
+          "text": "John said that he had left his keys on that desk the day before.",
+          "es": "John dijo que había dejado las llaves en aquel escritorio el día anterior."
+        },
+        {
+          "type": "speak",
+          "text": "She ordered them to move those desks out of the office.",
+          "es": "Ordenó que sacaran aquellos escritorios de la oficina."
+        },
+        {
+          "type": "speak",
+          "text": "Sarah said she really liked that flat.",
+          "es": "Sarah dijo que le gustaba mucho aquel piso."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Mensajes y llamadas: repaso final de los deícticos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "desk", "es": "escritorio" },
+            { "en": "phone", "es": "teléfono" },
+            { "en": "email", "es": "correo electrónico" },
+            { "en": "letter", "es": "carta" },
+            { "en": "message", "es": "mensaje" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The officer looked at some devices right in front of him and said, 'These phones are not working.' A journalist reports this the next day. Which word correctly completes: 'The officer said that ___ phones were not working'?",
+          "options": ["these", "this", "those"],
+          "correct": 2,
+          "hint": "El demostrativo plural de cercanía cambia a su forma de lejanía en estilo indirecto.",
+          "explanation": "«These» cambia a «those» en estilo indirecto. «This» es singular y no concuerda con «phones» (plural), y mantener «these» no marca la distancia requerida por el cambio de perspectiva."
+        },
+        {
+          "type": "gap",
+          "text": "Direct: 'I am sitting in the flat here,' he called. Reported: He called and said he was sitting in the flat ___.",
+          "options": ["there", "here", "now"],
+          "answer": "there",
+          "explanation": "«Here» cambia a «there» en estilo indirecto, marcando la distancia espacial respecto al lugar original."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "phone", "es": "teléfono" },
+            { "en": "email", "es": "correo electrónico" },
+            { "en": "letter", "es": "carta" },
+            { "en": "message", "es": "mensaje" },
+            { "en": "call", "es": "llamada/llamar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If you are standing in the very same office where a colleague said, 'I want to work here,' and you report her words a minute later without moving, which sentence is correct?",
+          "options": ["She said she wanted to work here.", "She said she wanted to work there.", "She said she wanted to work then."],
+          "correct": 0,
+          "hint": "Piensa en la excepción: si el lugar no ha cambiado, el deíctico tampoco cambia.",
+          "explanation": "Si el reportero está físicamente en el mismo lugar donde se dijo la frase original, «here» no cambia. Cambiarlo a «there» sería incorrecto en este contexto, y «then» es un deíctico de tiempo, no de lugar."
+        },
+        {
+          "type": "gap",
+          "text": "He said he would call me today, and since it is still the same day, we can say: He said he would call me ___.",
+          "options": ["today", "that day", "then"],
+          "answer": "today",
+          "explanation": "Si el reporte ocurre el mismo día que la frase original, «today» no necesita cambiar."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "desk", "es": "escritorio" },
+            { "en": "email", "es": "correo electrónico" },
+            { "en": "letter", "es": "carta" },
+            { "en": "message", "es": "mensaje" },
+            { "en": "call", "es": "llamada/llamar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Two days after receiving a written note from her boss, an employee reports what it said to a colleague. Which word best describes the physical object she received?",
+          "options": ["a call", "a letter", "a phone"],
+          "correct": 1,
+          "hint": "Es el objeto físico de papel que se recibe por correo postal.",
+          "explanation": "«Letter» es «carta», un objeto físico de papel. «Call» es una llamada (no un objeto que se recibe por correo) y «phone» es el aparato telefónico."
+        },
+        {
+          "type": "gap",
+          "text": "She checked her ___ and found three new messages from her boss.",
+          "options": ["phone", "letter", "desk"],
+          "answer": "phone",
+          "explanation": "«Phone» es el teléfono donde se reciben mensajes. «Letter» es una carta física y «desk» es un escritorio; ninguno encaja aquí."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dejó un mensaje en el teléfono",
+          "direction": "es-en",
+          "tiles": ["He", "left", "a", "message", "on", "the", "phone", "letter", "call"],
+          "answer": "He left a message on the phone",
+          "explanation": "«Message» y «phone» son las palabras clave. «Letter» y «call» son distractores del mismo campo semántico de la comunicación."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Recibió una carta ayer",
+          "direction": "es-en",
+          "tiles": ["She", "received", "a", "letter", "yesterday", "email", "message"],
+          "answer": "She received a letter yesterday",
+          "explanation": "«Letter» es «carta». «Email» y «message» son distractores del mismo campo semántico de la comunicación."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Le devolveré la llamada mañana",
+          "direction": "es-en",
+          "tiles": ["I", "will", "call", "her", "back", "tomorrow", "phone", "email"],
+          "answer": "I will call her back tomorrow",
+          "explanation": "«Call» es «llamar». «Phone» y «email» son distractores del mismo campo semántico de la comunicación."
+        },
+        {
+          "type": "speak",
+          "text": "The officer said that those phones were not working.",
+          "es": "El oficial dijo que aquellos teléfonos no funcionaban."
+        },
+        {
+          "type": "speak",
+          "text": "She said she wanted to work here, in this office.",
+          "es": "Dijo que quería trabajar aquí, en esta oficina."
+        },
+        {
+          "type": "speak",
+          "text": "He left a message on her phone.",
+          "es": "Dejó un mensaje en su teléfono."
+        }
+      ]
+    }
+  ]
+}

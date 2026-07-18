@@ -12,12 +12,11 @@ manifiesto y clave de progreso):
 
 ## Estado del prototipo
 
-**Inglés A1 y A2 — completos con el esquema de 5 subniveles**: 50 módulos × 75 ejercicios
-(3.750 ejercicios). **Inglés B1** — mods 1-15 ya generados con subniveles (1.125 ejercicios,
-creados desde cero, no convertidos — B1 no tenía contenido previo), mods 16-25 pendientes.
-B2-C2 visibles pero bloqueados. **Latín** — A1 completo con el esquema plano (25 módulos × 30),
-A2-C2 visibles pero bloqueados (A2/B1/B2 ya tienen los libros fuente escritos; C1/C2 aún no
-están completos en origen).
+**Inglés A1, A2 y B1 — completos con el esquema de 5 subniveles**: 75 módulos × 75 ejercicios
+(5.625 ejercicios). B1 se generó desde cero (no había contenido previo, a diferencia de A1/A2
+que partían de un esquema plano ya escrito). B2-C2 visibles pero bloqueados.
+**Latín** — A1 completo con el esquema plano (25 módulos × 30), A2-C2 visibles pero bloqueados
+(A2/B1/B2 ya tienen los libros fuente escritos; C1/C2 aún no están completos en origen).
 
 - ✅ Mapa del curso con nodos en serpentina y desbloqueo encadenado también ENTRE niveles y
   ENTRE subniveles (p. ej. A2-mod01.1 exige completar el subnivel 25.5 de A1; B1-mod01.1
@@ -26,7 +25,7 @@ están completos en origen).
   traducción/construcción con banco de palabras y **lectura en voz alta** (Web Speech API,
   con botón de omitir)
 - ✅ **Módulos subdivididos en 5 subniveles** (banco de 15 ejercicios cada uno, 3 por tipo,
-  sesión de 10) — esquema completo en **Inglés A1, A2 y B1 (mods 1-15)**. **Latín A1** sigue
+  sesión de 10) — esquema completo en **Inglés A1, A2 y B1**. **Latín A1** sigue
   con el esquema plano de 30 ejercicios / sesión de 12; ambos esquemas conviven sin problema
   dentro del mismo curso. Ver «Esquema de subniveles» más abajo.
 - ✅ **Aprendizaje continuado (repaso espaciado):** ~3 de los 12 ejercicios de cada lección se inyectan

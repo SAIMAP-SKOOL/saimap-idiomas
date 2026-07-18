@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod25",
+  "module": 25,
+  "title": "Review and Consolidation B1",
+  "subtitle": "Repaso y Consolidación B1",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Pasados narrativos: Past Perfect, Used to / Would y Present Perfect Continuous",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "had", "es": "había" },
+            { "en": "gone", "es": "ido" },
+            { "en": "escaped", "es": "escapado" },
+            { "en": "forgotten", "es": "olvidado" },
+            { "en": "already", "es": "ya" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When the detective arrived, the suspect ___ already left the building.",
+          "options": ["has", "had", "was"],
+          "correct": 1,
+          "hint": "El detective llegó (pasado) y el sospechoso ya se había ido antes de eso: anterioridad.",
+          "explanation": "«Had» marca la anterioridad del Past Perfect: la huida ocurrió antes de la llegada del detective. «Has» rompe la concordancia con el pasado «arrived» y «was» crearía una estructura sin sentido junto a «left»."
+        },
+        {
+          "type": "gap",
+          "text": "By the time the police arrived, the thief ___ the money.",
+          "options": ["stole", "had stolen", "has stolen"],
+          "answer": "had stolen",
+          "explanation": "«By the time» exige Past Perfect en la acción anterior: el robo ocurrió antes de la llegada de la policía. «Stole» rompería la secuencia lógica y «has stolen» no concuerda con el marco pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "used to", "es": "solía" },
+            { "en": "would", "es": "solía (hábito)" },
+            { "en": "childhood", "es": "infancia" },
+            { "en": "habit", "es": "hábito" },
+            { "en": "grandma", "es": "abuela" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When she was a teenager, she ___ write letters instead of emails.",
+          "options": ["used to", "didn't used to", "uses to"],
+          "correct": 0,
+          "hint": "Es un hábito del pasado que ya no existe.",
+          "explanation": "«Used to» expresa un hábito pasado ya desaparecido. «Didn't used to» conserva erróneamente la «-d» tras el auxiliar negativo «didn't», y «uses to» no existe en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "___ you use to spend your summers at your grandparents' farm?",
+          "options": ["Did", "Was", "Have"],
+          "answer": "Did",
+          "explanation": "Las preguntas sobre hábitos pasados con «used to» se forman con el auxiliar «did», y el verbo pierde la «-d» final: «Did you use to...?»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "since", "es": "desde" },
+            { "en": "for", "es": "durante" },
+            { "en": "been", "es": "sido / estado" },
+            { "en": "waiting", "es": "esperando" },
+            { "en": "exhausted", "es": "agotado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You look exhausted! What ___ doing all afternoon?",
+          "options": ["did you", "you have been", "have you been"],
+          "correct": 2,
+          "hint": "El cansancio actual es evidencia de un proceso reciente: pregunta con inversión.",
+          "explanation": "El Present Perfect Continuous («have you been doing») conecta el proceso reciente con el resultado visible en el presente («exhausted»). «Did you» pierde esa conexión y «you have been» no invierte sujeto-auxiliar para formar la pregunta."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ for the train since 4 o'clock, and it still hasn't arrived.",
+          "options": ["have been waiting", "are waiting", "have waited"],
+          "answer": "have been waiting",
+          "explanation": "«Since 4 o'clock» señala el inicio de un proceso inconcluso: se necesita el Present Perfect Continuous. El Present Continuous no admite marcadores de duración con «since», y «have waited» resta énfasis al proceso aún en curso."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella solía vivir en un pueblo pequeño",
+          "direction": "es-en",
+          "tiles": ["She", "used", "to", "live", "in", "a", "small", "village", "would"],
+          "answer": "She used to live in a small village",
+          "explanation": "«Live» es un verbo de estado, así que solo admite «used to», nunca «would», que se reserva para acciones repetidas observables."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Llevamos esperando el tren desde las cuatro",
+          "direction": "es-en",
+          "tiles": ["We", "have", "been", "waiting", "for", "the", "train", "since", "four", "o'clock", "has"],
+          "answer": "We have been waiting for the train since four o'clock",
+          "explanation": "La estructura española «llevar + gerundio» se traduce con Present Perfect Continuous: «have been waiting», nunca con el verbo «carry»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Cuando llegamos, el ladrón ya se había escapado",
+          "direction": "es-en",
+          "tiles": ["When", "we", "arrived", "the", "thief", "had", "already", "escaped", "has", "was"],
+          "answer": "When we arrived the thief had already escaped",
+          "explanation": "La huida ocurrió antes de nuestra llegada: se necesita el Past Perfect «had escaped», con «already» colocado entre el auxiliar y el participio."
+        },
+        {
+          "type": "speak",
+          "text": "I had already left when she called.",
+          "es": "Ya me había ido cuando ella llamó."
+        },
+        {
+          "type": "speak",
+          "text": "We used to visit our grandparents every summer.",
+          "es": "Solíamos visitar a nuestros abuelos cada verano."
+        },
+        {
+          "type": "speak",
+          "text": "I've been studying English for three hours.",
+          "es": "Llevo estudiando inglés tres horas."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Condicionales: Zero, First, Second y Third Conditional",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "if", "es": "si" },
+            { "en": "unless", "es": "a menos que" },
+            { "en": "rain", "es": "llover" },
+            { "en": "boil", "es": "hervir" },
+            { "en": "ice", "es": "hielo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If you heat ice, it ___.",
+          "options": ["will melt", "would melt", "melts"],
+          "correct": 2,
+          "hint": "Es una ley física universal: piensa en el Zero Conditional.",
+          "explanation": "Al tratarse de un hecho científico siempre verdadero, ambas cláusulas van en presente simple: «it melts». «Will melt» sería First Conditional y «would melt» sugeriría una hipótesis irreal, no una ley física."
+        },
+        {
+          "type": "gap",
+          "text": "We will not go to the beach tomorrow ___ the weather improves.",
+          "options": ["in case", "unless", "if"],
+          "answer": "unless",
+          "explanation": "«Unless» significa «a menos que»: no iremos a la playa a menos que el tiempo mejore. Con «if» el sentido de la frase se invertiría por completo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "win", "es": "ganar" },
+            { "en": "lottery", "es": "lotería" },
+            { "en": "rich", "es": "rico" },
+            { "en": "were", "es": "fuera / fuese" },
+            { "en": "could", "es": "podría" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If I ___ the lottery, I would travel around the world.",
+          "options": ["win", "won", "will win"],
+          "correct": 1,
+          "hint": "Es una situación hipotética e improbable: Second Conditional.",
+          "explanation": "El Second Conditional exige pasado simple en la condición («won») combinado con «would» en el resultado. «Win» crearía un First Conditional incompatible con «would», y «will win» nunca puede ir tras «if»."
+        },
+        {
+          "type": "gap",
+          "text": "If I ___ you, I would accept that job offer.",
+          "options": ["was", "were", "am"],
+          "answer": "were",
+          "explanation": "En el registro formal del examen, «were» sustituye a «was» para todas las personas en hipótesis: «If I were you» es la fórmula fija para dar consejos."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "regret", "es": "arrepentimiento" },
+            { "en": "mistake", "es": "error" },
+            { "en": "blame", "es": "culpar" },
+            { "en": "forgive", "es": "perdonar" },
+            { "en": "wish", "es": "desear" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If she had studied harder, she ___ the exam.",
+          "options": ["would pass", "would have passed", "will pass"],
+          "correct": 1,
+          "hint": "Es una hipótesis sobre un hecho del pasado ya terminado: Third Conditional.",
+          "explanation": "El Third Conditional combina Past Perfect en la condición con «would have» + participio en el resultado: «would have passed». «Would pass» pertenece al Second Conditional y «will pass» es futuro real, incompatible con el pasado hipotético «had studied»."
+        },
+        {
+          "type": "gap",
+          "text": "I wish I ___ that opportunity last year.",
+          "options": ["didn't lose", "hadn't lost", "wouldn't lose"],
+          "answer": "hadn't lost",
+          "explanation": "Para lamentar una acción del pasado, «wish» exige Past Perfect: «I wish I hadn't lost». «Wouldn't lose» se usaría para quejas sobre el presente o futuro."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si llueve mañana, nos quedaremos en casa",
+          "direction": "es-en",
+          "tiles": ["If", "it", "rains", "tomorrow", "we", "will", "stay", "at", "home", "would"],
+          "answer": "If it rains tomorrow we will stay at home",
+          "explanation": "El First Conditional exige presente simple tras «if» («rains») y «will» solo en la cláusula de resultado, nunca en la del «if»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si yo fuera rico, compraría una casa grande",
+          "direction": "es-en",
+          "tiles": ["If", "I", "were", "rich", "I", "would", "buy", "a", "big", "house", "was"],
+          "answer": "If I were rich I would buy a big house",
+          "explanation": "El Second Conditional usa «were» (no «was») en el registro formal, combinado con «would» + infinitivo en el resultado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si hubiéramos sabido la verdad, no habríamos mentido",
+          "direction": "es-en",
+          "tiles": ["If", "we", "had", "known", "the", "truth", "we", "wouldn't", "have", "lied", "would"],
+          "answer": "If we had known the truth we wouldn't have lied",
+          "explanation": "El Third Conditional requiere Past Perfect en la condición («had known») y «would have» + participio en el resultado («wouldn't have lied»)."
+        },
+        {
+          "type": "speak",
+          "text": "If it rains, we will stay at home.",
+          "es": "Si llueve, nos quedaremos en casa."
+        },
+        {
+          "type": "speak",
+          "text": "If I were you, I would accept the offer.",
+          "es": "Si yo fuera tú, aceptaría la oferta."
+        },
+        {
+          "type": "speak",
+          "text": "If I had known, I would have told you.",
+          "es": "Si lo hubiera sabido, te lo habría dicho."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Modales de deducción y obligación, patrones verbales y phrasal verbs",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "must", "es": "debe de ser (deducción)" },
+            { "en": "can't", "es": "no puede ser" },
+            { "en": "suspect", "es": "sospechoso" },
+            { "en": "evidence", "es": "evidencia" },
+            { "en": "clue", "es": "pista" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "He has a perfect alibi confirmed by the police. He ___ be innocent.",
+          "options": ["must", "can't", "mustn't"],
+          "correct": 0,
+          "hint": "Hay una evidencia sólida y positiva: certeza lógica afirmativa.",
+          "explanation": "«Must» expresa la deducción lógica positiva basada en pruebas firmes (la coartada confirmada). «Can't» indicaría lo contrario y «mustn't» solo sirve para prohibición, nunca para deducción."
+        },
+        {
+          "type": "gap",
+          "text": "The footprints are small, so the suspect ___ be a tall man.",
+          "options": ["can't", "mustn't", "might"],
+          "answer": "can't",
+          "explanation": "La deducción lógica negativa se expresa con «can't» (imposible), nunca con «mustn't», que solo indica prohibición."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "have to", "es": "tener que (obligación externa)" },
+            { "en": "mustn't", "es": "estar prohibido" },
+            { "en": "don't have to", "es": "no hace falta" },
+            { "en": "should", "es": "debería" },
+            { "en": "allow", "es": "permitir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "According to the company rules, employees ___ wear a uniform.",
+          "options": ["should", "have to", "don't have to"],
+          "correct": 1,
+          "hint": "Es una norma externa impuesta por la empresa, no un simple consejo.",
+          "explanation": "«Have to» expresa obligación externa impuesta por una norma (company rules). «Should» sería solo un consejo débil y «don't have to» indicaría ausencia de obligación, lo contrario del sentido de la frase."
+        },
+        {
+          "type": "gap",
+          "text": "You ___ smoke in this office; it is strictly forbidden.",
+          "options": ["don't have to", "mustn't", "should"],
+          "answer": "mustn't",
+          "explanation": "«Mustn't» expresa prohibición absoluta. «Don't have to» significaría que fumar es opcional, lo cual contradice «strictly forbidden»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "enjoy", "es": "disfrutar" },
+            { "en": "avoid", "es": "evitar" },
+            { "en": "suggest", "es": "sugerir" },
+            { "en": "manage", "es": "lograr" },
+            { "en": "look forward to", "es": "tener muchas ganas de" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "She ___ working on different projects because it's her favorite hobby.",
+          "options": ["enjoy", "enjoys to", "enjoys"],
+          "correct": 2,
+          "hint": "El verbo de disfrute exige gerundio, y «she» es tercera persona.",
+          "explanation": "«Enjoy» siempre va seguido de gerundio («enjoys working») y con «she» requiere la «-s» de tercera persona. «Enjoys to» añade una «to» agramatical y «enjoy» pierde la concordancia de persona."
+        },
+        {
+          "type": "gap",
+          "text": "The manager suggested ___ the meeting until Friday.",
+          "options": ["to postpone", "postponing", "postpone"],
+          "answer": "postponing",
+          "explanation": "«Suggest» nunca va seguido de infinitivo con «to». Su único patrón directo es el gerundio: «suggested postponing»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos lograron terminar el proyecto a tiempo",
+          "direction": "es-en",
+          "tiles": ["They", "managed", "to", "finish", "the", "project", "on", "time", "finishing"],
+          "answer": "They managed to finish the project on time",
+          "explanation": "«Manage» (lograr algo difícil) exige infinitivo con «to»: «managed to finish», nunca gerundio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Te recogeré en el aeropuerto",
+          "direction": "es-en",
+          "tiles": ["I", "will", "pick", "you", "up", "at", "the", "airport", "him"],
+          "answer": "I will pick you up at the airport",
+          "explanation": "«Pick up» es un phrasal verb separable: si el objeto es un pronombre («you»), debe colocarse obligatoriamente entre el verbo y la partícula."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tenemos muchas ganas de verte",
+          "direction": "es-en",
+          "tiles": ["We", "are", "looking", "forward", "to", "seeing", "you", "see"],
+          "answer": "We are looking forward to seeing you",
+          "explanation": "En el phrasal verb de tres partes «look forward to», la partícula final «to» funciona como preposición, así que el verbo que la sigue va en gerundio: «seeing»."
+        },
+        {
+          "type": "speak",
+          "text": "He must be telling the truth; his alibi is confirmed.",
+          "es": "Debe de estar diciendo la verdad; su coartada está confirmada."
+        },
+        {
+          "type": "speak",
+          "text": "You mustn't use your phone during the exam.",
+          "es": "No debes usar tu móvil durante el examen."
+        },
+        {
+          "type": "speak",
+          "text": "I'm looking forward to seeing you this weekend.",
+          "es": "Tengo muchas ganas de verte este fin de semana."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Voz pasiva y estilo indirecto (Reported Speech)",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "invent", "es": "inventar" },
+            { "en": "discover", "es": "descubrir" },
+            { "en": "produce", "es": "producir" },
+            { "en": "design", "es": "diseñar" },
+            { "en": "build", "es": "construir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Penicillin ___ by Alexander Fleming in 1928.",
+          "options": ["discovered", "has discovered", "was discovered"],
+          "correct": 2,
+          "hint": "El sujeto «penicillin» no realiza la acción, la recibe: voz pasiva de pasado.",
+          "explanation": "«Was discovered» es la pasiva correcta en pasado simple: la penicilina fue descubierta por Fleming. «Discovered» sin el auxiliar «to be» formaría una activa sin sentido, y «has discovered» rompe la concordancia temporal con la fecha «1928»."
+        },
+        {
+          "type": "gap",
+          "text": "Plastic ___ in this factory to reduce waste.",
+          "options": ["recycles", "is recycled", "recycled"],
+          "answer": "is recycled",
+          "explanation": "Se describe un proceso industrial habitual: se necesita el Present Simple Passive «is recycled». «Recycles» sería activo (el plástico recicla algo) y «recycled» carece del auxiliar «to be»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "say", "es": "decir" },
+            { "en": "tell", "es": "decir / contar" },
+            { "en": "claim", "es": "afirmar" },
+            { "en": "deny", "es": "negar" },
+            { "en": "confirm", "es": "confirmar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The manager ___ me that the meeting had been postponed.",
+          "options": ["told", "said", "said to"],
+          "correct": 0,
+          "hint": "Hay un objeto de persona inmediatamente después del verbo de reporte.",
+          "explanation": "«Tell» exige un objeto de persona directo («told me»). «Say» no admite objeto de persona sin la preposición «to», por lo que «said me» y «said to me» no encajan igual de bien en este patrón."
+        },
+        {
+          "type": "gap",
+          "text": "She claimed that she ___ the news from a reliable source.",
+          "options": ["receives", "had received", "has received"],
+          "answer": "had received",
+          "explanation": "Al estar el verbo de reporte en pasado («claimed»), el Present Perfect original sufre regresión temporal (backshift) hasta Past Perfect: «had received»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "suggest", "es": "sugerir" },
+            { "en": "refuse", "es": "rechazar" },
+            { "en": "agree", "es": "acordar" },
+            { "en": "promise", "es": "prometer" },
+            { "en": "deny", "es": "negar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The witness denied ___ any gossip about the secret.",
+          "options": ["to hear", "hearing", "hear"],
+          "correct": 1,
+          "hint": "El verbo «deny» rige un patrón verbal específico.",
+          "explanation": "«Deny» siempre va seguido de gerundio («denied hearing»), nunca de infinitivo con «to» ni de la forma base del verbo."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ sign the document because he disagreed with the terms.",
+          "options": ["refused to", "refused", "denies to"],
+          "answer": "refused to",
+          "explanation": "«Refuse» rige infinitivo con «to»: «refused to sign». «Denies to» no existe, ya que «deny» exige gerundio, no infinitivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las casas fueron construidas el año pasado",
+          "direction": "es-en",
+          "tiles": ["The", "houses", "were", "built", "last", "year", "was"],
+          "answer": "The houses were built last year",
+          "explanation": "El sujeto «houses» es plural, así que la pasiva de pasado requiere «were», no «was»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella dijo que había terminado el informe",
+          "direction": "es-en",
+          "tiles": ["She", "said", "that", "she", "had", "finished", "the", "report", "has"],
+          "answer": "She said that she had finished the report",
+          "explanation": "El verbo de reporte «said» está en pasado, por lo que el Present Perfect original retrocede a Past Perfect: «had finished»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él negó haber robado el dinero",
+          "direction": "es-en",
+          "tiles": ["He", "denied", "stealing", "the", "money", "to", "steal"],
+          "answer": "He denied stealing the money",
+          "explanation": "«Deny» exige gerundio para reportar la acción negada: «denied stealing», nunca infinitivo con «to»."
+        },
+        {
+          "type": "speak",
+          "text": "The bridge was built in 1950.",
+          "es": "El puente fue construido en 1950."
+        },
+        {
+          "type": "speak",
+          "text": "She told me that she had already left.",
+          "es": "Ella me dijo que ya se había ido."
+        },
+        {
+          "type": "speak",
+          "text": "He denied stealing the documents.",
+          "es": "Él negó haber robado los documentos."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Relativas, conectores y simulacro final B1",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "who", "es": "quien" },
+            { "en": "which", "es": "el cual" },
+            { "en": "whose", "es": "cuyo" },
+            { "en": "where", "es": "donde" },
+            { "en": "although", "es": "aunque" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "This is the office ___ we consolidate all the test answers.",
+          "options": ["where", "which", "whose"],
+          "correct": 0,
+          "hint": "El antecedente es un lugar físico donde ocurre la acción.",
+          "explanation": "«Where» es el adverbio relativo adecuado para definir un lugar («the office»). «Which» necesitaría una preposición adicional al final y «whose» denota posesión, lo cual no encaja aquí."
+        },
+        {
+          "type": "gap",
+          "text": "The device ___ we bought last week has a great feature.",
+          "options": ["who", "whose", "that"],
+          "answer": "that",
+          "explanation": "El antecedente «the device» es un objeto, así que el relativo debe ser «that» o «which», nunca «who» (solo personas) ni «whose» (posesión)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras",
+          "pairs": [
+            { "en": "because", "es": "porque" },
+            { "en": "since", "es": "ya que" },
+            { "en": "despite", "es": "a pesar de" },
+            { "en": "so that", "es": "para que" },
+            { "en": "however", "es": "sin embargo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "___ having a strong disagreement, the partners reached an agreement.",
+          "options": ["Although", "In spite of", "However"],
+          "correct": 1,
+          "hint": "El conector va seguido directamente de un gerundio, no de sujeto más verbo.",
+          "explanation": "«In spite of» es una preposición que rige gerundios («having»). «Although» exigiría una cláusula completa con sujeto y verbo conjugado, y «However» no puede introducir un gerundio de esta manera."
+        },
+        {
+          "type": "gap",
+          "text": "We need to consolidate our knowledge ___ we can pass the final exam.",
+          "options": ["in order to", "so that", "because of"],
+          "answer": "so that",
+          "explanation": "«So that» introduce una cláusula de propósito con sujeto y verbo modal («we can pass»). «In order to» exigiría un infinitivo directo y «because of» introduce causa, no propósito."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja mezclando bloques anteriores",
+          "pairs": [
+            { "en": "success", "es": "éxito" },
+            { "en": "mistake", "es": "error" },
+            { "en": "consolidate", "es": "consolidar" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "improve", "es": "mejorar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In order to achieve ___ in the intermediate level, you must practice writing every day.",
+          "options": ["succeed", "successful", "success"],
+          "correct": 2,
+          "hint": "La posición requiere un sustantivo, no un verbo ni un adjetivo.",
+          "explanation": "«Success» es el sustantivo («éxito») que funciona como objeto tras «achieve». «Succeed» es un verbo y «successful» un adjetivo: ninguno puede ocupar el núcleo nominal en esta posición."
+        },
+        {
+          "type": "gap",
+          "text": "The teacher advised me ___ my spelling mistakes before submitting the test.",
+          "options": ["that I check", "to check", "checking"],
+          "answer": "to check",
+          "explanation": "«Advise» rige la estructura «advise + objeto + to-infinitivo»: «advised me to check». No admite gerundio directo tras el objeto de persona."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Cometió un pequeño error porque no comprobó su trabajo",
+          "direction": "es-en",
+          "tiles": ["She", "made", "a", "small", "mistake", "because", "she", "didn't", "check", "her", "work", "did"],
+          "answer": "She made a small mistake because she didn't check her work",
+          "explanation": "La colocación léxica correcta con «mistake» es siempre el verbo «make» («made a mistake»), nunca «do», que es un calco directo del español «hacer un error»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este es el lugar donde consolidamos las respuestas",
+          "direction": "es-en",
+          "tiles": ["This", "is", "the", "place", "where", "we", "consolidate", "the", "answers", "which"],
+          "answer": "This is the place where we consolidate the answers",
+          "explanation": "«Where» es el adverbio relativo natural para lugares («the place»). Usar «which» exigiría añadir una preposición final."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Aunque los ejercicios eran complejos, los completaron con éxito",
+          "direction": "es-en",
+          "tiles": ["Although", "the", "exercises", "were", "complex", "they", "completed", "them", "successfully", "despite"],
+          "answer": "Although the exercises were complex they completed them successfully",
+          "explanation": "«Although» introduce una cláusula completa con sujeto y verbo («the exercises were complex»). «Despite» no podría ir seguido de esa cláusula conjugada sin reformularla."
+        },
+        {
+          "type": "speak",
+          "text": "I need to verify whether the answer is correct.",
+          "es": "Necesito comprobar si la respuesta es correcta."
+        },
+        {
+          "type": "speak",
+          "text": "Although the test was difficult, I passed it.",
+          "es": "Aunque el examen era difícil, lo aprobé."
+        },
+        {
+          "type": "speak",
+          "text": "This is the goal of the final review.",
+          "es": "Este es el objetivo del repaso final."
+        }
+      ]
+    }
+  ]
+}

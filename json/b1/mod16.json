@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod16",
+  "module": 16,
+  "title": "Phrasal Verbs: Separation and Transitiveness",
+  "subtitle": "Phrasal Verbs de Viajes",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Vocabulario de viaje: en el aeropuerto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "airport", "es": "aeropuerto" },
+            { "en": "plane", "es": "avión" },
+            { "en": "flight", "es": "vuelo" },
+            { "en": "boarding", "es": "embarque" },
+            { "en": "check in", "es": "facturar / registrarse" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You arrive at the airport with your suitcase two hours before departure. What is the first thing you do at the desk?",
+          "options": ["take off", "check in", "land"],
+          "correct": 1,
+          "hint": "Es el verbo frasal para registrarse o facturar el equipaje.",
+          "explanation": "«Check in» es registrarse/facturar, la acción típica al llegar al aeropuerto. «Take off» es despegar (lo hace el avión) y «land» es aterrizar; ninguno encaja con la llegada al mostrador."
+        },
+        {
+          "type": "gap",
+          "text": "Please arrive at the ___ at least two hours before an international flight.",
+          "options": ["airport", "flight", "boarding"],
+          "answer": "airport",
+          "explanation": "«Airport» es el aeropuerto, el lugar físico. «Flight» es el vuelo y «boarding» es el proceso de embarque; ninguno es el lugar en sí."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "plane", "es": "avión" },
+            { "en": "flight", "es": "vuelo" },
+            { "en": "boarding", "es": "embarque" },
+            { "en": "check in", "es": "facturar / registrarse" },
+            { "en": "take off", "es": "despegar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After a long delay on the runway, the plane finally left the ground and started flying. What did it do?",
+          "options": ["took off", "landed", "checked in"],
+          "correct": 0,
+          "hint": "Es lo opuesto a aterrizar.",
+          "explanation": "«Took off» (pasado de «take off») es el verbo frasal intransitivo adecuado para indicar que el avión despegó de la pista. «Landed» significa aterrizó, lo contrario, y «checked in» se refiere al registro de pasajeros, no a la aeronave."
+        },
+        {
+          "type": "gap",
+          "text": "We need to check ___ two hours before the flight.",
+          "options": ["in", "off", "up"],
+          "answer": "in",
+          "explanation": "«Check in» es el verbo frasal correcto para registrarse en el aeropuerto. «Check off» y «check up» no son las combinaciones correctas para este significado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "airport", "es": "aeropuerto" },
+            { "en": "flight", "es": "vuelo" },
+            { "en": "check in", "es": "facturar / registrarse" },
+            { "en": "take off", "es": "despegar" },
+            { "en": "plane", "es": "avión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You hear an announcement about the number BA212, the aircraft journey from Madrid to London you are taking today. What do we call this journey?",
+          "options": ["the boarding", "the airport", "the flight"],
+          "correct": 2,
+          "hint": "Es el trayecto en avión en sí, no el lugar ni el proceso de subir a bordo.",
+          "explanation": "«Flight» es el vuelo, el trayecto en avión en sí. «Boarding» es el proceso de embarque y «airport» es el lugar físico; ninguno es el trayecto."
+        },
+        {
+          "type": "gap",
+          "text": "The plane is scheduled to take ___ at 9:00 AM.",
+          "options": ["off", "in", "up"],
+          "answer": "off",
+          "explanation": "«Take off» (despegar) es el verbo frasal correcto para un avión. «Take in» y «take up» tienen significados distintos, no relacionados con volar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El avión despega ahora",
+          "direction": "es-en",
+          "tiles": ["The", "plane", "takes", "off", "now", "lands", "checks"],
+          "answer": "The plane takes off now",
+          "explanation": "«Takes off» es «despega» (presente simple, tercera persona). «Lands» (aterriza) y «checks» son distractores de otros verbos frasales relacionados con el aeropuerto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos registramos en el aeropuerto",
+          "direction": "es-en",
+          "tiles": ["We", "check", "in", "at", "the", "airport", "board", "land"],
+          "answer": "We check in at the airport",
+          "explanation": "«Check in» (registrarse) se compone de dos palabras separadas: «check» + «in». «Board» (embarcar) y «land» (aterrizar) son distractores de otros verbos frasales de vuelo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es hora del embarque",
+          "direction": "es-en",
+          "tiles": ["It's", "time", "for", "boarding", "flight", "landing"],
+          "answer": "It's time for boarding",
+          "explanation": "«Boarding» es «embarque». «Flight» (vuelo) y «landing» (aterrizaje) son sustantivos relacionados pero distintos dentro del vocabulario del aeropuerto."
+        },
+        {
+          "type": "speak",
+          "text": "The plane is scheduled to take off at 9 AM.",
+          "es": "El avión tiene programado despegar a las 9 de la mañana."
+        },
+        {
+          "type": "speak",
+          "text": "We need to check in two hours before the flight.",
+          "es": "Necesitamos facturar dos horas antes del vuelo."
+        },
+        {
+          "type": "speak",
+          "text": "Our flight to London leaves from this airport.",
+          "es": "Nuestro vuelo a Londres sale de este aeropuerto."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Verbos frasales de viaje: recoger, dejar y aterrizar",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "land", "es": "aterrizar / tierra" },
+            { "en": "pick up", "es": "recoger" },
+            { "en": "drop off", "es": "dejar (a alguien/algo)" },
+            { "en": "luggage", "es": "equipaje" },
+            { "en": "travel", "es": "viajar / viaje" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After a long flight, the aircraft finally touches the ground safely at the destination airport. What does the plane do?",
+          "options": ["It takes off.", "It checks in.", "It lands."],
+          "correct": 2,
+          "hint": "Es tocar tierra al final del vuelo.",
+          "explanation": "«Land» (aterrizar) es tocar tierra al final del vuelo. «Take off» es despegar (lo opuesto) y «check in» es registrarse; ninguno describe la acción de la aeronave al llegar."
+        },
+        {
+          "type": "gap",
+          "text": "I will pick ___ the tickets at the airport tomorrow.",
+          "options": ["up", "off", "in"],
+          "answer": "up",
+          "explanation": "«Pick up» (recoger) es el verbo frasal correcto. «Drop off» y «check in» tienen significados distintos, no relacionados con recoger algo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "pick up", "es": "recoger" },
+            { "en": "drop off", "es": "dejar (a alguien/algo)" },
+            { "en": "luggage", "es": "equipaje" },
+            { "en": "travel", "es": "viajar / viaje" },
+            { "en": "route", "es": "ruta" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your luggage is quite heavy, but I can help you _______ at the airport terminal.",
+          "options": ["pick up it", "pick it up", "pick up them"],
+          "correct": 1,
+          "hint": "«Luggage» es incontable y se sustituye por el pronombre singular «it», que debe ir en medio del verbo frasal.",
+          "explanation": "Al ser «pick up» un verbo separable y «it» un pronombre (sustituye a «luggage», incontable), es obligatorio colocarlo en medio: «pick it up». «Pick up it» viola la regla del pronombre y «pick up them» usa mal el plural para un sustantivo incontable."
+        },
+        {
+          "type": "gap",
+          "text": "Can you drop ___ my friend at the departure gate?",
+          "options": ["off", "up", "in"],
+          "answer": "off",
+          "explanation": "«Drop off» (dejar a alguien en un lugar) es el verbo frasal correcto. «Pick up» es lo opuesto (recoger) y «check in» no encaja aquí."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "land", "es": "aterrizar / tierra" },
+            { "en": "drop off", "es": "dejar (a alguien/algo)" },
+            { "en": "travel", "es": "viajar / viaje" },
+            { "en": "route", "es": "ruta" },
+            { "en": "pick up", "es": "recoger" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Before a long trip, many people plan the roads and paths they will follow to reach their destination. What are they planning?",
+          "options": ["their route", "their luggage", "their landing"],
+          "correct": 0,
+          "hint": "Es el camino planificado para el viaje.",
+          "explanation": "«Route» es la ruta, el camino planificado para el viaje. «Luggage» es el equipaje y «landing» es el aterrizaje; ninguno es el camino en sí."
+        },
+        {
+          "type": "gap",
+          "text": "I need to check in my ___ before boarding the plane.",
+          "options": ["luggage", "route", "landing"],
+          "answer": "luggage",
+          "explanation": "«Luggage» es el equipaje, lo que se factura antes de embarcar. «Route» es la ruta y «landing» es el aterrizaje; ninguno se factura en el mostrador."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Recógelo en el aeropuerto",
+          "direction": "es-en",
+          "tiles": ["Pick", "it", "up", "at", "the", "airport", "off", "them"],
+          "answer": "Pick it up at the airport",
+          "explanation": "El pronombre «it» (que sustituye a algo como «the luggage») debe colocarse obligatoriamente entre «pick» y «up». «Off» y «them» son distractores de otro verbo frasal y otro pronombre."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Déjalo en el aeropuerto",
+          "direction": "es-en",
+          "tiles": ["Drop", "him", "off", "at", "the", "airport", "up", "it"],
+          "answer": "Drop him off at the airport",
+          "explanation": "«Him» debe ir entre «drop» y «off»: «drop him off». «Up» pertenece a otro verbo frasal («pick up») y «it» es un pronombre distinto usado como distractor."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Viajamos por una ruta larga",
+          "direction": "es-en",
+          "tiles": ["We", "travel", "on", "a", "long", "route", "land", "luggage"],
+          "answer": "We travel on a long route",
+          "explanation": "«Travel» (viajar) y «route» (ruta) son el vocabulario clave de esta frase. «Land» (aterrizar) y «luggage» (equipaje) son distractores del mismo campo semántico de viajes."
+        },
+        {
+          "type": "speak",
+          "text": "I will pick you up at the airport.",
+          "es": "Te recogeré en el aeropuerto."
+        },
+        {
+          "type": "speak",
+          "text": "Can you drop me off at the airport?",
+          "es": "¿Puedes dejarme en el aeropuerto?"
+        },
+        {
+          "type": "speak",
+          "text": "The plane will land at the destination soon.",
+          "es": "El avión aterrizará en el destino pronto."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Horarios y billetes: gestionando el vuelo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "schedule", "es": "horario / agenda" },
+            { "en": "delay", "es": "retrasar / retraso" },
+            { "en": "cancel", "es": "cancelar" },
+            { "en": "ticket", "es": "billete / boleto" },
+            { "en": "passenger", "es": "pasajero" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You are running late and ask a friend for a favor before you go park the car. What do you say?",
+          "options": ["Could you please drop off me at the airport?", "Could you please drop me off at the airport?", "Could you please drop me at off the airport?"],
+          "correct": 1,
+          "hint": "El pronombre debe ir obligatoriamente entre el verbo y la partícula.",
+          "explanation": "El pronombre «me» debe colocarse obligatoriamente entre el verbo y la partícula: «drop me off». Las otras dos opciones colocan mal el pronombre respecto a la partícula «off»."
+        },
+        {
+          "type": "gap",
+          "text": "Please show your ___ to the flight attendant before finding your seat.",
+          "options": ["ticket", "schedule", "delay"],
+          "answer": "ticket",
+          "explanation": "«Ticket» es el billete que se muestra para embarcar. «Schedule» es el horario y «delay» es el retraso; ninguno se «muestra» al personal de vuelo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "delay", "es": "retrasar / retraso" },
+            { "en": "cancel", "es": "cancelar" },
+            { "en": "ticket", "es": "billete / boleto" },
+            { "en": "passenger", "es": "pasajero" },
+            { "en": "seat", "es": "asiento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Bad weather means your flight will not leave on time; it will leave later than planned. What has happened to your flight?",
+          "options": ["It has been delayed.", "It has been cancelled.", "It has a new schedule."],
+          "correct": 0,
+          "hint": "El vuelo sí sale, pero más tarde de lo previsto.",
+          "explanation": "«Delay» (retraso) significa que el vuelo sale más tarde de lo previsto, no que no salga en absoluto. «Cancel» implicaría que el vuelo no ocurre, y «schedule» es simplemente el horario, no un problema."
+        },
+        {
+          "type": "gap",
+          "text": "Every ___ on this flight must fasten their seatbelt during take off.",
+          "options": ["passenger", "ticket", "seat"],
+          "answer": "passenger",
+          "explanation": "«Passenger» es el pasajero, la persona que viaja. «Ticket» y «seat» son objetos; ninguno «se abrocha el cinturón»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "schedule", "es": "horario / agenda" },
+            { "en": "cancel", "es": "cancelar" },
+            { "en": "ticket", "es": "billete / boleto" },
+            { "en": "seat", "es": "asiento" },
+            { "en": "delay", "es": "retrasar / retraso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The airline decides your flight will not operate at all today, so you must book another one for tomorrow. What did the airline do to your flight?",
+          "options": ["They delayed it.", "They gave it a new seat.", "They cancelled it."],
+          "correct": 2,
+          "hint": "El vuelo deja de existir por completo, no solo se retrasa.",
+          "explanation": "«Cancel» (cancelar) significa que el vuelo deja de existir por completo. «Delay» solo implica un retraso, no la eliminación del vuelo, y «seat» no tiene relación con esta decisión."
+        },
+        {
+          "type": "gap",
+          "text": "Due to bad weather, the airline had to ___ three flights today.",
+          "options": ["cancel", "seat", "schedule"],
+          "answer": "cancel",
+          "explanation": "«Cancel» es «cancelar», la acción de anular un vuelo. «Seat» es un sustantivo (asiento) y «schedule» como verbo significa «programar», no anular."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El vuelo tiene retraso",
+          "direction": "es-en",
+          "tiles": ["The", "flight", "has", "a", "delay", "cancel", "schedule"],
+          "answer": "The flight has a delay",
+          "explanation": "«Delay» es «retraso». «Cancel» (cancelar) y «schedule» (horario/programar) son distractores del mismo campo semántico de gestión de vuelos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesito mi billete y mi asiento",
+          "direction": "es-en",
+          "tiles": ["I", "need", "my", "ticket", "and", "seat", "passenger", "delay"],
+          "answer": "I need my ticket and seat",
+          "explanation": "«Ticket» (billete) y «seat» (asiento) son el vocabulario clave. «Passenger» (pasajero) y «delay» (retraso) son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El pasajero canceló el billete",
+          "direction": "es-en",
+          "tiles": ["The", "passenger", "cancelled", "the", "ticket", "schedule", "seat"],
+          "answer": "The passenger cancelled the ticket",
+          "explanation": "«Passenger», «cancelled» y «ticket» forman el núcleo de la frase. «Schedule» (horario) y «seat» (asiento) son distractores relacionados pero no requeridos aquí."
+        },
+        {
+          "type": "speak",
+          "text": "Please check the schedule before you buy your ticket.",
+          "es": "Por favor, revisa el horario antes de comprar tu billete."
+        },
+        {
+          "type": "speak",
+          "text": "The flight was delayed because of bad weather.",
+          "es": "El vuelo se retrasó por el mal tiempo."
+        },
+        {
+          "type": "speak",
+          "text": "Every passenger must have a seat and a valid ticket.",
+          "es": "Todo pasajero debe tener un asiento y un billete válido."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Relaciones personales: de la cita a la ruptura",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "gate", "es": "puerta de embarque" },
+            { "en": "relationship", "es": "relación" },
+            { "en": "friend", "es": "amigo" },
+            { "en": "date", "es": "cita" },
+            { "en": "love", "es": "amor / amar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You need to find where to board your plane; the screen shows a number for this specific area of the airport. What are you looking for?",
+          "options": ["the gate", "the route", "the schedule"],
+          "correct": 0,
+          "hint": "Es el lugar físico donde se sube al avión.",
+          "explanation": "«Gate» es la puerta de embarque, el área específica para subir al avión. «Route» es la ruta y «schedule» es el horario; ninguno es el lugar físico de embarque."
+        },
+        {
+          "type": "gap",
+          "text": "Please proceed to ___ 12 for boarding.",
+          "options": ["gate", "date", "love"],
+          "answer": "gate",
+          "explanation": "«Gate» es la puerta de embarque. «Date» es una cita y «love» es amor; ninguno es un lugar del aeropuerto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "relationship", "es": "relación" },
+            { "en": "friend", "es": "amigo" },
+            { "en": "date", "es": "cita" },
+            { "en": "love", "es": "amor / amar" },
+            { "en": "break up", "es": "romper (una relación)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After going on several romantic dates, two people decide to become an official couple. What do they start?",
+          "options": ["a flight", "a relationship", "a gate"],
+          "correct": 1,
+          "hint": "Es el vínculo de pareja, amistad o familia.",
+          "explanation": "«Relationship» es la relación (de pareja, amistad, etc.). «Flight» y «gate» pertenecen al vocabulario de viajes, no de relaciones personales."
+        },
+        {
+          "type": "gap",
+          "text": "My best ___ always helps me when I have a problem.",
+          "options": ["friend", "gate", "break up"],
+          "answer": "friend",
+          "explanation": "«Friend» es «amigo». «Gate» no tiene relación personal y «break up» es un verbo, no encaja como sujeto de «helps me»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "gate", "es": "puerta de embarque" },
+            { "en": "friend", "es": "amigo" },
+            { "en": "love", "es": "amor / amar" },
+            { "en": "break up", "es": "romper (una relación)" },
+            { "en": "relationship", "es": "relación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After many arguments, a couple decides to end their romantic relationship completely. What do they do?",
+          "options": ["They go out.", "They get along.", "They break up."],
+          "correct": 2,
+          "hint": "Es el verbo frasal para terminar una relación de pareja.",
+          "explanation": "«Break up» es «romper» una relación amorosa. «Go out» significa salir/tener una cita y «get along» significa llevarse bien; ninguno implica el final de la relación."
+        },
+        {
+          "type": "gap",
+          "text": "After three years together, they decided to end things. They finally ___.",
+          "options": ["broke up", "loved", "dated"],
+          "answer": "broke up",
+          "explanation": "«Break up» (romper) en pasado es «broke up», indicando el final definitivo de una relación de pareja. «Loved» y «dated» no expresan la ruptura."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tenemos una buena relación",
+          "direction": "es-en",
+          "tiles": ["We", "have", "a", "good", "relationship", "date", "gate"],
+          "answer": "We have a good relationship",
+          "explanation": "«Relationship» es «relación». «Date» (cita) y «gate» (puerta de embarque) son distractores de otros campos semánticos del módulo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella rompió con su novio",
+          "direction": "es-en",
+          "tiles": ["She", "broke", "up", "with", "her", "boyfriend", "friend", "love"],
+          "answer": "She broke up with her boyfriend",
+          "explanation": "«Broke up with» es la forma pasada de romper con alguien. «Friend» y «love» son distractores del mismo campo semántico de relaciones."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi amigo está en la puerta",
+          "direction": "es-en",
+          "tiles": ["My", "friend", "is", "at", "the", "gate", "date", "love"],
+          "answer": "My friend is at the gate",
+          "explanation": "«Friend» (amigo) y «gate» (puerta de embarque) son el vocabulario clave de la frase. «Date» y «love» son distractores del campo semántico de relaciones."
+        },
+        {
+          "type": "speak",
+          "text": "My friend is waiting for me at the gate.",
+          "es": "Mi amigo me está esperando en la puerta de embarque."
+        },
+        {
+          "type": "speak",
+          "text": "They have a wonderful relationship.",
+          "es": "Tienen una relación maravillosa."
+        },
+        {
+          "type": "speak",
+          "text": "After a difficult year, they decided to break up.",
+          "es": "Después de un año difícil, decidieron romper."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Verbos frasales inseparables y de tres partes: repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "get along", "es": "llevarse bien" },
+            { "en": "fall out", "es": "pelearse / discutir" },
+            { "en": "grow up", "es": "crecer / madurar" },
+            { "en": "go out", "es": "salir (de fiesta/pareja)" },
+            { "en": "look after", "es": "cuidar de" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "My sister and I have very different opinions, but we still _______ well with each other.",
+          "options": ["get along", "break up", "fall out"],
+          "correct": 0,
+          "hint": "Encaja con el matiz de contraste «but we still...».",
+          "explanation": "«Get along» significa llevarse bien, lo cual encaja con el contraste «but we still...» (a pesar de tener opiniones diferentes, nos llevamos bien). «Break up» significa romper una relación amorosa y «fall out» significa pelearse; ninguno encaja aquí."
+        },
+        {
+          "type": "gap",
+          "text": "Can you ___ my luggage while I buy a ticket?",
+          "options": ["look after", "look forward to", "grow up"],
+          "answer": "look after",
+          "explanation": "«Look after» es «cuidar de» algo o alguien. «Look forward to» expresa ilusión por algo futuro y «grow up» significa crecer; ninguno encaja con cuidar el equipaje."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "fall out", "es": "pelearse / discutir" },
+            { "en": "grow up", "es": "crecer / madurar" },
+            { "en": "go out", "es": "salir (de fiesta/pareja)" },
+            { "en": "look after", "es": "cuidar de" },
+            { "en": "look forward to", "es": "tener muchas ganas de" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We are really looking forward _______ our friends during our holiday trip.",
+          "options": ["to see", "seeing", "to seeing"],
+          "correct": 2,
+          "hint": "Tras la preposición «to» de este verbo de tres partes se usa el gerundio.",
+          "explanation": "La estructura completa es «look forward to» (tres partes) y, al terminar con la preposición «to», exige un verbo en gerundio: «to seeing». «To see» usa el infinitivo simple, lo cual infringe la regla, y «seeing» sola omite la preposición obligatoria."
+        },
+        {
+          "type": "gap",
+          "text": "I grew ___ in a small town near the airport.",
+          "options": ["up", "out", "along"],
+          "answer": "up",
+          "explanation": "«Grow up» (crecer/madurar) es el verbo frasal correcto. «Grow out» y «grow along» no son combinaciones válidas con este significado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "get along", "es": "llevarse bien" },
+            { "en": "grow up", "es": "crecer / madurar" },
+            { "en": "look after", "es": "cuidar de" },
+            { "en": "look forward to", "es": "tener muchas ganas de" },
+            { "en": "fall out", "es": "pelearse / discutir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I don't want to argue with my best friend over something small, but yesterday we had a serious disagreement. What happened between us?",
+          "options": ["We looked after each other.", "We fell out.", "We grew up together."],
+          "correct": 1,
+          "hint": "Es el verbo frasal para pelearse o discutir con alguien.",
+          "explanation": "«Fall out» significa pelearse o discutir, resultando en una relación dañada. «Look after» es cuidar y «grow up» es crecer; ninguno implica una discusión."
+        },
+        {
+          "type": "gap",
+          "text": "We are going to ___ tonight to celebrate.",
+          "options": ["go out", "fall out", "look after"],
+          "answer": "go out",
+          "explanation": "«Go out» es «salir» (a un evento social). «Fall out» significa pelearse y «look after» significa cuidar; ninguno encaja con un plan de celebración nocturna."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos llevamos muy bien",
+          "direction": "es-en",
+          "tiles": ["We", "get", "along", "very", "well", "fall out", "look after"],
+          "answer": "We get along very well",
+          "explanation": "«Get along» es «llevarse bien». «Fall out» (pelearse) es el antónimo funcional y «look after» (cuidar) es un distractor de otro verbo frasal."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo muchas ganas de verte",
+          "direction": "es-en",
+          "tiles": ["I", "am", "looking", "forward", "to", "seeing", "you", "see"],
+          "answer": "I am looking forward to seeing you",
+          "explanation": "Tras la preposición «to» en «look forward to» se usa el gerundio «seeing», nunca el infinitivo «see». «See» es el distractor típico de este error."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella cuida de sus abuelos",
+          "direction": "es-en",
+          "tiles": ["She", "looks", "after", "her", "grandparents", "forward", "up"],
+          "answer": "She looks after her grandparents",
+          "explanation": "«Looks after» es «cuida de». «Forward» y «up» son partículas de otros verbos frasales del módulo y funcionan como distractores."
+        },
+        {
+          "type": "speak",
+          "text": "We get along very well with our neighbours.",
+          "es": "Nos llevamos muy bien con nuestros vecinos."
+        },
+        {
+          "type": "speak",
+          "text": "I am looking forward to seeing you soon.",
+          "es": "Tengo muchas ganas de verte pronto."
+        },
+        {
+          "type": "speak",
+          "text": "She looks after her grandparents every weekend.",
+          "es": "Ella cuida de sus abuelos cada fin de semana."
+        }
+      ]
+    }
+  ]
+}

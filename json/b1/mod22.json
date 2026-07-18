@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod22",
+  "module": 22,
+  "title": "Reported Questions, Commands and Requests",
+  "subtitle": "Reported Questions y Órdenes",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Preguntas reportadas: orden afirmativo y conectores",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "question", "es": "pregunta/preguntar" },
+            { "en": "ask", "es": "preguntar/pedir" },
+            { "en": "inquire", "es": "indagar/preguntar" },
+            { "en": "wonder", "es": "preguntarse/maravilla" },
+            { "en": "answer", "es": "responder/respuesta" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The chief wants to know where the suspect was, but has to report the question without using the direct question order. Which sentence is correct?",
+          "options": ["The chief asked where was the suspect.", "The chief asked where the suspect was.", "The chief asked where did the suspect be."],
+          "correct": 1,
+          "hint": "Recuerda: al reportar, el orden vuelve a ser Sujeto + Verbo, nunca Verbo + Sujeto.",
+          "explanation": "Al reportar una pregunta se restaura el orden afirmativo (Sujeto + Verbo): «the suspect was». La opción a) mantiene la inversión de la pregunta directa y la c) usa el auxiliar «did», que nunca aparece en preguntas reportadas."
+        },
+        {
+          "type": "gap",
+          "text": "The detective inquired why I ___ called the witness.",
+          "options": ["had", "did", "have"],
+          "answer": "had",
+          "explanation": "Al reportar preguntas, el auxiliar «did» desaparece y el verbo retrocede a Past Perfect («had called»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "ask", "es": "preguntar/pedir" },
+            { "en": "inquire", "es": "indagar/preguntar" },
+            { "en": "wonder", "es": "preguntarse/maravilla" },
+            { "en": "answer", "es": "responder/respuesta" },
+            { "en": "reply", "es": "responder/respuesta" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The jury doesn't know if the man committed the crime; they express this doubt indirectly. Which sentence is correct?",
+          "options": ["The jury wondered if he had committed the crime.", "The jury wondered did he commit the crime.", "The jury wondered he committed the crime."],
+          "correct": 0,
+          "hint": "Las preguntas de sí/no reportadas necesitan «if» o «whether», nunca el auxiliar «did».",
+          "explanation": "«Wonder if + Sujeto + Verbo» es la estructura correcta para dudas de sí/no. La opción b) mantiene el auxiliar «did» (incorrecto) y la c) omite el conector «if», dejando la frase incompleta."
+        },
+        {
+          "type": "gap",
+          "text": "He asked ___ I had proof.",
+          "options": ["if", "what", "did"],
+          "answer": "if",
+          "explanation": "«If» introduce una pregunta de sí/no reportada; «what» pediría información específica y «did» nunca se usa en estilo indirecto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "question", "es": "pregunta/preguntar" },
+            { "en": "ask", "es": "preguntar/pedir" },
+            { "en": "inquire", "es": "indagar/preguntar" },
+            { "en": "answer", "es": "responder/respuesta" },
+            { "en": "reply", "es": "responder/respuesta" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "An official report requires a very formal verb to describe requesting information, more formal than the everyday verb 'ask'. Which verb fits best?",
+          "options": ["wonder", "reply", "inquire"],
+          "correct": 2,
+          "hint": "Es un sinónimo formal de «ask», típico del lenguaje oficial.",
+          "explanation": "«Inquire» es la forma formal de «preguntar», usada en contextos oficiales. «Wonder» es preguntarse internamente sin dirigirse a nadie, y «reply» significa responder, no preguntar."
+        },
+        {
+          "type": "gap",
+          "text": "He didn't ___ my question.",
+          "options": ["answer", "ask", "wonder"],
+          "answer": "answer",
+          "explanation": "«Answer» es el verbo «responder» a una pregunta directa. «Ask» es preguntar y «wonder» es preguntarse; ninguno encaja con «my question» como objeto directo de respuesta."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Le pregunté su nombre",
+          "direction": "es-en",
+          "tiles": ["I", "asked", "his", "name", "wondered", "inquired"],
+          "answer": "I asked his name",
+          "explanation": "«Ask» es «preguntar» de forma directa a alguien. «Wonder» e «inquire» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella se preguntaba la verdad",
+          "direction": "es-en",
+          "tiles": ["She", "wondered", "the", "truth", "asked", "replied"],
+          "answer": "She wondered the truth",
+          "explanation": "«Wonder» es «preguntarse» algo internamente, sin dirigirse a otra persona. «Ask» y «reply» son distractores relacionados."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él respondió rápido",
+          "direction": "es-en",
+          "tiles": ["He", "replied", "quickly", "asked", "wondered"],
+          "answer": "He replied quickly",
+          "explanation": "«Reply» es «responder». «Ask» (preguntar) y «wonder» (preguntarse) son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "The detective asked where the office was.",
+          "es": "El detective preguntó dónde estaba la oficina."
+        },
+        {
+          "type": "speak",
+          "text": "I wonder if that is true.",
+          "es": "Me pregunto si eso es verdad."
+        },
+        {
+          "type": "speak",
+          "text": "She replied immediately.",
+          "es": "Ella respondió inmediatamente."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Órdenes reportadas: objeto + infinitivo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "demand", "es": "exigir/demanda" },
+            { "en": "order", "es": "ordenar/orden" },
+            { "en": "command", "es": "ordenar/mando" },
+            { "en": "request", "es": "solicitar/petición" },
+            { "en": "suggest", "es": "sugerir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The captain wants the soldier to stand up immediately, and gives a direct order. How do we report this correctly?",
+          "options": ["The captain commanded the soldier to stand up.", "The captain commanded that the soldier stands up.", "The captain commanded the soldier standing up."],
+          "correct": 0,
+          "hint": "Los verbos de orden usan objeto + infinitivo con «to», no cláusulas con «that».",
+          "explanation": "«Command + objeto + to-infinitivo» es la estructura correcta para órdenes reportadas. La opción b) usa incorrectamente una cláusula con «that» y la c) usa gerundio, que no es la forma requerida tras un objeto personal en órdenes."
+        },
+        {
+          "type": "gap",
+          "text": "The manager ordered the team ___ the report immediately.",
+          "options": ["to finish", "finish", "finishing"],
+          "answer": "to finish",
+          "explanation": "Tras «order + objeto», el verbo va en infinitivo con «to» («to finish»), nunca en forma base ni en gerundio."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "order", "es": "ordenar/orden" },
+            { "en": "command", "es": "ordenar/mando" },
+            { "en": "request", "es": "solicitar/petición" },
+            { "en": "suggest", "es": "sugerir" },
+            { "en": "advise", "es": "aconsejar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "'Let's go to the meeting,' she said, giving an idea rather than a direct order. Which sentence reports this correctly?",
+          "options": ["She suggested to go to the meeting.", "She suggested going to the meeting.", "She suggested that go to the meeting."],
+          "correct": 1,
+          "hint": "«Suggest» no sigue el patrón objeto + infinitivo; usa gerundio o cláusula con «that».",
+          "explanation": "«Suggest» se reporta con gerundio («suggested going») o con cláusula «that + sujeto + verbo», nunca con «to-infinitivo» directo como los demás verbos de orden."
+        },
+        {
+          "type": "gap",
+          "text": "The teacher advised the students ___ harder.",
+          "options": ["to study", "study", "studying"],
+          "answer": "to study",
+          "explanation": "«Advise + objeto + to-infinitivo» es la estructura para consejos reportados: «advised the students to study»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "demand", "es": "exigir/demanda" },
+            { "en": "command", "es": "ordenar/mando" },
+            { "en": "request", "es": "solicitar/petición" },
+            { "en": "suggest", "es": "sugerir" },
+            { "en": "advise", "es": "aconsejar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A customer wants something very firmly and almost aggressively, not politely. Which verb best describes this?",
+          "options": ["advise", "request", "demand"],
+          "correct": 2,
+          "hint": "Es el verbo más fuerte, casi una exigencia.",
+          "explanation": "«Demand» es «exigir», un tono fuerte e imperativo. «Request» es pedir de forma educada y «advise» es aconsejar; ninguno transmite la fuerza de «demand»."
+        },
+        {
+          "type": "gap",
+          "text": "She requested the manager ___ her the report.",
+          "options": ["to send", "send", "sending"],
+          "answer": "to send",
+          "explanation": "«Request + objeto + to-infinitivo» sigue el mismo patrón que las órdenes: «requested the manager to send»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Le ordenó salir",
+          "direction": "es-en",
+          "tiles": ["He", "ordered", "her", "to", "leave", "requested"],
+          "answer": "He ordered her to leave",
+          "explanation": "«Order + objeto + to-infinitivo» es la estructura de las órdenes reportadas. «Requested» es un distractor del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Sugirió estudiar más",
+          "direction": "es-en",
+          "tiles": ["She", "suggested", "studying", "more", "to", "study"],
+          "answer": "She suggested studying more",
+          "explanation": "«Suggest» exige gerundio («studying»), no «to-infinitivo» («to study»), que es un distractor típico del error hispanohablante."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Le aconsejó descansar",
+          "direction": "es-en",
+          "tiles": ["He", "advised", "her", "to", "rest", "ordered"],
+          "answer": "He advised her to rest",
+          "explanation": "«Advise + objeto + to-infinitivo» es la estructura correcta. «Ordered» es un distractor del mismo campo semántico de mandato."
+        },
+        {
+          "type": "speak",
+          "text": "The captain commanded the soldier to stand up.",
+          "es": "El capitán ordenó al soldado que se pusiera de pie."
+        },
+        {
+          "type": "speak",
+          "text": "She suggested going to the meeting.",
+          "es": "Ella sugirió ir a la reunión."
+        },
+        {
+          "type": "speak",
+          "text": "He advised her to rest.",
+          "es": "Él le aconsejó descansar."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Prohibiciones y súplicas: el infinitivo negativo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "warn", "es": "advertir" },
+            { "en": "forbid", "es": "prohibir" },
+            { "en": "beg", "es": "rogar/suplicar" },
+            { "en": "allow", "es": "permitir" },
+            { "en": "permission", "es": "permiso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Security authorities want to warn journalists to stay away from the vault. Which sentence correctly reports this warning?",
+          "options": ["The authorities warned the journalists to don't get too close to the vault.", "The authorities warned the journalists not to get too close to the vault.", "The authorities warned the journalists that they didn't get too close to the vault."],
+          "correct": 1,
+          "hint": "Busca la colocación correcta de «not» antes de «to», el patrón típico de advertencias negativas.",
+          "explanation": "Siguiendo la regla de advertencias negativas «warn + objeto + not to + infinitivo», la forma correcta es «warned the journalists not to get». «To don't get» coloca mal la negación y la cláusula con «that... didn't» resulta redundante e inusual con «warn»."
+        },
+        {
+          "type": "gap",
+          "text": "The guide warned the tourists ___ close to the edge.",
+          "options": ["not to get", "to don't get", "don't get"],
+          "answer": "not to get",
+          "explanation": "«Warn + objeto + not to + infinitivo» es la estructura correcta para advertencias negativas."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "forbid", "es": "prohibir" },
+            { "en": "beg", "es": "rogar/suplicar" },
+            { "en": "allow", "es": "permitir" },
+            { "en": "permission", "es": "permiso" },
+            { "en": "authority", "es": "autoridad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The rules already prohibit leaving early, so how do we correctly report this instruction using 'forbid'?",
+          "options": ["The rules forbade us to leave early.", "The rules forbade us to not leave early.", "The rules forbade us not to leave early."],
+          "correct": 0,
+          "hint": "«Forbid» ya es negativo por sí mismo; el infinitivo que le sigue debe quedar afirmativo.",
+          "explanation": "«Forbid» significa «prohibir» y ya contiene la negación en su significado. Añadir «not» crearía una doble negación que anularía el sentido, por eso el infinitivo debe ir en afirmativo: «forbade us to leave»."
+        },
+        {
+          "type": "gap",
+          "text": "She begged the judge ___ her another chance.",
+          "options": ["to give", "give", "giving"],
+          "answer": "to give",
+          "explanation": "«Beg + objeto + to-infinitivo» sigue el mismo patrón que las peticiones: «begged the judge to give»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "warn", "es": "advertir" },
+            { "en": "beg", "es": "rogar/suplicar" },
+            { "en": "allow", "es": "permitir" },
+            { "en": "permission", "es": "permiso" },
+            { "en": "authority", "es": "autoridad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The manager said employees could leave early today; what did she do?",
+          "options": ["She permission employees to leave early.", "She authority employees to leave early.", "She allowed employees to leave early."],
+          "correct": 2,
+          "hint": "Solo una de las tres palabras funciona como verbo conjugable.",
+          "explanation": "«Allow» es el verbo «permitir». «Permission» y «authority» son sustantivos («permiso» y «autoridad») y no pueden conjugarse como verbos en esta frase."
+        },
+        {
+          "type": "gap",
+          "text": "You need special ___ to enter this area.",
+          "options": ["permission", "allow", "authority"],
+          "answer": "permission",
+          "explanation": "«Permission» es el sustantivo «permiso». «Allow» es un verbo y «authority» significa «autoridad», un concepto distinto de un permiso específico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Le prohibió salir",
+          "direction": "es-en",
+          "tiles": ["He", "forbade", "her", "to", "leave", "warned"],
+          "answer": "He forbade her to leave",
+          "explanation": "«Forbid» ya es negativo, así que el infinitivo queda afirmativo: «forbade her to leave». «Warned» es un distractor del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Le rogó que se quedara",
+          "direction": "es-en",
+          "tiles": ["She", "begged", "him", "to", "stay", "forbade"],
+          "answer": "She begged him to stay",
+          "explanation": "«Beg + objeto + to-infinitivo» expresa un ruego. «Forbade» es un distractor del mismo campo semántico de mandato."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tiene autoridad",
+          "direction": "es-en",
+          "tiles": ["He", "doesn't", "have", "authority", "permission", "allow"],
+          "answer": "He doesn't have authority",
+          "explanation": "«Authority» es «autoridad». «Permission» (permiso) y «allow» (permitir, verbo) son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "The guide warned the tourists not to get too close to the edge.",
+          "es": "El guía advirtió a los turistas que no se acercaran demasiado al borde."
+        },
+        {
+          "type": "speak",
+          "text": "The rules forbade us to leave early.",
+          "es": "Las normas nos prohibieron salir temprano."
+        },
+        {
+          "type": "speak",
+          "text": "She begged the judge to give her another chance.",
+          "es": "Ella le rogó al juez que le diera otra oportunidad."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "En la comisaría: hechos, verdad e interrogatorios",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "officer", "es": "oficial/policía" },
+            { "en": "chief", "es": "jefe/principal" },
+            { "en": "station", "es": "estación/comisaría" },
+            { "en": "interrogation", "es": "interrogatorio" },
+            { "en": "truth", "es": "verdad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "During the interrogation, the officer wanted to know if I had been to the crime scene before. Which sentence reports this question correctly?",
+          "options": ["The officer wanted to know if had I visited the crime scene before.", "The officer wanted to know whether I had visited the crime scene before.", "The officer wanted to know did I visit the crime scene before."],
+          "correct": 1,
+          "hint": "Busca el conector de pregunta de sí/no seguido de orden afirmativo (Sujeto + Verbo).",
+          "explanation": "«Whether I had visited» sigue el orden afirmativo correcto tras el conector de pregunta de sí/no. La opción a) invierte sujeto y verbo («had I visited») y la c) usa el auxiliar «did», prohibido en estilo indirecto."
+        },
+        {
+          "type": "gap",
+          "text": "The chief asked the officer to tell him the ___, not lies.",
+          "options": ["truth", "fact", "interrogation"],
+          "answer": "truth",
+          "explanation": "«Truth» es «verdad», lo opuesto a mentiras. «Fact» es un hecho concreto y «interrogation» es el propio proceso de preguntar; ninguno encaja con «not lies»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "chief", "es": "jefe/principal" },
+            { "en": "station", "es": "estación/comisaría" },
+            { "en": "interrogation", "es": "interrogatorio" },
+            { "en": "truth", "es": "verdad" },
+            { "en": "fact", "es": "hecho/realidad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The detective presented a piece of concrete, verifiable information as evidence. Is this the general concept of 'truth' or a specific piece of 'fact'?",
+          "options": ["It's a fact.", "It's the truth.", "It's an interrogation."],
+          "correct": 0,
+          "hint": "Es algo concreto y comprobable, no el concepto general de veracidad.",
+          "explanation": "«Fact» es un dato concreto y verificable. «Truth» es el concepto general de veracidad y «interrogation» es el proceso de preguntar, no una pieza de información."
+        },
+        {
+          "type": "gap",
+          "text": "They took him to the ___ for further questioning.",
+          "options": ["station", "truth", "fact"],
+          "answer": "station",
+          "explanation": "«Station» es la «comisaría», el lugar donde se llevan a los sospechosos para interrogarlos. «Truth» y «fact» no son lugares."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "officer", "es": "oficial/policía" },
+            { "en": "station", "es": "estación/comisaría" },
+            { "en": "interrogation", "es": "interrogatorio" },
+            { "en": "truth", "es": "verdad" },
+            { "en": "fact", "es": "hecho/realidad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The chief wants the officer to check all the facts again before ending the interrogation. Which sentence reports this advice correctly?",
+          "options": ["The chief advised the officer checking all the facts again.", "The chief advised the officer check all the facts again.", "The chief advised the officer to check all the facts again."],
+          "correct": 2,
+          "hint": "«Advise» sigue el patrón objeto + infinitivo con «to», igual que «order» o «warn».",
+          "explanation": "«Advise + objeto + to-infinitivo» es la estructura correcta: «advised the officer to check». Las otras dos opciones usan gerundio o forma base, incorrectas tras un objeto personal."
+        },
+        {
+          "type": "gap",
+          "text": "During the ___, the man refused to answer.",
+          "options": ["interrogation", "station", "chief"],
+          "answer": "interrogation",
+          "explanation": "«Interrogation» es el «interrogatorio», el proceso formal de hacer preguntas. «Station» es un lugar y «chief» es una persona; ninguno describe el proceso en sí."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El jefe llegó a la comisaría",
+          "direction": "es-en",
+          "tiles": ["The", "chief", "arrived", "at", "the", "station", "officer"],
+          "answer": "The chief arrived at the station",
+          "explanation": "«Chief» es «jefe» y «station» es «comisaría». «Officer» (oficial) es un distractor del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un hecho, no una opinión",
+          "direction": "es-en",
+          "tiles": ["It's", "a", "fact", "not", "an", "opinion", "truth"],
+          "answer": "It's a fact not an opinion",
+          "explanation": "«Fact» es un «hecho» concreto. «Truth» (verdad) es un concepto más general y funciona como distractor cercano."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El oficial dijo la verdad",
+          "direction": "es-en",
+          "tiles": ["The", "officer", "told", "the", "truth", "fact", "chief"],
+          "answer": "The officer told the truth",
+          "explanation": "«Truth» es «verdad», lo que se dice de forma sincera. «Fact» y «chief» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "The officer wanted to know whether I had visited the crime scene before.",
+          "es": "El oficial quería saber si yo había visitado la escena del crimen antes."
+        },
+        {
+          "type": "speak",
+          "text": "During the interrogation, the man refused to answer.",
+          "es": "Durante el interrogatorio, el hombre se negó a responder."
+        },
+        {
+          "type": "speak",
+          "text": "The chief advised the officer to check all the facts.",
+          "es": "El jefe le aconsejó al oficial que revisara todos los hechos."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Ante el tribunal: repaso final del estilo indirecto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "alibi", "es": "coartada" },
+            { "en": "suspect", "es": "sospechoso" },
+            { "en": "innocent", "es": "inocente" },
+            { "en": "guilty", "es": "culpable" },
+            { "en": "lawyer", "es": "abogado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "During the interrogation, the chief gave the suspect a direct negative order to stay in the room. Which sentence reports this order correctly?",
+          "options": ["The chief ordered the suspect that he doesn't leave the room.", "The chief ordered the suspect to not leave the room.", "The chief ordered the suspect not to leave the room."],
+          "correct": 2,
+          "hint": "La negación va siempre inmediatamente antes de «to», nunca después ni con cláusula «that».",
+          "explanation": "«Not to leave» coloca correctamente la negación antes del infinitivo. La opción a) usa una cláusula con «that» incorrecta para órdenes, y la b) coloca mal la negación («to not leave»)."
+        },
+        {
+          "type": "gap",
+          "text": "The court found him ___, so he went to prison.",
+          "options": ["guilty", "innocent", "alibi"],
+          "answer": "guilty",
+          "explanation": "«Guilty» es «culpable», el veredicto que lleva a prisión. «Innocent» sería lo contrario y «alibi» no es un veredicto, sino una prueba de coartada."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "suspect", "es": "sospechoso" },
+            { "en": "innocent", "es": "inocente" },
+            { "en": "guilty", "es": "culpable" },
+            { "en": "lawyer", "es": "abogado" },
+            { "en": "court", "es": "tribunal" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The lawyer asked the witness a question about the location of the suspect's alibi on the night of the crime. Which sentence reports this correctly?",
+          "options": ["The lawyer asked the witness where was her alibi on the night of the crime.", "The lawyer asked the witness where her alibi was on the night of the crime.", "The lawyer asked the witness where did her alibi be on the night of the crime."],
+          "correct": 1,
+          "hint": "Recuerda el orden afirmativo Sujeto + Verbo tras la palabra interrogativa.",
+          "explanation": "«Where her alibi was» respeta el orden afirmativo (Sujeto + Verbo) y la regresión temporal correcta. La opción a) mantiene la inversión de pregunta directa y la c) usa la estructura inexistente «did her alibi be»."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ defended his client in front of the judge.",
+          "options": ["lawyer", "suspect", "court"],
+          "answer": "lawyer",
+          "explanation": "«Lawyer» es el «abogado», quien defiende a su cliente. «Suspect» es el sospechoso y «court» es el lugar, el tribunal."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "alibi", "es": "coartada" },
+            { "en": "innocent", "es": "inocente" },
+            { "en": "guilty", "es": "culpable" },
+            { "en": "lawyer", "es": "abogado" },
+            { "en": "court", "es": "tribunal" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Because the evidence was unclear, the jury had a doubt about whether the suspect was innocent or not. Which sentence reports this doubt correctly?",
+          "options": ["The jury wondered whether the suspect was innocent.", "The jury wondered that the suspect was innocent.", "The jury wondered what the suspect was innocent."],
+          "correct": 0,
+          "hint": "Es una duda de sí/no; necesita el conector «whether», no «that» ni «what».",
+          "explanation": "«Wonder whether» introduce correctamente una duda de sí/no. «That» no introduce dudas y «what» se usaría para pedir información específica, no para plantear una alternativa binaria."
+        },
+        {
+          "type": "gap",
+          "text": "There wasn't enough evidence to prove he was ___, so the court set him free.",
+          "options": ["innocent", "guilty", "lawyer"],
+          "answer": "innocent",
+          "explanation": "«Innocent» es «inocente». Si no hay pruebas suficientes de culpabilidad, la corte lo declara inocente y lo libera; «guilty» sería lo opuesto y «lawyer» no es un veredicto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El sospechoso tiene una coartada",
+          "direction": "es-en",
+          "tiles": ["The", "suspect", "has", "an", "alibi", "lawyer", "guilty"],
+          "answer": "The suspect has an alibi",
+          "explanation": "«Suspect» es «sospechoso» y «alibi» es «coartada». «Lawyer» y «guilty» son distractores del mismo campo semántico legal."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El abogado dijo que era inocente",
+          "direction": "es-en",
+          "tiles": ["The", "lawyer", "said", "he", "was", "innocent", "guilty"],
+          "answer": "The lawyer said he was innocent",
+          "explanation": "«Innocent» es «inocente», lo contrario de «guilty» (culpable), que funciona aquí como distractor antónimo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El tribunal preguntó dónde estaba",
+          "direction": "es-en",
+          "tiles": ["The", "court", "asked", "where", "he", "was", "alibi"],
+          "answer": "The court asked where he was",
+          "explanation": "Recuerda el orden afirmativo tras la palabra interrogativa: «where he was», nunca «where was he». «Alibi» es un distractor de vocabulario."
+        },
+        {
+          "type": "speak",
+          "text": "The chief ordered the suspect not to leave the room.",
+          "es": "El jefe le ordenó al sospechoso que no saliera de la habitación."
+        },
+        {
+          "type": "speak",
+          "text": "The lawyer asked the witness where her alibi was.",
+          "es": "El abogado le preguntó a la testigo dónde estaba su coartada."
+        },
+        {
+          "type": "speak",
+          "text": "The jury wondered whether the suspect was innocent or guilty.",
+          "es": "El jurado se preguntaba si el sospechoso era inocente o culpable."
+        }
+      ]
+    }
+  ]
+}

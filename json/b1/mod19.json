@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod19",
+  "module": 19,
+  "title": "Passive Voice: Other Tenses and the Agent",
+  "subtitle": "Voz Pasiva Compleja",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Noticias en directo: la pasiva continua de presente",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "news", "es": "noticias" },
+            { "en": "report", "es": "informe/reportaje" },
+            { "en": "journalist", "es": "periodista" },
+            { "en": "press", "es": "prensa/presionar" },
+            { "en": "media", "es": "medios de comunicación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A camera crew is filming the elections live and viewers are watching everything as it happens. How does a newspaper describe this on air?",
+          "options": ["The elections are being broadcast live.", "The elections broadcast live.", "The elections have broadcast live."],
+          "correct": 0,
+          "hint": "Busca la pasiva continua: algo está siendo transmitido ahora mismo.",
+          "explanation": "«Are being broadcast» es la pasiva continua de presente: las elecciones reciben la acción de transmitir en este momento. «Broadcast live» sin «being» sería activa, y «have broadcast» sería pasiva perfecta, no continua."
+        },
+        {
+          "type": "gap",
+          "text": "Right now, the report ___ written by a journalist from the press.",
+          "options": ["is being", "is", "was"],
+          "answer": "is being",
+          "explanation": "La pasiva continua de presente exige «is/are being + participio». Sin «being», la frase pierde el matiz de acción en curso ahora mismo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "report", "es": "informe/reportaje" },
+            { "en": "journalist", "es": "periodista" },
+            { "en": "press", "es": "prensa/presionar" },
+            { "en": "media", "es": "medios de comunicación" },
+            { "en": "broadcast", "es": "transmitir/emisión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which word refers to newspapers, TV channels and radio stations all together, as an industry?",
+          "options": ["the journalist", "the media", "the broadcast"],
+          "correct": 1,
+          "hint": "Es el término colectivo para todos los canales de comunicación.",
+          "explanation": "«The media» es el término colectivo para todos los medios de comunicación. «Journalist» es una persona concreta y «broadcast» es la emisión en sí, no la industria."
+        },
+        {
+          "type": "gap",
+          "text": "The news ___ broadcast on every channel at this very moment.",
+          "options": ["is being", "are being", "was"],
+          "answer": "is being",
+          "explanation": "«News» es un sustantivo incontable y singular en inglés, así que exige el verbo en singular: «is being broadcast», no «are being»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "news", "es": "noticias" },
+            { "en": "journalist", "es": "periodista" },
+            { "en": "press", "es": "prensa/presionar" },
+            { "en": "media", "es": "medios de comunicación" },
+            { "en": "broadcast", "es": "transmitir/emisión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A famous journalist is currently interviewing a politician live on television, in front of thousands of viewers. How would you describe the interview at this exact moment?",
+          "options": ["The interview films live.", "The interview had been filmed live.", "The interview is being filmed live."],
+          "correct": 2,
+          "hint": "Es una acción pasiva en curso ahora mismo.",
+          "explanation": "«Is being filmed» expresa la pasiva continua de presente: la entrevista recibe la acción de filmar en este preciso instante. «Films live» es activa y «had been filmed» es pasiva perfecta de pasado, tiempo incorrecto aquí."
+        },
+        {
+          "type": "gap",
+          "text": "The press ___ waiting outside the courtroom for the verdict.",
+          "options": ["is", "is being", "was being"],
+          "answer": "is",
+          "explanation": "Aquí «the press» es sujeto activo (la prensa espera), no receptor de una acción, así que no necesita forma pasiva: simplemente «is waiting»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El informe está siendo escrito",
+          "direction": "es-en",
+          "tiles": ["The", "report", "is", "being", "written", "news", "broadcast"],
+          "answer": "The report is being written",
+          "explanation": "«Is being written» es la pasiva continua de presente. «News» y «broadcast» son palabras del mismo campo semántico usadas como distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Las noticias están siendo transmitidas",
+          "direction": "es-en",
+          "tiles": ["The", "news", "is", "being", "broadcast", "are", "report"],
+          "answer": "The news is being broadcast",
+          "explanation": "«News» es incontable y singular en inglés, por eso el verbo es «is», no «are». «Report» es un distractor del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El periodista está siendo entrevistado",
+          "direction": "es-en",
+          "tiles": ["The", "journalist", "is", "being", "interviewed", "media", "press"],
+          "answer": "The journalist is being interviewed",
+          "explanation": "«Is being interviewed» es la pasiva continua de presente. «Media» y «press» son distractores relacionados con el mundo periodístico."
+        },
+        {
+          "type": "speak",
+          "text": "The report is being written by the journalist right now.",
+          "es": "El informe está siendo escrito por el periodista ahora mismo."
+        },
+        {
+          "type": "speak",
+          "text": "The news is being broadcast on every channel.",
+          "es": "Las noticias están siendo transmitidas en todos los canales."
+        },
+        {
+          "type": "speak",
+          "text": "The press is waiting outside the courtroom.",
+          "es": "La prensa está esperando fuera del juzgado."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Anuncios y fuentes: la pasiva continua de pasado y el agente",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "announce", "es": "anunciar" },
+            { "en": "declare", "es": "declarar" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "source", "es": "fuente" },
+            { "en": "actor", "es": "actor" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Yesterday at noon, while people were having lunch, the president's decision was made public on live radio at that exact moment. How was the decision announced?",
+          "options": ["The decision was being announced.", "The decision announces.", "The decision has announced."],
+          "correct": 0,
+          "hint": "Busca la pasiva continua de pasado: una acción en curso en un momento concreto del pasado.",
+          "explanation": "«Was being announced» es la pasiva continua de pasado: la decisión estaba siendo anunciada en ese momento exacto. «Announces» es activa y «has announced» es pasiva perfecta, sin relación con «at that exact moment»."
+        },
+        {
+          "type": "gap",
+          "text": "The results ___ verified by an expert when the journalist called.",
+          "options": ["were being", "were", "had been"],
+          "answer": "were being",
+          "explanation": "La pasiva continua de pasado describe una acción interrumpida por otra: la verificación estaba en curso cuando llamó el periodista."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "declare", "es": "declarar" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "source", "es": "fuente" },
+            { "en": "actor", "es": "actor" },
+            { "en": "agent", "es": "agente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A famous actor wrote an autobiography, and this is important information for the reader. How should you mention the author in a passive sentence?",
+          "options": ["The autobiography was written for a famous actor.", "The autobiography was written.", "The autobiography was written by a famous actor."],
+          "correct": 2,
+          "hint": "El agente importante se introduce con «by», y aquí sí conviene mencionarlo.",
+          "explanation": "Cuando el agente aporta información relevante (quién es el autor), se incluye con «by». «For» es incorrecto como preposición de agente, y omitirlo del todo perdería un dato importante."
+        },
+        {
+          "type": "gap",
+          "text": "Nobody knows who leaked the documents; the ___ remains unknown.",
+          "options": ["source", "actor", "agent"],
+          "answer": "source",
+          "explanation": "«Source» es la «fuente», el origen de una información. «Actor» y «agent» no encajan en este contexto de una filtración anónima."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "announce", "es": "anunciar" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "source", "es": "fuente" },
+            { "en": "actor", "es": "actor" },
+            { "en": "agent", "es": "agente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The police caught the criminal, but everybody already knows that catching criminals is the job of the police, so this information is obvious. How would a report usually phrase this passively?",
+          "options": ["The criminal was arrested by criminals.", "The criminal was arrested.", "The criminal was arrested by the police."],
+          "correct": 1,
+          "hint": "El agente se omite cuando es obvio.",
+          "explanation": "Cuando el agente es obvio (la policía siempre arresta), se omite el «by». Mencionarlo («by the police») sería redundante, y «by criminals» no tiene sentido lógico."
+        },
+        {
+          "type": "gap",
+          "text": "The novel was written ___ a famous journalist, which explains its objective style.",
+          "options": ["by", "with", "from"],
+          "answer": "by",
+          "explanation": "«By» introduce al agente, la persona que realiza la acción. «With» se usa para instrumentos y «from» para procedencia u origen."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La decisión fue anunciada",
+          "direction": "es-en",
+          "tiles": ["The", "decision", "was", "announced", "declared", "source"],
+          "answer": "The decision was announced",
+          "explanation": "«Announced» es el participio de «announce» (anunciar). «Declared» y «source» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El actor fue verificado",
+          "direction": "es-en",
+          "tiles": ["The", "actor", "was", "verified", "agent", "declared"],
+          "answer": "The actor was verified",
+          "explanation": "«Verified» es el participio de «verify» (verificar). «Agent» y «declared» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Fue declarado por un agente",
+          "direction": "es-en",
+          "tiles": ["It", "was", "declared", "by", "an", "agent", "source", "with"],
+          "answer": "It was declared by an agent",
+          "explanation": "«By» introduce al agente (quien declaró). «With» sería incorrecto porque no es un instrumento, y «source» es un distractor semántico."
+        },
+        {
+          "type": "speak",
+          "text": "The results were being verified when the journalist called.",
+          "es": "Los resultados estaban siendo verificados cuando llamó el periodista."
+        },
+        {
+          "type": "speak",
+          "text": "The autobiography was written by a famous actor.",
+          "es": "La autobiografía fue escrita por un actor famoso."
+        },
+        {
+          "type": "speak",
+          "text": "The criminal was arrested.",
+          "es": "El criminal fue arrestado."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Delitos resueltos: la pasiva perfecta de presente",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "criminal", "es": "criminal" },
+            { "en": "police", "es": "policía" },
+            { "en": "arrest", "es": "arrestar/arresto" },
+            { "en": "steal", "es": "robar" },
+            { "en": "damage", "es": "dañar/daño" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The police caught the thief only minutes ago, and now everyone in the neighbourhood knows about it because it just happened. How would you report this recent event?",
+          "options": ["The criminal has been arrested.", "The criminal is arresting.", "The criminal had been arrested."],
+          "correct": 0,
+          "hint": "Es un hecho reciente con resultado presente: pasiva perfecta de presente.",
+          "explanation": "«Has been arrested» conecta una acción pasada reciente con su resultado actual. «Is arresting» es activa y «had been arrested» sería para un momento anterior a otro pasado, no aplicable aquí."
+        },
+        {
+          "type": "gap",
+          "text": "My wallet ___ stolen; I can't find it anywhere!",
+          "options": ["has been", "was being", "had been"],
+          "answer": "has been",
+          "explanation": "La pasiva perfecta de presente conecta un hecho reciente con su resultado visible ahora (no encuentro la cartera)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "police", "es": "policía" },
+            { "en": "arrest", "es": "arrestar/arresto" },
+            { "en": "steal", "es": "robar" },
+            { "en": "damage", "es": "dañar/daño" },
+            { "en": "destroy", "es": "destruir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A storm hit the old bridge last night, and now nothing is left of it at all; it's completely gone. How would you describe the bridge now?",
+          "options": ["The bridge destroys.", "The bridge was destroying.", "The bridge has been destroyed."],
+          "correct": 2,
+          "hint": "Busca la pasiva perfecta que conecta el hecho pasado con el resultado presente (ya no queda nada).",
+          "explanation": "«Has been destroyed» expresa un hecho completado cuyo resultado es visible ahora (el puente ya no existe). «Destroys» es activa y «was destroying» sería pasiva continua de pasado, sin conexión con el presente."
+        },
+        {
+          "type": "gap",
+          "text": "The old car ___ damaged in the accident, so now it doesn't start.",
+          "options": ["has been", "is being", "was being"],
+          "answer": "has been",
+          "explanation": "El resultado presente («doesn't start») exige la pasiva perfecta de presente: el daño ocurrió y todavía afecta al coche ahora."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "criminal", "es": "criminal" },
+            { "en": "police", "es": "policía" },
+            { "en": "arrest", "es": "arrestar/arresto" },
+            { "en": "steal", "es": "robar" },
+            { "en": "destroy", "es": "destruir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The company just announced that no evidence has disappeared and every document is still exactly where it should be. What can we say about the files?",
+          "options": ["The files aren't stealing.", "The files haven't been stolen.", "The files hadn't been stolen."],
+          "correct": 1,
+          "hint": "Forma negativa de la pasiva perfecta de presente.",
+          "explanation": "«Haven't been stolen» es la forma negativa de la pasiva perfecta de presente, adecuada para un resultado comprobado ahora mismo. «Aren't stealing» es activa y «hadn't been stolen» correspondería a un momento anterior a otro pasado."
+        },
+        {
+          "type": "gap",
+          "text": "The thief tried to run, but a police officer managed to ___ him near the station.",
+          "options": ["arrest", "steal", "damage"],
+          "answer": "arrest",
+          "explanation": "«Arrest» es «arrestar/detener». «Steal» es robar y «damage» es dañar; ninguno encaja con la acción de detener a alguien."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El criminal ha sido arrestado",
+          "direction": "es-en",
+          "tiles": ["The", "criminal", "has", "been", "arrested", "police", "stolen"],
+          "answer": "The criminal has been arrested",
+          "explanation": "«Has been arrested» es la pasiva perfecta de presente. «Police» y «stolen» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ha sido dañado",
+          "direction": "es-en",
+          "tiles": ["It", "has", "been", "damaged", "destroyed", "arrested"],
+          "answer": "It has been damaged",
+          "explanation": "«Has been damaged» es el participio pasivo de «damage». «Destroyed» y «arrested» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El puente ha sido destruido",
+          "direction": "es-en",
+          "tiles": ["The", "bridge", "has", "been", "destroyed", "damaged", "police"],
+          "answer": "The bridge has been destroyed",
+          "explanation": "«Has been destroyed» es la pasiva perfecta de presente. «Damaged» y «police» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "The criminal has been arrested.",
+          "es": "El criminal ha sido arrestado."
+        },
+        {
+          "type": "speak",
+          "text": "Something valuable has been stolen.",
+          "es": "Algo valioso ha sido robado."
+        },
+        {
+          "type": "speak",
+          "text": "The bridge has been destroyed by the storm.",
+          "es": "El puente ha sido destruido por la tormenta."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Bancos y reparaciones: la pasiva perfecta de pasado",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "rebuild", "es": "reconstruir" },
+            { "en": "repair", "es": "reparar" },
+            { "en": "money", "es": "dinero" },
+            { "en": "bank", "es": "banco" },
+            { "en": "vault", "es": "bóveda" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The local newspaper reported that the bank vault ___ when the alarm went off, describing an action in progress at that exact moment.",
+          "options": ["was searching", "was being searched", "had searched"],
+          "correct": 1,
+          "hint": "Busca la pasiva continua de pasado, para una acción interrumpida por otro evento (la alarma).",
+          "explanation": "«Was being searched» es la pasiva continua de pasado: la bóveda recibía la acción de registrar justo cuando sonó la alarma. «Was searching» es activa (sin sentido, la bóveda no puede buscar) y «had searched» es pasado perfecto activo, también sin sentido lógico."
+        },
+        {
+          "type": "gap",
+          "text": "By the time the guard arrived, the vault ___ already opened by the thief.",
+          "options": ["had been", "was being", "has been"],
+          "answer": "had been",
+          "explanation": "La pasiva perfecta de pasado indica que la bóveda ya había sido abierta antes de que llegara el guardia, una acción anterior a otra en el pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "repair", "es": "reparar" },
+            { "en": "money", "es": "dinero" },
+            { "en": "bank", "es": "banco" },
+            { "en": "vault", "es": "bóveda" },
+            { "en": "alarm", "es": "alarma" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "A press release confirms that technicians are currently working on the damaged equipment at this very moment. How is the equipment described in the release?",
+          "options": ["It is being repaired.", "It is repairing.", "It repaired."],
+          "correct": 0,
+          "hint": "El equipo recibe la acción ahora mismo: pasiva continua de presente.",
+          "explanation": "«Is being repaired» expresa la acción en curso ahora mismo sobre el equipo (sujeto paciente). «Is repairing» sería activa (el equipo repararía algo) y «repaired» es pasado simple, incompatible con «at this very moment»."
+        },
+        {
+          "type": "gap",
+          "text": "The old building ___ rebuilt before the new owners bought it.",
+          "options": ["had been", "has been", "was being"],
+          "answer": "had been",
+          "explanation": "La reconstrucción ya se había completado antes de otro momento del pasado (antes de que los nuevos dueños lo compraran): pasiva perfecta de pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "rebuild", "es": "reconstruir" },
+            { "en": "money", "es": "dinero" },
+            { "en": "bank", "es": "banco" },
+            { "en": "vault", "es": "bóveda" },
+            { "en": "alarm", "es": "alarma" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The old bank building had been completely destroyed in a fire, so by the time the new owners took charge, workers had already replaced every single wall. What had happened to the building?",
+          "options": ["The building is being rebuilt.", "The building has been rebuilt.", "The building had been rebuilt."],
+          "correct": 2,
+          "hint": "Es una acción completada antes de otro momento pasado (antes de que los nuevos dueños tomaran el mando).",
+          "explanation": "«Had been rebuilt» es la pasiva perfecta de pasado, pues la reconstrucción ya se había completado antes de que los nuevos dueños llegaran. «Is being rebuilt» es presente continuo y «has been rebuilt» es pasiva perfecta de presente; ninguna encaja con la referencia temporal pasada."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ went off just as the thief tried to escape.",
+          "options": ["alarm", "vault", "money"],
+          "answer": "alarm",
+          "explanation": "«Alarm» es la alarma que suena. «Vault» es la bóveda y «money» es el dinero; ninguno de los dos «suena» por sí mismo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El dinero había sido robado",
+          "direction": "es-en",
+          "tiles": ["The", "money", "had", "been", "stolen", "bank", "repaired"],
+          "answer": "The money had been stolen",
+          "explanation": "«Had been stolen» es la pasiva perfecta de pasado. «Bank» y «repaired» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El banco fue reconstruido",
+          "direction": "es-en",
+          "tiles": ["The", "bank", "was", "rebuilt", "repaired", "vault"],
+          "answer": "The bank was rebuilt",
+          "explanation": "«Rebuilt» es el participio de «rebuild» (reconstruir). «Repaired» y «vault» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La bóveda había sido abierta",
+          "direction": "es-en",
+          "tiles": ["The", "vault", "had", "been", "opened", "alarm", "money"],
+          "answer": "The vault had been opened",
+          "explanation": "«Had been opened» es la pasiva perfecta de pasado. «Alarm» y «money» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "The vault was being searched when the alarm rang.",
+          "es": "La bóveda estaba siendo registrada cuando sonó la alarma."
+        },
+        {
+          "type": "speak",
+          "text": "The equipment is being repaired.",
+          "es": "El equipo está siendo reparado."
+        },
+        {
+          "type": "speak",
+          "text": "The money had been stolen before the guard arrived.",
+          "es": "El dinero había sido robado antes de que llegara el guardia."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "El agente y el instrumento: repaso final de la pasiva",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "camera", "es": "cámara" },
+            { "en": "guard", "es": "guardia/custodiar" },
+            { "en": "investigation", "es": "investigación" },
+            { "en": "search", "es": "buscar/búsqueda" },
+            { "en": "charge", "es": "cargo/cargar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "By the time the guards finally noticed something was wrong, the criminal had already taken every single coin from the safe. What had happened to the money at that point?",
+          "options": ["All the money had been stolen.", "All the money has been stolen.", "All the money was stealing."],
+          "correct": 0,
+          "hint": "Es una acción completada antes de otro momento pasado (antes de que los guardias notaran algo).",
+          "explanation": "«Had been stolen» expresa que el robo ya se había completado antes de que los guardias notaran algo, un claro pasado perfecto pasivo. «Has been stolen» no concuerda con la referencia en pasado, y «was stealing» es voz activa y carece de sentido con «money» como sujeto."
+        },
+        {
+          "type": "gap",
+          "text": "The broken window was caused ___ a rock, not by a person.",
+          "options": ["with", "by", "from"],
+          "answer": "with",
+          "explanation": "«With» introduce el instrumento (objeto inanimado que causa la acción). «By» se reserva para el agente animado, y «from» indica procedencia."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "guard", "es": "guardia/custodiar" },
+            { "en": "investigation", "es": "investigación" },
+            { "en": "search", "es": "buscar/búsqueda" },
+            { "en": "charge", "es": "cargo/cargar" },
+            { "en": "by", "es": "por (agente)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The journalist wanted to know whether technical experts had already checked the camera footage before he wrote his article. What had happened to the footage?",
+          "options": ["It is verified.", "It had been verified.", "It has verified."],
+          "correct": 1,
+          "hint": "El verbo principal está en pasado («wanted»), así que la cláusula subordinada necesita regresión temporal.",
+          "explanation": "«Had been verified» es la pasiva perfecta de pasado, coherente con el verbo principal «wanted» (en pasado). «Is verified» rompe la concordancia temporal, y «has verified» es activa y no tiene sentido, ya que el metraje no puede verificar nada por sí mismo."
+        },
+        {
+          "type": "gap",
+          "text": "The crime scene photographs were taken ___ a professional camera.",
+          "options": ["with", "by", "from"],
+          "answer": "with",
+          "explanation": "La cámara es el instrumento con el que se toman las fotografías, no un agente consciente, así que se usa «with», no «by»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "camera", "es": "cámara" },
+            { "en": "investigation", "es": "investigación" },
+            { "en": "search", "es": "buscar/búsqueda" },
+            { "en": "charge", "es": "cargo/cargar" },
+            { "en": "by", "es": "por (agente)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The chief of police confirmed that trained security personnel were protecting the crime scene throughout the night. Which preposition correctly introduces who was guarding it?",
+          "options": ["with security personnel", "from security personnel", "by security personnel"],
+          "correct": 2,
+          "hint": "El agente animado siempre se introduce con la misma preposición.",
+          "explanation": "«By» es la preposición obligatoria para introducir al agente animado (security personnel) en una oración pasiva. «With» se usa para instrumentos y «from» para procedencia u origen."
+        },
+        {
+          "type": "gap",
+          "text": "The suspect was finally ___ with theft after a long investigation.",
+          "options": ["charged", "searched", "guarded"],
+          "answer": "charged",
+          "explanation": "«Charged with» significa «acusado de». «Searched» es registrado/buscado y «guarded» es custodiado; ninguno encaja con «with theft»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Fue acusado por la policía",
+          "direction": "es-en",
+          "tiles": ["He", "was", "charged", "by", "the", "police", "with", "guard"],
+          "answer": "He was charged by the police",
+          "explanation": "«By» introduce al agente humano. «With» es incorrecto aquí porque no se trata de un instrumento, y «guard» es un distractor semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La cámara está siendo revisada",
+          "direction": "es-en",
+          "tiles": ["The", "camera", "is", "being", "checked", "search", "guard"],
+          "answer": "The camera is being checked",
+          "explanation": "«Is being checked» es pasiva continua de presente. «Search» y «guard» son distractores del mismo campo semántico de la investigación."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Fue roto con una piedra",
+          "direction": "es-en",
+          "tiles": ["It", "was", "broken", "with", "a", "rock", "by", "guard"],
+          "answer": "It was broken with a rock",
+          "explanation": "«With» introduce el instrumento (la piedra), no el agente. «By» sería incorrecto porque una piedra no es un agente consciente."
+        },
+        {
+          "type": "speak",
+          "text": "All the money had been stolen by the time the guards noticed.",
+          "es": "Todo el dinero había sido robado cuando los guardias se dieron cuenta."
+        },
+        {
+          "type": "speak",
+          "text": "The footage had been verified before he wrote the article.",
+          "es": "El metraje había sido verificado antes de que escribiera el artículo."
+        },
+        {
+          "type": "speak",
+          "text": "The crime scene was being guarded by security personnel.",
+          "es": "La escena del crimen estaba siendo custodiada por personal de seguridad."
+        }
+      ]
+    }
+  ]
+}

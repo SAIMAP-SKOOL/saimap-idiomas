@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod23",
+  "module": 23,
+  "title": "Defining Relative Clauses",
+  "subtitle": "Oraciones Relativas de Definición",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Herramientas y aparatos: who vs which/that",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "device", "es": "dispositivo" },
+            { "en": "tool", "es": "herramienta" },
+            { "en": "machine", "es": "máquina" },
+            { "en": "instrument", "es": "instrumento" },
+            { "en": "gadget", "es": "aparato/artilugio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to describe a person who designed a great machine, not the machine itself. Which relative pronoun should introduce the clause about the person?",
+          "options": ["which", "who", "whose"],
+          "correct": 1,
+          "hint": "«Who» se usa exclusivamente para personas.",
+          "explanation": "«Who» se utiliza para definir personas («the person who designed...»). «Which» se usa para objetos y «whose» indica posesión, no es lo que se pide aquí."
+        },
+        {
+          "type": "gap",
+          "text": "This is the tool ___ lies on the desk.",
+          "options": ["which", "who", "whose"],
+          "answer": "which",
+          "explanation": "«Which» se usa para objetos, como «tool». «Who» es exclusivamente para personas."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "tool", "es": "herramienta" },
+            { "en": "machine", "es": "máquina" },
+            { "en": "instrument", "es": "instrumento" },
+            { "en": "gadget", "es": "aparato/artilugio" },
+            { "en": "who", "es": "quien/quienes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The machine crashed yesterday and is now broken. Which sentence correctly identifies the machine using a relative clause?",
+          "options": ["The machine that crashed yesterday is broken.", "The machine crashed yesterday is broken.", "The machine what crashed yesterday is broken."],
+          "correct": 0,
+          "hint": "Cuando el relativo es sujeto de la cláusula (va seguido de un verbo), no se puede omitir.",
+          "explanation": "«That» es necesario aquí porque actúa como sujeto de «crashed» (le sigue un verbo); no puede omitirse. «What» nunca funciona como pronombre relativo en este uso."
+        },
+        {
+          "type": "gap",
+          "text": "The individual ___ designed this gadget is a genius.",
+          "options": ["who", "which", "whose"],
+          "answer": "who",
+          "explanation": "«Who» se usa para personas («the individual»). «Which» es para objetos y «whose» indica posesión."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "device", "es": "dispositivo" },
+            { "en": "tool", "es": "herramienta" },
+            { "en": "instrument", "es": "instrumento" },
+            { "en": "gadget", "es": "aparato/artilugio" },
+            { "en": "who", "es": "quien/quienes" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In everyday spoken English, which word can replace both 'who' and 'which' informally?",
+          "options": ["whose", "where", "that"],
+          "correct": 2,
+          "hint": "Es el relativo más neutro y común en el habla informal.",
+          "explanation": "«That» puede sustituir tanto a «who» (personas) como a «which» (objetos) en registro informal/neutro. «Whose» indica posesión y «where» se usa para lugares."
+        },
+        {
+          "type": "gap",
+          "text": "The person ___ has this job must work hard.",
+          "options": ["that", "which", "whose"],
+          "answer": "that",
+          "explanation": "«That» puede usarse para personas en registro informal, sustituyendo a «who». «Which» no se usa para personas."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El dispositivo tiene una función",
+          "direction": "es-en",
+          "tiles": ["The", "device", "has", "a", "function", "machine", "tool"],
+          "answer": "The device has a function",
+          "explanation": "«Device» es «dispositivo». «Machine» y «tool» son distractores del mismo campo semántico de objetos técnicos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una herramienta útil",
+          "direction": "es-en",
+          "tiles": ["It's", "a", "useful", "tool", "instrument", "gadget"],
+          "answer": "It's a useful tool",
+          "explanation": "«Tool» es «herramienta». «Instrument» y «gadget» son distractores cercanos en significado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Quien diseñó la máquina es un genio",
+          "direction": "es-en",
+          "tiles": ["The", "person", "who", "designed", "the", "machine", "is", "a", "genius", "which"],
+          "answer": "The person who designed the machine is a genius",
+          "explanation": "«Who» introduce la cláusula sobre la persona. «Which» sería incorrecto porque se usa para objetos, no personas."
+        },
+        {
+          "type": "speak",
+          "text": "This is the tool which lies on the desk.",
+          "es": "Esta es la herramienta que está sobre el escritorio."
+        },
+        {
+          "type": "speak",
+          "text": "The person who has this job must work hard.",
+          "es": "La persona que tiene este trabajo debe trabajar duro."
+        },
+        {
+          "type": "speak",
+          "text": "The machine that crashed yesterday is broken.",
+          "es": "La máquina que se estropeó ayer está rota."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Cuándo omitir el relativo: whose y los conectores",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "which", "es": "el cual/los cuales" },
+            { "en": "that", "es": "que/el cual" },
+            { "en": "whose", "es": "cuyo/a/os/as" },
+            { "en": "where", "es": "donde" },
+            { "en": "when", "es": "cuando" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The device ___ we bought last week has a very interesting feature. Which option correctly completes this sentence?",
+          "options": ["who", "whose", "no pronoun needed"],
+          "correct": 2,
+          "hint": "El antecedente es un objeto («device») y el relativo actúa como objeto de «bought»: puede omitirse.",
+          "explanation": "El pronombre relativo actúa aquí como objeto de «bought» («we bought the device»), por lo que su omisión es perfectamente natural. «Who» solo se usa para personas y «whose» indica posesión; ninguno encaja."
+        },
+        {
+          "type": "gap",
+          "text": "This is the gadget ___ we use for the task.",
+          "options": ["that", "who", "whose"],
+          "answer": "that",
+          "explanation": "«That» (o «which») es el pronombre relativo de objeto correcto para «gadget»; aquí se pide completar el hueco de forma explícita."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "that", "es": "que/el cual" },
+            { "en": "whose", "es": "cuyo/a/os/as" },
+            { "en": "where", "es": "donde" },
+            { "en": "when", "es": "cuando" },
+            { "en": "why", "es": "por qué/por lo cual" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The lawyer was looking for the client whose letter was left on the desk. Which sentence expresses this correctly?",
+          "options": ["The lawyer was looking for the client that letter was left on the desk.", "The lawyer was looking for the client whose letter was left on the desk.", "The lawyer was looking for the client who letter was left on the desk."],
+          "correct": 1,
+          "hint": "Busca el relativo posesivo, el que va seguido directamente de un sustantivo sin artículo.",
+          "explanation": "«Whose» une correctamente al poseedor (the client) con lo poseído (letter): «whose letter». «That letter» rompe la conexión posesiva y «who letter» es agramatical, ya que «who» nunca precede directamente a un sustantivo sin verbo."
+        },
+        {
+          "type": "gap",
+          "text": "This is the office ___ I perform my daily tasks.",
+          "options": ["where", "which", "whose"],
+          "answer": "where",
+          "explanation": "«Where» se usa para definir un lugar («office»). «Which» y «whose» no encajan en este contexto de ubicación."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "which", "es": "el cual/los cuales" },
+            { "en": "whose", "es": "cuyo/a/os/as" },
+            { "en": "where", "es": "donde" },
+            { "en": "when", "es": "cuando" },
+            { "en": "why", "es": "por qué/por lo cual" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to explain the cause behind a decision, usually right after the word 'reason'. Which relative word fits?",
+          "options": ["why", "where", "when"],
+          "correct": 0,
+          "hint": "Suele ir justo después de la palabra «reason».",
+          "explanation": "«Why» se usa tras «reason» para explicar una causa o motivo. «Where» es para lugares y «when» para momentos."
+        },
+        {
+          "type": "gap",
+          "text": "Summer is the period ___ we have more time to learn.",
+          "options": ["when", "where", "why"],
+          "answer": "when",
+          "explanation": "«When» se usa para definir un período o momento («summer»). «Where» es para lugares y «why» es para razones."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este es el aparato que compramos",
+          "direction": "es-en",
+          "tiles": ["This", "is", "the", "gadget", "we", "bought", "that", "which"],
+          "answer": "This is the gadget we bought",
+          "explanation": "El relativo de objeto puede omitirse de forma natural: «the gadget we bought». «That» y «which» funcionan como distractores, ya que también serían válidos pero no es la forma pedida."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La persona cuyo trabajo es difícil",
+          "direction": "es-en",
+          "tiles": ["The", "person", "whose", "job", "is", "difficult", "who"],
+          "answer": "The person whose job is difficult",
+          "explanation": "«Whose» conecta al poseedor («person») con lo poseído («job»). «Who» no puede preceder directamente a un sustantivo sin verbo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este es el lugar donde trabajo",
+          "direction": "es-en",
+          "tiles": ["This", "is", "the", "place", "where", "I", "work", "which"],
+          "answer": "This is the place where I work",
+          "explanation": "«Where» introduce el lugar («place»). «Which» necesitaría una preposición adicional («which I work in»)."
+        },
+        {
+          "type": "speak",
+          "text": "The device we bought last week has an interesting feature.",
+          "es": "El dispositivo que compramos la semana pasada tiene una característica interesante."
+        },
+        {
+          "type": "speak",
+          "text": "The lawyer was looking for the client whose letter was left on the desk.",
+          "es": "El abogado buscaba al cliente cuya carta se había dejado en el escritorio."
+        },
+        {
+          "type": "speak",
+          "text": "This is the office where I perform my daily tasks.",
+          "es": "Esta es la oficina donde realizo mis tareas diarias."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Definir con precisión: uso, función y omisión",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "use", "es": "usar/uso" },
+            { "en": "function", "es": "función" },
+            { "en": "define", "es": "definir" },
+            { "en": "describe", "es": "describir" },
+            { "en": "object", "es": "objeto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You forgot the word for a musical tool, so you describe it using a relative clause instead. Which sentence is a correct definition?",
+          "options": ["An instrument is a gadget which is used by musicians.", "An instrument is a gadget who is used by musicians.", "An instrument is a gadget whose is used by musicians."],
+          "correct": 0,
+          "hint": "El antecedente «gadget» es un objeto, no una persona.",
+          "explanation": "«Which» es correcto porque «gadget» es un objeto. «Who» solo se usa para personas y «whose» necesitaría ir seguido de un sustantivo, no de un verbo."
+        },
+        {
+          "type": "gap",
+          "text": "A lawyer is an individual ___ helps people in court.",
+          "options": ["who", "which", "whose"],
+          "answer": "who",
+          "explanation": "«Who» se usa porque el antecedente («individual») es una persona."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "use", "es": "usar/uso" },
+            { "en": "define", "es": "definir" },
+            { "en": "describe", "es": "describir" },
+            { "en": "object", "es": "objeto" },
+            { "en": "item", "es": "artículo/elemento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In the sentence 'the item that we use for the task', is 'that' acting as the subject or the object of the clause, and can it be omitted?",
+          "options": ["It's the subject, so it can't be omitted.", "It's the object, so it can be omitted.", "It's the subject, so it can be omitted."],
+          "correct": 1,
+          "hint": "Mira la palabra que sigue al relativo: ¿es un verbo o un pronombre/sustantivo?",
+          "explanation": "Tras «that» viene el sujeto «we», así que «that» es el objeto de la cláusula («we use it»); por eso puede omitirse con naturalidad."
+        },
+        {
+          "type": "gap",
+          "text": "Can you ___ the function of this tool?",
+          "options": ["describe", "define", "use"],
+          "answer": "describe",
+          "explanation": "«Describe» es «describir» las características de algo. «Define» sería dar una definición formal y «use» es usarlo, no explicarlo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "define", "es": "definir" },
+            { "en": "describe", "es": "describir" },
+            { "en": "object", "es": "objeto" },
+            { "en": "item", "es": "artículo/elemento" },
+            { "en": "function", "es": "función" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to give the precise, formal meaning of a word, not just talk about its general characteristics. Which verb fits?",
+          "options": ["describe", "use", "define"],
+          "correct": 2,
+          "hint": "Es dar el significado exacto y formal de algo.",
+          "explanation": "«Define» es dar el significado preciso de una palabra o concepto. «Describe» es explicar características generales y «use» es utilizar algo, no explicarlo."
+        },
+        {
+          "type": "gap",
+          "text": "This small ___ is used to open bottles.",
+          "options": ["object", "function", "use"],
+          "answer": "object",
+          "explanation": "«Object» es «objeto», la palabra general para una cosa física. «Function» es su función y «use» es el uso, no la cosa en sí."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este objeto tiene una función",
+          "direction": "es-en",
+          "tiles": ["This", "object", "has", "a", "function", "item", "use"],
+          "answer": "This object has a function",
+          "explanation": "«Object» es «objeto» y «function» es «función». «Item» y «use» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Puedes describir el artículo",
+          "direction": "es-en",
+          "tiles": ["You", "can", "describe", "the", "item", "define", "object"],
+          "answer": "You can describe the item",
+          "explanation": "«Describe» es «describir» e «item» es «artículo». «Define» y «object» son distractores cercanos en significado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un artículo que usamos a diario",
+          "direction": "es-en",
+          "tiles": ["It's", "an", "item", "we", "use", "daily", "that", "which"],
+          "answer": "It's an item we use daily",
+          "explanation": "El relativo de objeto se omite de forma natural: «an item we use». «That» y «which» son distractores válidos gramaticalmente pero no la forma pedida."
+        },
+        {
+          "type": "speak",
+          "text": "An instrument is a gadget which is used by musicians.",
+          "es": "Un instrumento es un aparato que usan los músicos."
+        },
+        {
+          "type": "speak",
+          "text": "A lawyer is an individual who helps people in court.",
+          "es": "Un abogado es un individuo que ayuda a la gente en el tribunal."
+        },
+        {
+          "type": "speak",
+          "text": "Can you describe the function of this tool?",
+          "es": "¿Puedes describir la función de esta herramienta?"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Lugares, momentos y personas: where, when y who en contexto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "place", "es": "lugar" },
+            { "en": "location", "es": "ubicación" },
+            { "en": "time", "es": "tiempo/hora" },
+            { "en": "period", "es": "período" },
+            { "en": "person", "es": "persona" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Security engineers are describing where exactly a sensitive machine has been installed. Which relative word correctly completes this description?",
+          "options": ["The location where the machine is installed is highly secure.", "The location which the machine is installed is highly secure.", "The location when the machine is installed is highly secure."],
+          "correct": 0,
+          "hint": "Busca el adverbio relativo para lugares físicos, sin necesidad de preposición adicional.",
+          "explanation": "«Where» se refiere al espacio físico («location») sin necesitar preposición añadida. «Which» necesitaría una preposición como «in» al final de la cláusula, y «when» se asocia con el tiempo, no con lugares."
+        },
+        {
+          "type": "gap",
+          "text": "This is the place ___ we met for the first time.",
+          "options": ["where", "when", "which"],
+          "answer": "where",
+          "explanation": "«Where» define un lugar («place»). «When» es para tiempo y «which» necesitaría una preposición adicional."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "location", "es": "ubicación" },
+            { "en": "time", "es": "tiempo/hora" },
+            { "en": "period", "es": "período" },
+            { "en": "person", "es": "persona" },
+            { "en": "individual", "es": "individuo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence avoids the common mistake of adding an unnecessary preposition after 'where'?",
+          "options": ["The office where I work in is big.", "The office where I work is big.", "The office where in I work is big."],
+          "correct": 1,
+          "hint": "«Where» ya incluye el significado de la preposición de lugar; añadir otra es redundante.",
+          "explanation": "«Where» ya contiene el sentido de «en» (in/at), así que añadir «in» al final genera redundancia gramatical incorrecta. La forma correcta es simplemente «where I work»."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ has to sign the document personally.",
+          "options": ["individual", "location", "period"],
+          "answer": "individual",
+          "explanation": "«Individual» es «individuo», una persona concreta que debe firmar. «Location» y «period» no son personas."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "place", "es": "lugar" },
+            { "en": "time", "es": "tiempo/hora" },
+            { "en": "period", "es": "período" },
+            { "en": "person", "es": "persona" },
+            { "en": "individual", "es": "individuo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to refer to a general stretch of time, like a whole season or era, not a specific hour. Which word fits better?",
+          "options": ["time", "person", "period"],
+          "correct": 2,
+          "hint": "Es un intervalo o etapa, no un momento concreto.",
+          "explanation": "«Period» es un «período», un intervalo o etapa extensa. «Time» puede referirse a un momento más general o específico según el contexto, y «person» es una persona, no un intervalo temporal."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ who called yesterday left no message.",
+          "options": ["person", "place", "time"],
+          "answer": "person",
+          "explanation": "«Person» se usa para individuos, y el relativo «who» que sigue confirma que hablamos de una persona. «Place» y «time» no son personas."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El lugar donde nos conocimos",
+          "direction": "es-en",
+          "tiles": ["The", "place", "where", "we", "met", "location", "time"],
+          "answer": "The place where we met",
+          "explanation": "«Place» es «lugar» y «where» lo define. «Location» y «time» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El período cuando trabajamos más",
+          "direction": "es-en",
+          "tiles": ["The", "period", "when", "we", "work", "most", "where", "time"],
+          "answer": "The period when we work most",
+          "explanation": "«When» define un período de tiempo. «Where» sería para lugares, un distractor típico, y «time» es un distractor de vocabulario."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La persona que llamó ayer",
+          "direction": "es-en",
+          "tiles": ["The", "person", "who", "called", "yesterday", "individual", "which"],
+          "answer": "The person who called yesterday",
+          "explanation": "«Who» se usa para personas. «Which» sería incorrecto porque solo se usa para objetos, no personas."
+        },
+        {
+          "type": "speak",
+          "text": "The location where the machine is installed is highly secure.",
+          "es": "La ubicación donde está instalada la máquina es muy segura."
+        },
+        {
+          "type": "speak",
+          "text": "This is the place where we met for the first time.",
+          "es": "Este es el lugar donde nos conocimos por primera vez."
+        },
+        {
+          "type": "speak",
+          "text": "The individual who called yesterday left no message.",
+          "es": "El individuo que llamó ayer no dejó ningún mensaje."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Trabajos y ocupaciones: whose y repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "job", "es": "trabajo" },
+            { "en": "occupation", "es": "ocupación" },
+            { "en": "role", "es": "rol/papel" },
+            { "en": "task", "es": "tarea" },
+            { "en": "benefit", "es": "beneficio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "An individual's job is to repair machines; we want to define this occupation using a relative clause. Which sentence is correct?",
+          "options": ["An individual who job is to repair these machines is called a technician.", "An individual whose job is to repair these machines is called a technician.", "An individual which job is to repair these machines is called a technician."],
+          "correct": 1,
+          "hint": "Busca el relativo posesivo que conecta a la persona con su trabajo.",
+          "explanation": "«Whose» expresa la relación de posesión entre «an individual» y «job» («cuyo trabajo»). «Who» necesitaría un verbo después, no un sustantivo directo, y «which» no se usa para personas."
+        },
+        {
+          "type": "gap",
+          "text": "The person ___ role is to define the tasks is the manager.",
+          "options": ["whose", "who", "which"],
+          "answer": "whose",
+          "explanation": "«Whose» conecta al poseedor («the person») con lo poseído («role»). «Who» exigiría un verbo, no un sustantivo, tras él."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "occupation", "es": "ocupación" },
+            { "en": "role", "es": "rol/papel" },
+            { "en": "task", "es": "tarea" },
+            { "en": "benefit", "es": "beneficio" },
+            { "en": "feature", "es": "característica" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Do you remember the period when we had to complete that difficult task? Which relative word correctly completes this question?",
+          "options": ["Do you remember the period when we had to complete that difficult task?", "Do you remember the period where we had to complete that difficult task?", "Do you remember the period why we had to complete that difficult task?"],
+          "correct": 0,
+          "hint": "El antecedente «period» se refiere a un intervalo de tiempo, no a un lugar ni a una razón.",
+          "explanation": "«When» es el adverbio relativo correcto para momentos o períodos de tiempo. «Where» se refiere a lugares físicos y «why» se usa exclusivamente para razones."
+        },
+        {
+          "type": "gap",
+          "text": "The main ___ of this job is the flexible schedule.",
+          "options": ["benefit", "task", "role"],
+          "answer": "benefit",
+          "explanation": "«Benefit» es «beneficio», una ventaja del trabajo. «Task» es una tarea y «role» es un rol; ninguno es una ventaja."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "job", "es": "trabajo" },
+            { "en": "role", "es": "rol/papel" },
+            { "en": "task", "es": "tarea" },
+            { "en": "benefit", "es": "beneficio" },
+            { "en": "feature", "es": "característica" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The occupation whose main feature is helping people in court belongs to a lawyer. Which sentence correctly reports this definition?",
+          "options": ["A lawyer is the occupation who main feature is helping people in court.", "A lawyer is the occupation which main feature is helping people in court.", "A lawyer is the occupation whose main feature is helping people in court."],
+          "correct": 2,
+          "hint": "Busca de nuevo el relativo posesivo, seguido directamente de un sustantivo.",
+          "explanation": "«Whose» conecta correctamente «the occupation» con «feature» («cuya característica»). «Who» exige un verbo después y «which», aunque se usa para cosas, no expresa posesión."
+        },
+        {
+          "type": "gap",
+          "text": "The main ___ of a technician is repairing machines.",
+          "options": ["role", "benefit", "period"],
+          "answer": "role",
+          "explanation": "«Role» es el «rol» o función principal de una ocupación. «Benefit» es una ventaja y «period» es un intervalo de tiempo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El trabajo cuyo beneficio es genial",
+          "direction": "es-en",
+          "tiles": ["The", "job", "whose", "benefit", "is", "great", "who", "which"],
+          "answer": "The job whose benefit is great",
+          "explanation": "«Whose» conecta al poseedor («job») con lo poseído («benefit»). «Who» y «which» no funcionan como posesivos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La tarea que definimos ayer",
+          "direction": "es-en",
+          "tiles": ["The", "task", "we", "defined", "yesterday", "that", "which"],
+          "answer": "The task we defined yesterday",
+          "explanation": "El relativo de objeto se omite de forma natural: «the task we defined». «That» y «which» son distractores válidos gramaticalmente pero no la forma pedida."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una ocupación con muchas características",
+          "direction": "es-en",
+          "tiles": ["It's", "an", "occupation", "with", "many", "features", "job", "role"],
+          "answer": "It's an occupation with many features",
+          "explanation": "«Occupation» es «ocupación» y «feature» es «característica». «Job» y «role» son distractores cercanos en significado."
+        },
+        {
+          "type": "speak",
+          "text": "An individual whose job is to repair machines is called a technician.",
+          "es": "Un individuo cuyo trabajo es reparar máquinas se llama técnico."
+        },
+        {
+          "type": "speak",
+          "text": "Do you remember the period when we had to complete that difficult task?",
+          "es": "¿Recuerdas el período cuando tuvimos que completar esa tarea difícil?"
+        },
+        {
+          "type": "speak",
+          "text": "A lawyer is the occupation whose main feature is helping people in court.",
+          "es": "Un abogado es la ocupación cuya característica principal es ayudar a la gente en el tribunal."
+        }
+      ]
+    }
+  ]
+}

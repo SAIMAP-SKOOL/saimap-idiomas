@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod24",
+  "module": 24,
+  "title": "Connectors: Contrast, Cause, and Purpose",
+  "subtitle": "Conectores de Contraste, Causa y Propósito",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Vocabulario del debate: argumentar y opinar",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "argue", "es": "argumentar" },
+            { "en": "debate", "es": "debatir/debate" },
+            { "en": "discuss", "es": "discutir/analizar" },
+            { "en": "point", "es": "punto/señalar" },
+            { "en": "opinion", "es": "opinión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Two people are calmly exchanging different opinions about a topic in a structured way, without hostility. What are they doing?",
+          "options": ["arguing", "discussing", "agreeing"],
+          "correct": 1,
+          "hint": "Es un intercambio de opiniones tranquilo y estructurado, no una pelea.",
+          "explanation": "«Discuss» es «discutir/analizar» de forma calmada. «Argue» implica una discusión más acalorada o una pelea, y «agree» significa estar de acuerdo, lo opuesto a intercambiar opiniones distintas."
+        },
+        {
+          "type": "gap",
+          "text": "They had a big ___ about politics and started shouting.",
+          "options": ["argument", "discussion", "agreement"],
+          "answer": "argument",
+          "explanation": "«Argument» implica una discusión acalorada, coherente con «started shouting». «Discussion» es más neutral y «agreement» significa acuerdo, lo contrario."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "debate", "es": "debatir/debate" },
+            { "en": "discuss", "es": "discutir/analizar" },
+            { "en": "point", "es": "punto/señalar" },
+            { "en": "opinion", "es": "opinión" },
+            { "en": "agreement", "es": "acuerdo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In a structured public debate with two opposing teams, what do we call this formal type of discussion?",
+          "options": ["a debate", "an opinion", "a point"],
+          "correct": 0,
+          "hint": "Es el formato formal con dos equipos que defienden posturas opuestas.",
+          "explanation": "«Debate» es el formato formal de discusión con posturas opuestas. «Opinion» es lo que piensa una persona y «point» es un argumento concreto, no el formato completo."
+        },
+        {
+          "type": "gap",
+          "text": "That's a good ___, I hadn't thought of it before.",
+          "options": ["point", "agreement", "debate"],
+          "answer": "point",
+          "explanation": "«Point» es un «punto» o argumento concreto dentro de una discusión. «Agreement» es acuerdo y «debate» es el formato completo, no una idea puntual."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "argue", "es": "argumentar" },
+            { "en": "debate", "es": "debatir/debate" },
+            { "en": "point", "es": "punto/señalar" },
+            { "en": "opinion", "es": "opinión" },
+            { "en": "agreement", "es": "acuerdo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After a long discussion, both sides finally accepted the same solution. What did they reach?",
+          "options": ["an opinion", "a point", "an agreement"],
+          "correct": 2,
+          "hint": "Es el resultado final cuando ambas partes aceptan lo mismo.",
+          "explanation": "«Agreement» es el «acuerdo» final entre las partes. «Opinion» es lo que piensa una sola persona y «point» es un argumento aislado, no un resultado compartido."
+        },
+        {
+          "type": "gap",
+          "text": "In my ___, this is the best choice.",
+          "options": ["opinion", "agreement", "point"],
+          "answer": "opinion",
+          "explanation": "«In my opinion» es una expresión fija para introducir un punto de vista personal. «Agreement» y «point» no encajan en esta expresión."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella tiene una opinión fuerte",
+          "direction": "es-en",
+          "tiles": ["She", "has", "a", "strong", "opinion", "argument", "point"],
+          "answer": "She has a strong opinion",
+          "explanation": "«Opinion» es «opinión». «Argument» y «point» son distractores del mismo campo semántico del debate."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Discutieron el asunto con calma",
+          "direction": "es-en",
+          "tiles": ["They", "discussed", "the", "matter", "calmly", "argued", "debated"],
+          "answer": "They discussed the matter calmly",
+          "explanation": "«Discuss» es analizar con calma. «Argue» y «debate» son distractores cercanos en significado pero con matices distintos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Llegaron a un acuerdo",
+          "direction": "es-en",
+          "tiles": ["They", "reached", "an", "agreement", "opinion", "disagreement"],
+          "answer": "They reached an agreement",
+          "explanation": "«Agreement» es «acuerdo». «Opinion» y «disagreement» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "They discussed the matter calmly.",
+          "es": "Discutieron el asunto con calma."
+        },
+        {
+          "type": "speak",
+          "text": "In my opinion, this is the best choice.",
+          "es": "En mi opinión, esta es la mejor opción."
+        },
+        {
+          "type": "speak",
+          "text": "They finally reached an agreement.",
+          "es": "Finalmente llegaron a un acuerdo."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Contraste clausal y nominal: although vs despite",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "disagreement", "es": "desacuerdo" },
+            { "en": "although", "es": "aunque" },
+            { "en": "even though", "es": "a pesar de que" },
+            { "en": "however", "es": "sin embargo" },
+            { "en": "despite", "es": "a pesar de" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "There was a strong disagreement during the meeting, but they reached a solution. Which sentence correctly uses a connector followed by a full clause with subject and verb?",
+          "options": ["Despite they had a disagreement, they reached a solution.", "Although they had a disagreement, they reached a solution.", "Despite having a disagreement, they reached a solution."],
+          "correct": 1,
+          "hint": "Busca el conector que va seguido de sujeto y verbo conjugado.",
+          "explanation": "«Although» va seguido de una cláusula completa (sujeto + verbo): «although they had». «Despite» es una preposición y no puede ir seguida de un verbo conjugado; necesitaría un gerundio como en la opción c)."
+        },
+        {
+          "type": "gap",
+          "text": "___ the heavy rain, the meeting happened.",
+          "options": ["Despite", "Although", "Though"],
+          "answer": "Despite",
+          "explanation": "«Despite» es una preposición y va seguida directamente de un sustantivo («the heavy rain»), sin conjunción."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "although", "es": "aunque" },
+            { "en": "even though", "es": "a pesar de que" },
+            { "en": "though", "es": "aunque/sin embargo" },
+            { "en": "however", "es": "sin embargo" },
+            { "en": "despite", "es": "a pesar de" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The journalist published the report, but the police did not confirm the facts. Which sentence correctly links these two contrasting ideas?",
+          "options": ["The journalist published the report. Although, the police did not confirm the facts.", "The journalist published the report. As a result, the police did not confirm the facts.", "The journalist published the report. However, the police did not confirm the facts."],
+          "correct": 2,
+          "hint": "Busca el conector que se coloca al inicio de una oración independiente, seguido de coma.",
+          "explanation": "«However,» se coloca al principio de una oración independiente para contrastar con la afirmación anterior. «Although» es un conector subordinante que no funciona así, y «as a result» indicaría consecuencia, no contraste."
+        },
+        {
+          "type": "gap",
+          "text": "She was very tired. ___, she finished the report.",
+          "options": ["However", "Despite", "Although"],
+          "answer": "However",
+          "explanation": "«However» inicia una oración independiente tras un punto, seguido de coma, para mostrar contraste."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "disagreement", "es": "desacuerdo" },
+            { "en": "even though", "es": "a pesar de que" },
+            { "en": "though", "es": "aunque/sin embargo" },
+            { "en": "however", "es": "sin embargo" },
+            { "en": "despite", "es": "a pesar de" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to emphasize a very strong contrast, stronger than the simple 'although'. Which connector fits best?",
+          "options": ["even though", "though", "however"],
+          "correct": 0,
+          "hint": "Es la versión más enfática de «although».",
+          "explanation": "«Even though» es una versión más enfática de «although». «Though» es más informal y neutro, y «however» no introduce una cláusula subordinada, sino que inicia una oración independiente."
+        },
+        {
+          "type": "gap",
+          "text": "___ they had a disagreement, they remained professional.",
+          "options": ["Even though", "Despite", "However"],
+          "answer": "Even though",
+          "explanation": "«Even though» va seguido de una cláusula completa (sujeto + verbo): «even though they had»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A pesar de la lluvia",
+          "direction": "es-en",
+          "tiles": ["Despite", "the", "rain", "although", "however"],
+          "answer": "Despite the rain",
+          "explanation": "«Despite» es preposición y va seguida directamente de un sustantivo. «Although» y «however» son distractores gramaticales del mismo campo semántico de contraste."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Aunque llovía, salieron",
+          "direction": "es-en",
+          "tiles": ["Although", "it", "was", "raining", "they", "went", "out", "despite"],
+          "answer": "Although it was raining they went out",
+          "explanation": "«Although» va seguido de sujeto y verbo («it was raining»). «Despite» es un distractor porque no puede ir seguido de un verbo conjugado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tuvieron un desacuerdo",
+          "direction": "es-en",
+          "tiles": ["They", "had", "a", "disagreement", "agreement", "opinion"],
+          "answer": "They had a disagreement",
+          "explanation": "«Disagreement» es «desacuerdo». «Agreement» es su antónimo y «opinion» es un distractor del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "Despite the heavy rain, the meeting happened.",
+          "es": "A pesar de la fuerte lluvia, la reunión se celebró."
+        },
+        {
+          "type": "speak",
+          "text": "The journalist published the report. However, the police did not confirm the facts.",
+          "es": "El periodista publicó el informe. Sin embargo, la policía no confirmó los hechos."
+        },
+        {
+          "type": "speak",
+          "text": "Even though they had a disagreement, they remained professional.",
+          "es": "Aunque tuvieron un desacuerdo, se mantuvieron profesionales."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Causas y contraste nominal: in spite of, because, since",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "in spite of", "es": "a pesar de" },
+            { "en": "because", "es": "porque" },
+            { "en": "since", "es": "puesto que/ya que" },
+            { "en": "as", "es": "como/ya que" },
+            { "en": "so", "es": "así que/por lo tanto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The partners had a strong disagreement during the debate, but still reached an agreement. Which sentence correctly links these ideas using a preposition followed by a gerund?",
+          "options": ["Although having a strong disagreement, the partners reached an agreement.", "In spite of having a strong disagreement, the partners reached an agreement.", "However having a strong disagreement, the partners reached an agreement."],
+          "correct": 1,
+          "hint": "Busca la preposición que puede ir seguida directamente de un gerundio.",
+          "explanation": "«In spite of» es una preposición que rige gerundios (-ing) o sustantivos, encajando con «having». «Although» necesita sujeto y verbo conjugado, y «however» inicia oraciones independientes, no introduce gerundios."
+        },
+        {
+          "type": "gap",
+          "text": "___ the disagreement, they solved the issue quickly.",
+          "options": ["In spite of", "Because", "So"],
+          "answer": "In spite of",
+          "explanation": "«In spite of» es una preposición seguida de un sustantivo («the disagreement»), igual que «despite»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "because", "es": "porque" },
+            { "en": "since", "es": "puesto que/ya que" },
+            { "en": "as", "es": "como/ya que" },
+            { "en": "so", "es": "así que/por lo tanto" },
+            { "en": "therefore", "es": "por lo tanto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The meeting was cancelled because the chief was dealing with an urgent problem — a reason that was already obvious to everyone. Which connector best expresses this known, obvious reason?",
+          "options": ["The meeting was cancelled despite the chief was dealing with an urgent problem.", "The meeting was cancelled to the chief was dealing with an urgent problem.", "The meeting was cancelled since the chief was dealing with an urgent problem."],
+          "correct": 2,
+          "hint": "Busca el conector de causa que introduce una razón ya conocida u obvia, seguido de sujeto y verbo.",
+          "explanation": "«Since» se usa como conector de causa («ya que/puesto que») e introduce una oración con sujeto y verbo. «Despite» es un conector de contraste, no de causa, y «to» introduce propósito seguido de infinitivo, no de una cláusula completa."
+        },
+        {
+          "type": "gap",
+          "text": "___ you agree with the opinion, we can sign the agreement.",
+          "options": ["Since", "Despite", "So"],
+          "answer": "Since",
+          "explanation": "«Since» introduce una razón ya conocida u obvia («ya que»), seguida de sujeto y verbo: «since you agree»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "in spite of", "es": "a pesar de" },
+            { "en": "since", "es": "puesto que/ya que" },
+            { "en": "as", "es": "como/ya que" },
+            { "en": "so", "es": "así que/por lo tanto" },
+            { "en": "therefore", "es": "por lo tanto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "They disagreed because they had different opinions. Which sentence correctly uses the conjunction before a full clause with subject and verb?",
+          "options": ["They disagreed because they had different opinions.", "They disagreed because of different opinions.", "They disagreed because of they had different opinions."],
+          "correct": 0,
+          "hint": "«Because of» es preposición (+ sustantivo); «because» es conjunción (+ sujeto + verbo conjugado).",
+          "explanation": "«Because» va seguido de una cláusula completa: «because they had». «Because of» es una preposición y debe ir seguida de un sustantivo, nunca de un verbo conjugado."
+        },
+        {
+          "type": "gap",
+          "text": "The alarm was damaged. ___, the criminal escaped.",
+          "options": ["As a result", "Because", "Since"],
+          "answer": "As a result",
+          "explanation": "«As a result» introduce la consecuencia lógica de un hecho anterior. «Because» y «since» introducirían la causa, no la consecuencia."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Puesto que estás de acuerdo, firmamos",
+          "direction": "es-en",
+          "tiles": ["Since", "you", "agree", "we", "sign", "because", "despite"],
+          "answer": "Since you agree we sign",
+          "explanation": "«Since» introduce una razón obvia. «Because» y «despite» son distractores del mismo campo semántico de causa/contraste."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Por lo tanto, tuvo que disculparse",
+          "direction": "es-en",
+          "tiles": ["Therefore", "he", "had", "to", "apologize", "so", "since"],
+          "answer": "Therefore he had to apologize",
+          "explanation": "«Therefore» es «por lo tanto», introduce una consecuencia lógica. «So» tiene un uso similar pero distinto en la oración, y «since» es un distractor de causa."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A pesar del desacuerdo, firmaron",
+          "direction": "es-en",
+          "tiles": ["In", "spite", "of", "the", "disagreement", "they", "signed", "although"],
+          "answer": "In spite of the disagreement they signed",
+          "explanation": "«In spite of» va seguido directamente de un sustantivo («the disagreement»). «Although» es un distractor porque necesitaría sujeto y verbo conjugado."
+        },
+        {
+          "type": "speak",
+          "text": "In spite of having a strong disagreement, the partners reached an agreement.",
+          "es": "A pesar de tener un fuerte desacuerdo, los socios llegaron a un acuerdo."
+        },
+        {
+          "type": "speak",
+          "text": "The meeting was cancelled since the chief was dealing with an urgent problem.",
+          "es": "La reunión se canceló ya que el jefe estaba lidiando con un problema urgente."
+        },
+        {
+          "type": "speak",
+          "text": "The alarm was damaged. As a result, the criminal escaped.",
+          "es": "La alarma estaba dañada. Como resultado, el criminal escapó."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Propósito y secuencia: to, in order to, so that",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "as a result", "es": "como resultado" },
+            { "en": "so that", "es": "para que/de modo que" },
+            { "en": "in order to", "es": "para/con el fin de" },
+            { "en": "to", "es": "para/a" },
+            { "en": "first", "es": "en primer lugar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We need to discuss this point immediately, with the goal of verifying if the data is correct. Which sentence correctly expresses this purpose using a verb in its base form?",
+          "options": ["We need to discuss this point immediately so that verify if the data is correct.", "We need to discuss this point immediately because verify if the data is correct.", "We need to discuss this point immediately in order to verify if the data is correct."],
+          "correct": 2,
+          "hint": "Busca el conector de propósito que va seguido directamente de un verbo en infinitivo sin sujeto.",
+          "explanation": "«In order to» expresa propósito y se sitúa directamente antes del verbo en forma base («verify»). «So that» requeriría una cláusula completa con sujeto y modal, y «because» introduce causa, no propósito."
+        },
+        {
+          "type": "gap",
+          "text": "They organized a debate ___ discuss the issue.",
+          "options": ["to", "so that", "because"],
+          "answer": "to",
+          "explanation": "«To» seguido del verbo base expresa propósito de forma directa: «to discuss». «So that» necesitaría sujeto y modal, y «because» introduce causa."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "so that", "es": "para que/de modo que" },
+            { "en": "in order to", "es": "para/con el fin de" },
+            { "en": "to", "es": "para/a" },
+            { "en": "first", "es": "en primer lugar" },
+            { "en": "secondly", "es": "en segundo lugar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "They locked the vault with the goal that no one would be able to steal the money, expressing this with a full clause containing a modal verb. Which sentence is correct?",
+          "options": ["They locked the vault in order that no one could steal the money.", "They locked the vault so that no one could steal the money.", "They locked the vault to no one could steal the money."],
+          "correct": 1,
+          "hint": "Busca el conector seguido de sujeto + verbo modal (can/could/would).",
+          "explanation": "«So that» introduce una cláusula de propósito con sujeto y modal: «so that no one could steal». «To» no puede ir seguido de una cláusula completa con sujeto, y la opción a) no es la forma estudiada en este nivel."
+        },
+        {
+          "type": "gap",
+          "text": "The company summarized the issue ___ all workers could understand it.",
+          "options": ["so that", "in order to", "to"],
+          "answer": "so that",
+          "explanation": "«So that» introduce una cláusula de propósito con sujeto («workers») y modal («could understand»). «In order to» y «to» exigirían un verbo en infinitivo, no una cláusula completa."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "as a result", "es": "como resultado" },
+            { "en": "in order to", "es": "para/con el fin de" },
+            { "en": "to", "es": "para/a" },
+            { "en": "first", "es": "en primer lugar" },
+            { "en": "secondly", "es": "en segundo lugar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You are structuring a formal debate essay and need to introduce your very first argument. Which word do you use?",
+          "options": ["First", "As a result", "Secondly"],
+          "correct": 0,
+          "hint": "Es la palabra que abre la secuencia de argumentos.",
+          "explanation": "«First» se usa para introducir el primer punto de una secuencia. «Secondly» sería el segundo punto y «as a result» indica consecuencia, no orden."
+        },
+        {
+          "type": "gap",
+          "text": "___, we must analyze the context; secondly, we discuss the opinions.",
+          "options": ["First", "As a result", "So that"],
+          "answer": "First",
+          "explanation": "«First» abre la secuencia ordenada de argumentos, coherente con «secondly» que sigue después."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Para que todos entiendan",
+          "direction": "es-en",
+          "tiles": ["So", "that", "everyone", "can", "understand", "to", "in order to"],
+          "answer": "So that everyone can understand",
+          "explanation": "«So that» va seguido de sujeto y modal («everyone can understand»). «To» e «in order to» son distractores porque exigirían un infinitivo, no una cláusula."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Para verificar los datos",
+          "direction": "es-en",
+          "tiles": ["To", "verify", "the", "data", "so that", "in order that"],
+          "answer": "To verify the data",
+          "explanation": "«To» + verbo base expresa propósito de forma directa. «So that» e «in order that» son distractores que exigirían una cláusula completa."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Como resultado, ganaron",
+          "direction": "es-en",
+          "tiles": ["As", "a", "result", "they", "won", "so", "therefore"],
+          "answer": "As a result they won",
+          "explanation": "«As a result» introduce la consecuencia lógica de un hecho anterior. «So» y «therefore» son distractores cercanos en significado."
+        },
+        {
+          "type": "speak",
+          "text": "We need to discuss this point immediately in order to verify if the data is correct.",
+          "es": "Necesitamos discutir este punto de inmediato para verificar si los datos son correctos."
+        },
+        {
+          "type": "speak",
+          "text": "They locked the vault so that no one could steal the money.",
+          "es": "Cerraron la bóveda con llave para que nadie pudiera robar el dinero."
+        },
+        {
+          "type": "speak",
+          "text": "First, we must analyze the context.",
+          "es": "En primer lugar, debemos analizar el contexto."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Resumen final: contexto, problemas y soluciones",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "finally", "es": "finalmente" },
+            { "en": "conclusion", "es": "conclusión" },
+            { "en": "summarize", "es": "resumir" },
+            { "en": "context", "es": "contexto" },
+            { "en": "issue", "es": "asunto/problema" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The company explained the background of the problem in simple terms with the goal that every worker could understand the solution. Which sentence correctly expresses this purpose?",
+          "options": ["The company summarized the context of the issue so that all workers could understand the solution.", "The company summarized the context of the issue in order to all workers could understand the solution.", "The company summarized the context of the issue because of all workers could understand the solution."],
+          "correct": 0,
+          "hint": "Busca el conector de propósito seguido de sujeto y verbo modal, no de infinitivo ni de sustantivo.",
+          "explanation": "«So that» introduce correctamente una cláusula de propósito con sujeto («workers») y modal («could understand»). «In order to» debe ir seguido de infinitivo, no de sujeto, y «because of» rige sustantivo, no una cláusula de propósito."
+        },
+        {
+          "type": "gap",
+          "text": "We must ___ the main points before finishing the report.",
+          "options": ["summarize", "issue", "context"],
+          "answer": "summarize",
+          "explanation": "«Summarize» es «resumir». «Issue» es un problema y «context» es el contexto; ninguno significa condensar información."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "conclusion", "es": "conclusión" },
+            { "en": "summarize", "es": "resumir" },
+            { "en": "context", "es": "contexto" },
+            { "en": "issue", "es": "asunto/problema" },
+            { "en": "solution", "es": "solución" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After explaining the background of a problem and analyzing it fully, what do we call the final answer that resolves it?",
+          "options": ["the context", "the issue", "the solution"],
+          "correct": 2,
+          "hint": "Es la respuesta final que resuelve el problema, no el problema en sí ni su trasfondo.",
+          "explanation": "«Solution» es la «solución», la respuesta que resuelve el problema. «Context» es el trasfondo y «issue» es el problema mismo, no su resolución."
+        },
+        {
+          "type": "gap",
+          "text": "In ___, although the issue was complex, they found a solution.",
+          "options": ["conclusion", "context", "issue"],
+          "answer": "conclusion",
+          "explanation": "«In conclusion» es una expresión fija para cerrar un argumento. «Context» y «issue» no encajan en esta expresión final."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "finally", "es": "finalmente" },
+            { "en": "conclusion", "es": "conclusión" },
+            { "en": "summarize", "es": "resumir" },
+            { "en": "issue", "es": "asunto/problema" },
+            { "en": "solution", "es": "solución" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Although the issue was very complex, they finally found a solution. Which sentence uses the contrast connector correctly?",
+          "options": ["Despite the issue was very complex, they finally found a solution.", "Although the issue was very complex, they finally found a solution.", "Although having the issue very complex, they finally found a solution."],
+          "correct": 1,
+          "hint": "Busca el conector clausal (sujeto + verbo), no la preposición nominal.",
+          "explanation": "«Although» va seguido de una cláusula completa: «although the issue was». «Despite» no puede ir seguido de un verbo conjugado, y la opción c) mezcla incorrectamente «although» con gerundio."
+        },
+        {
+          "type": "gap",
+          "text": "___, after a long debate, they reached a solution.",
+          "options": ["Finally", "Context", "Issue"],
+          "answer": "Finally",
+          "explanation": "«Finally» cierra la secuencia de argumentos («first, secondly, finally»). «Context» e «issue» son sustantivos, no conectores de secuencia."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Finalmente encontraron una solución",
+          "direction": "es-en",
+          "tiles": ["Finally", "they", "found", "a", "solution", "issue", "context"],
+          "answer": "Finally they found a solution",
+          "explanation": "«Finally» es «finalmente» y «solution» es «solución». «Issue» y «context» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "En conclusión, resolvieron el problema",
+          "direction": "es-en",
+          "tiles": ["In", "conclusion", "they", "solved", "the", "issue", "context", "solution"],
+          "answer": "In conclusion they solved the issue",
+          "explanation": "«Conclusion» cierra el argumento e «issue» es «problema». «Context» y «solution» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Resumieron el contexto del asunto",
+          "direction": "es-en",
+          "tiles": ["They", "summarized", "the", "context", "of", "the", "issue", "solution", "conclusion"],
+          "answer": "They summarized the context of the issue",
+          "explanation": "«Summarize» es «resumir», «context» es «contexto» e «issue» es «asunto». «Solution» y «conclusion» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "The company summarized the context of the issue so that all workers could understand the solution.",
+          "es": "La empresa resumió el contexto del asunto para que todos los trabajadores pudieran entender la solución."
+        },
+        {
+          "type": "speak",
+          "text": "Although the issue was very complex, they finally found a solution.",
+          "es": "Aunque el asunto era muy complejo, finalmente encontraron una solución."
+        },
+        {
+          "type": "speak",
+          "text": "In conclusion, they reached a good agreement.",
+          "es": "En conclusión, llegaron a un buen acuerdo."
+        }
+      ]
+    }
+  ]
+}

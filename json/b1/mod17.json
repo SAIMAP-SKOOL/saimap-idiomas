@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod17",
+  "module": 17,
+  "title": "Word Formation: Prefixes and Suffixes",
+  "subtitle": "Word Formation: Prefijos y Sufijos",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Conceptos básicos: raíz, prefijo y sufijo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "prefix", "es": "prefijo" },
+            { "en": "suffix", "es": "sufijo" },
+            { "en": "root", "es": "raíz (de palabra)" },
+            { "en": "word", "es": "palabra" },
+            { "en": "noun", "es": "sustantivo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In the word 'unhappy', 'un-' is added to the beginning of 'happy' to create the opposite meaning. What do we call 'un-'?",
+          "options": ["a suffix", "a prefix", "a root word"],
+          "correct": 1,
+          "hint": "Se coloca al PRINCIPIO de la palabra.",
+          "explanation": "«Prefix» es el prefijo, la parte añadida al principio de una palabra. «Suffix» se añade al final y «root word» es la palabra base sin afijos."
+        },
+        {
+          "type": "gap",
+          "text": "A ___ is a word that names a person, place, or thing, like 'teacher' or 'city'.",
+          "options": ["noun", "verb", "adverb"],
+          "answer": "noun",
+          "explanation": "«Noun» es el sustantivo, la categoría que nombra personas, lugares o cosas. «Verb» expresa acciones y «adverb» modifica al verbo; ninguno nombra objetos."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "suffix", "es": "sufijo" },
+            { "en": "root", "es": "raíz (de palabra)" },
+            { "en": "word", "es": "palabra" },
+            { "en": "noun", "es": "sustantivo" },
+            { "en": "verb", "es": "verbo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In the word 'happiness', '-ness' is added to the end of 'happy' to change it from an adjective into a noun. What do we call '-ness'?",
+          "options": ["a suffix", "a prefix", "a verb"],
+          "correct": 0,
+          "hint": "Se coloca al FINAL de la palabra y cambia su categoría gramatical.",
+          "explanation": "«Suffix» es el sufijo, la parte añadida al final de una palabra para cambiar su categoría gramatical. «Prefix» se añade al principio y «verb» es una categoría gramatical, no un afijo."
+        },
+        {
+          "type": "gap",
+          "text": "A ___ is a word that expresses an action or state, like 'run' or 'be'.",
+          "options": ["verb", "noun", "prefix"],
+          "answer": "verb",
+          "explanation": "«Verb» es el verbo, la categoría que expresa acciones o estados. «Noun» nombra cosas y «prefix» es un afijo, no una categoría gramatical."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "prefix", "es": "prefijo" },
+            { "en": "root", "es": "raíz (de palabra)" },
+            { "en": "noun", "es": "sustantivo" },
+            { "en": "verb", "es": "verbo" },
+            { "en": "suffix", "es": "sufijo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The word 'happy' contains the primary meaning to which affixes like 'un-' or '-ness' can be attached. What do we call 'happy' in this context?",
+          "options": ["the suffix", "the prefix", "the root word"],
+          "correct": 2,
+          "hint": "Es la base sin afijos añadidos.",
+          "explanation": "«Root word» es la palabra raíz, la base que contiene el significado principal. «Suffix» y «prefix» son los afijos que se le añaden, no la base misma."
+        },
+        {
+          "type": "gap",
+          "text": "Every English word has a ___ that carries its core meaning, before any prefix or suffix is added.",
+          "options": ["root", "suffix", "adverb"],
+          "answer": "root",
+          "explanation": "«Root» es la raíz, la base que contiene el significado principal de la palabra. «Suffix» es un afijo añadido y «adverb» es una categoría gramatical distinta."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Añade un prefijo a la palabra",
+          "direction": "es-en",
+          "tiles": ["Add", "a", "prefix", "to", "the", "word", "suffix", "root"],
+          "answer": "Add a prefix to the word",
+          "explanation": "«Prefix» es «prefijo» y «word» es «palabra», el vocabulario clave de la frase. «Suffix» y «root» son distractores del mismo campo semántico de morfología."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un sustantivo, no un verbo",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "noun", "not", "a", "verb", "adjective"],
+          "answer": "It is a noun not a verb",
+          "explanation": "«Noun» (sustantivo) y «verb» (verbo) son las categorías gramaticales contrastadas en la frase. «Adjective» es un distractor de otra categoría gramatical."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El sufijo cambia la categoría de la palabra",
+          "direction": "es-en",
+          "tiles": ["The", "suffix", "changes", "the", "category", "of", "the", "word", "prefix", "root"],
+          "answer": "The suffix changes the category of the word",
+          "explanation": "«Suffix» (sufijo) y «word» (palabra) forman el núcleo de la frase. «Prefix» y «root» son distractores del mismo campo semántico de formación de palabras."
+        },
+        {
+          "type": "speak",
+          "text": "A prefix is added to the beginning of a word.",
+          "es": "Un prefijo se añade al principio de una palabra."
+        },
+        {
+          "type": "speak",
+          "text": "A suffix can change a verb into a noun.",
+          "es": "Un sufijo puede convertir un verbo en un sustantivo."
+        },
+        {
+          "type": "speak",
+          "text": "Every word has a root that carries its main meaning.",
+          "es": "Toda palabra tiene una raíz que lleva su significado principal."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Categorías gramaticales y el sufijo -ness",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "adjective", "es": "adjetivo" },
+            { "en": "adverb", "es": "adverbio" },
+            { "en": "happy", "es": "feliz" },
+            { "en": "happiness", "es": "felicidad" },
+            { "en": "sad", "es": "triste" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The word 'happy' describes a person's mood, like in 'a happy child'. What grammatical category is 'happy'?",
+          "options": ["an adverb", "a noun", "an adjective"],
+          "correct": 2,
+          "hint": "Es la categoría que describe cualidades de un sustantivo.",
+          "explanation": "«Adjective» es adjetivo, la categoría que describe cualidades (como el estado de ánimo) de un sustantivo. «Noun» nombra cosas y «adverb» modifica verbos; ninguno describe directamente así."
+        },
+        {
+          "type": "gap",
+          "text": "When the adjective ends in consonant + y, we change the y to ___ before adding -ness.",
+          "options": ["i", "e", "a"],
+          "answer": "i",
+          "explanation": "La regla ortográfica indica que la «y» tras consonante se transforma en «i» antes de añadir el sufijo: «happy» → «happiness»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "adverb", "es": "adverbio" },
+            { "en": "happy", "es": "feliz" },
+            { "en": "happiness", "es": "felicidad" },
+            { "en": "sad", "es": "triste" },
+            { "en": "sadness", "es": "tristeza" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Her family brought her great joy and contentment for many years. What abstract noun describes this feeling?",
+          "options": ["sadness", "happiness", "adjective"],
+          "correct": 1,
+          "hint": "Es el sustantivo formado con «-ness» a partir de «happy».",
+          "explanation": "«Happiness» es «felicidad», el sustantivo abstracto formado con el sufijo «-ness» a partir del adjetivo «happy». «Sadness» es el sentimiento opuesto y «adjective» es una categoría gramatical, no un sentimiento."
+        },
+        {
+          "type": "gap",
+          "text": "There was a look of ___ in his eyes after he heard the news.",
+          "options": ["sadness", "sad", "sadly"],
+          "answer": "sadness",
+          "explanation": "Tras «look of» se necesita un sustantivo abstracto: «sadness» (tristeza). «Sad» es adjetivo y «sadly» es adverbio; ninguno encaja tras una preposición como sustantivo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "adjective", "es": "adjetivo" },
+            { "en": "happy", "es": "feliz" },
+            { "en": "sad", "es": "triste" },
+            { "en": "sadness", "es": "tristeza" },
+            { "en": "adverb", "es": "adverbio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "There was a clear look of grief and unhappiness in his eyes after the bad news. What noun describes his feeling?",
+          "options": ["sadness", "happiness", "sad"],
+          "correct": 0,
+          "hint": "Es el sustantivo formado con «-ness» a partir de «sad».",
+          "explanation": "«Sadness» es «tristeza», el sustantivo formado con «-ness» a partir de «sad». «Happiness» es el sentimiento opuesto y «sad» es el adjetivo, no el sustantivo abstracto."
+        },
+        {
+          "type": "gap",
+          "text": "Thank you for your kindness during my travel; you are always so ___.",
+          "options": ["happy", "happiness", "happily"],
+          "answer": "happy",
+          "explanation": "Tras el verbo «are» se necesita un adjetivo: «happy» (feliz). «Happiness» es el sustantivo y «happily» es el adverbio; ninguno encaja como atributo tras «are»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una persona muy feliz",
+          "direction": "es-en",
+          "tiles": ["She", "is", "a", "very", "happy", "person", "sad", "sadness"],
+          "answer": "She is a very happy person",
+          "explanation": "«Happy» (feliz) es el adjetivo clave de la frase. «Sad» y «sadness» son distractores del sentimiento opuesto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Su felicidad es evidente",
+          "direction": "es-en",
+          "tiles": ["Her", "happiness", "is", "evident", "sadness", "happy"],
+          "answer": "Her happiness is evident",
+          "explanation": "«Happiness» (felicidad) es el sustantivo abstracto formado con «-ness». «Sadness» es el sentimiento opuesto y «happy» es el adjetivo, no el sustantivo; ambos son distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un adjetivo, no un adverbio",
+          "direction": "es-en",
+          "tiles": ["It", "is", "an", "adjective", "not", "an", "adverb", "noun"],
+          "answer": "It is an adjective not an adverb",
+          "explanation": "«Adjective» y «adverb» son las categorías gramaticales contrastadas. «Noun» es un distractor de otra categoría gramatical."
+        },
+        {
+          "type": "speak",
+          "text": "Her family brought her great happiness.",
+          "es": "Su familia le trajo gran felicidad."
+        },
+        {
+          "type": "speak",
+          "text": "There was a look of sadness in his eyes.",
+          "es": "Había una mirada de tristeza en sus ojos."
+        },
+        {
+          "type": "speak",
+          "text": "Happy is an adjective, and happiness is a noun.",
+          "es": "Happy es un adjetivo, y happiness es un sustantivo."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Prefijos negativos: un- y dis-",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "kind", "es": "amable" },
+            { "en": "kindness", "es": "amabilidad" },
+            { "en": "honest", "es": "honesto" },
+            { "en": "dishonesty", "es": "deshonestidad" },
+            { "en": "reliable", "es": "fiable / confiable" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The hotel staff was extremely helpful, and their _______ made our stay very comfortable.",
+          "options": ["kindness", "kind", "kindly"],
+          "correct": 0,
+          "hint": "La frase necesita un sustantivo como sujeto de «made».",
+          "explanation": "La frase requiere un sustantivo para actuar como sujeto («their...»). El sufijo «-ness» transforma el adjetivo «kind» en el sustantivo «kindness» (amabilidad). «Kind» es adjetivo y «kindly» es adverbio; ninguno funciona como sujeto aquí."
+        },
+        {
+          "type": "gap",
+          "text": "An ___ employee is a problem for the company because you cannot trust their work.",
+          "options": ["unreliable", "kind", "honest"],
+          "answer": "unreliable",
+          "explanation": "«Unreliable» (poco fiable) es el adjetivo con el prefijo negativo «un-» que describe a alguien en quien no se puede confiar."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "kindness", "es": "amabilidad" },
+            { "en": "honest", "es": "honesto" },
+            { "en": "dishonesty", "es": "deshonestidad" },
+            { "en": "reliable", "es": "fiable / confiable" },
+            { "en": "unreliable", "es": "poco fiable" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Due to the driver's _______ behavior, the passengers felt unsafe during the trip.",
+          "options": ["dishonesty", "unreliable", "reliability"],
+          "correct": 1,
+          "hint": "Se necesita un adjetivo negativo que califique a «behavior».",
+          "explanation": "«Unreliable» es el adjetivo negativo correcto que califica a un comportamiento poco fiable, justificando que los pasajeros se sintieran inseguros. «Dishonesty» es un sustantivo y «reliability» es un sustantivo positivo; ninguno encaja como adjetivo negativo."
+        },
+        {
+          "type": "gap",
+          "text": "The manager dismissed him because of his ___.",
+          "options": ["dishonesty", "honest", "kindness"],
+          "answer": "dishonesty",
+          "explanation": "«Dishonesty» es «deshonestidad», el sustantivo formado con el prefijo «dis-» a partir de «honest». «Honest» es el adjetivo y «kindness» no tiene relación con este contexto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "kind", "es": "amable" },
+            { "en": "honest", "es": "honesto" },
+            { "en": "reliable", "es": "fiable / confiable" },
+            { "en": "unreliable", "es": "poco fiable" },
+            { "en": "kindness", "es": "amabilidad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The manager fired him because he told lies and could not be trusted with money. What quality did he show?",
+          "options": ["kindness", "reliability", "dishonesty"],
+          "correct": 2,
+          "hint": "Es la cualidad opuesta a ser sincero y fiable.",
+          "explanation": "«Dishonesty» es «deshonestidad», la cualidad de no ser sincero ni fiable con la verdad. «Kindness» es amabilidad y «reliability» es fiabilidad; ninguna encaja con mentir."
+        },
+        {
+          "type": "gap",
+          "text": "Thank you for your ___ during my difficult travel experience.",
+          "options": ["kindness", "kind", "unreliable"],
+          "answer": "kindness",
+          "explanation": "Tras «your» se necesita un sustantivo: «kindness» (amabilidad), formado con el sufijo «-ness» a partir de «kind»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un amigo poco fiable",
+          "direction": "es-en",
+          "tiles": ["He", "is", "an", "unreliable", "friend", "reliable", "kind"],
+          "answer": "He is an unreliable friend",
+          "explanation": "«Unreliable» (poco fiable) lleva el prefijo negativo «un-». «Reliable» es el antónimo sin prefijo y «kind» es un adjetivo distinto; ambos son distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Gracias por tu amabilidad",
+          "direction": "es-en",
+          "tiles": ["Thank", "you", "for", "your", "kindness", "kind", "dishonesty"],
+          "answer": "Thank you for your kindness",
+          "explanation": "«Kindness» (amabilidad) es el sustantivo abstracto formado con «-ness». «Kind» es el adjetivo y «dishonesty» es un sustantivo de significado opuesto; ambos son distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Su deshonestidad es un problema",
+          "direction": "es-en",
+          "tiles": ["His", "dishonesty", "is", "a", "problem", "honest", "kindness"],
+          "answer": "His dishonesty is a problem",
+          "explanation": "«Dishonesty» (deshonestidad) lleva el prefijo «dis-». «Honest» es el adjetivo base y «kindness» es un sustantivo distinto; ambos son distractores."
+        },
+        {
+          "type": "speak",
+          "text": "An unreliable employee is a problem for the company.",
+          "es": "Un empleado poco fiable es un problema para la empresa."
+        },
+        {
+          "type": "speak",
+          "text": "The manager dismissed him because of his dishonesty.",
+          "es": "El gerente lo despidió por su deshonestidad."
+        },
+        {
+          "type": "speak",
+          "text": "Thank you for your kindness during my travel.",
+          "es": "Gracias por tu amabilidad durante mi viaje."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Sufijos de sustantivo y adjetivo: -ity, -ive, -ion",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "active", "es": "activo" },
+            { "en": "activity", "es": "actividad" },
+            { "en": "create", "es": "crear" },
+            { "en": "creative", "es": "creativo" },
+            { "en": "decide", "es": "decidir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "She is a very _______ artist who can create beautiful sculptures out of simple wood.",
+          "options": ["creative", "creativity", "creatively"],
+          "correct": 0,
+          "hint": "Se necesita un adjetivo que describa a la artista.",
+          "explanation": "El espacio requiere un adjetivo que describa a la artista. El sufijo «-ive» convierte el verbo «create» en el adjetivo «creative». «Creativity» es un sustantivo y «creatively» es un adverbio; ninguno encaja aquí."
+        },
+        {
+          "type": "gap",
+          "text": "We need a ___ designer for our new product, someone who can invent original ideas.",
+          "options": ["creative", "create", "creativity"],
+          "answer": "creative",
+          "explanation": "Se necesita un adjetivo que describa al diseñador: «creative» (creativo). «Create» es el verbo y «creativity» es el sustantivo; ninguno encaja como atributo aquí."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "activity", "es": "actividad" },
+            { "en": "create", "es": "crear" },
+            { "en": "creative", "es": "creativo" },
+            { "en": "decide", "es": "decidir" },
+            { "en": "decision", "es": "decisión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After a long discussion, the board of directors made the final _______ to change the company schedule.",
+          "options": ["decisive", "decision", "decide"],
+          "correct": 1,
+          "hint": "Tras «the final» se necesita un sustantivo, no un adjetivo ni un verbo.",
+          "explanation": "«Decision» es el sustantivo correcto (decisión) que se combina habitualmente con el verbo «make» («make a decision»). «Decisive» es un adjetivo y «decide» es un verbo; ninguno cierra correctamente la frase nominal «the final...»."
+        },
+        {
+          "type": "gap",
+          "text": "Physical ___ is good for your health, like walking or swimming.",
+          "options": ["activity", "active", "act"],
+          "answer": "activity",
+          "explanation": "«Activity» es el sustantivo «actividad». «Active» es el adjetivo y «act» no es la forma correcta en este contexto nominal."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "active", "es": "activo" },
+            { "en": "create", "es": "crear" },
+            { "en": "decide", "es": "decidir" },
+            { "en": "decision", "es": "decisión" },
+            { "en": "activity", "es": "actividad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Physical exercise, sports, and movement are good for your health, according to doctors. What do we call this in general?",
+          "options": ["active", "decision", "activity"],
+          "correct": 2,
+          "hint": "Es el sustantivo formado con «-ity» a partir de «active».",
+          "explanation": "«Activity» es «actividad», el sustantivo formado con el sufijo «-ity» a partir de «active». «Active» es el adjetivo y «decision» no tiene relación con el ejercicio físico."
+        },
+        {
+          "type": "gap",
+          "text": "Making a quick ___ is necessary for a boss when problems appear.",
+          "options": ["decision", "decide", "decisive"],
+          "answer": "decision",
+          "explanation": "Tras «a quick» se necesita un sustantivo: «decision» (decisión). «Decide» es el verbo y «decisive» es el adjetivo; ninguno encaja tras el artículo y el adjetivo «quick»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una diseñadora creativa",
+          "direction": "es-en",
+          "tiles": ["She", "is", "a", "creative", "designer", "create", "activity"],
+          "answer": "She is a creative designer",
+          "explanation": "«Creative» (creativa) es el adjetivo formado con el sufijo «-ive». «Create» es el verbo y «activity» es un sustantivo distinto; ambos son distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesitamos tomar una decisión",
+          "direction": "es-en",
+          "tiles": ["We", "need", "to", "make", "a", "decision", "decide", "decisive"],
+          "answer": "We need to make a decision",
+          "explanation": "«Decision» es el sustantivo requerido tras «make a». «Decide» es el verbo y «decisive» es el adjetivo; ambos son distractores de la misma familia de palabras."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella es muy activa",
+          "direction": "es-en",
+          "tiles": ["She", "is", "very", "active", "activity", "creative"],
+          "answer": "She is very active",
+          "explanation": "«Active» (activa) es el adjetivo requerido tras «is very». «Activity» es el sustantivo y «creative» es un adjetivo distinto; ambos son distractores."
+        },
+        {
+          "type": "speak",
+          "text": "She is a very creative artist.",
+          "es": "Ella es una artista muy creativa."
+        },
+        {
+          "type": "speak",
+          "text": "Physical activity is good for your health.",
+          "es": "La actividad física es buena para la salud."
+        },
+        {
+          "type": "speak",
+          "text": "The board made the final decision.",
+          "es": "La junta tomó la decisión final."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Repaso final: éxito, belleza y paciencia",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "success", "es": "éxito" },
+            { "en": "successful", "es": "exitoso" },
+            { "en": "beauty", "es": "belleza" },
+            { "en": "beautiful", "es": "hermoso" },
+            { "en": "patience", "es": "paciencia" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The passenger became _______ when he heard that the flight to London was delayed again.",
+          "options": ["patience", "impatient", "patient"],
+          "correct": 1,
+          "hint": "Es el adjetivo con el prefijo negativo «im-».",
+          "explanation": "«Impatient» es el adjetivo con el prefijo negativo adecuado para describir a alguien que pierde la paciencia debido a un retraso repetido. «Patience» es un sustantivo y «patient» significaría lo contrario (que se volvió paciente), lo cual contradice la reacción lógica."
+        },
+        {
+          "type": "gap",
+          "text": "She is a very ___ creative writer, known and admired everywhere.",
+          "options": ["successful", "success", "succeed"],
+          "answer": "successful",
+          "explanation": "Se necesita un adjetivo antes del sustantivo «writer»: «successful» (exitoso). «Success» es el sustantivo y «succeed» es el verbo; ninguno encaja como adjetivo aquí."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "successful", "es": "exitoso" },
+            { "en": "beauty", "es": "belleza" },
+            { "en": "beautiful", "es": "hermoso" },
+            { "en": "patience", "es": "paciencia" },
+            { "en": "impatient", "es": "impaciente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Her new business made a lot of money and became famous around the world. What did she achieve?",
+          "options": ["success", "impatient", "beauty"],
+          "correct": 0,
+          "hint": "Es el sustantivo que describe este gran logro.",
+          "explanation": "«Success» es «éxito», el sustantivo que describe este logro. «Impatient» es un adjetivo sin relación y «beauty» es «belleza», tampoco relacionado con logros empresariales."
+        },
+        {
+          "type": "gap",
+          "text": "The airport is located in a ___ valley surrounded by mountains.",
+          "options": ["beautiful", "beauty", "beautifully"],
+          "answer": "beautiful",
+          "explanation": "Se necesita un adjetivo antes de «valley»: «beautiful» (hermoso), con una sola «l» en el sufijo «-ful». «Beauty» es el sustantivo y «beautifully» es el adverbio."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "success", "es": "éxito" },
+            { "en": "beauty", "es": "belleza" },
+            { "en": "patience", "es": "paciencia" },
+            { "en": "impatient", "es": "impaciente" },
+            { "en": "successful", "es": "exitoso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The airport is located in a valley with amazing mountains and a stunning lake nearby. How would you describe this valley?",
+          "options": ["successful", "impatient", "beautiful"],
+          "correct": 2,
+          "hint": "Es el adjetivo adecuado para describir un paisaje.",
+          "explanation": "«Beautiful» es «hermoso», el adjetivo adecuado para describir un paisaje. «Successful» describe logros y «impatient» describe una actitud; ninguno describe un paisaje."
+        },
+        {
+          "type": "gap",
+          "text": "You need ___ to learn a new language; it takes a long time.",
+          "options": ["patience", "impatient", "patient"],
+          "answer": "patience",
+          "explanation": "Tras «need» se necesita un sustantivo: «patience» (paciencia). «Impatient» y «patient» son adjetivos, no sustantivos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una escritora exitosa",
+          "direction": "es-en",
+          "tiles": ["She", "is", "a", "successful", "writer", "success", "beautiful"],
+          "answer": "She is a successful writer",
+          "explanation": "«Successful» (exitosa) es el adjetivo formado con el sufijo «-ful». «Success» es el sustantivo y «beautiful» es un adjetivo distinto; ambos son distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El valle es hermoso",
+          "direction": "es-en",
+          "tiles": ["The", "valley", "is", "beautiful", "beauty", "successful"],
+          "answer": "The valley is beautiful",
+          "explanation": "«Beautiful» (hermoso) es el adjetivo requerido tras «is». «Beauty» es el sustantivo y «successful» es un adjetivo distinto; ambos son distractores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El pasajero se puso impaciente",
+          "direction": "es-en",
+          "tiles": ["The", "passenger", "became", "impatient", "patience", "patient"],
+          "answer": "The passenger became impatient",
+          "explanation": "«Impatient» (impaciente) es el adjetivo con el prefijo negativo «im-» requerido tras «became». «Patience» es el sustantivo y «patient» significa lo contrario; ambos son distractores."
+        },
+        {
+          "type": "speak",
+          "text": "She is a very successful and creative writer.",
+          "es": "Ella es una escritora muy exitosa y creativa."
+        },
+        {
+          "type": "speak",
+          "text": "The airport is located in a beautiful valley.",
+          "es": "El aeropuerto está ubicado en un valle hermoso."
+        },
+        {
+          "type": "speak",
+          "text": "He became impatient when the flight was delayed.",
+          "es": "Se puso impaciente cuando el vuelo se retrasó."
+        }
+      ]
+    }
+  ]
+}
