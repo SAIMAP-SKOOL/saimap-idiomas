@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod06",
+  "module": 6,
+  "title": "Present Perfect Continuous: Process & Duration",
+  "subtitle": "Presente Perfecto Continuo",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Estructura afirmativa: have/has been + -ing",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "process", "es": "proceso" },
+            { "en": "duration", "es": "duración" },
+            { "en": "progress", "es": "progreso" },
+            { "en": "work", "es": "trabajar / trabajo" },
+            { "en": "run", "es": "correr" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We ___ for the train since 4 o'clock, and it still hasn't arrived.",
+          "options": ["have been waiting", "are waiting", "have waited"],
+          "correct": 0,
+          "hint": "«Since 4 o'clock» marca el inicio de un proceso inconcluso.",
+          "explanation": "«Since 4 o'clock» señala el inicio de un proceso que sigue sin terminar: Present Perfect Continuous. «Are waiting» no combina con «since» y «have waited» no enfatiza el proceso frustrante."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ been studying English for three hours.",
+          "options": ["have", "has", "am"],
+          "answer": "have",
+          "explanation": "El sujeto «I» concuerda con «have», no con «has» ni «am»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "duration", "es": "duración" },
+            { "en": "progress", "es": "progreso" },
+            { "en": "work", "es": "trabajar / trabajo" },
+            { "en": "run", "es": "correr" },
+            { "en": "wait", "es": "esperar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correctly formed affirmative sentence.",
+          "options": ["It has raining all day.", "It has been raining all day.", "It has be raining all day."],
+          "correct": 1,
+          "hint": "El participio «been» nunca desaparece ni cambia de forma.",
+          "explanation": "La estructura fija es «have/has + been + verbo-ing». «Been» nunca se omite ni se sustituye por «be»."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ been working on this project for two weeks.",
+          "options": ["has", "have", "is"],
+          "answer": "has",
+          "explanation": "El sujeto «she» (tercera persona singular) concuerda con «has»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "process", "es": "proceso" },
+            { "en": "work", "es": "trabajar / trabajo" },
+            { "en": "run", "es": "correr" },
+            { "en": "wait", "es": "esperar" },
+            { "en": "duration", "es": "duración" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly shows the DURATION of a process?",
+          "options": ["I have run for two hours today.", "I am running for two hours today.", "I have been running for two hours today."],
+          "correct": 2,
+          "hint": "Se busca la estructura idónea para enfatizar el proceso en curso.",
+          "explanation": "Present Perfect Continuous es la estructura idónea para enfatizar la duración de un proceso en curso: «have been running»."
+        },
+        {
+          "type": "gap",
+          "text": "They ___ been waiting for the bus for thirty minutes.",
+          "options": ["have", "has", "was"],
+          "answer": "have",
+          "explanation": "El sujeto plural «they» concuerda con «have»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "He estado trabajando durante tres horas",
+          "direction": "es-en",
+          "tiles": ["I", "have", "been", "working", "for", "three", "hours", "has"],
+          "answer": "I have been working for three hours",
+          "explanation": "«Have been working» + «for» + período de tiempo expresa la duración de un proceso."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella ha estado corriendo toda la mañana",
+          "direction": "es-en",
+          "tiles": ["She", "has", "been", "running", "all", "morning", "have"],
+          "answer": "She has been running all morning",
+          "explanation": "Tercera persona singular: «has been running»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hemos estado esperando el progreso",
+          "direction": "es-en",
+          "tiles": ["We", "have", "been", "waiting", "for", "the", "progress", "has"],
+          "answer": "We have been waiting for the progress",
+          "explanation": "Sujeto plural «we» concuerda con «have been waiting»."
+        },
+        {
+          "type": "speak",
+          "text": "I have been studying English for three hours.",
+          "es": "Llevo tres horas estudiando inglés."
+        },
+        {
+          "type": "speak",
+          "text": "It has been raining all day.",
+          "es": "Ha estado lloviendo todo el día."
+        },
+        {
+          "type": "speak",
+          "text": "We have been waiting for the bus for thirty minutes.",
+          "es": "Llevamos treinta minutos esperando el autobús."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Evidencia presente: consecuencias visibles",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "paint", "es": "pintar / pintura" },
+            { "en": "sweat", "es": "sudar / sudor" },
+            { "en": "tired", "es": "cansado" },
+            { "en": "exhausted", "es": "agotado" },
+            { "en": "messy", "es": "desordenado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your friend arrives sweating and breathing heavily. What do you ask?",
+          "options": ["Have you run?", "Have you been running?", "Are you run?"],
+          "correct": 1,
+          "hint": "El efecto físico visible es la pista del proceso reciente.",
+          "explanation": "«Have you been running?» pregunta por la actividad reciente cuyo efecto físico es visible ahora mismo."
+        },
+        {
+          "type": "gap",
+          "text": "You look ___; have you been running?",
+          "options": ["exhausted", "messy", "dirty"],
+          "answer": "exhausted",
+          "explanation": "«Exhausted» (agotado) describe el cansancio extremo visible tras correr."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "sweat", "es": "sudar / sudor" },
+            { "en": "tired", "es": "cansado" },
+            { "en": "exhausted", "es": "agotado" },
+            { "en": "messy", "es": "desordenado" },
+            { "en": "dirty", "es": "sucio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The kitchen is messy and there are dirty pans everywhere. What's the best explanation?",
+          "options": ["My brother has been cooking dinner.", "My brother has cooked dinner.", "My brother is cooking dinner."],
+          "correct": 0,
+          "hint": "El desorden visible apunta a un proceso prolongado, no a un resultado ni a una acción instantánea.",
+          "explanation": "El desorden visible es la prueba de una actividad reciente y prolongada: «has been cooking»."
+        },
+        {
+          "type": "gap",
+          "text": "I am tired because I've ___ books all night.",
+          "options": ["been reading", "read", "reading"],
+          "answer": "been reading",
+          "explanation": "Falta «been» para completar la estructura del Present Perfect Continuous: «I've been reading»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "paint", "es": "pintar / pintura" },
+            { "en": "exhausted", "es": "agotado" },
+            { "en": "messy", "es": "desordenado" },
+            { "en": "dirty", "es": "sucio" },
+            { "en": "tired", "es": "cansado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly explains why someone's hands are covered in paint?",
+          "options": ["She paints the wall.", "She has painted the wall.", "She has been painting the wall."],
+          "correct": 2,
+          "hint": "El efecto visible ahora mismo es consecuencia de un proceso reciente.",
+          "explanation": "La evidencia física reciente (manos manchadas) se explica con el proceso: «has been painting»."
+        },
+        {
+          "type": "gap",
+          "text": "Your hands are dirty. What ___ doing?",
+          "options": ["have you been", "did you", "are you"],
+          "answer": "have you been",
+          "explanation": "La pregunta sobre la actividad reciente con efecto visible usa «have you been» + gerundio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estás sudando, ¿has estado corriendo?",
+          "direction": "es-en",
+          "tiles": ["You", "are", "sweating", "have", "you", "been", "running", "run"],
+          "answer": "You are sweating, have you been running",
+          "explanation": "El efecto visible (sudar) se explica preguntando por el proceso reciente: «have you been running»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La cocina está sucia porque ha estado cocinando",
+          "direction": "es-en",
+          "tiles": ["The", "kitchen", "is", "dirty", "because", "she", "has", "been", "cooking", "cooked"],
+          "answer": "The kitchen is dirty because she has been cooking",
+          "explanation": "«Has been cooking» explica el desorden visible como consecuencia de un proceso reciente."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estoy agotado porque he estado pintando",
+          "direction": "es-en",
+          "tiles": ["I", "am", "exhausted", "because", "I", "have", "been", "painting", "paint"],
+          "answer": "I am exhausted because I have been painting",
+          "explanation": "«Have been painting» explica el cansancio actual como resultado de un proceso reciente."
+        },
+        {
+          "type": "speak",
+          "text": "You are sweating. Have you been running?",
+          "es": "Estás sudando. ¿Has estado corriendo?"
+        },
+        {
+          "type": "speak",
+          "text": "My brother has been cooking dinner; the kitchen is messy.",
+          "es": "Mi hermano ha estado cocinando la cena; la cocina está desordenada."
+        },
+        {
+          "type": "speak",
+          "text": "I am exhausted because I have been painting all day.",
+          "es": "Estoy agotado porque he estado pintando todo el día."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Preguntas, negativas y la trampa de 's",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "clean", "es": "limpiar / limpio" },
+            { "en": "smell", "es": "oler / olor" },
+            { "en": "cook", "es": "cocinar" },
+            { "en": "rain", "es": "llover / lluvia" },
+            { "en": "snow", "es": "nevar / nieve" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You look completely exhausted! What ___ doing?",
+          "options": ["did you do", "have you been", "you have been"],
+          "correct": 1,
+          "hint": "Necesitas la inversión sujeto-auxiliar para preguntar.",
+          "explanation": "El estado presente («exhausted») es evidencia física de una actividad continua reciente; se necesita la inversión «have you been» + gerundio."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ been working on the project recently.",
+          "options": ["hasn't", "haven't", "isn't"],
+          "answer": "hasn't",
+          "explanation": "Negativa de tercera persona singular: «hasn't been»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "smell", "es": "oler / olor" },
+            { "en": "cook", "es": "cocinar" },
+            { "en": "rain", "es": "llover / lluvia" },
+            { "en": "snow", "es": "nevar / nieve" },
+            { "en": "wind", "es": "viento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The kitchen is very messy and dirty because my brother ___ a cake.",
+          "options": ["has been cooking", "has cooked", "is cooking"],
+          "correct": 0,
+          "hint": "El desorden visible es prueba de un proceso, no solo de un resultado.",
+          "explanation": "El desorden es la prueba visual de una actividad reciente y continuada: «has been cooking»."
+        },
+        {
+          "type": "gap",
+          "text": "He's ___ running in the park.",
+          "options": ["is", "has", "have"],
+          "answer": "is",
+          "explanation": "«He's running» (sin «been») es Present Continuous: el «'s» equivale a «is». Solo con «He's been running» el «'s» equivaldría a «has»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "clean", "es": "limpiar / limpio" },
+            { "en": "cook", "es": "cocinar" },
+            { "en": "rain", "es": "llover / lluvia" },
+            { "en": "wind", "es": "viento" },
+            { "en": "smell", "es": "oler / olor" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which question correctly asks about a recent painting activity with visible effects?",
+          "options": ["Did he paint the living room?", "Is he painted the living room?", "Has he been painting the living room?"],
+          "correct": 2,
+          "hint": "Se pregunta por un proceso reciente con efectos visibles ahora.",
+          "explanation": "La pregunta sobre un proceso reciente con efectos visibles usa la inversión «has he been» + gerundio."
+        },
+        {
+          "type": "gap",
+          "text": "They haven't ___ practicing the play for the school show.",
+          "options": ["been", "be", "being"],
+          "answer": "been",
+          "explanation": "La negativa mantiene «been» invariable: «haven't been practicing»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Has estado limpiando la casa?",
+          "direction": "es-en",
+          "tiles": ["Have", "you", "been", "cleaning", "the", "house", "clean"],
+          "answer": "Have you been cleaning the house",
+          "explanation": "Pregunta con inversión: «Have you been cleaning»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No ha estado nevando esta semana",
+          "direction": "es-en",
+          "tiles": ["It", "hasn't", "been", "snowing", "this", "week", "snow"],
+          "answer": "It hasn't been snowing this week",
+          "explanation": "Negativa de tercera persona: «hasn't been snowing»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Huele raro, ¿qué has estado cocinando?",
+          "direction": "es-en",
+          "tiles": ["It", "smells", "weird", "what", "have", "you", "been", "cooking", "cook"],
+          "answer": "It smells weird, what have you been cooking",
+          "explanation": "El olor es la evidencia presente que motiva la pregunta por el proceso reciente: «have you been cooking»."
+        },
+        {
+          "type": "speak",
+          "text": "Have you been cleaning the house? It smells nice.",
+          "es": "¿Has estado limpiando la casa? Huele bien."
+        },
+        {
+          "type": "speak",
+          "text": "It's been raining, and the streets are wet.",
+          "es": "Ha estado lloviendo, y las calles están mojadas."
+        },
+        {
+          "type": "speak",
+          "text": "What have you been cooking? It smells amazing.",
+          "es": "¿Qué has estado cocinando? Huele increíble."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "For y Since: duración vs. punto de inicio",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "wait for", "es": "esperar a" },
+            { "en": "search for", "es": "buscar" },
+            { "en": "study", "es": "estudiar" },
+            { "en": "learn", "es": "aprender" },
+            { "en": "practice", "es": "practicar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "She has ___ three different languages since she started her training program.",
+          "options": ["been learning", "learned", "learning"],
+          "correct": 0,
+          "hint": "«Since» + proceso activo que continúa hoy.",
+          "explanation": "«Been learning» describe un proceso activo iniciado en el pasado que continúa hoy; encaja con el marcador «since»."
+        },
+        {
+          "type": "gap",
+          "text": "He has been training for the marathon ___ January.",
+          "options": ["since", "for", "from"],
+          "answer": "since",
+          "explanation": "«Since» se usa con un punto de inicio específico, como un mes."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "search for", "es": "buscar" },
+            { "en": "study", "es": "estudiar" },
+            { "en": "learn", "es": "aprender" },
+            { "en": "practice", "es": "practicar" },
+            { "en": "train", "es": "entrenar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence with the correct preposition for a period of time.",
+          "options": ["I have been practicing since three hours.", "I have been practicing for three hours.", "I have been practicing from three hours."],
+          "correct": 1,
+          "hint": "«Three hours» es un intervalo de duración, no un punto de inicio.",
+          "explanation": "«Three hours» es un período de duración, así que exige «for», no «since» ni «from»."
+        },
+        {
+          "type": "gap",
+          "text": "We have been ___ the bus for thirty minutes.",
+          "options": ["waiting for", "waiting", "wait for"],
+          "answer": "waiting for",
+          "explanation": "«Wait for» es una expresión fija; en la forma continua se usa «waiting for»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "wait for", "es": "esperar a" },
+            { "en": "study", "es": "estudiar" },
+            { "en": "learn", "es": "aprender" },
+            { "en": "practice", "es": "practicar" },
+            { "en": "train", "es": "entrenar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which stative verb CANNOT be used in the continuous form, even with duration?",
+          "options": ["study", "practice", "know"],
+          "correct": 2,
+          "hint": "Uno de los tres describe un estado mental, no una acción.",
+          "explanation": "«Know» es un verbo de estado mental y nunca acepta la forma continua, a diferencia de «study» y «practice», que son acciones."
+        },
+        {
+          "type": "gap",
+          "text": "She has been ___ for a new job since March.",
+          "options": ["searching for", "search for", "searched for"],
+          "answer": "searching for",
+          "explanation": "Present Perfect Continuous: «has been» + gerundio + preposición fija «searching for»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ha estado estudiando tres idiomas desde marzo",
+          "direction": "es-en",
+          "tiles": ["She", "has", "been", "studying", "three", "languages", "since", "March", "study"],
+          "answer": "She has been studying three languages since March",
+          "explanation": "«Since March» marca el punto de inicio del proceso: «has been studying since March»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hemos estado practicando durante dos horas",
+          "direction": "es-en",
+          "tiles": ["We", "have", "been", "practicing", "for", "two", "hours", "practice"],
+          "answer": "We have been practicing for two hours",
+          "explanation": "«For two hours» indica la duración: «have been practicing for two hours»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ha estado entrenando desde enero",
+          "direction": "es-en",
+          "tiles": ["He", "has", "been", "training", "since", "January", "train"],
+          "answer": "He has been training since January",
+          "explanation": "«Since January» marca el punto de inicio del entrenamiento."
+        },
+        {
+          "type": "speak",
+          "text": "She has been learning three languages since she started her training.",
+          "es": "Ha estado aprendiendo tres idiomas desde que empezó su formación."
+        },
+        {
+          "type": "speak",
+          "text": "We have been practicing for two hours.",
+          "es": "Llevamos dos horas practicando."
+        },
+        {
+          "type": "speak",
+          "text": "I have been searching for a new job since March.",
+          "es": "Llevo desde marzo buscando un trabajo nuevo."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Continuo vs. Simple: proceso, cantidad y verbos de estado",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "play", "es": "jugar / tocar" },
+            { "en": "write", "es": "escribir" },
+            { "en": "read", "es": "leer" },
+            { "en": "listen", "es": "escuchar" },
+            { "en": "watch", "es": "ver / observar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence focuses on the RESULT, not the process?",
+          "options": ["I've been written a letter to my boss.", "I've been writing a letter to my boss.", "I've written a letter to my boss."],
+          "correct": 2,
+          "hint": "Una opción es agramatical y otra enfatiza el proceso, no el resultado.",
+          "explanation": "«I've written» (Simple) se centra en el resultado: la carta está terminada. «I've been writing» enfatizaría el proceso, y «I've been written» es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "She has ___ three walls today.",
+          "options": ["painted", "been painting", "paint"],
+          "answer": "painted",
+          "explanation": "«How many» (cantidad completada) exige Present Perfect Simple: «has painted three walls»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "write", "es": "escribir" },
+            { "en": "read", "es": "leer" },
+            { "en": "listen", "es": "escuchar" },
+            { "en": "watch", "es": "ver / observar" },
+            { "en": "look for", "es": "buscar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I ___ my colleague for five years, and she is a wonderful person.",
+          "options": ["have been knowing", "have known", "know"],
+          "correct": 1,
+          "hint": "«Know» es un verbo de estado.",
+          "explanation": "«Know» es un verbo de estado y nunca acepta la forma continua; con duración («for five years») se usa Present Perfect Simple: «have known»."
+        },
+        {
+          "type": "gap",
+          "text": "She has been ___ for her keys for ten minutes.",
+          "options": ["looking", "looked", "look"],
+          "answer": "looking",
+          "explanation": "Proceso en curso: «has been looking for»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "play", "es": "jugar / tocar" },
+            { "en": "read", "es": "leer" },
+            { "en": "listen", "es": "escuchar" },
+            { "en": "watch", "es": "ver / observar" },
+            { "en": "look for", "es": "buscar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly focuses on the DURATION of an ongoing activity?",
+          "options": ["He has been watching this show for two hours.", "He has watched this show two times.", "He watches this show every day."],
+          "correct": 0,
+          "hint": "Se pregunta por «how long», no por «how many».",
+          "explanation": "«For two hours» responde a «how long»; el proceso en curso se expresa con Present Perfect Continuous: «has been watching»."
+        },
+        {
+          "type": "gap",
+          "text": "I have ___ this book three times this year.",
+          "options": ["read", "been reading", "reading"],
+          "answer": "read",
+          "explanation": "«Three times» indica cantidad, no duración, así que corresponde Present Perfect Simple: «have read»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "He estado leyendo este libro toda la tarde",
+          "direction": "es-en",
+          "tiles": ["I", "have", "been", "reading", "this", "book", "all", "afternoon", "read"],
+          "answer": "I have been reading this book all afternoon",
+          "explanation": "«Have been reading» enfatiza el proceso continuo de lectura durante la tarde."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ha escrito tres cartas hoy",
+          "direction": "es-en",
+          "tiles": ["She", "has", "written", "three", "letters", "today", "been", "writing"],
+          "answer": "She has written three letters today",
+          "explanation": "«Three letters» es una cantidad completada, así que corresponde Present Perfect Simple: «has written»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La conozco desde hace cinco años",
+          "direction": "es-en",
+          "tiles": ["I", "have", "known", "her", "for", "five", "years", "been", "knowing"],
+          "answer": "I have known her for five years",
+          "explanation": "«Know» es un verbo de estado: solo admite Present Perfect Simple, «have known», nunca la forma continua."
+        },
+        {
+          "type": "speak",
+          "text": "I've been writing a letter, but I haven't finished it yet.",
+          "es": "He estado escribiendo una carta, pero todavía no la he terminado."
+        },
+        {
+          "type": "speak",
+          "text": "She has painted three walls today.",
+          "es": "Ha pintado tres paredes hoy."
+        },
+        {
+          "type": "speak",
+          "text": "I have known my colleague for five years.",
+          "es": "Conozco a mi colega desde hace cinco años."
+        }
+      ]
+    }
+  ]
+}

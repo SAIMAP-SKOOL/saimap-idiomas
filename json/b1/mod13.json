@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod13",
+  "module": 13,
+  "title": "Modals of Obligation and Advice",
+  "subtitle": "Modales de Obligación y Consejo",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Must vs. Have To: obligación interna y externa",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "obligation", "es": "obligación" },
+            { "en": "duty", "es": "deber / obligación" },
+            { "en": "rule", "es": "regla / norma" },
+            { "en": "law", "es": "ley" },
+            { "en": "regulation", "es": "regulación / norma" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I have been feeling very tired lately. I think I _______ consult a doctor about my sleep schedule.",
+          "options": ["have to", "must", "ought"],
+          "correct": 1,
+          "hint": "Es una necesidad que siente el propio hablante, no una norma externa.",
+          "explanation": "«Must» expresa una obligación interna, sentida por el propio hablante («I think...»). «Have to» sería aceptable para normas externas, y «ought» está incompleto porque exige la partícula «to» (ought to)."
+        },
+        {
+          "type": "gap",
+          "text": "I must ___ to the boss about my salary. (sin partícula 'to' tras el modal)",
+          "options": ["talk", "to talk", "talks"],
+          "answer": "talk",
+          "explanation": "«Must» es un modal puro y va seguido de infinitivo sin «to» (bare infinitive): «must talk», nunca «must to talk» ni «must talks»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de normas y obligación",
+          "pairs": [
+            { "en": "duty", "es": "deber / obligación" },
+            { "en": "rule", "es": "regla / norma" },
+            { "en": "law", "es": "ley" },
+            { "en": "regulation", "es": "regulación / norma" },
+            { "en": "employee", "es": "empleado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence expresses a personal, self-imposed obligation (not a company rule)?",
+          "options": ["Employees have to sign the contract.", "I have to wear a uniform.", "I must talk to my boss about my salary."],
+          "correct": 2,
+          "hint": "Busca la frase donde la decisión sale del propio hablante.",
+          "explanation": "«I must talk to my boss» expresa una obligación interna: el hablante decide que es necesario. Las otras dos usan «have to», propio de normas impuestas desde fuera (contrato, uniforme)."
+        },
+        {
+          "type": "gap",
+          "text": "Every employee ___ sign the contract. (norma externa, 3ª persona)",
+          "options": ["has to", "have to", "must to"],
+          "answer": "has to",
+          "explanation": "«Have to» es un semi-modal: en 3ª persona del singular se conjuga como un verbo normal, «has to». «Must to» no existe: «must» nunca lleva «to»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja obligación, normas y empleados sin repetir",
+          "pairs": [
+            { "en": "obligation", "es": "obligación" },
+            { "en": "rule", "es": "regla / norma" },
+            { "en": "regulation", "es": "regulación / norma" },
+            { "en": "employee", "es": "empleado" },
+            { "en": "duty", "es": "deber / obligación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence expresses an obligation coming from a law or company rule?",
+          "options": ["I must find a new hobby.", "Every employee has to sign the contract.", "I must exercise more."],
+          "correct": 1,
+          "hint": "Piensa en cuál de las tres frases depende de una norma externa, no de una decisión personal.",
+          "explanation": "«Has to sign the contract» es una obligación externa impuesta por la empresa. Las otras dos usan «must» para decisiones personales del hablante sobre su propia vida."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ submit the schedule. (nunca añade -s en 3ª persona)",
+          "options": ["must", "musts", "must to"],
+          "answer": "must",
+          "explanation": "Los verbos modales puros como «must» no se conjugan: no añaden «-s» en 3ª persona ni admiten «to». Se mantiene invariable: «He must submit»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es mi deber",
+          "direction": "es-en",
+          "tiles": ["It", "is", "my", "duty", "has", "obligation"],
+          "answer": "It is my duty",
+          "explanation": "«Duty» (deber/obligación) funciona como sustantivo tras el posesivo «my»: «It is my duty»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Debo hablar con el jefe",
+          "direction": "es-en",
+          "tiles": ["I", "must", "talk", "to", "the", "boss", "have"],
+          "answer": "I must talk to the boss",
+          "explanation": "«Must» + infinitivo sin «to» + «talk to» (hablar con): la preposición «to» aquí acompaña a «talk», no es la partícula del infinitivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo una obligación",
+          "direction": "es-en",
+          "tiles": ["I", "have", "an", "obligation", "has", "duty"],
+          "answer": "I have an obligation",
+          "explanation": "Aquí «have» es el verbo normal «tener» (poseer una obligación), distinto del semi-modal «have to» + verbo."
+        },
+        {
+          "type": "speak",
+          "text": "I must talk to my boss about my salary.",
+          "es": "Debo hablar con mi jefe sobre mi salario."
+        },
+        {
+          "type": "speak",
+          "text": "Every employee has to sign the contract.",
+          "es": "Todo empleado tiene que firmar el contrato."
+        },
+        {
+          "type": "speak",
+          "text": "He must submit the report today.",
+          "es": "Él debe presentar el informe hoy."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Have To en la empresa: normas, horarios y puntualidad",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "company", "es": "empresa / compañía" },
+            { "en": "boss", "es": "jefe" },
+            { "en": "office", "es": "oficina" },
+            { "en": "schedule", "es": "horario / agenda" },
+            { "en": "prompt", "es": "puntual / rápido" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your colleague asks about your work schedule. Which question is grammatically correct?",
+          "options": ["Do you have to work on Saturdays?", "Have you to work on Saturdays?", "Do you must work on Saturdays?"],
+          "correct": 0,
+          "hint": "«Have to» es un semi-modal y necesita el auxiliar «do/does».",
+          "explanation": "Como «have to» se comporta como un verbo normal, las preguntas necesitan el auxiliar «do/does»: «Do you have to work?». «Must» nunca usa «do» como auxiliar."
+        },
+        {
+          "type": "gap",
+          "text": "___ she have to work late tonight? (pregunta)",
+          "options": ["Does", "Do", "Is"],
+          "answer": "Does",
+          "explanation": "«Have to» exige el auxiliar «do/does» para preguntas; con «she» (3ª persona singular) se usa «does»: «Does she have to...?»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de la empresa y el horario",
+          "pairs": [
+            { "en": "boss", "es": "jefe" },
+            { "en": "office", "es": "oficina" },
+            { "en": "schedule", "es": "horario / agenda" },
+            { "en": "prompt", "es": "puntual / rápido" },
+            { "en": "late", "es": "tarde / retrasado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Yesterday the printer broke at the office. What did you have to do?",
+          "options": ["I have to call IT.", "I had to call IT.", "I must called IT."],
+          "correct": 1,
+          "hint": "«Must» no existe en pasado; hace falta otra forma.",
+          "explanation": "Para expresar obligación en pasado se usa «had to», ya que «must» carece de forma pretérita. «Must called» es agramatical: los modales nunca se conjugan."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ call the client yesterday. (pasado de obligación)",
+          "options": ["had to", "have to", "musted"],
+          "answer": "had to",
+          "explanation": "«Must» no tiene pasado; para obligación en pasado se recurre obligatoriamente a «had to». «Musted» no existe: los modales puros nunca se conjugan."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja empresa, horario y puntualidad sin repetir",
+          "pairs": [
+            { "en": "company", "es": "empresa / compañía" },
+            { "en": "schedule", "es": "horario / agenda" },
+            { "en": "prompt", "es": "puntual / rápido" },
+            { "en": "late", "es": "tarde / retrasado" },
+            { "en": "boss", "es": "jefe" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Next month there is a new project at the company. What can you say about your future workload?",
+          "options": ["I will have to work overtime.", "I must to work overtime.", "I have must work overtime."],
+          "correct": 0,
+          "hint": "«Have to» sí admite el futuro con «will»; el otro modal, no.",
+          "explanation": "«Have to» se conjuga en cualquier tiempo, incluido el futuro: «will have to». «Must to» y «have must» son combinaciones agramaticales, imposibles con modales puros."
+        },
+        {
+          "type": "gap",
+          "text": "Next year, employees ___ to arrive at 8 AM. (futuro)",
+          "options": ["will have", "will has", "must will"],
+          "answer": "will have",
+          "explanation": "«Have to» admite el futuro simple: «will have to». «Will has» rompe la concordancia y «must will» combina dos modales, algo imposible en inglés."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Tienes que trabajar mañana?",
+          "direction": "es-en",
+          "tiles": ["Do", "you", "have", "to", "work", "tomorrow", "Are"],
+          "answer": "Do you have to work tomorrow",
+          "explanation": "Pregunta con «have to»: auxiliar «Do» + sujeto + «have to» + verbo. «Must» nunca formaría la pregunta con «Do»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tuve que llamar al jefe",
+          "direction": "es-en",
+          "tiles": ["I", "had", "to", "call", "the", "boss", "must"],
+          "answer": "I had to call the boss",
+          "explanation": "Obligación en pasado: «had to» + infinitivo. «Must» queda descartado como distractor porque no existe en pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tendré que trabajar hasta tarde",
+          "direction": "es-en",
+          "tiles": ["I", "will", "have", "to", "work", "late", "must"],
+          "answer": "I will have to work late",
+          "explanation": "Obligación futura: «will have to» + infinitivo. «Have to» es el único de los dos modales que se conjuga en futuro."
+        },
+        {
+          "type": "speak",
+          "text": "Do you have to work on Saturdays?",
+          "es": "¿Tienes que trabajar los sábados?"
+        },
+        {
+          "type": "speak",
+          "text": "I had to call the boss yesterday.",
+          "es": "Tuve que llamar al jefe ayer."
+        },
+        {
+          "type": "speak",
+          "text": "Next year I will have to arrive earlier.",
+          "es": "El año que viene tendré que llegar más temprano."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Mustn't vs. Don't Have To: prohibición y opcionalidad",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "absent", "es": "ausente" },
+            { "en": "uniform", "es": "uniforme" },
+            { "en": "wear", "es": "llevar puesto / vestir" },
+            { "en": "report", "es": "informe / informar" },
+            { "en": "task", "es": "tarea" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "To avoid accidents in the factory, workers _______ touch the machines without protective gloves.",
+          "options": ["shouldn't", "mustn't", "don't have to"],
+          "correct": 1,
+          "hint": "El contexto de seguridad industrial exige una prohibición absoluta, no un simple consejo.",
+          "explanation": "«Mustn't» expresa una prohibición estricta necesaria por seguridad. «Shouldn't» es solo un consejo débil, y «don't have to» indicaría (erróneamente) que la acción es opcional."
+        },
+        {
+          "type": "gap",
+          "text": "You ___ enter this room; it is strictly private. (prohibición real)",
+          "options": ["mustn't", "don't have to", "doesn't have to"],
+          "answer": "mustn't",
+          "explanation": "Como la sala es estrictamente privada, entrar está prohibido: se necesita «mustn't». «Don't have to» daría a entender, erróneamente, que entrar es opcional."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de la oficina",
+          "pairs": [
+            { "en": "uniform", "es": "uniforme" },
+            { "en": "wear", "es": "llevar puesto / vestir" },
+            { "en": "report", "es": "informe / informar" },
+            { "en": "task", "es": "tarea" },
+            { "en": "meeting", "es": "reunión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You _______ wear a formal suit to the office party, but you can if you want to look elegant.",
+          "options": ["mustn't", "don't have to", "ought not to"],
+          "correct": 1,
+          "hint": "La segunda parte de la frase aclara que hacerlo es libre, no prohibido.",
+          "explanation": "«Don't have to» expresa la ausencia de obligación: puedes llevar traje si quieres, pero no es obligatorio. «Mustn't» significaría que está prohibido, lo cual contradice «but you can if you want»."
+        },
+        {
+          "type": "gap",
+          "text": "You ___ wear a uniform on Fridays; it's optional. (no es obligatorio)",
+          "options": ["don't have to", "mustn't", "musts"],
+          "answer": "don't have to",
+          "explanation": "La frase aclara que es «optional», así que corresponde la ausencia de obligación: «don't have to». «Mustn't» cambiaría el sentido a prohibición."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja ausencia, tareas y reuniones sin repetir",
+          "pairs": [
+            { "en": "absent", "es": "ausente" },
+            { "en": "wear", "es": "llevar puesto / vestir" },
+            { "en": "task", "es": "tarea" },
+            { "en": "meeting", "es": "reunión" },
+            { "en": "report", "es": "informe / informar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence means the action is optional, not forbidden?",
+          "options": ["You mustn't be absent from the meeting.", "You don't have to wear a uniform on Fridays.", "Employees mustn't use personal phones."],
+          "correct": 1,
+          "hint": "Solo una de las tres frases usa la forma de ausencia de obligación.",
+          "explanation": "«Don't have to» indica que la acción es libre y opcional. Las otras dos usan «mustn't», que expresa una prohibición absoluta, no una opción."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ be absent from the meeting. (prohibido faltar)",
+          "options": ["mustn't", "doesn't have to", "hasn't to"],
+          "answer": "mustn't",
+          "explanation": "Faltar a esa reunión está prohibido, así que corresponde «mustn't». «Hasn't to» ni siquiera es una forma válida en inglés."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No debes estar ausente",
+          "direction": "es-en",
+          "tiles": ["You", "mustn't", "be", "absent", "don't", "have"],
+          "answer": "You mustn't be absent",
+          "explanation": "Prohibición: «mustn't» + infinitivo sin «to». «Don't have» queda descartado porque expresaría ausencia de obligación, no prohibición."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tienes que llevar uniforme",
+          "direction": "es-en",
+          "tiles": ["You", "don't", "have", "to", "wear", "a", "uniform", "mustn't"],
+          "answer": "You don't have to wear a uniform",
+          "explanation": "Ausencia de obligación: «don't have to» + infinitivo. «Mustn't» cambiaría el sentido a «está prohibido llevar uniforme»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Está prohibido usar el teléfono en la reunión",
+          "direction": "es-en",
+          "tiles": ["You", "mustn't", "use", "the", "the", "phone", "in", "meeting", "don't"],
+          "answer": "You mustn't use the phone in the meeting",
+          "explanation": "Prohibición estricta con «mustn't». «Don't» se descarta porque formaría «don't have to», que indicaría opcionalidad, no prohibición."
+        },
+        {
+          "type": "speak",
+          "text": "You mustn't be absent from the meeting.",
+          "es": "No debes faltar a la reunión."
+        },
+        {
+          "type": "speak",
+          "text": "You don't have to wear a uniform on Fridays.",
+          "es": "No tienes que llevar uniforme los viernes."
+        },
+        {
+          "type": "speak",
+          "text": "Employees mustn't use their phones during tasks.",
+          "es": "Los empleados no deben usar el teléfono durante las tareas."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Submit, Deadlines y Contratos: obligaciones de oficina",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "submit", "es": "presentar / entregar" },
+            { "en": "deadline", "es": "fecha límite" },
+            { "en": "salary", "es": "salario" },
+            { "en": "contract", "es": "contrato" },
+            { "en": "advice", "es": "consejo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "According to the company rules, all employees _______ submit their reports before the Friday deadline.",
+          "options": ["should", "have to", "mustn't"],
+          "correct": 1,
+          "hint": "Se menciona explícitamente una norma de la empresa.",
+          "explanation": "«Have to» es la forma adecuada para una obligación externa impuesta por las normas de la empresa. «Should» sería solo un consejo, y «mustn't» invertiría el sentido a prohibición."
+        },
+        {
+          "type": "gap",
+          "text": "All employees ___ submit their reports before the deadline. (norma de empresa)",
+          "options": ["have to", "must to", "musts"],
+          "answer": "have to",
+          "explanation": "La obligación viene impuesta por normas externas de la empresa, por eso corresponde «have to». «Must to» y «musts» son formas agramaticales."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de oficina",
+          "pairs": [
+            { "en": "deadline", "es": "fecha límite" },
+            { "en": "salary", "es": "salario" },
+            { "en": "contract", "es": "contrato" },
+            { "en": "advice", "es": "consejo" },
+            { "en": "suggestion", "es": "sugerencia" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The deadline for a report is next week. What can you tell a colleague about submitting it today?",
+          "options": ["You don't have to submit the report today.", "You mustn't submit the report today.", "You must submitted the report today."],
+          "correct": 0,
+          "hint": "Si la fecha límite es la semana que viene, hoy no es obligatorio.",
+          "explanation": "«Don't have to» expresa que no es necesario entregarlo hoy, aunque se podría. «Mustn't» lo prohibiría (sentido erróneo) y «must submitted» es agramatical: los modales no admiten formas de pasado."
+        },
+        {
+          "type": "gap",
+          "text": "You ___ submit the report today; the deadline is next week. (no es necesario)",
+          "options": ["don't have to", "mustn't", "hasn't to"],
+          "answer": "don't have to",
+          "explanation": "Como la fecha límite es la semana que viene, entregarlo hoy no es obligatorio: «don't have to». «Hasn't to» no es una forma válida."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja entrega, contratos y consejos sin repetir",
+          "pairs": [
+            { "en": "submit", "es": "presentar / entregar" },
+            { "en": "salary", "es": "salario" },
+            { "en": "contract", "es": "contrato" },
+            { "en": "suggestion", "es": "sugerencia" },
+            { "en": "deadline", "es": "fecha límite" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence about the contract is grammatically correct?",
+          "options": ["The contract forbids sharing confidential information.", "The contract forbid to share confidential information.", "The contract mustn't share confidential information."],
+          "correct": 0,
+          "hint": "«Forbid» es un verbo regular en 3ª persona y va seguido de gerundio.",
+          "explanation": "«Forbids» concuerda con la 3ª persona («the contract») y se construye con gerundio: «forbids sharing». «Forbid to share» y «mustn't share» rompen esas reglas."
+        },
+        {
+          "type": "gap",
+          "text": "The contract ___ employees from sharing confidential information. (prohíbe)",
+          "options": ["forbids", "forbid", "forbidden"],
+          "answer": "forbids",
+          "explanation": "«Forbid» es un verbo regular que concuerda en 3ª persona del singular: «the contract forbids». La estructura es «forbid + someone + from + gerundio»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Debo entregar el informe antes de la fecha límite",
+          "direction": "es-en",
+          "tiles": ["I", "must", "submit", "the", "the", "report", "before", "deadline", "have"],
+          "answer": "I must submit the report before the deadline",
+          "explanation": "Obligación personal: «must» + infinitivo sin «to». Fíjate en que «the» aparece dos veces: antes de «report» y antes de «deadline»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No tienes que firmar el contrato hoy",
+          "direction": "es-en",
+          "tiles": ["You", "don't", "have", "to", "sign", "the", "contract", "today", "mustn't"],
+          "answer": "You don't have to sign the contract today",
+          "explanation": "Ausencia de obligación: «don't have to» + infinitivo. «Mustn't» cambiaría el sentido a que firmarlo está prohibido."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El jefe me dio un consejo sobre mi salario",
+          "direction": "es-en",
+          "tiles": ["The", "boss", "gave", "me", "advice", "about", "my", "salary", "suggestion"],
+          "answer": "The boss gave me advice about my salary",
+          "explanation": "«Advice» (consejo) es incontable en inglés: nunca se dice «an advice» ni «advices». «Suggestion» queda como distractor porque es un sustantivo contable distinto."
+        },
+        {
+          "type": "speak",
+          "text": "All employees have to submit their reports before the deadline.",
+          "es": "Todos los empleados tienen que entregar sus informes antes de la fecha límite."
+        },
+        {
+          "type": "speak",
+          "text": "You don't have to submit the report today.",
+          "es": "No tienes que entregar el informe hoy."
+        },
+        {
+          "type": "speak",
+          "text": "The contract forbids sharing confidential information.",
+          "es": "El contrato prohíbe compartir información confidencial."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Should, Ought To, Allow y Forbid: consejos y permisos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "should", "es": "debería" },
+            { "en": "must", "es": "deber (obligación)" },
+            { "en": "have to", "es": "tener que" },
+            { "en": "ought to", "es": "debería / tendría que" },
+            { "en": "allow", "es": "permitir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The new contract states that we are not _______ to use personal phones during office meetings.",
+          "options": ["allowed", "forbidden", "must"],
+          "correct": 0,
+          "hint": "Busca la estructura pasiva de permiso.",
+          "explanation": "«Are not allowed to» (no tener permiso) encaja con la prohibición del contrato. «Forbidden» en negativa cambiaría el sentido, y «must» no puede ir precedido de «to be» ni seguido de infinitivo con «to»."
+        },
+        {
+          "type": "gap",
+          "text": "The company ___ offer a better salary. (consejo formal)",
+          "options": ["ought to", "ought", "should to"],
+          "answer": "ought to",
+          "explanation": "«Ought to» siempre lleva la partícula «to»: es un modal algo más formal que «should» con idéntico significado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más modales de consejo y permiso",
+          "pairs": [
+            { "en": "must", "es": "deber (obligación)" },
+            { "en": "have to", "es": "tener que" },
+            { "en": "ought to", "es": "debería / tendría que" },
+            { "en": "allow", "es": "permitir" },
+            { "en": "forbid", "es": "prohibir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which pair of sentences has the same meaning?",
+          "options": ["You should wear a uniform. / You ought to wear a uniform.", "You should wear a uniform. / You mustn't wear a uniform.", "You should wear a uniform. / You don't have to wear a uniform."],
+          "correct": 0,
+          "hint": "Solo un par comparte exactamente el mismo significado de consejo.",
+          "explanation": "«Should» y «ought to» son intercambiables para dar consejos. «Mustn't» invierte el sentido a prohibición y «don't have to» lo cambia a ausencia de obligación."
+        },
+        {
+          "type": "gap",
+          "text": "Our boss ___ us to work from home on Fridays. (permiso)",
+          "options": ["allows", "allow", "allowed to"],
+          "answer": "allows",
+          "explanation": "«Allow» concuerda con la 3ª persona del singular «our boss»: «allows». La estructura es «allow + someone + to + infinitivo»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja consejo, obligación y permiso sin repetir",
+          "pairs": [
+            { "en": "should", "es": "debería" },
+            { "en": "ought to", "es": "debería / tendría que" },
+            { "en": "allow", "es": "permitir" },
+            { "en": "forbid", "es": "prohibir" },
+            { "en": "must", "es": "deber (obligación)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["I should to ask for advice.", "I should ask for advice.", "I should asking for advice."],
+          "correct": 1,
+          "hint": "«Should» es un modal puro, igual que «must».",
+          "explanation": "Como «must», «should» es un modal puro y exige infinitivo sin «to»: «should ask». «Should to ask» y «should asking» son formas agramaticales."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ for advice. (consejo, sin partícula 'to')",
+          "options": ["should ask", "should to ask", "shoulds ask"],
+          "answer": "should ask",
+          "explanation": "«Should» es un modal puro: infinitivo sin «to» y sin conjugación. La forma correcta es «I should ask for advice»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Deberías pedir consejo",
+          "direction": "es-en",
+          "tiles": ["You", "should", "ask", "for", "advice", "to"],
+          "answer": "You should ask for advice",
+          "explanation": "«Should» + infinitivo sin «to». La ficha «to» sobra: es el distractor típico de añadir la partícula a un modal puro."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La empresa debería ofrecer un mejor salario",
+          "direction": "es-en",
+          "tiles": ["The", "company", "ought", "to", "offer", "a", "better", "salary", "should"],
+          "answer": "The company ought to offer a better salary",
+          "explanation": "«Ought to» es el equivalente formal de «should», pero a diferencia de este, siempre lleva la partícula «to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos permiten trabajar desde casa",
+          "direction": "es-en",
+          "tiles": ["They", "allow", "us", "to", "work", "from", "home", "forbid"],
+          "answer": "They allow us to work from home",
+          "explanation": "«Allow + someone + to + infinitivo» expresa permiso. «Forbid» es el antónimo y queda como distractor de significado opuesto."
+        },
+        {
+          "type": "speak",
+          "text": "You should ask for advice.",
+          "es": "Deberías pedir consejo."
+        },
+        {
+          "type": "speak",
+          "text": "The company ought to offer a better salary.",
+          "es": "La empresa debería ofrecer un mejor salario."
+        },
+        {
+          "type": "speak",
+          "text": "Our boss allows us to work from home on Fridays.",
+          "es": "Nuestro jefe nos permite trabajar desde casa los viernes."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod04",
+  "module": 4,
+  "title": "Would for Past Habits & Contrast",
+  "subtitle": "Would para Hábitos del Pasado",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Would en hábitos pasados: forma afirmativa",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra de familia con su traducción",
+          "pairs": [
+            { "en": "relative", "es": "pariente" },
+            { "en": "cousin", "es": "primo/a" },
+            { "en": "aunt", "es": "tía" },
+            { "en": "uncle", "es": "tío" },
+            { "en": "nephew", "es": "sobrino" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When they were children, their aunt ___ bake delicious cakes for the family gatherings.",
+          "options": ["would", "was used to", "would to"],
+          "correct": 0,
+          "hint": "«Bake» es un verbo de acción para un hábito repetido en el pasado.",
+          "explanation": "«Would bake» es correcto: describe una acción repetida en el pasado. «Was used to» exigiría el gerundio «baking», y «would to» es agramatical porque «would» nunca lleva «to»."
+        },
+        {
+          "type": "gap",
+          "text": "Every summer, my cousins and I ___ visit our uncle's house.",
+          "options": ["would", "will", "are"],
+          "answer": "would",
+          "explanation": "«Would» + infinitivo sin «to» describe una acción que se repetía habitualmente en el pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de familia",
+          "pairs": [
+            { "en": "cousin", "es": "primo/a" },
+            { "en": "aunt", "es": "tía" },
+            { "en": "uncle", "es": "tío" },
+            { "en": "nephew", "es": "sobrino" },
+            { "en": "niece", "es": "sobrina" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence with the correct contraction of 'would'.",
+          "options": ["Every Sunday, we'll visit our relatives.", "Every Sunday, we'd visit our relatives.", "Every Sunday, we's visit our relatives."],
+          "correct": 1,
+          "hint": "La contracción de «would» no es la misma que la de «will».",
+          "explanation": "«'d» es la contracción habitual de «would» en textos narrativos. «'ll» es la contracción de «will» (futuro) y «'s» no existe como contracción de «would»."
+        },
+        {
+          "type": "gap",
+          "text": "My uncle ___ tell us stories about his childhood.",
+          "options": ["would", "would to", "used"],
+          "answer": "would",
+          "explanation": "«Tell» es un verbo de acción, así que «would» + infinitivo sin «to» es correcto: «would tell»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja familia sin repetir",
+          "pairs": [
+            { "en": "relative", "es": "pariente" },
+            { "en": "uncle", "es": "tío" },
+            { "en": "nephew", "es": "sobrino" },
+            { "en": "niece", "es": "sobrina" },
+            { "en": "cousin", "es": "primo/a" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses 'would' correctly for a childhood habit?",
+          "options": ["My nephew would rides his bike every afternoon.", "My nephew would to ride his bike every afternoon.", "My nephew would ride his bike every afternoon."],
+          "correct": 2,
+          "hint": "«Would» exige el infinitivo puro, sin -s ni «to».",
+          "explanation": "«Would ride» es correcto: infinitivo sin «to» y sin la -s de tercera persona. Las otras dos opciones añaden una -s o una «to» que no corresponden."
+        },
+        {
+          "type": "gap",
+          "text": "When I was young, my niece and I ___ play in the garden every day.",
+          "options": ["would", "was", "has"],
+          "answer": "would",
+          "explanation": "«Play» es una acción repetida en el pasado, así que corresponde «would» + infinitivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi tío contaba historias",
+          "direction": "es-en",
+          "tiles": ["My", "uncle", "would", "tell", "stories", "was"],
+          "answer": "My uncle would tell stories",
+          "explanation": "«Would» + infinitivo sin «to» expresa un hábito repetido: «would tell». «Was» es el distractor típico del calco con pasado simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mis primos visitaban a nuestra tía",
+          "direction": "es-en",
+          "tiles": ["My", "cousins", "would", "visit", "our", "aunt", "visits"],
+          "answer": "My cousins would visit our aunt",
+          "explanation": "«Visit» es un verbo de acción, así que «would visit» es correcto para un hábito repetido en el pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nuestro tío nos contaba cuentos",
+          "direction": "es-en",
+          "tiles": ["Our", "uncle", "would", "tell", "us", "stories", "telling"],
+          "answer": "Our uncle would tell us stories",
+          "explanation": "«Would tell» describe un hábito narrativo del pasado. El gerundio «telling» es un distractor que no encaja tras «would»."
+        },
+        {
+          "type": "speak",
+          "text": "Every summer, my cousins and I would visit our aunt.",
+          "es": "Cada verano, mis primos y yo visitábamos a mi tía."
+        },
+        {
+          "type": "speak",
+          "text": "My uncle would tell us stories by the fire.",
+          "es": "Mi tío nos contaba historias junto al fuego."
+        },
+        {
+          "type": "speak",
+          "text": "We'd visit our relatives every Sunday.",
+          "es": "Visitábamos a nuestros parientes cada domingo."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Solo verbos de acción: la regla clave",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "visit", "es": "visitar / visita" },
+            { "en": "gathering", "es": "reunión / encuentro" },
+            { "en": "dinner", "es": "cena" },
+            { "en": "Sunday", "es": "domingo" },
+            { "en": "summer", "es": "verano" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Every winter, my relatives ___ together and share stories by the fire.",
+          "options": ["used get", "would gotten", "would get"],
+          "correct": 2,
+          "hint": "«Get together» es una acción repetida, y «would» exige el infinitivo puro.",
+          "explanation": "«Would get» es correcto: «get together» (reunirse) es una acción repetida en el pasado. «Would gotten» usa el participio en vez del infinitivo, y «used get» le falta la preposición «to»."
+        },
+        {
+          "type": "gap",
+          "text": "Every ___, we would have a big family dinner.",
+          "options": ["Sunday", "kitchen", "gathering"],
+          "answer": "Sunday",
+          "explanation": "«Sunday» es el día de la semana en que se repetía el hábito familiar."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "gathering", "es": "reunión / encuentro" },
+            { "en": "dinner", "es": "cena" },
+            { "en": "Sunday", "es": "domingo" },
+            { "en": "summer", "es": "verano" },
+            { "en": "winter", "es": "invierno" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which pair below contains two ACTION verbs that both accept 'would' for past habits?",
+          "options": ["have / own", "visit / laugh", "be / know"],
+          "correct": 1,
+          "hint": "Los verbos de estado no admiten «would».",
+          "explanation": "«Visit» y «laugh» son acciones observables, así que aceptan «would». «Have/own» y «be/know» son verbos de estado, que solo admiten «used to»."
+        },
+        {
+          "type": "gap",
+          "text": "In the ___, we would go skiing every weekend.",
+          "options": ["winter", "dinner", "aunt"],
+          "answer": "winter",
+          "explanation": "«Winter» es la estación del año en la que se practicaba el hábito de esquiar."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "visit", "es": "visitar / visita" },
+            { "en": "dinner", "es": "cena" },
+            { "en": "summer", "es": "verano" },
+            { "en": "winter", "es": "invierno" },
+            { "en": "gathering", "es": "reunión / encuentro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about a repeated family gathering.",
+          "options": ["My relatives would gather every summer.", "My relatives would gathering every summer.", "My relatives would to gather every summer."],
+          "correct": 0,
+          "hint": "«Would» va seguido de infinitivo sin «to» y sin -ing.",
+          "explanation": "«Would gather» es correcto: infinitivo puro tras «would». «Would gathering» usa gerundio y «would to gather» añade una «to» indebida."
+        },
+        {
+          "type": "gap",
+          "text": "My aunt would prepare a large ___ every Sunday.",
+          "options": ["dinner", "winter", "relative"],
+          "answer": "dinner",
+          "explanation": "«Dinner» es lo que se preparaba habitualmente cada domingo en la reunión familiar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Visitábamos a nuestros primos cada verano",
+          "direction": "es-en",
+          "tiles": ["We", "would", "visit", "our", "cousins", "every", "summer", "was"],
+          "answer": "We would visit our cousins every summer",
+          "explanation": "«Visit» es un verbo de acción: «would visit» describe el hábito repetido cada verano."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Cada domingo había una reunión familiar",
+          "direction": "es-en",
+          "tiles": ["Every", "Sunday", "there", "was", "a", "family", "gathering", "would"],
+          "answer": "Every Sunday, there was a family gathering",
+          "explanation": "«There was» describe un estado de fondo en pasado simple; no se usa «would» porque «be» es un verbo de estado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Preparábamos la cena juntos en invierno",
+          "direction": "es-en",
+          "tiles": ["We", "would", "prepare", "dinner", "together", "in", "winter", "has"],
+          "answer": "We would prepare dinner together in winter",
+          "explanation": "«Prepare» es una acción repetida, así que «would prepare» es correcto."
+        },
+        {
+          "type": "speak",
+          "text": "Every summer, my relatives would visit us.",
+          "es": "Cada verano, mis parientes nos visitaban."
+        },
+        {
+          "type": "speak",
+          "text": "My uncle would tell stories at every gathering.",
+          "es": "Mi tío contaba historias en cada reunión."
+        },
+        {
+          "type": "speak",
+          "text": "In winter, we would go to my grandmother's for dinner.",
+          "es": "En invierno, íbamos a casa de mi abuela a cenar."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Verbos de estado: cuándo usar 'used to'",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "countryside", "es": "campo / zona rural" },
+            { "en": "town", "es": "pueblo / ciudad pequeña" },
+            { "en": "village", "es": "aldea / pueblo" },
+            { "en": "farm", "es": "granja" },
+            { "en": "horse", "es": "caballo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "My uncle ___ a large farm in the village, but he sold it ten years ago.",
+          "options": ["owned to", "would own", "used to own"],
+          "correct": 2,
+          "hint": "«Own» indica posesión: es un verbo de estado.",
+          "explanation": "«Own» (poseer) es un verbo de estado, así que solo «used to own» es correcto. «Would own» está prohibido y «owned to» es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "My aunt ___ have a horse, but she sold it last year.",
+          "options": ["used to", "would", "is"],
+          "answer": "used to",
+          "explanation": "«Have» en el sentido de posesión es un verbo de estado, así que exige «used to», nunca «would»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del campo",
+          "pairs": [
+            { "en": "village", "es": "aldea / pueblo" },
+            { "en": "farm", "es": "granja" },
+            { "en": "horse", "es": "caballo" },
+            { "en": "ride", "es": "montar / cabalgar" },
+            { "en": "town", "es": "pueblo / ciudad pequeña" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly describes a past state that is no longer true?",
+          "options": ["We used to live in a small village.", "We would live in a small village.", "We would living in a small village."],
+          "correct": 0,
+          "hint": "«Live» es un verbo de estado.",
+          "explanation": "«Live» es un verbo de estado, así que solo «used to live» es correcto. «Would live» y «would living» están prohibidos."
+        },
+        {
+          "type": "gap",
+          "text": "When I was a child, I ___ ride horses every weekend.",
+          "options": ["would", "was", "used"],
+          "answer": "would",
+          "explanation": "«Ride» es un verbo de acción, así que «would ride» es correcto para el hábito repetido."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "countryside", "es": "campo / zona rural" },
+            { "en": "town", "es": "pueblo / ciudad pequeña" },
+            { "en": "farm", "es": "granja" },
+            { "en": "ride", "es": "montar / cabalgar" },
+            { "en": "horse", "es": "caballo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the grammatically correct sentence.",
+          "options": ["My family would be very poor in the countryside.", "My family used to be very poor in the countryside.", "My family would being very poor in the countryside."],
+          "correct": 1,
+          "hint": "«Be» nunca se combina con «would» para hábitos pasados.",
+          "explanation": "«Be» es un verbo de estado, así que solo «used to be» es correcto. «Would be» y «would being» están prohibidos."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ own a small farm in the countryside, but we sold it.",
+          "options": ["used to", "would", "are"],
+          "answer": "used to",
+          "explanation": "«Own» es un verbo de estado (posesión); exige «used to», no «would»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Solíamos vivir en un pueblo pequeño",
+          "direction": "es-en",
+          "tiles": ["We", "used", "to", "live", "in", "a", "small", "village", "would"],
+          "answer": "We used to live in a small village",
+          "explanation": "«Live» es un verbo de estado: solo «used to live» es correcto, nunca «would live»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi tío solía tener una granja",
+          "direction": "es-en",
+          "tiles": ["My", "uncle", "used", "to", "have", "a", "farm", "would"],
+          "answer": "My uncle used to have a farm",
+          "explanation": "«Have» (poseer) es de estado, así que exige «used to have»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Montábamos a caballo cada fin de semana",
+          "direction": "es-en",
+          "tiles": ["We", "would", "ride", "horses", "every", "weekend", "was"],
+          "answer": "We would ride horses every weekend",
+          "explanation": "«Ride» es un verbo de acción, así que «would ride» es correcto."
+        },
+        {
+          "type": "speak",
+          "text": "We used to live in a small village in the countryside.",
+          "es": "Vivíamos en un pueblo pequeño del campo."
+        },
+        {
+          "type": "speak",
+          "text": "My uncle used to own a large farm.",
+          "es": "Mi tío tenía (poseía) una gran granja."
+        },
+        {
+          "type": "speak",
+          "text": "When I was young, I would ride horses near the farm.",
+          "es": "Cuando era joven, montaba a caballo cerca de la granja."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Nostalgia narrativa y estilo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "walk", "es": "caminar / pasear" },
+            { "en": "forest", "es": "bosque" },
+            { "en": "lake", "es": "lago" },
+            { "en": "river", "es": "río" },
+            { "en": "camp", "es": "acampar / campamento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which pair correctly narrates a nostalgic childhood memory, mixing state and action verbs?",
+          "options": ["We used to live near the lake, and we would walk in the forest every morning.", "We would live near the lake, and we used to walking in the forest every morning.", "We would live near the lake, and we would living in the forest every morning."],
+          "correct": 0,
+          "hint": "«Live» es de estado; «walk» es de acción.",
+          "explanation": "«Live» es un verbo de estado (used to live) y «walk» es un verbo de acción (would walk). Las otras opciones combinan mal ambas estructuras."
+        },
+        {
+          "type": "gap",
+          "text": "Every summer, my family ___ camp near the river.",
+          "options": ["would", "was", "used"],
+          "answer": "would",
+          "explanation": "«Camp» es un verbo de acción, así que «would camp» es correcto para el hábito repetido."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "forest", "es": "bosque" },
+            { "en": "lake", "es": "lago" },
+            { "en": "river", "es": "río" },
+            { "en": "camp", "es": "acampar / campamento" },
+            { "en": "fire", "es": "fuego / fogata" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence with correct style for a nostalgic memory (would + action verb).",
+          "options": ["My grandfather would telling stories by the fire.", "My grandfather used to telling stories by the fire.", "My grandfather would tell stories by the fire."],
+          "correct": 2,
+          "hint": "«Would» exige el infinitivo puro, no el gerundio.",
+          "explanation": "«Would tell» es correcto: infinitivo sin «to» ni -ing. «Would telling» y «used to telling» usan un gerundio que no corresponde tras ninguna de las dos estructuras."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ walk along the river every evening.",
+          "options": ["would", "is", "has"],
+          "answer": "would",
+          "explanation": "«Walk» es un verbo de acción, así que «would walk» describe el hábito del pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "walk", "es": "caminar / pasear" },
+            { "en": "lake", "es": "lago" },
+            { "en": "river", "es": "río" },
+            { "en": "camp", "es": "acampar / campamento" },
+            { "en": "fire", "es": "fuego / fogata" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about a warm, literary evening routine.",
+          "options": ["Every night, we would sitting by the fire.", "Every night, we would sit by the fire.", "Every night, we used sit by the fire."],
+          "correct": 1,
+          "hint": "«Sit» es de acción: acepta «would» + infinitivo puro.",
+          "explanation": "«Would sit» es correcto: infinitivo sin «to» ni -ing. «Would sitting» usa gerundio y «used sit» le falta la preposición «to»."
+        },
+        {
+          "type": "gap",
+          "text": "In the forest, my cousins and I ___ camp every August.",
+          "options": ["would", "was", "is"],
+          "answer": "would",
+          "explanation": "«Camp» es una acción repetida cada agosto, así que corresponde «would camp»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Caminábamos por el bosque cada tarde",
+          "direction": "es-en",
+          "tiles": ["We", "would", "walk", "through", "the", "forest", "every", "afternoon", "was"],
+          "answer": "We would walk through the forest every afternoon",
+          "explanation": "«Walk» es un verbo de acción, así que «would walk» describe el hábito repetido."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Acampábamos cerca del lago",
+          "direction": "es-en",
+          "tiles": ["We", "would", "camp", "near", "the", "lake", "was"],
+          "answer": "We would camp near the lake",
+          "explanation": "«Camp» es de acción, así que «would camp» es correcto para el hábito repetido en el pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Contaba historias junto al fuego",
+          "direction": "es-en",
+          "tiles": ["He", "would", "tell", "stories", "by", "the", "fire", "was"],
+          "answer": "He would tell stories by the fire",
+          "explanation": "«Tell» es de acción, así que «would tell» aporta el matiz nostálgico y narrativo del recuerdo."
+        },
+        {
+          "type": "speak",
+          "text": "We would walk along the river every evening.",
+          "es": "Caminábamos junto al río cada tarde."
+        },
+        {
+          "type": "speak",
+          "text": "My grandfather would tell stories by the fire.",
+          "es": "Mi abuelo contaba historias junto al fuego."
+        },
+        {
+          "type": "speak",
+          "text": "Every August, we would camp near the lake.",
+          "es": "Cada agosto, acampábamos cerca del lago."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Would, used to y pasado simple: la decisión final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "story", "es": "historia / cuento" },
+            { "en": "tell", "es": "contar / decir" },
+            { "en": "remember", "es": "recordar" },
+            { "en": "forget", "es": "olvidar" },
+            { "en": "share", "es": "compartir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In the past, I ___ know all the paths in the forest, but now I get lost easily.",
+          "options": ["would", "used to", "used"],
+          "correct": 1,
+          "hint": "«Know» es un verbo de estado cognitivo.",
+          "explanation": "«Know» es un verbo de estado mental, así que solo «used to know» es correcto. «Would» está prohibido y a la opción «used» le falta la preposición «to»."
+        },
+        {
+          "type": "gap",
+          "text": "Did you ___ ride horses when you visited the farm?",
+          "options": ["use to", "would", "used"],
+          "answer": "use to",
+          "explanation": "Para preguntas sobre hábitos del pasado se prefiere «did...use to»; «would» no se usa aquí para evitar confusión con el rechazo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "tell", "es": "contar / decir" },
+            { "en": "remember", "es": "recordar" },
+            { "en": "forget", "es": "olvidar" },
+            { "en": "share", "es": "compartir" },
+            { "en": "laugh", "es": "reír / risa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Last summer, my nephew ___ his first horse near the lake.",
+          "options": ["would ride", "used to ride", "rode"],
+          "correct": 2,
+          "hint": "«Last summer» + «his first horse» marcan un hecho único.",
+          "explanation": "«Last summer» junto con «his first horse» describe un suceso único y puntual, así que exige el pasado simple «rode». «Would ride» y «used to ride» solo sirven para hábitos repetidos."
+        },
+        {
+          "type": "gap",
+          "text": "During winter, my grandpa would tell us stories and ___ very kind.",
+          "options": ["was", "would be", "would"],
+          "answer": "was",
+          "explanation": "«Be» es un verbo de estado, así que «would be» es incorrecto; se usa el pasado simple «was» (o «used to be»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "story", "es": "historia / cuento" },
+            { "en": "remember", "es": "recordar" },
+            { "en": "forget", "es": "olvidar" },
+            { "en": "share", "es": "compartir" },
+            { "en": "laugh", "es": "reír / risa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly reports a single, unique event in the past?",
+          "options": ["I went to the forest only once in my childhood.", "I would go to the forest only once in my childhood.", "I used to go to the forest only once in my childhood."],
+          "correct": 0,
+          "hint": "«Only once» señala un hecho puntual.",
+          "explanation": "«Only once» indica un suceso puntual y único, incompatible con las estructuras de hábito «would» y «used to». Se necesita el pasado simple «went»."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ laugh and share stories for hours every gathering.",
+          "options": ["would", "was", "is"],
+          "answer": "would",
+          "explanation": "«Laugh» y «share» son acciones repetidas, así que «would» es correcto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca olvido esas historias",
+          "direction": "es-en",
+          "tiles": ["I", "never", "forget", "those", "stories", "forgetting"],
+          "answer": "I never forget those stories",
+          "explanation": "«Forget» en presente simple expresa un hecho general y actual, sin relación con «would» o «used to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Compartíamos historias y nos reíamos",
+          "direction": "es-en",
+          "tiles": ["We", "would", "share", "stories", "and", "laugh", "was"],
+          "answer": "We would share stories and laugh",
+          "explanation": "«Share» y «laugh» son verbos de acción, así que «would» describe el hábito repetido con tono nostálgico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Solías montar a caballo de niño?",
+          "direction": "es-en",
+          "tiles": ["Did", "you", "use", "to", "ride", "horses", "as", "a", "child", "would"],
+          "answer": "Did you use to ride horses as a child",
+          "explanation": "Para preguntar por un hábito pasado se usa «did...use to», nunca «would», que se confundiría con un rechazo."
+        },
+        {
+          "type": "speak",
+          "text": "We would share stories and laugh for hours.",
+          "es": "Compartíamos historias y nos reíamos durante horas."
+        },
+        {
+          "type": "speak",
+          "text": "Did you use to ride horses when you were young?",
+          "es": "¿Solías montar a caballo de joven?"
+        },
+        {
+          "type": "speak",
+          "text": "I will always remember those summer gatherings.",
+          "es": "Siempre recordaré esas reuniones de verano."
+        }
+      ]
+    }
+  ]
+}

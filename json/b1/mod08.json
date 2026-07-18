@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod08",
+  "module": 8,
+  "title": "Zero & First Conditional",
+  "subtitle": "Condicional Cero y Primero",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Condición real: causa y efecto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "unless", "es": "a menos que" },
+            { "en": "condition", "es": "condición" },
+            { "en": "result", "es": "resultado" },
+            { "en": "cause", "es": "causa" },
+            { "en": "effect", "es": "efecto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly uses the Zero Conditional to state a scientific fact?",
+          "options": ["If you drop a glass, it breaks.", "If you will drop a glass, it breaks.", "If you drop a glass, it will break."],
+          "correct": 0,
+          "hint": "Ambas partes deben ir en Present Simple.",
+          "explanation": "El Zero Conditional exige Present Simple en las dos cláusulas porque describe un hecho universal: «If you drop a glass, it breaks». «Will» no tiene cabida en ninguna de las dos partes."
+        },
+        {
+          "type": "gap",
+          "text": "If there is a cause, there ___ an effect.",
+          "options": ["is", "will be", "was"],
+          "answer": "is",
+          "explanation": "El Zero Conditional exige Present Simple en la cláusula de resultado, sin importar que hablemos de una relación causa-efecto: «there is»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "condition", "es": "condición" },
+            { "en": "result", "es": "resultado" },
+            { "en": "cause", "es": "causa" },
+            { "en": "effect", "es": "efecto" },
+            { "en": "scientific", "es": "científico" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence with correct comma usage.",
+          "options": ["If there is a cause there is, an effect.", "If there is a cause, there is an effect.", "There is an effect, if there is a cause."],
+          "correct": 1,
+          "hint": "La coma va justo después de la cláusula del «if» cuando esta va primero.",
+          "explanation": "Cuando la cláusula del «if» va primero, se separa con una coma: «If there is a cause, there is an effect». Si la cláusula principal va primero, no hace falta coma."
+        },
+        {
+          "type": "gap",
+          "text": "The result ___ automatic if the condition is met.",
+          "options": ["is", "will be", "was"],
+          "answer": "is",
+          "explanation": "Al describir una regla general y automática, la cláusula de resultado va en Present Simple: «is», no en futuro."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "unless", "es": "a menos que" },
+            { "en": "cause", "es": "causa" },
+            { "en": "effect", "es": "efecto" },
+            { "en": "scientific", "es": "científico" },
+            { "en": "result", "es": "resultado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence keeps exactly the same meaning if you replace 'if' with 'when'?",
+          "options": ["If you visit Paris next year, you will love it.", "If you win the match tomorrow, we will celebrate.", "If you press this button, the machine stops."],
+          "correct": 2,
+          "hint": "Solo funciona con hechos 100% seguros, no con planes concretos.",
+          "explanation": "«When» solo sustituye a «if» cuando el resultado es completamente seguro, como en un hecho automático o general. Las otras dos frases se refieren a eventos futuros concretos y no aceptan el cambio."
+        },
+        {
+          "type": "gap",
+          "text": "___ you don't follow the instructions, the process fails. (a menos que)",
+          "options": ["Unless", "If", "When"],
+          "answer": "Unless",
+          "explanation": "«Unless» significa «a menos que» e introduce una condición negativa: el proceso falla si NO sigues las instrucciones."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si hay una causa, hay un efecto",
+          "direction": "es-en",
+          "tiles": ["If", "there", "is", "a", "cause", "there", "is", "an", "effect", "will"],
+          "answer": "If there is a cause, there is an effect",
+          "explanation": "El Zero Conditional repite el mismo tiempo (Present Simple) en ambas cláusulas: «there is... there is», sin «will»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El resultado es automático",
+          "direction": "es-en",
+          "tiles": ["The", "result", "is", "automatic", "cause"],
+          "answer": "The result is automatic",
+          "explanation": "Frase descriptiva simple: sujeto + is + adjetivo, sin ninguna estructura condicional."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A menos que sigas el plan, falla",
+          "direction": "es-en",
+          "tiles": ["Unless", "you", "follow", "the", "plan", "it", "fails", "if"],
+          "answer": "Unless you follow the plan, it fails",
+          "explanation": "«Unless» ya contiene la negación implícita («a menos que»), así que va seguido de un verbo afirmativo: «you follow»."
+        },
+        {
+          "type": "speak",
+          "text": "If there is a cause, there is an effect.",
+          "es": "Si hay una causa, hay un efecto."
+        },
+        {
+          "type": "speak",
+          "text": "Unless you follow the plan, it fails.",
+          "es": "A menos que sigas el plan, falla."
+        },
+        {
+          "type": "speak",
+          "text": "The result is scientific and automatic.",
+          "es": "El resultado es científico y automático."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Reglas y emergencias: instrucciones automáticas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "instruction", "es": "instrucción" },
+            { "en": "rule", "es": "regla/norma" },
+            { "en": "law", "es": "ley" },
+            { "en": "emergency", "es": "emergencia" },
+            { "en": "safety", "es": "seguridad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence gives a direct safety instruction using an imperative?",
+          "options": ["If the fire alarm sounds, you will exit the building.", "If the fire alarm sounds, exit the building immediately.", "If the fire alarm will sound, exit the building."],
+          "correct": 1,
+          "hint": "Busca el verbo en forma de orden directa, sin sujeto.",
+          "explanation": "Para dar una instrucción de emergencia se usa el Zero Conditional con imperativo en la cláusula de resultado: «exit the building», sin sujeto ni «will»."
+        },
+        {
+          "type": "gap",
+          "text": "If there is an ___, exit the building immediately. (emergencia)",
+          "options": ["emergency", "instruction", "law"],
+          "answer": "emergency",
+          "explanation": "«Emergency» es la palabra que corresponde a una situación urgente que requiere una instrucción de evacuación inmediata."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "rule", "es": "regla/norma" },
+            { "en": "law", "es": "ley" },
+            { "en": "emergency", "es": "emergencia" },
+            { "en": "safety", "es": "seguridad" },
+            { "en": "danger", "es": "peligro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct rule for a dangerous situation.",
+          "options": ["If there is a danger, you will call the security team.", "If there will be a danger, call the security team.", "If there is a danger, call the security team."],
+          "correct": 2,
+          "hint": "La regla de seguridad usa un imperativo, no «will».",
+          "explanation": "Las reglas e instrucciones de seguridad se dan con el Zero Conditional e imperativo: «call the security team», sin sujeto explícito ni forma futura."
+        },
+        {
+          "type": "gap",
+          "text": "Follow the safety ___ carefully.",
+          "options": ["instructions", "danger", "law"],
+          "answer": "instructions",
+          "explanation": "«Instructions» son las indicaciones que se deben seguir para actuar con seguridad; «danger» y «law» no encajan como objeto de «follow»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "instruction", "es": "instrucción" },
+            { "en": "law", "es": "ley" },
+            { "en": "emergency", "es": "emergencia" },
+            { "en": "danger", "es": "peligro" },
+            { "en": "safety", "es": "seguridad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence best expresses a general legal rule (not a one-time future event)?",
+          "options": ["The law changes if the government agrees.", "The law will change if the government agrees.", "The law is going to change if the government agrees."],
+          "correct": 0,
+          "hint": "Una ley general y automática usa Present Simple en ambas partes.",
+          "explanation": "Una regla o ley general y automática se expresa con el Zero Conditional (Present Simple en ambas cláusulas). Las formas de futuro implicarían un cambio puntual y específico, no una norma general."
+        },
+        {
+          "type": "gap",
+          "text": "If there is a fire, ___ the alarm. (imperativo)",
+          "options": ["sound", "sounds", "will sound"],
+          "answer": "sound",
+          "explanation": "El resultado de una instrucción de emergencia usa el imperativo, sin -s ni «will»: «sound the alarm»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Sigue las instrucciones de seguridad",
+          "direction": "es-en",
+          "tiles": ["Follow", "the", "safety", "instructions", "danger"],
+          "answer": "Follow the safety instructions",
+          "explanation": "Imperativo + objeto compuesto: «Follow the safety instructions». «Danger» no es lo que se sigue."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hay una regla y una ley",
+          "direction": "es-en",
+          "tiles": ["There", "is", "a", "rule", "and", "a", "law", "danger"],
+          "answer": "There is a rule and a law",
+          "explanation": "Estructura «there is» + dos sustantivos unidos por «and», cada uno con su propio artículo «a»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Llama al equipo de seguridad si hay peligro",
+          "direction": "es-en",
+          "tiles": ["Call", "the", "safety", "team", "if", "there", "is", "danger", "law"],
+          "answer": "Call the safety team if there is danger",
+          "explanation": "Imperativo de resultado + condición con Present Simple: «Call... if there is danger», estructura típica del Zero Conditional."
+        },
+        {
+          "type": "speak",
+          "text": "If the fire alarm sounds, exit the building immediately.",
+          "es": "Si suena la alarma de incendios, sal del edificio inmediatamente."
+        },
+        {
+          "type": "speak",
+          "text": "Follow the safety rules.",
+          "es": "Sigue las normas de seguridad."
+        },
+        {
+          "type": "speak",
+          "text": "If there is a danger, call the security team.",
+          "es": "Si hay peligro, llama al equipo de seguridad."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Del hecho científico a la posibilidad futura",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "warning", "es": "advertencia" },
+            { "en": "protect", "es": "proteger" },
+            { "en": "prevent", "es": "prevenir/evitar" },
+            { "en": "boil", "es": "hervir" },
+            { "en": "freeze", "es": "congelar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence describes a scientific law (Zero Conditional), not a specific future prediction?",
+          "options": ["If you heat this water, it will boil in five minutes.", "If you heat the water, it is going to boil soon.", "If you heat water to 100 degrees, it boils."],
+          "correct": 2,
+          "hint": "Es una ley física universal, no un evento concreto.",
+          "explanation": "Una ley física universal siempre verdadera se expresa con el Zero Conditional (Present Simple + Present Simple): «it boils». Las otras opciones se refieren a un momento futuro específico."
+        },
+        {
+          "type": "gap",
+          "text": "If you freeze water, it ___ into ice.",
+          "options": ["turns", "will turn", "turned"],
+          "answer": "turns",
+          "explanation": "Se trata de un hecho científico universal (Zero Conditional), así que ambas cláusulas van en Present Simple: «turns»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "protect", "es": "proteger" },
+            { "en": "prevent", "es": "prevenir/evitar" },
+            { "en": "boil", "es": "hervir" },
+            { "en": "freeze", "es": "congelar" },
+            { "en": "melt", "es": "derretir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that correctly uses the First Conditional for a real future possibility.",
+          "options": ["If we prevent the leak, we can save the system.", "If we will prevent the leak, we can save the system.", "If we prevented the leak, we can save the system."],
+          "correct": 0,
+          "hint": "La cláusula del «if» siempre va en Present Simple.",
+          "explanation": "El First Conditional usa Present Simple en la cláusula del «if» («prevent») y un modal («can») en el resultado. «Will» nunca puede ir tras «if»."
+        },
+        {
+          "type": "gap",
+          "text": "This sign is a ___ to protect workers from danger.",
+          "options": ["warning", "boil", "melt"],
+          "answer": "warning",
+          "explanation": "«Warning» (advertencia) es la señal que previene a los trabajadores; «boil» y «melt» son verbos sin relación con la seguridad."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "warning", "es": "advertencia" },
+            { "en": "prevent", "es": "prevenir/evitar" },
+            { "en": "boil", "es": "hervir" },
+            { "en": "melt", "es": "derretir" },
+            { "en": "freeze", "es": "congelar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence gives a general warning that is always true?",
+          "options": ["If the temperature will drop below zero, ice forms.", "If the temperature drops below zero, ice forms.", "If the temperature drops below zero, ice will form tomorrow."],
+          "correct": 1,
+          "hint": "Busca la frase sin ningún auxiliar de futuro.",
+          "explanation": "Una advertencia sobre un fenómeno físico permanente (la formación de hielo) es un hecho universal: Zero Conditional, Present Simple en ambas partes."
+        },
+        {
+          "type": "gap",
+          "text": "If we ___ the system now, we can prevent bigger damage.",
+          "options": ["protect", "will protect", "protected"],
+          "answer": "protect",
+          "explanation": "En el First Conditional, la cláusula del «if» siempre va en Present Simple, nunca con «will»: «protect»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si calientas el agua, hierve",
+          "direction": "es-en",
+          "tiles": ["If", "you", "heat", "water", "it", "boils", "will"],
+          "answer": "If you heat water, it boils",
+          "explanation": "Hecho científico universal: Present Simple en ambas cláusulas, «heat» y «boils», sin «will»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El hielo se derrite si lo calientas",
+          "direction": "es-en",
+          "tiles": ["Ice", "melts", "if", "you", "heat", "it", "freezes"],
+          "answer": "Ice melts if you heat it",
+          "explanation": "El orden puede invertirse: cláusula principal primero, sin coma, seguida de «if» + Present Simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Podemos prevenir el peligro",
+          "direction": "es-en",
+          "tiles": ["We", "can", "prevent", "the", "danger", "protect"],
+          "answer": "We can prevent the danger",
+          "explanation": "Modal «can» + infinitivo sin «to»: «can prevent», no «can protect» (que cambiaría el significado)."
+        },
+        {
+          "type": "speak",
+          "text": "If you heat water, it boils.",
+          "es": "Si calientas el agua, hierve."
+        },
+        {
+          "type": "speak",
+          "text": "Ice melts if you heat it.",
+          "es": "El hielo se derrite si lo calientas."
+        },
+        {
+          "type": "speak",
+          "text": "We can prevent the danger.",
+          "es": "Podemos prevenir el peligro."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Fuego, humo y alarmas: primer condicional en acción",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "heat", "es": "calentar/calor" },
+            { "en": "water", "es": "agua" },
+            { "en": "ice", "es": "hielo" },
+            { "en": "fire", "es": "fuego" },
+            { "en": "smoke", "es": "humo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If you ___ ice, it ___.",
+          "options": ["heat / melts", "will heat / melts", "heat / will melt"],
+          "correct": 0,
+          "hint": "Es un hecho científico universal.",
+          "explanation": "Esta frase describe un hecho científico universal (Zero Conditional), así que ambas cláusulas van en Present Simple: «heat / melts». «Will» no puede colocarse en la cláusula del «if»."
+        },
+        {
+          "type": "gap",
+          "text": "If you see smoke, you ___ notify the staff. (consejo)",
+          "options": ["should", "will", "can"],
+          "answer": "should",
+          "explanation": "«Should» expresa un consejo o recomendación en la cláusula de resultado del First Conditional, más apropiado que «will» para una sugerencia."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "water", "es": "agua" },
+            { "en": "ice", "es": "hielo" },
+            { "en": "fire", "es": "fuego" },
+            { "en": "smoke", "es": "humo" },
+            { "en": "alarm", "es": "alarma" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If there ___ a fire in the building, the smoke alarm ___ immediately.",
+          "options": ["will be / rings", "is / rings", "is / will ring"],
+          "correct": 1,
+          "hint": "Es una instrucción o regla automática de funcionamiento.",
+          "explanation": "Se trata de una instrucción o regla de funcionamiento automático (Zero Conditional): «is / rings». El uso de «will» tras «if» es incorrecto."
+        },
+        {
+          "type": "gap",
+          "text": "If you survive this round, you ___ play in the finals. (capacidad/permiso)",
+          "options": ["can", "should", "heat"],
+          "answer": "can",
+          "explanation": "«Can» expresa capacidad o permiso en el resultado del First Conditional: si superas esta ronda, tienes permitido jugar la final."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "heat", "es": "calentar/calor" },
+            { "en": "ice", "es": "hielo" },
+            { "en": "fire", "es": "fuego" },
+            { "en": "alarm", "es": "alarma" },
+            { "en": "smoke", "es": "humo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence with the correct modal for a real future possibility.",
+          "options": ["If it rains tomorrow, we protect the equipment.", "If it will rain tomorrow, we will protect the equipment.", "If it rains tomorrow, we will protect the equipment."],
+          "correct": 2,
+          "hint": "«If» + Present Simple, resultado con «will».",
+          "explanation": "El First Conditional combina Present Simple en la condición con «will» en el resultado para una posibilidad futura real: «If it rains..., we will protect...»."
+        },
+        {
+          "type": "gap",
+          "text": "If the fire alarm ___, exit the building immediately.",
+          "options": ["sounds", "will sound", "sounded"],
+          "answer": "sounds",
+          "explanation": "Instrucción automática de seguridad: Zero Conditional con Present Simple en ambas cláusulas, «sounds», sin «will»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si hay fuego, suena la alarma",
+          "direction": "es-en",
+          "tiles": ["If", "there", "is", "fire", "the", "alarm", "sounds", "will"],
+          "answer": "If there is fire, the alarm sounds",
+          "explanation": "Zero Conditional: «is» y «sounds» en Present Simple, describiendo el funcionamiento automático de la alarma."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si calientas el hielo, se derrite",
+          "direction": "es-en",
+          "tiles": ["If", "you", "heat", "the", "ice", "it", "melts", "will"],
+          "answer": "If you heat the ice, it melts",
+          "explanation": "Hecho científico universal: «heat» y «melts» en Present Simple, sin «will» en ninguna cláusula."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hay humo y peligro de fuego",
+          "direction": "es-en",
+          "tiles": ["There", "is", "smoke", "and", "danger", "of", "fire", "water"],
+          "answer": "There is smoke and danger of fire",
+          "explanation": "Estructura «there is» + dos elementos unidos por «and», cada uno con su preposición correspondiente («of fire»)."
+        },
+        {
+          "type": "speak",
+          "text": "If there is fire, the alarm sounds.",
+          "es": "Si hay fuego, suena la alarma."
+        },
+        {
+          "type": "speak",
+          "text": "If you heat the ice, it melts.",
+          "es": "Si calientas el hielo, se derrite."
+        },
+        {
+          "type": "speak",
+          "text": "If you see smoke, you should notify the staff.",
+          "es": "Si ves humo, deberías avisar al personal."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Conectores alternativos: unless, in case y repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "survive", "es": "sobrevivir" },
+            { "en": "weather", "es": "tiempo/clima" },
+            { "en": "tomorrow", "es": "mañana" },
+            { "en": "happen", "es": "suceder/ocurrir" },
+            { "en": "if", "es": "si (condicional)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We will not go to the beach tomorrow ___ the weather improves.",
+          "options": ["in case", "unless", "if"],
+          "correct": 1,
+          "hint": "Piensa en «a menos que», no en una precaución.",
+          "explanation": "«Unless» significa «a menos que». La frase indica que no iremos a la playa a menos que (si no ocurre que) el tiempo mejore. «In case» no tendría sentido lógico aquí, y «if» invertiría el significado."
+        },
+        {
+          "type": "gap",
+          "text": "We will go to the park ___ it rains. (a menos que)",
+          "options": ["unless", "in case", "if"],
+          "answer": "unless",
+          "explanation": "«Unless» significa «if... not»: iremos al parque si no llueve. Va seguido de un verbo afirmativo porque ya lleva la negación implícita."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "weather", "es": "tiempo/clima" },
+            { "en": "tomorrow", "es": "mañana" },
+            { "en": "happen", "es": "suceder/ocurrir" },
+            { "en": "if", "es": "si (condicional)" },
+            { "en": "in case", "es": "por si acaso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Please read the safety instruction sheet in case an emergency ___.",
+          "options": ["will happen", "is going to happen", "happens"],
+          "correct": 2,
+          "hint": "Tras «in case» se usa Present Simple para el futuro.",
+          "explanation": "Detrás del conector de precaución «in case» debemos emplear el Present Simple («happens») para referirnos a un evento futuro, nunca «will» ni «is going to»."
+        },
+        {
+          "type": "gap",
+          "text": "You will not pass the test ___ you study.",
+          "options": ["unless", "in case", "when"],
+          "answer": "unless",
+          "explanation": "«Unless you study» equivale a «if you don't study»: no aprobarás si no estudias."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "survive", "es": "sobrevivir" },
+            { "en": "tomorrow", "es": "mañana" },
+            { "en": "happen", "es": "suceder/ocurrir" },
+            { "en": "in case", "es": "por si acaso" },
+            { "en": "weather", "es": "tiempo/clima" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I will take my phone ___ I need to call for help in the forest.",
+          "options": ["in case", "if", "unless"],
+          "correct": 0,
+          "hint": "Es una acción preventiva realizada antes del peligro.",
+          "explanation": "Usamos «in case» porque llevar el móvil es una acción preventiva que se realiza antes de entrar en la situación de peligro. Con «if» solo cogerías el teléfono en el momento de necesitarlo, lo cual sería tarde."
+        },
+        {
+          "type": "gap",
+          "text": "Keep the emergency kit in case a danger ___.",
+          "options": ["happens", "will happen", "happened"],
+          "answer": "happens",
+          "explanation": "Tras «in case», al referirse al futuro, se usa el Present Simple: «happens», nunca «will happen»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Iremos a menos que llueva mañana",
+          "direction": "es-en",
+          "tiles": ["We", "will", "go", "unless", "it", "rains", "tomorrow", "if"],
+          "answer": "We will go unless it rains tomorrow",
+          "explanation": "«Unless it rains» equivale a «if it doesn't rain». No se necesita coma porque la cláusula principal va primero."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Llevaré agua por si acaso",
+          "direction": "es-en",
+          "tiles": ["I", "will", "take", "water", "in", "case", "if"],
+          "answer": "I will take water in case",
+          "explanation": "«In case» expresa una acción preventiva realizada antes de que ocurra la posible necesidad futura."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Qué pasará si no sobrevive?",
+          "direction": "es-en",
+          "tiles": ["What", "will", "happen", "if", "he", "doesn't", "survive", "unless"],
+          "answer": "What will happen if he doesn't survive",
+          "explanation": "Pregunta con «what will happen if...»: la cláusula del «if» va en Present Simple negativo, «doesn't survive», nunca con «will»."
+        },
+        {
+          "type": "speak",
+          "text": "We will go to the park unless it rains.",
+          "es": "Iremos al parque a menos que llueva."
+        },
+        {
+          "type": "speak",
+          "text": "I will take an umbrella in case it rains.",
+          "es": "Llevaré un paraguas por si llueve."
+        },
+        {
+          "type": "speak",
+          "text": "What will happen tomorrow?",
+          "es": "¿Qué pasará mañana?"
+        }
+      ]
+    }
+  ]
+}

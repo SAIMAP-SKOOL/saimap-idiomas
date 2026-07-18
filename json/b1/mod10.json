@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod10",
+  "module": 10,
+  "title": "Third Conditional: Past Regrets",
+  "subtitle": "Tercer Condicional: Lamentos",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Estructura básica: Past Perfect + would have",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "regret", "es": "arrepentimiento/lamentar" },
+            { "en": "mistake", "es": "error" },
+            { "en": "error", "es": "error (formal)" },
+            { "en": "fault", "es": "culpa/fallo" },
+            { "en": "blame", "es": "culpar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your friend didn't study for the exam and failed. Which sentence correctly expresses the hypothetical alternative?",
+          "options": ["If he studied more, he passes the exam.", "If he had studied more, he would have passed the exam.", "If he would have studied more, he passed the exam."],
+          "correct": 1,
+          "hint": "La cláusula con «if» nunca lleva «would have».",
+          "explanation": "El Tercer Condicional exige Past Perfect en la cláusula del «if» («had studied») y «would have» + participio en el resultado («would have passed»). Meter «would have» dentro del «if» es un calco prohibido del español, que suele usar el condicional en la condición."
+        },
+        {
+          "type": "gap",
+          "text": "If we ___ the correct path, we wouldn't have got lost.",
+          "options": ["had known", "have known", "knew"],
+          "answer": "had known",
+          "explanation": "La cláusula del «if» en el tercer condicional exige Past Perfect: «had known». Con esta forma se hipotetiza sobre un hecho ya finalizado en el pasado (no conocíamos el camino)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del arrepentimiento",
+          "pairs": [
+            { "en": "mistake", "es": "error" },
+            { "en": "error", "es": "error (formal)" },
+            { "en": "fault", "es": "culpa/fallo" },
+            { "en": "blame", "es": "culpar" },
+            { "en": "apology", "es": "disculpa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly uses «blame» as a verb?",
+          "options": ["I don't blame you for the mistake.", "I don't have blame you.", "I am blame for the mistake."],
+          "correct": 0,
+          "hint": "«Blame» funciona igual que un verbo normal: sujeto + blame + objeto.",
+          "explanation": "«Blame» es un verbo transitivo: «I don't blame you» (no te culpo). «Have blame» y «am blame» son calcos agramaticales; para el sustantivo se usa «fault» (it's my fault), no «blame»."
+        },
+        {
+          "type": "gap",
+          "text": "If he ___ made that critical mistake, the project would have been a success.",
+          "options": ["hadn't", "didn't", "wouldn't have"],
+          "answer": "hadn't",
+          "explanation": "Para negar la condición en el tercer condicional se usa «hadn't» + participio (Past Perfect negativo): «if he hadn't made». El resultado positivo hipotético es «would have been a success»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario del arrepentimiento sin repetir",
+          "pairs": [
+            { "en": "regret", "es": "arrepentimiento/lamentar" },
+            { "en": "mistake", "es": "error" },
+            { "en": "fault", "es": "culpa/fallo" },
+            { "en": "blame", "es": "culpar" },
+            { "en": "apology", "es": "disculpa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "She found out later that the information was confidential, but by then she had already shared it with journalists. Which sentence best expresses her regret?",
+          "options": ["If she knew it was a secret, she wouldn't have told the media.", "If she would have known it was a secret, she wouldn't have told the media.", "If she had known it was a secret, she wouldn't have told the media."],
+          "correct": 2,
+          "hint": "Recuerda: el «if» nunca admite «would have», y aquí hablamos de un hecho totalmente pasado.",
+          "explanation": "En el tercer condicional, la cláusula de «if» exige Past Perfect («had known»). La primera opción usa Past Simple (propio del segundo condicional) y la segunda mete «would have» en el «if», un error grave."
+        },
+        {
+          "type": "gap",
+          "text": "Please accept my ___.",
+          "options": ["apology", "mistake", "blame"],
+          "answer": "apology",
+          "explanation": "«Apology» es la disculpa formal que se acepta. «Mistake» es el error en sí, y «blame» es culpar (verbo); ninguno encaja como objeto de «accept»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Lamento ese error",
+          "direction": "es-en",
+          "tiles": ["I", "regret", "that", "mistake", "error", "apology"],
+          "answer": "I regret that mistake",
+          "explanation": "«Regret» funciona como verbo: sujeto + regret + objeto. «That mistake» es «ese error». No confundir con «error», que aquí es un distractor más formal."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No fue mi culpa",
+          "direction": "es-en",
+          "tiles": ["It", "wasn't", "my", "fault", "blame", "error"],
+          "answer": "It wasn't my fault",
+          "explanation": "«Fault» es el sustantivo para «culpa» en esta expresión fija: «it wasn't my fault». «Blame» aquí sería el verbo culpar, no un sustantivo, así que no encaja."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Acepta mis disculpas",
+          "direction": "es-en",
+          "tiles": ["Accept", "my", "apology", "mistake", "regret"],
+          "answer": "Accept my apology",
+          "explanation": "«Apology» es el sustantivo «disculpa»: «accept my apology» (acepta mi disculpa), la fórmula fija para pedir perdón formalmente."
+        },
+        {
+          "type": "speak",
+          "text": "If I had studied more, I would have passed the exam.",
+          "es": "Si hubiera estudiado más, habría aprobado el examen."
+        },
+        {
+          "type": "speak",
+          "text": "I regret that mistake.",
+          "es": "Lamento ese error."
+        },
+        {
+          "type": "speak",
+          "text": "It wasn't my fault.",
+          "es": "No fue mi culpa."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Arrepentimientos, oportunidades y disculpas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "forgive", "es": "perdonar" },
+            { "en": "path", "es": "camino/sendero" },
+            { "en": "opportunity", "es": "oportunidad" },
+            { "en": "success", "es": "éxito" },
+            { "en": "failure", "es": "fracaso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You were offered a job years ago but you turned it down. Looking back, which sentence expresses your regret about missing that chance?",
+          "options": ["If I accept that job, it's a great opportunity.", "If I had accepted that job, it would have been a great opportunity.", "If I would have accepted that job, it was a great opportunity."],
+          "correct": 1,
+          "hint": "Hipótesis sobre un hecho pasado y terminado: busca Past Perfect + would have.",
+          "explanation": "Tercer condicional: Past Perfect en el «if» («had accepted») + «would have been» en el resultado. Las otras dos opciones usan tiempos verbales que no corresponden a una hipótesis sobre el pasado."
+        },
+        {
+          "type": "gap",
+          "text": "If you had checked the map, we wouldn't have lost the ___.",
+          "options": ["path", "fault", "opportunity"],
+          "answer": "path",
+          "explanation": "«Path» (camino/sendero) es el sustantivo correcto en este contexto de orientación. «Fault» y «opportunity» no encajan semánticamente en esta frase sobre perderse."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "path", "es": "camino/sendero" },
+            { "en": "opportunity", "es": "oportunidad" },
+            { "en": "success", "es": "éxito" },
+            { "en": "failure", "es": "fracaso" },
+            { "en": "lose", "es": "perder" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You made a big mistake and want to ask your friend not to be angry anymore. Which verb do you need?",
+          "options": ["I hope you can apology me.", "I hope you can fault me.", "I hope you can forgive me."],
+          "correct": 2,
+          "hint": "«Apology» es un sustantivo, no un verbo.",
+          "explanation": "«Forgive» es el verbo «perdonar»: «forgive me» (perdóname). «Apology» es un sustantivo (disculpa) que no puede usarse como verbo, y «fault» es «culpa», no «perdonar»."
+        },
+        {
+          "type": "gap",
+          "text": "If they had trained harder, they wouldn't have suffered that ___.",
+          "options": ["failure", "success", "opportunity"],
+          "answer": "failure",
+          "explanation": "«Failure» (fracaso) es el sustantivo opuesto a «success» (éxito). Aquí el contexto negativo («suffered») exige «failure»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "forgive", "es": "perdonar" },
+            { "en": "opportunity", "es": "oportunidad" },
+            { "en": "failure", "es": "fracaso" },
+            { "en": "lose", "es": "perder" },
+            { "en": "regret", "es": "arrepentimiento/lamentar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly describes losing a game due to your own mistake?",
+          "options": ["We lost the game because of my mistake.", "We loss the game because of my mistake.", "We were lost the game because of my mistake."],
+          "correct": 0,
+          "hint": "«Lose» es un verbo irregular: lose-lost-lost.",
+          "explanation": "«Lose» es el verbo (perder): «we lost the game». «Loss» es el sustantivo (la pérdida) y no puede conjugarse como verbo; «were lost» confundiría con estar perdido/desorientado."
+        },
+        {
+          "type": "gap",
+          "text": "If I had accepted that job, it would have been a great ___ for my career.",
+          "options": ["opportunity", "failure", "path"],
+          "answer": "opportunity",
+          "explanation": "«Opportunity» (oportunidad) es la palabra que completa naturalmente esta reflexión sobre una decisión profesional pasada."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Perdimos la oportunidad",
+          "direction": "es-en",
+          "tiles": ["We", "lost", "the", "opportunity", "path", "success"],
+          "answer": "We lost the opportunity",
+          "explanation": "«Lose» + sustantivo: «lost the opportunity» (perdimos la oportunidad). «Path» y «success» no encajan como objeto de «lose» en esta frase."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Perdóname, por favor",
+          "direction": "es-en",
+          "tiles": ["Forgive", "me,", "please", "apology", "blame"],
+          "answer": "Forgive me, please",
+          "explanation": "«Forgive me» es la fórmula directa de petición de perdón. «Apology» es un sustantivo y no puede sustituir al verbo aquí."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Fue un éxito, no un fracaso",
+          "direction": "es-en",
+          "tiles": ["It", "was", "a", "success,", "not", "a", "failure", "mistake"],
+          "answer": "It was a success, not a failure",
+          "explanation": "«Success» (éxito) y «failure» (fracaso) son antónimos directos, ambos sustantivos contables que requieren el artículo «a»."
+        },
+        {
+          "type": "speak",
+          "text": "If I had accepted that job, it would have been a great opportunity.",
+          "es": "Si hubiera aceptado ese trabajo, habría sido una gran oportunidad."
+        },
+        {
+          "type": "speak",
+          "text": "I hope you can forgive me.",
+          "es": "Espero que puedas perdonarme."
+        },
+        {
+          "type": "speak",
+          "text": "We lost the path.",
+          "es": "Perdimos el camino."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Culpa y contextos históricos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "war", "es": "guerra" },
+            { "en": "peace", "es": "paz" },
+            { "en": "general", "es": "general" },
+            { "en": "soldier", "es": "soldado" },
+            { "en": "battle", "es": "batalla" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The captain refused to change the plan and the ship sank. Which sentence best expresses this regret using the Third Conditional?",
+          "options": ["If the captain changed the plan, the ship doesn't sink.", "If the captain would have changed the plan, the ship didn't sink.", "If the captain had changed the plan, the ship wouldn't have sunk."],
+          "correct": 2,
+          "hint": "Solo una opción usa correctamente el Past Perfect en el «if» y «wouldn't have» en el resultado.",
+          "explanation": "Tercer condicional: «had changed» (Past Perfect en el if) + «wouldn't have sunk» (resultado negativo). Las otras dos mezclan tiempos verbales que no corresponden a una hipótesis sobre el pasado."
+        },
+        {
+          "type": "gap",
+          "text": "If the captain ___ the plan, the ship wouldn't have sunk.",
+          "options": ["had changed", "changed", "would have changed"],
+          "answer": "had changed",
+          "explanation": "La cláusula del «if» exige Past Perfect: «had changed». Nunca «would have» dentro del «if», y el Past Simple correspondería al segundo condicional."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "general", "es": "general" },
+            { "en": "soldier", "es": "soldado" },
+            { "en": "battle", "es": "batalla" },
+            { "en": "plan", "es": "plan/planificar" },
+            { "en": "war", "es": "guerra" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In fast spoken English, how would you naturally hear «If I had known»?",
+          "options": ["If I'd known", "If I would known", "If I have known"],
+          "correct": 0,
+          "hint": "La contracción «'d» en la cláusula del «if» representa siempre a «had», nunca a «would».",
+          "explanation": "En la cláusula del «if», la contracción «'d» es siempre «had» («If I'd known» = «If I had known»). En la cláusula principal, en cambio, «'d» representa a «would» («I'd have done it»)."
+        },
+        {
+          "type": "gap",
+          "text": "If there ___ peace, there wouldn't have been a war.",
+          "options": ["had been", "was", "would have been"],
+          "answer": "had been",
+          "explanation": "Tercer condicional con «be»: Past Perfect «had been» en el «if». «Was» sería segundo condicional y «would have been» no puede ir en la cláusula del «if»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "peace", "es": "paz" },
+            { "en": "general", "es": "general" },
+            { "en": "battle", "es": "batalla" },
+            { "en": "plan", "es": "plan/planificar" },
+            { "en": "soldier", "es": "soldado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Historians agree the army lost because the commanding officer chose a poor strategy. Which sentence correctly expresses this in hindsight?",
+          "options": ["If the general planned a better strategy, the army wouldn't have lost the battle.", "If the general had planned a better strategy, the army wouldn't have lost the battle.", "If the general would have planned a better strategy, the army wouldn't have lost the battle."],
+          "correct": 1,
+          "hint": "Solo una opción coloca correctamente el Past Perfect en el «if» sin usar «would have» ahí.",
+          "explanation": "La cláusula del «if» del tercer condicional exige Past Perfect: «had planned». La primera opción usa Past Simple (mezcla con segundo condicional) y la tercera mete «would have» dentro del «if», un error grave."
+        },
+        {
+          "type": "gap",
+          "text": "If the soldiers ___ a better plan, they wouldn't have lost.",
+          "options": ["had had", "have had", "having"],
+          "answer": "had had",
+          "explanation": "Cuando el verbo léxico es «have» (tener), el Past Perfect duplica el auxiliar: «had had» (habían tenido). No es un error tipográfico, es la conjugación correcta."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No hubo guerra",
+          "direction": "es-en",
+          "tiles": ["There", "was", "no", "war", "peace", "soldier"],
+          "answer": "There was no war",
+          "explanation": "«There was no war» usa la estructura «there was» + «no» + sustantivo, para negar la existencia de algo en el pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El general perdió la batalla",
+          "direction": "es-en",
+          "tiles": ["The", "general", "lost", "the", "battle", "soldier", "plan"],
+          "answer": "The general lost the battle",
+          "explanation": "«Lost» es el pasado de «lose»: «lost the battle» (perdió la batalla). «Soldier» y «plan» son distractores del mismo campo semántico bélico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El soldado tenía un plan",
+          "direction": "es-en",
+          "tiles": ["The", "soldier", "had", "a", "plan", "general", "battle"],
+          "answer": "The soldier had a plan",
+          "explanation": "Estructura simple de posesión pasada: «had a plan» (tenía un plan). «General» y «battle» son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "If the captain had changed the plan, the ship wouldn't have sunk.",
+          "es": "Si el capitán hubiera cambiado el plan, el barco no se habría hundido."
+        },
+        {
+          "type": "speak",
+          "text": "If I'd known, I would've told you.",
+          "es": "Si lo hubiera sabido, te lo habría dicho."
+        },
+        {
+          "type": "speak",
+          "text": "The general lost the battle.",
+          "es": "El general perdió la batalla."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Could have y Should have: alternativas modales",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "strategy", "es": "estrategia" },
+            { "en": "advice", "es": "consejo" },
+            { "en": "hindsight", "es": "retrospectiva" },
+            { "en": "past", "es": "pasado" },
+            { "en": "change", "es": "cambiar/cambio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "It was your fault; you ignored good advice before making a big decision. Which sentence best expresses your regret now?",
+          "options": ["I should listen to your advice.", "I should have listened to your advice.", "I had listened to your advice."],
+          "correct": 1,
+          "hint": "Busca la forma que expresa un consejo no seguido en el pasado, no en presente.",
+          "explanation": "«Should have listened» expresa arrepentimiento por no haber seguido un consejo en el pasado. «Should listen» sería un consejo para el presente/futuro, y «had listened» no funciona sola como recomendación."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ listened to your advice.",
+          "options": ["should have", "should", "would"],
+          "answer": "should have",
+          "explanation": "«Should have» + participio expresa un reproche o arrepentimiento sobre una decisión pasada que no se tomó: «I should have listened»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "advice", "es": "consejo" },
+            { "en": "hindsight", "es": "retrospectiva" },
+            { "en": "past", "es": "pasado" },
+            { "en": "change", "es": "cambiar/cambio" },
+            { "en": "if only", "es": "ojalá/si tan solo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your team lost the match, but your best player made a costly error near the end. Which sentence expresses the missed possibility?",
+          "options": ["We had won the match if our best player hadn't made that error.", "We could win the match if our best player hadn't made that error.", "We could have won the match if our best player hadn't made that error."],
+          "correct": 2,
+          "hint": "Busca la forma que expresa posibilidad perdida en el resultado, ni presente ni imposible.",
+          "explanation": "«Could have won» expresa la posibilidad hipotética perdida en el pasado. «Could win» sería presente/futuro y «had won» no puede usarse sola en la cláusula de resultado sin el modal."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ won the game if he had trained harder.",
+          "options": ["could have", "could", "should"],
+          "answer": "could have",
+          "explanation": "«Could have» + participio expresa una capacidad o posibilidad que existió en el pasado pero no se materializó: «could have won»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "strategy", "es": "estrategia" },
+            { "en": "hindsight", "es": "retrospectiva" },
+            { "en": "past", "es": "pasado" },
+            { "en": "if only", "es": "ojalá/si tan solo" },
+            { "en": "advice", "es": "consejo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You lost an important map during a trip and now deeply regret it. Which exclamation best fits?",
+          "options": ["If only we hadn't lost the map!", "If only we don't lose the map!", "If only we didn't lose the map!"],
+          "correct": 0,
+          "hint": "«If only» sobre el pasado exige la misma estructura que «wish»: Past Perfect.",
+          "explanation": "«If only» + Past Perfect expresa un lamento intenso sobre un hecho pasado: «if only we hadn't lost the map». Las otras opciones usan tiempos presentes o incorrectos para este contexto."
+        },
+        {
+          "type": "gap",
+          "text": "___ we hadn't lost the map!",
+          "options": ["If only", "If", "Wish"],
+          "answer": "If only",
+          "explanation": "«If only» es la fórmula enfática para lamentar un hecho pasado, seguida de Past Perfect. «Wish» necesitaría sujeto y verbo («I wish»), no puede ir sola al inicio así."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Debería haber escuchado",
+          "direction": "es-en",
+          "tiles": ["I", "should", "have", "listened", "has", "would"],
+          "answer": "I should have listened",
+          "explanation": "«Should have» + participio (listened) expresa arrepentimiento por no haber escuchado un consejo. «Has» y «would» son distractores de auxiliares similares."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Podríamos haber ganado",
+          "direction": "es-en",
+          "tiles": ["We", "could", "have", "won", "has", "would"],
+          "answer": "We could have won",
+          "explanation": "«Could have» + participio (won) expresa una posibilidad pasada no realizada. «Has» y «would» son distractores típicos de confusión entre modales."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ojalá no hubiéramos perdido el mapa",
+          "direction": "es-en",
+          "tiles": ["If", "only", "we", "hadn't", "lost", "the", "map", "didn't"],
+          "answer": "If only we hadn't lost the map",
+          "explanation": "«If only» + Past Perfect negativo («hadn't lost») expresa un lamento sobre el pasado. «Didn't» sería Past Simple, incompatible con esta estructura enfática."
+        },
+        {
+          "type": "speak",
+          "text": "I should have listened to your advice.",
+          "es": "Debería haber escuchado tu consejo."
+        },
+        {
+          "type": "speak",
+          "text": "He could have won the game if he had trained harder.",
+          "es": "Él podría haber ganado el partido si hubiera entrenado más duro."
+        },
+        {
+          "type": "speak",
+          "text": "If only we hadn't lost the map!",
+          "es": "¡Ojalá no hubiéramos perdido el mapa!"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Wish, if only y repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "wish", "es": "desear/deseo" },
+            { "en": "should have", "es": "debería haber" },
+            { "en": "could have", "es": "podría haber" },
+            { "en": "would have", "es": "habría" },
+            { "en": "done", "es": "hecho" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You missed a great professional chance last year and still regret it deeply. Which sentence correctly expresses this with «wish»?",
+          "options": ["I wish we wouldn't lose that opportunity last year.", "I wish we hadn't lost that opportunity last year.", "I wish we didn't lose that opportunity last year."],
+          "correct": 1,
+          "hint": "«Wish» sobre el pasado exige Past Perfect, igual que el tercer condicional.",
+          "explanation": "El arrepentimiento sobre el pasado con «wish» requiere obligatoriamente Past Perfect: «wish... hadn't lost». «Wouldn't» se usa para quejas sobre el presente/futuro y «didn't» expresaría un deseo sobre una situación presente imaginaria, no sobre «last year»."
+        },
+        {
+          "type": "gap",
+          "text": "I wish I ___ about the meeting.",
+          "options": ["had known", "know", "would know"],
+          "answer": "had known",
+          "explanation": "«Wish» + Past Perfect («had known») expresa que no supimos algo en el pasado y lo lamentamos ahora."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "could have", "es": "podría haber" },
+            { "en": "would have", "es": "habría" },
+            { "en": "done", "es": "hecho" },
+            { "en": "known", "es": "sabido/conocido" },
+            { "en": "wish", "es": "desear/deseo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to admit responsibility using the correct participle after «should have». Which sentence is correct?",
+          "options": ["It was my fault; I should have done it.", "It was my fault; I should have did it.", "It was my fault; I should have do it."],
+          "correct": 0,
+          "hint": "Tras «have», siempre se necesita el participio de pasado, no el pasado simple.",
+          "explanation": "Después de cualquier «have» modal (should/could/would have) se exige el participio «done», nunca el Past Simple «did» ni la forma base «do»: «I should have done it»."
+        },
+        {
+          "type": "gap",
+          "text": "You should have ___ your homework before the class.",
+          "options": ["done", "did", "do"],
+          "answer": "done",
+          "explanation": "Tras «should have» se usa siempre el participio de pasado: «done», no «did» (Past Simple) ni «do» (forma base)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "should have", "es": "debería haber" },
+            { "en": "would have", "es": "habría" },
+            { "en": "done", "es": "hecho" },
+            { "en": "known", "es": "sabido/conocido" },
+            { "en": "wish", "es": "desear/deseo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that expresses moral obligation not fulfilled in the past (advice ignored).",
+          "options": ["I would have listened to you.", "I could have listened to you.", "I should have listened to you."],
+          "correct": 2,
+          "hint": "Uno de los tres modales se centra específicamente en el consejo o la obligación moral.",
+          "explanation": "«Should have» expresa obligación o consejo no seguido (reproche). «Would have» describe un resultado condicional general y «could have» expresa capacidad o posibilidad perdida, no obligación moral."
+        },
+        {
+          "type": "gap",
+          "text": "If she ___ that it was a secret, she wouldn't have told the media.",
+          "options": ["had known", "would have known", "knew"],
+          "answer": "had known",
+          "explanation": "Repaso final: la cláusula del «if» del tercer condicional siempre exige Past Perfect («had known»), nunca «would have» ni Past Simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ojalá lo hubiera sabido",
+          "direction": "es-en",
+          "tiles": ["I", "wish", "I", "had", "known", "would"],
+          "answer": "I wish I had known",
+          "explanation": "«Wish» + Past Perfect («had known») expresa un lamento sobre algo que no supimos en el pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Debería haberlo hecho",
+          "direction": "es-en",
+          "tiles": ["I", "should", "have", "done", "it", "did"],
+          "answer": "I should have done it",
+          "explanation": "Repaso: tras el modal «should have» siempre va el participio «done», nunca «did»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Habría sido un éxito",
+          "direction": "es-en",
+          "tiles": ["It", "would", "have", "been", "a", "success", "could"],
+          "answer": "It would have been a success",
+          "explanation": "«Would have been» describe el resultado hipotético general en el tercer condicional. «Could» es un distractor de otro modal con un matiz distinto (posibilidad, no resultado directo)."
+        },
+        {
+          "type": "speak",
+          "text": "I wish I had known about the meeting.",
+          "es": "Ojalá hubiera sabido lo de la reunión."
+        },
+        {
+          "type": "speak",
+          "text": "It was my fault; I should have done it.",
+          "es": "Fue culpa mía; debería haberlo hecho."
+        },
+        {
+          "type": "speak",
+          "text": "If she had known it was a secret, she wouldn't have told the media.",
+          "es": "Si ella hubiera sabido que era un secreto, no se lo habría contado a los medios."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod02",
+  "module": 2,
+  "title": "Past Perfect vs. Past Simple",
+  "subtitle": "Past Perfect frente a Pasado Simple",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Narrativa lineal vs. salto al pasado",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "explain", "es": "explicar" },
+            { "en": "understand", "es": "entender" },
+            { "en": "confuse", "es": "confundir" },
+            { "en": "clarify", "es": "aclarar" },
+            { "en": "solve", "es": "resolver" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that shows a simple chain of consecutive actions.",
+          "options": ["He explained the case, and everyone understood it.", "He had explained the case before everyone understood it.", "He explained the case because everyone had understood it."],
+          "correct": 0,
+          "hint": "Busca dos verbos en pasado simple seguidos, sin ruptura temporal.",
+          "explanation": "Cuando dos acciones en Past Simple aparecen una tras otra, el oyente entiende que ocurrieron de forma consecutiva: primero explicó, luego entendieron. No hay necesidad de «leap» hacia atrás."
+        },
+        {
+          "type": "gap",
+          "text": "The lawyer ___ the case, so everyone understood it immediately.",
+          "options": ["clarified", "had clarified", "has clarified"],
+          "answer": "clarified",
+          "explanation": "Ambas acciones forman una cadena cronológica simple (una causa inmediata de la otra), así que el Past Simple es suficiente: no hace falta romper el orden temporal con el Past Perfect."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "understand", "es": "entender" },
+            { "en": "confuse", "es": "confundir" },
+            { "en": "clarify", "es": "aclarar" },
+            { "en": "solve", "es": "resolver" },
+            { "en": "case", "es": "caso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "She was confused because nobody ___ the case to her.",
+          "options": ["had explained", "explained", "has explained"],
+          "correct": 0,
+          "hint": "La falta de explicación es la causa anterior de su confusión.",
+          "explanation": "El Past Perfect («had explained») marca que la falta de explicación es anterior al estado de confusión: es un «salto atrás» para justificar la causa, no un simple eslabón de la cadena."
+        },
+        {
+          "type": "gap",
+          "text": "I didn't understand the case until she ___ it clearly.",
+          "options": ["explained", "had explained", "has explained"],
+          "answer": "explained",
+          "explanation": "Con «until», el verbo que marca el momento exacto en que cambió la situación va en Past Simple: «until she explained it». El estado previo de no entender ya queda marcado por «didn't understand»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "explain", "es": "explicar" },
+            { "en": "confuse", "es": "confundir" },
+            { "en": "clarify", "es": "aclarar" },
+            { "en": "solve", "es": "resolver" },
+            { "en": "case", "es": "caso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence best shows that the confusion was the result of an earlier lack of explanation?",
+          "options": ["She was confused because nobody had explained the case.", "She was confused because nobody explained the case.", "She was confused because nobody has explained the case."],
+          "correct": 0,
+          "hint": "Solo una opción marca claramente que la causa ocurrió ANTES del efecto.",
+          "explanation": "El Past Perfect anclado por «because» expresa con precisión que la causa (no explicar) es anterior al efecto (la confusión). Es el «anclaje causal» del tema."
+        },
+        {
+          "type": "gap",
+          "text": "He finally ___ the case after weeks of work.",
+          "options": ["solved", "had solved", "has solved"],
+          "answer": "solved",
+          "explanation": "Es un único evento en la línea narrativa principal, sin ninguna otra acción pasada respecto a la cual marcar anterioridad: basta el Past Simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella aclaró el caso.",
+          "direction": "es-en",
+          "tiles": ["She", "clarified", "the", "case", "clarify"],
+          "answer": "She clarified the case",
+          "explanation": "«Clarify» es regular: clarify-clarified-clarified. Un solo evento pasado se narra con Past Simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No entendí el caso.",
+          "direction": "es-en",
+          "tiles": ["I", "didn't", "understand", "the", "case", "understood"],
+          "answer": "I didn't understand the case",
+          "explanation": "Negativo del Past Simple: didn't + infinitivo («understand»), nunca el participio/pasado «understood» tras «didn't»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él resolvió el caso.",
+          "direction": "es-en",
+          "tiles": ["He", "solved", "the", "case", "solve"],
+          "answer": "He solved the case",
+          "explanation": "«Solve» es regular: solve-solved-solved. Evento único en pasado simple."
+        },
+        {
+          "type": "speak",
+          "text": "The lawyer clarified the case, so everyone understood it.",
+          "es": "El abogado aclaró el caso, así que todos lo entendieron."
+        },
+        {
+          "type": "speak",
+          "text": "She was confused because nobody had explained the case.",
+          "es": "Ella estaba confundida porque nadie le había explicado el caso."
+        },
+        {
+          "type": "speak",
+          "text": "He finally solved the case after weeks of work.",
+          "es": "Finalmente resolvió el caso después de semanas de trabajo."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "La trampa de «when»",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "puzzle", "es": "rompecabezas / acertijo" },
+            { "en": "mystery", "es": "misterio" },
+            { "en": "secret", "es": "secreto" },
+            { "en": "hidden", "es": "oculto" },
+            { "en": "truth", "es": "verdad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When she told the truth, everyone was surprised. What does this mean?",
+          "options": ["She told the truth, and immediately everyone was surprised.", "She had told the truth before anyone was surprised.", "Both actions happened at different, unrelated times."],
+          "correct": 0,
+          "hint": "Dos verbos en Past Simple tras «when» indican acciones consecutivas.",
+          "explanation": "Cuando «when» va seguido de dos verbos en Past Simple, la segunda acción ocurre inmediatamente después de la primera: dijo la verdad y, al instante, la gente se sorprendió."
+        },
+        {
+          "type": "gap",
+          "text": "When he discovered the secret, he ___ shocked.",
+          "options": ["felt", "had felt", "has felt"],
+          "answer": "felt",
+          "explanation": "«When» + Past Simple, Past Simple marca una reacción inmediata y consecutiva: descubrió el secreto y, al instante, se sintió impactado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "mystery", "es": "misterio" },
+            { "en": "secret", "es": "secreto" },
+            { "en": "hidden", "es": "oculto" },
+            { "en": "truth", "es": "verdad" },
+            { "en": "lie", "es": "mentira / mentir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence means the mystery was already solved before the police arrived?",
+          "options": ["When the police arrived, they solved the mystery.", "When the police arrived, they had already solved the mystery.", "When the police arrived, they were solving the mystery."],
+          "correct": 1,
+          "hint": "Busca la estructura «when + Past Simple, Past Perfect».",
+          "explanation": "«When + Past Simple, Past Perfect» indica que la segunda acción ya se había completado antes de la primera: resolvieron el misterio antes de que la policía llegara."
+        },
+        {
+          "type": "gap",
+          "text": "When we found the hidden letter, we ___ that she had lied.",
+          "options": ["understood", "had understood", "have understood"],
+          "answer": "understood",
+          "explanation": "«Found» y «understood» son dos reacciones consecutivas en Past Simple: encontramos la carta y, al instante, comprendimos. La mentira anterior ya va marcada aparte con «had lied»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "puzzle", "es": "rompecabezas / acertijo" },
+            { "en": "secret", "es": "secreto" },
+            { "en": "hidden", "es": "oculto" },
+            { "en": "truth", "es": "verdad" },
+            { "en": "lie", "es": "mentira / mentir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence where the lie happened before the discovery.",
+          "options": ["When they discovered the truth, she had already lied about everything.", "When they discovered the truth, she lied about everything.", "When they discovered the truth, she was lying about everything."],
+          "correct": 0,
+          "hint": "Solo una opción marca que la mentira es anterior al descubrimiento.",
+          "explanation": "«Had already lied» sitúa la mentira antes del descubrimiento de la verdad. Las otras opciones sugieren que mintió en el mismo instante del descubrimiento."
+        },
+        {
+          "type": "gap",
+          "text": "When the truth ___ out, the secret was no longer hidden.",
+          "options": ["came", "had come", "has come"],
+          "answer": "came",
+          "explanation": "«When» + Past Simple, Past Simple: salir a la luz y dejar de estar oculto ocurren como parte de la misma secuencia consecutiva."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella había ocultado el secreto.",
+          "direction": "es-en",
+          "tiles": ["She", "had", "hidden", "the", "secret", "hide"],
+          "answer": "She had hidden the secret",
+          "explanation": "«Hide» es irregular: hide-hid-hidden. El participio «hidden» va tras el auxiliar «had»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Cuando descubrimos la verdad, ella ya había mentido.",
+          "direction": "es-en",
+          "tiles": ["When", "we", "discovered", "the", "truth,", "she", "had", "already", "lied", "lie"],
+          "answer": "When we discovered the truth, she had already lied",
+          "explanation": "Estructura «when + Past Simple, Past Perfect»: el descubrimiento va en pasado simple y la mentira anterior en Past Perfect con «already» entre «had» y el participio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Era un misterio secreto.",
+          "direction": "es-en",
+          "tiles": ["It", "was", "a", "secret", "mystery", "puzzle"],
+          "answer": "It was a secret mystery",
+          "explanation": "Repaso de vocabulario: «mystery» (misterio) y «secret» (secreto/oculto) como adjetivo antes del sustantivo."
+        },
+        {
+          "type": "speak",
+          "text": "When she told the truth, everyone was surprised.",
+          "es": "Cuando ella dijo la verdad, todos se sorprendieron."
+        },
+        {
+          "type": "speak",
+          "text": "When the police arrived, they had already solved the mystery.",
+          "es": "Cuando llegó la policía, ya habían resuelto el misterio."
+        },
+        {
+          "type": "speak",
+          "text": "She had hidden the secret before anyone asked.",
+          "es": "Ella había ocultado el secreto antes de que nadie preguntara."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Explicar y resolver: causa y efecto",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "find out", "es": "enterarse / averiguar" },
+            { "en": "guilty", "es": "culpable" },
+            { "en": "innocent", "es": "inocente" },
+            { "en": "court", "es": "tribunal" },
+            { "en": "judge", "es": "juez" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["The judge explained that the suspect told the truth.", "The judge explained that the suspect had told the truth.", "The judge explained that the suspect has told the truth."],
+          "correct": 1,
+          "hint": "Decir la verdad ocurrió en el juicio, antes de que el juez lo explicara.",
+          "explanation": "El acto de decir la verdad ocurrió antes de que el juez lo explicara, así que se requiere el Past Perfect: «had told». «Told» sugiere simultaneidad y «has told» rompe la concordancia con el pasado."
+        },
+        {
+          "type": "gap",
+          "text": "The court found out that the witness ___ during the trial.",
+          "options": ["had lied", "lied", "has lied"],
+          "answer": "had lied",
+          "explanation": "«Find out» marca el momento en que se conoce un hecho anterior: la mentira («had lied») ocurrió antes de que el tribunal se enterara."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "guilty", "es": "culpable" },
+            { "en": "innocent", "es": "inocente" },
+            { "en": "court", "es": "tribunal" },
+            { "en": "judge", "es": "juez" },
+            { "en": "prison", "es": "prisión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The judge found out that the witness ___ the alibi.",
+          "options": ["had fabricated", "fabricated", "has fabricated"],
+          "correct": 0,
+          "hint": "«Find out» siempre mira hacia un hecho anterior ya ocurrido.",
+          "explanation": "La fabricación de la coartada es anterior al momento en que el juez se entera; el patrón «find out» + Past Perfect marca esa relación de anterioridad."
+        },
+        {
+          "type": "gap",
+          "text": "I finally understood why the suspect ___ to the police.",
+          "options": ["had lied", "lied", "has lied"],
+          "answer": "had lied",
+          "explanation": "El engaño a la policía ocurrió antes de que el hablante lo comprendiera: «understood» (Past Simple) + causa en Past Perfect («had lied»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "find out", "es": "enterarse / averiguar" },
+            { "en": "innocent", "es": "inocente" },
+            { "en": "court", "es": "tribunal" },
+            { "en": "judge", "es": "juez" },
+            { "en": "prison", "es": "prisión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence shows the correct order: the man went to prison, but he was innocent all along?",
+          "options": ["He was innocent, but the court had sent him to prison before finding out the truth.", "He was innocent, but the court sent him to prison because he had found out the truth.", "He was innocent, but the court has sent him to prison before finding out the truth."],
+          "correct": 0,
+          "hint": "El envío a prisión ocurrió antes de que se descubriera la verdad.",
+          "explanation": "Enviarlo a prisión es anterior al descubrimiento de la verdad, así que el envío se marca con Past Perfect: «had sent... before finding out»."
+        },
+        {
+          "type": "gap",
+          "text": "The judge declared him ___ after the trial.",
+          "options": ["guilty", "guiltily", "guilt"],
+          "answer": "guilty",
+          "explanation": "Tras «declare + objeto» se usa el adjetivo «guilty» (culpable), no el adverbio «guiltily» ni el sustantivo «guilt»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El tribunal encontró al hombre culpable.",
+          "direction": "es-en",
+          "tiles": ["The", "court", "found", "the", "man", "guilty", "innocent"],
+          "answer": "The court found the man guilty",
+          "explanation": "Estructura «find + objeto + adjetivo»: «found the man guilty», con «guilty» y no su antónimo «innocent»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El juez se enteró de la verdad.",
+          "direction": "es-en",
+          "tiles": ["The", "judge", "found", "out", "the", "truth", "find"],
+          "answer": "The judge found out the truth",
+          "explanation": "«Find out» es un phrasal verb: find-found-found + out. El pasado es «found out», no «find out»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él era inocente, no culpable.",
+          "direction": "es-en",
+          "tiles": ["He", "was", "innocent,", "not", "guilty", "prison"],
+          "answer": "He was innocent, not guilty",
+          "explanation": "Contraste de adjetivos de estado: «innocent» (inocente) frente a «guilty» (culpable)."
+        },
+        {
+          "type": "speak",
+          "text": "The judge explained that the suspect had told the truth.",
+          "es": "El juez explicó que el sospechoso había dicho la verdad."
+        },
+        {
+          "type": "speak",
+          "text": "The court found out that the witness had lied.",
+          "es": "El tribunal se enteró de que el testigo había mentido."
+        },
+        {
+          "type": "speak",
+          "text": "He was innocent, but he went to prison.",
+          "es": "Era inocente, pero fue a prisión."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Retrospectiva: pistas y explicaciones",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "free", "es": "libre / liberar" },
+            { "en": "search", "es": "buscar / búsqueda" },
+            { "en": "trace", "es": "rastro / rastrear" },
+            { "en": "footprint", "es": "huella de pie" },
+            { "en": "fingerprint", "es": "huella dactilar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The judge finally solved the case because he ___ a hidden fingerprint.",
+          "options": ["discovered", "had discovered", "has discovered"],
+          "correct": 1,
+          "hint": "El descubrimiento de la huella es la causa anterior que resolvió el caso.",
+          "explanation": "«Had discovered» explica la acción anterior que sirvió de causa para resolver el caso. «Discovered» no marca esa relación de anterioridad y «has discovered» rompe la concordancia con «solved»."
+        },
+        {
+          "type": "gap",
+          "text": "I found out that the key ___ in the shadow.",
+          "options": ["was hidden", "had been hidden", "has been hidden"],
+          "answer": "had been hidden",
+          "explanation": "Esconder la llave ocurrió antes de que se descubriera: «had been hidden» (pasiva del Past Perfect). Además, en inglés se dice «in the shadow», no «under the shadow»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "search", "es": "buscar / búsqueda" },
+            { "en": "trace", "es": "rastro / rastrear" },
+            { "en": "footprint", "es": "huella de pie" },
+            { "en": "fingerprint", "es": "huella dactilar" },
+            { "en": "shadow", "es": "sombra" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When the police searched the house, they realized the thief ___ through the window.",
+          "options": ["escaped", "has escaped", "had escaped"],
+          "correct": 2,
+          "hint": "El ladrón ya no estaba cuando la policía llegó a buscar.",
+          "explanation": "«Had escaped» indica que la huida se había completado antes de que la policía iniciara la búsqueda. «Escaped» sugeriría que huyó en el mismo instante del registro, lo cual no encaja con «realized»."
+        },
+        {
+          "type": "gap",
+          "text": "At that moment we were confused because the clues ___.",
+          "options": ["disappeared", "had disappeared", "have disappeared"],
+          "answer": "had disappeared",
+          "explanation": "La desaparición de las pistas es la causa anterior de la confusión: se necesita el Past Perfect para marcar esa anterioridad."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "free", "es": "libre / liberar" },
+            { "en": "trace", "es": "rastro / rastrear" },
+            { "en": "footprint", "es": "huella de pie" },
+            { "en": "fingerprint", "es": "huella dactilar" },
+            { "en": "shadow", "es": "sombra" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I was confused because the footprints ___ in the snow.",
+          "options": ["had disappeared", "disappeared", "have disappeared"],
+          "correct": 0,
+          "hint": "El Past Perfect explica la causa de un estado emocional pasado.",
+          "explanation": "Las huellas desaparecieron antes de que el hablante se sintiera confundido: «had disappeared» expresa esa causa anterior. «Have disappeared» es presente perfecto y no concuerda con «was confused»."
+        },
+        {
+          "type": "gap",
+          "text": "The innocent suspect was happy to be free after the court ___ him not guilty.",
+          "options": ["declared", "had declared", "has declared"],
+          "answer": "had declared",
+          "explanation": "La declaración de inocencia ocurrió antes de la felicidad y la libertad: «had declared» marca esa anterioridad dentro del relato retrospectivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Encontraron una huella dactilar oculta.",
+          "direction": "es-en",
+          "tiles": ["They", "found", "a", "hidden", "fingerprint", "footprint"],
+          "answer": "They found a hidden fingerprint",
+          "explanation": "«Fingerprint» (huella dactilar) frente a «footprint» (huella de pie): son palabras distintas aunque ambas se traduzcan como «huella»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El ladrón dejó un rastro en la sombra.",
+          "direction": "es-en",
+          "tiles": ["The", "thief", "left", "a", "trace", "in", "the", "shadow", "light"],
+          "answer": "The thief left a trace in the shadow",
+          "explanation": "«Trace» (rastro) e «in the shadow» (en la sombra) son la combinación natural; «light» (luz) sería lo opuesto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él era libre después del juicio.",
+          "direction": "es-en",
+          "tiles": ["He", "was", "free", "after", "the", "trial", "search"],
+          "answer": "He was free after the trial",
+          "explanation": "«Free» como adjetivo de estado: «was free» (era/estaba libre)."
+        },
+        {
+          "type": "speak",
+          "text": "He had discovered a hidden fingerprint before he solved the case.",
+          "es": "Había descubierto una huella dactilar oculta antes de resolver el caso."
+        },
+        {
+          "type": "speak",
+          "text": "The thief had escaped through the window before the search began.",
+          "es": "El ladrón había escapado por la ventana antes de que empezara la búsqueda."
+        },
+        {
+          "type": "speak",
+          "text": "The footprints had disappeared in the snow.",
+          "es": "Las huellas habían desaparecido en la nieve."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Repaso: el flashback del detective",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "light", "es": "luz / iluminar" },
+            { "en": "clue", "es": "pista" },
+            { "en": "happen", "es": "suceder / ocurrir" },
+            { "en": "hindsight", "es": "retrospectiva" },
+            { "en": "past", "es": "pasado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We ___ the mystery until the detective clarified the facts.",
+          "options": ["hadn't understood", "didn't understand", "haven't understood"],
+          "correct": 0,
+          "hint": "El estado de no entender duró hasta un punto concreto del pasado.",
+          "explanation": "La falta de comprensión persistió hasta un punto en el pasado (la aclaración del detective), así que se requiere «hadn't understood» para marcar esa anterioridad con precisión, típico de los exámenes B1."
+        },
+        {
+          "type": "gap",
+          "text": "We didn't solve the puzzle because we ___ the clue.",
+          "options": ["lost", "had lost", "have lost"],
+          "answer": "had lost",
+          "explanation": "La pérdida de la pista es la causa anterior que impidió resolver el acertijo en el pasado simple: se necesita el Past Perfect «had lost»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "clue", "es": "pista" },
+            { "en": "happen", "es": "suceder / ocurrir" },
+            { "en": "hindsight", "es": "retrospectiva" },
+            { "en": "past", "es": "pasado" },
+            { "en": "fact", "es": "hecho / realidad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After they ___ the suspect's alibi, they freed him.",
+          "options": ["confirmed", "had confirmed", "has confirmed"],
+          "correct": 1,
+          "hint": "La comprobación de la coartada se completó antes de la liberación.",
+          "explanation": "El Past Perfect «had confirmed» es idóneo con «after» para enfatizar que la comprobación de la coartada se completó antes de liberarlo, la opción más precisa en un examen B1."
+        },
+        {
+          "type": "gap",
+          "text": "In hindsight, everything ___ for a reason.",
+          "options": ["happened", "had happened", "has happened"],
+          "answer": "happened",
+          "explanation": "Es un hecho pasado único dentro del relato, sin otra acción respecto a la cual marcar anterioridad: basta el Past Simple, incluso en una reflexión retrospectiva."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "light", "es": "luz / iluminar" },
+            { "en": "happen", "es": "suceder / ocurrir" },
+            { "en": "hindsight", "es": "retrospectiva" },
+            { "en": "past", "es": "pasado" },
+            { "en": "fact", "es": "hecho / realidad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that uses the «flashback» tense correctly to explain a past cause.",
+          "options": ["The court freed him because they had found the real guilty person.", "The court freed him because they found the real guilty person before.", "The court freed him because they have found the real guilty person."],
+          "correct": 0,
+          "hint": "Recuerda la mnemotecnia: efecto en Past Simple + because + causa anterior en Past Perfect.",
+          "explanation": "Fórmula de causa: efecto (Past Simple) + because + causa anterior (Past Perfect). «Had found» sitúa el hallazgo del verdadero culpable antes de la liberación, como un flashback."
+        },
+        {
+          "type": "gap",
+          "text": "Looking back, it was clear that the clue had always been there, but nobody ___ it.",
+          "options": ["noticed", "had noticed", "has noticed"],
+          "answer": "noticed",
+          "explanation": "«Noticed» es la reacción puntual dentro de la narración; la existencia previa de la pista ya queda marcada aparte con «had always been there»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "En retrospectiva, todo tenía sentido.",
+          "direction": "es-en",
+          "tiles": ["In", "hindsight,", "everything", "made", "sense", "past"],
+          "answer": "In hindsight, everything made sense",
+          "explanation": "«In hindsight» (en retrospectiva) introduce una reflexión sobre hechos pasados vistos desde después."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La pista estaba a la luz, no en la sombra.",
+          "direction": "es-en",
+          "tiles": ["The", "clue", "was", "in", "the", "light,", "not", "shadow", "fact"],
+          "answer": "The clue was in the light, not shadow",
+          "explanation": "Contraste de vocabulario: «light» (luz) frente a «shadow» (sombra), repasado de módulos anteriores."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ese era un hecho del pasado.",
+          "direction": "es-en",
+          "tiles": ["That", "was", "a", "fact", "of", "the", "past", "clue"],
+          "answer": "That was a fact of the past",
+          "explanation": "«Fact» (hecho) y «past» (pasado) como sustantivos: «a fact of the past»."
+        },
+        {
+          "type": "speak",
+          "text": "We hadn't understood the mystery until the detective clarified the facts.",
+          "es": "No habíamos entendido el misterio hasta que el detective aclaró los hechos."
+        },
+        {
+          "type": "speak",
+          "text": "After they had confirmed the alibi, they freed him.",
+          "es": "Después de haber confirmado la coartada, lo liberaron."
+        },
+        {
+          "type": "speak",
+          "text": "In hindsight, the clue had always been there.",
+          "es": "En retrospectiva, la pista siempre había estado ahí."
+        }
+      ]
+    }
+  ]
+}

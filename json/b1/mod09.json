@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod09",
+  "module": 9,
+  "title": "Second Conditional: Hypothetical Situations",
+  "subtitle": "Segundo Condicional: Hipotético",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Sueños y fantasías: la estructura hipotética",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "hypothetical", "es": "hipotético" },
+            { "en": "dream", "es": "sueño/soñar" },
+            { "en": "fantasy", "es": "fantasía" },
+            { "en": "lottery", "es": "lotería" },
+            { "en": "win", "es": "ganar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If I ___ a million dollars in the lottery, I ___ a large sum to charity.",
+          "options": ["won / would donate", "win / would donate", "won / will donate"],
+          "correct": 0,
+          "hint": "No mezcles el presente con would, ni el pasado con will.",
+          "explanation": "La combinación de Past Simple en la condición («won») y «would + infinitivo» en la consecuencia («would donate») es la estructura estándar del Second Conditional para escenarios improbables."
+        },
+        {
+          "type": "gap",
+          "text": "If I ___ the lottery, I would buy an island. (ganar, hipotético)",
+          "options": ["won", "win", "will win"],
+          "answer": "won",
+          "explanation": "La condición del Second Conditional siempre va en Past Simple, aunque no hablemos realmente del pasado: «won» representa una fantasía distante de la realidad."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "dream", "es": "sueño/soñar" },
+            { "en": "fantasy", "es": "fantasía" },
+            { "en": "lottery", "es": "lotería" },
+            { "en": "win", "es": "ganar" },
+            { "en": "million", "es": "millón" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly expresses a hypothetical dream, not a real plan?",
+          "options": ["If I win the lottery, I will buy a boat.", "If I won the lottery, I would buy a boat.", "If I would win the lottery, I buy a boat."],
+          "correct": 1,
+          "hint": "El sueño improbable necesita pasado en la condición.",
+          "explanation": "Un sueño o fantasía poco probable se expresa con el Second Conditional: Past Simple + would. La primera opción es First Conditional (posible) y la tercera mezcla mal los tiempos."
+        },
+        {
+          "type": "gap",
+          "text": "It's just a ___, but I dream about winning the lottery every day. (fantasía)",
+          "options": ["fantasy", "hypothetical", "million"],
+          "answer": "fantasy",
+          "explanation": "«Fantasy» es la palabra que describe una idea imaginaria y poco realista, como ganar la lotería."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "hypothetical", "es": "hipotético" },
+            { "en": "fantasy", "es": "fantasía" },
+            { "en": "win", "es": "ganar" },
+            { "en": "million", "es": "millón" },
+            { "en": "lottery", "es": "lotería" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that does NOT mix First and Second Conditional.",
+          "options": ["If I have more money, I would travel.", "If I had more money, I will travel.", "If I had more money, I would travel."],
+          "correct": 2,
+          "hint": "Ambas cláusulas deben pertenecer al mismo condicional.",
+          "explanation": "Las dos cláusulas deben coincidir en el mismo condicional: pasado + would. Mezclar presente con would, o pasado con will, es un error típico de examen."
+        },
+        {
+          "type": "gap",
+          "text": "If I won a ___ dollars, I would stop working. (un millón)",
+          "options": ["million", "lottery", "dream"],
+          "answer": "million",
+          "explanation": "«A million dollars» es la cantidad hipotética que completa el escenario de fantasía sobre ganar mucho dinero."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si ganara la lotería, viajaría",
+          "direction": "es-en",
+          "tiles": ["If", "I", "won", "the", "lottery", "I", "would", "travel", "win"],
+          "answer": "If I won the lottery, I would travel",
+          "explanation": "Second Conditional: «won» (Past Simple) en la condición y «would travel» en el resultado hipotético."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es solo una fantasía",
+          "direction": "es-en",
+          "tiles": ["It", "is", "just", "a", "fantasy", "dream"],
+          "answer": "It is just a fantasy",
+          "explanation": "Frase descriptiva simple: sujeto + is + «just a fantasy», sin estructura condicional."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Sueño con ganar",
+          "direction": "es-en",
+          "tiles": ["I", "dream", "of", "winning", "win"],
+          "answer": "I dream of winning",
+          "explanation": "«Dream of» va seguido de gerundio: «dream of winning», no del infinitivo «win»."
+        },
+        {
+          "type": "speak",
+          "text": "If I won the lottery, I would travel.",
+          "es": "Si ganara la lotería, viajaría."
+        },
+        {
+          "type": "speak",
+          "text": "It is just a fantasy.",
+          "es": "Es solo una fantasía."
+        },
+        {
+          "type": "speak",
+          "text": "I dream of winning a million dollars.",
+          "es": "Sueño con ganar un millón de dólares."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Riqueza y caridad: would en el resultado",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "rich", "es": "rico" },
+            { "en": "poor", "es": "pobre" },
+            { "en": "donate", "es": "donar" },
+            { "en": "charity", "es": "caridad/obra benéfica" },
+            { "en": "island", "es": "isla" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If I ___ you, I ___ that job offer on the island.",
+          "options": ["am / will accept", "were / would accept", "was / accept"],
+          "correct": 1,
+          "hint": "Es la fórmula típica para dar consejos.",
+          "explanation": "«If I were you» es la estructura típica para dar consejos, combinada con el condicional de resultado «would accept». «If I am you» es físicamente imposible como condición real."
+        },
+        {
+          "type": "gap",
+          "text": "If I were poor, I ___ ask for help. (would, hipotético)",
+          "options": ["would", "will", "was"],
+          "answer": "would",
+          "explanation": "El resultado del Second Conditional siempre usa «would» (o «could»), nunca «will»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "poor", "es": "pobre" },
+            { "en": "donate", "es": "donar" },
+            { "en": "charity", "es": "caridad/obra benéfica" },
+            { "en": "island", "es": "isla" },
+            { "en": "boat", "es": "barco" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly uses 'would' to express what you would definitely do in an imaginary situation?",
+          "options": ["If I were rich, I donate to charity.", "If I am rich, I would donate to charity.", "If I were rich, I would donate to charity."],
+          "correct": 2,
+          "hint": "Busca la frase con pasado en la condición y would en el resultado.",
+          "explanation": "«If I were rich, I would donate» combina correctamente el pasado de distanciamiento («were») con «would» para expresar una intención segura dentro de la fantasía."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ donate to that charity if she were rich.",
+          "options": ["would", "will", "did"],
+          "answer": "would",
+          "explanation": "En el Second Conditional, el resultado hipotético usa «would», que expresa lo que definitivamente haría en esa situación imaginaria."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "rich", "es": "rico" },
+            { "en": "donate", "es": "donar" },
+            { "en": "island", "es": "isla" },
+            { "en": "boat", "es": "barco" },
+            { "en": "charity", "es": "caridad/obra benéfica" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correctly contracted sentence.",
+          "options": ["If they asked me, I'd accept.", "If they ask me, I'd accept.", "If they asked me, I would accept."],
+          "correct": 0,
+          "hint": "«Would» se contrae en «'d» tras el sujeto.",
+          "explanation": "«Would» se puede contraer a «'d»: «I'd accept». La segunda opción mezcla presente («ask») con la forma contraída y la tercera es correcta pero no está contraída."
+        },
+        {
+          "type": "gap",
+          "text": "If I had a ___, I would sail around the island. (barco)",
+          "options": ["boat", "charity", "poor"],
+          "answer": "boat",
+          "explanation": "«Boat» es la palabra que completa lógicamente la fantasía de navegar alrededor de la isla."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si fuera rico, donaría a la caridad",
+          "direction": "es-en",
+          "tiles": ["If", "I", "were", "rich", "I", "would", "donate", "to", "charity", "was"],
+          "answer": "If I were rich, I would donate to charity",
+          "explanation": "Subjuntivo formal «were» en la condición, seguido de «would donate» en el resultado hipotético."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si tuviera un barco, viajaría a la isla",
+          "direction": "es-en",
+          "tiles": ["If", "I", "had", "a", "boat", "I", "would", "travel", "to", "the", "island", "has"],
+          "answer": "If I had a boat, I would travel to the island",
+          "explanation": "«Had» (Past Simple) en la condición y «would travel» en el resultado, estructura estándar del Second Conditional."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No somos ni ricos ni pobres",
+          "direction": "es-en",
+          "tiles": ["We", "are", "not", "rich", "or", "poor", "would"],
+          "answer": "We are not rich or poor",
+          "explanation": "Frase descriptiva simple en presente, sin estructura condicional: «are not rich or poor»."
+        },
+        {
+          "type": "speak",
+          "text": "If I were rich, I would donate to charity.",
+          "es": "Si fuera rico, donaría a la caridad."
+        },
+        {
+          "type": "speak",
+          "text": "If I had a boat, I would travel to the island.",
+          "es": "Si tuviera un barco, viajaría a la isla."
+        },
+        {
+          "type": "speak",
+          "text": "If I were you, I would accept that offer.",
+          "es": "Si yo fuera tú, aceptaría esa oferta."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "El subjuntivo were: consejos de reyes y presidentes",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "palace", "es": "palacio" },
+            { "en": "king", "es": "rey" },
+            { "en": "queen", "es": "reina" },
+            { "en": "president", "es": "presidente" },
+            { "en": "govern", "es": "gobernar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If he ___ the president, he ___ different decisions to support society.",
+          "options": ["was / will make", "were / makes", "were / would make"],
+          "correct": 2,
+          "hint": "Se prefiere «were» sobre «was» en exámenes formales.",
+          "explanation": "Utiliza el subjuntivo formal «were» para la hipótesis y lo acompaña con «would + infinitivo» en el resultado: «were / would make»."
+        },
+        {
+          "type": "gap",
+          "text": "If the situation ___ different, I would make another choice. (subjuntivo formal)",
+          "options": ["were", "was", "is"],
+          "answer": "were",
+          "explanation": "En estilo formal, «were» sustituye a «was» para todas las personas en el Second Conditional: «If the situation were different»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "king", "es": "rey" },
+            { "en": "queen", "es": "reina" },
+            { "en": "president", "es": "presidente" },
+            { "en": "govern", "es": "gobernar" },
+            { "en": "decision", "es": "decisión" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct formal sentence about an imaginary king.",
+          "options": ["If he were rich, he would live in a palace.", "If he was rich, he would live in a palace.", "If he were rich, he lives in a palace."],
+          "correct": 0,
+          "hint": "El inglés formal exige «were» para todas las personas.",
+          "explanation": "En el inglés formal y de examen, «were» sustituye a «was» para todas las personas gramaticales en contextos hipotéticos: «If he were rich...»."
+        },
+        {
+          "type": "gap",
+          "text": "If she ___ the queen, she could change the laws.",
+          "options": ["were", "is", "will be"],
+          "answer": "were",
+          "explanation": "La hipótesis formal sobre ser reina requiere «were», seguido del resultado con «could» para expresar capacidad."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "palace", "es": "palacio" },
+            { "en": "queen", "es": "reina" },
+            { "en": "president", "es": "presidente" },
+            { "en": "decision", "es": "decisión" },
+            { "en": "govern", "es": "gobernar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence gives advice using the fixed formula 'If I were you'?",
+          "options": ["If I am you, I would vote for that candidate.", "If I were you, I would vote for that candidate.", "If I was you, I vote for that candidate."],
+          "correct": 1,
+          "hint": "Busca la combinación formal completa: were + would.",
+          "explanation": "«If I were you, I would vote...» es la fórmula fija para dar consejos en Second Conditional, con «were» (no «was») y «would» en el resultado."
+        },
+        {
+          "type": "gap",
+          "text": "If I were you, I ___ make that decision so quickly.",
+          "options": ["wouldn't", "won't", "don't"],
+          "answer": "wouldn't",
+          "explanation": "La negación del resultado en Second Conditional se forma con «wouldn't» + infinitivo, no con «won't» (futuro real) ni «don't» (presente)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si él fuera rey, gobernaría el país",
+          "direction": "es-en",
+          "tiles": ["If", "he", "were", "king", "he", "would", "govern", "the", "country", "was"],
+          "answer": "If he were king, he would govern the country",
+          "explanation": "Subjuntivo formal «were» con tercera persona («he»), seguido de «would govern» en el resultado hipotético."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si yo fuera tú, votaría por ella",
+          "direction": "es-en",
+          "tiles": ["If", "I", "were", "you", "I", "would", "vote", "for", "her", "was"],
+          "answer": "If I were you, I would vote for her",
+          "explanation": "Fórmula fija de consejo: «If I were you, I would vote for her»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Viven en un palacio",
+          "direction": "es-en",
+          "tiles": ["They", "live", "in", "a", "palace", "decision"],
+          "answer": "They live in a palace",
+          "explanation": "Frase descriptiva simple en presente: «They live in a palace», sin estructura condicional."
+        },
+        {
+          "type": "speak",
+          "text": "If he were king, he would govern the country.",
+          "es": "Si él fuera rey, gobernaría el país."
+        },
+        {
+          "type": "speak",
+          "text": "If I were you, I would vote for her.",
+          "es": "Si yo fuera tú, votaría por ella."
+        },
+        {
+          "type": "speak",
+          "text": "If the situation were different, I would make another decision.",
+          "es": "Si la situación fuera diferente, tomaría otra decisión."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Would vs. Could: capacidad hipotética",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "choice", "es": "opción/elección" },
+            { "en": "vote", "es": "votar/voto" },
+            { "en": "support", "es": "apoyar/apoyo" },
+            { "en": "world", "es": "mundo" },
+            { "en": "society", "es": "sociedad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Imagine how different the future ___ if government choices ___ made by citizens directly.",
+          "options": ["would be / were", "will be / were", "would be / are"],
+          "correct": 0,
+          "hint": "Ambas partes deben respetar la correlación del Second Conditional.",
+          "explanation": "Ambas partes respetan la correlación temporal hipotética: «would be» para la consecuencia y «were» (pasado pasivo) para la condición."
+        },
+        {
+          "type": "gap",
+          "text": "If I had a vote, I ___ support that choice.",
+          "options": ["would", "will", "can"],
+          "answer": "would",
+          "explanation": "El resultado hipotético del Second Conditional usa «would» para expresar una intención clara dentro del escenario imaginario."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "vote", "es": "votar/voto" },
+            { "en": "support", "es": "apoyar/apoyo" },
+            { "en": "world", "es": "mundo" },
+            { "en": "society", "es": "sociedad" },
+            { "en": "future", "es": "futuro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence expresses ability/possibility rather than certain intention?",
+          "options": ["If I were president, I would support that charity.", "If we had more time, we could imagine a better future.", "If she were queen, she would change the laws."],
+          "correct": 1,
+          "hint": "«Could» expresa posibilidad, no una intención segura.",
+          "explanation": "«Could» expresa que el resultado imaginario sería posible o que tendríamos la capacidad de hacerlo, a diferencia de «would», que expresa una intención más segura."
+        },
+        {
+          "type": "gap",
+          "text": "If we changed the system, society ___ improve.",
+          "options": ["could", "will", "cans"],
+          "answer": "could",
+          "explanation": "«Could» expresa la posibilidad hipotética de que la sociedad mejorase, sin garantizar el resultado con total certeza."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "choice", "es": "opción/elección" },
+            { "en": "support", "es": "apoyar/apoyo" },
+            { "en": "world", "es": "mundo" },
+            { "en": "future", "es": "futuro" },
+            { "en": "society", "es": "sociedad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence with the correct use of a modal followed by the base form.",
+          "options": ["If they had money, they could to travel.", "If they had money, they can travel.", "If they had money, they could travel."],
+          "correct": 2,
+          "hint": "Los modales van seguidos de infinitivo sin «to».",
+          "explanation": "«Could» es un verbo modal defectivo y debe ir seguido del infinitivo sin la partícula «to»: «could travel», nunca «could to travel»."
+        },
+        {
+          "type": "gap",
+          "text": "If citizens governed the world, the ___ would be different.",
+          "options": ["future", "vote", "choice"],
+          "answer": "future",
+          "explanation": "«Future» es la palabra lógica que completa la idea de un mundo hipotéticamente distinto gobernado por los ciudadanos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si votáramos, apoyaríamos esa opción",
+          "direction": "es-en",
+          "tiles": ["If", "we", "voted", "we", "would", "support", "that", "choice", "vote"],
+          "answer": "If we voted, we would support that choice",
+          "explanation": "«Voted» (Past Simple) en la condición y «would support» en el resultado hipotético."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Podríamos imaginar un futuro mejor",
+          "direction": "es-en",
+          "tiles": ["We", "could", "imagine", "a", "better", "future", "would"],
+          "answer": "We could imagine a better future",
+          "explanation": "«Could» expresa la capacidad hipotética de imaginar un futuro distinto, sin garantizar el resultado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La sociedad y el mundo cambiarían",
+          "direction": "es-en",
+          "tiles": ["Society", "and", "the", "world", "would", "change", "could"],
+          "answer": "Society and the world would change",
+          "explanation": "«Would change» expresa la consecuencia hipotética segura de una situación imaginaria."
+        },
+        {
+          "type": "speak",
+          "text": "If we voted, we would support that choice.",
+          "es": "Si votáramos, apoyaríamos esa opción."
+        },
+        {
+          "type": "speak",
+          "text": "We could imagine a better future.",
+          "es": "Podríamos imaginar un futuro mejor."
+        },
+        {
+          "type": "speak",
+          "text": "Society and the world would change.",
+          "es": "La sociedad y el mundo cambiarían."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Imaginemos otra vida: repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "would", "es": "(auxiliar condicional)" },
+            { "en": "could", "es": "podría/pude" },
+            { "en": "imagine", "es": "imaginar" },
+            { "en": "situation", "es": "situación" },
+            { "en": "impossible", "es": "imposible" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We ___ travel around the world if we ___ a big boat.",
+          "options": ["can / owned", "could / owned", "would / own"],
+          "correct": 1,
+          "hint": "El modal expresa capacidad hipotética; la condición va en pasado.",
+          "explanation": "«Could» expresa la capacidad hipotética en la consecuencia y «owned» (Past Simple) es la forma correcta para la condición del Second Conditional."
+        },
+        {
+          "type": "gap",
+          "text": "It would be ___ to travel to every country in the world. (imposible)",
+          "options": ["impossible", "possible", "would"],
+          "answer": "impossible",
+          "explanation": "«Impossible» describe algo que no se puede hacer en la realidad, encajando con el tono hipotético del Second Conditional."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "could", "es": "podría/pude" },
+            { "en": "imagine", "es": "imaginar" },
+            { "en": "situation", "es": "situación" },
+            { "en": "impossible", "es": "imposible" },
+            { "en": "travel", "es": "viajar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly imagines an impossible situation?",
+          "options": ["It is impossible to live without rules, but if we live in a perfect world, we won't need them.", "It is impossible to live without rules, but if we will live in a perfect world, we wouldn't need them.", "It is impossible to live without rules, but if we lived in a perfect world, we wouldn't need them."],
+          "correct": 2,
+          "hint": "Busca pasado en la condición y would en el resultado.",
+          "explanation": "La condición imaginaria e improbable exige Past Simple («lived») combinado con «wouldn't» en el resultado. Las otras opciones mezclan mal los tiempos verbales."
+        },
+        {
+          "type": "gap",
+          "text": "If I ___ more free time, I would travel more.",
+          "options": ["had", "have", "will have"],
+          "answer": "had",
+          "explanation": "La condición del Second Conditional siempre va en Past Simple: «had», aunque hablemos de una situación presente o futura hipotética."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "would", "es": "(auxiliar condicional)" },
+            { "en": "imagine", "es": "imaginar" },
+            { "en": "situation", "es": "situación" },
+            { "en": "travel", "es": "viajar" },
+            { "en": "impossible", "es": "imposible" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that correctly uses 'imagine' to introduce a hypothetical situation.",
+          "options": ["Imagine a situation where you didn't have to work.", "Imagine a situation where you don't have to work.", "Imagine a situation where you won't have to work."],
+          "correct": 0,
+          "hint": "El escenario hipotético requiere pasado tras «imagine».",
+          "explanation": "«Imagine» introduce escenarios hipotéticos que se describen con Past Simple, igual que la condición de un Second Conditional: «where you didn't have to work»."
+        },
+        {
+          "type": "gap",
+          "text": "Imagine a ___ where everyone had enough money. (situación)",
+          "options": ["situation", "choice", "future"],
+          "answer": "situation",
+          "explanation": "«Situation» es la palabra que introduce el escenario hipotético que sigue a «imagine»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Podríamos viajar por el mundo",
+          "direction": "es-en",
+          "tiles": ["We", "could", "travel", "around", "the", "world", "would"],
+          "answer": "We could travel around the world",
+          "explanation": "«Could travel» expresa la capacidad hipotética de viajar, resultado típico del Second Conditional."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Imagina una situación imposible",
+          "direction": "es-en",
+          "tiles": ["Imagine", "an", "impossible", "situation", "possible"],
+          "answer": "Imagine an impossible situation",
+          "explanation": "Imperativo «Imagine» + objeto: «an impossible situation», con el adjetivo «impossible» antes del sustantivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Sería imposible sin normas",
+          "direction": "es-en",
+          "tiles": ["It", "would", "be", "impossible", "without", "rules", "could"],
+          "answer": "It would be impossible without rules",
+          "explanation": "«Would be» expresa la consecuencia hipotética: «It would be impossible without rules»."
+        },
+        {
+          "type": "speak",
+          "text": "We could travel around the world.",
+          "es": "Podríamos viajar por el mundo."
+        },
+        {
+          "type": "speak",
+          "text": "Imagine an impossible situation.",
+          "es": "Imagina una situación imposible."
+        },
+        {
+          "type": "speak",
+          "text": "It would be impossible without rules.",
+          "es": "Sería imposible sin normas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod05",
+  "module": 5,
+  "title": "Be Used To & Get Used To",
+  "subtitle": "Be Used To y Get Used To",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Be used to: estado de familiaridad + gerundio",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "adapt", "es": "adaptarse" },
+            { "en": "adjust", "es": "ajustarse / acomodarse" },
+            { "en": "habituate", "es": "habituarse" },
+            { "en": "custom", "es": "costumbre / aduana" },
+            { "en": "strange", "es": "extraño" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "As a doctor, she ___ working long shifts and sleeping very little.",
+          "options": ["is used to", "used to", "gets used"],
+          "correct": 0,
+          "hint": "Es un estado actual, seguido de gerundio.",
+          "explanation": "«Is used to» + gerundio («working») describe el estado actual de familiaridad. «Used to» exigiría infinitivo («work») y «gets used» le falta la preposición «to»."
+        },
+        {
+          "type": "gap",
+          "text": "She is used to this ___ now; it doesn't bother her.",
+          "options": ["custom", "adapt", "habituate"],
+          "answer": "custom",
+          "explanation": "Tras «be used to» puede ir directamente un sustantivo, como «custom» (costumbre)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "adjust", "es": "ajustarse / acomodarse" },
+            { "en": "habituate", "es": "habituarse" },
+            { "en": "custom", "es": "costumbre / aduana" },
+            { "en": "strange", "es": "extraño" },
+            { "en": "weird", "es": "raro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Don't worry about the traffic; you will soon get used to ___ on the left side of the road.",
+          "options": ["drive", "driving", "to drive"],
+          "correct": 1,
+          "hint": "El «to» de esta estructura es preposición, no marca de infinitivo.",
+          "explanation": "Tras el «to» preposicional de estas estructuras va gerundio: «driving». «Drive» es infinitivo y «to drive» duplica la partícula «to»."
+        },
+        {
+          "type": "gap",
+          "text": "I am used to ___ early for work.",
+          "options": ["wake up", "waking up", "woke up"],
+          "answer": "waking up",
+          "explanation": "Tras «be used to» el verbo va siempre en gerundio, nunca en infinitivo ni en pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "adapt", "es": "adaptarse" },
+            { "en": "custom", "es": "costumbre / aduana" },
+            { "en": "strange", "es": "extraño" },
+            { "en": "weird", "es": "raro" },
+            { "en": "adjust", "es": "ajustarse / acomodarse" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["I am used to adjust to new places.", "I am used to adjusted to new places.", "I am used to adjusting to new places."],
+          "correct": 2,
+          "hint": "El verbo tras «be used to» necesita el sufijo -ing.",
+          "explanation": "«Adjusting» es el gerundio correcto. «Adjust» es infinitivo y «adjusted» es pasado; ninguno de los dos puede seguir a la preposición «to» de esta estructura."
+        },
+        {
+          "type": "gap",
+          "text": "This situation doesn't feel ___ to me anymore; I am used to it now.",
+          "options": ["strange", "adapt", "custom"],
+          "answer": "strange",
+          "explanation": "«Strange» (extraño) describe lo que ya no siente porque se ha acostumbrado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estoy acostumbrado a esta costumbre",
+          "direction": "es-en",
+          "tiles": ["I", "am", "used", "to", "this", "custom", "use"],
+          "answer": "I am used to this custom",
+          "explanation": "«Be used to» + sustantivo describe un estado de familiaridad presente: «am used to this custom»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Está acostumbrada a adaptarse rápido",
+          "direction": "es-en",
+          "tiles": ["She", "is", "used", "to", "adapting", "quickly", "adapt"],
+          "answer": "She is used to adapting quickly",
+          "explanation": "El verbo «adapt» debe ir en gerundio tras «be used to»: «adapting»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No es raro para mí ahora",
+          "direction": "es-en",
+          "tiles": ["It", "is", "not", "weird", "to", "me", "now", "weirdly"],
+          "answer": "It is not weird to me now",
+          "explanation": "«Weird» funciona aquí como adjetivo tras «is», sin relación con la estructura «used to»."
+        },
+        {
+          "type": "speak",
+          "text": "I am used to this strange custom now.",
+          "es": "Ahora estoy acostumbrado a esta extraña costumbre."
+        },
+        {
+          "type": "speak",
+          "text": "She is used to adjusting to new places.",
+          "es": "Ella está acostumbrada a adaptarse a lugares nuevos."
+        },
+        {
+          "type": "speak",
+          "text": "You will soon get used to driving on the left.",
+          "es": "Pronto te acostumbrarás a conducir por la izquierda."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Get used to: el proceso de adaptación",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "normal", "es": "normal" },
+            { "en": "common", "es": "común" },
+            { "en": "dynamic", "es": "dinámico" },
+            { "en": "move", "es": "mudarse / moverse" },
+            { "en": "country", "es": "país" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When I first moved to London, I couldn't ___ the cold and wet climate.",
+          "options": ["get used to", "used to", "be used to"],
+          "correct": 0,
+          "hint": "Es una lucha con el proceso, no un estado ya logrado.",
+          "explanation": "«Couldn't get used to» describe la dificultad del proceso de adaptación. «Used to» exigiría infinitivo, y «be used to» indicaría un estado ya logrado, lo cual contradice «couldn't»."
+        },
+        {
+          "type": "gap",
+          "text": "When we ___ to a new country, everything feels strange at first.",
+          "options": ["move", "moves", "moving"],
+          "answer": "move",
+          "explanation": "Presente simple genérico: «we move» concuerda con el sujeto plural."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "common", "es": "común" },
+            { "en": "dynamic", "es": "dinámico" },
+            { "en": "move", "es": "mudarse / moverse" },
+            { "en": "country", "es": "país" },
+            { "en": "culture", "es": "cultura" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence best describes the PROCESS of adapting to a new culture (not yet complete)?",
+          "options": ["I am used to this culture now.", "I am getting used to this culture.", "I used to like this culture."],
+          "correct": 1,
+          "hint": "El proceso está en marcha, no ha terminado.",
+          "explanation": "«Getting used to» resalta un proceso en curso, todavía sin terminar. «Am used to» sería un estado ya completado y «used to like» habla de un gusto pasado que ya no existe."
+        },
+        {
+          "type": "gap",
+          "text": "It's a ___ custom in this country, but it was weird for me at first.",
+          "options": ["common", "get", "adapt"],
+          "answer": "common",
+          "explanation": "«Common» (común) describe algo habitual dentro de esa cultura."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "normal", "es": "normal" },
+            { "en": "dynamic", "es": "dinámico" },
+            { "en": "move", "es": "mudarse / moverse" },
+            { "en": "country", "es": "país" },
+            { "en": "culture", "es": "cultura" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "It was a weird custom for us, but we eventually ___ it.",
+          "options": ["were used to", "used to", "got used to"],
+          "correct": 2,
+          "hint": "«Eventually» marca el final de un proceso.",
+          "explanation": "«Eventually» (con el tiempo) es un adverbio de proceso, así que corresponde «got used to». «Were used to» describiría un estado pasivo pasado y «used to» solo no acepta el pronombre «it» directamente."
+        },
+        {
+          "type": "gap",
+          "text": "This city is very ___; things change fast here.",
+          "options": ["dynamic", "common", "move"],
+          "answer": "dynamic",
+          "explanation": "«Dynamic» describe una ciudad de ritmo cambiante y activo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos estamos acostumbrando a esta cultura",
+          "direction": "es-en",
+          "tiles": ["We", "are", "getting", "used", "to", "this", "culture", "get"],
+          "answer": "We are getting used to this culture",
+          "explanation": "«Are getting used to» describe el proceso de adaptación en curso, en presente continuo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella se mudó a un país nuevo",
+          "direction": "es-en",
+          "tiles": ["She", "moved", "to", "a", "new", "country", "move"],
+          "answer": "She moved to a new country",
+          "explanation": "«Moved» en pasado simple describe el hecho puntual de la mudanza."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Con el tiempo, nos acostumbramos",
+          "direction": "es-en",
+          "tiles": ["Eventually", "we", "got", "used", "to", "it", "get"],
+          "answer": "Eventually, we got used to it",
+          "explanation": "«Got used to» en pasado simple describe el proceso de adaptación ya completado."
+        },
+        {
+          "type": "speak",
+          "text": "We are getting used to this dynamic country.",
+          "es": "Nos estamos acostumbrando a este país tan dinámico."
+        },
+        {
+          "type": "speak",
+          "text": "It was a common custom, but it felt weird at first.",
+          "es": "Era una costumbre común, pero al principio nos resultó rara."
+        },
+        {
+          "type": "speak",
+          "text": "Eventually, we got used to the new culture.",
+          "es": "Con el tiempo, nos acostumbramos a la nueva cultura."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Conjugando be/get used to en todos los tiempos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "language", "es": "idioma / lenguaje" },
+            { "en": "climate", "es": "clima" },
+            { "en": "food", "es": "comida" },
+            { "en": "schedule", "es": "horario / agenda" },
+            { "en": "traffic", "es": "tráfico" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I have just moved to this neighborhood, so I am still ___ the noise of the trains.",
+          "options": ["getting used to", "used to", "got used to"],
+          "correct": 0,
+          "hint": "«Still» + «have just moved» indican un proceso en marcha ahora mismo.",
+          "explanation": "«Still» junto con «have just moved» señalan un proceso de adaptación que sigue activo en el presente: «am still getting used to»."
+        },
+        {
+          "type": "gap",
+          "text": "It took a few months, but we finally ___ used to the busy traffic.",
+          "options": ["got", "were", "are"],
+          "answer": "got",
+          "explanation": "«Finally» indica el final de un proceso, así que corresponde «got used to» en pasado simple."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "climate", "es": "clima" },
+            { "en": "food", "es": "comida" },
+            { "en": "schedule", "es": "horario / agenda" },
+            { "en": "traffic", "es": "tráfico" },
+            { "en": "city", "es": "ciudad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence correctly conjugated in the future.",
+          "options": ["You used to be used to the routine.", "You will be used to the routine soon.", "You are get used to the routine soon."],
+          "correct": 1,
+          "hint": "El futuro necesita el auxiliar «will» antes de «be».",
+          "explanation": "«Will be used to» es la conjugación correcta en futuro. Las otras dos combinan mal los auxiliares y el verbo «be»."
+        },
+        {
+          "type": "gap",
+          "text": "He has already ___ used to the local food.",
+          "options": ["gotten", "get", "getting"],
+          "answer": "gotten",
+          "explanation": "El present perfect de «get» es «gotten» (o «got»), seguido de «used to»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "language", "es": "idioma / lenguaje" },
+            { "en": "food", "es": "comida" },
+            { "en": "schedule", "es": "horario / agenda" },
+            { "en": "city", "es": "ciudad" },
+            { "en": "traffic", "es": "tráfico" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which modal sentence is correctly formed?",
+          "options": ["I can't used to this keyboard.", "I can't get used this keyboard.", "I can't get used to this keyboard."],
+          "correct": 2,
+          "hint": "Tras un modal va el verbo base «get», y no falta la preposición.",
+          "explanation": "Tras el modal «can't» va el verbo base «get», seguido de «used to»: «can't get used to». A las otras dos les falta «get» o la preposición «to»."
+        },
+        {
+          "type": "gap",
+          "text": "You must ___ used to the new schedule soon.",
+          "options": ["be", "is", "being"],
+          "answer": "be",
+          "explanation": "Tras el modal «must» va el infinitivo sin «to»: «must be used to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella se está acostumbrando al nuevo idioma",
+          "direction": "es-en",
+          "tiles": ["She", "is", "getting", "used", "to", "the", "new", "language", "gets"],
+          "answer": "She is getting used to the new language",
+          "explanation": "Presente continuo de «get used to»: «is getting used to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos hemos acostumbrado a la comida local",
+          "direction": "es-en",
+          "tiles": ["We", "have", "gotten", "used", "to", "the", "local", "food", "get"],
+          "answer": "We have gotten used to the local food",
+          "explanation": "Present perfect de «get used to»: «have gotten used to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Pronto te acostumbrarás al horario",
+          "direction": "es-en",
+          "tiles": ["You", "will", "get", "used", "to", "the", "schedule", "soon", "are"],
+          "answer": "You will get used to the schedule soon",
+          "explanation": "Futuro con «will»: «will get used to»."
+        },
+        {
+          "type": "speak",
+          "text": "I have gotten used to the local food and the climate.",
+          "es": "Me he acostumbrado a la comida local y al clima."
+        },
+        {
+          "type": "speak",
+          "text": "You will soon get used to the traffic in this city.",
+          "es": "Pronto te acostumbrarás al tráfico de esta ciudad."
+        },
+        {
+          "type": "speak",
+          "text": "She is still getting used to the new language.",
+          "es": "Ella todavía se está acostumbrando al nuevo idioma."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Contextos prácticos: mudanzas y trabajo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "neighborhood", "es": "vecindario / barrio" },
+            { "en": "flat", "es": "piso / apartamento" },
+            { "en": "house", "es": "casa" },
+            { "en": "job", "es": "trabajo" },
+            { "en": "colleague", "es": "colega / compañero" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence uses the THREE-WAY contrast correctly?",
+          "options": ["I used to living in a house, but now I am used to live in a flat.", "I used to live in a house, but now I am used to living in a flat.", "I use to live in a house, but now I get used living in a flat."],
+          "correct": 1,
+          "hint": "Una parte lleva infinitivo (hábito pasado) y la otra gerundio (estado actual).",
+          "explanation": "«Used to live» (hábito pasado + infinitivo) frente a «am used to living» (estado actual + gerundio) es la combinación correcta. Las otras dos mezclan mal infinitivo y gerundio."
+        },
+        {
+          "type": "gap",
+          "text": "She is used to her new ___; her colleagues are very friendly.",
+          "options": ["job", "boss", "house"],
+          "answer": "job",
+          "explanation": "Tras «be used to» puede ir directamente el sustantivo «job» (trabajo)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "flat", "es": "piso / apartamento" },
+            { "en": "house", "es": "casa" },
+            { "en": "job", "es": "trabajo" },
+            { "en": "colleague", "es": "colega / compañero" },
+            { "en": "boss", "es": "jefe" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about a demanding boss.",
+          "options": ["He has gotten used to his boss's demanding schedule.", "He has getting used to his boss's demanding schedule.", "He has get used to his boss's demanding schedule."],
+          "correct": 0,
+          "hint": "El present perfect de «get» no es «getting» ni «get».",
+          "explanation": "El present perfect de «get» es «gotten»: «has gotten used to». Las otras dos formas verbales son incorrectas."
+        },
+        {
+          "type": "gap",
+          "text": "My new ___ is friendly, and I am getting used to working with her.",
+          "options": ["colleague", "flat", "neighborhood"],
+          "answer": "colleague",
+          "explanation": "«Colleague» (colega) es la persona con la que se trabaja."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "neighborhood", "es": "vecindario / barrio" },
+            { "en": "house", "es": "casa" },
+            { "en": "job", "es": "trabajo" },
+            { "en": "colleague", "es": "colega / compañero" },
+            { "en": "boss", "es": "jefe" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly uses 'be used to' with a noun (not a gerund)?",
+          "options": ["She is used to work with her boss.", "She is used to working with her boss.", "She is used to her boss."],
+          "correct": 2,
+          "hint": "Se pide la construcción sin verbo, solo con sustantivo.",
+          "explanation": "«Her boss» es un sustantivo directo tras «be used to»: no requiere gerundio porque no hay verbo. La primera opción usa un infinitivo incorrecto."
+        },
+        {
+          "type": "gap",
+          "text": "When Sarah moved to the new flat, everything in the ___ felt strange at first.",
+          "options": ["neighborhood", "colleague", "boss"],
+          "answer": "neighborhood",
+          "explanation": "«Neighborhood» (barrio) es el entorno que le resultaba extraño al principio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me estoy acostumbrando a mi nuevo piso",
+          "direction": "es-en",
+          "tiles": ["I", "am", "getting", "used", "to", "my", "new", "flat", "get"],
+          "answer": "I am getting used to my new flat",
+          "explanation": "Presente continuo de «get used to»: «am getting used to my new flat»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Está acostumbrada a su jefe exigente",
+          "direction": "es-en",
+          "tiles": ["She", "is", "used", "to", "her", "demanding", "boss", "use"],
+          "answer": "She is used to her demanding boss",
+          "explanation": "«Be used to» + sustantivo describe un estado de familiaridad presente."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos hemos acostumbrado a nuestros nuevos colegas",
+          "direction": "es-en",
+          "tiles": ["We", "have", "gotten", "used", "to", "our", "new", "colleagues", "get"],
+          "answer": "We have gotten used to our new colleagues",
+          "explanation": "Present perfect de «get used to»: «have gotten used to»."
+        },
+        {
+          "type": "speak",
+          "text": "I used to live in a house, but now I am used to living in a flat.",
+          "es": "Antes vivía en una casa, pero ahora estoy acostumbrado a vivir en un piso."
+        },
+        {
+          "type": "speak",
+          "text": "She has gotten used to her boss's demanding schedule.",
+          "es": "Ella se ha acostumbrado al exigente horario de su jefe."
+        },
+        {
+          "type": "speak",
+          "text": "My new neighborhood felt strange at first, but I am used to it now.",
+          "es": "Mi nuevo barrio me pareció extraño al principio, pero ahora estoy acostumbrado."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Errores comunes y el triple contraste final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "commute", "es": "trayecto al trabajo" },
+            { "en": "stress", "es": "estrés" },
+            { "en": "routine", "es": "rutina" },
+            { "en": "challenge", "es": "desafío" },
+            { "en": "improve", "es": "mejorar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I am getting used to my new job because it is normal now.", "I am get used to my new job because it is normal now.", "I am used to my new job because it is normal now."],
+          "correct": 2,
+          "hint": "Si el trabajo ya es «normal», la adaptación ha terminado.",
+          "explanation": "Si el trabajo ya es «normal», la adaptación ha terminado: se usa el estado «am used to», no el proceso «am getting used to»."
+        },
+        {
+          "type": "gap",
+          "text": "She couldn't get used to ___ in the dynamic city.",
+          "options": ["drive", "driving", "drove"],
+          "answer": "driving",
+          "explanation": "Tras «get used to» el verbo debe ir en gerundio: «driving»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "stress", "es": "estrés" },
+            { "en": "routine", "es": "rutina" },
+            { "en": "challenge", "es": "desafío" },
+            { "en": "improve", "es": "mejorar" },
+            { "en": "succeed", "es": "tener éxito" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly completes the future with an auxiliary verb?",
+          "options": ["We used to the new schedule soon.", "We will get used to the new schedule soon.", "We get used the new schedule soon."],
+          "correct": 1,
+          "hint": "Falta un auxiliar de futuro antes de «get».",
+          "explanation": "Falta el auxiliar «will get» para el futuro. «Used to» solo no se conjuga con «will», y a la tercera opción le falta la preposición «to»."
+        },
+        {
+          "type": "gap",
+          "text": "This new ___ is difficult, but I know I will improve with practice.",
+          "options": ["challenge", "commute", "stress"],
+          "answer": "challenge",
+          "explanation": "«Challenge» (desafío) es lo que se supera mejorando con la práctica."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir",
+          "pairs": [
+            { "en": "commute", "es": "trayecto al trabajo" },
+            { "en": "routine", "es": "rutina" },
+            { "en": "challenge", "es": "desafío" },
+            { "en": "improve", "es": "mejorar" },
+            { "en": "succeed", "es": "tener éxito" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that best summarizes the THREE structures studied in this module.",
+          "options": ["I used to work far away; now I am used to this commute, and I am getting used to the new stress.", "I would used to work far away; now I am used to this commute, and I getting used to the new stress.", "I used to working far away; now I be used to this commute, and I am get used to the new stress."],
+          "correct": 0,
+          "hint": "Solo una opción usa correctamente infinitivo, sustantivo y gerundio en su lugar.",
+          "explanation": "«Used to work» (hábito pasado + infinitivo), «am used to this commute» (estado + sustantivo) y «am getting used to» (proceso + gerundio) son las tres formas correctas. Las otras opciones mezclan mal las estructuras."
+        },
+        {
+          "type": "gap",
+          "text": "With practice and a good ___, she managed to succeed in her career.",
+          "options": ["routine", "commute", "challenge"],
+          "answer": "routine",
+          "explanation": "«Routine» (rutina) es lo que ayudó a mejorar y tener éxito."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Al final, tuvo éxito y mejoró mucho",
+          "direction": "es-en",
+          "tiles": ["Eventually", "she", "succeeded", "and", "improved", "a", "lot", "succeed"],
+          "answer": "Eventually, she succeeded and improved a lot",
+          "explanation": "«Succeeded» e «improved» en pasado simple describen logros ya completados."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me estoy acostumbrando al estrés de este trayecto",
+          "direction": "es-en",
+          "tiles": ["I", "am", "getting", "used", "to", "the", "stress", "of", "this", "commute", "get"],
+          "answer": "I am getting used to the stress of this commute",
+          "explanation": "«Am getting used to» describe el proceso de adaptación en curso al estrés del trayecto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este desafío ya es normal para mí",
+          "direction": "es-en",
+          "tiles": ["This", "challenge", "is", "already", "normal", "for", "me", "challenges"],
+          "answer": "This challenge is already normal for me",
+          "explanation": "Cuando algo ya es «normal», la adaptación ha terminado: es un estado, no un proceso."
+        },
+        {
+          "type": "speak",
+          "text": "I am used to this stressful commute now.",
+          "es": "Ya estoy acostumbrado a este trayecto tan estresante."
+        },
+        {
+          "type": "speak",
+          "text": "She got used to the new routine and eventually succeeded.",
+          "es": "Ella se acostumbró a la nueva rutina y con el tiempo tuvo éxito."
+        },
+        {
+          "type": "speak",
+          "text": "This challenge is difficult, but I am improving every day.",
+          "es": "Este desafío es difícil, pero mejoro cada día."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod11",
+  "module": 11,
+  "title": "Conditional Alternatives",
+  "subtitle": "Alternativas Condicionales",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "As long as y Provided that: condiciones indispensables",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "agreement", "es": "acuerdo" },
+            { "en": "policy", "es": "política/norma" },
+            { "en": "security", "es": "seguridad" },
+            { "en": "insurance", "es": "seguro" },
+            { "en": "as long as", "es": "siempre y cuando" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You are negotiating a deal. You will only accept it if the other side guarantees the delivery date. Which sentence correctly expresses this?",
+          "options": ["We will agree to the terms as long as they will guarantee the delivery date.", "We will agree to the terms unless they guarantee the delivery date.", "We will agree to the terms as long as they guarantee the delivery date."],
+          "correct": 2,
+          "hint": "Tras «as long as» nunca se usa «will» para el futuro.",
+          "explanation": "«As long as» exige Present Simple para referirse al futuro («guarantee»), nunca «will guarantee». «Unless» además invertiría el sentido lógico de la condición."
+        },
+        {
+          "type": "gap",
+          "text": "You can stay here ___ you follow the policy.",
+          "options": ["as long as", "unless", "in case"],
+          "answer": "as long as",
+          "explanation": "«As long as» (siempre y cuando) expresa una condición indispensable: solo puedes quedarte si sigues la norma."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "policy", "es": "política/norma" },
+            { "en": "security", "es": "seguridad" },
+            { "en": "insurance", "es": "seguro" },
+            { "en": "as long as", "es": "siempre y cuando" },
+            { "en": "provided that", "es": "con la condición de que" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We will only agree to the terms if the other company guarantees security. Which sentence expresses this correctly?",
+          "options": ["We will accept the terms of the agreement as long as they guarantee security.", "We will accept the terms of the agreement unless they guarantee security.", "We will accept the terms of the agreement in case they guarantee security."],
+          "correct": 0,
+          "hint": "Busca el conector que expresa una condición indispensable para el acuerdo.",
+          "explanation": "«As long as» (siempre y cuando) establece la condición necesaria para aceptar los términos. «Unless» invertiría el sentido lógico y «in case» implicaría que aceptamos ahora como precaución ante una garantía futura."
+        },
+        {
+          "type": "gap",
+          "text": "Provided ___ the budget is approved, we will hire a new manager.",
+          "options": ["that", "if", "unless"],
+          "answer": "that",
+          "explanation": "«Provided that» es la fórmula formal («con la condición de que»); «that» es opcional pero muy habitual en contratos, y es la única opción coherente aquí."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "agreement", "es": "acuerdo" },
+            { "en": "security", "es": "seguridad" },
+            { "en": "as long as", "es": "siempre y cuando" },
+            { "en": "provided that", "es": "con la condición de que" },
+            { "en": "insurance", "es": "seguro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your insurance company will only pay for damage if you have paid your premiums. Which sentence expresses this indispensable condition?",
+          "options": ["The insurance will pay for damage in case you have paid your premiums.", "The insurance will pay for damage provided that you have paid your premiums.", "The insurance will pay for damage unless you have paid your premiums."],
+          "correct": 1,
+          "hint": "Busca el conector que expresa una condición estricta y necesaria, típico en contratos de seguros.",
+          "explanation": "«Provided that» expresa una condición indispensable, ideal para el lenguaje de seguros y contratos. «In case» sería una precaución que no encaja aquí y «unless» invertiría por completo el sentido de la frase."
+        },
+        {
+          "type": "gap",
+          "text": "We will sign the agreement ___ the terms are fair.",
+          "options": ["provided that", "in case", "unless"],
+          "answer": "provided that",
+          "explanation": "«Provided that» (con la condición de que) expresa la condición indispensable para firmar el acuerdo. «In case» sería una precaución y «unless» invertiría el sentido lógico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una buena política",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "good", "policy", "insurance"],
+          "answer": "It is a good policy",
+          "explanation": "«Policy» es «política/norma» en el contexto de negocios o seguros: «a good policy» (una buena política)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesitamos un seguro",
+          "direction": "es-en",
+          "tiles": ["We", "need", "insurance", "security", "policy"],
+          "answer": "We need insurance",
+          "explanation": "«Insurance» es «seguro» (el producto financiero). «Security» es «seguridad» en general y «policy» es «norma»; ambos son distractores semánticamente cercanos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Puedes quedarte siempre y cuando pagues",
+          "direction": "es-en",
+          "tiles": ["You", "can", "stay", "as", "long", "as", "you", "pay", "unless"],
+          "answer": "You can stay as long as you pay",
+          "explanation": "«As long as» (siempre y cuando) es una locución de tres palabras que funciona como un único conector condicional. Nota que «as» aparece dos veces en la estructura fija."
+        },
+        {
+          "type": "speak",
+          "text": "We will agree to the terms as long as they guarantee the delivery date.",
+          "es": "Aceptaremos los términos siempre y cuando garanticen la fecha de entrega."
+        },
+        {
+          "type": "speak",
+          "text": "Provided that the budget is approved, we will hire a new manager.",
+          "es": "Con la condición de que se apruebe el presupuesto, contrataremos a un nuevo gerente."
+        },
+        {
+          "type": "speak",
+          "text": "We will sign the agreement provided that the terms are fair.",
+          "es": "Firmaremos el acuerdo con la condición de que los términos sean justos."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Assuming that: premisas y verificación legal",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "assuming that", "es": "asumiendo que" },
+            { "en": "check", "es": "comprobar/cheque" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "sign", "es": "firmar/señal" },
+            { "en": "legal", "es": "legal" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to state that if the signature turns out to be valid, the contract becomes active. Which sentence correctly expresses this premise?",
+          "options": ["Assuming that the signature is legal, the contract is now active.", "Assuming that the signature will be legal, the contract is now active.", "Assuming that the signature is legal, the contract will now active."],
+          "correct": 0,
+          "hint": "Ningún «will» debe seguir a «assuming that», y la cláusula principal necesita un verbo completo.",
+          "explanation": "«Assuming that» exige Present Simple («is legal»), nunca «will be». La tercera opción además rompe la gramática de la cláusula principal al omitir el verbo «be» (haría falta «will be active»)."
+        },
+        {
+          "type": "gap",
+          "text": "___ that you sign the document, we will proceed.",
+          "options": ["Assuming", "Assume", "Assumed"],
+          "answer": "Assuming",
+          "explanation": "La forma fija es «assuming that» (gerundio), no «assume that» (imperativo) ni «assumed that» (pasado)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "check", "es": "comprobar/cheque" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "sign", "es": "firmar/señal" },
+            { "en": "legal", "es": "legal" },
+            { "en": "illegal", "es": "ilegal" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If it turns out that the document is legal, you are entitled to allow people to enter. Which word correctly starts this sentence: '___ that the document is legal, you have the right to permit entry'?",
+          "options": ["Unless", "Assuming", "In case"],
+          "correct": 1,
+          "hint": "Busca la palabra que introduce una premisa aceptada como cierta, no una condición negativa ni una precaución.",
+          "explanation": "«Assuming that» (asumiendo que) establece la premisa aceptada bajo la cual se concede el derecho. «Unless» exigiría justo lo contrario y «in case» no se usa para introducir premisas de este tipo."
+        },
+        {
+          "type": "gap",
+          "text": "Assuming that everyone has ___ the document, we can proceed with the meeting.",
+          "options": ["checked", "check", "checking"],
+          "answer": "checked",
+          "explanation": "Tras «has» se necesita el participio «checked», formando el Present Perfect: «has checked»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "assuming that", "es": "asumiendo que" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "legal", "es": "legal" },
+            { "en": "illegal", "es": "ilegal" },
+            { "en": "sign", "es": "firmar/señal" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The police found out the driver had no documents at all. Which sentence describes this situation?",
+          "options": ["Driving without documents is legal.", "Driving without documents is a legal.", "Driving without documents is illegal."],
+          "correct": 2,
+          "hint": "Piensa en qué adjetivo describe una acción prohibida por la ley.",
+          "explanation": "«Illegal» (ilegal) describe una acción prohibida por la ley, como conducir sin documentos. «Legal» sería lo contrario, y la segunda opción usa mal el artículo «a» delante de un adjetivo."
+        },
+        {
+          "type": "gap",
+          "text": "You must ___ the signature before accepting the contract.",
+          "options": ["verify", "verifying", "verified"],
+          "answer": "verify",
+          "explanation": "Tras el modal «must» se usa siempre la forma base del verbo: «must verify», sin -ing ni -ed."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Debemos comprobarlo",
+          "direction": "es-en",
+          "tiles": ["We", "must", "check", "it", "verify", "legal"],
+          "answer": "We must check it",
+          "explanation": "«Check» (comprobar) es el verbo adecuado tras el modal «must». «Verify» es sinónimo pero aquí es un distractor, y «legal» es un adjetivo, no un verbo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es legal firmarlo",
+          "direction": "es-en",
+          "tiles": ["It", "is", "legal", "to", "sign", "it", "illegal"],
+          "answer": "It is legal to sign it",
+          "explanation": "«It is legal to + infinitivo» es la estructura para valorar si una acción está permitida por la ley. «Illegal» es el distractor antónimo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Asumiendo que firmes, comprobaremos",
+          "direction": "es-en",
+          "tiles": ["Assuming", "that", "you", "sign", "we", "will", "check", "verify"],
+          "answer": "Assuming that you sign, we will check",
+          "explanation": "«Assuming that» + Present Simple («you sign») introduce la premisa; la cláusula principal usa «will» con normalidad porque no es la cláusula condicional en sí."
+        },
+        {
+          "type": "speak",
+          "text": "Assuming that the signature is legal, the contract is now active.",
+          "es": "Asumiendo que la firma es legal, el contrato ya está activo."
+        },
+        {
+          "type": "speak",
+          "text": "You must verify the signature before accepting the contract.",
+          "es": "Debes verificar la firma antes de aceptar el contrato."
+        },
+        {
+          "type": "speak",
+          "text": "Driving without documents is illegal.",
+          "es": "Conducir sin documentos es ilegal."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Cláusulas y garantías: repaso de condicionales alternativos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "right", "es": "derecho/correcto" },
+            { "en": "duty", "es": "deber/obligación" },
+            { "en": "clause", "es": "cláusula" },
+            { "en": "detail", "es": "detalle" },
+            { "en": "guarantee", "es": "garantía/garantizar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The bank promises to give your money back if the product fails. Which word names this kind of formal promise?",
+          "options": ["a guarantee", "a duty", "a clause"],
+          "correct": 0,
+          "hint": "Es la palabra que se usa para «garantía» en productos y contratos.",
+          "explanation": "«Guarantee» es la garantía o promesa formal de calidad. «Duty» es una obligación/deber y «clause» es una cláusula, un apartado concreto del contrato."
+        },
+        {
+          "type": "gap",
+          "text": "Read every ___ of the contract before you sign it.",
+          "options": ["clause", "term", "right"],
+          "answer": "clause",
+          "explanation": "«Clause» es cada apartado o sección concreta de un contrato. «Term» se refiere más a plazos o condiciones generales, y «right» es un derecho."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "duty", "es": "deber/obligación" },
+            { "en": "clause", "es": "cláusula" },
+            { "en": "detail", "es": "detalle" },
+            { "en": "guarantee", "es": "garantía/garantizar" },
+            { "en": "term", "es": "término/plazo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "As an employee, you are legally required to protect confidential information. Which word best describes this obligation?",
+          "options": ["a right", "a duty", "a detail"],
+          "correct": 1,
+          "hint": "Piensa en la palabra para «deber/obligación», no «derecho».",
+          "explanation": "«Duty» (deber/obligación) describe algo que estás obligado a hacer. «Right» es lo opuesto (un derecho que tienes) y «detail» es un detalle concreto, no una obligación."
+        },
+        {
+          "type": "gap",
+          "text": "We will sign the contract as long as the payment ___ are clear.",
+          "options": ["terms", "details", "clauses"],
+          "answer": "terms",
+          "explanation": "«Terms» (términos/condiciones) es la expresión fija «payment terms» (condiciones de pago). «Details» y «clauses» no forman esa colocación habitual."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "right", "es": "derecho/correcto" },
+            { "en": "clause", "es": "cláusula" },
+            { "en": "guarantee", "es": "garantía/garantizar" },
+            { "en": "term", "es": "término/plazo" },
+            { "en": "duty", "es": "deber/obligación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to check the exact wording of a specific part of the agreement before signing. What should you read?",
+          "options": ["the duty", "the right", "the detail"],
+          "correct": 2,
+          "hint": "Busca la palabra genérica para «detalle», no «obligación» ni «derecho».",
+          "explanation": "«Detail» es «detalle», la información concreta que conviene revisar antes de firmar. «Duty» y «right» no encajan en el contexto de revisar información."
+        },
+        {
+          "type": "gap",
+          "text": "Provided that you respect the ___, you may continue in the program.",
+          "options": ["terms", "details", "duties"],
+          "answer": "terms",
+          "explanation": "«Respect the terms» es la colocación natural para «respetar las condiciones». «Details» y «duties» no encajan igual de bien en este contexto contractual."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Lee cada cláusula",
+          "direction": "es-en",
+          "tiles": ["Read", "every", "clause", "term", "detail"],
+          "answer": "Read every clause",
+          "explanation": "«Clause» es la palabra específica para «cláusula». «Term» y «detail» son distractores del mismo campo semántico legal."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es tu deber",
+          "direction": "es-en",
+          "tiles": ["It", "is", "your", "duty", "right", "guarantee"],
+          "answer": "It is your duty",
+          "explanation": "«Duty» es «deber/obligación». «Right» es su opuesto conceptual (derecho) y «guarantee» es una garantía; ambos son distractores plausibles."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tienes ese derecho",
+          "direction": "es-en",
+          "tiles": ["You", "have", "that", "right", "duty", "clause"],
+          "answer": "You have that right",
+          "explanation": "«Right» es «derecho». «Duty» (deber) es su opuesto conceptual y «clause» (cláusula) es un distractor del mismo campo legal."
+        },
+        {
+          "type": "speak",
+          "text": "Read every clause of the contract before you sign it.",
+          "es": "Lee cada cláusula del contrato antes de firmarlo."
+        },
+        {
+          "type": "speak",
+          "text": "It is your duty to protect confidential information.",
+          "es": "Es tu deber proteger la información confidencial."
+        },
+        {
+          "type": "speak",
+          "text": "We will accept the guarantee as long as the terms are clear.",
+          "es": "Aceptaremos la garantía siempre y cuando los términos sean claros."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Unless y In Case: condición negativa y precaución",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "condition", "es": "condición" },
+            { "en": "unless", "es": "a menos que" },
+            { "en": "in case", "es": "por si acaso" },
+            { "en": "contract", "es": "contrato" },
+            { "en": "protect", "es": "proteger" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to say the deal will be cancelled only if the terms are NOT accepted, without a double negative. Which sentence is correct?",
+          "options": ["Unless you don't accept the terms, we will cancel the deal.", "Unless you accept the terms, we will cancel the deal.", "Unless you won't accept the terms, we will cancel the deal."],
+          "correct": 1,
+          "hint": "«Unless» ya significa «si no», así que el verbo que le sigue debe ser afirmativo.",
+          "explanation": "Como «unless» ya equivale a «si no», la cláusula que lo sigue debe ir en afirmativo: «unless you accept». Añadir «don't» o «won't» crea una doble negación agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "The agreement is invalid ___ you verify all the signatures.",
+          "options": ["unless", "in case", "as long as"],
+          "answer": "unless",
+          "explanation": "«Unless» (a menos que) introduce la única excepción que evita la invalidez del acuerdo: si no verificas las firmas, es inválido."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "in case", "es": "por si acaso" },
+            { "en": "contract", "es": "contrato" },
+            { "en": "protect", "es": "proteger" },
+            { "en": "rule", "es": "regla/norma" },
+            { "en": "unless", "es": "a menos que" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The other party has made it clear: no signature will happen until every clause is checked. Which sentence expresses this?",
+          "options": ["They will not sign the contract unless you verify every clause.", "They will not sign the contract provided that you verify every clause.", "They will not sign the contract in case you verify every clause."],
+          "correct": 0,
+          "hint": "La firma no ocurrirá salvo que se cumpla la condición: busca la palabra que significa «a menos que».",
+          "explanation": "«Unless» funciona como «if you don't verify»: no firmarán a menos que verifiques cada cláusula. «Provided that» sería contradictorio aquí y «in case» no encaja como condición indispensable."
+        },
+        {
+          "type": "gap",
+          "text": "Take the insurance document ___ the police check our car.",
+          "options": ["in case", "unless", "as long as"],
+          "answer": "in case",
+          "explanation": "«In case» (por si acaso) indica una precaución: llevas el documento antes de que ocurra el control, no como consecuencia directa de él."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "condition", "es": "condición" },
+            { "en": "unless", "es": "a menos que" },
+            { "en": "protect", "es": "proteger" },
+            { "en": "rule", "es": "regla/norma" },
+            { "en": "in case", "es": "por si acaso" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You keep a copy of the policy at home, just so you have it ready if you ever need to check the rules. Which sentence correctly expresses this precaution?",
+          "options": ["I will keep a copy of the legal policy unless I need to check the rules later.", "I will keep a copy of the legal policy as long as I need to check the rules later.", "I will keep a copy of the legal policy in case I need to check the rules later."],
+          "correct": 2,
+          "hint": "Es una acción preventiva que se hace ANTES, por si acaso ocurre algo después.",
+          "explanation": "«In case» describe una precaución: guardas la copia ahora, por si necesitas consultarla más adelante. «Unless» y «as long as» no encajan con el matiz de precaución, solo con condiciones indispensables o excepciones."
+        },
+        {
+          "type": "gap",
+          "text": "We will protect the server ___ there is a security breach.",
+          "options": ["in case", "unless", "provided that"],
+          "answer": "in case",
+          "explanation": "«In case» (por si acaso) expresa la precaución de proteger el servidor de antemano, ante la posibilidad de un fallo de seguridad futuro."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A menos que firmes, cancelaremos",
+          "direction": "es-en",
+          "tiles": ["Unless", "you", "sign", "we", "will", "cancel", "don't"],
+          "answer": "Unless you sign, we will cancel",
+          "explanation": "«Unless you sign» va en afirmativo (nunca «don't sign»), porque «unless» ya aporta el significado negativo por sí mismo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Por si acaso llueve",
+          "direction": "es-en",
+          "tiles": ["In", "case", "it", "rains", "unless", "if"],
+          "answer": "In case it rains",
+          "explanation": "«In case» + Present Simple («it rains») expresa una precaución tomada de antemano. «Unless» e «if» cambiarían por completo el significado lógico de la frase."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Protege el contrato",
+          "direction": "es-en",
+          "tiles": ["Protect", "the", "contract", "rule", "condition"],
+          "answer": "Protect the contract",
+          "explanation": "«Protect» es el verbo «proteger», en imperativo aquí. «Rule» y «condition» son distractores nominales del mismo campo semántico legal."
+        },
+        {
+          "type": "speak",
+          "text": "Unless you accept the terms, we will cancel the deal.",
+          "es": "A menos que aceptes los términos, cancelaremos el trato."
+        },
+        {
+          "type": "speak",
+          "text": "Take the insurance document in case the police check our car.",
+          "es": "Lleva el documento del seguro por si la policía revisa nuestro coche."
+        },
+        {
+          "type": "speak",
+          "text": "We will protect the server in case there is a security breach.",
+          "es": "Protegeremos el servidor por si hay una brecha de seguridad."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Permisos, prohibiciones y repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "permit", "es": "permitir" },
+            { "en": "forbid", "es": "prohibir" },
+            { "en": "ban", "es": "prohibir/vetar" },
+            { "en": "disagree", "es": "no estar de acuerdo" },
+            { "en": "agree", "es": "estar de acuerdo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The rules of the building do not allow pets inside. Which sentence correctly describes this restriction?",
+          "options": ["The building forbid pets inside.", "The building forbids pets inside.", "The building is forbidding pets inside since always."],
+          "correct": 1,
+          "hint": "Busca la tercera persona del singular en presente simple, forma correcta y natural.",
+          "explanation": "«Forbid» es un verbo regular en su conjugación de presente: «forbids» en tercera persona. Las otras opciones tienen errores de conjugación o un uso forzado del presente continuo."
+        },
+        {
+          "type": "gap",
+          "text": "Smoking is ___ in this building.",
+          "options": ["forbidden", "forbid", "forbids"],
+          "answer": "forbidden",
+          "explanation": "«Forbidden» es el participio pasado, usado como adjetivo tras «is»: «smoking is forbidden» (está prohibido fumar)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "forbid", "es": "prohibir" },
+            { "en": "ban", "es": "prohibir/vetar" },
+            { "en": "disagree", "es": "no estar de acuerdo" },
+            { "en": "agree", "es": "estar de acuerdo" },
+            { "en": "accept", "es": "aceptar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You completely disagree with your colleague's plan and want to say so clearly. Which sentence is correct?",
+          "options": ["I disagree with your plan.", "I am disagree with your plan.", "I disagree of your plan."],
+          "correct": 0,
+          "hint": "«Disagree» es un verbo normal, no necesita «am» ni una preposición distinta a «with».",
+          "explanation": "«Disagree» es un verbo (no un adjetivo), por lo que no lleva «am» delante: «I disagree with...». La preposición correcta que acompaña a «agree/disagree» es siempre «with»."
+        },
+        {
+          "type": "gap",
+          "text": "We will sign the contract ___ both sides agree on the price.",
+          "options": ["provided that", "unless", "in case"],
+          "answer": "provided that",
+          "explanation": "Repaso: «provided that» expresa la condición indispensable para firmar. «Unless» invertiría el sentido y «in case» sería una precaución, no la condición central."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "permit", "es": "permitir" },
+            { "en": "ban", "es": "prohibir/vetar" },
+            { "en": "agree", "es": "estar de acuerdo" },
+            { "en": "accept", "es": "aceptar" },
+            { "en": "disagree", "es": "no estar de acuerdo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You are not allowed into the office, except if you show your security badge. Which sentence correctly expresses this rule?",
+          "options": ["The company will forbid you from entering the office as long as you show your security badge.", "The company will forbid you from entering the office provided that you show your security badge.", "The company will forbid you from entering the office unless you show your security badge."],
+          "correct": 2,
+          "hint": "La prohibición se mantiene salvo que ocurra la excepción: busca «a menos que».",
+          "explanation": "«Unless» expresa que la prohibición de entrada se mantendrá a menos que muestres la placa. «As long as» y «provided that» convertirían el mostrar la placa en la causa DIRECTA de la prohibición, lo cual es absurdo."
+        },
+        {
+          "type": "gap",
+          "text": "You may ___ access to the room provided they show their ID.",
+          "options": ["permit", "forbid", "ban"],
+          "answer": "permit",
+          "explanation": "«Permit» (permitir) es el verbo adecuado para conceder acceso. «Forbid» y «ban» significan justo lo contrario: prohibir."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estoy de acuerdo",
+          "direction": "es-en",
+          "tiles": ["I", "agree", "disagree", "accept"],
+          "answer": "I agree",
+          "explanation": "«Agree» es «estar de acuerdo». «Disagree» es su antónimo exacto y «accept» es un verbo relacionado pero distinto (aceptar algo, no coincidir en opinión)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No lo permiten",
+          "direction": "es-en",
+          "tiles": ["They", "don't", "permit", "it", "forbid", "ban"],
+          "answer": "They don't permit it",
+          "explanation": "«Permit» + negación («don't permit») equivale a «no permitir». «Forbid» y «ban» ya son negativos por sí mismos y no necesitarían «don't» delante en esta estructura."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Aceptamos el contrato",
+          "direction": "es-en",
+          "tiles": ["We", "accept", "the", "contract", "forbid", "permit"],
+          "answer": "We accept the contract",
+          "explanation": "«Accept» es «aceptar». «Forbid» y «permit» son distractores del mismo campo semántico legal pero con significados distintos."
+        },
+        {
+          "type": "speak",
+          "text": "The building forbids pets inside.",
+          "es": "El edificio prohíbe las mascotas dentro."
+        },
+        {
+          "type": "speak",
+          "text": "I disagree with your plan.",
+          "es": "No estoy de acuerdo con tu plan."
+        },
+        {
+          "type": "speak",
+          "text": "We accept the contract as long as it is legal.",
+          "es": "Aceptamos el contrato siempre y cuando sea legal."
+        }
+      ]
+    }
+  ]
+}

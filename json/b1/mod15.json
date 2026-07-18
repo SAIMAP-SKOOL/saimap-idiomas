@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod15",
+  "module": 15,
+  "title": "Verb Patterns with Meaning Change",
+  "subtitle": "Patrones con Cambio de Significado",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Remember y Forget: mirar atrás o mirar adelante",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "remember", "es": "recordar" },
+            { "en": "forget", "es": "olvidar" },
+            { "en": "stop", "es": "parar / detenerse" },
+            { "en": "try", "es": "intentar / probar" },
+            { "en": "regret", "es": "lamentar / arrepentimiento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I will never forget _______ the Northern Lights during my travel experience last winter.",
+          "options": ["to see", "seeing", "see"],
+          "correct": 1,
+          "hint": "Piensa si el recuerdo va antes o después de la acción.",
+          "explanation": "«Forget seeing» se refiere a olvidar una experiencia que ya ocurrió: primero viste la aurora boreal, y ahora tienes ese recuerdo. «Forget to see» significaría olvidar una tarea pendiente."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ starting therapy last year. (recuerdo una experiencia pasada)",
+          "options": ["remember", "remember to", "remembers"],
+          "answer": "remember",
+          "explanation": "Con gerundio, «remember» mira hacia atrás: primero ocurrió la acción, después llega el recuerdo. «Remember to» exigiría infinitivo, y aquí el sujeto es «I»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos de memoria y significado",
+          "pairs": [
+            { "en": "forget", "es": "olvidar" },
+            { "en": "stop", "es": "parar / detenerse" },
+            { "en": "try", "es": "intentar / probar" },
+            { "en": "regret", "es": "lamentar / arrepentimiento" },
+            { "en": "mean", "es": "significar / querer decir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Please, remember _______ the weekly report before you submit it to the boss.",
+          "options": ["checking", "check", "to check"],
+          "correct": 2,
+          "hint": "Es una instrucción de cara al futuro, no un recuerdo del pasado.",
+          "explanation": "«Remember to check» mira hacia adelante: recuerda tu obligación y luego realiza la comprobación. El gerundio «checking» indicaría, erróneamente, un recuerdo de algo ya hecho."
+        },
+        {
+          "type": "gap",
+          "text": "Don't ___ to verify the client's information. (no olvides tu tarea)",
+          "options": ["forget", "forgetting", "forgets"],
+          "answer": "forget",
+          "explanation": "«Forget to verify» mira hacia adelante: no olvides cumplir con esa tarea pendiente. Se usa la forma base tras el imperativo negativo «don't»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja recuerdo, hábito y significado sin repetir",
+          "pairs": [
+            { "en": "remember", "es": "recordar" },
+            { "en": "try", "es": "intentar / probar" },
+            { "en": "mean", "es": "significar / querer decir" },
+            { "en": "regret", "es": "lamentar / arrepentimiento" },
+            { "en": "stop", "es": "parar / detenerse" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence describes a memory of something that already happened?",
+          "options": ["I remember starting therapy last year.", "I remember to start therapy last year.", "I remember start therapy last year."],
+          "correct": 0,
+          "hint": "El gerundio mira hacia atrás, hacia una experiencia ya vivida.",
+          "explanation": "«Remember starting» describe una experiencia pasada de la que se tiene memoria. Las otras opciones usan infinitivo o una forma agramatical, propias de una tarea futura."
+        },
+        {
+          "type": "gap",
+          "text": "I will never forget ___ my first driving test. (recuerdo grabado)",
+          "options": ["failing", "to fail", "fail"],
+          "answer": "failing",
+          "explanation": "El recuerdo de un examen ya suspendido exige gerundio: «forget failing». Primero ocurrió la acción, y después queda grabada en la memoria."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Recuerdo empezar la terapia el año pasado",
+          "direction": "es-en",
+          "tiles": ["I", "remember", "starting", "therapy", "last", "year", "to"],
+          "answer": "I remember starting therapy last year",
+          "explanation": "Recuerdo de una experiencia pasada: «remember» + gerundio. La ficha «to» sobra como distractor del infinitivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Recuerda comprobar las luces de la oficina",
+          "direction": "es-en",
+          "tiles": ["Remember", "to", "check", "the", "office", "lights", "checking"],
+          "answer": "Remember to check the office lights",
+          "explanation": "Tarea de cara al futuro: «remember» + infinitivo con «to». El gerundio «checking» sería para un recuerdo del pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No olvides verificar la información del cliente",
+          "direction": "es-en",
+          "tiles": ["Don't", "forget", "to", "verify", "the", "client's", "information", "verifying"],
+          "answer": "Don't forget to verify the client's information",
+          "explanation": "Tarea pendiente: «forget» + infinitivo con «to». El gerundio «verifying» sería incorrecto aquí porque la acción aún no ha ocurrido."
+        },
+        {
+          "type": "speak",
+          "text": "I remember starting therapy last year.",
+          "es": "Recuerdo haber empezado la terapia el año pasado."
+        },
+        {
+          "type": "speak",
+          "text": "Remember to check the office lights.",
+          "es": "Recuerda comprobar las luces de la oficina."
+        },
+        {
+          "type": "speak",
+          "text": "Don't forget to verify the client's information.",
+          "es": "No olvides verificar la información del cliente."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Stop: interrumpir un hábito o parar con un propósito",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "go on", "es": "continuar" },
+            { "en": "memory", "es": "memoria / recuerdo" },
+            { "en": "attention", "es": "atención" },
+            { "en": "focus", "es": "enfoque / enfocar" },
+            { "en": "mind", "es": "mente / importar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "On my way to the clinic for my therapy session, I stopped _______ some water because it was very hot.",
+          "options": ["buying", "to buy", "buy"],
+          "correct": 1,
+          "hint": "Piensa si interrumpe el camino para hacer otra cosa, o si abandona un hábito.",
+          "explanation": "«Stopped to buy» expresa que interrumpió el camino con el propósito de comprar agua (infinitive of purpose). «Stopped buying» significaría abandonar el hábito de comprarla para siempre."
+        },
+        {
+          "type": "gap",
+          "text": "The computer ___ working after the restart. (dejó de funcionar)",
+          "options": ["stopped", "stopped to", "stops to"],
+          "answer": "stopped",
+          "explanation": "«Stop + gerundio» expresa el fin de una actividad: «stopped working». «Stopped to» cambiaría el sentido a una pausa con propósito."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de atención y memoria",
+          "pairs": [
+            { "en": "memory", "es": "memoria / recuerdo" },
+            { "en": "attention", "es": "atención" },
+            { "en": "focus", "es": "enfoque / enfocar" },
+            { "en": "mind", "es": "mente / importar" },
+            { "en": "think", "es": "pensar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence means quitting a habit for good?",
+          "options": ["You should stop thinking about your past mistakes.", "You should stop to think about your past mistakes.", "You should stop think about your past mistakes."],
+          "correct": 0,
+          "hint": "«Stop + gerundio» significa terminar con un hábito, no pausar para hacer otra cosa.",
+          "explanation": "«Stop thinking» significa dejar el hábito de pensar en algo. «Stop to think» cambiaría el sentido a pausar otra actividad para reflexionar, y la tercera opción es agramatical."
+        },
+        {
+          "type": "gap",
+          "text": "During the meeting, we stopped ___ a break. (nos detuvimos con un propósito)",
+          "options": ["to take", "taking", "take"],
+          "answer": "to take",
+          "explanation": "«Stop + infinitivo» expresa el propósito de la pausa: interrumpimos la reunión para tomar un descanso."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja continuidad, foco y pensamiento sin repetir",
+          "pairs": [
+            { "en": "go on", "es": "continuar" },
+            { "en": "focus", "es": "enfoque / enfocar" },
+            { "en": "think", "es": "pensar" },
+            { "en": "mind", "es": "mente / importar" },
+            { "en": "attention", "es": "atención" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence means pausing an activity in order to do something else?",
+          "options": ["He stopped talk to his boss.", "He stopped talking to his boss.", "He stopped to talk to his boss."],
+          "correct": 2,
+          "hint": "Busca la opción con infinitivo de propósito.",
+          "explanation": "«Stopped to talk» significa que interrumpió su tarea con el propósito de hablar con el jefe. «Stopped talking» significaría que dejó de hablar (fin de la conversación)."
+        },
+        {
+          "type": "gap",
+          "text": "You should stop ___ about your past mistakes. (deja el hábito)",
+          "options": ["thinking", "to think", "think"],
+          "answer": "thinking",
+          "explanation": "«Stop + gerundio» expresa el fin de un hábito mental: dejar de pensar en los errores pasados."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El ordenador dejó de funcionar",
+          "direction": "es-en",
+          "tiles": ["The", "computer", "stopped", "working", "to", "work"],
+          "answer": "The computer stopped working",
+          "explanation": "Fin de una actividad: «stop» + gerundio. «To work» queda descartado porque cambiaría el sentido a una pausa con propósito."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nos detuvimos para tomar un descanso",
+          "direction": "es-en",
+          "tiles": ["We", "stopped", "to", "take", "a", "break", "taking"],
+          "answer": "We stopped to take a break",
+          "explanation": "Pausa con propósito: «stop» + infinitivo. El gerundio «taking» significaría abandonar el hábito de tomar descansos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Deberías dejar de pensar en tus errores",
+          "direction": "es-en",
+          "tiles": ["You", "should", "stop", "thinking", "about", "your", "mistakes", "to"],
+          "answer": "You should stop thinking about your mistakes",
+          "explanation": "Fin de un hábito mental: «stop» + gerundio. La ficha «to» sobra como distractor del infinitivo de propósito."
+        },
+        {
+          "type": "speak",
+          "text": "The computer stopped working after the restart.",
+          "es": "El ordenador dejó de funcionar después de reiniciarse."
+        },
+        {
+          "type": "speak",
+          "text": "We stopped to take a break during the meeting.",
+          "es": "Nos detuvimos para tomar un descanso durante la reunión."
+        },
+        {
+          "type": "speak",
+          "text": "You should stop thinking about your past mistakes.",
+          "es": "Deberías dejar de pensar en tus errores pasados."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Try: experimentar o esforzarse",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "feel", "es": "sentir / sensación" },
+            { "en": "sense", "es": "sentido / sentir" },
+            { "en": "experience", "es": "experiencia" },
+            { "en": "therapy", "es": "terapia" },
+            { "en": "advice", "es": "consejo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If you want to improve your focus, you should try _______ your phone in another room while studying.",
+          "options": ["leaving", "to leave", "leave"],
+          "correct": 0,
+          "hint": "No es una tarea difícil, sino un experimento para ver si funciona.",
+          "explanation": "«Try leaving» indica experimentar con una posible solución para ver si mejora la concentración. «Try to leave» sugeriría que el acto es un esfuerzo casi imposible."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ changing her routine to focus better. (probó como experimento)",
+          "options": ["tried", "tried to", "try"],
+          "answer": "tried",
+          "explanation": "«Try + gerundio» expresa experimentar con un método para ver si funciona: «tried changing her routine»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de terapia y ayuda",
+          "pairs": [
+            { "en": "sense", "es": "sentido / sentir" },
+            { "en": "experience", "es": "experiencia" },
+            { "en": "therapy", "es": "terapia" },
+            { "en": "advice", "es": "consejo" },
+            { "en": "help", "es": "ayuda / ayudar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence means making a difficult effort?",
+          "options": ["I tried focus during the lecture, but the room was too noisy.", "I tried focusing during the lecture, but the room was too noisy.", "I tried to focus during the lecture, but the room was too noisy."],
+          "correct": 2,
+          "hint": "Busca la opción con infinitivo, que expresa esfuerzo.",
+          "explanation": "«Tried to focus» expresa un esfuerzo físico o mental para lograr algo difícil, aunque no siempre se consiga. «Tried focusing» sería un experimento, no un esfuerzo."
+        },
+        {
+          "type": "gap",
+          "text": "We must try ___ the system. (esfuerzo difícil)",
+          "options": ["to restart", "restarting", "restart"],
+          "answer": "to restart",
+          "explanation": "«Try + infinitivo» expresa un esfuerzo para lograr algo que puede resultar difícil: «try to restart»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sentimiento, experiencia y consejo sin repetir",
+          "pairs": [
+            { "en": "feel", "es": "sentir / sensación" },
+            { "en": "experience", "es": "experiencia" },
+            { "en": "advice", "es": "consejo" },
+            { "en": "help", "es": "ayuda / ayudar" },
+            { "en": "therapy", "es": "terapia" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If you have a headache, which sentence suggests an experiment to solve it?",
+          "options": ["Try to drink more water.", "Try drinking more water.", "Try drink more water."],
+          "correct": 1,
+          "hint": "No es un esfuerzo difícil, sino una sugerencia para ver si funciona.",
+          "explanation": "«Try drinking» sugiere beber agua como experimento para ver si alivia el dolor. «Try to drink» indicaría que beber agua es en sí mismo una tarea difícil, lo cual no tiene sentido aquí."
+        },
+        {
+          "type": "gap",
+          "text": "If your computer is slow, ___ changing the RAM. (sugerencia experimental)",
+          "options": ["try", "try to", "tries"],
+          "answer": "try",
+          "explanation": "«Try + gerundio» sugiere una solución experimental: «try changing». La forma base «try» se usa en imperativo, sin conjugar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella probó cambiar su rutina",
+          "direction": "es-en",
+          "tiles": ["She", "tried", "changing", "her", "routine", "to", "change"],
+          "answer": "She tried changing her routine",
+          "explanation": "Experimento con un método: «try» + gerundio. El infinitivo «to change» queda descartado por indicar esfuerzo, no experimentación."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Debemos esforzarnos por reiniciar el sistema",
+          "direction": "es-en",
+          "tiles": ["We", "must", "try", "to", "restart", "the", "system", "restarting"],
+          "answer": "We must try to restart the system",
+          "explanation": "Esfuerzo para lograr algo difícil: «try» + infinitivo con «to». El gerundio «restarting» sería para un experimento, no un esfuerzo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Si tienes dolor de cabeza, prueba a beber más agua",
+          "direction": "es-en",
+          "tiles": ["If", "you", "have", "a", "headache", "try", "drinking", "more", "water", "to"],
+          "answer": "If you have a headache try drinking more water",
+          "explanation": "Sugerencia experimental: «try» + gerundio. La ficha «to» sobra como distractor del infinitivo de esfuerzo."
+        },
+        {
+          "type": "speak",
+          "text": "If you want to improve your focus, try leaving your phone in another room.",
+          "es": "Si quieres mejorar tu concentración, prueba a dejar el móvil en otra habitación."
+        },
+        {
+          "type": "speak",
+          "text": "I tried to focus during the lecture, but the room was too noisy.",
+          "es": "Intenté concentrarme durante la clase, pero la sala estaba demasiado ruidosa."
+        },
+        {
+          "type": "speak",
+          "text": "If you have a headache, try drinking more water.",
+          "es": "Si tienes dolor de cabeza, prueba a beber más agua."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Regret, Mean y Go On: matices formales",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "consult", "es": "consultar" },
+            { "en": "change", "es": "cambiar / cambio" },
+            { "en": "habit", "es": "hábito" },
+            { "en": "routine", "es": "rutina" },
+            { "en": "break", "es": "descanso / romper" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The doctor regrets _______ you that the therapy results show you need a longer break from work.",
+          "options": ["telling", "to tell", "tell"],
+          "correct": 1,
+          "hint": "Es una noticia formal que se está dando en este momento, no un recuerdo del pasado.",
+          "explanation": "«Regret to tell» es la fórmula formal para introducir malas noticias en el presente. «Regret telling» significaría arrepentirse de algo dicho en el pasado, lo cual no encaja aquí."
+        },
+        {
+          "type": "gap",
+          "text": "We regret ___ you that you failed the test. (malas noticias, formal)",
+          "options": ["to inform", "informing", "inform"],
+          "answer": "to inform",
+          "explanation": "«Regret + infinitivo» es la fórmula formal para comunicar malas noticias en el presente: «regret to inform»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de cambio y rutina",
+          "pairs": [
+            { "en": "change", "es": "cambiar / cambio" },
+            { "en": "habit", "es": "hábito" },
+            { "en": "routine", "es": "rutina" },
+            { "en": "break", "es": "descanso / romper" },
+            { "en": "start", "es": "empezar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence expresses feeling sorry about something you did in the past?",
+          "options": ["He regrets refusing the job offer.", "He regrets to refuse the job offer.", "He regrets refuse the job offer."],
+          "correct": 0,
+          "hint": "El gerundio mira hacia atrás, hacia una decisión ya tomada.",
+          "explanation": "«Regrets refusing» expresa arrepentimiento por una acción ya realizada en el pasado. «Regret to refuse» sería la fórmula formal para dar una mala noticia en el presente, no para lamentar el pasado."
+        },
+        {
+          "type": "gap",
+          "text": "I didn't mean ___ your favourite pen. (no fue mi intención)",
+          "options": ["to break", "breaking", "break"],
+          "answer": "to break",
+          "explanation": "«Mean + infinitivo» expresa intención: no era mi intención romperlo. «Mean + gerundio» expresaría una consecuencia, no una intención."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja consulta, cambio y comienzo sin repetir",
+          "pairs": [
+            { "en": "consult", "es": "consultar" },
+            { "en": "routine", "es": "rutina" },
+            { "en": "break", "es": "descanso / romper" },
+            { "en": "start", "es": "empezar" },
+            { "en": "habit", "es": "hábito" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence expresses an unintended consequence, not an intention?",
+          "options": ["I didn't mean to break your pen.", "I mean to call you later.", "Success in business means working very hard."],
+          "correct": 2,
+          "hint": "Busca la opción con gerundio, que expresa consecuencia.",
+          "explanation": "«Means working» expresa que el éxito conlleva o implica trabajo duro (consecuencia). Las otras dos usan infinitivo, que expresa intención: no fue mi intención romperlo / tengo intención de llamarte."
+        },
+        {
+          "type": "gap",
+          "text": "After checking the budget, the boss went on ___ about the new schedule. (pasó a otra actividad)",
+          "options": ["to talk", "talking", "talk"],
+          "answer": "to talk",
+          "explanation": "«Go on + infinitivo» expresa terminar una actividad y empezar otra distinta: primero revisó el presupuesto, después pasó a hablar del horario."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Lamentamos informarle",
+          "direction": "es-en",
+          "tiles": ["We", "regret", "to", "inform", "you", "informing"],
+          "answer": "We regret to inform you",
+          "explanation": "Fórmula formal para malas noticias: «regret» + infinitivo con «to». El gerundio «informing» sería para lamentar algo del pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No fue mi intención romper tu bolígrafo",
+          "direction": "es-en",
+          "tiles": ["I", "didn't", "mean", "to", "break", "your", "pen", "breaking"],
+          "answer": "I didn't mean to break your pen",
+          "explanation": "Intención (no cumplida): «mean» + infinitivo con «to». El gerundio «breaking» expresaría una consecuencia, no una intención."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él pasó a hablar del horario",
+          "direction": "es-en",
+          "tiles": ["He", "went", "on", "to", "talk", "about", "the", "schedule", "talking"],
+          "answer": "He went on to talk about the schedule",
+          "explanation": "Cambio a una nueva actividad: «go on» + infinitivo con «to». El gerundio «talking» significaría continuar hablando sin cambiar de tema."
+        },
+        {
+          "type": "speak",
+          "text": "The doctor regrets to tell you that you need a longer break.",
+          "es": "El médico lamenta decirte que necesitas un descanso más largo."
+        },
+        {
+          "type": "speak",
+          "text": "I didn't mean to break your favourite pen.",
+          "es": "No fue mi intención romper tu bolígrafo favorito."
+        },
+        {
+          "type": "speak",
+          "text": "He went on to talk about the new schedule.",
+          "es": "Él pasó a hablar del nuevo horario."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Hábitos, rutinas y terapia: repaso general",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "restart", "es": "reiniciar" },
+            { "en": "check", "es": "comprobar" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "test", "es": "prueba / probar" },
+            { "en": "success", "es": "éxito" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly describes meeting someone in the past?",
+          "options": ["I don't remember meeting you last year.", "I don't remember to meet you last year.", "I don't remember meet you last year."],
+          "correct": 0,
+          "hint": "Es una experiencia pasada (conocer a alguien), no una tarea pendiente.",
+          "explanation": "El gerundio «meeting» es obligatorio porque la acción de conocerse ocurrió antes del recuerdo. «Remember to meet» indicaría, erróneamente, una cita pendiente."
+        },
+        {
+          "type": "gap",
+          "text": "I don't ___ meeting you last year. (experiencia pasada)",
+          "options": ["remember", "remember to", "forget to"],
+          "answer": "remember",
+          "explanation": "«Remember + gerundio» describe una experiencia pasada de la que no queda memoria. «Remember to» exigiría infinitivo para una tarea futura."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de comprobación y éxito",
+          "pairs": [
+            { "en": "check", "es": "comprobar" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "test", "es": "prueba / probar" },
+            { "en": "success", "es": "éxito" },
+            { "en": "fail", "es": "fallar / fracasar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly expresses quitting chocolate to lose weight?",
+          "options": ["We stopped to eat chocolate to lose weight.", "We stopped eating chocolate to lose weight.", "We stopped eat chocolate to lose weight."],
+          "correct": 1,
+          "hint": "Si el objetivo es perder peso, el hábito debe eliminarse por completo.",
+          "explanation": "«Stopped eating» significa abandonar el hábito de comer chocolate. «Stopped to eat» significaría, erróneamente, que hicieron una pausa con el propósito de comer chocolate."
+        },
+        {
+          "type": "gap",
+          "text": "We stopped ___ chocolate to lose weight. (abandonar el hábito)",
+          "options": ["eating", "to eat", "eat"],
+          "answer": "eating",
+          "explanation": "«Stop + gerundio» expresa el fin de un hábito: «stopped eating chocolate», es decir, dejaron de comerlo por completo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja reinicio, verificación y fracaso sin repetir",
+          "pairs": [
+            { "en": "restart", "es": "reiniciar" },
+            { "en": "verify", "es": "verificar" },
+            { "en": "test", "es": "prueba / probar" },
+            { "en": "fail", "es": "fallar / fracasar" },
+            { "en": "success", "es": "éxito" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "If your computer is slow, which sentence suggests an experimental fix?",
+          "options": ["Try to change the RAM.", "Try change the RAM.", "Try changing the RAM."],
+          "correct": 2,
+          "hint": "Cambiar la RAM es una prueba, no un esfuerzo físico difícil.",
+          "explanation": "«Try changing» sugiere probar un método para ver si soluciona la lentitud. «Try to change» indicaría, erróneamente, que cambiar la RAM es una tarea muy difícil."
+        },
+        {
+          "type": "gap",
+          "text": "If your computer is slow, try ___ the RAM. (sugerencia experimental)",
+          "options": ["changing", "to change", "change"],
+          "answer": "changing",
+          "explanation": "«Try + gerundio» sugiere un método experimental para solucionar un problema, como cambiar la memoria RAM."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No recuerdo haberte conocido el año pasado",
+          "direction": "es-en",
+          "tiles": ["I", "don't", "remember", "meeting", "you", "last", "year", "to"],
+          "answer": "I don't remember meeting you last year",
+          "explanation": "Experiencia pasada: «remember» + gerundio. La ficha «to» sobra como distractor del infinitivo de tarea futura."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Dejamos de comer chocolate para perder peso",
+          "direction": "es-en",
+          "tiles": ["We", "stopped", "eating", "chocolate", "to", "lose", "weight", "eat"],
+          "answer": "We stopped eating chocolate to lose weight",
+          "explanation": "Fin de un hábito: «stop» + gerundio («eating»). «To lose weight» es un infinitivo de propósito distinto, que sí acompaña correctamente a la frase."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Prueba a cambiar la memoria RAM",
+          "direction": "es-en",
+          "tiles": ["Try", "changing", "the", "RAM", "to", "change"],
+          "answer": "Try changing the RAM",
+          "explanation": "Sugerencia experimental: «try» + gerundio. El infinitivo «to change» queda descartado por indicar esfuerzo, no experimentación."
+        },
+        {
+          "type": "speak",
+          "text": "I don't remember meeting you last year.",
+          "es": "No recuerdo haberte conocido el año pasado."
+        },
+        {
+          "type": "speak",
+          "text": "We stopped eating chocolate to lose weight.",
+          "es": "Dejamos de comer chocolate para perder peso."
+        },
+        {
+          "type": "speak",
+          "text": "If your computer is slow, try changing the RAM.",
+          "es": "Si tu ordenador va lento, prueba a cambiar la memoria RAM."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod03",
+  "module": 3,
+  "title": "Used To: Past Habits & States",
+  "subtitle": "Used To: Hábitos y Estados del Pasado",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Afirmativo: used to + infinitivo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "childhood", "es": "infancia" },
+            { "en": "memory", "es": "recuerdo / memoria" },
+            { "en": "youth", "es": "juventud" },
+            { "en": "retro", "es": "retro / antiguo" },
+            { "en": "nostalgia", "es": "nostalgia" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "During my childhood, I ___ play outside every afternoon.",
+          "options": ["used to", "use to", "using to"],
+          "correct": 0,
+          "hint": "En afirmativa, «used to» conserva siempre su «d».",
+          "explanation": "La forma afirmativa es «used to» + infinitivo. No pierde la «d» final: esa pérdida solo ocurre en negativa e interrogativa, donde ya aparece «did»/«didn't»."
+        },
+        {
+          "type": "gap",
+          "text": "In my youth, I ___ feel nostalgia about simple things.",
+          "options": ["used to", "use to", "uses to"],
+          "answer": "used to",
+          "explanation": "«Used to» no cambia según el sujeto: es igual para I, you, he, she, it, we, they. Va seguido del infinitivo «feel»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "memory", "es": "recuerdo / memoria" },
+            { "en": "youth", "es": "juventud" },
+            { "en": "retro", "es": "retro / antiguo" },
+            { "en": "nostalgia", "es": "nostalgia" },
+            { "en": "grow up", "es": "crecer / hacerse adulto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We ___ live in a small flat, but now we own a large house in the countryside.",
+          "options": ["were used to", "used to", "did use to"],
+          "correct": 1,
+          "hint": "Describe un estado pasado que ya no es real hoy.",
+          "explanation": "«Used to» describe un estado pasado (vivir en un piso pequeño) que ha cambiado en el presente. «Were used to» significaría «estábamos acostumbrados a» y exigiría un gerundio, no el infinitivo «live»."
+        },
+        {
+          "type": "gap",
+          "text": "As a child, I had many happy ___ of my youth.",
+          "options": ["memories", "memory", "memorys"],
+          "answer": "memories",
+          "explanation": "El plural de «memory» es «memories» (la «y» final se convierte en «ies»), nunca «memorys»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "childhood", "es": "infancia" },
+            { "en": "youth", "es": "juventud" },
+            { "en": "retro", "es": "retro / antiguo" },
+            { "en": "nostalgia", "es": "nostalgia" },
+            { "en": "grow up", "es": "crecer / hacerse adulto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly uses «used to» to describe a childhood habit?",
+          "options": ["I used to play outside every afternoon.", "I use to play outside every afternoon.", "I am used to play outside every afternoon."],
+          "correct": 0,
+          "hint": "Solo una opción mantiene la «d» y el infinitivo correctamente.",
+          "explanation": "«Used to» + infinitivo es la única forma correcta para un hábito pasado. «Use to» pierde la «d» sin motivo (no hay «did») y «am used to play» mezcla estructuras distintas."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ very shy during her childhood.",
+          "options": ["used to be", "use to be", "was used to be"],
+          "answer": "used to be",
+          "explanation": "«Used to be» describe un estado pasado (ser tímida) que ya no es cierto. Es la forma afirmativa estándar, sin mezclarla con «was»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Solía sentir nostalgia por mi infancia.",
+          "direction": "es-en",
+          "tiles": ["I", "used", "to", "feel", "nostalgia", "for", "my", "childhood", "use"],
+          "answer": "I used to feel nostalgia for my childhood",
+          "explanation": "Afirmativo: sujeto + used to + infinitivo. «Feel» va en su forma base tras «used to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella solía escuchar música retro.",
+          "direction": "es-en",
+          "tiles": ["She", "used", "to", "listen", "to", "retro", "music", "use"],
+          "answer": "She used to listen to retro music",
+          "explanation": "«Used to listen» describe un hábito repetido en el pasado que ya no ocurre en el presente."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Teníamos buenos recuerdos de nuestra juventud.",
+          "direction": "es-en",
+          "tiles": ["We", "had", "good", "memories", "of", "our", "youth", "memory"],
+          "answer": "We had good memories of our youth",
+          "explanation": "Repaso de vocabulario: «memories» (plural de memory) y «youth» (juventud), ambos del vocabulario oficial del tema."
+        },
+        {
+          "type": "speak",
+          "text": "During my childhood, I used to play outside every afternoon.",
+          "es": "Durante mi infancia, solía jugar fuera todas las tardes."
+        },
+        {
+          "type": "speak",
+          "text": "I feel a lot of nostalgia when I remember my youth.",
+          "es": "Siento mucha nostalgia cuando recuerdo mi juventud."
+        },
+        {
+          "type": "speak",
+          "text": "We used to live in a small flat, but now we own a house.",
+          "es": "Solíamos vivir en un piso pequeño, pero ahora somos dueños de una casa."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Negativo e interrogativo: la caída de la D",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "play", "es": "jugar / tocar" },
+            { "en": "school", "es": "escuela" },
+            { "en": "garden", "es": "jardín" },
+            { "en": "toys", "es": "juguetes" },
+            { "en": "grandma", "es": "abuela" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct negative sentence.",
+          "options": ["I didn't use to eat vegetables when I was a kid.", "I didn't used to eat vegetables when I was a kid.", "I don't used to eat vegetables when I was a kid."],
+          "correct": 0,
+          "hint": "«Didn't» ya marca el pasado; el verbo principal pierde su «d».",
+          "explanation": "No se pueden acumular dos marcas de pasado: como «didn't» ya indica pasado, el verbo vuelve a su forma base «use to», nunca «used to»."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ modern toys in our school.",
+          "options": ["didn't use to have", "didn't used to have", "don't use to have"],
+          "answer": "didn't use to have",
+          "explanation": "Con el auxiliar negativo «didn't», el verbo va en infinitivo: «use to have», sin la «d» de «used»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "school", "es": "escuela" },
+            { "en": "garden", "es": "jardín" },
+            { "en": "toys", "es": "juguetes" },
+            { "en": "grandma", "es": "abuela" },
+            { "en": "grandpa", "es": "abuelo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Did you ___ spend your summer holidays at your grandparents' farm?",
+          "options": ["used to", "use to", "use"],
+          "correct": 1,
+          "hint": "Tras «Did», el verbo pierde la «d» pero conserva «to».",
+          "explanation": "La estructura correcta para preguntas es «Did + sujeto + use to + infinitivo». Falta la «to» en la opción «use», y «used to» conserva incorrectamente la «d»."
+        },
+        {
+          "type": "gap",
+          "text": "___ your grandpa use to live in a different town?",
+          "options": ["Did", "Does", "Had"],
+          "answer": "Did",
+          "explanation": "Las preguntas sobre hábitos pasados con «used to» se forman con el auxiliar «Did» al principio de la frase, seguido de «use to» + infinitivo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "play", "es": "jugar / tocar" },
+            { "en": "garden", "es": "jardín" },
+            { "en": "toys", "es": "juguetes" },
+            { "en": "grandma", "es": "abuela" },
+            { "en": "grandpa", "es": "abuelo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which question is correctly formed?",
+          "options": ["Did you use to play in the garden?", "Did you used to play in the garden?", "Did you use to played in the garden?"],
+          "correct": 0,
+          "hint": "Tras «use to» va siempre el infinitivo, nunca el pasado.",
+          "explanation": "«Did you use to play?» es correcta: «did» pierde la «d» del verbo y exige el infinitivo puro «play», no «played»."
+        },
+        {
+          "type": "gap",
+          "text": "My grandma ___ us stories, but she doesn't anymore.",
+          "options": ["used to tell", "use to tell", "didn't use to tell"],
+          "answer": "used to tell",
+          "explanation": "Es una frase afirmativa (no hay «did» ni «didn't»), así que se mantiene la forma completa «used to tell»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No solíamos tener juguetes modernos.",
+          "direction": "es-en",
+          "tiles": ["We", "didn't", "use", "to", "have", "modern", "toys", "used"],
+          "answer": "We didn't use to have modern toys",
+          "explanation": "Negativo: sujeto + didn't + use to + infinitivo. La «d» de «used» desaparece porque «didn't» ya marca el pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Solías jugar en el jardín?",
+          "direction": "es-en",
+          "tiles": ["Did", "you", "use", "to", "play", "in", "the", "garden", "used"],
+          "answer": "Did you use to play in the garden",
+          "explanation": "Interrogativa: Did + sujeto + use to + infinitivo. «Used» con «d» sería un error típico de examen."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi abuelo no solía ir a la escuela en coche.",
+          "direction": "es-en",
+          "tiles": ["My", "grandpa", "didn't", "use", "to", "go", "to", "school", "used"],
+          "answer": "My grandpa didn't use to go to school",
+          "explanation": "Repaso: negativo con «didn't use to» + infinitivo «go». La «d» desaparece por la presencia de «didn't»."
+        },
+        {
+          "type": "speak",
+          "text": "We didn't use to have modern toys at school.",
+          "es": "No solíamos tener juguetes modernos en la escuela."
+        },
+        {
+          "type": "speak",
+          "text": "Did you use to play in the garden with your grandma?",
+          "es": "¿Solías jugar en el jardín con tu abuela?"
+        },
+        {
+          "type": "speak",
+          "text": "My grandpa used to tell us stories.",
+          "es": "Mi abuelo solía contarnos historias."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Hábitos frente a estados",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "park", "es": "parque" },
+            { "en": "game", "es": "juego" },
+            { "en": "candy", "es": "caramelo / dulce" },
+            { "en": "habit", "es": "hábito" },
+            { "en": "custom", "es": "costumbre" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence describes a habit (repeated action), not a state?",
+          "options": ["We used to visit the park every Sunday.", "I used to be very shy as a child.", "This house used to belong to my grandparents."],
+          "correct": 0,
+          "hint": "Un hábito se repite muchas veces; un estado es una situación continua.",
+          "explanation": "Visitar el parque cada domingo es una acción repetida (hábito). Ser tímido o pertenecer a alguien son situaciones continuas, es decir, estados, no acciones repetidas."
+        },
+        {
+          "type": "gap",
+          "text": "My sister ___ candy, but now she prefers fruit.",
+          "options": ["used to like", "use to like", "was used to like"],
+          "answer": "used to like",
+          "explanation": "«Like» expresa un estado (un gusto), no una acción repetida, pero «used to» funciona igual de bien para estados que para hábitos."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "game", "es": "juego" },
+            { "en": "candy", "es": "caramelo / dulce" },
+            { "en": "habit", "es": "hábito" },
+            { "en": "custom", "es": "costumbre" },
+            { "en": "change", "es": "cambiar / cambio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "My grandpa used to smoke a lot, but he ___ three years ago.",
+          "options": ["stopped", "used to stop", "stops"],
+          "correct": 0,
+          "hint": "Dejar de fumar fue un único momento concreto, no un hábito repetido.",
+          "explanation": "«Stopped» describe un evento único y puntual (dejar de fumar en un momento concreto), así que va en Past Simple, no con «used to», que es solo para hábitos y estados prolongados."
+        },
+        {
+          "type": "gap",
+          "text": "It ___ a strange custom, but people don't do it anymore.",
+          "options": ["used to be", "use to be", "uses to be"],
+          "answer": "used to be",
+          "explanation": "Describe un estado pasado («ser una costumbre») que ya no existe: forma afirmativa completa «used to be»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "park", "es": "parque" },
+            { "en": "candy", "es": "caramelo / dulce" },
+            { "en": "habit", "es": "hábito" },
+            { "en": "custom", "es": "costumbre" },
+            { "en": "change", "es": "cambiar / cambio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that correctly describes a past habit that has changed.",
+          "options": ["We used to play this game every day, but things have changed.", "We use to play this game every day, but things have changed.", "We are used to playing this game every day."],
+          "correct": 0,
+          "hint": "Solo una opción marca correctamente un hábito ya desaparecido.",
+          "explanation": "«Used to play» describe un hábito repetido que ya no existe. «Use to» pierde la «d» sin razón, y «are used to playing» significa «estamos acostumbrados a», un significado distinto."
+        },
+        {
+          "type": "gap",
+          "text": "My habit of collecting old toys ___ completely as I grew up.",
+          "options": ["changed", "used to change", "was change"],
+          "answer": "changed",
+          "explanation": "El cambio de hábito es un proceso puntual dentro de la historia, así que se narra con Past Simple «changed», no con «used to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Solíamos visitar el parque cada domingo.",
+          "direction": "es-en",
+          "tiles": ["We", "used", "to", "visit", "the", "park", "every", "Sunday", "use"],
+          "answer": "We used to visit the park every Sunday",
+          "explanation": "Hábito repetido en el pasado: used to + infinitivo «visit»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A mi hermana le solían gustar los caramelos.",
+          "direction": "es-en",
+          "tiles": ["My", "sister", "used", "to", "like", "candy", "use"],
+          "answer": "My sister used to like candy",
+          "explanation": "Estado pasado (gusto) con «used to like», que ya no es cierto en el presente."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Era una costumbre especial que cambió.",
+          "direction": "es-en",
+          "tiles": ["It", "was", "a", "special", "custom", "that", "changed", "habit"],
+          "answer": "It was a special custom that changed",
+          "explanation": "Repaso de vocabulario: «custom» (costumbre) y «changed» (cambió), un evento puntual en Past Simple."
+        },
+        {
+          "type": "speak",
+          "text": "We used to visit the park every Sunday.",
+          "es": "Solíamos visitar el parque cada domingo."
+        },
+        {
+          "type": "speak",
+          "text": "My grandpa used to smoke a lot, but he stopped three years ago.",
+          "es": "Mi abuelo solía fumar mucho, pero lo dejó hace tres años."
+        },
+        {
+          "type": "speak",
+          "text": "This custom used to be very common, but it has changed.",
+          "es": "Esta costumbre solía ser muy común, pero ha cambiado."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Contraste: used to frente a Past Simple",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "different", "es": "diferente" },
+            { "en": "old", "es": "viejo / antiguo" },
+            { "en": "young", "es": "joven" },
+            { "en": "child", "es": "niño" },
+            { "en": "kid", "es": "niño / chico" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When my mother was a teen, she ___ write letters instead of emails.",
+          "options": ["used to", "didn't used to", "uses to"],
+          "correct": 0,
+          "hint": "Expresa un hábito pasado que ya no se realiza hoy.",
+          "explanation": "«Used to» + infinitivo expresa un hábito del pasado (escribir cartas) que ya no ocurre. «Didn't used to» mantiene incorrectamente la «d», y «uses to» no existe en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ my first computer in 2005.",
+          "options": ["bought", "used to buy", "use to buy"],
+          "answer": "bought",
+          "explanation": "Con una fecha específica (2005) se trata de un evento único: obligatoriamente Past Simple «bought», nunca «used to», que no admite fechas exactas."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "old", "es": "viejo / antiguo" },
+            { "en": "young", "es": "joven" },
+            { "en": "child", "es": "niño" },
+            { "en": "kid", "es": "niño / chico" },
+            { "en": "teen", "es": "adolescente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence for a single, specific past event.",
+          "options": ["I moved to a different city in 2015.", "I used to move to a different city in 2015.", "I use to move to a different city in 2015."],
+          "correct": 0,
+          "hint": "Una fecha concreta exige Past Simple, no «used to».",
+          "explanation": "Un evento único con fecha exacta («in 2015») siempre se expresa con Past Simple. «Used to» solo sirve para hábitos o estados repetidos, no para hechos puntuales."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ our grandma three times last month.",
+          "options": ["visited", "used to visit", "use to visit"],
+          "answer": "visited",
+          "explanation": "Un número exacto de veces («three times last month») exige Past Simple, no «used to», que no admite conteos exactos."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "different", "es": "diferente" },
+            { "en": "young", "es": "joven" },
+            { "en": "child", "es": "niño" },
+            { "en": "kid", "es": "niño / chico" },
+            { "en": "teen", "es": "adolescente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "As a young kid, she ___ play with old toys, but that changed when she became a teen.",
+          "options": ["used to", "used", "use to"],
+          "correct": 0,
+          "hint": "Es un hábito repetido durante un periodo, sin fecha exacta.",
+          "explanation": "«Used to» describe un hábito repetido a lo largo de un periodo (la infancia), sin fecha ni número exacto de veces, así que es la forma correcta aquí."
+        },
+        {
+          "type": "gap",
+          "text": "When I was a child, everything ___ very different.",
+          "options": ["used to be", "use to be", "was used to be"],
+          "answer": "used to be",
+          "explanation": "Describe un estado general de la infancia que ya no es cierto: forma afirmativa completa «used to be»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Compré mi primer ordenador en 2005.",
+          "direction": "es-en",
+          "tiles": ["I", "bought", "my", "first", "computer", "in", "2005", "used"],
+          "answer": "I bought my first computer in 2005",
+          "explanation": "Evento único con fecha exacta: Past Simple «bought», nunca «used to buy»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "De niño, todo solía ser diferente.",
+          "direction": "es-en",
+          "tiles": ["As", "a", "child,", "everything", "used", "to", "be", "different", "use"],
+          "answer": "As a child, everything used to be different",
+          "explanation": "Estado general repetido a lo largo de la infancia: «used to be different»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Visitamos a la abuela tres veces el mes pasado.",
+          "direction": "es-en",
+          "tiles": ["We", "visited", "grandma", "three", "times", "last", "month", "used"],
+          "answer": "We visited grandma three times last month",
+          "explanation": "Número exacto de veces: Past Simple «visited», no «used to visit»."
+        },
+        {
+          "type": "speak",
+          "text": "When my mother was a teen, she used to write letters instead of emails.",
+          "es": "Cuando mi madre era adolescente, solía escribir cartas en lugar de correos electrónicos."
+        },
+        {
+          "type": "speak",
+          "text": "I bought my first computer in 2005.",
+          "es": "Compré mi primer ordenador en 2005."
+        },
+        {
+          "type": "speak",
+          "text": "As a child, everything used to be very different.",
+          "es": "De niño, todo solía ser muy diferente."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Repaso: nostalgia y la trampa del presente",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "adult", "es": "adulto" },
+            { "en": "age", "es": "edad" },
+            { "en": "life", "es": "vida" },
+            { "en": "history", "es": "historia" },
+            { "en": "time", "es": "época / tiempo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I ___ go to school in a different town, but I don't remember the name of the school.",
+          "options": ["used to", "am used to", "used"],
+          "correct": 0,
+          "hint": "Describe un hábito o estado recurrente de la infancia.",
+          "explanation": "«Used to go» describe un hábito recurrente durante la infancia. «Am used to» no concuerda en tiempo, y «used» solo no tiene el significado de «solía» sin la «to»."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ old books nowadays.",
+          "options": ["usually reads", "uses to read", "used to read"],
+          "answer": "usually reads",
+          "explanation": "«Used to» no existe en presente. Para hábitos actuales se usa el Present Simple con un adverbio de frecuencia como «usually»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "age", "es": "edad" },
+            { "en": "life", "es": "vida" },
+            { "en": "history", "es": "historia" },
+            { "en": "time", "es": "época / tiempo" },
+            { "en": "past", "es": "pasado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["We didn't use to go to the park.", "We didn't used to go to the park.", "We don't used to go to the park."],
+          "correct": 0,
+          "hint": "Con «didn't», el verbo principal pierde la «d».",
+          "explanation": "Con el auxiliar negativo «didn't», el verbo debe ir en infinitivo («use to»), no en pasado («used to»)."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ candy when I was young.",
+          "options": ["used to eat", "am used to eat", "use to ate"],
+          "answer": "used to eat",
+          "explanation": "Para hábitos pasados se usa la estructura simple «used to» + infinitivo. Mezclar «am used to» (estar acostumbrado a) con el infinitivo situado en el pasado es un error grave de significado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "adult", "es": "adulto" },
+            { "en": "life", "es": "vida" },
+            { "en": "history", "es": "historia" },
+            { "en": "time", "es": "época / tiempo" },
+            { "en": "past", "es": "pasado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Now I am an adult, but at that age, life ___ much slower.",
+          "options": ["used to be", "use to be", "uses to be"],
+          "correct": 0,
+          "hint": "Semáforo verde para la «d» en la forma afirmativa.",
+          "explanation": "Mnemotecnia del semáforo de la «d»: en afirmativa, luz verde, se mantiene «used to». La «d» solo desaparece en negativa e interrogativa."
+        },
+        {
+          "type": "gap",
+          "text": "In the past, my grandma ___ us stories about her youth.",
+          "options": ["used to tell", "use to tell", "tells"],
+          "answer": "used to tell",
+          "explanation": "Repaso final: hábito pasado ya desaparecido, forma afirmativa completa «used to tell», no la forma de presente «tells»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ahora soy adulto, pero la vida solía ser más lenta.",
+          "direction": "es-en",
+          "tiles": ["Now", "I", "am", "an", "adult,", "but", "life", "used", "to", "be", "slower", "use"],
+          "answer": "Now I am an adult, but life used to be slower",
+          "explanation": "Contraste presente (am an adult) / pasado (used to be slower), el eje central de todo el tema."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "En el pasado, la historia solía ser diferente.",
+          "direction": "es-en",
+          "tiles": ["In", "the", "past,", "history", "used", "to", "be", "different", "use"],
+          "answer": "In the past, history used to be different",
+          "explanation": "Repaso de vocabulario: «past» (pasado) y «history» (historia), ambos del vocabulario oficial del tema."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A esa edad, no solíamos tener mucho tiempo libre.",
+          "direction": "es-en",
+          "tiles": ["At", "that", "age,", "we", "didn't", "use", "to", "have", "much", "free", "time", "used"],
+          "answer": "At that age, we didn't use to have much free time",
+          "explanation": "Repaso del negativo: didn't + use to (sin «d») + infinitivo «have»."
+        },
+        {
+          "type": "speak",
+          "text": "Now I am an adult, but life used to be slower.",
+          "es": "Ahora soy adulto, pero la vida solía ser más lenta."
+        },
+        {
+          "type": "speak",
+          "text": "In the past, my grandma used to tell us stories about her youth.",
+          "es": "En el pasado, mi abuela solía contarnos historias sobre su juventud."
+        },
+        {
+          "type": "speak",
+          "text": "She usually reads old books nowadays, but she used to watch TV.",
+          "es": "Ella normalmente lee libros viejos hoy en día, pero antes solía ver la televisión."
+        }
+      ]
+    }
+  ]
+}

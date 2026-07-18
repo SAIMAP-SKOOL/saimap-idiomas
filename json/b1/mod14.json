@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod14",
+  "module": 14,
+  "title": "Verb Patterns: Gerund vs. Infinitive",
+  "subtitle": "Gerundio frente a Infinitivo",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Gerundio tras verbos de gusto: enjoy, dislike, avoid",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "pattern", "es": "patrón / modelo" },
+            { "en": "preference", "es": "preferencia" },
+            { "en": "hobby", "es": "pasatiempo / afición" },
+            { "en": "interest", "es": "interés" },
+            { "en": "activity", "es": "actividad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I really enjoy _______ on different research projects, as it is my favorite hobby.",
+          "options": ["working", "to work", "work"],
+          "correct": 0,
+          "hint": "«Enjoy» expresa disfrute de una actividad en general.",
+          "explanation": "«Enjoy» exige gerundio: «enjoy working». Aunque en español decimos «disfruto trabajar» (infinitivo), en inglés «enjoy to work» es un error sistemático."
+        },
+        {
+          "type": "gap",
+          "text": "I ___ studying English in the evening. (disfruto)",
+          "options": ["enjoy", "enjoy to", "enjoys"],
+          "answer": "enjoy",
+          "explanation": "«Enjoy» va seguido de gerundio: «enjoy studying». «Enjoy to» no existe, y «enjoys» sería solo para 3ª persona del singular."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de aficiones y actividades",
+          "pairs": [
+            { "en": "preference", "es": "preferencia" },
+            { "en": "hobby", "es": "pasatiempo / afición" },
+            { "en": "interest", "es": "interés" },
+            { "en": "activity", "es": "actividad" },
+            { "en": "enjoy", "es": "disfrutar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly expresses dislike of an activity?",
+          "options": ["He dislikes to prepare long schedules.", "He dislikes preparing long schedules.", "He dislikes prepare long schedules."],
+          "correct": 1,
+          "hint": "«Dislike» sigue el mismo patrón que «enjoy».",
+          "explanation": "«Dislike» exige gerundio, igual que «enjoy»: «dislikes preparing». Las otras dos opciones usan infinitivo con o sin «to», ambas incorrectas."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ preparing long schedules. (le desagrada)",
+          "options": ["dislikes", "dislike to", "dislikes to"],
+          "answer": "dislikes",
+          "explanation": "«Dislike» concuerda en 3ª persona («dislikes») y va seguido directamente de gerundio, sin partícula «to»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja patrones, aficiones y actividades sin repetir",
+          "pairs": [
+            { "en": "pattern", "es": "patrón / modelo" },
+            { "en": "hobby", "es": "pasatiempo / afición" },
+            { "en": "activity", "es": "actividad" },
+            { "en": "enjoy", "es": "disfrutar" },
+            { "en": "interest", "es": "interés" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "They try to stay away from traffic during rush hour. How do you say this using «avoid»?",
+          "options": ["They avoid to travel during rush hour.", "They avoid travel during rush hour.", "They avoid travelling during rush hour."],
+          "correct": 2,
+          "hint": "«Avoid» pertenece al grupo de verbos + gerundio.",
+          "explanation": "«Avoid» requiere gerundio: «avoid travelling». El cerebro en español busca el infinitivo tras «evitar», pero eso choca con el patrón inglés."
+        },
+        {
+          "type": "gap",
+          "text": "They avoid ___ during rush hour. (evitan viajar)",
+          "options": ["travelling", "to travel", "travel"],
+          "answer": "travelling",
+          "explanation": "«Avoid» va siempre seguido de gerundio: «avoid travelling». Nunca de infinitivo, ni con ni sin «to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Disfruto estudiando inglés",
+          "direction": "es-en",
+          "tiles": ["I", "enjoy", "studying", "English", "to", "study"],
+          "answer": "I enjoy studying English",
+          "explanation": "«Enjoy» + gerundio: «enjoy studying». Las fichas «to» y «study» son el distractor típico del infinitivo mal aplicado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "A él le desagrada preparar horarios",
+          "direction": "es-en",
+          "tiles": ["He", "dislikes", "preparing", "schedules", "to", "prepare"],
+          "answer": "He dislikes preparing schedules",
+          "explanation": "«Dislikes» + gerundio: «dislikes preparing». El infinitivo «to prepare» queda descartado por el patrón verbal."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ellos evitan viajar en hora punta",
+          "direction": "es-en",
+          "tiles": ["They", "avoid", "travelling", "during", "rush", "hour", "to"],
+          "answer": "They avoid travelling during rush hour",
+          "explanation": "«Avoid» + gerundio: «avoid travelling». La ficha «to» sobra porque «avoid» nunca admite infinitivo."
+        },
+        {
+          "type": "speak",
+          "text": "I enjoy studying English in the evening.",
+          "es": "Disfruto estudiando inglés por la tarde."
+        },
+        {
+          "type": "speak",
+          "text": "He dislikes preparing long schedules.",
+          "es": "A él le desagrada preparar horarios largos."
+        },
+        {
+          "type": "speak",
+          "text": "They avoid travelling during rush hour.",
+          "es": "Ellos evitan viajar en hora punta."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Love, Hate, Prefer y Mind: gerundio, infinitivo y promesas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "dislike", "es": "desagradar" },
+            { "en": "hate", "es": "odiar" },
+            { "en": "love", "es": "amar / encantar" },
+            { "en": "prefer", "es": "preferir" },
+            { "en": "mind", "es": "importar / mente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence talks about a general hobby you enjoy doing?",
+          "options": ["I love to learning new languages.", "I love learn new languages.", "I love learning new languages."],
+          "correct": 2,
+          "hint": "Sin «would», «love» acepta gerundio para hablar de una afición general.",
+          "explanation": "«Love learning» describe una actividad general que te gusta hacer. «Love to learning» mezcla infinitivo y gerundio, y «love learn» carece de partícula o sufijo."
+        },
+        {
+          "type": "gap",
+          "text": "I would love ___ new languages. (con 'would', SIEMPRE infinitivo)",
+          "options": ["to learn", "learning", "learn"],
+          "answer": "to learn",
+          "explanation": "Cuando se añade el auxiliar condicional «would» a love/like/prefer/hate, el gerundio queda prohibido: se exige siempre infinitivo con «to»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos de preferencia y promesas",
+          "pairs": [
+            { "en": "hate", "es": "odiar" },
+            { "en": "love", "es": "amar / encantar" },
+            { "en": "prefer", "es": "preferir" },
+            { "en": "mind", "es": "importar / mente" },
+            { "en": "promise", "es": "prometer / promesa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which question politely asks if someone objects to an action?",
+          "options": ["Do you mind to submit the report early?", "Do you mind submitting the report early?", "Do you mind submit the report early?"],
+          "correct": 1,
+          "hint": "«Mind» en preguntas o negativas sigue el patrón de gerundio.",
+          "explanation": "«Mind» exige gerundio incluso en preguntas: «Do you mind submitting...?». «Mind to submit» y «mind submit» son formas agramaticales."
+        },
+        {
+          "type": "gap",
+          "text": "Do you ___ waiting a few minutes? (¿te importa...?)",
+          "options": ["mind", "minds", "mind to"],
+          "answer": "mind",
+          "explanation": "En preguntas con «do», el verbo va en su forma base: «Do you mind waiting?». «Minds» y «mind to» rompen la estructura auxiliar."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja preferencia, importancia y promesas sin repetir",
+          "pairs": [
+            { "en": "dislike", "es": "desagradar" },
+            { "en": "love", "es": "amar / encantar" },
+            { "en": "mind", "es": "importar / mente" },
+            { "en": "promise", "es": "prometer / promesa" },
+            { "en": "prefer", "es": "preferir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly reports a promise?",
+          "options": ["She promised to submit the task today.", "She promised submitting the task today.", "She promised submit the task today."],
+          "correct": 0,
+          "hint": "«Promise» pertenece al grupo de verbos + infinitivo con «to».",
+          "explanation": "«Promise» siempre va seguido de infinitivo con «to»: «promised to submit». El gerundio y el infinitivo sin «to» quedan descartados."
+        },
+        {
+          "type": "gap",
+          "text": "She promised ___ the task today. (compromiso a futuro)",
+          "options": ["to submit", "submitting", "submit"],
+          "answer": "to submit",
+          "explanation": "«Promise» exige infinitivo con «to», como los verbos orientados al futuro (decide, plan, hope)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me encantaría visitar Londres",
+          "direction": "es-en",
+          "tiles": ["I", "would", "love", "to", "visit", "London", "visiting"],
+          "answer": "I would love to visit London",
+          "explanation": "Con «would love», el gerundio «visiting» es incorrecto: se exige siempre infinitivo con «to»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Te importa esperar unos minutos?",
+          "direction": "es-en",
+          "tiles": ["Do", "you", "mind", "waiting", "a", "few", "minutes", "to"],
+          "answer": "Do you mind waiting a few minutes",
+          "explanation": "«Mind» va seguido de gerundio: «mind waiting». La ficha «to» sobra como distractor del infinitivo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella prometió entregar la tarea",
+          "direction": "es-en",
+          "tiles": ["She", "promised", "to", "submit", "the", "task", "submitting"],
+          "answer": "She promised to submit the task",
+          "explanation": "«Promise» + infinitivo con «to». El gerundio «submitting» es el distractor típico de este verbo."
+        },
+        {
+          "type": "speak",
+          "text": "I would love to visit London.",
+          "es": "Me encantaría visitar Londres."
+        },
+        {
+          "type": "speak",
+          "text": "Do you mind waiting a few minutes?",
+          "es": "¿Te importa esperar unos minutos?"
+        },
+        {
+          "type": "speak",
+          "text": "She promised to submit the task today.",
+          "es": "Ella prometió entregar la tarea hoy."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Decidir, esperar y poder permitirse: verbos + infinitivo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "decide", "es": "decidir" },
+            { "en": "afford", "es": "permitirse (económicamente)" },
+            { "en": "manage", "es": "lograr / gestionar" },
+            { "en": "hope", "es": "esperar (deseo)" },
+            { "en": "expect", "es": "esperar (probabilidad)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The company cannot afford _______ new office equipment this month because of the budget.",
+          "options": ["buying", "to buy", "buy"],
+          "correct": 1,
+          "hint": "«Afford» pertenece a los verbos orientados a la capacidad económica futura.",
+          "explanation": "«Afford» exige infinitivo con «to»: «afford to buy». El gerundio «buying» y el infinitivo sin «to» son incorrectos con este verbo."
+        },
+        {
+          "type": "gap",
+          "text": "I cannot afford ___ a new computer. (no me lo puedo permitir)",
+          "options": ["to buy", "buying", "buy"],
+          "answer": "to buy",
+          "explanation": "«Afford» siempre va seguido de infinitivo con «to»: «cannot afford to buy»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos de planificación",
+          "pairs": [
+            { "en": "afford", "es": "permitirse (económicamente)" },
+            { "en": "manage", "es": "lograr / gestionar" },
+            { "en": "hope", "es": "esperar (deseo)" },
+            { "en": "expect", "es": "esperar (probabilidad)" },
+            { "en": "plan", "es": "plan / planificar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We finally managed _______ the office report just five minutes before the deadline.",
+          "options": ["submitting", "to submit", "submit"],
+          "correct": 1,
+          "hint": "«Manage» expresa lograr hacer algo difícil, y exige infinitivo.",
+          "explanation": "«Manage» se construye con infinitivo con «to»: «managed to submit» (lograr entregar). No admite gerundio."
+        },
+        {
+          "type": "gap",
+          "text": "We managed ___ the project before the deadline. (logramos)",
+          "options": ["to finish", "finishing", "finish"],
+          "answer": "to finish",
+          "explanation": "«Manage» exige infinitivo con «to»: «managed to finish», expresando el logro de una tarea difícil."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja decisión, esfuerzo y planes sin repetir",
+          "pairs": [
+            { "en": "decide", "es": "decidir" },
+            { "en": "manage", "es": "lograr / gestionar" },
+            { "en": "expect", "es": "esperar (probabilidad)" },
+            { "en": "plan", "es": "plan / planificar" },
+            { "en": "afford", "es": "permitirse (económicamente)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly reports a decision?",
+          "options": ["We decided studying in the library.", "We decided study in the library.", "We decided to study in the library."],
+          "correct": 2,
+          "hint": "«Decide» pertenece al grupo de verbos orientados al futuro.",
+          "explanation": "«Decide» exige infinitivo con «to»: «decided to study». Traducir directamente «decidí estudiar» lleva al error de usar gerundio."
+        },
+        {
+          "type": "gap",
+          "text": "They plan ___ a new office next year. (planean)",
+          "options": ["to open", "opening", "open"],
+          "answer": "to open",
+          "explanation": "«Plan» es un verbo de futuro y exige infinitivo con «to»: «plan to open»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No podemos permitirnos comprar un ordenador nuevo",
+          "direction": "es-en",
+          "tiles": ["We", "cannot", "afford", "to", "buy", "a", "new", "computer", "buying"],
+          "answer": "We cannot afford to buy a new computer",
+          "explanation": "«Afford» + infinitivo con «to». El gerundio «buying» queda descartado por el patrón verbal de este verbo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Logramos entregar el informe a tiempo",
+          "direction": "es-en",
+          "tiles": ["We", "managed", "to", "submit", "the", "report", "on", "time", "submitting"],
+          "answer": "We managed to submit the report on time",
+          "explanation": "«Manage» + infinitivo con «to», expresando el logro de una tarea difícil dentro de plazo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esperamos aprobar el examen",
+          "direction": "es-en",
+          "tiles": ["We", "hope", "to", "pass", "the", "exam", "passing"],
+          "answer": "We hope to pass the exam",
+          "explanation": "«Hope» expresa un deseo orientado al futuro y exige infinitivo con «to»: «hope to pass»."
+        },
+        {
+          "type": "speak",
+          "text": "The company cannot afford to buy new office equipment.",
+          "es": "La empresa no puede permitirse comprar nuevo equipo de oficina."
+        },
+        {
+          "type": "speak",
+          "text": "We managed to finish the project before the deadline.",
+          "es": "Logramos terminar el proyecto antes de la fecha límite."
+        },
+        {
+          "type": "speak",
+          "text": "They plan to open a new office next year.",
+          "es": "Planean abrir una nueva oficina el año que viene."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Preparar, rechazar y sugerir: gerundio tras preposiciones",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "prepare", "es": "preparar" },
+            { "en": "refuse", "es": "rechazar / negarse" },
+            { "en": "agree", "es": "acordar / estar de acuerdo" },
+            { "en": "avoid", "es": "evitar" },
+            { "en": "suggest", "es": "sugerir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The manager suggested _______ the weekly meeting until next Friday.",
+          "options": ["to postpone", "postponing", "postpone"],
+          "correct": 1,
+          "hint": "«Suggest» nunca va seguido de infinitivo con «to».",
+          "explanation": "«Suggest» exige obligatoriamente gerundio: «suggested postponing». «To postpone» es el distractor clásico de este verbo."
+        },
+        {
+          "type": "gap",
+          "text": "She suggested ___ for the boss. (sugirió esperar)",
+          "options": ["waiting", "to wait", "wait"],
+          "answer": "waiting",
+          "explanation": "«Suggest» va siempre seguido de gerundio: «suggested waiting». Nunca de infinitivo, con o sin «to»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos de recomendación",
+          "pairs": [
+            { "en": "refuse", "es": "rechazar / negarse" },
+            { "en": "agree", "es": "acordar / estar de acuerdo" },
+            { "en": "avoid", "es": "evitar" },
+            { "en": "suggest", "es": "sugerir" },
+            { "en": "recommend", "es": "recomendar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Are you interested in _______ new study strategies to improve your academic performance?",
+          "options": ["learning", "to learn", "learn"],
+          "correct": 0,
+          "hint": "Recuerda la regla absoluta sobre preposiciones.",
+          "explanation": "«Interested in» termina en preposición. Por regla general, cualquier verbo tras una preposición debe ir en gerundio: «interested in learning»."
+        },
+        {
+          "type": "gap",
+          "text": "We talked about ___ a new business. (tras preposición 'about')",
+          "options": ["starting", "to start", "start"],
+          "answer": "starting",
+          "explanation": "Cualquier verbo que siga inmediatamente a una preposición («about») debe ir en gerundio: «about starting»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja preparación, rechazo y recomendación sin repetir",
+          "pairs": [
+            { "en": "prepare", "es": "preparar" },
+            { "en": "agree", "es": "acordar / estar de acuerdo" },
+            { "en": "suggest", "es": "sugerir" },
+            { "en": "recommend", "es": "recomendar" },
+            { "en": "avoid", "es": "evitar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly reports a refusal?",
+          "options": ["They refused signing the document.", "They refused sign the document.", "They refused to sign the document."],
+          "correct": 2,
+          "hint": "«Refuse» (negarse a) pertenece a los verbos + infinitivo con «to».",
+          "explanation": "«Refuse» exige infinitivo con «to»: «refused to sign». El gerundio y el infinitivo sin «to» son incorrectos con este verbo."
+        },
+        {
+          "type": "gap",
+          "text": "They refused ___ the bill. (se negaron a pagar)",
+          "options": ["to pay", "paying", "pay"],
+          "answer": "to pay",
+          "explanation": "«Refuse» (negarse a) exige infinitivo con «to»: «refused to pay»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella sugirió esperar al jefe",
+          "direction": "es-en",
+          "tiles": ["She", "suggested", "waiting", "for", "the", "boss", "to"],
+          "answer": "She suggested waiting for the boss",
+          "explanation": "«Suggest» + gerundio: «suggested waiting». La ficha «to» sobra como distractor del infinitivo, incorrecto con este verbo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Estoy interesado en aprender nuevas habilidades",
+          "direction": "es-en",
+          "tiles": ["I", "am", "interested", "in", "learning", "new", "skills", "to"],
+          "answer": "I am interested in learning new skills",
+          "explanation": "Tras la preposición «in» el verbo debe ir en gerundio: «in learning». La ficha «to» sobra como distractor."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Se negaron a firmar el documento",
+          "direction": "es-en",
+          "tiles": ["They", "refused", "to", "sign", "the", "document", "signing"],
+          "answer": "They refused to sign the document",
+          "explanation": "«Refuse» + infinitivo con «to»: «refused to sign». El gerundio «signing» queda descartado por el patrón verbal."
+        },
+        {
+          "type": "speak",
+          "text": "The manager suggested postponing the weekly meeting.",
+          "es": "El gerente sugirió posponer la reunión semanal."
+        },
+        {
+          "type": "speak",
+          "text": "Are you interested in learning new study strategies?",
+          "es": "¿Estás interesado en aprender nuevas estrategias de estudio?"
+        },
+        {
+          "type": "speak",
+          "text": "They refused to sign the document.",
+          "es": "Se negaron a firmar el documento."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Ofrecer, necesitar y elegir: repaso general de patrones verbales",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "offer", "es": "ofrecer" },
+            { "en": "need", "es": "necesitar" },
+            { "en": "want", "es": "querer" },
+            { "en": "choose", "es": "elegir" },
+            { "en": "learn", "es": "aprender" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly expresses an offer to help?",
+          "options": ["He offered to help me with the schedule.", "He offered helping me with the schedule.", "He offered help me with the schedule."],
+          "correct": 0,
+          "hint": "«Offer» pertenece al grupo de verbos + infinitivo con «to».",
+          "explanation": "«Offer» exige infinitivo con «to»: «offered to help». El gerundio y el infinitivo sin «to» son incorrectos con este verbo."
+        },
+        {
+          "type": "gap",
+          "text": "We need ___ more staff. (necesitamos contratar)",
+          "options": ["to hire", "hiring", "hire"],
+          "answer": "to hire",
+          "explanation": "«Need» exige infinitivo con «to»: «need to hire», igual que want, decide o plan."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más verbos de necesidad y estudio",
+          "pairs": [
+            { "en": "need", "es": "necesitar" },
+            { "en": "want", "es": "querer" },
+            { "en": "choose", "es": "elegir" },
+            { "en": "learn", "es": "aprender" },
+            { "en": "study", "es": "estudiar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Rewrite «I want to go to the party» using «would like».",
+          "options": ["I would like going to the party.", "I would like to go to the party.", "I would to like go to the party."],
+          "correct": 1,
+          "hint": "«Would like» sigue la misma regla que «would love» y «would prefer».",
+          "explanation": "«Would like» siempre exige infinitivo con «to»: «would like to go». «Would like going» usa gerundio, prohibido tras «would»."
+        },
+        {
+          "type": "gap",
+          "text": "I chose ___ for this company. (elegí trabajar)",
+          "options": ["to work", "working", "work"],
+          "answer": "to work",
+          "explanation": "«Choose» exige infinitivo con «to»: «chose to work», como decide, plan o want."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja ofertas, necesidades y aprendizaje sin repetir",
+          "pairs": [
+            { "en": "offer", "es": "ofrecer" },
+            { "en": "want", "es": "querer" },
+            { "en": "learn", "es": "aprender" },
+            { "en": "study", "es": "estudiar" },
+            { "en": "choose", "es": "elegir" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct?",
+          "options": ["I chose working for this company.", "I chose work for this company.", "I chose to work for this company."],
+          "correct": 2,
+          "hint": "«Choose» pertenece al grupo de verbos de decisión + infinitivo.",
+          "explanation": "«Choose» exige infinitivo con «to»: «chose to work». El gerundio y el infinitivo sin «to» son incorrectos con este verbo."
+        },
+        {
+          "type": "gap",
+          "text": "Children learn ___ by listening. (aprenden a hablar)",
+          "options": ["to speak", "speaking", "speak"],
+          "answer": "to speak",
+          "explanation": "«Learn» exige infinitivo con «to»: «learn to speak», expresando la adquisición futura de una habilidad."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Necesitamos contratar más personal",
+          "direction": "es-en",
+          "tiles": ["We", "need", "to", "hire", "more", "staff", "hiring"],
+          "answer": "We need to hire more staff",
+          "explanation": "«Need» + infinitivo con «to». El gerundio «hiring» queda descartado por el patrón verbal de este verbo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Me gustaría ir a la fiesta",
+          "direction": "es-en",
+          "tiles": ["I", "would", "like", "to", "to", "go", "the", "party", "going"],
+          "answer": "I would like to go to the party",
+          "explanation": "«Would like» + infinitivo con «to». Fíjate en que «to» aparece dos veces: antes de «go» y antes de «the party»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Los niños aprenden a hablar escuchando",
+          "direction": "es-en",
+          "tiles": ["Children", "learn", "to", "speak", "by", "listening", "speaking"],
+          "answer": "Children learn to speak by listening",
+          "explanation": "«Learn» + infinitivo con «to»: «learn to speak». «By listening» usa gerundio porque sigue a la preposición «by»."
+        },
+        {
+          "type": "speak",
+          "text": "He offered to help me with the schedule.",
+          "es": "Él se ofreció a ayudarme con el horario."
+        },
+        {
+          "type": "speak",
+          "text": "I would like to go to the party.",
+          "es": "Me gustaría ir a la fiesta."
+        },
+        {
+          "type": "speak",
+          "text": "Children learn to speak by listening.",
+          "es": "Los niños aprenden a hablar escuchando."
+        }
+      ]
+    }
+  ]
+}

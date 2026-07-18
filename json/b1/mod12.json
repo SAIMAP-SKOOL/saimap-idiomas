@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod12",
+  "module": 12,
+  "title": "Modals of Deduction and Speculation",
+  "subtitle": "Modales de Deducción y Especulación",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Vocabulario del misterio: pistas y sospechosos",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "clue", "es": "pista" },
+            { "en": "fingerprint", "es": "huella dactilar" },
+            { "en": "footprint", "es": "huella de pie" },
+            { "en": "murder", "es": "asesinato/asesinar" },
+            { "en": "victim", "es": "víctima" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The police are examining the crime scene for small pieces of information that could help solve the case. What are they looking for?",
+          "options": ["clues", "victims", "suspects"],
+          "correct": 0,
+          "hint": "Es la palabra general para «pistas».",
+          "explanation": "«Clue» es «pista», cualquier información que ayude a resolver un misterio. «Victim» es la víctima y «suspect» es el sospechoso: son personas, no pistas."
+        },
+        {
+          "type": "gap",
+          "text": "The detective found a ___ near the window, proving someone climbed in.",
+          "options": ["footprint", "victim", "murder"],
+          "answer": "footprint",
+          "explanation": "«Footprint» es la huella de pie, una pista física típica en la escena de un crimen. «Victim» y «murder» no son objetos físicos que se «encuentran» de esa forma."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "fingerprint", "es": "huella dactilar" },
+            { "en": "footprint", "es": "huella de pie" },
+            { "en": "murder", "es": "asesinato/asesinar" },
+            { "en": "victim", "es": "víctima" },
+            { "en": "suspect", "es": "sospechoso/sospechar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Investigators compared the marks left on the glass with the ones in their database. What kind of evidence is this?",
+          "options": ["footprints", "witnesses", "fingerprints"],
+          "correct": 2,
+          "hint": "Son las marcas que dejan los dedos.",
+          "explanation": "«Fingerprint» es la huella dactilar, dejada por los dedos. «Footprint» es la huella de pie y «witness» es una persona, no una marca física."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ was found dead in his office at midnight.",
+          "options": ["victim", "suspect", "clue"],
+          "answer": "victim",
+          "explanation": "«Victim» es la persona que sufre el crimen (la víctima). «Suspect» es quien podría haberlo cometido y «clue» no es una persona."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "clue", "es": "pista" },
+            { "en": "footprint", "es": "huella de pie" },
+            { "en": "victim", "es": "víctima" },
+            { "en": "suspect", "es": "sospechoso/sospechar" },
+            { "en": "fingerprint", "es": "huella dactilar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The police believe one specific person is responsible for the crime, but they have not proven it yet. How do they describe this person?",
+          "options": ["the victim", "the suspect", "the clue"],
+          "correct": 1,
+          "hint": "Es la persona que podría haber cometido el crimen, aún sin prueba definitiva.",
+          "explanation": "«Suspect» es el sospechoso, la persona que podría haber cometido el crimen. «Victim» es quien sufre el crimen y «clue» no es una persona."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ happened in the old house last night.",
+          "options": ["murder", "victim", "clue"],
+          "answer": "murder",
+          "explanation": "«Murder» es «asesinato», el hecho criminal en sí. «Victim» es la persona afectada y «clue» es una pista, no el crimen."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Encontraron una pista",
+          "direction": "es-en",
+          "tiles": ["They", "found", "a", "clue", "victim", "suspect"],
+          "answer": "They found a clue",
+          "explanation": "«Clue» es «pista». «Victim» y «suspect» son personas, no pistas, y funcionan como distractores del mismo campo semántico."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es el sospechoso",
+          "direction": "es-en",
+          "tiles": ["He", "is", "the", "suspect", "victim", "witness"],
+          "answer": "He is the suspect",
+          "explanation": "«Suspect» es «sospechoso». «Victim» y «witness» son otros roles distintos dentro de una investigación criminal."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La huella es pequeña",
+          "direction": "es-en",
+          "tiles": ["The", "footprint", "is", "small", "fingerprint", "clue"],
+          "answer": "The footprint is small",
+          "explanation": "«Footprint» es la huella de pie. «Fingerprint» (huella dactilar) y «clue» (pista) son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "The detective found a footprint near the window.",
+          "es": "El detective encontró una huella cerca de la ventana."
+        },
+        {
+          "type": "speak",
+          "text": "The victim was found dead at midnight.",
+          "es": "La víctima fue encontrada muerta a medianoche."
+        },
+        {
+          "type": "speak",
+          "text": "He is the main suspect.",
+          "es": "Él es el principal sospechoso."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Investigación: testigos y coartadas",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "witness", "es": "testigo/presenciar" },
+            { "en": "alibi", "es": "coartada" },
+            { "en": "investigate", "es": "investigar" },
+            { "en": "detective", "es": "detective" },
+            { "en": "solve", "es": "resolver" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Someone saw the crime happen with their own eyes and can describe it to the police. What do we call this person?",
+          "options": ["a witness", "a detective", "a suspect"],
+          "correct": 0,
+          "hint": "Es la persona que vio lo ocurrido.",
+          "explanation": "«Witness» es «testigo», la persona que presenció el hecho. «Detective» investiga el caso y «suspect» es sospechoso, no necesariamente vio nada."
+        },
+        {
+          "type": "gap",
+          "text": "The suspect says he was at the cinema all night; that is his ___.",
+          "options": ["alibi", "witness", "clue"],
+          "answer": "alibi",
+          "explanation": "«Alibi» es la «coartada», la prueba de que estabas en otro lugar cuando ocurrió el crimen."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "alibi", "es": "coartada" },
+            { "en": "investigate", "es": "investigar" },
+            { "en": "detective", "es": "detective" },
+            { "en": "solve", "es": "resolver" },
+            { "en": "guilty", "es": "culpable" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The police are gathering facts, interviewing people, and examining the crime scene carefully. What are they doing?",
+          "options": ["solving", "investigating", "hiding"],
+          "correct": 1,
+          "hint": "Es el proceso de reunir información antes de llegar a una conclusión.",
+          "explanation": "«Investigate» es «investigar», el proceso de reunir pruebas. «Solve» es «resolver» (llegar a la conclusión final) y «hide» es «esconder», lo contrario de investigar."
+        },
+        {
+          "type": "gap",
+          "text": "A good ___ always follows the evidence carefully.",
+          "options": ["detective", "victim", "witness"],
+          "answer": "detective",
+          "explanation": "«Detective» es la persona profesional que investiga crímenes. «Victim» y «witness» son otros roles distintos en la investigación."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "witness", "es": "testigo/presenciar" },
+            { "en": "alibi", "es": "coartada" },
+            { "en": "detective", "es": "detective" },
+            { "en": "solve", "es": "resolver" },
+            { "en": "guilty", "es": "culpable" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After weeks of investigation, the police finally understood exactly what happened and closed the case. What did they do?",
+          "options": ["they investigated the mystery", "they hid the mystery", "they solved the mystery"],
+          "correct": 2,
+          "hint": "Es el resultado final: encontrar la respuesta completa.",
+          "explanation": "«Solve» es «resolver», llegar a la respuesta definitiva. «Investigate» es el proceso previo y «hide» significa esconder, justo lo contrario."
+        },
+        {
+          "type": "gap",
+          "text": "The jury decided the man was ___ of the crime.",
+          "options": ["guilty", "innocent", "witness"],
+          "answer": "guilty",
+          "explanation": "«Guilty» es «culpable». Es el veredicto opuesto a la inocencia, y el que corresponde en este contexto de juicio con jurado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El testigo vio todo",
+          "direction": "es-en",
+          "tiles": ["The", "witness", "saw", "everything", "detective", "victim"],
+          "answer": "The witness saw everything",
+          "explanation": "«Witness» es «testigo». «Detective» y «victim» son otros roles distintos en la investigación."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tiene una coartada",
+          "direction": "es-en",
+          "tiles": ["He", "has", "an", "alibi", "witness", "guilty"],
+          "answer": "He has an alibi",
+          "explanation": "«Alibi» es «coartada». «Witness» y «guilty» son distractores del mismo campo semántico legal/criminal."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El detective resolvió el caso",
+          "direction": "es-en",
+          "tiles": ["The", "detective", "solved", "the", "case", "investigate", "guilty"],
+          "answer": "The detective solved the case",
+          "explanation": "«Solved» es el pasado de «solve» (resolver). «Investigate» describe el proceso previo, no el resultado final, y «guilty» es un adjetivo que no encaja aquí."
+        },
+        {
+          "type": "speak",
+          "text": "The witness saw everything.",
+          "es": "El testigo lo vio todo."
+        },
+        {
+          "type": "speak",
+          "text": "He has a perfect alibi.",
+          "es": "Tiene una coartada perfecta."
+        },
+        {
+          "type": "speak",
+          "text": "The detective solved the case.",
+          "es": "El detective resolvió el caso."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Deducciones lógicas: must, can't, might, may, could",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "innocent", "es": "inocente" },
+            { "en": "must", "es": "deber (deducción/obligación)" },
+            { "en": "can't", "es": "no poder (deducción negativa)" },
+            { "en": "might", "es": "podría (posibilidad)" },
+            { "en": "may", "es": "poder/puede que" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "He has an absolute alibi verified by the police. Which sentence expresses the logical conclusion with total certainty?",
+          "options": ["He might be innocent.", "He can't be innocent.", "He must be innocent."],
+          "correct": 2,
+          "hint": "Busca el modal que expresa certeza lógica positiva casi del 100%.",
+          "explanation": "«Must be» expresa una conclusión lógica con total seguridad, apoyada en una prueba sólida (la coartada verificada). «Might» indicaría una posibilidad débil y «can't» expresaría justo lo contrario: que es imposible que sea inocente."
+        },
+        {
+          "type": "gap",
+          "text": "The thief ___ be inside; the door is locked from the inside and the key is missing.",
+          "options": ["must", "can't", "might"],
+          "answer": "must",
+          "explanation": "«Must» expresa la única conclusión lógica posible ante la evidencia: la puerta cerrada por dentro obliga a deducir que el ladrón está dentro."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "must", "es": "deber (deducción/obligación)" },
+            { "en": "can't", "es": "no poder (deducción negativa)" },
+            { "en": "might", "es": "podría (posibilidad)" },
+            { "en": "may", "es": "poder/puede que" },
+            { "en": "could", "es": "podría" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "She never leaves her house without her keys. Which sentence expresses the most logical deduction about where they are now?",
+          "options": ["They can't be in her handbag.", "They must be in her handbag.", "They might not be in her handbag."],
+          "correct": 1,
+          "hint": "Piensa en el hábito estricto de la persona: ¿qué conclusión es más lógica?",
+          "explanation": "Al ser un hábito estricto (nunca sale sin ellas), la deducción lógica afirmativa más fuerte es «must be» (deben de estar). «Can't» sería ilógico aquí y «might not» debilitaría innecesariamente una deducción tan segura."
+        },
+        {
+          "type": "gap",
+          "text": "You saw him at the bank? That ___ be true! He is in prison.",
+          "options": ["can't", "must", "might"],
+          "answer": "can't",
+          "explanation": "«Can't be true» expresa que algo es lógicamente imposible: si está en prisión, es imposible que lo vieran en el banco."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "innocent", "es": "inocente" },
+            { "en": "can't", "es": "no poder (deducción negativa)" },
+            { "en": "might", "es": "podría (posibilidad)" },
+            { "en": "could", "es": "podría" },
+            { "en": "must", "es": "deber (deducción/obligación)" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The evidence is unclear and the detective isn't sure yet. Which sentence correctly expresses uncertain speculation?",
+          "options": ["The suspect might be guilty.", "The suspect mustn't be guilty.", "The suspect can't be guilty."],
+          "correct": 0,
+          "hint": "Busca el modal para posibilidad débil, no certeza ni prohibición.",
+          "explanation": "«Might be» expresa una posibilidad sin certeza, ideal para evidencia poco clara. «Mustn't» es un error típico del hispanohablante (solo significa prohibición, nunca deducción negativa) y «can't» expresaría certeza total de que es inocente."
+        },
+        {
+          "type": "gap",
+          "text": "There is a shadow outside. It ___ be the suspect, but I'm not sure.",
+          "options": ["could", "must", "can't"],
+          "answer": "could",
+          "explanation": "«Could be» expresa una posibilidad especulativa, sin certeza total, coherente con «but I'm not sure»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Debe de ser culpable",
+          "direction": "es-en",
+          "tiles": ["He", "must", "be", "guilty", "innocent", "might"],
+          "answer": "He must be guilty",
+          "explanation": "«Must be» expresa certeza lógica positiva. «Innocent» es el distractor antónimo y «might» expresaría posibilidad débil, no certeza."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No puede ser verdad",
+          "direction": "es-en",
+          "tiles": ["It", "can't", "be", "true", "mustn't", "might"],
+          "answer": "It can't be true",
+          "explanation": "«Can't be» expresa imposibilidad lógica. «Mustn't» es el error clásico del hispanohablante (solo indica prohibición) y «might» expresaría posibilidad, no certeza negativa."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Podría ser el sospechoso",
+          "direction": "es-en",
+          "tiles": ["It", "could", "be", "the", "suspect", "must", "can't"],
+          "answer": "It could be the suspect",
+          "explanation": "«Could be» expresa una posibilidad especulativa. «Must» y «can't» expresarían certezas (positiva y negativa) que no encajan con la duda."
+        },
+        {
+          "type": "speak",
+          "text": "He must be innocent.",
+          "es": "Debe de ser inocente."
+        },
+        {
+          "type": "speak",
+          "text": "That can't be true!",
+          "es": "¡Eso no puede ser verdad!"
+        },
+        {
+          "type": "speak",
+          "text": "It could be the suspect.",
+          "es": "Podría ser el sospechoso."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Pistas y mentiras: repaso de las deducciones",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "logical", "es": "lógico" },
+            { "en": "truth", "es": "verdad" },
+            { "en": "lie", "es": "mentira/mentir" },
+            { "en": "hide", "es": "esconder/ocultar" },
+            { "en": "find", "es": "encontrar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "There is a dark shadow moving in the garden, but you aren't sure who it is. Which sentence correctly expresses this uncertain speculation?",
+          "options": ["It must be the detective, but I'm not sure.", "It could be the detective, but I'm not sure.", "It can't be the detective, but I'm not sure."],
+          "correct": 1,
+          "hint": "Busca el modal que expresa posibilidad, coherente con la falta de certeza.",
+          "explanation": "«Could be» expresa una posibilidad especulativa, coherente con «but I'm not sure». «Must» implicaría seguridad total, lo cual contradice la frase, y «can't» expresaría que es imposible, negando la posibilidad que la frase sí reconoce."
+        },
+        {
+          "type": "gap",
+          "text": "He is hiding the truth. He must be ___.",
+          "options": ["lying", "lie", "lied"],
+          "answer": "lying",
+          "explanation": "Tras «must be», si queremos indicar una acción en curso, se usa el gerundio: «must be lying». La forma base «lie» o el pasado «lied» no encajan tras «be»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "truth", "es": "verdad" },
+            { "en": "lie", "es": "mentira/mentir" },
+            { "en": "hide", "es": "esconder/ocultar" },
+            { "en": "find", "es": "encontrar" },
+            { "en": "key", "es": "llave" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Based on the evidence, this is the only reasonable conclusion you can reach. How would you describe your reasoning?",
+          "options": ["It's a lie.", "It's a key.", "It's logical."],
+          "correct": 2,
+          "hint": "Busca el adjetivo que describe un razonamiento basado en la evidencia.",
+          "explanation": "«Logical» describe una conclusión razonada a partir de la evidencia. «Lie» es una mentira y «key» es una llave; ninguna encaja como adjetivo de razonamiento."
+        },
+        {
+          "type": "gap",
+          "text": "The detective managed to ___ an important clue under the bed.",
+          "options": ["find", "hide", "lie"],
+          "answer": "find",
+          "explanation": "«Find» es «encontrar». «Hide» significa esconder (lo contrario) y «lie» es mentir; ninguno encaja con «managed to» ante una pista descubierta."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "logical", "es": "lógico" },
+            { "en": "lie", "es": "mentira/mentir" },
+            { "en": "find", "es": "encontrar" },
+            { "en": "key", "es": "llave" },
+            { "en": "truth", "es": "verdad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The suspect is not telling the police what really happened. What is he doing?",
+          "options": ["hiding the truth", "finding the truth", "the logical truth"],
+          "correct": 0,
+          "hint": "Busca el verbo que significa «ocultar».",
+          "explanation": "«Hide the truth» es «ocultar la verdad». «Find the truth» sería lo contrario (descubrirla) y la tercera opción no es una estructura verbal válida."
+        },
+        {
+          "type": "gap",
+          "text": "The intruder must have had a ___ to open that lock without breaking it.",
+          "options": ["key", "truth", "clue"],
+          "answer": "key",
+          "explanation": "«Key» es «llave», el objeto lógico necesario para abrir una cerradura sin forzarla."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es lógico",
+          "direction": "es-en",
+          "tiles": ["It's", "logical", "truth", "lie"],
+          "answer": "It's logical",
+          "explanation": "«Logical» es el adjetivo «lógico». «Truth» y «lie» son sustantivos y no encajan aquí como atributo tras «is»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Está ocultando la verdad",
+          "direction": "es-en",
+          "tiles": ["He", "is", "hiding", "the", "truth", "finding", "lie"],
+          "answer": "He is hiding the truth",
+          "explanation": "«Hiding» (ocultando) es lo opuesto a «finding» (encontrando), un distractor claro. «Lie» es «mentira», un sustantivo relacionado pero distinto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Encontraron la llave",
+          "direction": "es-en",
+          "tiles": ["They", "found", "the", "key", "lock", "clue"],
+          "answer": "They found the key",
+          "explanation": "«Key» es «llave». «Lock» (cerradura) y «clue» (pista) son distractores del mismo campo semántico de la investigación."
+        },
+        {
+          "type": "speak",
+          "text": "It could be the detective, but I'm not sure.",
+          "es": "Podría ser el detective, pero no estoy seguro."
+        },
+        {
+          "type": "speak",
+          "text": "He is hiding the truth.",
+          "es": "Está ocultando la verdad."
+        },
+        {
+          "type": "speak",
+          "text": "They found the key under the bed.",
+          "es": "Encontraron la llave debajo de la cama."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Misterio final: evidencia y repaso",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "lock", "es": "cerradura/cerrar con llave" },
+            { "en": "shadow", "es": "sombra" },
+            { "en": "night", "es": "noche" },
+            { "en": "evidence", "es": "evidencia" },
+            { "en": "secret", "es": "secreto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Look at the suspect's clean shoes, with no mud at all. The murder happened in a muddy forest. Which sentence expresses the logical conclusion about the past?",
+          "options": ["He mustn't kill the victim.", "He can't have killed the victim.", "He might kill the victim."],
+          "correct": 1,
+          "hint": "Busca la forma de pasado del modal que expresa imposibilidad lógica, no prohibición ni posibilidad futura.",
+          "explanation": "«Can't have killed» (no puede haber matado) expresa una deducción lógica negativa sobre el pasado, basada en la evidencia física (sus zapatos limpios). «Mustn't» solo indica prohibición y «might kill» sugiere una posibilidad futura o presente, incompatible con un crimen ya cometido."
+        },
+        {
+          "type": "gap",
+          "text": "The footprints are small, so the suspect ___ be a tall man.",
+          "options": ["can't", "mustn't", "might"],
+          "answer": "can't",
+          "explanation": "La imposibilidad lógica de que sea un hombre alto se expresa con «can't», nunca con «mustn't» (que solo indica prohibición)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras de este bloque",
+          "pairs": [
+            { "en": "shadow", "es": "sombra" },
+            { "en": "night", "es": "noche" },
+            { "en": "evidence", "es": "evidencia" },
+            { "en": "secret", "es": "secreto" },
+            { "en": "mystery", "es": "misterio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The lock was broken from the outside, by force. Which sentence best explains why the intruder didn't need the key?",
+          "options": ["The intruder must have had the key.", "The intruder couldn't have had the key.", "The intruder didn't need to have the key."],
+          "correct": 2,
+          "hint": "Piensa en cómo entró realmente el intruso: por la fuerza, no con una llave.",
+          "explanation": "Como la cerradura fue forzada desde fuera, se deduce que el intruso no necesitó la llave para entrar («didn't need to»). No hay evidencia que obligue a pensar que tenía la llave («must have had»), ni que fuera imposible que la tuviera («couldn't have had»)."
+        },
+        {
+          "type": "gap",
+          "text": "There is not enough ___ to prove he is guilty.",
+          "options": ["evidence", "secret", "mystery"],
+          "answer": "evidence",
+          "explanation": "«Evidence» es la «evidencia/prueba» necesaria para demostrar la culpabilidad. «Secret» y «mystery» no encajan en esta estructura sobre pruebas."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario sin repetir",
+          "pairs": [
+            { "en": "lock", "es": "cerradura/cerrar con llave" },
+            { "en": "evidence", "es": "evidencia" },
+            { "en": "secret", "es": "secreto" },
+            { "en": "mystery", "es": "misterio" },
+            { "en": "shadow", "es": "sombra" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Nobody can explain what really happened that night; even the detective is confused. How would you describe this case?",
+          "options": ["It's a mystery.", "It's a lock.", "It's a witness."],
+          "correct": 0,
+          "hint": "Busca la palabra para «misterio».",
+          "explanation": "«Mystery» es «misterio», un caso que nadie logra explicar. «Lock» es una cerradura y «witness» es una persona; ninguna encaja como descripción del caso."
+        },
+        {
+          "type": "gap",
+          "text": "The victim was hiding a dangerous ___ before the murder.",
+          "options": ["secret", "lock", "shadow"],
+          "answer": "secret",
+          "explanation": "«Secret» es «secreto», algo oculto que alguien guarda. «Lock» y «shadow» no encajan en este contexto de ocultar información."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hay una sombra en la noche",
+          "direction": "es-en",
+          "tiles": ["There", "is", "a", "shadow", "at", "night", "lock"],
+          "answer": "There is a shadow at night",
+          "explanation": "«Shadow» es «sombra» y «night» es «noche». «Lock» (cerradura) es un distractor del mismo campo semántico de misterio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No hay suficiente evidencia",
+          "direction": "es-en",
+          "tiles": ["There", "isn't", "enough", "evidence", "secret", "mystery"],
+          "answer": "There isn't enough evidence",
+          "explanation": "«Evidence» es «evidencia/prueba». «Secret» y «mystery» son distractores del mismo campo semántico de investigación."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es un verdadero misterio",
+          "direction": "es-en",
+          "tiles": ["It's", "a", "real", "mystery", "secret", "lock"],
+          "answer": "It's a real mystery",
+          "explanation": "«Mystery» es «misterio». «Secret» (secreto) y «lock» (cerradura) son distractores del mismo campo semántico."
+        },
+        {
+          "type": "speak",
+          "text": "He can't have killed the victim.",
+          "es": "No puede haber matado a la víctima."
+        },
+        {
+          "type": "speak",
+          "text": "The intruder didn't need to have the key.",
+          "es": "El intruso no necesitó tener la llave."
+        },
+        {
+          "type": "speak",
+          "text": "It's a real mystery.",
+          "es": "Es un verdadero misterio."
+        }
+      ]
+    }
+  ]
+}

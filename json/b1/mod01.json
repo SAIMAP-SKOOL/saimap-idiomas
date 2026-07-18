@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod01",
+  "module": 1,
+  "title": "Past Perfect: Structure & Anteriority",
+  "subtitle": "Past Perfect: Estructura y Anterioridad",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Afirmativo: had + participio",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "before", "es": "antes de" },
+            { "en": "after", "es": "después de" },
+            { "en": "already", "es": "ya" },
+            { "en": "leave", "es": "irse / dejar" },
+            { "en": "arrive", "es": "llegar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence: by the time we got to the platform, the train ___.",
+          "options": ["already left", "had already left", "have already left"],
+          "correct": 1,
+          "hint": "El adverbio «already» va entre el auxiliar y el participio.",
+          "explanation": "El Past Perfect afirmativo es «had» + participio, con «already» colocado entre ambos: «had already left». La forma sin «had» no marca anterioridad y «have» no concuerda con un contexto ya narrado en pasado."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ the house before I called her.",
+          "options": ["left", "had left", "has left"],
+          "answer": "had left",
+          "explanation": "La salida de casa ocurrió antes de la llamada, una acción pasada anterior a otra acción pasada: se necesita «had left», el «pasado del pasado»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "after", "es": "después de" },
+            { "en": "already", "es": "ya" },
+            { "en": "leave", "es": "irse / dejar" },
+            { "en": "arrive", "es": "llegar" },
+            { "en": "train", "es": "tren" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "In the sentence «I'd arrived before the film started», what does «I'd» express?",
+          "options": ["I would", "I had", "I have"],
+          "correct": 1,
+          "hint": "Fíjate en qué forma verbal sigue a la contracción: infinitivo o participio.",
+          "explanation": "«'d» + participio (arrived) es siempre contracción de «had», nunca de «would». «Would» exigiría un infinitivo después (I'd go), no un participio."
+        },
+        {
+          "type": "gap",
+          "text": "By the time he called, I ___ home.",
+          "options": ["arrived", "had arrived", "have arrived"],
+          "answer": "had arrived",
+          "explanation": "«By the time» + pasado simple en la cláusula que marca el punto de referencia exige Past Perfect en la otra acción: «I had arrived» ocurrió antes de esa llamada."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "before", "es": "antes de" },
+            { "en": "already", "es": "ya" },
+            { "en": "leave", "es": "irse / dejar" },
+            { "en": "arrive", "es": "llegar" },
+            { "en": "train", "es": "tren" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that clearly shows the leaving happened before the arrival.",
+          "options": ["He left when she arrived.", "He had left before she arrived.", "He was leaving when she arrived."],
+          "correct": 1,
+          "hint": "Solo una opción usa el «ancla» gramatical de la anterioridad.",
+          "explanation": "«Had left» marca sin ambigüedad que la salida se completó antes de la llegada de ella. Las otras dos opciones sugieren simultaneidad, no anterioridad clara."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ when the film started.",
+          "options": ["had already arrived", "already had arrived", "have already arrived"],
+          "answer": "had already arrived",
+          "explanation": "El orden fijo es «had» + «already» + participio. Colocar «already» antes de «had» es un error común de traducción literal del español."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ya habíamos llegado.",
+          "direction": "es-en",
+          "tiles": ["We", "had", "already", "arrived", "have"],
+          "answer": "We had already arrived",
+          "explanation": "Estructura afirmativa: sujeto + had + already + participio. «Have» sería presente perfecto y no encaja en un relato en pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él se había ido antes.",
+          "direction": "es-en",
+          "tiles": ["He", "had", "left", "before", "leave"],
+          "answer": "He had left before",
+          "explanation": "«Leave» es irregular (leave-left-left). El participio «left» va tras el auxiliar «had», nunca la forma base «leave»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El tren ya había llegado.",
+          "direction": "es-en",
+          "tiles": ["The", "train", "had", "already", "arrived", "arrive"],
+          "answer": "The train had already arrived",
+          "explanation": "«Arrive» es regular: arrive-arrived-arrived. El participio «arrived» se coloca después de «had already»."
+        },
+        {
+          "type": "speak",
+          "text": "The train had already left when we arrived.",
+          "es": "El tren ya se había ido cuando llegamos."
+        },
+        {
+          "type": "speak",
+          "text": "I had arrived before the rain started.",
+          "es": "Yo había llegado antes de que empezara la lluvia."
+        },
+        {
+          "type": "speak",
+          "text": "She had left the house before I called.",
+          "es": "Ella había salido de la casa antes de que yo llamara."
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Negativo e interrogativo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "station", "es": "estación" },
+            { "en": "realize", "es": "darse cuenta" },
+            { "en": "forget", "es": "olvidar" },
+            { "en": "discover", "es": "descubrir" },
+            { "en": "police", "es": "policía" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "He didn't know about the meeting because ___.",
+          "options": ["he hadn't realized it.", "he didn't realized it.", "he haven't realized it."],
+          "correct": 0,
+          "hint": "El auxiliar negativo va justo antes del participio, sin doble marca de pasado.",
+          "explanation": "El negativo es «hadn't» + participio: «hadn't realized». «Didn't realized» duplica erróneamente la marca de pasado, y «haven't» es presente perfecto, no pasado."
+        },
+        {
+          "type": "gap",
+          "text": "The police ___ the crime before he left.",
+          "options": ["hadn't discovered", "didn't discover", "haven't discovered"],
+          "answer": "hadn't discovered",
+          "explanation": "El descubrimiento no se había completado antes de que él se fuera: negativo del Past Perfect es «hadn't» + participio, no «didn't» + infinitivo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "realize", "es": "darse cuenta" },
+            { "en": "forget", "es": "olvidar" },
+            { "en": "discover", "es": "descubrir" },
+            { "en": "police", "es": "policía" },
+            { "en": "crime", "es": "crimen" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "You want to ask if your friend forgot her keys. What do you say?",
+          "options": ["Had she forgotten her keys?", "Did she had forgotten her keys?", "Has she had forgotten her keys?"],
+          "correct": 0,
+          "hint": "El auxiliar «had» se coloca antes del sujeto, sin ayuda de «did».",
+          "explanation": "La interrogativa del Past Perfect es «Had» + sujeto + participio: «Had she forgotten...?». No se combina con «did» ni con «has»."
+        },
+        {
+          "type": "gap",
+          "text": "___ you forgotten your ticket?",
+          "options": ["Had", "Have", "Did"],
+          "answer": "Had",
+          "explanation": "Para preguntar por una acción anterior a otro punto del pasado, el auxiliar interrogativo es «Had», colocado antes del sujeto."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "station", "es": "estación" },
+            { "en": "forget", "es": "olvidar" },
+            { "en": "discover", "es": "descubrir" },
+            { "en": "police", "es": "policía" },
+            { "en": "crime", "es": "crimen" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Someone asks: «Had the police arrived?» What's the natural short answer meaning «yes»?",
+          "options": ["Yes, they had.", "Yes, they did.", "Yes, they have."],
+          "correct": 0,
+          "hint": "La respuesta corta repite el mismo auxiliar de la pregunta.",
+          "explanation": "En las respuestas cortas se repite el auxiliar de la pregunta: si preguntas con «Had», respondes con «had». «Did» y «have» pertenecen a otros tiempos."
+        },
+        {
+          "type": "gap",
+          "text": "She hadn't ___ her passport, so she could travel.",
+          "options": ["forgot", "forgotten", "forget"],
+          "answer": "forgotten",
+          "explanation": "Tras el auxiliar «hadn't» siempre va el participio, no el pasado simple «forgot» ni la forma base «forget». «Forget» es irregular: forget-forgot-forgotten."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No habíamos descubierto el crimen.",
+          "direction": "es-en",
+          "tiles": ["We", "hadn't", "discovered", "the", "crime", "discover"],
+          "answer": "We hadn't discovered the crime",
+          "explanation": "Negativo del Past Perfect: sujeto + hadn't + participio. «Discover» es regular: discover-discovered-discovered."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Habían llegado a la estación?",
+          "direction": "es-en",
+          "tiles": ["Had", "they", "arrived", "at", "the", "station", "Have"],
+          "answer": "Had they arrived at the station",
+          "explanation": "Interrogativa: Had + sujeto + participio + complemento. «Have» no puede sustituir a «Had» en una pregunta sobre el pasado del pasado."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La policía no se había dado cuenta.",
+          "direction": "es-en",
+          "tiles": ["The", "police", "hadn't", "realized", "didn't"],
+          "answer": "The police hadn't realized",
+          "explanation": "Negativo: sujeto + hadn't + participio. «Didn't» exigiría el infinitivo «realize», no el participio."
+        },
+        {
+          "type": "speak",
+          "text": "Had you forgotten about the meeting?",
+          "es": "¿Habías olvidado la reunión?"
+        },
+        {
+          "type": "speak",
+          "text": "The police hadn't discovered the crime yet.",
+          "es": "La policía todavía no había descubierto el crimen."
+        },
+        {
+          "type": "speak",
+          "text": "She hadn't realized her mistake before the train left.",
+          "es": "Ella no se había dado cuenta de su error antes de que el tren se fuera."
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Anterioridad: reconstruir la línea temporal",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "thief", "es": "ladrón" },
+            { "en": "alibi", "es": "coartada" },
+            { "en": "evidence", "es": "evidencia" },
+            { "en": "suspect", "es": "sospechoso/a" },
+            { "en": "witness", "es": "testigo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "After he ___ all the evidence, the investigator realized who the criminal was.",
+          "options": ["had examined", "has examined", "examined"],
+          "correct": 0,
+          "hint": "El análisis se completó antes de la comprensión final.",
+          "explanation": "El examen de las pruebas ocurrió antes de que el investigador «se diera cuenta» (realized). «After» introduce de forma natural el Past Perfect para marcar esa anterioridad."
+        },
+        {
+          "type": "gap",
+          "text": "The ___ had created a false alibi before the detective questioned him.",
+          "options": ["suspect", "witness", "evidence"],
+          "answer": "suspect",
+          "explanation": "Quien inventa una coartada es el «suspect» (sospechoso), no el «witness» (testigo, quien narra lo que vio) ni la «evidence» (las pruebas mismas)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "alibi", "es": "coartada" },
+            { "en": "evidence", "es": "evidencia" },
+            { "en": "suspect", "es": "sospechoso/a" },
+            { "en": "witness", "es": "testigo" },
+            { "en": "investigate", "es": "investigar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly explains why the alibi was false?",
+          "options": ["He had bought the ticket after the crime occurred.", "He bought the ticket after the crime had occurred.", "He has bought the ticket after the crime occurred."],
+          "correct": 0,
+          "hint": "La compra del billete es la acción anterior que desmonta la coartada.",
+          "explanation": "La compra del billete («had bought») ocurrió después del crimen pero se cuenta como el hecho anterior que desmiente la coartada del sospechoso; por eso lleva Past Perfect y «occurred» queda en pasado simple como referencia."
+        },
+        {
+          "type": "gap",
+          "text": "The witness explained that she ___ a strange noise around ten o'clock.",
+          "options": ["heard", "had heard", "has heard"],
+          "answer": "had heard",
+          "explanation": "El testigo relata algo que ocurrió antes del momento en que «explained» (explicó), así que se necesita el Past Perfect: «had heard»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "thief", "es": "ladrón" },
+            { "en": "evidence", "es": "evidencia" },
+            { "en": "suspect", "es": "sospechoso/a" },
+            { "en": "witness", "es": "testigo" },
+            { "en": "investigate", "es": "investigar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that correctly reconstructs the timeline: the noise happened before the witness forgot to check the garden.",
+          "options": ["She had heard a noise, but she had forgotten to check the garden.", "She heard a noise, but she has forgotten to check the garden.", "She had heard a noise, but she forgets to check the garden."],
+          "correct": 0,
+          "hint": "Ambas acciones son anteriores al momento en que se cuenta la historia.",
+          "explanation": "Dentro de un relato en pasado, ambas acciones previas al hilo narrativo principal se marcan con Past Perfect: «had heard» y «had forgotten»."
+        },
+        {
+          "type": "gap",
+          "text": "The investigator found evidence that ___ the thief was guilty.",
+          "options": ["proved", "had proved", "prove"],
+          "answer": "proved",
+          "explanation": "Aquí no hay dos acciones pasadas relacionadas por anterioridad, sino un único hecho en la línea narrativa: basta con el pasado simple «proved»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El testigo había oído un ruido.",
+          "direction": "es-en",
+          "tiles": ["The", "witness", "had", "heard", "a", "noise", "hear"],
+          "answer": "The witness had heard a noise",
+          "explanation": "«Hear» es irregular: hear-heard-heard. El participio «heard» va después de «had»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El sospechoso había creado una coartada.",
+          "direction": "es-en",
+          "tiles": ["The", "suspect", "had", "created", "an", "alibi", "a"],
+          "answer": "The suspect had created an alibi",
+          "explanation": "«Alibi» empieza por sonido de vocal /æ/, así que exige el artículo «an», no «a»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El investigador había encontrado la evidencia.",
+          "direction": "es-en",
+          "tiles": ["The", "investigator", "had", "found", "the", "evidence", "find"],
+          "answer": "The investigator had found the evidence",
+          "explanation": "«Find» es irregular: find-found-found. El participio «found» va tras el auxiliar «had»."
+        },
+        {
+          "type": "speak",
+          "text": "The suspect had created a false alibi.",
+          "es": "El sospechoso había creado una coartada falsa."
+        },
+        {
+          "type": "speak",
+          "text": "The witness had heard a strange noise.",
+          "es": "El testigo había oído un ruido extraño."
+        },
+        {
+          "type": "speak",
+          "text": "After he had examined the evidence, he understood everything.",
+          "es": "Después de haber examinado la evidencia, lo entendió todo."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Marcadores temporales y narrativa policial",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "escape", "es": "escapar" },
+            { "en": "hide", "es": "esconderse / ocultar" },
+            { "en": "lock", "es": "cerrar con llave" },
+            { "en": "key", "es": "llave" },
+            { "en": "door", "es": "puerta" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "When the detective arrived at the station, the suspect ___ already escaped.",
+          "options": ["has", "had", "was"],
+          "correct": 1,
+          "hint": "Busca el auxiliar del «pasado del pasado».",
+          "explanation": "«Had» es el auxiliar correcto porque la huida del sospechoso ocurrió antes de la llegada del detective. «Has» rompe la concordancia con «arrived» y «was» no encaja con un participio activo como «escaped»."
+        },
+        {
+          "type": "gap",
+          "text": "By the time the owner checked the room, the thief ___.",
+          "options": ["escaped", "had escaped", "has escaped"],
+          "answer": "had escaped",
+          "explanation": "«By the time» + pasado simple marca el punto de referencia; la fuga, anterior a ese momento, requiere Past Perfect: «had escaped»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "hide", "es": "esconderse / ocultar" },
+            { "en": "lock", "es": "cerrar con llave" },
+            { "en": "key", "es": "llave" },
+            { "en": "door", "es": "puerta" },
+            { "en": "window", "es": "ventana" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I couldn't open the door because I ___ my keys at the station.",
+          "options": ["had forgotten", "forgot", "have forgotten"],
+          "correct": 0,
+          "hint": "La incapacidad en pasado pide una causa también en el pasado del pasado.",
+          "explanation": "El olvido de las llaves ocurrió antes del intento de abrir la puerta: «had forgotten» marca esa anterioridad. «Have forgotten» es presente perfecto y no sirve en un relato pasado."
+        },
+        {
+          "type": "gap",
+          "text": "They didn't find the money because the suspect ___ it.",
+          "options": ["hid", "had hidden", "hides"],
+          "answer": "had hidden",
+          "explanation": "El ocultamiento del dinero ocurrió antes de la búsqueda. «Hide» es irregular: hide-hid-hidden, y el participio es «hidden», no «hid»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "escape", "es": "escapar" },
+            { "en": "lock", "es": "cerrar con llave" },
+            { "en": "key", "es": "llave" },
+            { "en": "door", "es": "puerta" },
+            { "en": "window", "es": "ventana" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence.",
+          "options": ["By the time the police arrived, the thief had escape.", "By the time the police arrived, the thief had escaped.", "By the time the police arrived, the thief has escaped."],
+          "correct": 1,
+          "hint": "El Past Perfect necesita la tercera columna del verbo, no el infinitivo.",
+          "explanation": "El Past Perfect exige el participio del verbo principal: «had escaped», nunca el infinitivo «escape». «Has escaped» es presente perfecto y no concuerda con el relato en pasado."
+        },
+        {
+          "type": "gap",
+          "text": "She told me she ___ the door.",
+          "options": ["already had locked", "had already locked", "has already locked"],
+          "answer": "had already locked",
+          "explanation": "«Already» se coloca entre el auxiliar «had» y el participio, nunca antes de «had»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El ladrón se había escondido detrás de la puerta.",
+          "direction": "es-en",
+          "tiles": ["The", "thief", "had", "hidden", "behind", "the", "door", "hide"],
+          "answer": "The thief had hidden behind the door",
+          "explanation": "«Hide» es irregular: hide-hid-hidden. Tras «had» se usa siempre el participio «hidden»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella había cerrado con llave la ventana.",
+          "direction": "es-en",
+          "tiles": ["She", "had", "locked", "the", "window", "lock"],
+          "answer": "She had locked the window",
+          "explanation": "«Lock» es regular: lock-locked-locked. El participio va justo después de «had»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Habían olvidado la llave.",
+          "direction": "es-en",
+          "tiles": ["They", "had", "forgotten", "the", "key", "forget"],
+          "answer": "They had forgotten the key",
+          "explanation": "«Forget» es irregular: forget-forgot-forgotten. El participio «forgotten» sigue al auxiliar «had»."
+        },
+        {
+          "type": "speak",
+          "text": "The thief had escaped before the police arrived.",
+          "es": "El ladrón había escapado antes de que llegara la policía."
+        },
+        {
+          "type": "speak",
+          "text": "She had locked the door and the window.",
+          "es": "Ella había cerrado con llave la puerta y la ventana."
+        },
+        {
+          "type": "speak",
+          "text": "I had forgotten my key at the station.",
+          "es": "Había olvidado mi llave en la estación."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Repaso: la narrativa completa del misterio",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "safe", "es": "caja fuerte" },
+            { "en": "money", "es": "dinero" },
+            { "en": "gold", "es": "oro" },
+            { "en": "jewel", "es": "joya" },
+            { "en": "clock", "es": "reloj" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Why did you call the police? Because someone ___ the safe window.",
+          "options": ["had broken", "broke", "has broken"],
+          "correct": 0,
+          "hint": "La rotura ocurrió antes de la llamada telefónica.",
+          "explanation": "Romper la ventana ocurrió antes de llamar a la policía, así que el Past Perfect («had broken») sitúa correctamente el evento en el pasado anterior."
+        },
+        {
+          "type": "gap",
+          "text": "The lock on the window had been broken and someone ___ the family gold.",
+          "options": ["stole", "had stolen", "has stolen"],
+          "answer": "had stolen",
+          "explanation": "Ambos hechos —romper la cerradura y robar el oro— son anteriores al momento en que el detective los descubre, por eso los dos van en Past Perfect."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "money", "es": "dinero" },
+            { "en": "gold", "es": "oro" },
+            { "en": "jewel", "es": "joya" },
+            { "en": "clock", "es": "reloj" },
+            { "en": "time", "es": "tiempo / hora" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "By the time we discovered the crime, the thief ___ the gold.",
+          "options": ["hid", "had hidden", "has hidden"],
+          "correct": 1,
+          "hint": "El robo y el ocultamiento ocurrieron antes del descubrimiento.",
+          "explanation": "«Had hidden» es el Past Perfect del verbo irregular «hide» (hide-hid-hidden). Es necesario porque el ocultamiento del oro ocurrió antes de que descubriéramos el crimen."
+        },
+        {
+          "type": "gap",
+          "text": "We couldn't buy the tickets because we ___ all our money.",
+          "options": ["spent", "had spent", "have spent"],
+          "answer": "had spent",
+          "explanation": "El gasto del dinero ocurrió antes del intento fallido de comprar los billetes: se necesita el Past Perfect «had spent» para marcar esa anterioridad."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja las palabras sin repetir la primera",
+          "pairs": [
+            { "en": "safe", "es": "caja fuerte" },
+            { "en": "gold", "es": "oro" },
+            { "en": "jewel", "es": "joya" },
+            { "en": "clock", "es": "reloj" },
+            { "en": "time", "es": "tiempo / hora" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["By the time the clock struck midnight, they had already found the jewel.", "By the time the clock struck midnight, they already had found the jewel.", "By the time the clock struck midnight, they have already found the jewel."],
+          "correct": 0,
+          "hint": "«Already» se coloca justo después del auxiliar, no antes.",
+          "explanation": "El orden correcto es «had already found»: el auxiliar «had» va primero, luego «already», y por último el participio. «Have» sería presente perfecto y no encaja en el relato pasado."
+        },
+        {
+          "type": "gap",
+          "text": "We arrived at midnight; the clock ___ working.",
+          "options": ["already had stopped", "had already stopped", "have already stopped"],
+          "answer": "had already stopped",
+          "explanation": "Repaso final del orden fijo: had + already + participio. El reloj dejó de funcionar antes de que llegáramos a medianoche."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Habían robado el oro y las joyas.",
+          "direction": "es-en",
+          "tiles": ["They", "had", "stolen", "the", "gold", "and", "jewels", "steal"],
+          "answer": "They had stolen the gold and jewels",
+          "explanation": "«Steal» es irregular: steal-stole-stolen. El participio «stolen» va después de «had»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El reloj ya había parado.",
+          "direction": "es-en",
+          "tiles": ["The", "clock", "had", "already", "stopped", "stop"],
+          "answer": "The clock had already stopped",
+          "explanation": "«Stop» es regular: stop-stopped-stopped. Orden fijo: had + already + participio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Habíamos gastado todo el dinero.",
+          "direction": "es-en",
+          "tiles": ["We", "had", "spent", "all", "the", "money", "spend"],
+          "answer": "We had spent all the money",
+          "explanation": "«Spend» es irregular: spend-spent-spent. El participio «spent» sigue al auxiliar «had»."
+        },
+        {
+          "type": "speak",
+          "text": "Someone had stolen the gold from the safe.",
+          "es": "Alguien había robado el oro de la caja fuerte."
+        },
+        {
+          "type": "speak",
+          "text": "By the time the clock struck midnight, they had already found the jewel.",
+          "es": "Cuando el reloj dio la medianoche, ya habían encontrado la joya."
+        },
+        {
+          "type": "speak",
+          "text": "We had spent all our money before the train arrived.",
+          "es": "Habíamos gastado todo nuestro dinero antes de que llegara el tren."
+        }
+      ]
+    }
+  ]
+}

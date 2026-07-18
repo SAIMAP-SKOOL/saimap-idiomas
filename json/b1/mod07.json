@@ -1,0 +1,623 @@
+{
+  "id": "b1-mod07",
+  "module": 7,
+  "title": "Present Perfect Simple vs. Continuous",
+  "subtitle": "Perfecto Simple frente a Continuo",
+  "sublevels": [
+    {
+      "n": 1,
+      "title": "Resultado vs. proceso: primeros contrastes",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "achieve", "es": "lograr/alcanzar" },
+            { "en": "complete", "es": "completar" },
+            { "en": "progress", "es": "progreso" },
+            { "en": "result", "es": "resultado" },
+            { "en": "action", "es": "acción" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your team has just finished the new office block and it's ready to use. Which sentence describes it?",
+          "options": ["We have built a new office block.", "We have been building a new office block.", "We build a new office block."],
+          "correct": 0,
+          "hint": "El edificio ya está terminado y listo, no en proceso.",
+          "explanation": "Cuando el resultado es lo importante (el edificio terminado), se usa el Present Perfect Simple: «have built». La forma continua sugeriría que aún se está construyendo."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ our sales target this quarter.",
+          "options": ["have achieved", "have been achieving", "achieve"],
+          "answer": "have achieved",
+          "explanation": "El objetivo ya está logrado y el resultado es lo relevante, así que se usa el Present Perfect Simple: «have achieved»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "complete", "es": "completar" },
+            { "en": "progress", "es": "progreso" },
+            { "en": "result", "es": "resultado" },
+            { "en": "action", "es": "acción" },
+            { "en": "state", "es": "estado/declarar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the sentence that focuses on the number of completed actions.",
+          "options": ["They have been creating designs all week.", "They have created three new designs this week.", "They are creating three designs."],
+          "correct": 1,
+          "hint": "Busca la frase con un número de resultados.",
+          "explanation": "«Three new designs» cuenta resultados finalizados, así que corresponde el Present Perfect Simple. La forma continua no cuantifica, solo describe el proceso."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ the report two days ago and it's finished now.",
+          "options": ["has completed", "has been completing", "completes"],
+          "answer": "has completed",
+          "explanation": "El informe está terminado (resultado visible), por lo que corresponde el Present Perfect Simple: «has completed»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "achieve", "es": "lograr/alcanzar" },
+            { "en": "progress", "es": "progreso" },
+            { "en": "action", "es": "acción" },
+            { "en": "state", "es": "estado/declarar" },
+            { "en": "result", "es": "resultado" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which question asks about the length of an ongoing activity, not the number of results?",
+          "options": ["How many designs have you created?", "How much progress have you made?", "How long have you been designing this software?"],
+          "correct": 2,
+          "hint": "«How long» pregunta por duración, no por cantidad.",
+          "explanation": "«How long» exige el Present Perfect Continuous porque se centra en la duración del proceso. «How many» y «how much» piden un resultado cuantificable, propio del Simple."
+        },
+        {
+          "type": "gap",
+          "text": "How much ___ have you made on the project?",
+          "options": ["progress", "progresses", "action"],
+          "answer": "progress",
+          "explanation": "«Progress» es incontable en inglés y se usa con «how much», no en plural. Aquí la pregunta busca cuantificar lo logrado hasta ahora."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "He logrado el objetivo",
+          "direction": "es-en",
+          "tiles": ["I", "have", "achieved", "the", "goal", "achieve"],
+          "answer": "I have achieved the goal",
+          "explanation": "Resultado ya conseguido: sujeto + have + participio (achieved) + objeto. El Present Perfect Simple marca la meta como cumplida."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hemos completado el informe",
+          "direction": "es-en",
+          "tiles": ["We", "have", "completed", "the", "report", "complete"],
+          "answer": "We have completed the report",
+          "explanation": "El informe está terminado, así que se usa el participio «completed» con el auxiliar «have», no la forma base «complete»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Qué progreso has hecho?",
+          "direction": "es-en",
+          "tiles": ["What", "progress", "have", "you", "made", "has"],
+          "answer": "What progress have you made",
+          "explanation": "Pregunta con «what progress»: orden interrogativo have + you + made. Con «you» el auxiliar es «have», no «has»."
+        },
+        {
+          "type": "speak",
+          "text": "We have achieved our target.",
+          "es": "Hemos logrado nuestro objetivo."
+        },
+        {
+          "type": "speak",
+          "text": "She has completed the report.",
+          "es": "Ella ha completado el informe."
+        },
+        {
+          "type": "speak",
+          "text": "What progress have you made?",
+          "es": "¿Qué progreso has hecho?"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "title": "Construir y diseñar: formando el Continuous",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "build", "es": "construir" },
+            { "en": "design", "es": "diseñar" },
+            { "en": "create", "es": "crear" },
+            { "en": "invent", "es": "inventar" },
+            { "en": "buy", "es": "comprar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your manager wants a monthly report of finished work. Complete: 'How many designs ___ so far this month?'",
+          "options": ["have you been creating", "have you created", "do you create"],
+          "correct": 1,
+          "hint": "«How many» + «so far» piden un número de resultados acumulados.",
+          "explanation": "«How many» junto con «so far» exige el Present Perfect Simple para contar resultados: «have you created». La forma continua no cuantifica y el presente simple no conecta con el momento actual."
+        },
+        {
+          "type": "gap",
+          "text": "___ you designed the new logo yet?",
+          "options": ["Have", "Has", "Did"],
+          "answer": "Have",
+          "explanation": "La interrogativa del Present Perfect Simple se forma con «Have/Has» + sujeto + participio. Con «you» corresponde «Have»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "design", "es": "diseñar" },
+            { "en": "create", "es": "crear" },
+            { "en": "invent", "es": "inventar" },
+            { "en": "buy", "es": "comprar" },
+            { "en": "sell", "es": "vender" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence shows that the building work is still going on, or that the mess is evidence of very recent work?",
+          "options": ["They have built the new office block.", "They build the new office block.", "They have been building the new office block."],
+          "correct": 2,
+          "hint": "Busca la frase centrada en el proceso inacabado.",
+          "explanation": "El Present Perfect Continuous («have been building») pone el foco en el proceso, sugiriendo que la obra sigue en marcha o que el desorden actual es evidencia de la actividad reciente."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ inventing new gadgets since he was a teenager.",
+          "options": ["has been", "have been", "has"],
+          "answer": "has been",
+          "explanation": "Con «he» (tercera persona singular) el auxiliar es «has», y la forma continua necesita «been» + gerundio: «has been inventing»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "build", "es": "construir" },
+            { "en": "create", "es": "crear" },
+            { "en": "invent", "es": "inventar" },
+            { "en": "sell", "es": "vender" },
+            { "en": "buy", "es": "comprar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct negative form: 'We ___ that model this year.'",
+          "options": ["haven't sold", "haven't been sell", "don't sold"],
+          "correct": 0,
+          "hint": "La negación del Present Perfect Simple usa «haven't» + participio.",
+          "explanation": "La forma negativa correcta es «haven't» + participio pasado: «haven't sold». «Haven't been sell» está mal formado y «don't sold» mezcla dos tiempos verbales."
+        },
+        {
+          "type": "gap",
+          "text": "They ___ three cars this year, and they're not finished yet.",
+          "options": ["have been selling", "have sold", "sell"],
+          "answer": "have been selling",
+          "explanation": "Aunque «three cars» sugiere una cifra, «they're not finished yet» indica que el proceso de ventas continúa, así que se prioriza el Present Perfect Continuous."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "He construido una pared",
+          "direction": "es-en",
+          "tiles": ["I", "have", "built", "a", "wall", "build"],
+          "answer": "I have built a wall",
+          "explanation": "Resultado terminado: sujeto + have + participio «built» + objeto. «Build» sin conjugar no sirve como participio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hemos comprado cinco ordenadores",
+          "direction": "es-en",
+          "tiles": ["We", "have", "bought", "five", "computers", "buy"],
+          "answer": "We have bought five computers",
+          "explanation": "«Bought» es el participio irregular de «buy». El resultado (los ordenadores ya adquiridos) exige Present Perfect Simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Has diseñado el logo?",
+          "direction": "es-en",
+          "tiles": ["Have", "you", "designed", "the", "logo", "design"],
+          "answer": "Have you designed the logo",
+          "explanation": "Interrogativa: Have + you + participio «designed» + objeto. El auxiliar va siempre antes del sujeto en preguntas."
+        },
+        {
+          "type": "speak",
+          "text": "I have built a garden wall.",
+          "es": "He construido un muro en el jardín."
+        },
+        {
+          "type": "speak",
+          "text": "They have been building the office all week.",
+          "es": "Han estado construyendo la oficina toda la semana."
+        },
+        {
+          "type": "speak",
+          "text": "Have you sold the car?",
+          "es": "¿Has vendido el coche?"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "title": "Verbos de estado: la trampa del Continuous",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "pay", "es": "pagar" },
+            { "en": "cost", "es": "costar/coste" },
+            { "en": "price", "es": "precio" },
+            { "en": "budget", "es": "presupuesto" },
+            { "en": "contract", "es": "contrato" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I am exhausted because I ___ a new budget all night.",
+          "options": ["have prepared", "prepare", "have been preparing"],
+          "correct": 2,
+          "hint": "El cansancio actual es evidencia de un proceso largo.",
+          "explanation": "El cansancio (evidencia física presente) es consecuencia del proceso continuado durante toda la noche, así que corresponde el Present Perfect Continuous: «have been preparing»."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ the contract for weeks, but we still don't have the money.",
+          "options": ["have had", "have been having", "have"],
+          "answer": "have had",
+          "explanation": "«Have» en el sentido de posesión es un verbo de estado, así que se usa la forma simple: «have had», no la continua."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "cost", "es": "costar/coste" },
+            { "en": "price", "es": "precio" },
+            { "en": "budget", "es": "presupuesto" },
+            { "en": "contract", "es": "contrato" },
+            { "en": "deal", "es": "acuerdo/trato" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically correct about a stative verb?",
+          "options": ["We have known the price for weeks.", "We have been knowing the price for weeks.", "We know the price for weeks."],
+          "correct": 0,
+          "hint": "«Know» es un verbo de estado; rechaza la forma continua.",
+          "explanation": "«Know» es un verbo de estado y nunca admite la forma continua, incluso al hablar de duración: «have known», nunca «have been knowing»."
+        },
+        {
+          "type": "gap",
+          "text": "He ___ about the budget for three days, and he still hasn't decided.",
+          "options": ["has been thinking", "has thought", "thinks"],
+          "answer": "has been thinking",
+          "explanation": "El proceso de reflexión sigue sin concluir (todavía no ha decidido), así que se usa el Present Perfect Continuous: «has been thinking»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "pay", "es": "pagar" },
+            { "en": "price", "es": "precio" },
+            { "en": "contract", "es": "contrato" },
+            { "en": "deal", "es": "acuerdo/trato" },
+            { "en": "budget", "es": "presupuesto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about an expensive contract.",
+          "options": ["This contract has been costing a lot of money.", "This contract has cost a lot of money.", "This contract is costing a lot of money since months."],
+          "correct": 1,
+          "hint": "«Cost» es un verbo de estado.",
+          "explanation": "«Cost» es un verbo de estado (describe un valor), así que no admite la forma continua: «has cost», nunca «has been costing»."
+        },
+        {
+          "type": "gap",
+          "text": "This contract ___ a lot of money so far.",
+          "options": ["has cost", "has been costing", "costs"],
+          "answer": "has cost",
+          "explanation": "«Cost» es un verbo de estado y no admite la forma continua ni siquiera para expresar acumulación: «has cost», nunca «has been costing»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "He pagado la factura",
+          "direction": "es-en",
+          "tiles": ["I", "have", "paid", "the", "bill", "pay"],
+          "answer": "I have paid the bill",
+          "explanation": "«Paid» es el participio irregular de «pay». Resultado completado: have + participio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hemos firmado el contrato",
+          "direction": "es-en",
+          "tiles": ["We", "have", "signed", "the", "contract", "sign"],
+          "answer": "We have signed the contract",
+          "explanation": "El contrato ya está firmado (resultado visible), así que se usa el participio «signed» con «have»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El presupuesto ha costado mucho",
+          "direction": "es-en",
+          "tiles": ["The", "budget", "has", "cost", "a", "lot", "costing"],
+          "answer": "The budget has cost a lot",
+          "explanation": "«Cost» no cambia de forma en participio y, al ser verbo de estado, nunca se usa «costing» con «has been»."
+        },
+        {
+          "type": "speak",
+          "text": "This contract has cost a lot of money.",
+          "es": "Este contrato ha costado mucho dinero."
+        },
+        {
+          "type": "speak",
+          "text": "We have known the price for weeks.",
+          "es": "Hemos sabido el precio desde hace semanas."
+        },
+        {
+          "type": "speak",
+          "text": "I have paid the bill.",
+          "es": "He pagado la factura."
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "title": "Permanente o temporal: ofertas y negociaciones",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "offer", "es": "ofrecer/oferta" },
+            { "en": "accept", "es": "aceptar" },
+            { "en": "reject", "es": "rechazar" },
+            { "en": "negotiate", "es": "negociar" },
+            { "en": "temporary", "es": "temporal" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "She ___ the job offer yet, as she is still thinking about it.",
+          "options": ["hasn't accepted", "hasn't been accepting", "doesn't accept"],
+          "correct": 0,
+          "hint": "Es una acción puntual, no un estado continuo.",
+          "explanation": "Aceptar es una acción puntual y «yet» en negativas se combina con el Present Perfect Simple: «hasn't accepted». La forma continua sugiere un proceso raro para un verbo puntual."
+        },
+        {
+          "type": "gap",
+          "text": "We ___ the terms of the deal, but they haven't accepted yet.",
+          "options": ["have offered", "have been offering", "offer"],
+          "answer": "have offered",
+          "explanation": "La oferta ya se ha realizado como acción completada, por lo que corresponde el Present Perfect Simple: «have offered»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del tema",
+          "pairs": [
+            { "en": "accept", "es": "aceptar" },
+            { "en": "reject", "es": "rechazar" },
+            { "en": "negotiate", "es": "negociar" },
+            { "en": "temporary", "es": "temporal" },
+            { "en": "permanent", "es": "permanente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Your hands are dirty and you're tired. Someone asks what you did. Which reply shows the evidence of a recent activity?",
+          "options": ["I have built the wall.", "I have been building the wall.", "I build the wall."],
+          "correct": 1,
+          "hint": "Busca la frase que conecta el estado físico actual con el proceso.",
+          "explanation": "Cuando hay evidencia física presente (manos sucias, cansancio) de una actividad reciente, se usa el Present Perfect Continuous: «have been building»."
+        },
+        {
+          "type": "gap",
+          "text": "They ___ this contract for two weeks, but they still haven't rejected or accepted it.",
+          "options": ["have been negotiating", "have negotiated", "negotiate"],
+          "answer": "have been negotiating",
+          "explanation": "El proceso de negociación continúa sin resolverse, así que se usa el Present Perfect Continuous: «have been negotiating»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja palabras sin repetir",
+          "pairs": [
+            { "en": "offer", "es": "ofrecer/oferta" },
+            { "en": "reject", "es": "rechazar" },
+            { "en": "negotiate", "es": "negociar" },
+            { "en": "permanent", "es": "permanente" },
+            { "en": "temporary", "es": "temporal" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence describes a permanent life situation, not a temporary phase?",
+          "options": ["I have been staying at a hotel while they renovate my house.", "She has been working as a temporary designer.", "My family has owned this business for generations."],
+          "correct": 2,
+          "hint": "Busca la frase sin idea de cambio próximo.",
+          "explanation": "«Has owned... for generations» describe una situación permanente y duradera, propia del Present Perfect Simple. Las otras dos frases usan la forma continua porque describen situaciones temporales."
+        },
+        {
+          "type": "gap",
+          "text": "She ___ as a temporary consultant until she finds a permanent job.",
+          "options": ["has been working", "has worked", "works"],
+          "answer": "has been working",
+          "explanation": "La situación es explícitamente temporal («temporary», «until she finds»), lo que favorece el Present Perfect Continuous: «has been working»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Hemos rechazado la oferta",
+          "direction": "es-en",
+          "tiles": ["We", "have", "rejected", "the", "offer", "reject"],
+          "answer": "We have rejected the offer",
+          "explanation": "«Rejected» es el participio de «reject». Resultado completado: have + participio + objeto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella ha aceptado el trabajo",
+          "direction": "es-en",
+          "tiles": ["She", "has", "accepted", "the", "job", "accept"],
+          "answer": "She has accepted the job",
+          "explanation": "Con «she» el auxiliar es «has». «Accepted» es el participio de «accept», acción puntual ya completada."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es una situación temporal",
+          "direction": "es-en",
+          "tiles": ["It", "is", "a", "temporary", "situation", "permanent"],
+          "answer": "It is a temporary situation",
+          "explanation": "«Temporary» describe una fase pasajera, lo opuesto de «permanent». Aquí se usa como adjetivo antes del sustantivo."
+        },
+        {
+          "type": "speak",
+          "text": "We have offered a fair deal.",
+          "es": "Hemos ofrecido un trato justo."
+        },
+        {
+          "type": "speak",
+          "text": "They have been negotiating the contract all week.",
+          "es": "Han estado negociando el contrato toda la semana."
+        },
+        {
+          "type": "speak",
+          "text": "She hasn't accepted the job offer yet.",
+          "es": "Ella todavía no ha aceptado la oferta de trabajo."
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "title": "Marcadores clave: how long, since, already, yet",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada marcador con su traducción",
+          "pairs": [
+            { "en": "how long", "es": "cuánto tiempo" },
+            { "en": "how many", "es": "cuántos" },
+            { "en": "how much", "es": "cuánto" },
+            { "en": "already", "es": "ya" },
+            { "en": "yet", "es": "todavía/ya" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We ___ the terms of the contract since 9 o'clock, but we haven't reached a deal yet.",
+          "options": ["have negotiated", "have been negotiating", "are negotiating"],
+          "correct": 1,
+          "hint": "El proceso sigue activo y sin concluir.",
+          "explanation": "«Since 9 o'clock» más la falta de acuerdo (todavía no lo han conseguido) exige el Present Perfect Continuous: «have been negotiating», ya que enfatiza el proceso largo e inconcluso."
+        },
+        {
+          "type": "gap",
+          "text": "He hasn't accepted the contract ___.",
+          "options": ["yet", "already", "since"],
+          "answer": "yet",
+          "explanation": "En oraciones negativas, para expresar que algo no ha ocurrido todavía se usa «yet», no «already» (que es para afirmativas)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más marcadores",
+          "pairs": [
+            { "en": "how many", "es": "cuántos" },
+            { "en": "how much", "es": "cuánto" },
+            { "en": "already", "es": "ya" },
+            { "en": "yet", "es": "todavía/ya" },
+            { "en": "since", "es": "desde" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "The company ___ this permanent office since 2015.",
+          "options": ["has been owning", "owns", "has owned"],
+          "correct": 2,
+          "hint": "«Own» es un verbo de estado.",
+          "explanation": "«Own» es un verbo de estado que expresa posesión y nunca admite la forma continua: «has owned», con «since» marcando el punto de inicio."
+        },
+        {
+          "type": "gap",
+          "text": "How many times ___ you bought that model?",
+          "options": ["have", "has", "having"],
+          "answer": "have",
+          "explanation": "Cuando se pregunta por el número de veces que se repite una acción completada («how many times»), se usa el Present Perfect Simple con el auxiliar «have» para «you»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja marcadores sin repetir",
+          "pairs": [
+            { "en": "how long", "es": "cuánto tiempo" },
+            { "en": "already", "es": "ya" },
+            { "en": "yet", "es": "todavía/ya" },
+            { "en": "since", "es": "desde" },
+            { "en": "how much", "es": "cuánto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence with 'already' in an affirmative statement.",
+          "options": ["He has already signed the contract.", "He hasn't signed the contract already.", "He has signed already the contract."],
+          "correct": 0,
+          "hint": "«Already» se coloca entre el auxiliar y el participio en afirmativas.",
+          "explanation": "«Already» se usa en afirmativas para indicar que algo ocurrió antes de lo esperado, y se coloca entre el auxiliar y el participio: «has already signed». En negativas se usa «yet», no «already»."
+        },
+        {
+          "type": "gap",
+          "text": "___ have you been designing this software?",
+          "options": ["How long", "How many", "How much"],
+          "answer": "How long",
+          "explanation": "«How long» pregunta por la duración de un proceso y activa el Present Perfect Continuous: «have you been designing»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Cuánto tiempo has estado esperando?",
+          "direction": "es-en",
+          "tiles": ["How", "long", "have", "you", "been", "waiting", "many"],
+          "answer": "How long have you been waiting",
+          "explanation": "Pregunta por duración: «how long» + have + you + been + gerundio. «How many» no encaja porque no hay cantidad que contar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ya he pagado la factura",
+          "direction": "es-en",
+          "tiles": ["I", "have", "already", "paid", "the", "bill", "yet"],
+          "answer": "I have already paid the bill",
+          "explanation": "«Already» se coloca entre el auxiliar «have» y el participio «paid» en frases afirmativas para indicar que algo ya ocurrió."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Todavía no hemos aceptado el trato",
+          "direction": "es-en",
+          "tiles": ["We", "haven't", "accepted", "the", "deal", "yet", "already"],
+          "answer": "We haven't accepted the deal yet",
+          "explanation": "En negativas, «yet» va al final de la frase para indicar que algo no ha ocurrido todavía; «already» no se usa en negativas."
+        },
+        {
+          "type": "speak",
+          "text": "How long have you been waiting?",
+          "es": "¿Cuánto tiempo has estado esperando?"
+        },
+        {
+          "type": "speak",
+          "text": "I have already paid the bill.",
+          "es": "Ya he pagado la factura."
+        },
+        {
+          "type": "speak",
+          "text": "We haven't accepted the deal yet.",
+          "es": "Todavía no hemos aceptado el trato."
+        }
+      ]
+    }
+  ]
+}

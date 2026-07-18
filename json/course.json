@@ -67,7 +67,38 @@
         { "n": 25, "title": "Review and Consolidation A2", "es": "Repaso y Consolidación A2", "file": "a2/mod25.json", "sublevels": 5 }
       ]
     },
-    { "code": "B1", "name": "La Coherencia y la Experiencia", "color": "#3B6FA6", "locked": true, "moduleCount": 25 },
+    {
+      "code": "B1",
+      "name": "La Coherencia y la Experiencia",
+      "color": "#3B6FA6",
+      "modules": [
+        { "n": 1,  "title": "Past Perfect: Structure & Anteriority", "es": "Past Perfect: Estructura y Anterioridad", "file": "b1/mod01.json", "sublevels": 5 },
+        { "n": 2,  "title": "Past Perfect vs. Past Simple", "es": "Past Perfect frente a Pasado Simple", "file": "b1/mod02.json", "sublevels": 5 },
+        { "n": 3,  "title": "Used To: Past Habits & States", "es": "Used To: Hábitos y Estados del Pasado", "file": "b1/mod03.json", "sublevels": 5 },
+        { "n": 4,  "title": "Would for Past Habits & Contrast", "es": "Would para Hábitos del Pasado", "file": "b1/mod04.json", "sublevels": 5 },
+        { "n": 5,  "title": "Be Used To & Get Used To", "es": "Be Used To y Get Used To", "file": "b1/mod05.json", "sublevels": 5 },
+        { "n": 6,  "title": "Present Perfect Continuous: Process & Duration", "es": "Presente Perfecto Continuo", "file": "b1/mod06.json", "sublevels": 5 },
+        { "n": 7,  "title": "Present Perfect Simple vs. Continuous", "es": "Perfecto Simple frente a Continuo", "file": "b1/mod07.json", "sublevels": 5 },
+        { "n": 8,  "title": "Zero & First Conditional", "es": "Condicional Cero y Primero", "file": "b1/mod08.json", "sublevels": 5 },
+        { "n": 9,  "title": "Second Conditional: Hypothetical Situations", "es": "Segundo Condicional: Hipotético", "file": "b1/mod09.json", "sublevels": 5 },
+        { "n": 10, "title": "Third Conditional: Past Regrets", "es": "Tercer Condicional: Lamentos", "file": "b1/mod10.json", "sublevels": 5 },
+        { "n": 11, "title": "Conditional Alternatives", "es": "Alternativas Condicionales", "file": "b1/mod11.json", "sublevels": 5 },
+        { "n": 12, "title": "Modals of Deduction and Speculation", "es": "Modales de Deducción y Especulación", "file": "b1/mod12.json", "sublevels": 5 },
+        { "n": 13, "title": "Modals of Obligation and Advice", "es": "Modales de Obligación y Consejo", "file": "b1/mod13.json", "sublevels": 5 },
+        { "n": 14, "title": "Verb Patterns: Gerund vs. Infinitive", "es": "Gerundio frente a Infinitivo", "file": "b1/mod14.json", "sublevels": 5 },
+        { "n": 15, "title": "Verb Patterns with Meaning Change", "es": "Patrones con Cambio de Significado", "file": "b1/mod15.json", "sublevels": 5 },
+        { "n": 16, "title": "Phrasal Verbs: Separation and Transitiveness", "es": "Phrasal Verbs de Viajes" },
+        { "n": 17, "title": "Word Formation: Prefixes and Suffixes", "es": "Word Formation: Prefijos y Sufijos" },
+        { "n": 18, "title": "Passive Voice: Present & Past Simple", "es": "Voz Pasiva: Presente y Pasado Simple" },
+        { "n": 19, "title": "Passive Voice: Other Tenses and the Agent", "es": "Voz Pasiva Compleja" },
+        { "n": 20, "title": "Reported Speech: Statements and Tense Backshifts", "es": "Reported Speech: Afirmaciones" },
+        { "n": 21, "title": "Reported Speech: Pronoun & Deictic Changes", "es": "Reported Speech: Deícticos" },
+        { "n": 22, "title": "Reported Questions, Commands and Requests", "es": "Reported Questions y Órdenes" },
+        { "n": 23, "title": "Defining Relative Clauses", "es": "Oraciones Relativas de Definición" },
+        { "n": 24, "title": "Connectors: Contrast, Cause, and Purpose", "es": "Conectores de Contraste, Causa y Propósito" },
+        { "n": 25, "title": "Review and Consolidation B1", "es": "Repaso y Consolidación B1" }
+      ]
+    },
     { "code": "B2", "name": "La Abstracción y el Matiz", "color": "#5B57A6", "locked": true, "moduleCount": 25 },
     { "code": "C1", "name": "Efficacy and Style", "color": "#7C4C9E", "locked": true, "moduleCount": 25 },
     { "code": "C2", "name": "Mastery and Pragmatics", "color": "#9C3D6B", "locked": true, "moduleCount": 25 }
