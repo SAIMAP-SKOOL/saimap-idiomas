@@ -3,250 +3,633 @@
   "module": 16,
   "title": "Present Perfect: Life Experiences",
   "subtitle": "Experiencias de Vida",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "ever", "es": "alguna vez" },
-        { "en": "never", "es": "nunca" },
-        { "en": "experience", "es": "experiencia" },
-        { "en": "life", "es": "vida" },
-        { "en": "travel", "es": "viajar" }
+      "n": 1,
+      "title": "Experiencias de vida: ever y never",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "ever", "es": "alguna vez" },
+            { "en": "never", "es": "nunca" },
+            { "en": "experience", "es": "experiencia" },
+            { "en": "life", "es": "vida" },
+            { "en": "travel", "es": "viajar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "How do you ask a friend if they have visited Paris at any point in their life?",
+          "options": ["Have you ever visited Paris?", "Have you visited ever Paris?", "Ever have you visited Paris?"],
+          "correct": 0,
+          "hint": "«Ever» va siempre entre el sujeto y el participio, nunca al final ni al principio.",
+          "explanation": "La estructura correcta es «Have + sujeto + ever + participio»: «Have you ever visited Paris?». Las otras dos opciones desplazan «ever» a una posición prohibida."
+        },
+        {
+          "type": "gap",
+          "text": "Yes, I have. I ___ France two years ago.",
+          "options": ["visited", "have visited", "visit"],
+          "answer": "visited",
+          "explanation": "Al dar el detalle «two years ago» se cambia al Pasado Simple («visited»). Mantener «have visited» con marca temporal específica es un error de coherencia aspectual."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca he viajado",
+          "direction": "es-en",
+          "tiles": ["I", "have", "never", "traveled", "haven't", "ever"],
+          "answer": "I have never traveled",
+          "explanation": "Con «never» el auxiliar va en afirmativo: el inglés prohíbe la doble negación («*I haven't never traveled»)."
+        },
+        {
+          "type": "speak",
+          "text": "Yes, I have. I visited France two years ago.",
+          "es": "Sí. Visité Francia hace dos años."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "never", "es": "nunca" },
+            { "en": "experience", "es": "experiencia" },
+            { "en": "life", "es": "vida" },
+            { "en": "travel", "es": "viajar" },
+            { "en": "visit", "es": "visitar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence expresses that someone has zero experience eating sushi?",
+          "options": ["I have eaten never sushi.", "I have never eaten sushi.", "I haven't never eaten sushi."],
+          "correct": 1,
+          "hint": "Solo un elemento negativo puede aparecer en la frase.",
+          "explanation": "«Never» va entre «have» y el participio: «I have never eaten sushi». La opción a coloca mal el adverbio y la c comete doble negación."
+        },
+        {
+          "type": "gap",
+          "text": "I have ___ had this experience. (nunca)",
+          "options": ["never", "ever", "no"],
+          "answer": "never",
+          "explanation": "«Never» expresa ausencia total de la experiencia y se sitúa entre «have» y el participio «had»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "He visitado Tokio",
+          "direction": "es-en",
+          "tiles": ["I", "have", "visited", "Tokyo", "has", "visit"],
+          "answer": "I have visited Tokyo",
+          "explanation": "Experiencia de vida sin fecha concreta: Presente Perfecto «have + participio». Con el sujeto «I» el auxiliar es «have», no «has»."
+        },
+        {
+          "type": "speak",
+          "text": "I have never had that experience.",
+          "es": "Nunca he tenido esa experiencia."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el bloque sin repetir",
+          "pairs": [
+            { "en": "ever", "es": "alguna vez" },
+            { "en": "never", "es": "nunca" },
+            { "en": "life", "es": "vida" },
+            { "en": "travel", "es": "viajar" },
+            { "en": "visit", "es": "visitar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Select the correct translation of «Nunca he tenido esa experiencia».",
+          "options": ["I have that experience never.", "I never have had that experience.", "I have never had that experience."],
+          "correct": 2,
+          "hint": "El adverbio «never» va justo antes del participio, no al principio ni al final.",
+          "explanation": "El orden correcto es sujeto + «have» + «never» + participio: «I have never had that experience». Las otras opciones desplazan «never» fuera de su posición."
+        },
+        {
+          "type": "gap",
+          "text": "Have you ___ traveled abroad? (alguna vez)",
+          "options": ["ever", "never", "already"],
+          "answer": "ever",
+          "explanation": "En preguntas de experiencia se usa «ever» («alguna vez»), colocado entre el sujeto y el participio."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tengo esa experiencia",
+          "direction": "es-en",
+          "tiles": ["I", "have", "that", "experience", "has", "an"],
+          "answer": "I have that experience",
+          "explanation": "Frase simple de posesión abstracta de una vivencia: sujeto + «have» + demostrativo + «experience»."
+        },
+        {
+          "type": "speak",
+          "text": "Have you ever traveled abroad?",
+          "es": "¿Has viajado alguna vez al extranjero?"
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "\"Have you ever flown in a helicopter?\" - \"Yes, I ___ one last summer.\"",
-      "options": ["have flown", "flew", "fly"],
-      "correct": 1,
-      "hint": "Fíjate en el marcador de tiempo específico «last summer».",
-      "explanation": "Al dar un detalle temporal cerrado («last summer») hay que cambiar al Pasado Simple: «flew». «Have flown» mantiene mal el Presente Perfecto con fecha específica, y «fly» es presente simple."
-    },
-    {
-      "type": "gap",
-      "text": "Have you ever ___ a book?",
-      "options": ["written", "wrote", "write"],
-      "answer": "written",
-      "explanation": "Detrás de «have» se usa el participio de pasado («written»), no el pasado simple («wrote») ni la forma base."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nunca he viajado",
-      "direction": "es-en",
-      "tiles": ["I", "have", "never", "traveled", "haven't", "ever"],
-      "answer": "I have never traveled",
-      "explanation": "Con «never» el auxiliar va en afirmativo: el inglés prohíbe la doble negación («*I haven't never traveled»)."
-    },
-    {
-      "type": "speak",
-      "text": "Have you ever eaten raw fish?",
-      "es": "¿Has comido alguna vez pescado crudo?"
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is grammatically CORRECT?",
-      "options": [
-        "I have never spoken to a famous politician.",
-        "I haven't never spoken to a famous politician.",
-        "I have never spoke to a famous politician."
-      ],
-      "correct": 0,
-      "hint": "En inglés no existe la doble negación y «speak» es irregular.",
-      "explanation": "Con «never» el auxiliar debe ser afirmativo («have»), y el participio de «speak» es «spoken». La opción b comete doble negación y la c usa el pasado simple «spoke» en lugar del participio."
-    },
-    {
-      "type": "gap",
-      "text": "I have ___ eaten sushi in my life.",
-      "options": ["never", "ever", "not never"],
-      "answer": "never",
-      "explanation": "«Never» expresa la ausencia total de la experiencia y va entre «have» y el participio. «Ever» se reserva para preguntas y «not never» sería una doble negación prohibida."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "¿Has probado alguna vez el sushi?",
-      "direction": "es-en",
-      "tiles": ["Have", "you", "ever", "tried", "sushi", "never", "did"],
-      "answer": "Have you ever tried sushi",
-      "explanation": "Estructura de pregunta de experiencia: «Have + sujeto + ever + participio». «Ever» va justo antes del participio «tried»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "visit", "es": "visitar" },
-        { "en": "try", "es": "probar" },
-        { "en": "eat", "es": "comer" },
-        { "en": "drink", "es": "beber" },
-        { "en": "fly", "es": "volar" }
+      "n": 2,
+      "title": "Preguntas con ever: probar, comer y moverse",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "visit", "es": "visitar" },
+            { "en": "try", "es": "probar" },
+            { "en": "eat", "es": "comer" },
+            { "en": "drink", "es": "beber" },
+            { "en": "fly", "es": "volar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"Have you ever flown in a helicopter?\" - \"Yes, I ___ one last summer.\"",
+          "options": ["have flown", "flew", "fly"],
+          "correct": 1,
+          "hint": "Fíjate en el marcador de tiempo específico «last summer».",
+          "explanation": "Al dar un detalle temporal cerrado («last summer») hay que cambiar al Pasado Simple: «flew». «Have flown» mantiene mal el Presente Perfecto con fecha específica, y «fly» es presente simple."
+        },
+        {
+          "type": "gap",
+          "text": "I have ___ eaten sushi in my life.",
+          "options": ["never", "ever", "not never"],
+          "answer": "never",
+          "explanation": "«Never» expresa la ausencia total de la experiencia y va entre «have» y el participio. «Ever» se reserva para preguntas y «not never» sería una doble negación prohibida."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Has probado alguna vez el sushi?",
+          "direction": "es-en",
+          "tiles": ["Have", "you", "ever", "tried", "sushi", "never", "did"],
+          "answer": "Have you ever tried sushi",
+          "explanation": "Estructura de pregunta de experiencia: «Have + sujeto + ever + participio». «Ever» va justo antes del participio «tried»."
+        },
+        {
+          "type": "speak",
+          "text": "Have you ever eaten raw fish?",
+          "es": "¿Has comido alguna vez pescado crudo?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "try", "es": "probar" },
+            { "en": "eat", "es": "comer" },
+            { "en": "drink", "es": "beber" },
+            { "en": "ride", "es": "montar" },
+            { "en": "climb", "es": "escalar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct if you want to ask about a new food experience?",
+          "options": ["Have you ever try Thai food?", "Have you ever tried Thai food?", "Have you tried ever Thai food?"],
+          "correct": 1,
+          "hint": "Detrás de «have» siempre va el participio de pasado.",
+          "explanation": "«Have you ever tried Thai food?» usa el participio «tried» en la posición correcta, justo después de «ever». Las otras opciones usan la forma base o desplazan «ever»."
+        },
+        {
+          "type": "gap",
+          "text": "Yes, I have. I ___ it in 2023.",
+          "options": ["climbed", "have climbed", "climb"],
+          "answer": "climbed",
+          "explanation": "Al especificar la fecha («in 2023») se pasa obligatoriamente del Presente Perfecto al Pasado Simple: «climbed»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Ha volado él alguna vez?",
+          "direction": "es-en",
+          "tiles": ["Has", "he", "ever", "flown", "flew", "never"],
+          "answer": "Has he ever flown",
+          "explanation": "Con tercera persona el auxiliar es «has». «Ever» va antes del participio irregular «flown» (no «flew», que es el pasado simple)."
+        },
+        {
+          "type": "speak",
+          "text": "Have you ever tried Thai food?",
+          "es": "¿Has probado alguna vez comida tailandesa?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el bloque sin repetir",
+          "pairs": [
+            { "en": "eat", "es": "comer" },
+            { "en": "drink", "es": "beber" },
+            { "en": "fly", "es": "volar" },
+            { "en": "ride", "es": "montar" },
+            { "en": "climb", "es": "escalar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Select the grammatically correct question about a life experience:",
+          "options": ["Have you ever ridden a horse?", "Have you ever rode a horse?", "Have you ever ride a horse?"],
+          "correct": 0,
+          "hint": "El participio de «ride» es irregular: ride - rode - ridden.",
+          "explanation": "El participio de pasado de «ride» es «ridden»: «Have you ever ridden a horse?». «Rode» es pasado simple y «ride» es la forma base."
+        },
+        {
+          "type": "gap",
+          "text": "___ you ever eaten raw fish?",
+          "options": ["Have", "Has", "Do"],
+          "answer": "Have",
+          "explanation": "Con el sujeto «you» el auxiliar del Presente Perfecto es «have». «Has» es para tercera persona singular y «do» pertenece al presente simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Has bebido alguna vez té verde?",
+          "direction": "es-en",
+          "tiles": ["Have", "you", "ever", "drunk", "green", "tea", "drank", "drink"],
+          "answer": "Have you ever drunk green tea",
+          "explanation": "El participio de «drink» es «drunk» (drink-drank-drunk). «Drank» es el pasado simple y no puede seguir a «have»."
+        },
+        {
+          "type": "speak",
+          "text": "I have never ridden a horse.",
+          "es": "Nunca he montado a caballo."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "Yes, I have. I ___ it in 2023.",
-      "options": ["climbed", "have climbed", "climb"],
-      "answer": "climbed",
-      "explanation": "Al especificar la fecha («in 2023») se pasa obligatoriamente del Presente Perfecto al Pasado Simple: «climbed»."
-    },
-    {
-      "type": "quiz",
-      "q": "Fill in the blank: \"Has he ___ climbed a mountain as high as Everest?\"",
-      "options": ["never", "already", "ever"],
-      "correct": 2,
-      "hint": "Es una pregunta sobre la existencia de una experiencia de vida.",
-      "explanation": "En preguntas de experiencia se usa «ever» («alguna vez»). «Never» no se emplea en preguntas de polaridad neutra y «already» indica que algo concluyó antes de lo esperado."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "He visitado Tokio",
-      "direction": "es-en",
-      "tiles": ["I", "have", "visited", "Tokyo", "has", "visit"],
-      "answer": "I have visited Tokyo",
-      "explanation": "Experiencia de vida sin fecha concreta: Presente Perfecto «have + participio». Con el sujeto «I» el auxiliar es «have», no «has»."
-    },
-    {
-      "type": "speak",
-      "text": "She has never seen a play in a theater.",
-      "es": "Ella nunca ha visto una obra de teatro en un teatro."
-    },
-    {
-      "type": "gap",
-      "text": "Has he ___ visited a museum?",
-      "options": ["ever", "never", "already"],
-      "answer": "ever",
-      "explanation": "«Ever» se coloca después del sujeto y antes del participio en las preguntas de experiencia: «Has he ever visited...?»."
-    },
-    {
-      "type": "quiz",
-      "q": "Identify the sentence with the correct word order:",
-      "options": [
-        "They have visited never a foreign country.",
-        "They have never visited a foreign country.",
-        "They never have visited a foreign country."
-      ],
-      "correct": 1,
-      "hint": "Recuerda el «sándwich adverbial»: el adverbio va entre el auxiliar y el participio.",
-      "explanation": "«Never» se posiciona entre «have/has» y el participio. La opción a lo coloca tras el verbo principal y la c lo sitúa antes del auxiliar, rompiendo el orden estándar."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "ride", "es": "montar" },
-        { "en": "climb", "es": "escalar" },
-        { "en": "swim", "es": "nadar" },
-        { "en": "see", "es": "ver" },
-        { "en": "meet", "es": "conocer" }
+      "n": 3,
+      "title": "Nunca lo he hecho: never sin doble negación",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "ride", "es": "montar" },
+            { "en": "climb", "es": "escalar" },
+            { "en": "swim", "es": "nadar" },
+            { "en": "see", "es": "ver" },
+            { "en": "meet", "es": "conocer" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Fill in the blank: \"We have never ___ that traditional food before.\"",
+          "options": ["tried", "tryed", "try"],
+          "correct": 0,
+          "hint": "«Try» termina en consonante + «-y»: piensa en la regla ortográfica del participio.",
+          "explanation": "«Try» es regular y la «-y» tras consonante se convierte en «-i» antes de «-ed»: «tried». «Tryed» conserva mal la «-y» y «try» es la forma base."
+        },
+        {
+          "type": "gap",
+          "text": "Have you ever ___ a book?",
+          "options": ["written", "wrote", "write"],
+          "answer": "written",
+          "explanation": "Detrás de «have» se usa el participio de pasado («written»), no el pasado simple («wrote») ni la forma base."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella nunca ha visto esa película",
+          "direction": "es-en",
+          "tiles": ["She", "has", "never", "seen", "that", "movie", "saw", "hasn't"],
+          "answer": "She has never seen that movie",
+          "explanation": "Orden: sujeto + «has» + «never» + participio «seen». El auxiliar va en afirmativo porque «never» ya aporta la negación."
+        },
+        {
+          "type": "speak",
+          "text": "I have never met a famous singer.",
+          "es": "Nunca he conocido a un cantante famoso."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "swim", "es": "nadar" },
+            { "en": "see", "es": "ver" },
+            { "en": "meet", "es": "conocer" },
+            { "en": "movie", "es": "película" },
+            { "en": "book", "es": "libro" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which question is grammatically correct?",
+          "options": [
+            "Have you seen that movie ever?",
+            "Ever have you seen that movie?",
+            "Have you ever seen that movie?"
+          ],
+          "correct": 2,
+          "hint": "«Ever» nunca va al final ni antes del auxiliar.",
+          "explanation": "«Ever» debe ir entre el sujeto y el participio: «Have you ever seen...?». Colocarlo al final o antes del auxiliar es un distractor clásico de examen."
+        },
+        {
+          "type": "gap",
+          "text": "I have never ___ that book. (leído)",
+          "options": ["read", "readed", "reads"],
+          "answer": "read",
+          "explanation": "El participio de «read» tiene la misma forma escrita que la base, aunque se pronuncia distinto (/red/). «Readed» no existe."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca he leído ese libro",
+          "direction": "es-en",
+          "tiles": ["I", "have", "never", "read", "that", "book", "readed"],
+          "answer": "I have never read that book",
+          "explanation": "«Read» como participio se escribe igual que la forma base, pero se pronuncia /red/. «Readed» es un error típico de sobrerregularización."
+        },
+        {
+          "type": "speak",
+          "text": "Have you ever seen that movie?",
+          "es": "¿Has visto esa película alguna vez?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el bloque sin repetir",
+          "pairs": [
+            { "en": "see", "es": "ver" },
+            { "en": "meet", "es": "conocer" },
+            { "en": "movie", "es": "película" },
+            { "en": "book", "es": "libro" },
+            { "en": "food", "es": "comida" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly states you've never met a famous singer?",
+          "options": ["I have never met a famous singer.", "I never have met a famous singer.", "I have met never a famous singer."],
+          "correct": 0,
+          "hint": "«Never» va entre el auxiliar y el participio, no antes del auxiliar ni después del participio.",
+          "explanation": "El orden correcto es sujeto + «have» + «never» + participio: «I have never met a famous singer». Las otras opciones desplazan «never» fuera de su posición estándar."
+        },
+        {
+          "type": "gap",
+          "text": "We have never ___ that movie. (visto)",
+          "options": ["seen", "saw", "see"],
+          "answer": "seen",
+          "explanation": "Tras «have never» se necesita el participio del irregular «see»: «seen», no el pasado simple «saw»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca hemos comido esa comida",
+          "direction": "es-en",
+          "tiles": ["We", "have", "never", "eaten", "that", "food", "ate"],
+          "answer": "We have never eaten that food",
+          "explanation": "El participio del irregular «eat» es «eaten», no el pasado simple «ate», que no puede seguir a «have»."
+        },
+        {
+          "type": "speak",
+          "text": "We have never read that book.",
+          "es": "Nunca hemos leído ese libro."
+        }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "¿Ha volado él alguna vez?",
-      "direction": "es-en",
-      "tiles": ["Has", "he", "ever", "flown", "flew", "never"],
-      "answer": "Has he ever flown",
-      "explanation": "Con tercera persona el auxiliar es «has». «Ever» va antes del participio irregular «flown» (no «flew», que es el pasado simple)."
-    },
-    {
-      "type": "gap",
-      "text": "She has never ___ a play in a theater.",
-      "options": ["seen", "saw", "see"],
-      "answer": "seen",
-      "explanation": "Tras «has never» se necesita el participio de pasado del verbo irregular «see»: «seen», no el pasado simple «saw»."
-    },
-    {
-      "type": "speak",
-      "text": "Yes, I have. I visited France two years ago.",
-      "es": "Sí. Visité Francia hace dos años."
-    },
-    {
-      "type": "quiz",
-      "q": "Fill in the blank: \"We have never ___ that traditional food before.\"",
-      "options": ["tried", "tryed", "try"],
-      "correct": 0,
-      "hint": "«Try» termina en consonante + «-y»: piensa en la regla ortográfica del participio.",
-      "explanation": "«Try» es regular y la «-y» tras consonante se convierte en «-i» antes de «-ed»: «tried». «Tryed» conserva mal la «-y» y «try» es la forma base."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Ella nunca ha visto esa película",
-      "direction": "es-en",
-      "tiles": ["She", "has", "never", "seen", "that", "movie", "saw", "hasn't"],
-      "answer": "She has never seen that movie",
-      "explanation": "Orden: sujeto + «has» + «never» + participio «seen». El auxiliar va en afirmativo porque «never» ya aporta la negación."
-    },
-    {
-      "type": "gap",
-      "text": "Yes, I have. I ___ France two years ago.",
-      "options": ["visited", "have visited", "visit"],
-      "answer": "visited",
-      "explanation": "Al dar el detalle «two years ago» se cambia al Pasado Simple («visited»). Mantener «have visited» con marca temporal específica es un error de coherencia aspectual."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "movie", "es": "película" },
-        { "en": "book", "es": "libro" },
-        { "en": "food", "es": "comida" },
-        { "en": "country", "es": "país" },
-        { "en": "city", "es": "ciudad" }
+      "n": 4,
+      "title": "Lugares del mundo: países, ciudades y continentes",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "movie", "es": "película" },
+            { "en": "book", "es": "libro" },
+            { "en": "food", "es": "comida" },
+            { "en": "country", "es": "país" },
+            { "en": "city", "es": "ciudad" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Fill in the blank: \"Has he ___ climbed a mountain as high as Everest?\"",
+          "options": ["never", "already", "ever"],
+          "correct": 2,
+          "hint": "Es una pregunta sobre la existencia de una experiencia de vida.",
+          "explanation": "En preguntas de experiencia se usa «ever» («alguna vez»). «Never» no se emplea en preguntas de polaridad neutra y «already» indica que algo concluyó antes de lo esperado."
+        },
+        {
+          "type": "gap",
+          "text": "Has he ___ visited a museum?",
+          "options": ["ever", "never", "already"],
+          "answer": "ever",
+          "explanation": "«Ever» se coloca después del sujeto y antes del participio en las preguntas de experiencia: «Has he ever visited...?»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca hemos escalado esa montaña",
+          "direction": "es-en",
+          "tiles": ["We", "have", "never", "climbed", "that", "mountain", "haven't"],
+          "answer": "We have never climbed that mountain",
+          "explanation": "El español dice «no hemos... nunca», pero el inglés usa un solo elemento negativo: «have never climbed», nunca «haven't never»."
+        },
+        {
+          "type": "speak",
+          "text": "Have you ever traveled to another country?",
+          "es": "¿Has viajado alguna vez a otro país?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "country", "es": "país" },
+            { "en": "city", "es": "ciudad" },
+            { "en": "continent", "es": "continente" },
+            { "en": "ocean", "es": "océano" },
+            { "en": "mountain", "es": "montaña" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Identify the sentence with the correct word order:",
+          "options": [
+            "They have visited never a foreign country.",
+            "They have never visited a foreign country.",
+            "They never have visited a foreign country."
+          ],
+          "correct": 1,
+          "hint": "Recuerda el «sándwich adverbial»: el adverbio va entre el auxiliar y el participio.",
+          "explanation": "«Never» se posiciona entre «have/has» y el participio. La opción a lo coloca tras el verbo principal y la c lo sitúa antes del auxiliar, rompiendo el orden estándar."
+        },
+        {
+          "type": "gap",
+          "text": "Have you ever visited a museum? - Yes, I ___.",
+          "options": ["have", "do", "did"],
+          "answer": "have",
+          "explanation": "Las respuestas cortas repiten el auxiliar de la pregunta: «Yes, I have» (sin «ever» y sin contraer en afirmativa)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca he nadado en el océano",
+          "direction": "es-en",
+          "tiles": ["I", "have", "never", "swum", "in", "the", "ocean", "swam"],
+          "answer": "I have never swum in the ocean",
+          "explanation": "Un solo negativo («never») con auxiliar afirmativo, y el participio correcto del irregular «swim» es «swum», no «swam»."
+        },
+        {
+          "type": "speak",
+          "text": "Have you ever visited a different continent?",
+          "es": "¿Has visitado alguna vez un continente diferente?"
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el bloque sin repetir",
+          "pairs": [
+            { "en": "city", "es": "ciudad" },
+            { "en": "continent", "es": "continente" },
+            { "en": "ocean", "es": "océano" },
+            { "en": "mountain", "es": "montaña" },
+            { "en": "museum", "es": "museo" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct participle: \"He has never ___ in the ocean.\"",
+          "options": ["swum", "swimmed", "swam"],
+          "correct": 0,
+          "hint": "«Swim» es un verbo irregular: swim - swam - ...",
+          "explanation": "El participio del irregular «swim» es «swum». «Swimmed» no existe y «swam» es el pasado simple, que no puede seguir a «has never»."
+        },
+        {
+          "type": "gap",
+          "text": "Have you ever visited another ___? (continente)",
+          "options": ["continent", "country", "city"],
+          "answer": "continent",
+          "explanation": "«Continent» es la unidad geográfica más amplia de las tres. La pregunta de experiencia se construye igual que con «country» o «city»: «Have you ever visited...?»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca he visitado ese continente",
+          "direction": "es-en",
+          "tiles": ["I", "have", "never", "visited", "that", "continent", "visit"],
+          "answer": "I have never visited that continent",
+          "explanation": "Estructura habitual del bloque: «have never» + participio «visited» + complemento geográfico."
+        },
+        {
+          "type": "speak",
+          "text": "She has never seen the ocean.",
+          "es": "Ella nunca ha visto el océano."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "Which question is grammatically correct?",
-      "options": [
-        "Have you seen that movie ever?",
-        "Ever have you seen that movie?",
-        "Have you ever seen that movie?"
-      ],
-      "correct": 2,
-      "hint": "«Ever» nunca va al final ni antes del auxiliar.",
-      "explanation": "«Ever» debe ir entre el sujeto y el participio: «Have you ever seen...?». Colocarlo al final o antes del auxiliar es un distractor clásico de examen."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nunca hemos escalado esa montaña",
-      "direction": "es-en",
-      "tiles": ["We", "have", "never", "climbed", "that", "mountain", "haven't"],
-      "answer": "We have never climbed that mountain",
-      "explanation": "El español dice «no hemos... nunca», pero el inglés usa un solo elemento negativo: «have never climbed», nunca «haven't never»."
-    },
-    {
-      "type": "gap",
-      "text": "___ you ever eaten raw fish?",
-      "options": ["Have", "Has", "Do"],
-      "answer": "Have",
-      "explanation": "Con el sujeto «you» el auxiliar del Presente Perfecto es «have». «Has» es para tercera persona singular y «do» pertenece al presente simple."
-    },
-    {
-      "type": "speak",
-      "text": "Have you ever traveled to another country?",
-      "es": "¿Has viajado alguna vez a otro país?"
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the correct participle: \"He has never ___ in the ocean.\"",
-      "options": ["swum", "swimmed", "swam"],
-      "correct": 0,
-      "hint": "«Swim» es un verbo irregular: swim - swam - ...",
-      "explanation": "El participio del irregular «swim» es «swum». «Swimmed» no existe y «swam» es el pasado simple, que no puede seguir a «has never»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Nunca he nadado en el océano",
-      "direction": "es-en",
-      "tiles": ["I", "have", "never", "swum", "in", "the", "ocean", "swam"],
-      "answer": "I have never swum in the ocean",
-      "explanation": "Un solo negativo («never») con auxiliar afirmativo, y el participio correcto del irregular «swim» es «swum», no «swam»."
-    },
-    {
-      "type": "gap",
-      "text": "Have you ever visited a museum? - Yes, I ___.",
-      "options": ["have", "do", "did"],
-      "answer": "have",
-      "explanation": "Las respuestas cortas repiten el auxiliar de la pregunta: «Yes, I have» (sin «ever» y sin contraer en afirmativa)."
+      "n": 5,
+      "title": "Repaso: experiencias completas y cierre del módulo",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "concert", "es": "concierto" },
+            { "en": "play", "es": "obra de teatro" },
+            { "en": "sport", "es": "deporte" },
+            { "en": "language", "es": "idioma" },
+            { "en": "speak", "es": "hablar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is grammatically CORRECT?",
+          "options": [
+            "I have never spoken to a famous politician.",
+            "I haven't never spoken to a famous politician.",
+            "I have never spoke to a famous politician."
+          ],
+          "correct": 0,
+          "hint": "En inglés no existe la doble negación y «speak» es irregular.",
+          "explanation": "Con «never» el auxiliar debe ser afirmativo («have»), y el participio de «speak» es «spoken». La opción b comete doble negación y la c usa el pasado simple «spoke» en lugar del participio."
+        },
+        {
+          "type": "gap",
+          "text": "She has never ___ a play in a theater.",
+          "options": ["seen", "saw", "see"],
+          "answer": "seen",
+          "explanation": "Tras «has never» se necesita el participio de pasado del verbo irregular «see»: «seen», no el pasado simple «saw»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "¿Has conocido alguna vez a una estrella del deporte?",
+          "direction": "es-en",
+          "tiles": ["Have", "you", "ever", "met", "a", "sport", "star", "meet"],
+          "answer": "Have you ever met a sport star",
+          "explanation": "Pregunta de experiencia estándar: «Have + sujeto + ever + participio» («met», de «meet»)."
+        },
+        {
+          "type": "speak",
+          "text": "She has never seen a play in a theater.",
+          "es": "Ella nunca ha visto una obra de teatro en un teatro."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el bloque sin repetir",
+          "pairs": [
+            { "en": "play", "es": "obra de teatro" },
+            { "en": "sport", "es": "deporte" },
+            { "en": "language", "es": "idioma" },
+            { "en": "speak", "es": "hablar" },
+            { "en": "know", "es": "saber/conocer" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which question correctly asks about a life experience with music?",
+          "options": ["Have you ever been to a concert?", "Have you been ever to a concert?", "Ever have you been to a concert?"],
+          "correct": 0,
+          "hint": "«Ever» va entre el sujeto y el participio, nunca en otra posición.",
+          "explanation": "La estructura correcta es «Have + sujeto + ever + participio»: «Have you ever been to a concert?». Las otras opciones desplazan «ever» fuera de su lugar."
+        },
+        {
+          "type": "gap",
+          "text": "Have you ever played a ___? (deporte)",
+          "options": ["sport", "game", "play"],
+          "answer": "sport",
+          "explanation": "«Sport» es el término genérico para deporte. «Game» se refiere a un partido concreto y «play» es una obra de teatro o el verbo jugar."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Nunca he ido a un concierto",
+          "direction": "es-en",
+          "tiles": ["I", "have", "never", "been", "to", "a", "concert", "gone"],
+          "answer": "I have never been to a concert",
+          "explanation": "Con experiencias de asistencia a eventos se usa «been to», no «gone to» (que implicaría que la persona sigue allí)."
+        },
+        {
+          "type": "speak",
+          "text": "Have you ever been to a concert?",
+          "es": "¿Has ido alguna vez a un concierto?"
+        },
+        {
+          "type": "match",
+          "prompt": "Repaso final: mezcla de todo el módulo",
+          "pairs": [
+            { "en": "know", "es": "saber/conocer" },
+            { "en": "language", "es": "idioma" },
+            { "en": "mountain", "es": "montaña" },
+            { "en": "museum", "es": "museo" },
+            { "en": "travel", "es": "viajar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Select the correct sentence about language ability as a life experience:",
+          "options": ["She has never speak a foreign language.", "She has never spoken a foreign language.", "She has spoken never a foreign language."],
+          "correct": 1,
+          "hint": "El participio de «speak» es irregular: speak - spoke - spoken.",
+          "explanation": "Tras «has never» se necesita el participio «spoken». La opción a usa la forma base y la c coloca mal «never»."
+        },
+        {
+          "type": "gap",
+          "text": "I have never ___ a foreign language. (hablado)",
+          "options": ["spoken", "speak", "spoke"],
+          "answer": "spoken",
+          "explanation": "Tras «have never» se necesita el participio irregular «spoken», no la forma base «speak» ni el pasado simple «spoke»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Él nunca ha hablado un idioma extranjero",
+          "direction": "es-en",
+          "tiles": ["He", "has", "never", "spoken", "a", "foreign", "language", "speak"],
+          "answer": "He has never spoken a foreign language",
+          "explanation": "Tercera persona: «has never» + participio «spoken». «Speak» sería la forma base, incorrecta tras el auxiliar."
+        },
+        {
+          "type": "speak",
+          "text": "I have never played that sport.",
+          "es": "Nunca he practicado ese deporte."
+        }
+      ]
     }
   ]
 }

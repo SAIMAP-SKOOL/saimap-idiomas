@@ -3,238 +3,621 @@
   "module": 21,
   "title": "Future with Will",
   "subtitle": "Futuro con Will",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "promise", "es": "prometer" },
-        { "en": "offer", "es": "ofrecer" },
-        { "en": "decision", "es": "decisión" },
-        { "en": "future", "es": "futuro" },
-        { "en": "prediction", "es": "predicción" }
+      "n": 1,
+      "title": "Will y won't: la base del futuro",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "will", "es": "auxiliar de futuro" },
+            { "en": "won't", "es": "auxiliar de futuro negativo" },
+            { "en": "predict", "es": "predecir" },
+            { "en": "prediction", "es": "predicción" },
+            { "en": "promise", "es": "prometer / promesa" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"The phone is ringing.\" — \"Okay, I _______ answer it.\"",
+          "options": ["am going to", "will", "did"],
+          "correct": 1,
+          "hint": "El teléfono suena de repente: la decisión se toma en este mismo instante.",
+          "explanation": "Es una reacción espontánea en el momento del habla, situación típica de «will». «Am going to» implicaría planificación previa (imposible con una llamada imprevista) y «did» es un auxiliar de pasado."
+        },
+        {
+          "type": "gap",
+          "text": "I think it ___ rain tomorrow.",
+          "options": ["will", "wills", "going"],
+          "answer": "will",
+          "explanation": "«Will» es un auxiliar modal invariable: nunca añade «-s» de tercera persona. «I think it wills rain» es un error típico de concordancia."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "won't", "es": "auxiliar de futuro negativo" },
+            { "en": "predict", "es": "predecir" },
+            { "en": "prediction", "es": "predicción" },
+            { "en": "promise", "es": "prometer / promesa" },
+            { "en": "offer", "es": "ofrecer / ofrecimiento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "We _______ go to the beach tomorrow if the temperature is low.",
+          "options": ["don't", "will to", "won't"],
+          "correct": 2,
+          "hint": "Se predice NO hacer algo mañana: necesitas la forma negativa de futuro.",
+          "explanation": "«Won't» es la negación de «will» y proyecta la decisión al futuro. «Don't» es presente simple, y «will to» es imposible porque «will» nunca admite «to»."
+        },
+        {
+          "type": "gap",
+          "text": "I promise I ___ tell anyone.",
+          "options": ["won't", "don't", "want"],
+          "answer": "won't",
+          "explanation": "Las promesas implican acción futura y requieren el auxiliar negativo «won't». Cuidado: «won't» (will not) no es el verbo «want»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir la misma tarjeta",
+          "pairs": [
+            { "en": "will", "es": "auxiliar de futuro" },
+            { "en": "predict", "es": "predecir" },
+            { "en": "prediction", "es": "predicción" },
+            { "en": "promise", "es": "prometer / promesa" },
+            { "en": "offer", "es": "ofrecer / ofrecimiento" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct promise:",
+          "options": ["I won't tell your secret.", "I don't tell your secret.", "I not will tell your secret."],
+          "correct": 0,
+          "hint": "Las promesas proyectan la acción al futuro con la negación del modal.",
+          "explanation": "Las promesas requieren el auxiliar negativo de futuro «won't». «Don't» es presente simple y «not will» invierte incorrectamente el orden de la negación."
+        },
+        {
+          "type": "gap",
+          "text": "___ the temperature change soon?",
+          "options": ["Will", "Does", "Is"],
+          "answer": "Will",
+          "explanation": "«Will» es su propio auxiliar de interrogación: se antepone al sujeto sin necesidad de «do/does» ni de «to be»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Te ayudaré mañana",
+          "direction": "es-en",
+          "tiles": ["I", "will", "help", "you", "tomorrow", "am", "to"],
+          "answer": "I will help you tomorrow",
+          "explanation": "Ofrecimiento con «will» + verbo en forma base sin «to»: el español usa futuro simple («ayudaré»), el inglés recurre al modal «will»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "No compraremos el billete",
+          "direction": "es-en",
+          "tiles": ["We", "won't", "buy", "the", "ticket", "don't", "to"],
+          "answer": "We won't buy the ticket",
+          "explanation": "La negación de futuro se hace con «won't» (will + not), no con «don't», que pertenece al presente simple."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Te llamaré más tarde",
+          "direction": "es-en",
+          "tiles": ["I", "will", "call", "you", "later", "going", "am"],
+          "answer": "I will call you later",
+          "explanation": "Reacción espontánea típica de «will»: la decisión de llamar se toma en el momento de hablar, sin plan previo."
+        },
+        {
+          "type": "speak",
+          "text": "I will call you tomorrow, I promise.",
+          "es": "Te llamaré mañana, lo prometo."
+        },
+        {
+          "type": "speak",
+          "text": "I'll help you with that heavy bag.",
+          "es": "Te ayudaré con esa bolsa pesada."
+        },
+        {
+          "type": "speak",
+          "text": "I won't tell anyone, believe me.",
+          "es": "No se lo diré a nadie, créeme."
+        }
       ]
     },
     {
-      "type": "quiz",
-      "q": "\"The phone is ringing.\" — \"Okay, I _______ answer it.\"",
-      "options": ["am going to", "will", "did"],
-      "correct": 1,
-      "hint": "El teléfono suena de repente: la decisión se toma en este mismo instante.",
-      "explanation": "Es una reacción espontánea en el momento del habla, situación típica de «will». «Am going to» implicaría planificación previa (imposible con una llamada imprevista) y «did» es un auxiliar de pasado."
-    },
-    {
-      "type": "gap",
-      "text": "I think it ___ rain tomorrow.",
-      "options": ["will", "wills", "going"],
-      "answer": "will",
-      "explanation": "«Will» es un auxiliar modal invariable: nunca añade «-s» de tercera persona. «I think it wills rain» es un error típico de concordancia."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Te ayudaré mañana",
-      "direction": "es-en",
-      "tiles": ["I", "will", "help", "you", "tomorrow", "am", "to"],
-      "answer": "I will help you tomorrow",
-      "explanation": "Ofrecimiento con «will» + verbo en forma base sin «to»: el español usa futuro simple («ayudaré»), el inglés recurre al modal «will»."
-    },
-    {
-      "type": "speak",
-      "text": "I will call you tomorrow, I promise.",
-      "es": "Te llamaré mañana, lo prometo."
-    },
-    {
-      "type": "gap",
-      "text": "She will ___ a new car.",
-      "options": ["buy", "to buy", "buys"],
-      "answer": "buy",
-      "explanation": "Tras el modal «will» va el infinitivo sin «to» y sin flexión: «will to buy» y «will buys» son agramaticales."
-    },
-    {
-      "type": "quiz",
-      "q": "I hope you _______ your exam next week.",
-      "options": ["will pass", "pass", "going to pass"],
-      "correct": 0,
-      "hint": "El verbo «hope» dispara una predicción subjetiva de futuro.",
-      "explanation": "«Hope» introduce una predicción subjetiva que exige «will» + forma base («will pass»). El presente simple «pass» no proyecta futuro aquí, y «going to pass» carece del auxiliar «to be»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "No compraremos el billete",
-      "direction": "es-en",
-      "tiles": ["We", "won't", "buy", "the", "ticket", "don't", "to"],
-      "answer": "We won't buy the ticket",
-      "explanation": "La negación de futuro se hace con «won't» (will + not), no con «don't», que pertenece al presente simple."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "think", "es": "pensar" },
-        { "en": "believe", "es": "creer" },
-        { "en": "hope", "es": "esperar" },
-        { "en": "maybe", "es": "tal vez" },
-        { "en": "perhaps", "es": "quizás" }
+      "n": 2,
+      "title": "Pensar, creer, esperar: predicciones",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "promise", "es": "prometer" },
+            { "en": "offer", "es": "ofrecer" },
+            { "en": "decision", "es": "decisión" },
+            { "en": "future", "es": "futuro" },
+            { "en": "prediction", "es": "predicción" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I hope you _______ your exam next week.",
+          "options": ["will pass", "pass", "going to pass"],
+          "correct": 0,
+          "hint": "El verbo «hope» dispara una predicción subjetiva de futuro.",
+          "explanation": "«Hope» introduce una predicción subjetiva que exige «will» + forma base («will pass»). El presente simple «pass» no proyecta futuro aquí, y «going to pass» carece del auxiliar «to be»."
+        },
+        {
+          "type": "gap",
+          "text": "She will ___ a new car.",
+          "options": ["buy", "to buy", "buys"],
+          "answer": "buy",
+          "explanation": "Tras el modal «will» va el infinitivo sin «to» y sin flexión: «will to buy» y «will buys» son agramaticales."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "decision", "es": "decisión" },
+            { "en": "future", "es": "futuro" },
+            { "en": "think", "es": "pensar" },
+            { "en": "believe", "es": "creer" },
+            { "en": "hope", "es": "esperar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "I promise I _______ you next year.",
+          "options": ["help", "'ll help", "helping"],
+          "correct": 1,
+          "hint": "Una promesa compromete tu conducta futura.",
+          "explanation": "La forma contracta «'ll help» (will help) es el estándar para formalizar promesas. «Help» en presente simple no transmite compromiso futuro y «helping» no puede ser predicado sin auxiliar."
+        },
+        {
+          "type": "gap",
+          "text": "I hope you will ___ your exam next week.",
+          "options": ["pass", "passes", "passing"],
+          "answer": "pass",
+          "explanation": "Tras «will» el verbo principal va siempre en forma base: «will pass», sin flexiones de persona ni gerundio."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir la misma tarjeta",
+          "pairs": [
+            { "en": "future", "es": "futuro" },
+            { "en": "think", "es": "pensar" },
+            { "en": "believe", "es": "creer" },
+            { "en": "hope", "es": "esperar" },
+            { "en": "maybe", "es": "tal vez" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["I think it wills rain tomorrow.", "I think it will rain tomorrow.", "I think it will to rain tomorrow."],
+          "correct": 1,
+          "hint": "«Will» es un modal: ni concordancia de tercera persona ni partícula «to».",
+          "explanation": "«Will» es invariable (nunca «wills») y exige infinitivo sin «to» (nunca «will to rain»). La única forma correcta es «it will rain»."
+        },
+        {
+          "type": "gap",
+          "text": "I believe it ___ be a good decision.",
+          "options": ["will", "is", "was"],
+          "answer": "will",
+          "explanation": "«Believe» introduce una predicción subjetiva de futuro que se construye con «will»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Creo que lloverá pronto",
+          "direction": "es-en",
+          "tiles": ["I", "think", "it", "will", "rain", "soon", "is", "going"],
+          "answer": "I think it will rain soon",
+          "explanation": "El verbo de creencia «I think» se antepone como disparador del futuro con «will»: es una conjetura personal sin evidencia física."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Tomaré un té",
+          "direction": "es-en",
+          "tiles": ["I", "will", "have", "a", "tea", "take", "going"],
+          "answer": "I will have a tea",
+          "explanation": "Decisión inmediata al pedir: «I will have a tea». El hispanohablante a veces calca el presente («I take a tea»), que es incorrecto."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Espero que esté soleado",
+          "direction": "es-en",
+          "tiles": ["I", "hope", "it", "will", "be", "sunny", "is", "to"],
+          "answer": "I hope it will be sunny",
+          "explanation": "El verbo de deseo «hope» activa el futuro con «will» en la cláusula subordinada: «will be sunny», sin «to» tras el modal."
+        },
+        {
+          "type": "speak",
+          "text": "I think it will rain next week.",
+          "es": "Creo que lloverá la semana que viene."
+        },
+        {
+          "type": "speak",
+          "text": "I believe we will make the right decision.",
+          "es": "Creo que tomaremos la decisión correcta."
+        },
+        {
+          "type": "speak",
+          "text": "I hope you will have a good future.",
+          "es": "Espero que tengas un buen futuro."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "I promise I ___ tell anyone.",
-      "options": ["won't", "don't", "want"],
-      "answer": "won't",
-      "explanation": "Las promesas implican acción futura y requieren el auxiliar negativo «won't». Cuidado: «won't» (will not) no es el verbo «want»."
-    },
-    {
-      "type": "quiz",
-      "q": "We _______ go to the beach tomorrow if the temperature is low.",
-      "options": ["don't", "will to", "won't"],
-      "correct": 2,
-      "hint": "Se predice NO hacer algo mañana: necesitas la forma negativa de futuro.",
-      "explanation": "«Won't» es la negación de «will» y proyecta la decisión al futuro. «Don't» es presente simple, y «will to» es imposible porque «will» nunca admite «to»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Creo que lloverá pronto",
-      "direction": "es-en",
-      "tiles": ["I", "think", "it", "will", "rain", "soon", "is", "going"],
-      "answer": "I think it will rain soon",
-      "explanation": "El verbo de creencia «I think» se antepone como disparador del futuro con «will»: es una conjetura personal sin evidencia física."
-    },
-    {
-      "type": "speak",
-      "text": "I think it will rain next week.",
-      "es": "Creo que lloverá la semana que viene."
-    },
-    {
-      "type": "gap",
-      "text": "___ the temperature change soon?",
-      "options": ["Will", "Does", "Is"],
-      "answer": "Will",
-      "explanation": "«Will» es su propio auxiliar de interrogación: se antepone al sujeto sin necesidad de «do/does» ni de «to be»."
-    },
-    {
-      "type": "quiz",
-      "q": "I promise I _______ you next year.",
-      "options": ["help", "'ll help", "helping"],
-      "correct": 1,
-      "hint": "Una promesa compromete tu conducta futura.",
-      "explanation": "La forma contracta «'ll help» (will help) es el estándar para formalizar promesas. «Help» en presente simple no transmite compromiso futuro y «helping» no puede ser predicado sin auxiliar."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Te llamaré más tarde",
-      "direction": "es-en",
-      "tiles": ["I", "will", "call", "you", "later", "going", "am"],
-      "answer": "I will call you later",
-      "explanation": "Reacción espontánea típica de «will»: la decisión de llamar se toma en el momento de hablar, sin plan previo."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "tomorrow", "es": "mañana" },
-        { "en": "soon", "es": "pronto" },
-        { "en": "later", "es": "más tarde" },
-        { "en": "next week", "es": "la semana que viene" },
-        { "en": "probably", "es": "probablemente" }
+      "n": 3,
+      "title": "Cuándo: tomorrow, soon, later",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "think", "es": "pensar" },
+            { "en": "believe", "es": "creer" },
+            { "en": "hope", "es": "esperar" },
+            { "en": "maybe", "es": "tal vez" },
+            { "en": "perhaps", "es": "quizás" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Perhaps it _______ sunny later.",
+          "options": ["is being", "be", "will be"],
+          "correct": 2,
+          "hint": "«Perhaps» indica especulación sobre el tiempo meteorológico.",
+          "explanation": "El adverbio de duda «perhaps» concuerda con el futuro modal «will be». «Is being» no se usa para predicciones meteorológicas y «be» solo no puede ser verbo copulativo futuro sin auxiliar."
+        },
+        {
+          "type": "gap",
+          "text": "Perhaps it will ___ sunny later.",
+          "options": ["be", "is", "being"],
+          "answer": "be",
+          "explanation": "Tras «will» va la forma base del verbo: «will be». El adverbio de duda «perhaps» marca la especulación típica de «will»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "perhaps", "es": "quizás" },
+            { "en": "tomorrow", "es": "mañana" },
+            { "en": "next week", "es": "la semana que viene" },
+            { "en": "next year", "es": "el año que viene" },
+            { "en": "soon", "es": "pronto" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which word expresses more uncertainty, closer to «maybe»?",
+          "options": ["perhaps", "tomorrow", "soon"],
+          "correct": 0,
+          "hint": "Dos de las palabras son marcadores de tiempo, no de duda.",
+          "explanation": "«Perhaps» (quizás) expresa duda, igual que «maybe». «Tomorrow» y «soon» son marcadores de tiempo, no de probabilidad."
+        },
+        {
+          "type": "gap",
+          "text": "I will call you ___, I promise.",
+          "options": ["tomorrow", "yesterday", "ago"],
+          "answer": "tomorrow",
+          "explanation": "«Will» proyecta la acción al porvenir, así que exige un marcador de futuro como «tomorrow»; «yesterday» y «ago» son marcadores de pasado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir la misma tarjeta",
+          "pairs": [
+            { "en": "perhaps", "es": "quizás" },
+            { "en": "tomorrow", "es": "mañana" },
+            { "en": "next week", "es": "la semana que viene" },
+            { "en": "soon", "es": "pronto" },
+            { "en": "later", "es": "más tarde" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct sentence about next week's plans:",
+          "options": ["I will see you next week.", "I will see you next week ago.", "I saw you next week."],
+          "correct": 0,
+          "hint": "«Next week» apunta al futuro; una opción mezcla pasado y futuro.",
+          "explanation": "«Next week» es un marcador de futuro compatible con «will». «Ago» es exclusivo del pasado y «saw» es pasado simple, incompatible con un marcador futuro."
+        },
+        {
+          "type": "gap",
+          "text": "We will finish the project ___ week.",
+          "options": ["next", "last", "ago"],
+          "answer": "next",
+          "explanation": "«Next week» es el marcador de futuro correcto. «Last week» pertenece al pasado y «ago» tampoco es compatible con «will»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Quizás cambiará la temperatura",
+          "direction": "es-en",
+          "tiles": ["Perhaps", "the", "temperature", "will", "change", "is", "changes"],
+          "answer": "Perhaps the temperature will change",
+          "explanation": "«Perhaps» introduce una predicción incierta, que en inglés activa el auxiliar «will» + verbo en forma base («change»)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Te veré la semana que viene",
+          "direction": "es-en",
+          "tiles": ["I", "will", "see", "you", "next", "week", "later"],
+          "answer": "I will see you next week",
+          "explanation": "«Next week» marca el futuro de forma explícita y encaja con el auxiliar «will»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Iremos pronto",
+          "direction": "es-en",
+          "tiles": ["We", "will", "go", "soon", "later", "tomorrow"],
+          "answer": "We will go soon",
+          "explanation": "«Soon» (pronto) es un marcador de futuro cercano, compatible con «will go»."
+        },
+        {
+          "type": "speak",
+          "text": "Perhaps it will be sunny later.",
+          "es": "Quizás esté soleado más tarde."
+        },
+        {
+          "type": "speak",
+          "text": "I will see you next week.",
+          "es": "Te veré la semana que viene."
+        },
+        {
+          "type": "speak",
+          "text": "We will go soon.",
+          "es": "Iremos pronto."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "Perhaps it will ___ sunny later.",
-      "options": ["be", "is", "being"],
-      "answer": "be",
-      "explanation": "Tras «will» va la forma base del verbo: «will be». El adverbio de duda «perhaps» marca la especulación típica de «will»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is correct?",
-      "options": ["I think it wills rain tomorrow.", "I think it will rain tomorrow.", "I think it will to rain tomorrow."],
-      "correct": 1,
-      "hint": "«Will» es un modal: ni concordancia de tercera persona ni partícula «to».",
-      "explanation": "«Will» es invariable (nunca «wills») y exige infinitivo sin «to» (nunca «will to rain»). La única forma correcta es «it will rain»."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Quizás cambiará la temperatura",
-      "direction": "es-en",
-      "tiles": ["Perhaps", "the", "temperature", "will", "change", "is", "changes"],
-      "answer": "Perhaps the temperature will change",
-      "explanation": "«Perhaps» introduce una predicción incierta, que en inglés activa el auxiliar «will» + verbo en forma base («change»)."
-    },
-    {
-      "type": "speak",
-      "text": "I'll help you with that heavy bag.",
-      "es": "Te ayudaré con esa bolsa pesada."
-    },
-    {
-      "type": "gap",
-      "text": "I will ___ you a glass of water.",
-      "options": ["bring", "brings", "bringing"],
-      "answer": "bring",
-      "explanation": "Ofrecimiento voluntario con «will» + forma base «bring»: sin «-s» ni «-ing» después del modal."
-    },
-    {
-      "type": "quiz",
-      "q": "Perhaps it _______ sunny later.",
-      "options": ["is being", "be", "will be"],
-      "correct": 2,
-      "hint": "«Perhaps» indica especulación sobre el tiempo meteorológico.",
-      "explanation": "El adverbio de duda «perhaps» concuerda con el futuro modal «will be». «Is being» no se usa para predicciones meteorológicas y «be» solo no puede ser verbo copulativo futuro sin auxiliar."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Tomaré un té",
-      "direction": "es-en",
-      "tiles": ["I", "will", "have", "a", "tea", "take", "going"],
-      "answer": "I will have a tea",
-      "explanation": "Decisión inmediata al pedir: «I will have a tea». El hispanohablante a veces calca el presente («I take a tea»), que es incorrecto."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
-        { "en": "help", "es": "ayudar" },
-        { "en": "bring", "es": "traer" },
-        { "en": "buy", "es": "comprar" },
-        { "en": "call", "es": "llamar" },
-        { "en": "send", "es": "enviar" }
+      "n": 4,
+      "title": "Ofrecimientos: help, bring, buy, call",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "help", "es": "ayudar" },
+            { "en": "bring", "es": "traer" },
+            { "en": "buy", "es": "comprar" },
+            { "en": "call", "es": "llamar" },
+            { "en": "send", "es": "enviar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"You look tired.\" — \"I _______ carry your bag.\"",
+          "options": ["will", "won't", "am going to"],
+          "correct": 0,
+          "hint": "Es un ofrecimiento espontáneo de ayuda.",
+          "explanation": "Los ofrecimientos espontáneos de ayuda usan «will»: «I will carry your bag». «Am going to» implicaría un plan previo."
+        },
+        {
+          "type": "gap",
+          "text": "I will ___ you a glass of water.",
+          "options": ["bring", "brings", "bringing"],
+          "answer": "bring",
+          "explanation": "Ofrecimiento voluntario con «will» + forma base «bring»: sin «-s» ni «-ing» después del modal."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "bring", "es": "traer" },
+            { "en": "buy", "es": "comprar" },
+            { "en": "call", "es": "llamar" },
+            { "en": "write", "es": "escribir" },
+            { "en": "send", "es": "enviar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct offer:",
+          "options": ["I will send you the details.", "I send you the details will.", "I am send you the details."],
+          "correct": 0,
+          "hint": "El orden de palabras en inglés es fijo: sujeto + will + verbo.",
+          "explanation": "El orden correcto es sujeto + will + verbo base: «I will send». Las otras opciones rompen el orden sintáctico obligatorio."
+        },
+        {
+          "type": "gap",
+          "text": "Don't worry, I will ___ the bags to your room.",
+          "options": ["bring", "brings", "bringing"],
+          "answer": "bring",
+          "explanation": "Tras «will» el verbo va en forma base: «bring», sin «-s» ni «-ing»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir la misma tarjeta",
+          "pairs": [
+            { "en": "help", "es": "ayudar" },
+            { "en": "buy", "es": "comprar" },
+            { "en": "call", "es": "llamar" },
+            { "en": "write", "es": "escribir" },
+            { "en": "send", "es": "enviar" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "\"I need this letter posted.\" — \"Don't worry, I _______ it for you.\"",
+          "options": ["will write", "writes", "am write"],
+          "correct": 0,
+          "hint": "Reacción espontánea de ayuda ante una necesidad inmediata.",
+          "explanation": "«I will write it for you» es la reacción espontánea típica de ofrecimiento con «will» + verbo base."
+        },
+        {
+          "type": "gap",
+          "text": "I will ___ you an email tomorrow.",
+          "options": ["send", "sends", "sending"],
+          "answer": "send",
+          "explanation": "Ofrecimiento con «will» + forma base «send», sin flexión de persona."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Te ayudaré con las maletas",
+          "direction": "es-en",
+          "tiles": ["I", "will", "help", "you", "with", "the", "bags", "bring"],
+          "answer": "I will help you with the bags",
+          "explanation": "Ofrecimiento voluntario con «will help», seguido del complemento «with the bags»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Compraremos los billetes mañana",
+          "direction": "es-en",
+          "tiles": ["We", "will", "buy", "the", "tickets", "tomorrow", "call"],
+          "answer": "We will buy the tickets tomorrow",
+          "explanation": "Decisión de futuro con «will buy» y el marcador «tomorrow»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Te llamaré esta noche",
+          "direction": "es-en",
+          "tiles": ["I", "will", "call", "you", "tonight", "send"],
+          "answer": "I will call you tonight",
+          "explanation": "«Will call» expresa la decisión de llamar; «tonight» sitúa la acción en el futuro cercano."
+        },
+        {
+          "type": "speak",
+          "text": "I will help you with the bags.",
+          "es": "Te ayudaré con las maletas."
+        },
+        {
+          "type": "speak",
+          "text": "We will buy the tickets tomorrow.",
+          "es": "Compraremos los billetes mañana."
+        },
+        {
+          "type": "speak",
+          "text": "I will send you an email.",
+          "es": "Te enviaré un correo."
+        }
       ]
     },
     {
-      "type": "gap",
-      "text": "I hope you will ___ your exam next week.",
-      "options": ["pass", "passes", "passing"],
-      "answer": "pass",
-      "explanation": "Tras «will» el verbo principal va siempre en forma base: «will pass», sin flexiones de persona ni gerundio."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the correct promise:",
-      "options": ["I won't tell your secret.", "I don't tell your secret.", "I not will tell your secret."],
-      "correct": 0,
-      "hint": "Las promesas proyectan la acción al futuro con la negación del modal.",
-      "explanation": "Las promesas requieren el auxiliar negativo de futuro «won't». «Don't» es presente simple y «not will» invierte incorrectamente el orden de la negación."
-    },
-    {
-      "type": "gap",
-      "text": "I will call you ___ , I promise.",
-      "options": ["tomorrow", "yesterday", "ago"],
-      "answer": "tomorrow",
-      "explanation": "«Will» proyecta la acción al porvenir, así que exige un marcador de futuro como «tomorrow»; «yesterday» y «ago» son marcadores de pasado."
-    },
-    {
-      "type": "speak",
-      "text": "I won't tell anyone, believe me.",
-      "es": "No se lo diré a nadie, créeme."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Espero que esté soleado",
-      "direction": "es-en",
-      "tiles": ["I", "hope", "it", "will", "be", "sunny", "is", "to"],
-      "answer": "I hope it will be sunny",
-      "explanation": "El verbo de deseo «hope» activa el futuro con «will» en la cláusula subordinada: «will be sunny», sin «to» tras el modal."
+      "n": 5,
+      "title": "El tiempo (clima) y repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "tomorrow", "es": "mañana" },
+            { "en": "soon", "es": "pronto" },
+            { "en": "later", "es": "más tarde" },
+            { "en": "next week", "es": "la semana que viene" },
+            { "en": "probably", "es": "probablemente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is a weather prediction?",
+          "options": ["I think it will rain tomorrow.", "I think it rains tomorrow.", "I think it rained tomorrow."],
+          "correct": 0,
+          "hint": "Es una predicción subjetiva sobre el futuro.",
+          "explanation": "Las predicciones subjetivas sobre el clima usan «will»: «I think it will rain». El presente simple y el pasado simple no expresan una conjetura de futuro."
+        },
+        {
+          "type": "gap",
+          "text": "I think the ___ will change soon.",
+          "options": ["temperature", "rain", "sunny"],
+          "answer": "temperature",
+          "explanation": "«Temperature» (temperatura) es el sustantivo correcto que puede «cambiar» («change»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "rain", "es": "llover / lluvia" },
+            { "en": "sunny", "es": "soleado" },
+            { "en": "temperature", "es": "temperatura" },
+            { "en": "change", "es": "cambiar / cambio" },
+            { "en": "environment", "es": "medio ambiente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which is the correct word order?",
+          "options": ["The temperature will probably rise.", "The temperature probably will rise.", "The temperature will rise probably."],
+          "correct": 0,
+          "hint": "«Probably» suele colocarse justo después de «will».",
+          "explanation": "El adverbio «probably» se coloca típicamente entre el auxiliar «will» y el verbo principal: «will probably rise»."
+        },
+        {
+          "type": "gap",
+          "text": "It will probably ___ tomorrow.",
+          "options": ["rain", "rains", "raining"],
+          "answer": "rain",
+          "explanation": "Tras «will probably» el verbo va en forma base: «rain», sin flexión."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir la misma tarjeta",
+          "pairs": [
+            { "en": "sunny", "es": "soleado" },
+            { "en": "temperature", "es": "temperatura" },
+            { "en": "change", "es": "cambiar / cambio" },
+            { "en": "environment", "es": "medio ambiente" },
+            { "en": "probably", "es": "probablemente" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence correctly predicts sunny weather?",
+          "options": ["It will be sunny tomorrow.", "It will sunny tomorrow.", "It is sunny will tomorrow."],
+          "correct": 0,
+          "hint": "Tras «will» necesitas el verbo «be».",
+          "explanation": "«Sunny» es un adjetivo; necesita el verbo «be»: «It will be sunny». Las otras opciones omiten o desordenan el verbo."
+        },
+        {
+          "type": "gap",
+          "text": "We must protect the ___.",
+          "options": ["environment", "temperature", "change"],
+          "answer": "environment",
+          "explanation": "«Environment» (medio ambiente) es lo que se protege; «temperature» y «change» no encajan semánticamente aquí."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Probablemente llueva mañana",
+          "direction": "es-en",
+          "tiles": ["It", "will", "probably", "rain", "tomorrow", "sunny"],
+          "answer": "It will probably rain tomorrow",
+          "explanation": "«Probably» se coloca entre «will» y el verbo: «will probably rain»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "La temperatura cambiará",
+          "direction": "es-en",
+          "tiles": ["The", "temperature", "will", "change", "environment", "probably"],
+          "answer": "The temperature will change",
+          "explanation": "«Temperature» es el sujeto y «will change» expresa la predicción de futuro."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Protegeremos el medio ambiente",
+          "direction": "es-en",
+          "tiles": ["We", "will", "protect", "the", "environment", "change"],
+          "answer": "We will protect the environment",
+          "explanation": "«Will protect» expresa la decisión de futuro; «the environment» es el complemento directo."
+        },
+        {
+          "type": "speak",
+          "text": "It will probably rain tomorrow.",
+          "es": "Probablemente llueva mañana."
+        },
+        {
+          "type": "speak",
+          "text": "The temperature will change.",
+          "es": "La temperatura cambiará."
+        },
+        {
+          "type": "speak",
+          "text": "We will protect the environment.",
+          "es": "Protegeremos el medio ambiente."
+        }
+      ]
     }
   ]
 }

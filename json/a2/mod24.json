@@ -3,423 +3,621 @@
   "module": 24,
   "title": "Comparatives and Superlatives",
   "subtitle": "Comparativos y Superlativos",
-  "exercises": [
+  "sublevels": [
     {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
+      "n": 1,
+      "title": "Comparativos de adjetivos cortos",
+      "exercises": [
         {
-          "en": "cheap",
-          "es": "barato"
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "cheap", "es": "barato" },
+            { "en": "expensive", "es": "caro" },
+            { "en": "fast", "es": "rápido" },
+            { "en": "slow", "es": "lento" },
+            { "en": "big", "es": "grande" }
+          ]
         },
         {
-          "en": "expensive",
-          "es": "caro"
+          "type": "quiz",
+          "q": "This is the ___ hotel in the town.",
+          "options": ["cheapest", "cheaper", "cheapest than"],
+          "correct": 0,
+          "hint": "El artículo «the» delante del hueco pide un grado concreto.",
+          "explanation": "El artículo «the» señala que se requiere superlativo: «cheapest» para un adjetivo corto. «Cheaper» es comparativo y necesitaría «than»; «than» es incompatible con el superlativo."
         },
         {
-          "en": "fast",
-          "es": "rápido"
+          "type": "gap",
+          "text": "This mobile is bigger ___ yours.",
+          "options": ["than", "that", "what"],
+          "answer": "than",
+          "explanation": "La única conjunción comparativa válida en inglés es «than». Escribir «bigger that» es un calco frecuente del español «que»."
         },
         {
-          "en": "slow",
-          "es": "lento"
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "cheap", "es": "barato" },
+            { "en": "expensive", "es": "caro" },
+            { "en": "slow", "es": "lento" },
+            { "en": "big", "es": "grande" },
+            { "en": "small", "es": "pequeño" }
+          ]
         },
         {
-          "en": "big",
-          "es": "grande"
+          "type": "quiz",
+          "q": "This laptop is ___ than the other one; it costs less.",
+          "options": ["cheap", "cheaper", "more cheap"],
+          "correct": 1,
+          "hint": "«Cheap» es monosílabo: exige el sufijo, no «more».",
+          "explanation": "«Cheap» es un adjetivo corto (monosílabo) y forma el comparativo con «-er»: «cheaper». «More cheap» viola la regla de los adjetivos cortos."
+        },
+        {
+          "type": "gap",
+          "text": "This car is ___ than mine.",
+          "options": ["bigger", "biger", "more big"],
+          "answer": "bigger",
+          "explanation": "Regla C-V-C: «big» termina en consonante-vocal-consonante, así que duplica la consonante final antes de «-er»: «bigger»."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir la palabra omitida",
+          "pairs": [
+            { "en": "cheap", "es": "barato" },
+            { "en": "fast", "es": "rápido" },
+            { "en": "slow", "es": "lento" },
+            { "en": "big", "es": "grande" },
+            { "en": "small", "es": "pequeño" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["This bag is more big than mine.", "This bag is bigger that mine.", "This bag is bigger than mine."],
+          "correct": 2,
+          "hint": "Comprueba la ortografía del comparativo y la conjunción correcta.",
+          "explanation": "«Bigger» sigue la regla C-V-C (duplica la consonante) y se conecta con «than», nunca con «that». La primera opción aplica mal la regla analítica a un adjetivo corto."
+        },
+        {
+          "type": "gap",
+          "text": "This phone is ___ than that one.",
+          "options": ["cheaper", "more cheap", "cheapest"],
+          "answer": "cheaper",
+          "explanation": "Adjetivo corto ⇒ comparativo en -er + than: «cheaper than». «More cheap» es agramatical y «cheapest» es el superlativo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este coche es más caro que el otro",
+          "direction": "es-en",
+          "tiles": ["This", "car", "is", "more", "expensive", "than", "the", "other", "expensiver"],
+          "answer": "This car is more expensive than the other",
+          "explanation": "«Expensive» es un adjetivo largo: comparativo analítico «more expensive» + «than». «Expensiver» no existe en inglés."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este avión es más rápido que el tren",
+          "direction": "es-en",
+          "tiles": ["This", "plane", "is", "faster", "than", "the", "train", "more"],
+          "answer": "This plane is faster than the train",
+          "explanation": "«Fast» es corto: comparativo «faster» + «than»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta mesa es más pequeña que esa",
+          "direction": "es-en",
+          "tiles": ["This", "table", "is", "smaller", "than", "that", "one", "more"],
+          "answer": "This table is smaller than that one",
+          "explanation": "«Small» es corto: comparativo «smaller» + «than»."
+        },
+        {
+          "type": "speak",
+          "text": "This is the most expensive hotel in the city.",
+          "es": "Este es el hotel más caro de la ciudad."
+        },
+        {
+          "type": "speak",
+          "text": "He is the tallest boy in the class.",
+          "es": "Él es el chico más alto de la clase."
+        },
+        {
+          "type": "speak",
+          "text": "This train is slower than the plane.",
+          "es": "Este tren es más lento que el avión."
         }
       ]
     },
     {
-      "type": "quiz",
-      "q": "This modern computer is ___ than the old model.",
-      "options": [
-        "expensive",
-        "more expensive",
-        "expensiver"
-      ],
-      "correct": 1,
-      "hint": "«Expensive» es un adjetivo largo: no admite sufijos.",
-      "explanation": "«Expensive» es polisílabo y forma el comparativo anteponiendo «more». La forma base no expresa comparación y «expensiver» no existe: los adjetivos largos nunca se sufijan."
-    },
-    {
-      "type": "gap",
-      "text": "This model is ___ than that model.",
-      "options": [
-        "cheaper",
-        "more cheap",
-        "cheapest"
-      ],
-      "answer": "cheaper",
-      "explanation": "«Cheap» es monosílabo: exige la flexión sintética «-er» («cheaper»), no la analítica con «more». «Cheapest» es el superlativo."
-    },
-    {
-      "type": "speak",
-      "text": "My new phone is faster than the old one.",
-      "es": "Mi teléfono nuevo es más rápido que el viejo."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Este coche es más viejo que el mío",
-      "direction": "es-en",
-      "tiles": [
-        "This",
-        "car",
-        "is",
-        "older",
-        "than",
-        "mine",
-        "more"
-      ],
-      "answer": "This car is older than mine",
-      "explanation": "El español antepone siempre «más»; el inglés modifica la terminación del adjetivo corto: «older than». No se usa «more» con adjetivos cortos."
-    },
-    {
-      "type": "quiz",
-      "q": "This is the ___ hotel in the town.",
-      "options": [
-        "cheapest",
-        "cheaper",
-        "cheapest than"
-      ],
-      "correct": 0,
-      "hint": "El artículo «the» delante del hueco pide un grado concreto.",
-      "explanation": "El artículo «the» señala que se requiere superlativo: «cheapest» para un adjetivo corto. «Cheaper» es comparativo y necesitaría «than»; «than» es incompatible con el superlativo."
-    },
-    {
-      "type": "gap",
-      "text": "This mobile is bigger ___ yours.",
-      "options": [
-        "than",
-        "that",
-        "what"
-      ],
-      "answer": "than",
-      "explanation": "La única conjunción comparativa válida en inglés es «than». Escribir «bigger that» es un calco frecuente del español «que»."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
+      "n": 2,
+      "title": "Superlativos irregulares: good y bad",
+      "exercises": [
         {
-          "en": "heavy",
-          "es": "pesado"
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "heavy", "es": "pesado" },
+            { "en": "light", "es": "ligero" },
+            { "en": "good", "es": "bueno" },
+            { "en": "bad", "es": "malo" },
+            { "en": "better", "es": "mejor" }
+          ]
         },
         {
-          "en": "light",
-          "es": "ligero"
+          "type": "quiz",
+          "q": "This box is ___ than that one; I can barely lift it.",
+          "options": ["heavier", "more heavy", "heaviest"],
+          "correct": 0,
+          "hint": "«Heavy» termina en «-y»: cambia a «-ier».",
+          "explanation": "«Heavy» es bisílabo terminado en «-y»: forma el comparativo sustituyendo la «-y» por «-i» y añadiendo «-er»: «heavier»."
         },
         {
-          "en": "good",
-          "es": "bueno"
+          "type": "gap",
+          "text": "She is the ___ student in the class.",
+          "options": ["best", "better", "most good"],
+          "answer": "best",
+          "explanation": "Tras «the» se exige el superlativo, y el de «good» es la forma irregular «best». «Better» es el comparativo y «most good» no es válido."
         },
         {
-          "en": "bad",
-          "es": "malo"
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "heavy", "es": "pesado" },
+            { "en": "good", "es": "bueno" },
+            { "en": "bad", "es": "malo" },
+            { "en": "better", "es": "mejor" },
+            { "en": "best", "es": "el mejor" }
+          ]
         },
         {
-          "en": "far",
-          "es": "lejos"
+          "type": "quiz",
+          "q": "My backpack is ___ than yours; you can carry more books in it.",
+          "options": ["lighter", "more light", "lightest"],
+          "correct": 0,
+          "hint": "«Light» es un adjetivo corto de una sola sílaba.",
+          "explanation": "«Light» es monosílabo: comparativo sintético «lighter». «More light» viola la regla de los adjetivos cortos."
+        },
+        {
+          "type": "gap",
+          "text": "This suitcase is ___ than that one.",
+          "options": ["heavier", "heavyer", "more heavy"],
+          "answer": "heavier",
+          "explanation": "«Heavy» termina en «-y»: se cambia la «-y» por «-i» antes de «-er» («heavier»). «Heavyer» es un error ortográfico y «more heavy» aplica mal la regla analítica."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja sin repetir la palabra omitida",
+          "pairs": [
+            { "en": "heavy", "es": "pesado" },
+            { "en": "light", "es": "ligero" },
+            { "en": "bad", "es": "malo" },
+            { "en": "better", "es": "mejor" },
+            { "en": "best", "es": "el mejor" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["This coffee is gooder than that one.", "This coffee is more good than that one.", "This coffee is better than that one."],
+          "correct": 2,
+          "hint": "«Good» es uno de los tres adjetivos irregulares absolutos.",
+          "explanation": "El comparativo irregular de «good» es «better»; «gooder» y «more good» no existen en inglés."
+        },
+        {
+          "type": "gap",
+          "text": "This new phone is ___ than my old one; it has more features.",
+          "options": ["better", "gooder", "best"],
+          "answer": "better",
+          "explanation": "«Better» es el comparativo irregular de «good». «Gooder» no existe y «best» es superlativo, incompatible con una comparación de dos elementos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Esta caja es más pesada que la otra",
+          "direction": "es-en",
+          "tiles": ["This", "box", "is", "heavier", "than", "the", "other", "more"],
+          "answer": "This box is heavier than the other",
+          "explanation": "«Heavy» termina en «-y»: comparativo «heavier»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Mi mochila es más ligera que la tuya",
+          "direction": "es-en",
+          "tiles": ["My", "backpack", "is", "lighter", "than", "yours", "more"],
+          "answer": "My backpack is lighter than yours",
+          "explanation": "«Light» es corto: comparativo «lighter» + «than»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Ella es la mejor estudiante de la clase",
+          "direction": "es-en",
+          "tiles": ["She", "is", "the", "best", "student", "in", "the", "class", "better"],
+          "answer": "She is the best student in the class",
+          "explanation": "Superlativo irregular de «good»: «the best», con el artículo «the» obligatorio."
+        },
+        {
+          "type": "speak",
+          "text": "This bag is heavier than mine.",
+          "es": "Esta bolsa es más pesada que la mía."
+        },
+        {
+          "type": "speak",
+          "text": "This backpack is lighter than that one.",
+          "es": "Esta mochila es más ligera que esa."
+        },
+        {
+          "type": "speak",
+          "text": "Her English is better than mine.",
+          "es": "Su inglés es mejor que el mío."
         }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Este coche es más caro que el otro",
-      "direction": "es-en",
-      "tiles": [
-        "This",
-        "car",
-        "is",
-        "more",
-        "expensive",
-        "than",
-        "the",
-        "other",
-        "expensiver"
-      ],
-      "answer": "This car is more expensive than the other",
-      "explanation": "«Expensive» es un adjetivo largo: comparativo analítico «more expensive» + «than». «Expensiver» no existe en inglés."
-    },
-    {
-      "type": "quiz",
-      "q": "The weather today is ___ than yesterday.",
-      "options": [
-        "badder",
-        "worse",
-        "worst"
-      ],
-      "correct": 1,
-      "hint": "«Bad» es uno de los tres adjetivos irregulares absolutos.",
-      "explanation": "«Worse» es la forma comparativa irregular de «bad». «Badder» es agramatical porque «bad» no admite «-er», y «worst» es el superlativo, incompatible con «than»."
-    },
-    {
-      "type": "gap",
-      "text": "She is the ___ student in the class.",
-      "options": [
-        "best",
-        "better",
-        "most good"
-      ],
-      "answer": "best",
-      "explanation": "Tras «the» se exige el superlativo, y el de «good» es la forma irregular «best». «Better» es el comparativo y «most good» no es válido."
-    },
-    {
-      "type": "speak",
-      "text": "This is the most expensive hotel in the city.",
-      "es": "Este es el hotel más caro de la ciudad."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Es el mejor precio del mercado",
-      "direction": "es-en",
-      "tiles": [
-        "It",
-        "is",
-        "the",
-        "best",
-        "price",
-        "on",
-        "the",
-        "market",
-        "better"
-      ],
-      "answer": "It is the best price on the market",
-      "explanation": "Superlativo irregular de «good»: «the best». El artículo «the» es obligatorio ante cualquier superlativo; omitirlo es un error grave en A2."
-    },
-    {
-      "type": "quiz",
-      "q": "Learning English is ___ than learning Chinese.",
-      "options": [
-        "more easy",
-        "easier",
-        "easiest"
-      ],
-      "correct": 1,
-      "hint": "«Easy» es bisílabo pero termina en «-y».",
-      "explanation": "Los bisílabos en «-y» como «easy» se sufijan cambiando la «-y» por «-i»: «easier». «More easy» viola esa regla y «easiest» es superlativo, erróneo para un contraste binario."
-    },
-    {
-      "type": "gap",
-      "text": "This suitcase is ___ than that one.",
-      "options": [
-        "heavier",
-        "heavyer",
-        "more heavy"
-      ],
-      "answer": "heavier",
-      "explanation": "«Heavy» termina en «-y»: se cambia la «-y» por «-i» antes de «-er» («heavier»). «Heavyer» es un error ortográfico y «more heavy» aplica mal la regla analítica."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
+      "n": 3,
+      "title": "Comparativo y superlativo irregulares: peor y lejos",
+      "exercises": [
         {
-          "en": "easy",
-          "es": "fácil"
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "heavy", "es": "pesado" },
+            { "en": "light", "es": "ligero" },
+            { "en": "good", "es": "bueno" },
+            { "en": "bad", "es": "malo" },
+            { "en": "far", "es": "lejos" }
+          ]
         },
         {
-          "en": "difficult",
-          "es": "difícil"
+          "type": "quiz",
+          "q": "The weather today is ___ than yesterday.",
+          "options": ["badder", "worse", "worst"],
+          "correct": 1,
+          "hint": "«Bad» es uno de los tres adjetivos irregulares absolutos.",
+          "explanation": "«Worse» es la forma comparativa irregular de «bad». «Badder» es agramatical porque «bad» no admite «-er», y «worst» es el superlativo, incompatible con «than»."
         },
         {
-          "en": "modern",
-          "es": "moderno"
+          "type": "gap",
+          "text": "This hotel is ___ from the city center than mine.",
+          "options": ["further", "farer", "more far"],
+          "answer": "further",
+          "explanation": "«Far» es irregular: su comparativo es «further» (o «farther»), nunca «farer» ni «more far»."
         },
         {
-          "en": "useful",
-          "es": "útil"
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "worse", "es": "peor" },
+            { "en": "worst", "es": "el peor" },
+            { "en": "far", "es": "lejos" },
+            { "en": "further", "es": "más lejos" },
+            { "en": "furthest", "es": "el más lejano" }
+          ]
         },
         {
-          "en": "useless",
-          "es": "inútil"
+          "type": "quiz",
+          "q": "Which sentence is grammatically CORRECT?",
+          "options": ["She is the worsest player.", "She is the worst player.", "She is the most bad player."],
+          "correct": 1,
+          "hint": "El superlativo de «bad» es una forma irregular que hay que memorizar.",
+          "explanation": "La forma superlativa irregular de «bad» es «worst». «Worsest» no existe y «most bad» aplica erróneamente la regla de los polisílabos a un adjetivo irregular."
+        },
+        {
+          "type": "gap",
+          "text": "Of all the hotels, this one is the ___ from the airport.",
+          "options": ["furthest", "farest", "most far"],
+          "answer": "furthest",
+          "explanation": "El superlativo irregular de «far» es «the furthest» (o «the farthest»)."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja mezclando vocabulario de bloques anteriores",
+          "pairs": [
+            { "en": "worse", "es": "peor" },
+            { "en": "far", "es": "lejos" },
+            { "en": "further", "es": "más lejos" },
+            { "en": "furthest", "es": "el más lejano" },
+            { "en": "comparison", "es": "comparación" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which pair correctly completes: \"This hotel is _____ from the airport, but it's the _____ one in the city.\"",
+          "options": ["far / far", "far / further", "further / furthest"],
+          "correct": 2,
+          "hint": "Recuerda que «far» es irregular: cambia de forma en comparativo y superlativo.",
+          "explanation": "El comparativo irregular de «far» es «further» y el superlativo es «furthest». La forma base «far» no sirve para comparar ni para el grado máximo."
+        },
+        {
+          "type": "gap",
+          "text": "This test result is even ___ than the last one.",
+          "options": ["worse", "badder", "worst"],
+          "answer": "worse",
+          "explanation": "Comparativo irregular de «bad»: «worse». «Badder» no existe y «worst» es superlativo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "El tiempo hoy es peor que ayer",
+          "direction": "es-en",
+          "tiles": ["The", "weather", "today", "is", "worse", "than", "yesterday", "badder"],
+          "answer": "The weather today is worse than yesterday",
+          "explanation": "Comparativo irregular de «bad»: «worse» + «than». «Badder» es agramatical porque los irregulares no admiten «-er»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es el peor resultado del año",
+          "direction": "es-en",
+          "tiles": ["It", "is", "the", "worst", "result", "of", "the", "year", "worse"],
+          "answer": "It is the worst result of the year",
+          "explanation": "Superlativo irregular de «bad»: «the worst»."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Vivo más lejos que tú",
+          "direction": "es-en",
+          "tiles": ["I", "live", "further", "than", "you", "far"],
+          "answer": "I live further than you",
+          "explanation": "Comparativo irregular de «far»: «further» + «than»."
+        },
+        {
+          "type": "speak",
+          "text": "This is worse than I thought.",
+          "es": "Esto es peor de lo que pensaba."
+        },
+        {
+          "type": "speak",
+          "text": "My house is further than yours.",
+          "es": "Mi casa está más lejos que la tuya."
+        },
+        {
+          "type": "speak",
+          "text": "Let's make a quick comparison.",
+          "es": "Hagamos una comparación rápida."
         }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "Es más difícil de lo que crees",
-      "direction": "es-en",
-      "tiles": [
-        "It",
-        "is",
-        "more",
-        "difficult",
-        "than",
-        "you",
-        "think",
-        "that"
-      ],
-      "answer": "It is more difficult than you think",
-      "explanation": "Estructura paralela: «más» = «more» y «que» = «than». Nunca se usa «that» como conjunción comparativa."
-    },
-    {
-      "type": "quiz",
-      "q": "This price is the ___ on the website.",
-      "options": [
-        "best",
-        "better",
-        "most good"
-      ],
-      "correct": 0,
-      "hint": "«The» exige superlativo y «good» es irregular.",
-      "explanation": "El artículo «the» pide superlativo: «best» es la forma irregular de «good». «Better» es comparativo y requeriría «than»; «most good» no es válido porque «good» no sigue las reglas de los polisílabos."
-    },
-    {
-      "type": "gap",
-      "text": "This car is ___ than mine.",
-      "options": [
-        "bigger",
-        "biger",
-        "more big"
-      ],
-      "answer": "bigger",
-      "explanation": "Regla C-V-C: «big» termina en consonante-vocal-consonante, así que duplica la consonante final antes de «-er»: «bigger»."
-    },
-    {
-      "type": "speak",
-      "text": "He is the tallest boy in the class.",
-      "es": "Él es el chico más alto de la clase."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Este es el modelo más barato de la tienda",
-      "direction": "es-en",
-      "tiles": [
-        "This",
-        "is",
-        "the",
-        "cheapest",
-        "model",
-        "in",
-        "the",
-        "shop",
-        "cheaper"
-      ],
-      "answer": "This is the cheapest model in the shop",
-      "explanation": "Superlativo de adjetivo corto: «the» + «cheapest». «Cheaper» es el comparativo y necesitaría un segundo término con «than»."
-    },
-    {
-      "type": "quiz",
-      "q": "Which sentence is grammatically CORRECT?",
-      "options": [
-        "She is the worsest player.",
-        "She is the worst player.",
-        "She is the most bad player."
-      ],
-      "correct": 1,
-      "hint": "El superlativo de «bad» es una forma irregular que hay que memorizar.",
-      "explanation": "La forma superlativa irregular de «bad» es «worst». «Worsest» no existe y «most bad» aplica erróneamente la regla de los polisílabos a un adjetivo irregular."
-    },
-    {
-      "type": "gap",
-      "text": "It is the ___ exam of the year.",
-      "options": [
-        "easiest",
-        "most easy",
-        "easier"
-      ],
-      "answer": "easiest",
-      "explanation": "«Easy» es bisílabo terminado en «-y»: su superlativo se forma con «-iest» («easiest»), no con «most easy». «Easier» es el comparativo."
-    },
-    {
-      "type": "match",
-      "prompt": "Empareja cada palabra con su traducción",
-      "pairs": [
+      "n": 4,
+      "title": "Than, the most/the least y adjetivos modernos",
+      "exercises": [
         {
-          "en": "than",
-          "es": "que (comparativo)"
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "than", "es": "que (comparativo)" },
+            { "en": "the most", "es": "el más" },
+            { "en": "modern", "es": "moderno" },
+            { "en": "old", "es": "viejo" },
+            { "en": "easy", "es": "fácil" }
+          ]
         },
         {
-          "en": "worse",
-          "es": "peor"
+          "type": "quiz",
+          "q": "This modern computer is ___ than the old model.",
+          "options": ["expensive", "more expensive", "expensiver"],
+          "correct": 1,
+          "hint": "«Expensive» es un adjetivo largo: no admite sufijos.",
+          "explanation": "«Expensive» es polisílabo y forma el comparativo anteponiendo «more». La forma base no expresa comparación y «expensiver» no existe: los adjetivos largos nunca se sufijan."
         },
         {
-          "en": "further",
-          "es": "más lejos"
+          "type": "gap",
+          "text": "It is the ___ exam of the year.",
+          "options": ["easiest", "most easy", "easier"],
+          "answer": "easiest",
+          "explanation": "«Easy» es bisílabo terminado en «-y»: su superlativo se forma con «-iest» («easiest»), no con «most easy». «Easier» es el comparativo."
         },
         {
-          "en": "quality",
-          "es": "calidad"
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "than", "es": "que (comparativo)" },
+            { "en": "the most", "es": "el más" },
+            { "en": "the least", "es": "el menos" },
+            { "en": "old", "es": "viejo" },
+            { "en": "easy", "es": "fácil" }
+          ]
         },
         {
-          "en": "price",
-          "es": "precio"
+          "type": "quiz",
+          "q": "Learning English is ___ than learning Chinese.",
+          "options": ["more easy", "easier", "easiest"],
+          "correct": 1,
+          "hint": "«Easy» es bisílabo pero termina en «-y».",
+          "explanation": "Los bisílabos en «-y» como «easy» se sufijan cambiando la «-y» por «-i»: «easier». «More easy» viola esa regla y «easiest» es superlativo, erróneo para un contraste binario."
+        },
+        {
+          "type": "gap",
+          "text": "This is ___ interesting book I've ever read.",
+          "options": ["the most", "more", "the least"],
+          "answer": "the most",
+          "explanation": "El superlativo de adjetivos largos se forma con «the most» + adjetivo inalterado."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja mezclando vocabulario de bloques anteriores",
+          "pairs": [
+            { "en": "than", "es": "que (comparativo)" },
+            { "en": "the most", "es": "el más" },
+            { "en": "the least", "es": "el menos" },
+            { "en": "modern", "es": "moderno" },
+            { "en": "worse", "es": "peor" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "This app is ___ than the old version; it has a modern design.",
+          "options": ["more modern", "modernest", "most modern"],
+          "correct": 0,
+          "hint": "«Modern» es un adjetivo largo (polisílabo).",
+          "explanation": "«Modern» es polisílabo: comparativo analítico «more modern». «Modernest» no existe y «most modern» sería la forma superlativa, no comparativa."
+        },
+        {
+          "type": "gap",
+          "text": "This design is ___ expensive option; it costs almost nothing.",
+          "options": ["the least", "the most", "less"],
+          "answer": "the least",
+          "explanation": "«The least» expresa el grado mínimo, opuesto a «the most»: aquí se busca la opción más barata."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este coche es más viejo que el mío",
+          "direction": "es-en",
+          "tiles": ["This", "car", "is", "older", "than", "mine", "more"],
+          "answer": "This car is older than mine",
+          "explanation": "El español antepone siempre «más»; el inglés modifica la terminación del adjetivo corto: «older than». No se usa «more» con adjetivos cortos."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Aprender inglés es más fácil que aprender chino",
+          "direction": "es-en",
+          "tiles": ["Learning", "English", "is", "easier", "than", "learning", "Chinese", "more"],
+          "answer": "Learning English is easier than learning Chinese",
+          "explanation": "«Easy» termina en «-y»: comparativo «easier» + «than». No se combina con «more» (nunca mezcles las dos reglas en una misma palabra)."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este diseño es el más moderno del mercado",
+          "direction": "es-en",
+          "tiles": ["This", "design", "is", "the", "most", "modern", "on", "the", "market", "more"],
+          "answer": "This design is the most modern on the market",
+          "explanation": "Superlativo de adjetivo largo: «the most» + adjetivo inalterado («modern»)."
+        },
+        {
+          "type": "speak",
+          "text": "My new phone is faster than the old one.",
+          "es": "Mi teléfono nuevo es más rápido que el viejo."
+        },
+        {
+          "type": "speak",
+          "text": "This model is more modern than mine.",
+          "es": "Este modelo es más moderno que el mío."
+        },
+        {
+          "type": "speak",
+          "text": "This is the least expensive option.",
+          "es": "Esta es la opción menos cara."
         }
       ]
     },
     {
-      "type": "wordbank",
-      "prompt": "El tiempo hoy es peor que ayer",
-      "direction": "es-en",
-      "tiles": [
-        "The",
-        "weather",
-        "today",
-        "is",
-        "worse",
-        "than",
-        "yesterday",
-        "badder"
-      ],
-      "answer": "The weather today is worse than yesterday",
-      "explanation": "Comparativo irregular de «bad»: «worse» + «than». «Badder» es agramatical porque los irregulares no admiten «-er»."
-    },
-    {
-      "type": "gap",
-      "text": "Maths is the most ___ subject for me.",
-      "options": [
-        "difficult",
-        "difficulter",
-        "difficultest"
-      ],
-      "answer": "difficult",
-      "explanation": "«Difficult» es un adjetivo largo: el superlativo se forma con «the most» + adjetivo inalterado. Nunca se sufijan los adjetivos polisilábicos."
-    },
-    {
-      "type": "speak",
-      "text": "This model is cheaper than that model.",
-      "es": "Este modelo es más barato que aquel modelo."
-    },
-    {
-      "type": "quiz",
-      "q": "Choose the correct comparative and superlative of \"far\":",
-      "options": [
-        "farer / the farest",
-        "further / the furthest",
-        "more far / the most far"
-      ],
-      "correct": 1,
-      "hint": "«Far» es el tercer adjetivo irregular absoluto del módulo.",
-      "explanation": "«Far» es irregular: comparativo «further» (o «farther») y superlativo «the furthest». Las otras opciones aplican reglas regulares a un adjetivo que no las sigue."
-    },
-    {
-      "type": "wordbank",
-      "prompt": "Aprender inglés es más fácil que aprender chino",
-      "direction": "es-en",
-      "tiles": [
-        "Learning",
-        "English",
-        "is",
-        "easier",
-        "than",
-        "learning",
-        "Chinese",
-        "more"
-      ],
-      "answer": "Learning English is easier than learning Chinese",
-      "explanation": "«Easy» termina en «-y»: comparativo «easier» + «than». No se combina con «more» (nunca mezcles las dos reglas en una misma palabra)."
-    },
-    {
-      "type": "gap",
-      "text": "This phone is ___ than that one.",
-      "options": [
-        "cheaper",
-        "more cheap",
-        "cheapest"
-      ],
-      "answer": "cheaper",
-      "explanation": "Adjetivo corto ⇒ comparativo en -er + than: «cheaper than». «More cheap» es agramatical y «cheapest» es el superlativo."
+      "n": 5,
+      "title": "Adjetivos largos y repaso final",
+      "exercises": [
+        {
+          "type": "match",
+          "prompt": "Empareja cada palabra con su traducción",
+          "pairs": [
+            { "en": "easy", "es": "fácil" },
+            { "en": "difficult", "es": "difícil" },
+            { "en": "modern", "es": "moderno" },
+            { "en": "useful", "es": "útil" },
+            { "en": "useless", "es": "inútil" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "This price is the ___ on the website.",
+          "options": ["best", "better", "most good"],
+          "correct": 0,
+          "hint": "«The» exige superlativo y «good» es irregular.",
+          "explanation": "El artículo «the» pide superlativo: «best» es la forma irregular de «good». «Better» es comparativo y requeriría «than»; «most good» no es válido porque «good» no sigue las reglas de los polisílabos."
+        },
+        {
+          "type": "gap",
+          "text": "This model is ___ than that model.",
+          "options": ["cheaper", "more cheap", "cheapest"],
+          "answer": "cheaper",
+          "explanation": "«Cheap» es monosílabo: exige la flexión sintética «-er» («cheaper»), no la analítica con «more». «Cheapest» es el superlativo."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja más palabras del bloque",
+          "pairs": [
+            { "en": "than", "es": "que (comparativo)" },
+            { "en": "worse", "es": "peor" },
+            { "en": "further", "es": "más lejos" },
+            { "en": "quality", "es": "calidad" },
+            { "en": "price", "es": "precio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Choose the correct comparative and superlative of \"far\":",
+          "options": ["farer / the farest", "further / the furthest", "more far / the most far"],
+          "correct": 1,
+          "hint": "«Far» es el tercer adjetivo irregular absoluto del módulo.",
+          "explanation": "«Far» es irregular: comparativo «further» (o «farther») y superlativo «the furthest». Las otras opciones aplican reglas regulares a un adjetivo que no las sigue."
+        },
+        {
+          "type": "gap",
+          "text": "Maths is the most ___ subject for me.",
+          "options": ["difficult", "difficulter", "difficultest"],
+          "answer": "difficult",
+          "explanation": "«Difficult» es un adjetivo largo: el superlativo se forma con «the most» + adjetivo inalterado. Nunca se sufijan los adjetivos polisilábicos."
+        },
+        {
+          "type": "match",
+          "prompt": "Empareja el vocabulario final del módulo",
+          "pairs": [
+            { "en": "difficult", "es": "difícil" },
+            { "en": "useful", "es": "útil" },
+            { "en": "useless", "es": "inútil" },
+            { "en": "quality", "es": "calidad" },
+            { "en": "price", "es": "precio" }
+          ]
+        },
+        {
+          "type": "quiz",
+          "q": "Which sentence is correct?",
+          "options": ["This tool is usefuler than that one.", "This tool is more useful that that one.", "This tool is more useful than that one."],
+          "correct": 2,
+          "hint": "«Useful» es polisílabo: no admite sufijos, y la conjunción comparativa es fija.",
+          "explanation": "«Useful» es un adjetivo largo: comparativo analítico «more useful» + «than». «Usefuler» no existe y «that» no es la conjunción comparativa correcta."
+        },
+        {
+          "type": "gap",
+          "text": "This old tool is completely ___ now; it doesn't work at all.",
+          "options": ["useless", "uselesser", "most useless"],
+          "answer": "useless",
+          "explanation": "«Useless» ya expresa el grado máximo de inutilidad en este contexto; no se compara ni se sufija un adjetivo largo."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es el mejor precio del mercado",
+          "direction": "es-en",
+          "tiles": ["It", "is", "the", "best", "price", "on", "the", "market", "better"],
+          "answer": "It is the best price on the market",
+          "explanation": "Superlativo irregular de «good»: «the best». El artículo «the» es obligatorio ante cualquier superlativo; omitirlo es un error grave en A2."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Es más difícil de lo que crees",
+          "direction": "es-en",
+          "tiles": ["It", "is", "more", "difficult", "than", "you", "think", "that"],
+          "answer": "It is more difficult than you think",
+          "explanation": "Estructura paralela: «más» = «more» y «que» = «than». Nunca se usa «that» como conjunción comparativa."
+        },
+        {
+          "type": "wordbank",
+          "prompt": "Este es el modelo más barato de la tienda",
+          "direction": "es-en",
+          "tiles": ["This", "is", "the", "cheapest", "model", "in", "the", "shop", "cheaper"],
+          "answer": "This is the cheapest model in the shop",
+          "explanation": "Superlativo de adjetivo corto: «the» + «cheapest». «Cheaper» es el comparativo y necesitaría un segundo término con «than»."
+        },
+        {
+          "type": "speak",
+          "text": "This model is cheaper than that model.",
+          "es": "Este modelo es más barato que aquel modelo."
+        },
+        {
+          "type": "speak",
+          "text": "The quality of this model is excellent.",
+          "es": "La calidad de este modelo es excelente."
+        },
+        {
+          "type": "speak",
+          "text": "This tool is more useful than that one.",
+          "es": "Esta herramienta es más útil que esa."
+        }
+      ]
     }
   ]
 }

@@ -12,22 +12,20 @@ manifiesto y clave de progreso):
 
 ## Estado del prototipo
 
-**Inglés A1** — **completo con el esquema de 5 subniveles**: 25 módulos × 75 ejercicios (1.875
-en total). **Inglés A2** — mods 1-15 ya en subniveles (1.125 ejercicios), mods 16-25 pendientes
-de convertir (siguen con el esquema plano de 30). B1-C2 visibles pero bloqueados.
+**Inglés A1 y A2 — completos con el esquema de 5 subniveles**: 50 módulos × 75 ejercicios
+(3.750 ejercicios en total). B1-C2 visibles pero bloqueados.
 **Latín** — A1 completo con el esquema plano (25 módulos × 30), A2-C2 visibles pero bloqueados
 (A2/B1/B2 ya tienen los libros fuente escritos; C1/C2 aún no están completos en origen).
 
 - ✅ Mapa del curso con nodos en serpentina y desbloqueo encadenado también ENTRE niveles y
-  ENTRE subniveles (p. ej. A2-mod01.1 exige completar el subnivel 25.5 de A1; el módulo plano
-  A2-mod16 exige completar el subnivel 15.5)
+  ENTRE subniveles (p. ej. A2-mod01.1 exige completar el subnivel 25.5 de A1)
 - ✅ 5 tipos de ejercicio: emparejar vocabulario, test de 3 opciones, rellenar huecos,
   traducción/construcción con banco de palabras y **lectura en voz alta** (Web Speech API,
   con botón de omitir)
 - ✅ **Módulos subdivididos en 5 subniveles** (banco de 15 ejercicios cada uno, 3 por tipo,
-  sesión de 10) — completo en **Inglés A1** y en **Inglés A2 mods 1-15**. El resto (A2 mods
-  16-25, Latín A1) sigue con el esquema plano de 30 ejercicios / sesión de 12. Ambos esquemas
-  conviven sin problema dentro del mismo nivel. Ver «Esquema de subniveles» más abajo.
+  sesión de 10) — esquema completo en **Inglés A1 y A2**. **Latín A1** sigue con el esquema
+  plano de 30 ejercicios / sesión de 12; ambos esquemas conviven sin problema dentro del mismo
+  curso. Ver «Esquema de subniveles» más abajo.
 - ✅ **Aprendizaje continuado (repaso espaciado):** ~3 de los 12 ejercicios de cada lección se inyectan
   de módulos ya completados, priorizando fallados > nunca vistos > más tiempo sin ver (Leitner-lite).
   Se marcan con la etiqueta «🔁 Repaso · Módulo N». El repaso nunca mete ejercicios de micrófono.
