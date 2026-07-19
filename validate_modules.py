@@ -14,6 +14,9 @@ sys.stdout.reconfigure(encoding="utf-8")
 EXPECTED = {"match": 4, "quiz": 7, "gap": 8, "wordbank": 7, "speak": 4}
 TOTAL = 30
 
+# Curso Biblia (biblia/json/...): sin ejercicios speak
+EXPECTED_BIBLIA = {"match": 4, "quiz": 9, "gap": 9, "wordbank": 8}
+
 # Módulos subdivididos en 5 subniveles (banco más pequeño por subnivel, sesión de 10 en vez de 12)
 EXPECTED_SUB = {"match": 3, "quiz": 3, "gap": 3, "wordbank": 3, "speak": 3}
 TOTAL_SUB = 15
@@ -118,7 +121,8 @@ def validate_file(path):
         if exs is None:
             errs.append("falta el campo «exercises» (o «sublevels»)")
         else:
-            errs.extend(validate_exercise_list(exs, EXPECTED, TOTAL))
+            expected = EXPECTED_BIBLIA if "biblia" in str(path).lower() else EXPECTED
+            errs.extend(validate_exercise_list(exs, expected, TOTAL))
     return errs
 
 

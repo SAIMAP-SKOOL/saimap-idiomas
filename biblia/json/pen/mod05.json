@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod05",
+  "module": 5,
+  "title": "Éxodo I — Moisés y las Plagas",
+  "subtitle": "Éxodo 1–11",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué ciudades de almacenamiento construyeron los israelitas para el faraón?",
+      "options": ["Pitón y Ramsés", "Menfis y Tebas", "Sucot y Etam"],
+      "correct": 0,
+      "hint": "Una de ellas lleva el nombre de un famoso faraón.",
+      "explanation": "Éx 1:11: los capataces egipcios obligaron a Israel a construir las ciudades de almacenamiento Pitón y Ramsés. Menfis y Tebas fueron capitales de Egipto, y Sucot y Etam serán etapas del camino de salida."
+    },
+    {
+      "type": "gap",
+      "text": "Las parteras Sifrá y Puá temían a ___ y no hicieron lo que les mandaba el rey de Egipto.",
+      "options": ["Dios", "la muerte", "los egipcios"],
+      "answer": "Dios",
+      "explanation": "Éx 1:17: el temor de Dios, y no el miedo al faraón, movió a las parteras a dejar con vida a los niños hebreos; por eso Dios las recompensó dándoles familia (Éx 1:20-21)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué orden dio finalmente el faraón a todo su pueblo?",
+      "options": ["Vender como esclavos a los niños hebreos", "Arrojar al Nilo a los niños hebreos que nacieran", "Expulsar de Egipto a las familias de los hebreos"],
+      "correct": 1,
+      "hint": "La orden explica dónde acabará el pequeño Moisés, aunque de un modo inesperado.",
+      "explanation": "Éx 1:22: al fracasar la orden dada a las parteras, el faraón mandó arrojar al Nilo a todo niño varón hebreo, dejando vivir a las niñas. No quería expulsarlos: los necesitaba como mano de obra esclava."
+    },
+    {
+      "type": "gap",
+      "text": "La madre de Moisés lo colocó en una cesta de ___ junto a la orilla del Nilo.",
+      "options": ["mimbre", "juncos", "madera"],
+      "answer": "mimbre",
+      "explanation": "Éx 2:3: una cesta de mimbre embadurnada de barro y pez para hacerla impermeable. «Juncos» es la palabra de otras traducciones; la CEE dice «mimbre»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién encontró la cesta con el niño Moisés junto al Nilo?",
+      "options": ["La hermana del niño, que vigilaba de lejos", "Una lavandera egipcia al servicio del palacio", "La hija del faraón, que bajó a bañarse al río"],
+      "correct": 2,
+      "hint": "Alguien de la casa de quien había dado, precisamente, la orden mortal.",
+      "explanation": "Éx 2:5-6: la hija del faraón bajó a bañarse al Nilo, vio la cesta y se compadeció del niño. La hermana vigilaba de lejos, pero su papel fue ofrecer como nodriza a la propia madre del niño (Éx 2:7-9)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 2:10 · La hija del faraón explica el nombre de Moisés",
+      "direction": "es-es",
+      "tiles": ["Lo", "he", "sacado", "del", "agua", "río", "salvado", "Nilo"],
+      "answer": "Lo he sacado del agua",
+      "explanation": "Éx 2:10: la hija del faraón lo llama Moisés «porque lo he sacado del agua». El nombre del futuro libertador queda ligado para siempre a su rescate del Nilo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué tuvo que huir Moisés a la tierra de Madián?",
+      "options": ["Había matado a un egipcio y el faraón buscaba ejecutarlo", "Se negó a seguir dirigiendo las obras de los almacenes", "Fue acusado falsamente de robar en el palacio real"],
+      "correct": 0,
+      "hint": "Todo empezó al ver cómo golpeaban a un hebreo.",
+      "explanation": "Éx 2:11-15: Moisés mató a un egipcio que golpeaba a un hebreo; cuando el faraón lo supo, quiso matarlo, y Moisés huyó a Madián. Allí defendió a las hijas del sacerdote y se casó con Séfora (Éx 2:21)."
+    },
+    {
+      "type": "gap",
+      "text": "En Madián, Séfora dio a Moisés un hijo al que llamó ___.",
+      "options": ["Guersón", "Eliezer", "Nadab"],
+      "answer": "Guersón",
+      "explanation": "Éx 2:22: Moisés llamó Guersón a su primogénito aludiendo a su condición de emigrante en tierra extranjera. Eliezer será su segundo hijo (Éx 18:4) y Nadab es hijo de Aarón."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su identificación",
+      "pairs": [
+        { "en": "Sifrá y Puá", "es": "Las parteras que temieron a Dios" },
+        { "en": "La hija del faraón", "es": "Rescató al niño de la cesta" },
+        { "en": "Séfora", "es": "Esposa madianita de Moisés" },
+        { "en": "Jetró", "es": "Sacerdote de Madián, suegro de Moisés" },
+        { "en": "Guersón", "es": "Primer hijo de Moisés" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué monte se apareció el Señor a Moisés en la zarza ardiente?",
+      "options": ["En el monte Nebo, frente a Jericó", "En el monte Carmelo, junto al mar", "En el Horeb, la montaña de Dios"],
+      "correct": 2,
+      "hint": "Al mismo monte volverá Israel para recibir la Ley.",
+      "explanation": "Éx 3:1: Moisés llegó pastoreando el rebaño de Jetró hasta el Horeb, la montaña de Dios. El Nebo es el monte desde el que Moisés contemplará la tierra prometida, y el Carmelo se asocia al profeta Elías."
+    },
+    {
+      "type": "gap",
+      "text": "Moisés vio que la zarza ardía sin ___.",
+      "options": ["consumirse", "apagarse", "dar humo"],
+      "answer": "consumirse",
+      "explanation": "Éx 3:2-3: la llama ardía en la zarza pero esta no se consumía; el prodigio hace que Moisés se acerque, y desde la zarza Dios lo llama por su nombre (Éx 3:4)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 3:5 · La orden de Dios a Moisés ante la zarza",
+      "direction": "es-es",
+      "tiles": ["Quítate", "las", "sandalias", "de", "los", "pies", "manos", "ponte", "cabeza"],
+      "answer": "Quítate las sandalias de los pies",
+      "explanation": "Éx 3:5: el sitio que Moisés pisa es terreno sagrado por la presencia de Dios; descalzarse es gesto de reverencia ante lo santo."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy el Dios de tu padre, el Dios de ___, el Dios de Isaac y el Dios de Jacob.",
+      "options": ["Abrahán", "Noé", "Adán"],
+      "answer": "Abrahán",
+      "explanation": "Éx 3:6: Dios se presenta como el Dios de los patriarcas — Abrahán, Isaac y Jacob —, el mismo que hizo las promesas del Génesis y que ahora viene a cumplirlas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 3:8 · Cómo describe Dios la tierra prometida",
+      "direction": "es-es",
+      "tiles": ["Una", "tierra", "que", "mana", "leche", "y", "miel", "vino", "trigo", "agua"],
+      "answer": "Una tierra que mana leche y miel",
+      "explanation": "Éx 3:8: Dios baja a librar a su pueblo de Egipto para llevarlo a una tierra fértil y espaciosa; la expresión «que mana leche y miel» se repetirá en toda la Biblia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la vocación de Moisés con lo que ocurre o significa",
+      "pairs": [
+        { "en": "La zarza", "es": "Arde sin consumirse" },
+        { "en": "Las sandalias", "es": "Se quitan por ser terreno sagrado" },
+        { "en": "La vara", "es": "Se convierte en serpiente" },
+        { "en": "La mano de Moisés", "es": "Se cubre de lepra y luego sana" },
+        { "en": "Aarón", "es": "Hablará al pueblo en lugar de Moisés" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 3:14 · El nombre divino revelado a Moisés",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "soy", "el", "que", "seré", "Señor", "era"],
+      "answer": "Yo soy el que soy",
+      "explanation": "Éx 3:14: la respuesta de Dios cuando Moisés pregunta por su nombre. De esta fórmula procede el nombre sagrado del Señor (YHWH) que Israel venera."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién dio Dios a Moisés como portavoz ante el pueblo?",
+      "options": ["A Aarón, su hermano", "A Jetró, su suegro", "A Guersón, su hijo"],
+      "correct": 0,
+      "hint": "Es un levita que habla bien y ya viene a su encuentro.",
+      "explanation": "Éx 4:14-16: ante las resistencias de Moisés, Dios le da a su hermano Aarón, que sabe hablar y «hablará por ti al pueblo». Jetró permanece en Madián y Guersón es todavía un niño."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 4:10 · La objeción de Moisés a su misión",
+      "direction": "es-es",
+      "tiles": ["Soy", "torpe", "de", "de", "boca", "y", "lengua", "manos", "lento", "palabra"],
+      "answer": "Soy torpe de boca y de lengua",
+      "explanation": "Éx 4:10: Moisés alega que no tiene facilidad de palabra para excusarse de la misión. Dios responde dándole a Aarón como portavoz (Éx 4:14-16)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionó el faraón la primera vez que Moisés y Aarón le pidieron dejar salir al pueblo?",
+      "options": ["Pidió un prodigio antes de dar una respuesta", "Dijo que no conocía al Señor y se negó", "Lo consultó con sus magos y sus ministros"],
+      "correct": 1,
+      "hint": "Su respuesta es casi un desafío: ¿quién es ese Dios?",
+      "explanation": "Éx 5:2: el faraón replicó que no conocía al Señor y que no dejaría salir a Israel; además endureció el trabajo del pueblo. El prodigio de la vara lo exigirá más adelante (Éx 7:9)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 5:1 · El mensaje de Dios al faraón por medio de Moisés y Aarón",
+      "direction": "es-es",
+      "tiles": ["Deja", "salir", "a", "mi", "pueblo", "marchar", "Israel", "esclavos"],
+      "answer": "Deja salir a mi pueblo",
+      "explanation": "Éx 5:1: la petición era celebrar una fiesta al Señor en el desierto. La frase se repetirá como estribillo a lo largo de todas las plagas."
+    },
+    {
+      "type": "gap",
+      "text": "El faraón ordenó no dar más ___ a los israelitas, sin rebajarles la cuota de ladrillos.",
+      "options": ["paja", "barro", "agua"],
+      "answer": "paja",
+      "explanation": "Éx 5:7-8: como represalia por la petición de Moisés, los israelitas debían buscar la paja por su cuenta y entregar los mismos ladrillos que antes; la opresión se hizo aún más dura."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió cuando los magos de Egipto imitaron el prodigio de la vara vuelta serpiente?",
+      "options": ["Los magos huyeron aterrados del palacio", "El bastón de Aarón se tragó los de los magos", "El faraón mandó castigar a sus propios magos"],
+      "correct": 1,
+      "hint": "El prodigio egipcio queda literalmente engullido.",
+      "explanation": "Éx 7:10-12: los magos hicieron lo mismo con sus encantamientos, pero el bastón de Aarón se tragó los suyos. Aun así, el corazón del faraón se endureció y no los escuchó."
+    },
+    {
+      "type": "gap",
+      "text": "En la primera plaga, toda el agua del Nilo se convirtió en ___.",
+      "options": ["sangre", "lodo", "veneno"],
+      "answer": "sangre",
+      "explanation": "Éx 7:20-21: el agua del río se convirtió en sangre, murieron los peces y el Nilo quedó apestoso, de modo que los egipcios no podían beber de él."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 8:15 · Los magos de Egipto reconocen su derrota ante la plaga de los mosquitos",
+      "direction": "es-es",
+      "tiles": ["Es", "el", "dedo", "de", "Dios", "mano", "brazo", "castigo"],
+      "answer": "Es el dedo de Dios",
+      "explanation": "Éx 8:15: los magos, incapaces de imitar la tercera plaga, reconocen que actúa un poder divino. El faraón, sin embargo, siguió sin hacer caso."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada plaga con su lugar en la serie",
+      "pairs": [
+        { "en": "Agua convertida en sangre", "es": "Primera plaga" },
+        { "en": "Ranas", "es": "Segunda plaga" },
+        { "en": "Mosquitos", "es": "Tercera plaga" },
+        { "en": "Tábanos", "es": "Cuarta plaga" },
+        { "en": "Peste del ganado", "es": "Quinta plaga" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "La región de ___, donde vivían los israelitas, quedó a salvo del granizo.",
+      "options": ["Gosén", "Madián", "Canaán"],
+      "answer": "Gosén",
+      "explanation": "Éx 9:26: solo en la región de Gosén no cayó granizo — las plagas distinguen entre Egipto e Israel. Madián fue la tierra del destierro de Moisés y Canaán es la tierra prometida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuánto tiempo duraron las tinieblas sobre Egipto en la novena plaga?",
+      "options": ["Un día y una noche", "Siete días completos", "Tres días enteros"],
+      "correct": 2,
+      "hint": "Los mismos días de camino que Israel pedía para su fiesta en el desierto.",
+      "explanation": "Éx 10:22-23: una densa oscuridad cubrió Egipto durante tres días, mientras todos los israelitas tenían luz en sus casas — nueva distinción entre Egipto e Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada plaga con su lugar en la serie",
+      "pairs": [
+        { "en": "Úlceras y llagas", "es": "Sexta plaga" },
+        { "en": "Granizo", "es": "Séptima plaga" },
+        { "en": "Langostas", "es": "Octava plaga" },
+        { "en": "Tinieblas", "es": "Novena plaga" },
+        { "en": "Muerte de los primogénitos", "es": "Décima plaga, solo anunciada" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 11:4 · El anuncio de la última plaga",
+      "direction": "es-es",
+      "tiles": ["A", "medianoche", "yo", "pasaré", "por", "medio", "de", "Egipto", "noche", "cruzaré", "Israel"],
+      "answer": "A medianoche yo pasaré por medio de Egipto",
+      "explanation": "Éx 11:4-5: el anuncio de la décima plaga — morirán todos los primogénitos de Egipto, desde el del faraón hasta los del ganado, mientras Israel quedará indemne."
+    },
+    {
+      "type": "gap",
+      "text": "El faraón no dejó salir a los israelitas porque su corazón se ___.",
+      "options": ["endureció", "enfrió", "quebró"],
+      "answer": "endureció",
+      "explanation": "Éx 11:10: el endurecimiento del corazón del faraón es el estribillo de todo el ciclo de las plagas — unas veces se endurece él mismo y otras se dice que el Señor lo endurece, preparando la manifestación final de su poder."
+    }
+  ]
+}

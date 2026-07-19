@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod03",
+  "module": 3,
+  "title": "Génesis III — Abraham, la Promesa",
+  "subtitle": "Génesis 12–25",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué le mandó el Señor a Abrán en Jarán?",
+      "options": ["Salir de su tierra hacia la tierra que le mostraría", "Subir a Egipto para escapar del hambre", "Construir un arca porque llegaba el diluvio"],
+      "correct": 0,
+      "hint": "Es el comienzo de toda la historia de la promesa.",
+      "explanation": "Gén 12:1: «Sal de tu tierra... hacia la tierra que te mostraré». La bajada a Egipto por el hambre vino después (Gén 12:10), y el arca pertenece a la historia de Noé."
+    },
+    {
+      "type": "gap",
+      "text": "Haré de ti una gran ___.",
+      "options": ["nación", "familia", "ciudad"],
+      "answer": "nación",
+      "explanation": "Gén 12:2: la promesa a Abrán tiene tres elementos — una gran nación, la bendición y un nombre grande. En él serán benditas todas las familias de la tierra (Gén 12:3)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 12:1 · La llamada de Abrán",
+      "direction": "es-es",
+      "tiles": ["Sal", "de", "de", "tu", "tu", "tierra", "y", "patria", "casa", "padre"],
+      "answer": "Sal de tu tierra y de tu patria",
+      "explanation": "Gén 12:1: la vocación de Abrán exige dejarlo todo — tierra, patria y casa paterna — fiándose solo de la palabra de Dios. Por eso es llamado padre de los creyentes."
+    },
+    {
+      "type": "gap",
+      "text": "Abrán tenía ___ años cuando salió de Jarán.",
+      "options": ["setenta y cinco", "cuarenta", "cien"],
+      "answer": "setenta y cinco",
+      "explanation": "Gén 12:4: Abrán partió a los setenta y cinco años. Los cien años son los que tenía al nacer Isaac (Gén 21:5)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su descripción",
+      "pairs": [
+        { "en": "Lot", "es": "Sobrino de Abrán, eligió la vega del Jordán" },
+        { "en": "Sara", "es": "Esposa de Abrahán y madre de Isaac" },
+        { "en": "Agar", "es": "Esclava egipcia, madre de Ismael" },
+        { "en": "Melquisedec", "es": "Rey de Salén, ofreció pan y vino" },
+        { "en": "Ismael", "es": "Primer hijo de Abrahán" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué se separaron Abrán y Lot?",
+      "options": ["Discutieron por la herencia de Téraj", "La tierra no bastaba para los rebaños de ambos", "Lot quería regresar a la ciudad de Jarán"],
+      "correct": 1,
+      "hint": "El problema era de abundancia, no de enemistad.",
+      "explanation": "Gén 13:6-9: sus posesiones eran tantas que no podían vivir juntos, y sus pastores reñían. Abrán, con generosidad, dejó elegir primero a Lot, que se quedó con la vega del Jordán."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién era Melquisedec?",
+      "options": ["Rey de Sodoma que salió al encuentro de Abrán", "Sacerdote egipcio amigo del faraón", "Rey de Salén y sacerdote del Dios altísimo"],
+      "correct": 2,
+      "hint": "Une en su persona dos títulos que normalmente van separados.",
+      "explanation": "Gén 14:18: Melquisedec, rey de Salén y sacerdote del Dios altísimo, bendijo a Abrán. La tradición cristiana ve en su ofrenda de pan y vino una prefiguración de la Eucaristía (cf. Sal 110,4; Heb 7)."
+    },
+    {
+      "type": "gap",
+      "text": "Melquisedec, rey de Salén, ofreció pan y ___.",
+      "options": ["vino", "aceite", "miel"],
+      "answer": "vino",
+      "explanation": "Gén 14:18: sacó pan y vino y bendijo a Abrán. Abrán le entregó el diezmo de todo."
+    },
+    {
+      "type": "gap",
+      "text": "No temas, Abrán: yo soy tu ___.",
+      "options": ["escudo", "roca", "pastor"],
+      "answer": "escudo",
+      "explanation": "Gén 15:1: «yo soy tu escudo, tu paga será muy grande». «Roca» y «pastor» son imágenes de Dios propias de los Salmos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 15:5 · La promesa de descendencia",
+      "direction": "es-es",
+      "tiles": ["Mira", "al", "cielo", "y", "cuenta", "las", "estrellas", "arena", "mar"],
+      "answer": "Mira al cielo y cuenta las estrellas",
+      "explanation": "Gén 15:5: «así será tu descendencia». La arena de la orilla del mar es la otra imagen de la promesa, repetida tras la prueba del monte Moria (Gén 22:17)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 15:6 · La fe de Abrán",
+      "direction": "es-es",
+      "tiles": ["Creyó", "al", "Señor", "y", "se", "le", "contó", "como", "justicia", "obras", "dudó"],
+      "answer": "Creyó al Señor y se le contó como justicia",
+      "explanation": "Gén 15:6: el versículo clave sobre la fe de Abrán, que san Pablo citará para enseñar que la justificación viene por la fe (Rom 4:3)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significa el nuevo nombre de Abrahán?",
+      "options": ["Padre de una muchedumbre de pueblos", "Amigo fiel del Dios altísimo", "Príncipe poderoso entre las naciones"],
+      "correct": 0,
+      "hint": "El nombre resume la promesa que lo acompaña.",
+      "explanation": "Gén 17:5: Dios cambia el nombre de Abrán por Abrahán «porque te hago padre de muchedumbre de pueblos». También Saray pasa a llamarse Sara (Gén 17:15)."
+    },
+    {
+      "type": "gap",
+      "text": "Todo varón entre vosotros será circuncidado a los ___ días de nacer.",
+      "options": ["ocho", "siete", "cuarenta"],
+      "answer": "ocho",
+      "explanation": "Gén 17:12: la circuncisión al octavo día es la señal de la alianza en la carne. Por eso Jesús fue circuncidado al octavo día (Lc 2:21)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 17:5 · El nuevo nombre",
+      "direction": "es-es",
+      "tiles": ["Te", "llamarás", "Abrahán", "padre", "de", "de", "muchedumbre", "pueblos", "naciones", "Israel"],
+      "answer": "Te llamarás Abrahán padre de muchedumbre de pueblos",
+      "explanation": "Gén 17:5: el cambio de nombre sella la alianza. En la Biblia, recibir de Dios un nombre nuevo marca una misión nueva — como pasará con Jacob-Israel (Gén 32:29)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su acontecimiento",
+      "pairs": [
+        { "en": "Jarán", "es": "De allí partió Abrán a los 75 años" },
+        { "en": "Mambré", "es": "La encina de los tres visitantes" },
+        { "en": "Moria", "es": "El monte de la prueba de Abrahán" },
+        { "en": "Sodoma", "es": "Ciudad destruida por su pecado" },
+        { "en": "Macpela", "es": "La cueva sepulcral comprada por Abrahán" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anunciaron los tres visitantes en Mambré?",
+      "options": ["La destrucción inminente de Sodoma", "Que Sara tendría un hijo al año siguiente", "Que Ismael heredaría la promesa"],
+      "correct": 1,
+      "hint": "El anuncio hizo reír a alguien detrás de la tienda.",
+      "explanation": "Gén 18:10: «volveré el año que viene y Sara habrá tenido un hijo». Sara rio para sus adentros por su vejez. La suerte de Sodoma se revela después, camino de la ciudad (Gén 18:20-21)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 18:14 · La respuesta a la risa de Sara",
+      "direction": "es-es",
+      "tiles": ["Hay", "algo", "difícil", "para", "el", "Señor", "imposible", "hombre"],
+      "answer": "Hay algo difícil para el Señor",
+      "explanation": "Gén 18:14: la pregunta retórica del visitante ante la risa de Sara. Nada es imposible para Dios — el eco de esta frase llega hasta la Anunciación (Lc 1:37)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Hasta qué número de justos llegó a rebajar Abrahán su intercesión por Sodoma?",
+      "options": ["Veinte", "Treinta", "Diez"],
+      "correct": 2,
+      "hint": "Bajó de cincuenta en cincuenta... y luego de poco en poco.",
+      "explanation": "Gén 18:32: Abrahán regateó con Dios desde cincuenta justos hasta diez, y el Señor aceptó cada rebaja. Ni siquiera diez justos se hallaron en la ciudad."
+    },
+    {
+      "type": "gap",
+      "text": "La mujer de Lot miró atrás y se convirtió en columna de ___.",
+      "options": ["sal", "piedra", "humo"],
+      "answer": "sal",
+      "explanation": "Gén 19:26: desobedeció la orden de no mirar atrás durante la huida de Sodoma. Jesús la recordará como advertencia: «acordaos de la mujer de Lot» (Lc 17:32)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué se relaciona el nombre de Isaac?",
+      "options": ["Con la risa", "Con la promesa", "Con el pozo"],
+      "correct": 0,
+      "hint": "Piensa en la reacción de sus padres al oír el anuncio.",
+      "explanation": "El nombre de Isaac se relaciona en hebreo con el verbo reír: Abrahán rio (Gén 17:17), Sara rio (Gén 18:12) y al nacer el niño dijo: «Dios me ha dado de qué reír» (Gén 21:6)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 21:6 · Sara celebra el nacimiento de Isaac",
+      "direction": "es-es",
+      "tiles": ["Dios", "me", "ha", "dado", "de", "qué", "reír", "llorar", "cantar"],
+      "answer": "Dios me ha dado de qué reír",
+      "explanation": "Gén 21:6: la risa incrédula de la promesa (Gén 18:12) se convierte en risa de gozo cumplida. De ahí el nombre de Isaac."
+    },
+    {
+      "type": "gap",
+      "text": "Agar anduvo perdida con su hijo por el desierto de ___.",
+      "options": ["Berseba", "Farán", "Sin"],
+      "answer": "Berseba",
+      "explanation": "Gén 21:14: despedida con pan y un odre de agua, Agar vagó por el desierto de Berseba, donde el ángel le mostró un pozo. Ismael se estableció después en el desierto de Farán (Gén 21:21)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del sacrificio de Isaac con su papel",
+      "pairs": [
+        { "en": "Isaac", "es": "Cargó con la leña del holocausto" },
+        { "en": "El ángel del Señor", "es": "Detuvo la mano de Abrahán" },
+        { "en": "El carnero", "es": "Ofrecido en lugar del muchacho" },
+        { "en": "El cuchillo", "es": "Lo tomó Abrahán en su mano" },
+        { "en": "El altar", "es": "Sobre él fue atado el hijo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué preguntó Isaac subiendo al monte Moria?",
+      "options": ["¿Dónde está el altar para el sacrificio?", "¿Dónde está el cordero para el holocausto?", "¿Dónde está el agua para el camino?"],
+      "correct": 1,
+      "hint": "Llevaban fuego y leña, pero faltaba algo.",
+      "explanation": "Gén 22:7: «tenemos fuego y leña, pero ¿dónde está el cordero?». Abrahán responde: «Dios proveerá el cordero, hijo mío» (Gén 22:8) — palabras que la tradición cristiana lee como profecía."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 22:12 · El ángel detiene a Abrahán",
+      "direction": "es-es",
+      "tiles": ["No", "alargues", "la", "mano", "contra", "el", "muchacho", "cuchillo", "padre"],
+      "answer": "No alargues la mano contra el muchacho",
+      "explanation": "Gén 22:12: «ahora sé que temes a Dios, porque no me has negado a tu hijo único». La prueba culmina con la renovación solemne de la promesa (Gén 22:16-18)."
+    },
+    {
+      "type": "gap",
+      "text": "Abrahán llamó a aquel lugar «El Señor ___».",
+      "options": ["provee", "salva", "bendice"],
+      "answer": "provee",
+      "explanation": "Gén 22:14: en memoria del carnero ofrecido en lugar de Isaac. De ahí el dicho: «en el monte del Señor se provee»."
+    },
+    {
+      "type": "gap",
+      "text": "Sara fue sepultada en la cueva de ___.",
+      "options": ["Macpela", "Mambré", "Betel"],
+      "answer": "Macpela",
+      "explanation": "Gén 23:19: Abrahán compró a Efrón el hitita la cueva de Macpela, frente a Mambré — su única propiedad en la tierra prometida. Allí serán sepultados también Abrahán, Isaac y Jacob."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde encontró el criado de Abrahán a Rebeca?",
+      "options": ["En la encina de Mambré", "En el mercado de Damasco", "Junto al pozo, en la ciudad de Najor"],
+      "correct": 2,
+      "hint": "El criado había pedido a Dios una señal ligada al agua.",
+      "explanation": "Gén 24:11-15: el criado esperó junto al pozo a la hora en que las muchachas salen a sacar agua, y Rebeca cumplió exactamente la señal pedida en su oración."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 24:19 · La señal de Rebeca junto al pozo",
+      "direction": "es-es",
+      "tiles": ["También", "sacaré", "agua", "para", "tus", "camellos", "ovejas", "beberé"],
+      "answer": "También sacaré agua para tus camellos",
+      "explanation": "Gén 24:19: era la señal exacta que el criado había pedido al Señor para reconocer a la esposa destinada a Isaac. Rebeca la cumplió sin saberlo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada mujer del relato con su historia",
+      "pairs": [
+        { "en": "Sara", "es": "Rio al oír la promesa del hijo" },
+        { "en": "Agar", "es": "Un ángel la socorrió en el desierto" },
+        { "en": "Rebeca", "es": "Dio de beber a los camellos del criado" },
+        { "en": "La mujer de Lot", "es": "Miró atrás durante la huida" },
+        { "en": "Cetura", "es": "Esposa de Abrahán en su vejez" }
+      ]
+    }
+  ]
+}

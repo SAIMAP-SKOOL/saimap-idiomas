@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod01",
+  "module": 1,
+  "title": "Génesis I — La Creación y la Caída",
+  "subtitle": "Génesis 1–4",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada día de la creación con su obra",
+      "pairs": [
+        { "en": "Día primero", "es": "La luz" },
+        { "en": "Día tercero", "es": "Tierra seca y vegetación" },
+        { "en": "Día cuarto", "es": "Sol, luna y estrellas" },
+        { "en": "Día quinto", "es": "Peces y aves" },
+        { "en": "Día sexto", "es": "Animales terrestres y el ser humano" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué creó Dios el primer día?",
+      "options": ["La luz", "El firmamento", "Las lumbreras del cielo"],
+      "correct": 0,
+      "hint": "Es lo primero que Dios llama a la existencia con su palabra.",
+      "explanation": "Gén 1:3: lo primero que Dios crea con su palabra es la luz, separándola de las tinieblas. El firmamento es del segundo día y las lumbreras (sol, luna y estrellas) del cuarto."
+    },
+    {
+      "type": "gap",
+      "text": "Al principio creó Dios el cielo y la ___.",
+      "options": ["tierra", "luz", "vida"],
+      "answer": "tierra",
+      "explanation": "Gén 1:1, el primer versículo de la Biblia: «el cielo y la tierra» designa la totalidad de lo creado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 1:1 · Las primeras palabras de la Biblia",
+      "direction": "es-es",
+      "tiles": ["Al", "principio", "creó", "Dios", "el", "cielo", "y", "la", "tierra", "hizo", "luz"],
+      "answer": "Al principio creó Dios el cielo y la tierra",
+      "explanation": "Así abre el Génesis: Dios como creador absoluto de todo cuanto existe, sin materia previa ni rivales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Dios el séptimo día?",
+      "options": ["Creó al ser humano", "Descansó y bendijo ese día", "Separó las aguas de las aguas"],
+      "correct": 1,
+      "hint": "De ahí nace el sentido del sábado.",
+      "explanation": "Gén 2:2-3: el séptimo día Dios descansó de toda su obra, lo bendijo y lo consagró — fundamento del descanso sabático. El ser humano es del sexto día y la separación de las aguas del segundo."
+    },
+    {
+      "type": "gap",
+      "text": "Y vio Dios que era ___.",
+      "options": ["bueno", "grande", "perfecto"],
+      "answer": "bueno",
+      "explanation": "Es el estribillo que puntúa el relato de la creación (Gén 1): toda la obra de Dios es buena; al final del sexto día, «muy bueno»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 1:3 · La primera palabra creadora de Dios",
+      "direction": "es-es",
+      "tiles": ["Que", "exista", "la", "la", "luz", "luz", "y", "existió", "hágase", "brille"],
+      "answer": "Que exista la luz y la luz existió",
+      "explanation": "Gén 1:3: Dios crea solo con su palabra — dice y las cosas existen. Otras traducciones clásicas dicen «hágase la luz»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su descripción",
+      "pairs": [
+        { "en": "Adán", "es": "Modelado del polvo del suelo" },
+        { "en": "Eva", "es": "Madre de todos los vivientes" },
+        { "en": "Abel", "es": "Pastor de ovejas" },
+        { "en": "Caín", "es": "Cultivaba el suelo" },
+        { "en": "Set", "es": "Hijo nacido en lugar de Abel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿De qué modeló el Señor Dios al hombre?",
+      "options": ["Del polvo del suelo", "Del agua del río del Edén", "De la costilla de un animal"],
+      "correct": 0,
+      "hint": "Por eso se le dirá después: «eres polvo…».",
+      "explanation": "Gén 2:7: el Señor Dios modeló al hombre del polvo del suelo y sopló en su nariz aliento de vida. De una costilla — pero del propio hombre — formará después a la mujer (Gén 2:22)."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor Dios modeló al hombre del ___ del suelo.",
+      "options": ["polvo", "barro", "limo"],
+      "answer": "polvo",
+      "explanation": "Gén 2:7. La edición de la CEE dice «polvo del suelo»; «limo» es la palabra de traducciones antiguas basadas en la Vulgata."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 1:27 · La creación del ser humano",
+      "direction": "es-es",
+      "tiles": ["Dios", "creó", "al", "hombre", "a", "su", "imagen", "semejanza", "mundo"],
+      "answer": "Dios creó al hombre a su imagen",
+      "explanation": "Gén 1:27: el ser humano — varón y mujer — es la única criatura hecha a imagen de Dios; en eso se funda su dignidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de estos NO es uno de los cuatro ríos del Edén?",
+      "options": ["Guijón", "Jordán", "Pisón"],
+      "correct": 1,
+      "hint": "Dos de ellos son ríos reales de Mesopotamia; el intruso corre por Tierra Santa.",
+      "explanation": "Gén 2:10-14 nombra los ríos Pisón, Guijón, Tigris y Éufrates. El Jordán, aunque central en la Biblia, no es uno de los ríos del Edén."
+    },
+    {
+      "type": "gap",
+      "text": "Hagamos al hombre a nuestra imagen y ___.",
+      "options": ["semejanza", "gloria", "medida"],
+      "answer": "semejanza",
+      "explanation": "Gén 1:26. El plural «hagamos» es deliberativo; la tradición cristiana ha leído aquí también un anuncio velado de la Trinidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 1:28 · La bendición de Dios al ser humano",
+      "direction": "es-es",
+      "tiles": ["Creced", "multiplicaos", "llenad", "la", "tierra", "y", "sometedla", "dominad", "mar"],
+      "answer": "Creced multiplicaos llenad la tierra y sometedla",
+      "explanation": "Gén 1:28: la primera bendición y el primer mandato al ser humano — fecundidad y señorío responsable sobre la creación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del relato con lo que es",
+      "pairs": [
+        { "en": "Árbol de la vida", "es": "Su fruto da la inmortalidad" },
+        { "en": "Árbol del conocimiento", "es": "El único árbol prohibido" },
+        { "en": "La serpiente", "es": "El más astuto de los animales" },
+        { "en": "Los querubines", "es": "Custodian el camino del Edén" },
+        { "en": "El Éufrates", "es": "Uno de los cuatro ríos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿De qué árbol prohibió el Señor Dios comer al hombre?",
+      "options": ["Del árbol de la vida", "De la higuera del jardín", "Del árbol del conocimiento del bien y del mal"],
+      "correct": 2,
+      "hint": "El nombre del árbol describe lo que la serpiente promete conseguir.",
+      "explanation": "Gén 2:17: solo estaba prohibido el árbol del conocimiento del bien y del mal. Del árbol de la vida no se les prohibió comer hasta después de la caída (Gén 3:22)."
+    },
+    {
+      "type": "gap",
+      "text": "No es bueno que el hombre esté ___.",
+      "options": ["solo", "triste", "ocioso"],
+      "answer": "solo",
+      "explanation": "Gén 2:18: es lo único que Dios declara «no bueno» en la creación, y motiva la creación de la mujer como «ayuda adecuada»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 2:23 · Exclamación de Adán al ver a la mujer",
+      "direction": "es-es",
+      "tiles": ["Hueso", "de", "de", "mis", "huesos", "y", "carne", "carne", "mi", "sangre", "cuerpo"],
+      "answer": "Hueso de mis huesos y carne de mi carne",
+      "explanation": "Gén 2:23: Adán reconoce en la mujer a alguien de su misma naturaleza y dignidad — fundamento bíblico de la unión matrimonial (Gén 2:24)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hicieron Adán y Eva al descubrir que estaban desnudos?",
+      "options": ["Se cubrieron con túnicas de piel", "Se lavaron en el río del jardín", "Entretejieron hojas de higuera"],
+      "correct": 2,
+      "hint": "Las túnicas de piel llegan después, y no las hacen ellos.",
+      "explanation": "Gén 3:7: cosieron hojas de higuera para cubrirse. Las túnicas de piel se las hizo el Señor Dios más tarde, antes de expulsarlos (Gén 3:21)."
+    },
+    {
+      "type": "gap",
+      "text": "La serpiente era el más ___ de los animales del campo.",
+      "options": ["astuto", "fuerte", "bello"],
+      "answer": "astuto",
+      "explanation": "Gén 3:1: la astucia de la serpiente abre el relato de la tentación; no se la describe como fuerte ni hermosa, sino como engañosa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 3:5 · La promesa engañosa de la serpiente",
+      "direction": "es-es",
+      "tiles": ["Se", "os", "abrirán", "los", "ojos", "y", "seréis", "como", "Dios", "ángeles", "cerrarán"],
+      "answer": "Se os abrirán los ojos y seréis como Dios",
+      "explanation": "Gén 3:5: el núcleo de la tentación — querer ser como Dios decidiendo por cuenta propia el bien y el mal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál fue el castigo de la serpiente?",
+      "options": ["Arrastrarse sobre el vientre y comer polvo", "Ser expulsada del jardín del Edén", "Perder el don de la palabra"],
+      "correct": 0,
+      "hint": "El castigo va unido a una enemistad que durará generaciones.",
+      "explanation": "Gén 3:14: maldita entre los animales, caminará sobre el vientre y comerá polvo. El versículo siguiente (Gén 3:15) anuncia la enemistad entre su descendencia y la de la mujer."
+    },
+    {
+      "type": "gap",
+      "text": "Eres polvo y al polvo ___.",
+      "options": ["volverás", "servirás", "caerás"],
+      "answer": "volverás",
+      "explanation": "Gén 3:19: la sentencia sobre Adán tras la caída recuerda su origen (Gén 2:7). La liturgia la repite el Miércoles de Ceniza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 3:15 · El «protoevangelio», primer anuncio de la redención",
+      "direction": "es-es",
+      "tiles": ["Pongo", "enemistad", "entre", "ti", "y", "la", "mujer", "paz", "serpiente"],
+      "answer": "Pongo enemistad entre ti y la mujer",
+      "explanation": "Gén 3:15: la tradición cristiana lee aquí el primer anuncio del Redentor — la descendencia de la mujer aplastará la cabeza de la serpiente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada frase con quien la pronuncia",
+      "pairs": [
+        { "en": "«¿Dónde estás?»", "es": "Dios, a Adán escondido" },
+        { "en": "«No, no moriréis»", "es": "La serpiente, a Eva" },
+        { "en": "«Hueso de mis huesos»", "es": "Adán, al ver a la mujer" },
+        { "en": "«¿Soy yo el guardián de mi hermano?»", "es": "Caín, tras matar a Abel" },
+        { "en": "«Hagamos al hombre a nuestra imagen»", "es": "Dios, el sexto día" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué puso el Señor una señal a Caín?",
+      "options": ["Para marcarlo públicamente como homicida", "Para impedirle volver al Edén", "Para que nadie que lo encontrara lo matara"],
+      "correct": 2,
+      "hint": "La señal, sorprendentemente, es una protección.",
+      "explanation": "Gén 4:15: aunque Caín es castigado a vagar errante, la señal lo protege — quien lo mate será vengado siete veces. No es una marca infamante sino un signo de protección divina."
+    },
+    {
+      "type": "gap",
+      "text": "Abel era pastor de ovejas y Caín cultivaba el ___.",
+      "options": ["suelo", "trigo", "huerto"],
+      "answer": "suelo",
+      "explanation": "Gén 4:2: los oficios de los dos hermanos explican sus ofrendas — Abel ofrece primicias del rebaño y Caín frutos del suelo (Gén 4:3-4)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 4:9 · La respuesta de Caín cuando Dios pregunta por Abel",
+      "direction": "es-es",
+      "tiles": ["Soy", "yo", "acaso", "el", "guardián", "de", "mi", "hermano", "custodio", "padre"],
+      "answer": "Soy yo acaso el guardián de mi hermano",
+      "explanation": "Gén 4:9: la respuesta evasiva de Caín tras el primer homicidio. La pregunta de Dios «¿dónde está tu hermano?» resuena como llamada a la responsabilidad fraterna."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde se estableció Caín al alejarse de la presencia del Señor?",
+      "options": ["En la llanura de Senaar", "En la tierra de Nod", "En Ur de los caldeos"],
+      "correct": 1,
+      "hint": "Está «al este del Edén».",
+      "explanation": "Gén 4:16: Caín se estableció en la tierra de Nod, al este del Edén, donde nació su hijo Henoc. Senaar aparece en el relato de Babel (Gén 11) y Ur es la patria de Abrahán (Gén 11:31)."
+    },
+    {
+      "type": "gap",
+      "text": "Eva fue llamada así por ser la madre de todos los ___.",
+      "options": ["vivientes", "hombres", "pueblos"],
+      "answer": "vivientes",
+      "explanation": "Gén 3:20: Adán llama a su mujer Eva «por ser la madre de todos los vivientes» — el nombre se relaciona en hebreo con la palabra «vida»."
+    }
+  ]
+}

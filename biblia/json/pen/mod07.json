@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod07",
+  "module": 7,
+  "title": "Éxodo III — El Sinaí y la Alianza",
+  "subtitle": "Éxodo 19–40",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cuándo llegó Israel al desierto del Sinaí?",
+      "options": ["Al tercer mes de salir de Egipto", "Al año exacto de la primera Pascua", "A los cuarenta días del paso del mar"],
+      "correct": 0,
+      "hint": "El texto lo fecha contando desde la salida.",
+      "explanation": "Éx 19:1: al tercer mes de la salida de Egipto acamparon frente al monte. Allí permanecerán durante todo el resto del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 19:6 · La vocación de Israel en el Sinaí",
+      "direction": "es-es",
+      "tiles": ["Seréis", "para", "mí", "un", "reino", "de", "sacerdotes", "esclavos", "nación"],
+      "answer": "Seréis para mí un reino de sacerdotes",
+      "explanation": "Éx 19:6: «un reino de sacerdotes y una nación santa» — la vocación de todo el pueblo. La primera carta de Pedro aplicará estas palabras a la Iglesia (1 Pe 2:9)."
+    },
+    {
+      "type": "gap",
+      "text": "Todo el monte Sinaí humeaba como un ___.",
+      "options": ["horno", "incienso", "volcán"],
+      "answer": "horno",
+      "explanation": "Éx 19:18: el Señor había descendido sobre el monte en el fuego, y todo el monte temblaba. Es la gran teofanía del Sinaí."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la teofanía con su descripción",
+      "pairs": [
+        { "en": "La trompeta", "es": "Su sonido crecía más y más" },
+        { "en": "La nube espesa", "es": "Envolvía la cima del monte" },
+        { "en": "El fuego", "es": "En él descendió el Señor" },
+        { "en": "Los límites", "es": "Nadie debía traspasarlos ni tocar el monte" },
+        { "en": "Moisés", "es": "Solo él subió a encontrarse con Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se presenta Dios al comenzar el Decálogo?",
+      "options": ["Como el creador del cielo y de la tierra", "Como el que sacó a Israel de la esclavitud de Egipto", "Como el juez de todas las naciones"],
+      "correct": 1,
+      "hint": "Los mandamientos empiezan recordando una liberación.",
+      "explanation": "Éx 20:2: «Yo soy el Señor, tu Dios, que te saqué de la tierra de Egipto, de la casa de esclavitud». La ley nace de la gratitud por la liberación, no al revés."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 20:3 · El primer mandamiento",
+      "direction": "es-es",
+      "tiles": ["No", "tendrás", "otros", "dioses", "frente", "a", "mí", "ídolos", "junto"],
+      "answer": "No tendrás otros dioses frente a mí",
+      "explanation": "Éx 20:3: el primer mandamiento funda todos los demás — solo el Señor que liberó a Israel es Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué respondió el pueblo al leerse el libro de la alianza?",
+      "options": ["Pidieron señales antes de comprometerse", "Guardaron un silencio temeroso", "Prometieron hacer y obedecer cuanto dijo el Señor"],
+      "correct": 2,
+      "hint": "Fue un compromiso unánime y en voz alta.",
+      "explanation": "Éx 24:7: «haremos todo lo que dice el Señor y obedeceremos». Con esa respuesta quedó sellada la alianza del Sinaí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 24:8 · Las palabras de la ratificación",
+      "direction": "es-es",
+      "tiles": ["Esta", "es", "la", "la", "sangre", "de", "alianza", "cordero", "ley"],
+      "answer": "Esta es la sangre de la alianza",
+      "explanation": "Éx 24:8: Moisés roció al pueblo con la sangre de los sacrificios. Jesús retomará estas mismas palabras en la Última Cena (Mt 26:28)."
+    },
+    {
+      "type": "gap",
+      "text": "Moisés permaneció en el monte cuarenta días y cuarenta ___.",
+      "options": ["noches", "horas", "semanas"],
+      "answer": "noches",
+      "explanation": "Éx 24:18: cuarenta días y cuarenta noches en la nube de la gloria. El mismo número marcará el ayuno de Elías (1 Re 19:8) y el de Jesús en el desierto (Mt 4:2)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 25:8 · El propósito del santuario",
+      "direction": "es-es",
+      "tiles": ["Habitaré", "en", "medio", "de", "ellos", "templo", "pueblo"],
+      "answer": "Habitaré en medio de ellos",
+      "explanation": "Éx 25:8: «me harán un santuario y habitaré en medio de ellos». Todo el culto de Israel nace de este deseo de Dios de morar con su pueblo."
+    },
+    {
+      "type": "gap",
+      "text": "El arca de la alianza se hizo de madera de ___ revestida de oro.",
+      "options": ["acacia", "cedro", "olivo"],
+      "answer": "acacia",
+      "explanation": "Éx 25:10-11: madera de acacia revestida de oro puro por dentro y por fuera. El cedro será la madera del templo de Salomón (1 Re 6)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada objeto del santuario con su descripción",
+      "pairs": [
+        { "en": "El arca", "es": "Madera de acacia revestida de oro" },
+        { "en": "El propiciatorio", "es": "Cubierta de oro con dos querubines" },
+        { "en": "El candelabro", "es": "Siete brazos de oro macizo" },
+        { "en": "La mesa", "es": "Sostenía los panes presentados al Señor" },
+        { "en": "El altar de los holocaustos", "es": "De acacia revestida de bronce" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El candelabro del santuario tenía ___ brazos.",
+      "options": ["siete", "doce", "nueve"],
+      "answer": "siete",
+      "explanation": "Éx 25:31-37: el candelabro de oro macizo con siete lámparas — la menorá, que se convertirá en símbolo perpetuo de Israel."
+    },
+    {
+      "type": "gap",
+      "text": "En el pectoral del sumo sacerdote había ___ piedras preciosas.",
+      "options": ["doce", "siete", "diez"],
+      "answer": "doce",
+      "explanation": "Éx 28:21: una piedra por cada tribu de Israel, para que Aarón llevara sus nombres sobre el corazón al entrar ante el Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿De qué tribu era Besalel, el artesano principal del santuario?",
+      "options": ["Judá", "Leví", "Dan"],
+      "correct": 0,
+      "hint": "No era de la tribu sacerdotal, sino de la del cetro.",
+      "explanation": "Éx 31:2: Besalel, de la tribu de Judá, fue llenado «del espíritu de Dios» para el trabajo artístico. Su ayudante Oholiab era de la tribu de Dan (Éx 31:6)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué se hizo el becerro de oro?",
+      "options": ["Con el oro traído de Egipto por Moisés", "Con los pendientes de oro del pueblo", "Con las copas del botín del faraón"],
+      "correct": 1,
+      "hint": "Aarón pidió algo que la gente llevaba puesto.",
+      "explanation": "Éx 32:2-4: Aarón mandó quitarse los pendientes de oro y con ellos fundió el becerro. El pueblo, impaciente por la tardanza de Moisés, quería un dios visible."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 32:4 · El grito del pueblo ante el becerro",
+      "direction": "es-es",
+      "tiles": ["Este", "es", "tu", "Dios", "que", "te", "sacó", "de", "Egipto", "becerro", "Moisés"],
+      "answer": "Este es tu Dios que te sacó de Egipto",
+      "explanation": "Éx 32:4: la gran mentira de la idolatría — atribuir a una imagen fundida la liberación que había obrado el Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Moisés al ver el becerro y las danzas?",
+      "options": ["Subió de nuevo al monte a pedir perdón", "Destruyó el altar levantado por Aarón", "Rompió las tablas al pie del monte"],
+      "correct": 2,
+      "hint": "Llevaba algo en las manos al bajar.",
+      "explanation": "Éx 32:19: ardiendo en ira, arrojó las tablas escritas por Dios y las rompió al pie del monte — signo de la alianza rota por el pueblo."
+    },
+    {
+      "type": "gap",
+      "text": "Moisés quemó el becerro, lo molió hasta hacerlo polvo y lo esparció sobre el ___.",
+      "options": ["agua", "fuego", "altar"],
+      "answer": "agua",
+      "explanation": "Éx 32:20: e hizo que los israelitas la bebieran — la destrucción total del ídolo y la humillación del pecado cometido."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 32:32 · La intercesión de Moisés por el pueblo",
+      "direction": "es-es",
+      "tiles": ["Bórrame", "del", "libro", "que", "has", "escrito", "perdona", "castiga"],
+      "answer": "Bórrame del libro que has escrito",
+      "explanation": "Éx 32:32: Moisés se ofrece a cargar con la suerte del pueblo pecador — «si no los perdonas, bórrame a mí». Una de las cimas de la intercesión en toda la Biblia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su papel en el Sinaí",
+      "pairs": [
+        { "en": "Aarón", "es": "Hizo el becerro con los pendientes" },
+        { "en": "Josué", "es": "Esperaba a Moisés en la ladera del monte" },
+        { "en": "Los levitas", "es": "Se pusieron de parte del Señor" },
+        { "en": "Besalel", "es": "Artesano principal del santuario" },
+        { "en": "Oholiab", "es": "Su ayudante, de la tribu de Dan" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Cuando Moisés entraba en la tienda, la columna de ___ bajaba a la entrada.",
+      "options": ["nube", "fuego", "humo"],
+      "answer": "nube",
+      "explanation": "Éx 33:9: la columna de nube en la puerta de la tienda del encuentro señalaba que el Señor hablaba con Moisés."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo hablaba el Señor con Moisés en la tienda del encuentro?",
+      "options": ["Cara a cara, como un hombre con su amigo", "Mediante sueños y visiones nocturnas", "Por medio del sumo sacerdote Aarón"],
+      "correct": 0,
+      "hint": "Una familiaridad única en todo el Antiguo Testamento.",
+      "explanation": "Éx 33:11: «el Señor hablaba con Moisés cara a cara, como habla un hombre con su amigo». Esta cercanía única define a Moisés como el gran mediador de la alianza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 33:23 · La respuesta a «enséñame tu gloria»",
+      "direction": "es-es",
+      "tiles": ["Mi", "rostro", "no", "se", "puede", "ver", "gloria", "espalda"],
+      "answer": "Mi rostro no se puede ver",
+      "explanation": "Éx 33:23: Moisés verá pasar la gloria de Dios desde la hendidura de la roca, pero solo de espaldas — ningún hombre puede ver el rostro de Dios y seguir viviendo (Éx 33:20)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se proclama el Señor al pasar ante Moisés con las nuevas tablas?",
+      "options": ["Dios celoso que castiga sin piedad", "Dios compasivo y misericordioso, lento a la ira", "Dios oculto que habita la tormenta"],
+      "correct": 1,
+      "hint": "Es la definición de Dios más citada por el resto del Antiguo Testamento.",
+      "explanation": "Éx 34:6: «el Señor, el Señor, Dios compasivo y misericordioso, lento a la ira y rico en clemencia y lealtad». Los Salmos y los profetas repetirán esta proclamación una y otra vez."
+    },
+    {
+      "type": "gap",
+      "text": "Moisés no sabía que la piel de su rostro se había vuelto ___.",
+      "options": ["radiante", "pálida", "oscura"],
+      "answer": "radiante",
+      "explanation": "Éx 34:29: de hablar con el Señor, su rostro despedía rayos, y tuvo que cubrirse con un velo ante el pueblo (Éx 34:33-35)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada objeto con su historia",
+      "pairs": [
+        { "en": "Las tablas", "es": "Escritas por el dedo de Dios" },
+        { "en": "El velo", "es": "Cubría el rostro radiante de Moisés" },
+        { "en": "La sangre rociada", "es": "Selló la alianza del Sinaí" },
+        { "en": "El becerro", "es": "Molido y esparcido sobre el agua" },
+        { "en": "La nube", "es": "Señalaba la presencia del Señor" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "La ___ cubrió entonces la tienda del encuentro.",
+      "options": ["nube", "gloria", "sombra"],
+      "answer": "nube",
+      "explanation": "Éx 40:34: al terminar la construcción del santuario, la nube lo cubrió — la señal visible de que Dios aceptaba morar con su pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 40:34 · El final del libro del Éxodo",
+      "direction": "es-es",
+      "tiles": ["La", "la", "gloria", "del", "Señor", "llenó", "morada", "nube", "templo"],
+      "answer": "La gloria del Señor llenó la morada",
+      "explanation": "Éx 40:34: el libro que empezó con la esclavitud termina con la gloria de Dios habitando en medio de Israel. Lo mismo ocurrirá en la dedicación del templo de Salomón (1 Re 8:11)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuándo se ponía en marcha el pueblo en sus etapas?",
+      "options": ["Cuando sonaba la trompeta del santuario", "Al amanecer del primer día de la semana", "Cuando la nube se alzaba de la morada"],
+      "correct": 2,
+      "hint": "La señal era visible para todo el campamento.",
+      "explanation": "Éx 40:36-37: si la nube se alzaba, partían; si no se alzaba, esperaban. Así el Señor mismo marcó el ritmo del camino de Israel por el desierto."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod02",
+  "module": 2,
+  "title": "Génesis II — De Adán a Babel",
+  "subtitle": "Génesis 5–11",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada patriarca con su dato",
+      "pairs": [
+        { "en": "Set", "es": "Hijo de Adán con quien sigue la genealogía" },
+        { "en": "Henoc", "es": "Siguió los caminos de Dios y desapareció" },
+        { "en": "Matusalén", "es": "Abuelo de Noé, vivió más que ningún otro" },
+        { "en": "Lamec", "es": "Padre de Noé" },
+        { "en": "Noé", "es": "Justo e íntegro entre sus contemporáneos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántos años vivió Matusalén, el hombre más longevo de la Biblia?",
+      "options": ["365 años", "777 años", "969 años"],
+      "correct": 2,
+      "hint": "Casi un milenio, pero sin llegar a él.",
+      "explanation": "Gén 5:27: Matusalén vivió 969 años, la vida más larga de toda la Biblia. Los 365 años son los de Henoc (Gén 5:23) y los 777 los de Lamec, el padre de Noé (Gén 5:31)."
+    },
+    {
+      "type": "gap",
+      "text": "Henoc siguió los caminos de Dios y después ___, porque Dios se lo llevó.",
+      "options": ["desapareció", "murió", "ascendió"],
+      "answer": "desapareció",
+      "explanation": "Gén 5:24: de Henoc no se dice que muriera, como de los demás patriarcas, sino que desapareció porque Dios se lo llevó — la tradición lo lee como signo de una comunión plena con Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué decidió Dios enviar el diluvio?",
+      "options": ["Porque la maldad del hombre crecía en la tierra", "Porque los hombres levantaron una torre hasta el cielo", "Porque Caín había derramado la sangre de Abel"],
+      "correct": 0,
+      "hint": "Dios mira el corazón humano, no un edificio ni un crimen aislado.",
+      "explanation": "Gén 6:5-7: al ver que la maldad del hombre crecía y que su corazón solo tramaba el mal, Dios se arrepintió de haberlo creado. La torre de Babel (Gén 11) es posterior al diluvio, y el crimen de Caín ya había sido juzgado (Gén 4)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 6:9 · Lo que se dice de Noé antes del diluvio",
+      "direction": "es-es",
+      "tiles": ["Noé", "siguió", "los", "caminos", "de", "Dios", "Henoc", "senderos"],
+      "answer": "Noé siguió los caminos de Dios",
+      "explanation": "Gén 6:9: Noé era un hombre justo e íntegro entre sus contemporáneos, y de él se dice lo mismo que de Henoc — siguió los caminos de Dios (Gén 5:24)."
+    },
+    {
+      "type": "gap",
+      "text": "Fabrícate un arca de madera de ___.",
+      "options": ["ciprés", "cedro", "acacia"],
+      "answer": "ciprés",
+      "explanation": "Gén 6:14: la edición de la CEE dice «madera de ciprés». El cedro y la acacia son maderas de otros pasajes bíblicos, como el templo o el arca de la alianza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 7:1 · La orden de Dios a Noé",
+      "direction": "es-es",
+      "tiles": ["Entra", "en", "el", "arca", "con", "toda", "tu", "familia", "sal", "casa"],
+      "answer": "Entra en el arca con toda tu familia",
+      "explanation": "Gén 7:1: Dios manda entrar a Noé porque es «el único justo» que ha encontrado en su generación; con él se salva toda su familia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántas parejas de cada animal puro debía llevar Noé al arca?",
+      "options": ["Una sola pareja", "Siete parejas", "Doce parejas"],
+      "correct": 1,
+      "hint": "De los animales puros hicieron falta más: algunos servirían para el sacrificio.",
+      "explanation": "Gén 7:2: siete parejas de cada animal puro y una sola pareja de los no puros. Gracias a ese excedente Noé pudo ofrecer el holocausto al salir del arca sin extinguir ninguna especie (Gén 8:20)."
+    },
+    {
+      "type": "gap",
+      "text": "Y tras él cerró el Señor la ___.",
+      "options": ["puerta", "claraboya", "compuerta"],
+      "answer": "puerta",
+      "explanation": "Gén 7:16: es el propio Señor quien cierra la puerta del arca tras Noé — un gesto de protección divina. La claraboya era la abertura superior del arca (Gén 6:16) y las compuertas, las del cielo (Gén 7:11)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada dato del arca y del diluvio",
+      "pairs": [
+        { "en": "Cuarenta días y cuarenta noches", "es": "Duración de la lluvia sobre la tierra" },
+        { "en": "Ciento cincuenta días", "es": "Tiempo que las aguas dominaron la tierra" },
+        { "en": "Tres cubiertas", "es": "Pisos del arca: inferior, intermedia y superior" },
+        { "en": "La claraboya", "es": "Abertura hecha a medio metro del remate" },
+        { "en": "Calafatear", "es": "Impermeabilizar el arca por dentro y por fuera" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El arca encalló sobre las montañas de ___.",
+      "options": ["Ararat", "Senaar", "Nod"],
+      "answer": "Ararat",
+      "explanation": "Gén 8:4: el día diecisiete del mes séptimo el arca encalló sobre las montañas de Ararat. Senaar es la llanura de la torre de Babel (Gén 11:2) y Nod, la tierra donde se estableció Caín (Gén 4:16)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ave soltó Noé en primer lugar para ver si la tierra estaba seca?",
+      "options": ["Un cuervo", "Una paloma", "Una golondrina"],
+      "correct": 0,
+      "hint": "No fue el ave más famosa del relato.",
+      "explanation": "Gén 8:7: primero soltó un cuervo, que estuvo yendo y viniendo mientras se secaba la tierra. Después soltó la paloma, que a la segunda salida volvió con la hoja de olivo (Gén 8:8-11); la golondrina no aparece en el relato."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 8:11 · La señal de que las aguas habían bajado",
+      "direction": "es-es",
+      "tiles": ["La", "paloma", "volvió", "con", "una", "hoja", "verde", "de", "olivo", "cuervo", "rama"],
+      "answer": "La paloma volvió con una hoja verde de olivo",
+      "explanation": "Gén 8:11: al atardecer la paloma regresó al arca con una hoja verde de olivo en el pico — desde entonces, símbolo universal de la paz."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Noé nada más salir del arca?",
+      "options": ["Plantó una viña y celebró la primera cosecha", "Construyó un altar y ofreció un holocausto", "Levantó una ciudad para sus descendientes"],
+      "correct": 1,
+      "hint": "Su primer gesto fue de gratitud a Dios.",
+      "explanation": "Gén 8:20: Noé construyó un altar al Señor y ofreció en holocausto animales y aves de especie pura. La viña la plantará más tarde, ya como labrador (Gén 9:20); la ciudad es el proyecto de Babel (Gén 11:4)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 8:22 · La promesa de Dios mientras dure la tierra",
+      "direction": "es-es",
+      "tiles": ["No", "han", "de", "faltar", "siembra", "y", "cosecha", "frío", "lluvia"],
+      "answer": "No han de faltar siembra y cosecha",
+      "explanation": "Gén 8:22: tras el diluvio Dios promete la estabilidad de los ritmos de la creación — siembra y cosecha, frío y calor, verano e invierno, día y noche."
+    },
+    {
+      "type": "gap",
+      "text": "Dios bendijo a Noé y a sus hijos: creced, multiplicaos y llenad la ___.",
+      "options": ["tierra", "ciudad", "viña"],
+      "answer": "tierra",
+      "explanation": "Gén 9:1: la bendición del principio (Gén 1:28) se renueva sobre Noé y sus hijos — la humanidad vuelve a empezar tras el diluvio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con quién estableció Dios su alianza después del diluvio?",
+      "options": ["Únicamente con Noé, su mujer y sus tres hijos", "Con Noé, su descendencia y todos los seres vivos", "Con los hombres justos de todas las generaciones"],
+      "correct": 1,
+      "hint": "El alcance de esta alianza es más ancho que una familia.",
+      "explanation": "Gén 9:9-10: la alianza incluye a Noé, a su descendencia y a todo ser vivo que salió del arca — una alianza universal con la creación entera, sellada con el arco en el cielo (Gén 9:13)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 9:13 · La señal de la alianza",
+      "direction": "es-es",
+      "tiles": ["Pondré", "mi", "arco", "en", "el", "cielo", "nubes", "arcoíris"],
+      "answer": "Pondré mi arco en el cielo",
+      "explanation": "Gén 9:13: el arco, «como señal de mi alianza con la tierra» — el arco de guerra colgado en las nubes se convierte en signo de paz entre Dios y la creación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada signo del relato con su significado",
+      "pairs": [
+        { "en": "El cuervo", "es": "Iba y venía mientras la tierra se secaba" },
+        { "en": "La paloma", "es": "Trajo en el pico la hoja de olivo" },
+        { "en": "El arco en el cielo", "es": "Señal de la alianza con la tierra" },
+        { "en": "El altar", "es": "Donde Noé ofreció el holocausto" },
+        { "en": "La viña", "es": "Lo que plantó Noé como labrador" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quiénes cubrieron la desnudez de Noé caminando de espaldas?",
+      "options": ["Sem y Jafet", "Cam y Canaán", "Sem y Cam"],
+      "correct": 0,
+      "hint": "Son los dos hijos que recibieron la bendición de su padre.",
+      "explanation": "Gén 9:23: Sem y Jafet se echaron un manto sobre los hombros y, caminando de espaldas para no mirar, taparon a su padre. Cam, padre de Canaán, fue quien vio la desnudez y la contó fuera (Gén 9:22)."
+    },
+    {
+      "type": "gap",
+      "text": "Maldito sea Canaán; sea el último ___ de sus hermanos.",
+      "options": ["siervo", "hijo", "señor"],
+      "answer": "siervo",
+      "explanation": "Gén 9:25: al despertar, Noé no maldice a Cam sino a su hijo Canaán, condenado a servir a sus hermanos — el relato anticipa la relación de Israel con los cananeos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿De cuál de los hijos de Noé descendía Nimrod?",
+      "options": ["De Sem", "De Jafet", "De Cam"],
+      "correct": 2,
+      "hint": "Su padre fue Cus.",
+      "explanation": "Gén 10:8: Cus, hijo de Cam, engendró a Nimrod, «el primer héroe de la tierra». De Sem descienden los pueblos semitas, entre ellos Abrán (Gén 11:10-26), y de Jafet, los pueblos de las islas y costas."
+    },
+    {
+      "type": "gap",
+      "text": "Nimrod fue un heroico ___ ante el Señor.",
+      "options": ["cazador", "guerrero", "constructor"],
+      "answer": "cazador",
+      "explanation": "Gén 10:9: «un heroico cazador ante el Señor», hasta hacerse proverbial. Su reino comenzó por Babel, en la tierra de Senaar (Gén 10:10)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 11:1 · Cómo era el mundo antes de Babel",
+      "direction": "es-es",
+      "tiles": ["Toda", "la", "tierra", "hablaba", "una", "misma", "lengua", "palabra", "pueblo"],
+      "answer": "Toda la tierra hablaba una misma lengua",
+      "explanation": "Gén 11:1: «con las mismas palabras», añade el texto — la unidad de lengua de toda la humanidad es el punto de partida del relato de Babel."
+    },
+    {
+      "type": "gap",
+      "text": "Los hombres encontraron una llanura en la tierra de ___ y se establecieron allí.",
+      "options": ["Senaar", "Canaán", "Ararat"],
+      "answer": "Senaar",
+      "explanation": "Gén 11:2: la llanura de Senaar, en Mesopotamia, es el escenario de la torre de Babel; allí había comenzado el reino de Nimrod (Gén 10:10)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 11:4 · El proyecto de los constructores de Babel",
+      "direction": "es-es",
+      "tiles": ["Vamos", "a", "construir", "una", "una", "ciudad", "y", "torre", "templo", "muralla"],
+      "answer": "Vamos a construir una ciudad y una torre",
+      "explanation": "Gén 11:4: la torre debía alcanzar el cielo «para hacernos un nombre» — el orgullo de una humanidad que quiere asegurarse por sí misma, sin contar con Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Sem", "es": "De su línea desciende Abrán" },
+        { "en": "Cam", "es": "Vio la desnudez de su padre" },
+        { "en": "Jafet", "es": "Cubrió a Noé junto con Sem" },
+        { "en": "Canaán", "es": "Maldecido a servir a sus hermanos" },
+        { "en": "Noé", "es": "Vivió novecientos cincuenta años" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 11:7 · La decisión de Dios ante la torre",
+      "direction": "es-es",
+      "tiles": ["Bajemos", "pues", "y", "confundamos", "allí", "su", "lengua", "subamos", "voz"],
+      "answer": "Bajemos pues y confundamos allí su lengua",
+      "explanation": "Gén 11:7: ironía del relato — la torre que pretendía alcanzar el cielo queda tan lejos que Dios ha de bajar a verla. La confusión de lenguas dispersa a los constructores."
+    },
+    {
+      "type": "gap",
+      "text": "La ciudad se llama Babel porque allí confundió el Señor la ___ de toda la tierra.",
+      "options": ["lengua", "torre", "obra"],
+      "answer": "lengua",
+      "explanation": "Gén 11:9: el nombre Babel se explica por un juego de palabras con el verbo hebreo «confundir»; desde allí el Señor dispersó a los hombres por la superficie de la tierra."
+    },
+    {
+      "type": "quiz",
+      "q": "¿De dónde salió Teraj con Abrán y Lot camino de Canaán?",
+      "options": ["De la llanura de Senaar", "De la ciudad de Harán", "De Ur de los caldeos"],
+      "correct": 2,
+      "hint": "Harán fue una etapa del viaje, no el punto de partida.",
+      "explanation": "Gén 11:31: Teraj salió de Ur de los caldeos con su hijo Abrán y su nieto Lot para dirigirse a la tierra de Canaán, pero al llegar a Harán se establecieron allí."
+    }
+  ]
+}

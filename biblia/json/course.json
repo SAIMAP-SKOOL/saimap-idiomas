@@ -1,0 +1,38 @@
+{
+  "language": "es",
+  "name": "Biblia",
+  "edition": "Canon y Apócrifos · SAIMAP Ecclesia",
+  "levels": [
+    {
+      "code": "PEN",
+      "name": "El Pentateuco",
+      "sub": "12 módulos · Génesis a Deuteronomio",
+      "color": "#8C6D41",
+      "modules": [
+        { "n": 1,  "title": "Génesis I — La Creación y la Caída",      "es": "Génesis I · Creación y Caída (Gén 1–4)",      "file": "pen/mod01.json" },
+        { "n": 2,  "title": "Génesis II — De Adán a Babel",            "es": "Génesis II · De Adán a Babel (Gén 5–11)",     "file": "pen/mod02.json" },
+        { "n": 3,  "title": "Génesis III — Abraham, la Promesa",       "es": "Génesis III · Abraham (Gén 12–25)",           "file": "pen/mod03.json" },
+        { "n": 4,  "title": "Génesis IV — Jacob y José",               "es": "Génesis IV · Jacob y José (Gén 25–50)",       "file": "pen/mod04.json" },
+        { "n": 5,  "title": "Éxodo I — Moisés y las Plagas",           "es": "Éxodo I · Moisés y las Plagas (Éx 1–11)",     "file": "pen/mod05.json" },
+        { "n": 6,  "title": "Éxodo II — La Pascua y el Mar Rojo",      "es": "Éxodo II · Pascua y Mar Rojo (Éx 12–18)",     "file": "pen/mod06.json" },
+        { "n": 7,  "title": "Éxodo III — El Sinaí y la Alianza",       "es": "Éxodo III · Sinaí y Alianza (Éx 19–40)",      "file": "pen/mod07.json" },
+        { "n": 8,  "title": "Levítico — La Ley de Santidad",           "es": "Levítico · La Ley de Santidad" },
+        { "n": 9,  "title": "Números I — La Marcha por el Desierto",   "es": "Números I · La Marcha por el Desierto" },
+        { "n": 10, "title": "Números II — Rebeliones y Balaán",        "es": "Números II · Rebeliones y Balaán" },
+        { "n": 11, "title": "Deuteronomio I — El Discurso de Moisés",  "es": "Deuteronomio I · El Discurso de Moisés" },
+        { "n": 12, "title": "Deuteronomio II — La Alianza en Moab",    "es": "Deuteronomio II · Alianza en Moab" }
+      ]
+    },
+    { "code": "HIS", "name": "Libros Históricos",              "color": "#B5651D", "locked": true, "moduleCount": 16 },
+    { "code": "SAP", "name": "Libros Sapienciales y Poéticos", "color": "#C79B00", "locked": true, "moduleCount": 12 },
+    { "code": "PRO", "name": "Libros Proféticos",              "color": "#7C4C9E", "locked": true, "moduleCount": 18 },
+    { "code": "EVA", "name": "Evangelios",                     "color": "#2F8A87", "locked": true, "moduleCount": 10 },
+    { "code": "HCH", "name": "Hechos de los Apóstoles",        "color": "#3B6FA6", "locked": true, "moduleCount": 2 },
+    { "code": "PAB", "name": "Corpus Paulino",                 "color": "#4F8B6B", "locked": true, "moduleCount": 14 },
+    { "code": "CAT", "name": "Cartas Católicas",               "color": "#5B57A6", "locked": true, "moduleCount": 5 },
+    { "code": "SJN", "name": "Cartas de San Juan",             "color": "#1CB0F6", "locked": true, "moduleCount": 2 },
+    { "code": "JUD", "name": "Judas",                          "color": "#9C3D6B", "locked": true, "moduleCount": 1 },
+    { "code": "APO", "name": "Apocalipsis",                    "color": "#C43535", "locked": true, "moduleCount": 2 },
+    { "code": "APX", "name": "Textos Apócrifos",               "color": "#6B5B95", "locked": true, "moduleCount": 8 }
+  ]
+}

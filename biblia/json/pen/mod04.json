@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod04",
+  "module": 4,
+  "title": "Génesis IV — Jacob y José",
+  "subtitle": "Génesis 25–50",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Por qué vendió Esaú su primogenitura a Jacob?",
+      "options": ["Por un plato de guiso de lentejas", "Por un rebaño de ovejas de Labán", "Por la túnica de su padre Isaac"],
+      "correct": 0,
+      "hint": "Volvía agotado del campo y solo pensaba en comer.",
+      "explanation": "Gén 25:29-34: Esaú llegó extenuado y cambió su primogenitura por el guiso rojizo de Jacob. El texto concluye: «así menospreció Esaú la primogenitura»."
+    },
+    {
+      "type": "gap",
+      "text": "Jacob nació agarrado al ___ de su hermano Esaú.",
+      "options": ["talón", "brazo", "manto"],
+      "answer": "talón",
+      "explanation": "Gén 25:26: el nombre de Jacob se relaciona en hebreo con «talón» y con «suplantar» — un anticipo de su historia con Esaú."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su descripción",
+      "pairs": [
+        { "en": "Esaú", "es": "Cazador velludo, el primogénito" },
+        { "en": "Rebeca", "es": "Ideó el engaño de la bendición" },
+        { "en": "Isaac", "es": "Bendijo a Jacob creyendo bendecir a Esaú" },
+        { "en": "Labán", "es": "El tío que cambió el salario de Jacob" },
+        { "en": "Raquel", "es": "La amada, pastora junto al pozo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué cubrió Rebeca los brazos de Jacob para el engaño?",
+      "options": ["Con lana de cordero teñida", "Con pieles de cabrito", "Con barro del arroyo"],
+      "correct": 1,
+      "hint": "Había que imitar el vello de Esaú al tacto.",
+      "explanation": "Gén 27:16: Rebeca cubrió con pieles de cabrito las manos y el cuello de Jacob, para que el anciano Isaac, al palparlo, lo confundiera con Esaú."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 27:22 · Isaac, extrañado, palpa a Jacob",
+      "direction": "es-es",
+      "tiles": ["La", "voz", "es", "de", "de", "Jacob", "las", "manos", "Esaú", "ojos", "hermano"],
+      "answer": "La voz es de Jacob las manos de Esaú",
+      "explanation": "Gén 27:22: la sospecha de Isaac resume todo el engaño. Aun así, la bendición dada ya no podía revocarse (Gén 27:33)."
+    },
+    {
+      "type": "gap",
+      "text": "Jacob vio en sueños una ___ apoyada en tierra cuya cima tocaba el cielo.",
+      "options": ["escalinata", "torre", "columna"],
+      "answer": "escalinata",
+      "explanation": "Gén 28:12: la tradicional «escala de Jacob», por la que subían y bajaban los ángeles de Dios. Ocurrió en Betel, camino de Jarán."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 28:17 · Jacob despierta en Betel",
+      "direction": "es-es",
+      "tiles": ["La", "casa", "de", "Dios", "y", "la", "puerta", "del", "cielo", "escalera", "tierra"],
+      "answer": "La casa de Dios y la puerta del cielo",
+      "explanation": "Gén 28:17: así llama Jacob al lugar del sueño, y le pone por nombre Betel, que significa «casa de Dios» (Gén 28:19)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántos años sirvió Jacob a Labán por Raquel la primera vez?",
+      "options": ["Catorce años", "Tres años", "Siete años"],
+      "correct": 2,
+      "hint": "Luego tuvo que repetir el mismo plazo.",
+      "explanation": "Gén 29:20: sirvió siete años por Raquel. Tras el engaño de la boda con Lía, sirvió otros siete por la mujer que amaba (Gén 29:27-28)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 29:20 · Los siete años de servicio por Raquel",
+      "direction": "es-es",
+      "tiles": ["Le", "parecieron", "unos", "días", "de", "tanto", "que", "la", "amaba", "años", "esperaba"],
+      "answer": "Le parecieron unos días de tanto que la amaba",
+      "explanation": "Gén 29:20: una de las frases más celebradas de la Biblia sobre el amor — siete años de trabajo que el cariño hizo breves."
+    },
+    {
+      "type": "gap",
+      "text": "A la mañana siguiente de la boda, Jacob descubrió que era ___.",
+      "options": ["Lía", "Raquel", "Dina"],
+      "answer": "Lía",
+      "explanation": "Gén 29:25: Labán le dio a su hija mayor en lugar de Raquel, alegando la costumbre del lugar. El engañador de su padre fue a su vez engañado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pidió Jacob a su adversario en la lucha del vado de Yaboc?",
+      "options": ["Que lo bendijera antes de soltarlo", "Que le devolviera a Raquel", "Que le mostrara el camino a Seír"],
+      "correct": 0,
+      "hint": "Luchó toda la noche y no soltó su presa sin conseguir algo.",
+      "explanation": "Gén 32:27: «no te soltaré hasta que me bendigas». De aquella lucha nocturna Jacob salió bendecido, con nombre nuevo y cojeando (Gén 32:32)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 32:29 · El nuevo nombre tras la lucha",
+      "direction": "es-es",
+      "tiles": ["Ya", "no", "te", "llamarás", "Jacob", "sino", "Israel", "Abrahán", "siempre"],
+      "answer": "Ya no te llamarás Jacob sino Israel",
+      "explanation": "Gén 32:29: «porque has luchado con Dios y con hombres, y has vencido». Del nuevo nombre del patriarca tomará su nombre todo el pueblo."
+    },
+    {
+      "type": "gap",
+      "text": "Jacob llamó a aquel lugar Penuel: «He visto a Dios cara a ___ y he salido con vida».",
+      "options": ["cara", "frente", "ojos"],
+      "answer": "cara",
+      "explanation": "Gén 32:31: Penuel significa «rostro de Dios». Jacob quedó cojeando del encuentro, señal de que nadie lucha con Dios y sale indemne."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada miembro de la familia de Jacob con su dato",
+      "pairs": [
+        { "en": "Lía", "es": "Madre de Judá y de otros cinco hijos" },
+        { "en": "Raquel", "es": "Murió al dar a luz a Benjamín" },
+        { "en": "Judá", "es": "Recibió la bendición del cetro" },
+        { "en": "José", "es": "El hijo predilecto, el undécimo" },
+        { "en": "Benjamín", "es": "El menor de los doce hermanos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué soñó José que provocó la envidia de sus hermanos?",
+      "options": ["Que el faraón lo nombraba señor de Egipto", "Que las gavillas de sus hermanos se inclinaban ante la suya", "Que un ángel le entregaba una túnica real"],
+      "correct": 1,
+      "hint": "Estaban atando gavillas en el campo.",
+      "explanation": "Gén 37:5-8: la gavilla de José se alzó y las de sus hermanos se postraron ante ella. Después soñó con el sol, la luna y once estrellas inclinándose (Gén 37:9)."
+    },
+    {
+      "type": "gap",
+      "text": "Israel amaba a José más que a todos y le hizo una ___ con mangas.",
+      "options": ["túnica", "corona", "capa"],
+      "answer": "túnica",
+      "explanation": "Gén 37:3: la famosa túnica, signo de predilección por ser el hijo de la vejez. Los hermanos se la arrancarán y la mancharán de sangre para engañar a Jacob (Gén 37:31)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 37:19 · Los hermanos ven llegar a José",
+      "direction": "es-es",
+      "tiles": ["Ahí", "viene", "el", "de", "los", "sueños", "túnica", "hermano"],
+      "answer": "Ahí viene el de los sueños",
+      "explanation": "Gén 37:19: el mote burlón con que los hermanos reciben a José en Dotán, justo antes de conspirar contra él."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por cuánto vendieron los hermanos a José?",
+      "options": ["Treinta monedas de plata", "Diez monedas de oro", "Veinte monedas de plata"],
+      "correct": 2,
+      "hint": "No confundas este precio con otro más famoso del Nuevo Testamento.",
+      "explanation": "Gén 37:28: lo vendieron por veinte monedas de plata a una caravana que bajaba a Egipto. Las treinta monedas son el precio de la traición a Jesús (Mt 26:15)."
+    },
+    {
+      "type": "gap",
+      "text": "La mujer de Putifar se quedó con el ___ de José en la mano.",
+      "options": ["manto", "anillo", "cinturón"],
+      "answer": "manto",
+      "explanation": "Gén 39:12: José huyó de la tentación dejando el manto, y ese mismo manto sirvió como falsa prueba para encarcelarlo (Gén 39:16-20)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué significaban las siete vacas flacas del sueño del faraón?",
+      "options": ["Siete años de hambre", "Siete plagas sobre Egipto", "Siete reinos enemigos"],
+      "correct": 0,
+      "hint": "Devoraban a las siete vacas gordas.",
+      "explanation": "Gén 41:27-30: siete años de hambre que consumirían la abundancia de los siete años anteriores. Por eso José aconsejó almacenar grano, y fue puesto al frente del plan."
+    },
+    {
+      "type": "gap",
+      "text": "El faraón puso a José al frente de todo ___.",
+      "options": ["Egipto", "el palacio", "el ejército"],
+      "answer": "Egipto",
+      "explanation": "Gén 41:41-43: el faraón le dio su anillo, vestidos de lino y el segundo carro real: «sin tu permiso nadie moverá la mano en todo Egipto» (Gén 41:44)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada sueño con su significado",
+      "pairs": [
+        { "en": "Las gavillas inclinadas", "es": "Sus hermanos se postrarían ante José" },
+        { "en": "Sol, luna y once estrellas", "es": "Toda su familia lo reverenciaría" },
+        { "en": "Las siete vacas gordas", "es": "Siete años de abundancia" },
+        { "en": "Los tres sarmientos del copero", "es": "En tres días sería restituido" },
+        { "en": "Las tres canastas del panadero", "es": "En tres días sería ejecutado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿En el saco de quién apareció la copa de plata de José?",
+      "options": ["Judá", "Benjamín", "Simeón"],
+      "correct": 1,
+      "hint": "Era el hermano que Jacob más temía perder.",
+      "explanation": "Gén 44:12: José mandó esconder su copa en el saco del menor para probar a sus hermanos. Judá se ofreció entonces como esclavo en su lugar (Gén 44:33) — la prueba del cambio de sus corazones."
+    },
+    {
+      "type": "gap",
+      "text": "Judá se ofreció a quedarse como ___ en lugar de Benjamín.",
+      "options": ["esclavo", "rehén", "prisionero"],
+      "answer": "esclavo",
+      "explanation": "Gén 44:33: «que tu siervo quede como esclavo en lugar del muchacho». El mismo Judá que propuso vender a José (Gén 37:26) ahora da la vida por su hermano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 45:3 · José se da a conocer a sus hermanos",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "José", "vive", "todavía", "mi", "padre", "hermano", "Egipto"],
+      "answer": "Yo soy José vive todavía mi padre",
+      "explanation": "Gén 45:3: el momento culminante del relato. Los hermanos enmudecieron de espanto, y José los consoló: «Dios me envió delante de vosotros para salvar vidas» (Gén 45:5)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué región de Egipto se estableció la familia de Jacob?",
+      "options": ["En Menfis", "En el delta occidental", "En Gosén"],
+      "correct": 2,
+      "hint": "Tierra de pastos, apropiada para sus rebaños.",
+      "explanation": "Gén 45:10; 47:27: José instaló a su padre y hermanos en la tierra de Gosén, donde prosperaron. Allí los encontrará, siglos después, la opresión del Éxodo."
+    },
+    {
+      "type": "gap",
+      "text": "Al bendecir a Efraín y Manasés, Jacob cruzó las ___.",
+      "options": ["manos", "varas", "bendiciones"],
+      "answer": "manos",
+      "explanation": "Gén 48:14: puso la derecha sobre Efraín, el menor, contra la voluntad de José. Una vez más la elección de Dios no sigue el orden humano de la primogenitura."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 49:10 · La bendición de Jacob a Judá",
+      "direction": "es-es",
+      "tiles": ["No", "se", "apartará", "de", "Judá", "el", "cetro", "corona", "espada"],
+      "answer": "No se apartará de Judá el cetro",
+      "explanation": "Gén 49:10: la bendición mesiánica de Judá — de su tribu vendrán David y, según la lectura cristiana, el Mesías (cf. Ap 5:5, «el león de la tribu de Judá»)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su acontecimiento",
+      "pairs": [
+        { "en": "Betel", "es": "El sueño de la escalinata" },
+        { "en": "Yaboc", "es": "La lucha nocturna de Jacob" },
+        { "en": "Dotán", "es": "Allí fue vendido José" },
+        { "en": "Gosén", "es": "La tierra de Israel en Egipto" },
+        { "en": "Macpela", "es": "Sepultura de Jacob junto a sus padres" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Gén 50:20 · La clave de toda la historia de José",
+      "direction": "es-es",
+      "tiles": ["Vosotros", "pensasteis", "hacerme", "mal", "Dios", "lo", "pensó", "para", "bien", "castigo", "venganza"],
+      "answer": "Vosotros pensasteis hacerme mal Dios lo pensó para bien",
+      "explanation": "Gén 50:20: la frase que resume la teología del relato — la providencia de Dios convierte el mal humano en salvación «para dar vida a un pueblo numeroso»."
+    }
+  ]
+}

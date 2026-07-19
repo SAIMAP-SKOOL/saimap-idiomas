@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod06",
+  "module": 6,
+  "title": "Éxodo II — La Pascua y el Mar Rojo",
+  "subtitle": "Éxodo 12–18",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo debía ser el cordero de la Pascua?",
+      "options": ["Sin defecto, macho, de un año", "El más grande del rebaño", "Blanco y de dos años"],
+      "correct": 0,
+      "hint": "Tres condiciones que el Nuevo Testamento aplicará a Cristo.",
+      "explanation": "Éx 12:5: un animal sin defecto, macho, de un año, de oveja o de cabra. El Nuevo Testamento verá en él la figura de Cristo, «cordero sin defecto ni mancha» (1 Pe 1:19)."
+    },
+    {
+      "type": "gap",
+      "text": "Untaréis con la ___ del cordero las dos jambas y el dintel.",
+      "options": ["sangre", "grasa", "lana"],
+      "answer": "sangre",
+      "explanation": "Éx 12:7: la sangre en las puertas era la señal protectora de las casas de Israel la noche de la décima plaga."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 12:13 · La promesa ligada a la señal",
+      "direction": "es-es",
+      "tiles": ["Al", "ver", "la", "sangre", "pasaré", "de", "largo", "heriré", "puerta"],
+      "answer": "Al ver la sangre pasaré de largo",
+      "explanation": "Éx 12:13: de este «pasar de largo» del Señor toma su nombre la Pascua. La sangre del cordero libra a Israel del castigo de Egipto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la Pascua con su significado",
+      "pairs": [
+        { "en": "El cordero", "es": "Sin defecto, macho, de un año" },
+        { "en": "La sangre", "es": "Señal en las jambas y el dintel" },
+        { "en": "Los panes ázimos", "es": "Sin levadura, por la salida apresurada" },
+        { "en": "Las hierbas amargas", "es": "Acompañaban al cordero asado" },
+        { "en": "La cintura ceñida", "es": "Signo de estar listos para partir" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Durante siete días comeréis panes sin ___.",
+      "options": ["levadura", "sal", "aceite"],
+      "answer": "levadura",
+      "explanation": "Éx 12:15: la fiesta de los Ázimos recuerda la prisa de la salida — la masa no tuvo tiempo de fermentar (Éx 12:39)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quiénes hirió la décima plaga?",
+      "options": ["A los rebaños de los egipcios", "A todos los primogénitos de Egipto", "A los soldados del faraón"],
+      "correct": 1,
+      "hint": "Desde el hijo del faraón hasta el del cautivo.",
+      "explanation": "Éx 12:29: a medianoche el Señor hirió a todos los primogénitos de Egipto, «desde el primogénito del faraón hasta el del preso en la cárcel». Aquella noche el faraón dejó salir al pueblo."
+    },
+    {
+      "type": "gap",
+      "text": "Los israelitas partieron de Ramsés hacia ___.",
+      "options": ["Sucot", "Etam", "Madián"],
+      "answer": "Sucot",
+      "explanation": "Éx 12:37: primera etapa del camino — unos seiscientos mil hombres a pie, sin contar mujeres y niños. Etam fue la etapa siguiente (Éx 13:20)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo guiaba el Señor al pueblo por el desierto?",
+      "options": ["Un ángel con espada desenvainada al frente", "El arca de la alianza llevada por sacerdotes", "Una columna de nube de día y de fuego de noche"],
+      "correct": 2,
+      "hint": "Una guía distinta para las horas de luz y las de oscuridad.",
+      "explanation": "Éx 13:21-22: la columna de nube de día y de fuego de noche nunca se apartó de delante del pueblo. El arca todavía no existía — se construirá en el Sinaí (Éx 25)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 14:14 · Moisés anima al pueblo ante el mar",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "peleará", "por", "vosotros", "Egipto", "solos"],
+      "answer": "El Señor peleará por vosotros",
+      "explanation": "Éx 14:14: atrapado entre el mar y los carros del faraón, el pueblo solo debía confiar: «vosotros esperad tranquilos»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor hizo soplar toda la noche un fuerte viento del ___.",
+      "options": ["este", "norte", "sur"],
+      "answer": "este",
+      "explanation": "Éx 14:21: el viento del este secó el mar y dividió las aguas para que Israel pasara a pie enjuto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo quedaron las aguas al dividirse el mar?",
+      "options": ["Como muralla a derecha e izquierda", "Detenidas solo por el lado del mar", "Suspendidas sobre las cabezas del pueblo"],
+      "correct": 0,
+      "hint": "La imagen sugiere un pasillo protegido por ambos flancos.",
+      "explanation": "Éx 14:22: «las aguas les hacían de muralla a derecha e izquierda». Al volver las aguas, el ejército del faraón quedó sepultado (Éx 14:28)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 15:1 · El cántico de Moisés tras el paso del mar",
+      "direction": "es-es",
+      "tiles": ["Cantaré", "al", "Señor", "sublime", "es", "su", "victoria", "caballo", "mar"],
+      "answer": "Cantaré al Señor sublime es su victoria",
+      "explanation": "Éx 15:1: «caballo y jinete ha arrojado en el mar». Es el canto de victoria más antiguo de Israel, que la liturgia sigue cantando en la Vigilia Pascual."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su papel",
+      "pairs": [
+        { "en": "María", "es": "La profetisa que tocó el pandero" },
+        { "en": "Aarón y Jur", "es": "Sostuvieron los brazos de Moisés" },
+        { "en": "Josué", "es": "Combatió contra Amalec en Refidín" },
+        { "en": "Jetró", "es": "El suegro que aconsejó nombrar jueces" },
+        { "en": "El faraón", "es": "Persiguió al pueblo con sus carros" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Moisés para endulzar las aguas de Mará?",
+      "options": ["Golpeó las aguas con su bastón", "Echó un madero que el Señor le mostró", "Roció las aguas con sal"],
+      "correct": 1,
+      "hint": "No fue el bastón esta vez.",
+      "explanation": "Éx 15:25: el Señor le mostró un madero que volvió dulces las aguas amargas. Golpear con el bastón pertenece al episodio de la roca de Horeb (Éx 17:6)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 15:26 · La promesa tras las aguas de Mará",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "el", "el", "Señor", "que", "te", "cura", "hiere", "salva"],
+      "answer": "Yo soy el Señor el que te cura",
+      "explanation": "Éx 15:26: si el pueblo escucha la voz del Señor, no sufrirá las plagas de Egipto — el Señor se revela como médico de su pueblo."
+    },
+    {
+      "type": "gap",
+      "text": "Llegaron a Elín, donde había doce fuentes y setenta ___.",
+      "options": ["palmeras", "tiendas", "pozos"],
+      "answer": "palmeras",
+      "explanation": "Éx 15:27: el oasis de Elín, con sus doce fuentes y setenta palmeras, fue un descanso tras las aguas amargas de Mará."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué comió el pueblo por la tarde, además del maná de la mañana?",
+      "options": ["Codornices", "Peces traídos del mar", "Higos y dátiles"],
+      "correct": 0,
+      "hint": "Llegaban volando y cubrían el campamento.",
+      "explanation": "Éx 16:13: por la tarde subió una bandada de codornices que cubrió el campamento, y por la mañana apareció el maná sobre el rocío."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 16:15 · Moisés explica qué es el maná",
+      "direction": "es-es",
+      "tiles": ["Es", "el", "el", "pan", "que", "Señor", "os", "da", "maná", "cielo"],
+      "answer": "Es el pan que el Señor os da",
+      "explanation": "Éx 16:15: el pueblo preguntaba «¿qué es esto?» — de ahí el nombre maná. Jesús se referirá a este pan del cielo al presentarse como el verdadero pan de vida (Jn 6:31-35)."
+    },
+    {
+      "type": "gap",
+      "text": "El sexto día recogían ración ___, porque el séptimo era día de descanso.",
+      "options": ["doble", "sencilla", "triple"],
+      "answer": "doble",
+      "explanation": "Éx 16:22-26: el maná del sexto día no se corrompía, para que nadie saliera a recoger en sábado. El descanso sabático aparece aquí antes incluso del Decálogo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué sabía el maná?",
+      "options": ["A pan recién cocido", "A uvas pasas", "A torta de miel"],
+      "correct": 2,
+      "hint": "Un sabor dulce.",
+      "explanation": "Éx 16:31: era como semilla de cilantro, blanco, con sabor a torta de miel. Israel lo comió cuarenta años, hasta llegar a Canaán (Éx 16:35)."
+    },
+    {
+      "type": "gap",
+      "text": "Guardad un ómer de ___ para las generaciones futuras.",
+      "options": ["maná", "agua", "harina"],
+      "answer": "maná",
+      "explanation": "Éx 16:32-33: una vasija con maná debía conservarse como memorial del pan con que Dios alimentó a su pueblo en el desierto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su acontecimiento",
+      "pairs": [
+        { "en": "Mará", "es": "Las aguas amargas endulzadas" },
+        { "en": "Elín", "es": "Doce fuentes y setenta palmeras" },
+        { "en": "Refidín", "es": "La batalla contra Amalec" },
+        { "en": "Masá y Meribá", "es": "El agua de la roca y la querella" },
+        { "en": "Sucot", "es": "Primera etapa tras salir de Ramsés" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Golpearás la roca y saldrá ___ para que beba el pueblo.",
+      "options": ["agua", "fuego", "miel"],
+      "answer": "agua",
+      "explanation": "Éx 17:6: la roca de Horeb golpeada por Moisés dio de beber al pueblo. San Pablo verá en aquella roca una figura de Cristo (1 Cor 10:4)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué se llamó Masá y Meribá aquel lugar?",
+      "options": ["Porque allí brotaron doce fuentes", "Porque el pueblo discutió y tentó al Señor", "Porque allí fue vencido Amalec"],
+      "correct": 1,
+      "hint": "Los dos nombres significan «prueba» y «querella».",
+      "explanation": "Éx 17:7: el pueblo tentó al Señor diciendo «¿está el Señor entre nosotros o no?». Los Salmos recordarán este episodio como advertencia: «no endurezcáis el corazón como en Meribá» (Sal 95:8)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 17:11 · Los brazos de Moisés durante la batalla",
+      "direction": "es-es",
+      "tiles": ["Mientras", "Moisés", "tenía", "en", "alto", "la", "mano", "vencía", "Israel", "Amalec", "bajaba"],
+      "answer": "Mientras Moisés tenía en alto la mano vencía Israel",
+      "explanation": "Éx 17:11: cuando los brazos de Moisés caían, vencía Amalec; por eso Aarón y Jur se los sostuvieron hasta la puesta del sol. La tradición cristiana lo lee como imagen de la oración perseverante."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 17:15 · El nombre del altar tras la victoria",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "es", "mi", "estandarte", "bandera", "victoria"],
+      "answer": "El Señor es mi estandarte",
+      "explanation": "Éx 17:15: Moisés levantó un altar con este nombre tras vencer a Amalec — la victoria no fue de las armas, sino del Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué aconsejó Jetró a Moisés?",
+      "options": ["Volver a Madián con Séfora", "Levantar un altar en el monte", "Nombrar jefes que juzgaran los asuntos menores"],
+      "correct": 2,
+      "hint": "Moisés se agotaba atendiendo él solo al pueblo de la mañana a la noche.",
+      "explanation": "Éx 18:21-22: hombres capaces y temerosos de Dios juzgarían los pleitos menores, y solo los graves llegarían a Moisés. Es el origen de la organización judicial de Israel."
+    },
+    {
+      "type": "gap",
+      "text": "Moisés eligió jefes de mil, de cien, de cincuenta y de ___.",
+      "options": ["diez", "cinco", "veinte"],
+      "answer": "diez",
+      "explanation": "Éx 18:25: la escala de jueces propuesta por Jetró — de mil, de cien, de cincuenta y de diez — repartió la carga que agotaba a Moisés."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada número con su dato",
+      "pairs": [
+        { "en": "Doce", "es": "Fuentes del oasis de Elín" },
+        { "en": "Setenta", "es": "Palmeras del oasis de Elín" },
+        { "en": "Seiscientos mil", "es": "Hombres que salieron de Egipto" },
+        { "en": "Siete", "es": "Días de los panes ázimos" },
+        { "en": "Un ómer", "es": "Ración diaria de maná por persona" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Éx 13:3 · El memorial de la salida",
+      "direction": "es-es",
+      "tiles": ["Acordaos", "de", "de", "este", "día", "en", "que", "salisteis", "Egipto", "olvidad", "faraón"],
+      "answer": "Acordaos de este día en que salisteis de Egipto",
+      "explanation": "Éx 13:3: la salida de Egipto debe recordarse para siempre — este mandato del memorial funda la celebración anual de la Pascua."
+    }
+  ]
+}
