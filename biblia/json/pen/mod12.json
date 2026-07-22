@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod12",
+  "module": 12,
+  "title": "Deuteronomio II — La Alianza en Moab",
+  "subtitle": "Deuteronomio 12–34",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada precepto legal con su contenido",
+      "pairs": [
+        { "en": "El lugar que el Señor elija", "es": "Único santuario legítimo para el culto" },
+        { "en": "El profeta que incita a otros dioses", "es": "Debe ser ejecutado aunque cumpla señales" },
+        { "en": "El año de la remisión", "es": "Perdón de las deudas cada siete años" },
+        { "en": "El rey de Israel", "es": "No debe multiplicar caballos, mujeres, plata y oro" },
+        { "en": "Las ciudades de refugio", "es": "Protegen al homicida involuntario del vengador de sangre" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué debía hacer Israel con los lugares de culto de las naciones cananeas?",
+      "options": ["Destruirlos por completo, sin dejar rastro", "Reutilizarlos para el culto al Señor", "Dejarlos intactos como recuerdo histórico"],
+      "correct": 0,
+      "hint": "La ley no admite mezclar lugares paganos con el culto verdadero.",
+      "explanation": "Dt 12:2-3 manda demoler altares, estelas y quemar los postes de las naciones cananeas; Israel debía en cambio llevar sus ofrendas al lugar único que el Señor eligiera."
+    },
+    {
+      "type": "gap",
+      "text": "Buscaréis el lugar que el Señor eligiere para poner allí su ___.",
+      "options": ["nombre", "altar", "trono"],
+      "answer": "nombre",
+      "explanation": "Dt 12:5: la fórmula «poner allí su nombre» designa el único santuario legítimo, frente a los altares locales que debían destruirse."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 13:5 · La respuesta debida ante la tentación de los falsos profetas",
+      "direction": "es-es",
+      "tiles": ["Debéis", "ir", "en", "pos", "del", "Señor", "vuestro", "Dios", "siempre", "corazón"],
+      "answer": "Debéis ir en pos del Señor vuestro Dios",
+      "explanation": "Dt 13:5: frente a cualquier voz que incite a servir a otros dioses, la respuesta de Israel debe ser la fidelidad al Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué debía hacerse con un profeta que incitaba a servir a otros dioses, aunque cumpliera una señal?",
+      "options": ["Ser escuchado si su señal se cumplía", "Ser ejecutado, pues Dios ponía así a prueba la fidelidad del pueblo", "Ser expulsado del campamento sin más consecuencias"],
+      "correct": 1,
+      "hint": "La señal cumplida no lo salva: lo decisivo es a qué dios invita a seguir.",
+      "explanation": "Dt 13:2-6: ese profeta debía morir aunque acertara la señal o el prodigio, porque el Señor probaba así el amor de su pueblo por él."
+    },
+    {
+      "type": "gap",
+      "text": "No has de ___ las palabras de ese profeta o visionario soñador.",
+      "options": ["escuchar", "recordar", "temer"],
+      "answer": "escuchar",
+      "explanation": "Dt 13:4: aunque el profeta acierte una señal, sus palabras no deben escucharse si incitan a servir a otros dioses."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 15:11 · Una constatación realista sobre la pobreza",
+      "direction": "es-es",
+      "tiles": ["Nunca", "dejará", "de", "haber", "pobres", "en", "la", "tierra", "siempre", "ricos"],
+      "answer": "Nunca dejará de haber pobres en la tierra",
+      "explanation": "Dt 15:11: la ley no niega la pobreza, sino que manda por eso abrir la mano al hermano necesitado, incluso al acercarse el año de la remisión."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su función en la ley",
+      "pairs": [
+        { "en": "El esclavo hebreo liberado", "es": "Recibe bienes de despedida al séptimo año" },
+        { "en": "La copia de la ley del rey", "es": "Debe leerla todos los días de su vida" },
+        { "en": "El profeta que hable con arrogancia", "es": "Morirá si su palabra no se cumple" },
+        { "en": "El testigo falso", "es": "Recibe el mismo castigo que pretendía para el acusado" },
+        { "en": "El profeta como Moisés", "es": "El Señor pondrá sus palabras en su boca" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué NO podía multiplicar el rey de Israel, según Dt 17?",
+      "options": ["Sacerdotes y levitas para su corte", "Ciudades y fronteras de su reino", "Caballos, mujeres, plata y oro"],
+      "correct": 2,
+      "hint": "Es una lista de cuatro cosas que podrían desviar su corazón del Señor.",
+      "explanation": "Dt 17:16-17 prohíbe al rey multiplicar caballos, mujeres, plata y oro, para que su corazón no se engría ni se aparte del Señor."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor, tu Dios, te suscitará un profeta como yo. A él lo ___.",
+      "options": ["escuchareis", "seguiréis", "temeréis"],
+      "answer": "escuchareis",
+      "explanation": "Dt 18:15: el anuncio del futuro profeta semejante a Moisés; la tradición cristiana lo ha leído como preludio de Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 18:15 · El anuncio de un profeta semejante a Moisés",
+      "direction": "es-es",
+      "tiles": ["Un", "profeta", "como", "yo", "a", "él", "lo", "escuchareis", "Moisés", "siempre"],
+      "answer": "Un profeta como yo a él lo escuchareis",
+      "explanation": "Dt 18:15.18: la tradición cristiana ha leído aquí un anuncio velado de Cristo, el profeta definitivo que hablará en nombre de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién protegían las ciudades de refugio?",
+      "options": ["Al que mataba a su prójimo por accidente, sin odio previo", "A cualquier fugitivo que llegara antes que sus perseguidores", "Solamente a los sacerdotes y levitas acusados"],
+      "correct": 0,
+      "hint": "La clave para acogerse a esta protección es la ausencia de odio previo.",
+      "explanation": "Dt 19:4-6 protege al homicida involuntario del vengador de sangre; el homicida con premeditación era entregado igualmente a la muerte (Dt 19:11-12)."
+    },
+    {
+      "type": "gap",
+      "text": "Solo por la declaración de dos o tres ___ será firme una causa.",
+      "options": ["testigos", "jueces", "ancianos"],
+      "answer": "testigos",
+      "explanation": "Dt 19:15: la ley exige varios testigos para evitar condenas injustas basadas en una sola acusación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 19:21 · La ley del talión",
+      "direction": "es-es",
+      "tiles": ["Vida", "por", "vida", "ojo", "por", "ojo", "diente", "por", "diente", "mano", "pie"],
+      "answer": "Vida por vida ojo por ojo diente por diente",
+      "explanation": "Dt 19:21: el principio de proporcionalidad en el castigo, pensado para limitar la venganza, no para fomentarla."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su papel en la ley y la alianza",
+      "pairs": [
+        { "en": "La gavilla olvidada en el campo", "es": "Se deja para el emigrante, el huérfano y la viuda" },
+        { "en": "El monte Garizín", "es": "Desde allí se pronuncian las bendiciones" },
+        { "en": "El monte Ebal", "es": "Desde allí se pronuncian las maldiciones" },
+        { "en": "«Bendito serás...»", "es": "Fórmula repetida de las bendiciones por la obediencia" },
+        { "en": "«Maldito serás...»", "es": "Fórmula repetida de las maldiciones por la desobediencia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué mandaba la ley sobre la gavilla, las aceitunas o los racimos olvidados en la cosecha?",
+      "options": ["Recogerlos igualmente para el propietario", "Dejarlos para el emigrante, el huérfano y la viuda", "Repartirlos entre los sacerdotes del santuario"],
+      "correct": 1,
+      "hint": "Tres grupos vulnerables se benefician de este olvido intencionado.",
+      "explanation": "Dt 24:19-21: la gavilla, las aceitunas y los racimos olvidados se dejaban para el emigrante, el huérfano y la viuda."
+    },
+    {
+      "type": "gap",
+      "text": "No defraudarás el derecho del emigrante y del ___.",
+      "options": ["huérfano", "rey", "sacerdote"],
+      "answer": "huérfano",
+      "explanation": "Dt 24:17: junto con la viuda, el huérfano y el emigrante son los grupos que la ley protege de manera expresa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 24:22 · El motivo que fundamenta la compasión con el débil",
+      "direction": "es-es",
+      "tiles": ["Recuerda", "que", "fuiste", "esclavo", "en", "Egipto", "siempre", "libre"],
+      "answer": "Recuerda que fuiste esclavo en Egipto",
+      "explanation": "Dt 24:18.22: la memoria de la esclavitud en Egipto es, para el Deuteronomio, la razón última de la compasión con el emigrante, el huérfano y la viuda."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué monte se colocaban las tribus para pronunciar las bendiciones al entrar en la tierra?",
+      "options": ["El monte Ebal", "El monte Nebo", "El monte Garizín"],
+      "correct": 2,
+      "hint": "El monte vecino, el Ebal, se reservó para el gesto contrario.",
+      "explanation": "Dt 27:12-13: en el Garizín se colocaban las tribus para bendecir y en el Ebal para maldecir; el Nebo aparece más tarde, en la muerte de Moisés."
+    },
+    {
+      "type": "gap",
+      "text": "Bendito serás en la ciudad y bendito serás en el ___.",
+      "options": ["campo", "templo", "desierto"],
+      "answer": "campo",
+      "explanation": "Dt 28:3: primera fórmula de las bendiciones por la obediencia, repetida como maldición si el pueblo se aparta del Señor (Dt 28:16)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 28:6 · Una de las bendiciones por la obediencia",
+      "direction": "es-es",
+      "tiles": ["Bendito", "serás", "cuando", "entres", "y", "bendito", "serás", "cuando", "salgas", "Maldito", "siempre"],
+      "answer": "Bendito serás cuando entres y bendito serás cuando salgas",
+      "explanation": "Dt 28:6: fórmula que abarca toda la vida cotidiana; su reverso exacto —«maldito serás»— abre la lista de las maldiciones (Dt 28:19)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con el momento de la alianza en Moab",
+      "pairs": [
+        { "en": "Las llanuras de Moab", "es": "Lugar de la renovación de la alianza" },
+        { "en": "«Elige la vida»", "es": "Exhortación final de Moisés al pueblo" },
+        { "en": "Ciento veinte años", "es": "Edad de Moisés al dirigirse por última vez a Israel" },
+        { "en": "Josué, hijo de Nun", "es": "Recibe el encargo de introducir al pueblo en la tierra" },
+        { "en": "El cántico de Moisés", "es": "Escrito para ser testigo contra Israel en el futuro" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cada cuánto tiempo debía proclamarse la ley ante todo Israel, según Dt 31?",
+      "options": ["Cada siete años, en la fiesta de las Tiendas", "Cada año, en la fiesta de la Pascua", "Solo una vez, al entrar en la tierra"],
+      "correct": 0,
+      "hint": "Coincide con el mismo ciclo que el año de la remisión.",
+      "explanation": "Dt 31:10-11: cada siete años, durante la fiesta de las Tiendas, se proclamaba la ley ante todo Israel, incluidos los niños."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor anunció a Moisés que estaba cerca el día de su ___, y le mandó llamar a Josué.",
+      "options": ["muerte", "descanso", "viaje"],
+      "answer": "muerte",
+      "explanation": "Dt 31:14: Dios anuncia a Moisés la cercanía de su muerte y le ordena presentarse con Josué en la Tienda del Encuentro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 31:7-8 · El encargo solemne de Moisés a Josué",
+      "direction": "es-es",
+      "tiles": ["Sé", "fuerte", "y", "valiente", "no", "temas", "ni", "te", "acobardes", "siempre", "Josué"],
+      "answer": "Sé fuerte y valiente no temas ni te acobardes",
+      "explanation": "Dt 31:7-8.23: Moisés transmite a Josué, ante todo Israel, el mismo aliento que Dios le había dado a él, junto con la promesa de la presencia divina."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen usa el cántico de Moisés para describir el cuidado de Dios sobre Israel en el desierto?",
+      "options": ["Un pastor que apacienta su rebaño", "Un águila que cuida a sus polluelos", "Un río que riega el desierto"],
+      "correct": 1,
+      "hint": "Extiende sus alas para llevarlos sobre ellas.",
+      "explanation": "Dt 32:11: «como el águila incita a su nidada... así extendió sus alas, los tomó y los llevó sobre sus plumas», imagen del cuidado providencial de Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Descienda como lluvia mi doctrina, destile como ___ mi palabra.",
+      "options": ["rocío", "fuego", "miel"],
+      "answer": "rocío",
+      "explanation": "Dt 32:2: primeras palabras del cántico de Moisés, que compara su enseñanza con la lluvia y el rocío que fecundan la tierra."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 33:29 · La exclamación final de la bendición de Moisés a las tribus",
+      "direction": "es-es",
+      "tiles": ["Quién", "como", "tú", "pueblo", "salvado", "por", "el", "Señor", "nunca", "Israel"],
+      "answer": "Quién como tú pueblo salvado por el Señor",
+      "explanation": "Dt 33:29: Moisés cierra su bendición a las doce tribus proclamando la dicha única de un pueblo salvado y protegido por el Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se dice del lugar donde fue enterrado Moisés?",
+      "options": ["Que fue enterrado junto al Arca de la Alianza", "Que sus restos fueron llevados después a Jericó", "Que nadie hasta hoy ha conocido el lugar de su tumba"],
+      "correct": 2,
+      "hint": "El texto insiste en que el lugar sigue siendo un misterio.",
+      "explanation": "Dt 34:6: lo enterraron en el valle de Moab, frente a Bet Peor, y «hasta el día de hoy nadie ha conocido el lugar de su tumba»."
+    },
+    {
+      "type": "gap",
+      "text": "Nunca más hubo en Israel un profeta como Moisés, a quien el Señor trataba cara a ___.",
+      "options": ["cara", "solas", "diario"],
+      "answer": "cara",
+      "explanation": "Dt 34:10: epitafio final del Pentateuco, que subraya la cercanía única de Moisés con Dios antes de que Josué conduzca al pueblo a la tierra prometida."
+    }
+  ]
+}

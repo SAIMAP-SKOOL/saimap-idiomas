@@ -16,11 +16,11 @@
         { "n": 5,  "title": "Éxodo I — Moisés y las Plagas",           "es": "Éxodo I · Moisés y las Plagas (Éx 1–11)",     "file": "pen/mod05.json" },
         { "n": 6,  "title": "Éxodo II — La Pascua y el Mar Rojo",      "es": "Éxodo II · Pascua y Mar Rojo (Éx 12–18)",     "file": "pen/mod06.json" },
         { "n": 7,  "title": "Éxodo III — El Sinaí y la Alianza",       "es": "Éxodo III · Sinaí y Alianza (Éx 19–40)",      "file": "pen/mod07.json" },
-        { "n": 8,  "title": "Levítico — La Ley de Santidad",           "es": "Levítico · La Ley de Santidad" },
-        { "n": 9,  "title": "Números I — La Marcha por el Desierto",   "es": "Números I · La Marcha por el Desierto" },
-        { "n": 10, "title": "Números II — Rebeliones y Balaán",        "es": "Números II · Rebeliones y Balaán" },
-        { "n": 11, "title": "Deuteronomio I — El Discurso de Moisés",  "es": "Deuteronomio I · El Discurso de Moisés" },
-        { "n": 12, "title": "Deuteronomio II — La Alianza en Moab",    "es": "Deuteronomio II · Alianza en Moab" }
+        { "n": 8,  "title": "Levítico — La Ley de Santidad",           "es": "Levítico · La Ley de Santidad",               "file": "pen/mod08.json" },
+        { "n": 9,  "title": "Números I — La Marcha por el Desierto",   "es": "Números I · La Marcha por el Desierto",       "file": "pen/mod09.json" },
+        { "n": 10, "title": "Números II — Rebeliones y Balaán",        "es": "Números II · Rebeliones y Balaán",            "file": "pen/mod10.json" },
+        { "n": 11, "title": "Deuteronomio I — El Discurso de Moisés",  "es": "Deuteronomio I · El Discurso de Moisés",      "file": "pen/mod11.json" },
+        { "n": 12, "title": "Deuteronomio II — La Alianza en Moab",    "es": "Deuteronomio II · Alianza en Moab",           "file": "pen/mod12.json" }
       ]
     },
     { "code": "HIS", "name": "Libros Históricos",              "color": "#B5651D", "locked": true, "moduleCount": 16 },

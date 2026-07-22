@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod11",
+  "module": 11,
+  "title": "Deuteronomio I — El Discurso de Moisés",
+  "subtitle": "Deuteronomio 1–11",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su papel en Dt 1–3",
+      "pairs": [
+        { "en": "Moisés", "es": "Pronuncia el discurso final, ya en tierra de Moab" },
+        { "en": "Caleb, hijo de Jefone", "es": "El único explorador, junto a Josué, que sí entrará en la tierra" },
+        { "en": "Josué, hijo de Nun", "es": "Sucederá a Moisés al frente del pueblo" },
+        { "en": "Sijón", "es": "Rey de Jesbón, derrotado por Israel" },
+        { "en": "Og", "es": "Rey de Basán, el último de los gigantes refaítas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde se sitúa Moisés cuando pronuncia el largo discurso que ocupa casi todo el Deuteronomio?",
+      "options": ["En la tierra de Moab, más allá del Jordán", "En Egipto, antes de la salida", "En el monte Horeb, junto a la zarza"],
+      "correct": 0,
+      "hint": "Está a las puertas de la tierra prometida, pero todavía no la ha cruzado.",
+      "explanation": "Dt 1:1,5: Moisés se dirige a Israel «al otro lado del Jordán», en tierra de Moab, poco antes de morir sin entrar en la tierra prometida."
+    },
+    {
+      "type": "gap",
+      "text": "Once ___ hay desde el Horeb hasta Cadés Barnea, por el camino del monte Seír.",
+      "options": ["jornadas", "años", "meses"],
+      "answer": "jornadas",
+      "explanation": "Dt 1:2: la distancia se mide en once jornadas de camino; sin embargo, el pueblo tardará 40 años en llegar por su falta de confianza."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió después de que el pueblo se negara a subir a la tierra tras el informe de los exploradores?",
+      "options": ["Dios permitió entrar solo a los ancianos del pueblo", "Moisés destruyó las tablas de la Ley ante el pueblo", "Esa generación quedó condenada a vagar 40 años por el desierto"],
+      "correct": 2,
+      "hint": "El castigo alarga toda una generación el tiempo en el desierto.",
+      "explanation": "Dt 1:34-36: por no haber confiado, nadie de esa generación entraría en la tierra prometida —salvo Caleb y Josué— y deberían vagar 40 años por el desierto."
+    },
+    {
+      "type": "gap",
+      "text": "«Excepto Caleb, hijo de Jefone; él la ___.»",
+      "options": ["verá", "gobernará", "fundará"],
+      "answer": "verá",
+      "explanation": "Dt 1:36: de toda la generación que salió de Egipto, solo Caleb entrará en la tierra prometida, por haber seguido fielmente al Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "Según Dt 1, ¿qué dos hombres de esa generación sí entrarían en la tierra prometida?",
+      "options": ["Aarón y Josué, hijo de Nun", "Caleb, hijo de Jefone, y Josué, hijo de Nun", "Caleb, hijo de Jefone, y Finés"],
+      "correct": 1,
+      "hint": "Uno de los dos sucederá a Moisés al frente del pueblo.",
+      "explanation": "Dt 1:36,38: solo Caleb, hijo de Jefone, y Josué, hijo de Nun, verán y entrarán en la tierra, por haber confiado en el Señor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su papel en el itinerario del desierto",
+      "pairs": [
+        { "en": "Horeb", "es": "Punto de partida del itinerario" },
+        { "en": "Cadés Barnea", "es": "Adonde llegan tras once jornadas desde Horeb" },
+        { "en": "Torrente Zéred", "es": "Se cruza al cumplirse los 38 años de peregrinación" },
+        { "en": "Basán", "es": "Territorio conquistado al rey Og" },
+        { "en": "Moab", "es": "Donde Moisés pronuncia su discurso final" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El tiempo que estuvieron caminando desde Cadés Barnea hasta el torrente Zéred fue de treinta y ocho ___.",
+      "options": ["años", "meses", "jornadas"],
+      "answer": "años",
+      "explanation": "Dt 2:14: sumados a los años ya pasados, se completan los 40 de peregrinación anunciados como castigo por la falta de confianza en Cadés Barnea."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué dos pueblos evitó atacar Israel de camino a Canaán, por orden expresa del Señor?",
+      "options": ["Basán y Galaad", "Jesbón y Basán", "Edom y Moab"],
+      "correct": 2,
+      "hint": "Eran pueblos emparentados con Israel, descendientes de Esaú y de Lot.",
+      "explanation": "Dt 2:4-9: el Señor prohíbe hostigar a Edom (descendencia de Esaú) y a Moab (descendencia de Lot); en cambio, sí combatirán después a Sijón y a Og."
+    },
+    {
+      "type": "gap",
+      "text": "El lecho de Og, rey de Basán, era un lecho de ___.",
+      "options": ["hierro", "piedra", "bronce"],
+      "answer": "hierro",
+      "explanation": "Dt 3:11: se recordaba como prueba de la estatura de Og, el último de los gigantes refaítas, un lecho de hierro de más de cuatro metros de largo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se recuerda de Og, el rey de Basán derrotado por Israel?",
+      "options": ["Que era el último superviviente de los gigantes refaítas", "Que dejó pasar a Israel por su territorio en paz", "Que gobernaba también sobre Edom y Moab"],
+      "correct": 0,
+      "hint": "Se conserva un objeto suyo de tamaño descomunal como prueba.",
+      "explanation": "Dt 3:11: Og era el último de los refaítas, una estirpe de gigantes; de él se recuerda su lecho de hierro, de más de cuatro metros de largo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 5:6 · El inicio del Decálogo repetido por Moisés",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "el", "Señor", "tu", "Dios", "único", "Rey"],
+      "answer": "Yo soy el Señor tu Dios",
+      "explanation": "Dt 5:6: el Decálogo se abre, como en Éxodo, con la autopresentación del Señor como quien sacó a Israel de la esclavitud de Egipto."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor es Dios arriba en el cielo y abajo en la tierra; no hay ___.",
+      "options": ["otro", "ídolos", "rival"],
+      "answer": "otro",
+      "explanation": "Dt 4:39: la afirmación central de la unicidad divina en Deuteronomio, que prepara el terreno para el Shemá del capítulo 6."
+    },
+    {
+      "type": "quiz",
+      "q": "En el Decálogo de Dt 5, ¿qué motivo se da para guardar el sábado, distinto del de Éxodo?",
+      "options": ["El descanso de Dios tras la creación del mundo", "El recuerdo de la esclavitud y la liberación de Egipto", "La futura entrada en la tierra prometida"],
+      "correct": 1,
+      "hint": "Mira hacia la propia historia de esclavitud del pueblo, no hacia el origen del mundo.",
+      "explanation": "Dt 5:15, a diferencia de Ex 20:11 (que apela a la creación), funda el descanso sabático en el recuerdo de haber sido esclavos en Egipto."
+    },
+    {
+      "type": "gap",
+      "text": "Recuerda que fuiste esclavo en la tierra de ___ y que el Señor te sacó de allí con mano fuerte.",
+      "options": ["Egipto", "Basán", "Moab"],
+      "answer": "Egipto",
+      "explanation": "Dt 5:15: el mandamiento del sábado se funda en el recuerdo de la esclavitud y la liberación, a diferencia del motivo de la creación en Éxodo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pidió el pueblo a Moisés tras escuchar la voz de Dios desde el fuego, en el Horeb?",
+      "options": ["Que Aarón hablara en su nombre a partir de entonces", "Que construyeran un altar de piedra en su lugar", "Que Moisés escuchara a Dios y luego les transmitiera sus palabras"],
+      "correct": 2,
+      "hint": "El pueblo teme morir si sigue oyendo la voz de Dios directamente.",
+      "explanation": "Dt 5:23-27: atemorizado ante la voz divina, el pueblo pide que sea Moisés quien escuche al Señor y después les comunique todo lo que él diga."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 6:4 · El Shemá, la proclamación central de la fe de Israel",
+      "direction": "es-es",
+      "tiles": ["Escucha", "Israel", "el", "Señor", "es", "nuestro", "Dios", "uno", "solo"],
+      "answer": "Escucha Israel el Señor es nuestro Dios",
+      "explanation": "Dt 6:4: el Shemá Israel, la profesión de fe más repetida del judaísmo, proclama que el Señor es un Dios único; Jesús la cita como el mayor mandamiento (Mc 12:29)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 6:5 · El gran mandamiento",
+      "direction": "es-es",
+      "tiles": ["Amarás", "al", "Señor", "tu", "Dios", "con", "todo", "tu", "corazón", "alma", "fuerzas"],
+      "answer": "Amarás al Señor tu Dios con todo tu corazón",
+      "explanation": "Dt 6:5: junto al Shemá, este versículo formula el mandamiento del amor total a Dios —corazón, alma y fuerzas— que Jesús llamará «el más importante» (Mc 12:30)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada mandato de Dt 6 con lo que originó",
+      "pairs": [
+        { "en": "«Escucha, Israel»", "es": "Proclamación de la unicidad de Dios (el Shemá)" },
+        { "en": "Amar a Dios con corazón, alma y fuerzas", "es": "El gran mandamiento" },
+        { "en": "Atarlas a la mano y la frente", "es": "Origen de las filacterias" },
+        { "en": "Escribirlas en las jambas de la casa", "es": "Origen de la mezuzá" },
+        { "en": "Repetirlas a los hijos", "es": "Mandato de transmitir la fe a la siguiente generación" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Las atarás a tu muñeca como una señal; serán en tu ___ una marca.",
+      "options": ["frente", "cuello", "pecho"],
+      "answer": "frente",
+      "explanation": "Dt 6:8: de este mandato nace la tradición judía de las filacterias, pequeñas cajas con el texto de la Ley atadas al brazo y a la frente."
+    },
+    {
+      "type": "gap",
+      "text": "Las escribirás en las ___ de tu casa y en tus portales.",
+      "options": ["jambas", "paredes", "puertas"],
+      "answer": "jambas",
+      "explanation": "Dt 6:9: de aquí procede la mezuzá, el estuche con el texto del Shemá que se fija en el marco de las puertas en los hogares judíos."
+    },
+    {
+      "type": "quiz",
+      "q": "Según Dt 7, ¿por qué eligió el Señor a Israel como su pueblo?",
+      "options": ["Por ser el pueblo más numeroso de la tierra", "Por puro amor y por fidelidad al juramento hecho a los patriarcas", "Por su fuerza militar frente a los demás pueblos"],
+      "correct": 1,
+      "hint": "El texto insiste en que Israel era, más bien, el más pequeño de los pueblos.",
+      "explanation": "Dt 7:6-8: la elección no se debe al mérito ni al número de Israel —«el pueblo más pequeño»— sino al amor gratuito del Señor y a su fidelidad a la promesa hecha a los patriarcas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 7:6 · El fundamento de la elección de Israel",
+      "direction": "es-es",
+      "tiles": ["Eres", "un", "pueblo", "santo", "para", "el", "Señor", "tu", "Dios", "elegido", "grande"],
+      "answer": "Eres un pueblo santo para el Señor tu Dios",
+      "explanation": "Dt 7:6: la santidad de Israel no es un logro propio, sino una condición que recibe de haber sido elegido por el Señor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 8:3 · La lección del maná en el desierto",
+      "direction": "es-es",
+      "tiles": ["No", "solo", "de", "pan", "vive", "el", "hombre", "agua", "siempre"],
+      "answer": "No solo de pan vive el hombre",
+      "explanation": "Dt 8:3: Dios alimentó a Israel con el maná para enseñarle que se vive también de lo que sale de la boca de Dios; Jesús cita esta frase al ser tentado en el desierto (Mt 4:4)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionó Moisés al bajar del monte y encontrar el becerro de fundición?",
+      "options": ["Rompió las tablas de la Ley ante los ojos del pueblo", "Ofreció sacrificios junto al pueblo ante el becerro", "Pidió a Aarón que destruyera él mismo el ídolo"],
+      "correct": 0,
+      "hint": "Su gesto expresa que la alianza recién sellada acababa de romperse.",
+      "explanation": "Dt 9:16-17: al ver el becerro que se habían fabricado en Horeb, Moisés arrojó las tablas de la Ley y las hizo pedazos ante el pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 9:13 · Cómo describe el Señor al pueblo tras el episodio del becerro",
+      "direction": "es-es",
+      "tiles": ["Este", "pueblo", "es", "un", "pueblo", "de", "dura", "cerviz", "fiel", "obediente"],
+      "answer": "Este pueblo es un pueblo de dura cerviz",
+      "explanation": "Dt 9:13: expresión hebrea para «obstinado, testarudo»; describe la reacción del Señor ante la idolatría del becerro fabricado en Horeb."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 9:17 · El gesto de Moisés al ver el becerro de fundición",
+      "direction": "es-es",
+      "tiles": ["Las", "arrojé", "con", "las", "dos", "manos", "y", "las", "estrellé", "tablas", "rompí"],
+      "answer": "Las arrojé con las dos manos y las estrellé",
+      "explanation": "Dt 9:17: Moisés describe cómo destrozó las tablas de la Ley al comprobar que el pueblo había hecho el becerro de fundición mientras él estaba en el monte."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su lugar en el relato",
+      "pairs": [
+        { "en": "El becerro de fundición", "es": "Se fabrica en Horeb mientras Moisés está en el monte" },
+        { "en": "Las tablas de la Ley", "es": "Moisés las rompe al ver la idolatría del pueblo" },
+        { "en": "Monte Garizín", "es": "Monte desde el que se proclamará la bendición" },
+        { "en": "Monte Ebal", "es": "Monte desde el que se proclamará la maldición" },
+        { "en": "El informe de los exploradores", "es": "Provoca que el pueblo se niegue a entrar en la tierra" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Darás la bendición en el monte ___ y la maldición en el monte Ebal.",
+      "options": ["Garizín", "Sinaí", "Nebo"],
+      "answer": "Garizín",
+      "explanation": "Dt 11:29: al entrar en la tierra, Israel proclamará solemnemente la bendición y la maldición desde estos dos montes, frente a frente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dt 11:26 · El resumen del discurso: la propuesta ante Israel",
+      "direction": "es-es",
+      "tiles": ["Mira", "yo", "os", "propongo", "hoy", "bendición", "y", "maldición", "ley", "vida"],
+      "answer": "Mira yo os propongo hoy bendición y maldición",
+      "explanation": "Dt 11:26: esta disyuntiva —bendición si se obedece, maldición si no— resume el sentido de todo el discurso de Moisés y anuncia lo que se desarrollará en capítulos posteriores."
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "id": "pen-mod10",
+  "module": 10,
+  "title": "Números II — Rebeliones y Balaán",
+  "subtitle": "Números 20–36",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar o personaje con su papel en Números 20",
+      "pairs": [
+        { "en": "Meribá", "es": "Fuente donde Moisés golpeó la roca dos veces" },
+        { "en": "Edón", "es": "Reino que negó a Israel el paso por su territorio" },
+        { "en": "Monte Hor", "es": "Lugar donde murió Aarón" },
+        { "en": "Eleazar", "es": "Hijo de Aarón que heredó sus ornamentos sacerdotales" },
+        { "en": "Cadés", "es": "Punto de partida de Israel hacia el monte Hor" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué no entrarían Moisés y Aarón en la tierra prometida, según el episodio de las aguas de Meribá?",
+      "options": [
+        "Por golpear la roca con la vara en vez de hablarle, sin manifestar la confianza que Dios pedía",
+        "Por haber permitido que Edón cerrara el paso a Israel sin oponer resistencia",
+        "Por haber delegado en Eleazar la tarea de sacar agua de la roca"
+      ],
+      "correct": 0,
+      "hint": "El reproche del Señor tiene que ver con el gesto de Moisés ante la roca, no con una batalla.",
+      "explanation": "Nm 20:11-12: Moisés golpeó la roca dos veces con la vara en vez de hablarle como el Señor había mandado; por no confiar y no mostrar su santidad ante el pueblo, ni él ni Aarón entrarían en la tierra prometida."
+    },
+    {
+      "type": "gap",
+      "text": "Moisés alzó la mano y golpeó la roca con la vara ___ veces.",
+      "options": ["dos", "tres", "siete"],
+      "answer": "dos",
+      "explanation": "Nm 20:11: el golpe repetido a la roca, en vez de la palabra que Dios había pedido, es la falta que le costará a Moisés no entrar en la tierra prometida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 20:12 · La sentencia del Señor a Moisés y Aarón tras Meribá",
+      "direction": "es-es",
+      "tiles": ["No", "haréis", "entrar", "a", "esta", "comunidad", "en", "la", "tierra", "vosotros", "Egipto"],
+      "answer": "No haréis entrar a esta comunidad en la tierra",
+      "explanation": "Nm 20:12: por no haber confiado en el Señor ante la asamblea, Moisés y Aarón no conducirían ellos mismos al pueblo hasta la tierra prometida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo respondió el rey de Edón cuando Israel le pidió cruzar pacíficamente su territorio?",
+      "options": [
+        "Le abrió camino libre a cambio de un tributo en ganado",
+        "Se negó y salió a su encuentro con un gran despliegue de fuerzas",
+        "Aceptó, pero solo si Israel cruzaba de noche y en silencio"
+      ],
+      "correct": 1,
+      "hint": "Su negativa obligó a Israel a cambiar de ruta en vez de enfrentarse a él.",
+      "explanation": "Nm 20:18-21: el rey de Edón rechazó el paso e Israel, para evitar el conflicto, prefirió dar un rodeo por su territorio."
+    },
+    {
+      "type": "gap",
+      "text": "Como Edón negó el paso a Israel por su territorio, ellos dieron un ___.",
+      "options": ["rodeo", "paso", "salto"],
+      "answer": "rodeo",
+      "explanation": "Nm 20:21: ante la negativa de Edón, Israel evitó el enfrentamiento armado rodeando su territorio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 20:18 · La respuesta del rey de Edón a Israel",
+      "direction": "es-es",
+      "tiles": ["No", "pasarás", "por", "mi", "tierra", "sí", "puedes", "entrar"],
+      "answer": "No pasarás por mi tierra",
+      "explanation": "Nm 20:18: la negativa tajante del rey de Edón obliga a Israel a buscar otro camino hacia la tierra prometida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada nombre con su papel en Números 21",
+      "pairs": [
+        { "en": "La serpiente de bronce", "es": "Remedio alzado sobre un asta tras la plaga de serpientes" },
+        { "en": "Sijón", "es": "Rey amorreo derrotado y despojado de Jesbón" },
+        { "en": "Og", "es": "Rey de Basán derrotado en Edreí" },
+        { "en": "Jesbón", "es": "Ciudad que había sido del rey Sijón" },
+        { "en": "Basán", "es": "Región que gobernaba el rey Og" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué debía hacer quien había sido mordido por una serpiente para sanar, tras la plaga de serpientes?",
+      "options": [
+        "Beber agua de la fuente de Meribá",
+        "Ofrecer un sacrificio en el altar de Aarón",
+        "Mirar a la serpiente de bronce alzada en el estandarte"
+      ],
+      "correct": 2,
+      "hint": "El remedio no es una bebida ni una ofrenda, sino un gesto de mirar.",
+      "explanation": "Nm 21:8-9: Moisés alzó una serpiente de bronce en un estandarte; quien la miraba tras ser mordido quedaba sano."
+    },
+    {
+      "type": "gap",
+      "text": "Moisés hizo una serpiente de ___ y la colocó en un estandarte.",
+      "options": ["bronce", "piedra", "madera"],
+      "answer": "bronce",
+      "explanation": "Nm 21:9: la serpiente de bronce, alzada como remedio visible, sanaba a quien la miraba tras ser mordido."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 21:8 · La orden del Señor tras la plaga de serpientes",
+      "direction": "es-es",
+      "tiles": ["Haz", "una", "serpiente", "abrasadora", "y", "colócala", "en", "un", "estandarte", "escóndela", "destrúyela"],
+      "answer": "Haz una serpiente abrasadora y colócala en un estandarte",
+      "explanation": "Nm 21:8: el remedio que Dios ordena no elimina el peligro, sino que pide mirarlo de frente, alzado como signo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tuvieron en común las reacciones de Sijón, rey de los amorreos, y Og, rey de Basán, ante Israel?",
+      "options": [
+        "Ambos salieron a la guerra contra Israel y fueron derrotados",
+        "Ambos aceptaron negociar el paso a cambio de tributo",
+        "Sijón aceptó el paso, pero Og se negó y huyó"
+      ],
+      "correct": 0,
+      "hint": "Ninguno de los dos dejó pasar a Israel en paz.",
+      "explanation": "Nm 21:21-25 y 21:33-35: tanto Sijón como Og rechazaron a Israel y le presentaron batalla; ambos fueron derrotados y su tierra pasó a manos de Israel."
+    },
+    {
+      "type": "gap",
+      "text": "Og, rey de ___, salió al encuentro de Israel con toda su tropa en Edreí.",
+      "options": ["Basán", "Moab", "Madián"],
+      "answer": "Basán",
+      "explanation": "Nm 21:33: Og, rey de Basán, presentó batalla a Israel en Edreí y fue derrotado igual que antes lo había sido Sijón."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada nombre con su papel en Números 22",
+      "pairs": [
+        { "en": "Balac", "es": "Rey de Moab, hijo de Sipor" },
+        { "en": "Balaán", "es": "Adivino de Petor contratado para maldecir a Israel" },
+        { "en": "La burra de Balaán", "es": "Vio al ángel del Señor antes que su dueño" },
+        { "en": "El ángel del Señor", "es": "Se plantó en el camino con la espada desenvainada" },
+        { "en": "Los ancianos de Moab y Madián", "es": "Llevaron a Balaán la paga del vaticinio" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Balaán respondió a los siervos de Balac: aunque me diera su palacio lleno de plata y oro, no podría quebrantar la orden del ___.",
+      "options": ["Señor", "rey", "pueblo"],
+      "answer": "Señor",
+      "explanation": "Nm 22:18: desde el principio del episodio, Balaán deja claro que solo puede decir lo que Dios le permita, por muchos honores que Balac le ofrezca."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 22:12 · Lo que Dios dice a Balaán sobre Israel",
+      "direction": "es-es",
+      "tiles": ["No", "maldigas", "a", "ese", "pueblo", "porque", "es", "bendito", "maldito", "bendice"],
+      "answer": "No maldigas a ese pueblo porque es bendito",
+      "explanation": "Nm 22:12: antes de que Balaán emprenda el viaje, Dios ya le adelanta que Israel no puede ser maldecido, porque es un pueblo bendito."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué vio la burra de Balaán en el camino que su dueño no percibía?",
+      "options": [
+        "Un oasis con agua en medio del desierto",
+        "Al ángel del Señor con la espada desenvainada",
+        "Las tropas de Balac saliendo a su encuentro"
+      ],
+      "correct": 1,
+      "hint": "El animal reacciona tres veces ante algo que Balaán solo verá al final del episodio.",
+      "explanation": "Nm 22:23-31: la burra ve tres veces al ángel del Señor y se aparta del camino; solo al final Dios abre también los ojos de Balaán."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor abrió la boca de la ___, que dijo a Balaán: «¿Qué te he hecho yo?».",
+      "options": ["burra", "serpiente", "paloma"],
+      "answer": "burra",
+      "explanation": "Nm 22:28: el episodio más singular de todo el ciclo de Balaán — el animal habla para reprochar a su dueño los golpes recibidos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 22:28 · La pregunta de la burra a Balaán",
+      "direction": "es-es",
+      "tiles": ["Qué", "te", "he", "hecho", "yo", "para", "que", "me", "apalees", "muerda", "empuje"],
+      "answer": "Qué te he hecho yo para que me apalees",
+      "explanation": "Nm 22:28: el Señor abre la boca de la burra para que reproche a Balaán los tres golpes recibidos sin motivo."
+    },
+    {
+      "type": "gap",
+      "text": "Balaán respondió a Balac: «¿No te dije que haré todo lo que me diga el ___?».",
+      "options": ["Señor", "rey", "pueblo"],
+      "answer": "Señor",
+      "explanation": "Nm 23:26: pese a la insistencia de Balac, Balaán repite que solo puede pronunciar lo que Dios pone en su boca — el núcleo de todo el ciclo de los oráculos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Balaán en su último oráculo sobre el futuro de Israel?",
+      "options": [
+        "Que Israel quedará sometido a Moab para siempre",
+        "Que Balac se convertirá al Dios de Israel",
+        "Que avanzará una estrella de Jacob y surgirá un cetro en Israel"
+      ],
+      "correct": 2,
+      "hint": "El oráculo mira hacia un futuro lejano, no hacia el presente de Balac.",
+      "explanation": "Nm 24:17: la tradición cristiana ha leído en esta «estrella de Jacob» un anuncio mesiánico, del mismo modo que en el protoevangelio de Génesis."
+    },
+    {
+      "type": "gap",
+      "text": "«Avanza una estrella de ___, y surge un cetro de Israel».",
+      "options": ["Jacob", "Moab", "Edón"],
+      "answer": "Jacob",
+      "explanation": "Nm 24:17: uno de los oráculos más citados de todo el Antiguo Testamento, pronunciado por un adivino pagano al que Dios usó para bendecir."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 24:17 · El oráculo mesiánico de Balaán",
+      "direction": "es-es",
+      "tiles": ["Avanza", "una", "estrella", "de", "Jacob", "cetro", "Israel"],
+      "answer": "Avanza una estrella de Jacob",
+      "explanation": "Nm 24:17: aunque contratado para maldecir, Balaán termina anunciando el futuro esplendor de Israel bajo la imagen de una estrella."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Pinjás, nieto de Aarón, para detener la plaga desatada en el episodio del Baal de Peor?",
+      "options": [
+        "Atravesó con su lanza a los dos responsables del pecado",
+        "Rezó cuarenta días y cuarenta noches junto a la Tienda",
+        "Ofreció un sacrificio de expiación ante toda la comunidad"
+      ],
+      "correct": 0,
+      "hint": "Su gesto es tan directo como violento, y el texto lo llama «celo».",
+      "explanation": "Nm 25:7-8: Pinjás atraviesa con su lanza al israelita y a la mujer madianita que lo acompañaba; la plaga se detiene y Dios le concede una alianza de paz."
+    },
+    {
+      "type": "gap",
+      "text": "Por haber sentido celo de su Dios, el Señor concedió a Pinjás su alianza de ___.",
+      "options": ["paz", "guerra", "silencio"],
+      "answer": "paz",
+      "explanation": "Nm 25:12-13: a Pinjás y a su descendencia se les promete un sacerdocio perpetuo, en pago de su celo por la fidelidad de Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada nombre con su papel en Números 25–36",
+      "pairs": [
+        { "en": "Segundo censo", "es": "Nuevo recuento de Israel antes de repartir la tierra" },
+        { "en": "Las hijas de Selofejad", "es": "Reclamaron heredar la tierra de su padre sin hijos varones" },
+        { "en": "Josué", "es": "Sucesor de Moisés al frente del pueblo" },
+        { "en": "Las ciudades de asilo", "es": "Refugio legal para quien mataba a otro sin intención" },
+        { "en": "El Baal de Peor", "es": "Culto moabita al que Israel se unió, origen de la plaga" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 26:2 · La orden de repetir el censo camino de la tierra prometida",
+      "direction": "es-es",
+      "tiles": ["Haced", "el", "censo", "de", "toda", "la", "comunidad", "tribu", "ejército"],
+      "answer": "Haced el censo de toda la comunidad",
+      "explanation": "Nm 26: tras la muerte de la generación que salió de Egipto, un nuevo censo cuenta a quienes entrarán en la tierra prometida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pidieron las hijas de Selofejad a Moisés, al no tener su padre hijos varones?",
+      "options": [
+        "Que se anulara el reparto de la tierra por sorteo",
+        "Heredar ellas mismas la parte de la tierra de su padre",
+        "Que su padre fuera recordado con un altar conmemorativo"
+      ],
+      "correct": 1,
+      "hint": "No piden dinero ni honores, sino algo muy concreto sobre la heredad de su padre.",
+      "explanation": "Nm 27:1-7: Majlá, Noá, Joglá, Milcá y Tirsá piden heredar la tierra de su padre Selofejad, muerto sin hijos varones; el Señor les da la razón. Más tarde (Nm 36) se les pedirá casarse dentro de su propia tribu para que la heredad no cambie de tribu."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 27:18 · La orden del Señor a Moisés sobre su sucesor",
+      "direction": "es-es",
+      "tiles": ["Toma", "a", "Josué", "hijo", "de", "Nun", "Caleb", "Eleazar"],
+      "answer": "Toma a Josué hijo de Nun",
+      "explanation": "Nm 27:18-23: Josué, «hombre en quien está el espíritu», recibe ante el sacerdote Eleazar y toda la comunidad parte de la autoridad de Moisés."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Para qué servían las ciudades de asilo que Israel debía establecer en la tierra prometida?",
+      "options": [
+        "Para almacenar el grano recogido en cada cosecha anual",
+        "Para alojar a los peregrinos que iban al santuario central",
+        "Para que se refugiara quien había matado a otro sin intención"
+      ],
+      "correct": 2,
+      "hint": "No es un castigo, sino una protección legal mientras se resuelve el caso.",
+      "explanation": "Nm 35:11-15: las seis ciudades de asilo protegían de la venganza inmediata al homicida involuntario, hasta que la comunidad lo juzgara con justicia."
+    }
+  ]
+}

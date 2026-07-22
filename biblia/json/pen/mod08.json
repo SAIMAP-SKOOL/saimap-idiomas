@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod08",
+  "module": 8,
+  "title": "Levítico — La Ley de Santidad",
+  "subtitle": "Levítico 1–27",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada tipo de sacrificio con lo que lo caracteriza",
+      "pairs": [
+        { "en": "Holocausto", "es": "Se quema entero sobre el altar" },
+        { "en": "Oblación vegetal", "es": "Flor de harina con aceite e incienso" },
+        { "en": "Sacrificio de comunión", "es": "Su carne se comparte en un banquete" },
+        { "en": "Sacrificio expiatorio", "es": "Repara el pecado cometido por ignorancia" },
+        { "en": "Sacrificio de reparación", "es": "Restituye lo defraudado más una quinta parte" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se hacía con la víctima en el holocausto?",
+      "options": ["Se repartía entre el sacerdote y el oferente", "Se quemaba entera sobre el altar", "Solo se quemaba la grasa y las entrañas"],
+      "correct": 1,
+      "hint": "Es el único de los sacrificios del que nada se guarda para comer.",
+      "explanation": "Lv 1:9: el holocausto se quema por completo sobre el altar, «una oblación de suavísimo aroma». En el sacrificio de comunión se reparte la carne, y en el expiatorio solo se queman la grasa y ciertos órganos."
+    },
+    {
+      "type": "gap",
+      "text": "Es un holocausto, una oblación de suavísimo ___ que aplaca al Señor.",
+      "options": ["aroma", "humo", "fuego"],
+      "answer": "aroma",
+      "explanation": "Lv 1:9. Esta fórmula cierra la descripción de cada tipo de holocausto, sea de ganado mayor, menor o de aves."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lv 1:9 · Fórmula que cierra la descripción del holocausto",
+      "direction": "es-es",
+      "tiles": ["Oblación", "de", "suavísimo", "aroma", "que", "aplaca", "al", "Señor", "olor", "fuego"],
+      "answer": "Oblación de suavísimo aroma que aplaca al Señor",
+      "explanation": "Lv 1:9. Esta expresión se repite tras cada tipo de holocausto y también en la oblación vegetal y el sacrificio de comunión."
+    },
+    {
+      "type": "gap",
+      "text": "En el sacrificio de comunión se quema sobre el altar la grasa, los riñones y el lóbulo del ___.",
+      "options": ["hígado", "corazón", "estómago"],
+      "answer": "hígado",
+      "explanation": "Lv 3:4. Se quema la grasa, los dos riñones y el lóbulo del hígado; el resto de la carne se comía en un banquete compartido entre sacerdotes y oferente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Moisés antes de vestir a Aarón con las vestiduras sacerdotales?",
+      "options": ["Le impuso las manos sobre la cabeza", "Lo ungió con la sangre del novillo", "Lo bañó"],
+      "correct": 2,
+      "hint": "Es un gesto de purificación previo a la vestición, no todavía la unción.",
+      "explanation": "Lv 8:6-7: Moisés bañó primero a Aarón y a sus hijos, y solo después les impuso las vestiduras; la unción con el óleo llega más adelante en el mismo rito (Lv 8:12)."
+    },
+    {
+      "type": "gap",
+      "text": "Le impuso el pectoral y metió en él los urim y los ___.",
+      "options": ["tumim", "querubines", "efod"],
+      "answer": "tumim",
+      "explanation": "Lv 8:8. El pectoral que Moisés impuso a Aarón llevaba los urim y los tumim, usados para discernir la voluntad de Dios en ciertas decisiones."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con lo que sucedió en la consagración y el fuego profano",
+      "pairs": [
+        { "en": "Moisés", "es": "Ofició la consagración de Aarón y sus hijos" },
+        { "en": "Aarón", "es": "Vestido con el efod, el pectoral y el turbante santo" },
+        { "en": "Nadab y Abihú", "es": "Ofrecieron un fuego profano y murieron" },
+        { "en": "Misael y Elsafán", "es": "Retiraron los cuerpos del Santuario" },
+        { "en": "Eleazar e Itamar", "es": "Sacerdotes supervivientes que continuaron el servicio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ofrecieron Nadab y Abihú que provocó su muerte?",
+      "options": ["Un fuego profano que el Señor no les había mandado", "Un sacrificio de comunión sin sal", "Una oblación de harina sin aceite"],
+      "correct": 0,
+      "hint": "El problema no fue la materia de la ofrenda, sino que Dios no la había mandado.",
+      "explanation": "Lv 10:1-2: Nadab y Abihú, hijos de Aarón, ofrecieron incienso con un fuego «profano, que él no les había mandado», y un fuego salido de la presencia del Señor los devoró."
+    },
+    {
+      "type": "gap",
+      "text": "Nadab y Abihú ofrecieron ante el Señor un fuego ___, que él no les había mandado.",
+      "options": ["profano", "sagrado", "nuevo"],
+      "answer": "profano",
+      "explanation": "Lv 10:1. El texto insiste en que el fuego era «profano»: no impuro por su materia, sino no ordenado por el Señor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lv 10:1-2 · La muerte de Nadab y Abihú",
+      "direction": "es-es",
+      "tiles": ["un", "fuego", "que", "los", "devoró", "y", "murieron", "salió", "altar", "incienso"],
+      "answer": "un fuego que los devoró y murieron",
+      "explanation": "Lv 10:2. Nadab y Abihú murieron fulminados ante el Santuario al ofrecer un fuego que Dios no había mandado, mostrando la seriedad del culto sacerdotal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dos condiciones debía cumplir un animal terrestre para poder comerse?",
+      "options": ["Vivir en el desierto y tener plumas", "Tener la pezuña partida y rumiar", "Ser doméstico y de color blanco"],
+      "correct": 1,
+      "hint": "El cerdo, por ejemplo, solo cumple una de las dos condiciones.",
+      "explanation": "Lv 11:3: son puros los animales que tienen la pezuña partida Y rumian; si falta una de las dos condiciones, como en el cerdo o el camello, el animal es impuro."
+    },
+    {
+      "type": "gap",
+      "text": "El cerdo tiene la pezuña partida, pero no ___.",
+      "options": ["rumia", "respira", "bala"],
+      "answer": "rumia",
+      "explanation": "Lv 11:7. El cerdo cumple solo uno de los dos criterios de pureza (pezuña partida) y no el otro (rumiar), por lo que Levítico lo declara impuro."
+    },
+    {
+      "type": "quiz",
+      "q": "Según Lv 12, ¿cuánto duraba en total el periodo de purificación tras el nacimiento de una niña, comparado con el de un niño?",
+      "options": ["La mitad de días que por un niño", "Exactamente el mismo número de días", "El doble de días que por un niño"],
+      "correct": 2,
+      "hint": "Compara los 40 días totales por un niño con los días fijados para una niña.",
+      "explanation": "Lv 12:2-5: por un niño la purificación total dura 40 días (7+33); por una niña, 80 días (14+66) — el doble."
+    },
+    {
+      "type": "gap",
+      "text": "Tras los días de purificación, la madre presentará un cordero como holocausto y una ___ como sacrificio expiatorio.",
+      "options": ["tórtola", "codorniz", "perdiz"],
+      "answer": "tórtola",
+      "explanation": "Lv 12:6. La madre ofrecía un cordero de un año como holocausto y un pichón o una tórtola como sacrificio expiatorio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién debía examinar una llaga sospechosa de lepra?",
+      "options": ["El sacerdote", "Un médico designado por el rey", "El propio enfermo, ante testigos"],
+      "correct": 0,
+      "hint": "Es la misma autoridad que oficia los sacrificios.",
+      "explanation": "Lv 13:2: toda llaga sospechosa de lepra debía ser llevada ante el sacerdote, que examinaba el color del pelo, la profundidad y la extensión de la mancha."
+    },
+    {
+      "type": "gap",
+      "text": "Para purificar al leproso curado, el sacerdote usaba dos pájaros, madera de cedro, púrpura escarlata e ___.",
+      "options": ["hisopo", "incienso", "mirra"],
+      "answer": "hisopo",
+      "explanation": "Lv 14:4. El rito de purificación del leproso curado empleaba dos pájaros puros vivos, madera de cedro, púrpura escarlata e hisopo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del Día de la Expiación con su significado",
+      "pairs": [
+        { "en": "El macho cabrío para el Señor", "es": "Se ofrece en sacrificio expiatorio" },
+        { "en": "El macho cabrío para Azazel", "es": "Se envía vivo al desierto" },
+        { "en": "El velo del Santuario", "es": "Separa el lugar donde entra Aarón una vez al año" },
+        { "en": "El día diez del séptimo mes", "es": "Fecha del Día de la Expiación" },
+        { "en": "Las vestiduras de lino", "es": "Las que viste Aarón para entrar en el Santuario" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué frecuencia entraba el sumo sacerdote detrás del velo, ante el propiciatorio?",
+      "options": ["Cada día, al amanecer", "Una vez al año, en el Día de la Expiación", "Solo cuando estallaba una guerra"],
+      "correct": 1,
+      "hint": "De ahí el nombre «Día de la Expiación».",
+      "explanation": "Lv 16:2, 29, 34: solo una vez al año, el día diez del séptimo mes, el sumo sacerdote entraba detrás del velo, y siempre con la sangre del sacrificio expiatorio."
+    },
+    {
+      "type": "gap",
+      "text": "Sorteará los dos machos cabríos: uno para el Señor y otro para ___.",
+      "options": ["Azazel", "Moisés", "el pueblo"],
+      "answer": "Azazel",
+      "explanation": "Lv 16:8. De los dos machos cabríos sorteados, uno se ofrecía en sacrificio expiatorio para el Señor y el otro se enviaba vivo al desierto, «a Azazel»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lv 16:8 · El sorteo de los dos machos cabríos en el Día de la Expiación",
+      "direction": "es-es",
+      "tiles": ["uno", "para", "el", "Señor", "y", "otro", "para", "Azazel", "desierto", "incienso"],
+      "answer": "uno para el Señor y otro para Azazel",
+      "explanation": "Lv 16:8. El macho cabrío «para Azazel» era presentado vivo, cargado simbólicamente con las culpas del pueblo, y enviado al desierto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué idea funda el mandato «sed santos, porque yo, el Señor, vuestro Dios, soy santo»?",
+      "options": ["Que solo los sacerdotes están llamados a la santidad", "Que la santidad depende del número de sacrificios ofrecidos", "Que la conducta del pueblo debe reflejar el carácter de su Dios"],
+      "correct": 2,
+      "hint": "El motivo que da el texto no es una norma más, sino la identidad misma de Dios.",
+      "explanation": "Lv 19:2: la santidad exigida a todo Israel —no solo a los sacerdotes— se funda en la santidad misma de Dios, no en la cantidad de ritos realizados."
+    },
+    {
+      "type": "gap",
+      "text": "Sed santos, porque yo, el Señor, vuestro Dios, soy ___.",
+      "options": ["santo", "grande", "fiel"],
+      "answer": "santo",
+      "explanation": "Lv 19:2. La santidad de Israel se funda y se mide en la santidad misma de Dios, y abre el gran código de leyes de Lv 17-26."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lv 19:2 · El fundamento de la Ley de Santidad",
+      "direction": "es-es",
+      "tiles": ["Sed", "santos", "porque", "yo", "el", "Señor", "vuestro", "Dios", "soy", "santo", "grande", "pueblo", "fiel"],
+      "answer": "Sed santos porque yo el Señor vuestro Dios soy santo",
+      "explanation": "Lv 19:2. Esta frase abre el gran código de la Ley de Santidad (Lv 17-26): la conducta de Israel debe reflejar el carácter santo de su Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué compara Lv 19:18 el amor que se debe al prójimo?",
+      "options": ["Al amor a uno mismo", "Al amor que Dios tuvo con Abrahán", "Al amor entre hermanos de sangre únicamente"],
+      "correct": 0,
+      "hint": "La medida que propone el texto es la que cada uno usa consigo mismo.",
+      "explanation": "Lv 19:18: «amarás a tu prójimo como a ti mismo» toma el amor propio como vara de medir el trato debido al otro, sin restringirlo a los parientes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lv 19:18 · El mandamiento del amor al prójimo",
+      "direction": "es-es",
+      "tiles": ["amarás", "a", "tu", "prójimo", "como", "a", "ti", "mismo", "hermano", "enemigo"],
+      "answer": "amarás a tu prójimo como a ti mismo",
+      "explanation": "Lv 19:18. En medio de las leyes de santidad aparece este mandamiento, que Jesús citará después como el segundo gran mandamiento (Mt 22:39)."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada concepto final del libro con su significado",
+      "pairs": [
+        { "en": "Ley del talión", "es": "La misma pena que se causó al prójimo" },
+        { "en": "Año sabático", "es": "Descanso de la tierra cada siete años" },
+        { "en": "Año jubilar", "es": "Libertad y restitución de tierras cada cincuenta años" },
+        { "en": "Bendiciones de la alianza", "es": "Lluvias, paz y fecundidad por la fidelidad" },
+        { "en": "Maldiciones de la alianza", "es": "Plagas y destierro por la infidelidad" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lv 24:20 · La ley del talión",
+      "direction": "es-es",
+      "tiles": ["fractura", "fractura", "por", "por", "por", "ojo", "ojo", "diente", "diente", "mano", "vida"],
+      "answer": "fractura por fractura ojo por ojo diente por diente",
+      "explanation": "Lv 24:20. La llamada «ley del talión» no autoriza la venganza personal, sino que limita el castigo a ser proporcional al daño causado, evitando represalias desmedidas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lv 25:10 · La proclamación del año jubilar",
+      "direction": "es-es",
+      "tiles": ["Declararéis", "santo", "el", "año", "cincuenta", "treinta", "séptimo", "cuarenta"],
+      "answer": "Declararéis santo el año cincuenta",
+      "explanation": "Lv 25:10. Cada cincuenta años, tras siete ciclos de siete años, se proclamaba el año jubilar: liberación para los esclavos hebreos y restitución de las tierras a sus dueños originales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lv 26:12 · La promesa de la alianza cumplida",
+      "direction": "es-es",
+      "tiles": ["seré", "vuestro", "Dios", "y", "vosotros", "seréis", "mi", "pueblo", "siervo", "enemigo"],
+      "answer": "seré vuestro Dios y vosotros seréis mi pueblo",
+      "explanation": "Lv 26:12. Es la fórmula clásica de la alianza, repetida en el Pentateuco: la fidelidad de Israel a la ley trae consigo la cercanía de Dios en medio de su pueblo, mientras que la infidelidad atrae las maldiciones descritas en el mismo capítulo."
+    }
+  ]
+}

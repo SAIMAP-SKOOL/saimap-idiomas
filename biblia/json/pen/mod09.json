@@ -1,0 +1,251 @@
+{
+  "id": "pen-mod09",
+  "module": 9,
+  "title": "Números I — La Marcha por el Desierto",
+  "subtitle": "Números 1–20",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué tribu quedó fuera del censo general de guerra en Números 1?",
+      "options": ["La tribu de Leví", "La tribu de Benjamín", "La tribu de Efraín"],
+      "correct": 0,
+      "hint": "Esta tribu tenía una misión distinta: el servicio del santuario.",
+      "explanation": "Nm 1:47-49: el Señor ordenó no incluir a los levitas en el censo militar, porque estaban consagrados al servicio de la Morada del Testimonio."
+    },
+    {
+      "type": "gap",
+      "text": "Moisés debía censar a todo varón de veinte años para arriba, apto para la ___.",
+      "options": ["guerra", "siembra", "caza"],
+      "answer": "guerra",
+      "explanation": "Nm 1:3: el censo del capítulo 1 es militar — cuenta a los varones aptos para salir a combatir, tribu por tribu."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lado del campamento con quien acampaba allí",
+      "pairs": [
+        { "en": "Lado este (salida del sol)", "es": "El campamento de Judá" },
+        { "en": "Lado sur", "es": "El campamento de Rubén" },
+        { "en": "Lado oeste", "es": "El campamento de Efraín" },
+        { "en": "Lado norte", "es": "El campamento de Dan" },
+        { "en": "El centro del campamento", "es": "La Tienda del Encuentro y los levitas" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Los hijos de Israel acamparán cada uno bajo su ___, alrededor de la Tienda del Encuentro.",
+      "options": ["banderín", "escudo", "arca"],
+      "answer": "banderín",
+      "explanation": "Nm 2:2: cada tribu acampaba agrupada bajo su banderín y el estandarte de su familia, formando un campamento ordenado alrededor del santuario."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada familia o grupo levítico con su tarea",
+      "pairs": [
+        { "en": "Los guersonitas", "es": "Transportaban la Morada, la Tienda y sus cortinas" },
+        { "en": "Los queatitas", "es": "Custodiaban el Arca, la mesa y el candelabro" },
+        { "en": "Los meraritas", "es": "Cuidaban los tableros, travesaños y postes de la Morada" },
+        { "en": "Aarón y sus hijos", "es": "Ejercían el servicio sacerdotal en el altar" },
+        { "en": "Toda la tribu de Leví", "es": "Quedó consagrada al santuario, fuera del censo militar" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 6:24 · El inicio de la bendición sacerdotal",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "te", "bendiga", "y", "te", "proteja", "guarde", "ilumine"],
+      "answer": "El Señor te bendiga y te proteja",
+      "explanation": "Nm 6:24: primera línea de la bendición que Aarón y sus hijos debían pronunciar sobre Israel — una de las fórmulas más repetidas de toda la Biblia."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor ilumine su rostro sobre ti y te conceda su ___.",
+      "options": ["favor", "gloria", "fuerza"],
+      "answer": "favor",
+      "explanation": "Nm 6:25: segunda línea de la bendición sacerdotal — pide que el rostro luminoso de Dios se vuelva favorable sobre la persona bendecida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué señal indicaba a los israelitas que debían levantar el campamento y ponerse en marcha?",
+      "options": ["Que sonaban las trompetas de plata al amanecer", "Que la nube se alzaba de encima de la Morada", "Que Moisés convocaba a los setenta ancianos"],
+      "correct": 1,
+      "hint": "La misma nube que cubría de día la Morada marcaba el ritmo de las etapas.",
+      "explanation": "Nm 9:17: cuando la nube se alzaba de la Tienda, los israelitas se ponían en marcha; donde ella se detenía, allí acampaban."
+    },
+    {
+      "type": "gap",
+      "text": "El pueblo se quejó y estalló contra ellos el fuego del ___: así se llamó aquel lugar Taberá.",
+      "options": ["Señor", "cielo", "desierto"],
+      "answer": "Señor",
+      "explanation": "Nm 11:1-3: ante las primeras quejas del pueblo, ardió el fuego del Señor en los extremos del campamento; de ahí el nombre Taberá («incendio»)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 11:4 · El ansia de carne que desató la crisis de las codornices",
+      "direction": "es-es",
+      "tiles": ["Quién", "nos", "diera", "carne", "para", "comer", "pan", "agua"],
+      "answer": "Quién nos diera carne para comer",
+      "explanation": "Nm 11:4: la añoranza de la carne de Egipto —frente al maná diario— encabeza el episodio que terminará en Quibrot Hatavá."
+    },
+    {
+      "type": "quiz",
+      "q": "¿De dónde llegaron las codornices que el Señor envió al pueblo?",
+      "options": ["Bajaron junto con el maná del cielo", "Las trajeron los exploradores enviados a Canaán", "Un viento las trajo desde el mar"],
+      "correct": 2,
+      "hint": "No cayeron del cielo como el maná: las arrastró el aire.",
+      "explanation": "Nm 11:31: un viento enviado por el Señor trajo bandadas de codornices desde el mar hasta el campamento."
+    },
+    {
+      "type": "gap",
+      "text": "Por la glotonería del pueblo, aquel lugar se llamó Quibrot ___.",
+      "options": ["Hatavá", "Taberá", "Cadés"],
+      "answer": "Hatavá",
+      "explanation": "Nm 11:34: «Quibrot Hatavá» significa «tumbas de la codicia» — allí murieron los que se dejaron llevar por el ansia desmedida de carne."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió con Eldad y Medad, dos de los setenta ancianos, en Números 11?",
+      "options": ["Profetizaron en el campamento aunque no habían ido a la Tienda", "Fueron castigados por no acudir a la Tienda del Encuentro", "Sustituyeron a Aarón en el servicio del altar"],
+      "correct": 0,
+      "hint": "Josué quiso que Moisés se lo impidiera; Moisés respondió lo contrario.",
+      "explanation": "Nm 11:26-29: el espíritu reposó también sobre Eldad y Medad, que se habían quedado en el campamento; Moisés se alegró: «¡Ojalá todo el pueblo fuera profeta!»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 12:3 · Cómo describe el texto a Moisés justo antes de la queja de María y Aarón",
+      "direction": "es-es",
+      "tiles": ["Moisés", "era", "un", "hombre", "muy", "humilde", "sabio", "fuerte"],
+      "answer": "Moisés era un hombre muy humilde",
+      "explanation": "Nm 12:3: el narrador subraya la humildad de Moisés justo antes de que su hermana y su hermano lo cuestionen — contraste que resalta la injusticia de la queja."
+    },
+    {
+      "type": "gap",
+      "text": "Por haber hablado contra Moisés, María quedó leprosa, blanca como la ___.",
+      "options": ["nieve", "ceniza", "cal"],
+      "answer": "nieve",
+      "explanation": "Nm 12:10: al retirarse la nube de la Tienda, María apareció leprosa; Aarón intercedió y Moisés pidió a Dios que la sanara."
+    },
+    {
+      "type": "quiz",
+      "q": "¿De qué se quejaron María y Aarón contra Moisés en Números 12?",
+      "options": ["De que hubiera repartido mal el maná entre las tribus", "De su matrimonio con la mujer cusita y de que solo él hablara por Dios", "De que hubiera nombrado a setenta ancianos sin consultarlos"],
+      "correct": 1,
+      "hint": "Cuestionan tanto su vida personal como su autoridad exclusiva como profeta.",
+      "explanation": "Nm 12:1-2: María y Aarón critican a Moisés por la mujer cusita y preguntan: «¿Es que el Señor solo ha hablado por Moisés?»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada nombre o dato con el episodio de los exploradores",
+      "pairs": [
+        { "en": "Josué", "es": "Antes llamado Oseas, explorador de la tribu de Efraín" },
+        { "en": "Caleb", "es": "Explorador de Judá que animó a conquistar la tierra" },
+        { "en": "Los otros diez exploradores", "es": "Difundieron un mal informe que sembró el miedo" },
+        { "en": "Cuarenta días", "es": "Lo que duró la exploración de Canaán" },
+        { "en": "Cuarenta años", "es": "El castigo decretado, un año por cada día" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 13:27 · El informe de los exploradores sobre la tierra",
+      "direction": "es-es",
+      "tiles": ["Es", "una", "tierra", "que", "mana", "leche", "y", "miel", "agua", "vino"],
+      "answer": "Es una tierra que mana leche y miel",
+      "explanation": "Nm 13:27: los doce exploradores coinciden en la fertilidad de la tierra; la discrepancia surge después, sobre si Israel puede conquistarla."
+    },
+    {
+      "type": "gap",
+      "text": "Caleb calmó al pueblo ante Moisés y dijo: «¡Subamos y conquistemos esa ___!».",
+      "options": ["tierra", "ciudad", "montaña"],
+      "answer": "tierra",
+      "explanation": "Nm 13:30: frente al desánimo sembrado por los otros exploradores, Caleb es el primero en pedir que el pueblo confíe y avance."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué tribu pertenecía Josué entre los doce exploradores enviados a Canaán?",
+      "options": ["Judá", "Rubén", "Efraín"],
+      "correct": 2,
+      "hint": "Es la misma tribu de la que también saldrá después el gran caudillo que sucederá a Moisés.",
+      "explanation": "Nm 13:8,16: Josué (antes Oseas) representaba a la tribu de Efraín; Caleb, el otro explorador fiel, representaba a Judá."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 14:34 · La proporción del castigo tras el informe de los exploradores",
+      "direction": "es-es",
+      "tiles": ["Un", "año", "por", "cada", "día", "mes", "semana"],
+      "answer": "Un año por cada día",
+      "explanation": "Nm 14:34: el Señor convierte los cuarenta días de exploración en cuarenta años de peregrinación — un año de castigo por cada día de desconfianza."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quiénes fueron la excepción entre los adultos condenados a morir en el desierto sin entrar en la tierra prometida?",
+      "options": ["Eldad y Medad", "Moisés y Aarón", "Josué y Caleb"],
+      "correct": 2,
+      "hint": "Fueron los dos únicos exploradores que dieron un informe de confianza.",
+      "explanation": "Nm 14:30: solo Caleb y Josué, por haber confiado plenamente en el Señor, entrarían en la tierra que habían explorado."
+    },
+    {
+      "type": "gap",
+      "text": "Según los cuarenta días de exploración, el pueblo cargó con su culpa cuarenta ___.",
+      "options": ["años", "meses", "semanas"],
+      "answer": "años",
+      "explanation": "Nm 14:34: la generación que salió de Egipto vagaría por el desierto cuarenta años, hasta que muriera por completo, salvo Josué y Caleb."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada nombre con su papel en la rebelión de Coré",
+      "pairs": [
+        { "en": "Coré", "es": "Levita queatita que impugnó la autoridad de Moisés y Aarón" },
+        { "en": "Datán y Abirón", "es": "Rubenitas tragados por la tierra junto a Coré" },
+        { "en": "On, hijo de Pélet", "es": "Rubenita que también se sumó a la rebelión" },
+        { "en": "Doscientos cincuenta hombres", "es": "Ofrecieron incienso y murieron consumidos por el fuego" },
+        { "en": "La tierra", "es": "Se abrió y tragó a los rebeldes con sus familias" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 16:32 · El desenlace de la rebelión de Coré, Datán y Abirón",
+      "direction": "es-es",
+      "tiles": ["La", "tierra", "abrió", "su", "boca", "y", "los", "tragó", "cielo"],
+      "answer": "La tierra abrió su boca y los tragó",
+      "explanation": "Nm 16:32: el suelo se abre bajo Coré, Datán, Abirón y sus familias — un castigo tan visible como su desafío público a Moisés y Aarón."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reclamaban Coré y sus seguidores contra Moisés y Aarón?",
+      "options": ["Que se repartiera de nuevo la tierra entre las doce tribus", "Que toda la comunidad era santa y no debía haber una autoridad exclusiva", "Que se anulara el censo militar del capítulo 1"],
+      "correct": 1,
+      "hint": "Su argumento suena igualitario, pero cuestiona el orden que el Señor había establecido.",
+      "explanation": "Nm 16:3: Coré y los suyos dicen a Moisés y Aarón: «toda la comunidad, toda ella, es santa... ¿por qué os alzáis sobre la asamblea?»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 17:23 · La señal que confirmó el sacerdocio de Aarón",
+      "direction": "es-es",
+      "tiles": ["La", "vara", "de", "Aarón", "había", "florecido", "roto", "seca"],
+      "answer": "La vara de Aarón había florecido",
+      "explanation": "Nm 17:23: entre las doce varas depositadas ante el Señor, solo la de Aarón —marcada con su nombre— brotó, floreció y produjo almendras."
+    },
+    {
+      "type": "gap",
+      "text": "Al día siguiente, la vara de Aarón había florecido y producido ___.",
+      "options": ["almendras", "higos", "uvas"],
+      "answer": "almendras",
+      "explanation": "Nm 17:23: el signo confirma ante todo Israel que la tribu de Leví, y en ella Aarón, ha sido escogida por el Señor para el sacerdocio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nm 20:1 · El final de María, hermana de Moisés y Aarón",
+      "direction": "es-es",
+      "tiles": ["Allí", "murió", "María", "y", "allí", "la", "enterraron", "vivió", "volvió"],
+      "answer": "Allí murió María y allí la enterraron",
+      "explanation": "Nm 20:1: la muerte de María en Cadés cierra, junto con la marcha del pueblo, esta primera etapa de la travesía por el desierto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué lugar murió María, hermana de Moisés y Aarón?",
+      "options": ["En Cadés", "En Taberá", "En Quibrot Hatavá"],
+      "correct": 0,
+      "hint": "Es el mismo lugar donde antes habían acampado los exploradores antes de partir hacia Canaán.",
+      "explanation": "Nm 20:1: la comunidad llegó al desierto de Sin y se instaló en Cadés; allí murió María y allí la enterraron."
+    }
+  ]
+}
