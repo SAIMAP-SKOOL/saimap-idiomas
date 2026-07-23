@@ -109,7 +109,19 @@
         { "n": 28, "title": "Malaquías — El Amor de Dios y el Mensajero Anunciado", "es": "Malaquías · El Mensajero Anunciado",          "file": "pro/mod28.json" }
       ]
     },
-    { "code": "EVA", "name": "Evangelios",                     "color": "#2F8A87", "locked": true, "moduleCount": 10 },
+    {
+      "code": "EVA",
+      "name": "Evangelios",
+      "sub": "5 módulos · Mateo y Marcos completos (Lucas y Juan en preparación)",
+      "color": "#2F8A87",
+      "modules": [
+        { "n": 1, "title": "Mateo I — El Nacimiento y el Sermón de la Montaña",         "es": "Mateo I · Nacimiento y Sermón (Mt 1–7)",        "file": "eva/mod01.json" },
+        { "n": 2, "title": "Mateo II — Milagros, Parábolas y la Confesión de Pedro",    "es": "Mateo II · Milagros y Confesión (Mt 8–20)",     "file": "eva/mod02.json" },
+        { "n": 3, "title": "Mateo III — Jerusalén, la Pasión y la Resurrección",        "es": "Mateo III · Pasión y Resurrección (Mt 21–28)",  "file": "eva/mod03.json" },
+        { "n": 4, "title": "Marcos I — Los Primeros Milagros y Discípulos",             "es": "Marcos I · Primeros Milagros (Mc 1–8)",         "file": "eva/mod04.json" },
+        { "n": 5, "title": "Marcos II — El Camino a Jerusalén y la Pasión",             "es": "Marcos II · Camino y Pasión (Mc 9–16)",         "file": "eva/mod05.json" }
+      ]
+    },
     { "code": "HCH", "name": "Hechos de los Apóstoles",        "color": "#3B6FA6", "locked": true, "moduleCount": 2 },
     { "code": "PAB", "name": "Corpus Paulino",                 "color": "#4F8B6B", "locked": true, "moduleCount": 14 },
     { "code": "CAT", "name": "Cartas Católicas",               "color": "#5B57A6", "locked": true, "moduleCount": 5 },

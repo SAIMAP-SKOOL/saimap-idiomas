@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod01",
+  "module": 1,
+  "title": "Mateo I — El Nacimiento y el Sermón de la Montaña",
+  "subtitle": "Mateo 1–7",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué significado da el ángel al nombre de Jesús?",
+      "options": ["Que salvará a su pueblo de sus pecados", "Que será un gran rey guerrero", "Que reconstruirá el templo de Jerusalén"],
+      "correct": 0,
+      "hint": "El ángel se lo explica a José en un sueño.",
+      "explanation": "Mt 1,21: «dará a luz un hijo y tú le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados»."
+    },
+    {
+      "type": "gap",
+      "text": "Le pondrás por nombre Jesús, porque él salvará a su pueblo de sus ___.",
+      "options": ["pecados", "enemigos", "deudas"],
+      "answer": "pecados",
+      "explanation": "Mt 1,21: este versículo da el significado del nombre de Jesús, que en hebreo significa «el Señor salva»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 1,21 · El nombre de Jesús",
+      "direction": "es-es",
+      "tiles": ["Le", "pondrás", "por", "nombre", "Jesús", "Juan", "Elías"],
+      "answer": "Le pondrás por nombre Jesús",
+      "explanation": "Mt 1,21: este versículo da el significado del nombre de Jesús, que en hebreo significa «el Señor salva»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Le salvará de sus pecados", "es": "El significado del nombre de Jesús" },
+        { "en": "La virgen... Enmanuel", "es": "El cumplimiento de la profecía de Isaías" },
+        { "en": "Este es mi Hijo amado", "es": "La voz del Padre en el bautismo" },
+        { "en": "Pescadores de hombres", "es": "La llamada de los primeros discípulos" },
+        { "en": "Casa sobre roca", "es": "La conclusión del Sermón de la Montaña" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué profecía cumple el nacimiento de Jesús, según Mateo 1?",
+      "options": ["Que nacería en Roma, capital del imperio", "Que la virgen concebiría un hijo llamado Enmanuel", "Que sería hijo único, sin ninguna genealogía"],
+      "correct": 1,
+      "hint": "El nombre significa «Dios-con-nosotros».",
+      "explanation": "Mt 1,23: «la virgen concebirá y dará a luz un hijo y le pondrán por nombre Enmanuel, que significa “Dios-con-nosotros”»."
+    },
+    {
+      "type": "gap",
+      "text": "La virgen concebirá y dará a luz un hijo y le pondrán por nombre ___.",
+      "options": ["Enmanuel", "Josué", "Elías"],
+      "answer": "Enmanuel",
+      "explanation": "Mt 1,23: Mateo cita aquí la profecía de Isaías 7,14 para mostrar que Jesús la cumple."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 1,23 · El cumplimiento de la profecía",
+      "direction": "es-es",
+      "tiles": ["La", "virgen", "concebirá", "y", "dará", "a", "luz", "un", "hijo", "reina", "doncella"],
+      "answer": "La virgen concebirá y dará a luz un hijo",
+      "explanation": "Mt 1,23: Mateo cita aquí la profecía de Isaías 7,14 para mostrar que Jesús la cumple."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué buscan los magos de Oriente al llegar a Jerusalén, en Mateo 2?",
+      "options": ["Un tesoro escondido en el interior del templo", "Consejo de los sumos sacerdotes sobre la ley", "Al rey de los judíos que ha nacido, guiados por su estrella"],
+      "correct": 2,
+      "hint": "El rey Herodes se sobresaltó al escuchar su pregunta.",
+      "explanation": "Mt 2,2: «¿dónde está el Rey de los judíos que ha nacido? Porque hemos visto salir su estrella y venimos a adorarlo»."
+    },
+    {
+      "type": "gap",
+      "text": "Hemos visto salir su ___ y venimos a adorarlo.",
+      "options": ["estrella", "ángel", "sueño"],
+      "answer": "estrella",
+      "explanation": "Mt 2,2: los magos de Oriente representan a los gentiles que reconocen al Mesías desde el principio del evangelio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Le pondrás por nombre Jesús", "es": "Mateo 1,21" },
+        { "en": "Este es mi Hijo amado", "es": "Mateo 3,17" },
+        { "en": "No solo de pan vive el hombre", "es": "Mateo 4,4" },
+        { "en": "Pescadores de hombres", "es": "Mateo 4,19" },
+        { "en": "Padre nuestro", "es": "Mateo 6,9" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se escucha desde el cielo tras el bautismo de Jesús, en Mateo 3?",
+      "options": ["«Este es mi Hijo amado, en quien me complazco»", "«Este es mi siervo, escuchadlo con atención»", "Silencio absoluto, sin ninguna voz celeste"],
+      "correct": 0,
+      "hint": "Antes de esto, el Espíritu de Dios había bajado «como una paloma».",
+      "explanation": "Mt 3,17: «vino una voz de los cielos que decía: “este es mi Hijo amado, en quien me complazco”»."
+    },
+    {
+      "type": "gap",
+      "text": "Este es mi Hijo amado, en quien me ___.",
+      "options": ["complazco", "fortalezco", "revelo"],
+      "answer": "complazco",
+      "explanation": "Mt 3,17: esta voz del Padre confirma la identidad de Jesús justo después de su bautismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 3,17 · La voz del Padre",
+      "direction": "es-es",
+      "tiles": ["Este", "es", "mi", "Hijo", "amado", "siervo", "profeta"],
+      "answer": "Este es mi Hijo amado",
+      "explanation": "Mt 3,17: esta voz del Padre confirma la identidad de Jesús justo después de su bautismo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué responde Jesús a la primera tentación, sobre convertir piedras en pan?",
+      "options": ["Que aceptará el reto para demostrar su poder", "Que no solo de pan vive el hombre, sino de la palabra de Dios", "Que prefiere no responder a esa tentación"],
+      "correct": 1,
+      "hint": "Jesús responde citando el libro del Deuteronomio.",
+      "explanation": "Mt 4,4: «está escrito: “no solo de pan vive el hombre, sino de toda palabra que sale de la boca de Dios”»."
+    },
+    {
+      "type": "gap",
+      "text": "No solo de pan vive el hombre, sino de toda palabra que sale de la boca de ___.",
+      "options": ["Dios", "Moisés", "el rey"],
+      "answer": "Dios",
+      "explanation": "Mt 4,4: esta es la primera de las tres respuestas de Jesús a las tentaciones en el desierto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 4,4 · La primera tentación",
+      "direction": "es-es",
+      "tiles": ["No", "solo", "de", "pan", "vive", "el", "hombre", "agua", "oro"],
+      "answer": "No solo de pan vive el hombre",
+      "explanation": "Mt 4,4: esta es la primera de las tres respuestas de Jesús a las tentaciones en el desierto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Los magos de Oriente", "es": "Representan a los gentiles que reconocen al Mesías desde el principio" },
+        { "en": "Juan el Bautista", "es": "Prepara el camino predicando la conversión en el desierto" },
+        { "en": "Las tres tentaciones", "es": "Ocurren en el desierto tras el ayuno de cuarenta días" },
+        { "en": "El Sermón de la Montaña", "es": "Ocupa los capítulos 5 a 7 del evangelio de Mateo" },
+        { "en": "La parábola de las dos casas", "es": "Cierra el Sermón de la Montaña como conclusión práctica" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Jesús a Simón y Andrés al llamarlos junto al mar, en Mateo 4?",
+      "options": ["Riquezas si dejan su oficio de pescadores", "Un lugar de honor asegurado en su futuro reino", "Hacerlos pescadores de hombres"],
+      "correct": 2,
+      "hint": "Ellos «inmediatamente dejaron las redes y lo siguieron».",
+      "explanation": "Mt 4,19: «venid en pos de mí y os haré pescadores de hombres»."
+    },
+    {
+      "type": "gap",
+      "text": "Venid en pos de mí y os haré pescadores de ___.",
+      "options": ["hombres", "peces", "reyes"],
+      "answer": "hombres",
+      "explanation": "Mt 4,19: esta llamada marca el inicio del seguimiento de los primeros discípulos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 4,19 · La llamada de los primeros discípulos",
+      "direction": "es-es",
+      "tiles": ["Os", "haré", "pescadores", "de", "hombres", "peces", "reyes"],
+      "answer": "Os haré pescadores de hombres",
+      "explanation": "Mt 4,19: esta llamada marca el inicio del seguimiento de los primeros discípulos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quiénes declara \"bienaventurados\" Jesús al comenzar el Sermón de la Montaña?",
+      "options": ["A los pobres en el espíritu, pues de ellos es el reino de los cielos", "A los ricos que reparten generosamente su fortuna", "A los poderosos que gobiernan con justicia"],
+      "correct": 0,
+      "hint": "Esta primera bienaventuranza abre una larga lista de ocho.",
+      "explanation": "Mt 5,3: «bienaventurados los pobres en el espíritu, porque de ellos es el reino de los cielos»."
+    },
+    {
+      "type": "gap",
+      "text": "Bienaventurados los pobres en el espíritu, porque de ellos es el reino de los ___.",
+      "options": ["cielos", "hombres", "ángeles"],
+      "answer": "cielos",
+      "explanation": "Mt 5,3: esta primera bienaventuranza invierte los valores habituales sobre la felicidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 5,3 · La primera bienaventuranza",
+      "direction": "es-es",
+      "tiles": ["Bienaventurados", "los", "pobres", "en", "el", "espíritu", "ricos", "poderosos"],
+      "answer": "Bienaventurados los pobres en el espíritu",
+      "explanation": "Mt 5,3: esta primera bienaventuranza invierte los valores habituales sobre la felicidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabras enseña Jesús a orar a sus discípulos, en Mateo 6?",
+      "options": ["Con largos discursos llenos de palabras solemnes", "«Padre nuestro que estás en el cielo, santificado sea tu nombre»", "Con el silencio absoluto, sin pronunciar palabra"],
+      "correct": 1,
+      "hint": "Antes advierte: «no uséis muchas palabras, como los gentiles».",
+      "explanation": "Mt 6,9: «vosotros orad así: “Padre nuestro que estás en el cielo, santificado sea tu nombre”»."
+    },
+    {
+      "type": "gap",
+      "text": "Padre nuestro que estás en el cielo, santificado sea tu ___.",
+      "options": ["nombre", "reino", "poder"],
+      "answer": "nombre",
+      "explanation": "Mt 6,9: este es el comienzo de la oración que Jesús enseña a sus discípulos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 6,9 · El Padre Nuestro",
+      "direction": "es-es",
+      "tiles": ["Padre", "nuestro", "que", "estás", "en", "el", "cielo", "tierra", "templo"],
+      "answer": "Padre nuestro que estás en el cielo",
+      "explanation": "Mt 6,9: este es el comienzo de la oración que Jesús enseña a sus discípulos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La genealogía de Jesús", "es": "Lo sitúa dentro de la historia de Israel, desde Abrahán hasta David" },
+        { "en": "Las bienaventuranzas", "es": "Invierten los valores habituales sobre la felicidad" },
+        { "en": "La regla de oro", "es": "Resume la Ley y los Profetas en una sola frase práctica" },
+        { "en": "El Padre Nuestro", "es": "Enseña a orar con sencillez y confianza filial" },
+        { "en": "La parábola de las dos casas", "es": "Advierte que escuchar la palabra no basta si no se pone en práctica" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién compara Jesús con \"un hombre prudente que edificó su casa sobre roca\", al cerrar el Sermón de la Montaña?",
+      "options": ["Al que solo escucha sus palabras sin ponerlas en práctica", "Al que acumula grandes riquezas materiales", "Al que escucha sus palabras y las pone en práctica"],
+      "correct": 2,
+      "hint": "El texto contrasta esto con la casa construida sobre arena.",
+      "explanation": "Mt 7,24: «el que escucha estas palabras mías y las pone en práctica se parece a aquel hombre prudente que edificó su casa sobre roca»."
+    },
+    {
+      "type": "gap",
+      "text": "Edificó su casa sobre ___.",
+      "options": ["roca", "arena", "barro"],
+      "answer": "roca",
+      "explanation": "Mt 7,24-25: esta parábola cierra el Sermón de la Montaña con una advertencia práctica."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 7,24 · La casa sobre roca",
+      "direction": "es-es",
+      "tiles": ["Edificó", "su", "casa", "sobre", "roca", "arena", "barro"],
+      "answer": "Edificó su casa sobre roca",
+      "explanation": "Mt 7,24-25: esta parábola cierra el Sermón de la Montaña con una advertencia práctica."
+    }
+  ]
+}

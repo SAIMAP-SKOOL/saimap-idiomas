@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod03",
+  "module": 3,
+  "title": "Mateo III — Jerusalén, la Pasión y la Resurrección",
+  "subtitle": "Mateo 21–28",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué grita la gente cuando Jesús entra en Jerusalén, en Mateo 21?",
+      "options": ["«¡Hosanna al Hijo de David! ¡Bendito el que viene en nombre del Señor!»", "«Crucifícalo, no queremos que reine sobre nosotros»", "Nada, la gente permanece en silencio a su paso"],
+      "correct": 0,
+      "hint": "También alfombran el camino con mantos y ramas de árboles.",
+      "explanation": "Mt 21,9: «¡Hosanna al Hijo de David! ¡Bendito el que viene en nombre del Señor! ¡Hosanna en las alturas!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Hosanna al Hijo de ___!",
+      "options": ["David", "Abraham", "Israel"],
+      "answer": "David",
+      "explanation": "Mt 21,9: esta aclamación acompaña la entrada de Jesús en Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 21,9 · La entrada en Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Bendito", "el", "que", "viene", "en", "nombre", "del", "Señor", "profeta", "rey"],
+      "answer": "Bendito el que viene en nombre del Señor",
+      "explanation": "Mt 21,9: esta aclamación acompaña la entrada de Jesús en Jerusalén."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Hosanna al Hijo de David", "es": "La aclamación al entrar en Jerusalén" },
+        { "en": "Dad al César lo que es del César", "es": "La respuesta sobre el tributo" },
+        { "en": "Amarás a tu prójimo", "es": "El mandamiento principal de la ley" },
+        { "en": "Mis hermanos más pequeños", "es": "El juicio final sobre el amor al prójimo" },
+        { "en": "Esto es mi cuerpo", "es": "La institución de la Eucaristía" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde Jesús cuando le preguntan si es lícito pagar tributo al César, en Mateo 22?",
+      "options": ["Que nunca se debe pagar tributo a un poder extranjero", "«Dad al César lo que es del César y a Dios lo que es de Dios»", "Que se niega a responder y cambia de tema"],
+      "correct": 1,
+      "hint": "Antes pide que le muestren la moneda del tributo.",
+      "explanation": "Mt 22,21: «dad al César lo que es del César y a Dios lo que es de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Dad al César lo que es del César y a Dios lo que es de ___.",
+      "options": ["Dios", "María", "todos"],
+      "answer": "Dios",
+      "explanation": "Mt 22,21: esta respuesta esquiva la trampa de fariseos y herodianos sobre el tributo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el mandamiento principal según Jesús, y su semejante, en Mateo 22?",
+      "options": ["Guardar el sábado y ofrecer sacrificios en el templo", "Ayunar con frecuencia y dar limosna en público", "Amar a Dios con todo el corazón, y amar al prójimo como a uno mismo"],
+      "correct": 2,
+      "hint": "Jesús añade que de estos dos mandamientos «se sostienen» toda la ley y los profetas.",
+      "explanation": "Mt 22,37.39: «amarás al Señor tu Dios con todo tu corazón»... «amarás a tu prójimo como a ti mismo»."
+    },
+    {
+      "type": "gap",
+      "text": "Amarás a tu ___ como a ti mismo.",
+      "options": ["prójimo", "vecino", "hermano"],
+      "answer": "prójimo",
+      "explanation": "Mt 22,39: este mandamiento resume, junto al amor a Dios, toda la ley y los profetas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 22,39 · El mandamiento principal",
+      "direction": "es-es",
+      "tiles": ["Amarás", "a", "tu", "prójimo", "como", "a", "ti", "mismo", "vecino", "hermano"],
+      "answer": "Amarás a tu prójimo como a ti mismo",
+      "explanation": "Mt 22,39: este mandamiento resume, junto al amor a Dios, toda la ley y los profetas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Amarás a tu prójimo como a ti mismo", "es": "Mateo 22,39" },
+        { "en": "Esto es mi cuerpo", "es": "Mateo 26,26" },
+        { "en": "Como yo quiero, sino como quieres tú", "es": "Mateo 26,39" },
+        { "en": "Por qué me has abandonado", "es": "Mateo 27,46" },
+        { "en": "Ha resucitado", "es": "Mateo 28,6" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "En la parábola del juicio final, ¿qué le dice el rey a los que ayudaron a los necesitados, en Mateo 25?",
+      "options": ["«Cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis»", "Que deberían haber hecho más antes de presentarse ante él", "Que el mérito solo cuenta si se hizo públicamente"],
+      "correct": 0,
+      "hint": "Se refiere a dar de comer, vestir, visitar al enfermo o al preso.",
+      "explanation": "Mt 25,40: «cada vez que lo hicisteis con uno de estos, mis hermanos más pequeños, conmigo lo hicisteis»."
+    },
+    {
+      "type": "gap",
+      "text": "Cada vez que lo hicisteis con uno de estos, mis hermanos más ___, conmigo lo hicisteis.",
+      "options": ["pequeños", "humildes", "pobres"],
+      "answer": "pequeños",
+      "explanation": "Mt 25,40: esta enseñanza muestra que servir al necesitado es servir a Cristo mismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 25,40 · El juicio final",
+      "direction": "es-es",
+      "tiles": ["Mis", "hermanos", "más", "pequeños", "conmigo", "lo", "hicisteis", "humildes", "pobres"],
+      "answer": "Mis hermanos más pequeños conmigo lo hicisteis",
+      "explanation": "Mt 25,40: esta enseñanza muestra que servir al necesitado es servir a Cristo mismo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La entrada en Jerusalén", "es": "Ocurre sobre un pollino, cumpliendo una profecía" },
+        { "en": "La pregunta sobre el César", "es": "Es una trampa de fariseos y herodianos" },
+        { "en": "La última cena", "es": "Tiene lugar la noche antes de la pasión" },
+        { "en": "La oración en Getsemaní", "es": "Sucede poco antes del arresto de Jesús" },
+        { "en": "El sepulcro vacío", "es": "Lo descubren primero las mujeres al amanecer" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús al repartir el pan y el cáliz en la última cena, en Mateo 26?",
+      "options": ["Que aquello es solo un signo de amistad entre los discípulos", "«Esto es mi cuerpo»... «esta es mi sangre de la alianza»", "Que prefiere no compartir la comida esa noche"],
+      "correct": 1,
+      "hint": "Dice que su sangre «es derramada por muchos para el perdón de los pecados».",
+      "explanation": "Mt 26,26.28: «esto es mi cuerpo»... «esta es mi sangre de la alianza, que es derramada por muchos»."
+    },
+    {
+      "type": "gap",
+      "text": "Tomad, comed: esto es mi ___.",
+      "options": ["cuerpo", "pan", "don"],
+      "answer": "cuerpo",
+      "explanation": "Mt 26,26: estas palabras instituyen la Eucaristía como memorial permanente de la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 26,28 · La institución de la Eucaristía",
+      "direction": "es-es",
+      "tiles": ["Esta", "es", "mi", "sangre", "de", "la", "alianza", "pacto", "promesa"],
+      "answer": "Esta es mi sangre de la alianza",
+      "explanation": "Mt 26,28: estas palabras instituyen la Eucaristía como memorial permanente de la Iglesia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ora Jesús en Getsemaní antes de su pasión, en Mateo 26?",
+      "options": ["Que sus discípulos huyan de inmediato para salvarse ellos mismos", "Que el cáliz pase sin que él tenga que padecerlo, sin condición alguna", "«Que pase de mí este cáliz; pero no se haga como yo quiero, sino como quieres tú»"],
+      "correct": 2,
+      "hint": "Después vuelve junto a los discípulos y los encuentra dormidos.",
+      "explanation": "Mt 26,39: «que pase de mí este cáliz. Pero no se haga como yo quiero, sino como quieres tú»."
+    },
+    {
+      "type": "gap",
+      "text": "Que pase de mí este ___.",
+      "options": ["cáliz", "dolor", "momento"],
+      "answer": "cáliz",
+      "explanation": "Mt 26,39: esta oración muestra la sumisión de Jesús a la voluntad del Padre."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 26,39 · La oración en Getsemaní",
+      "direction": "es-es",
+      "tiles": ["No", "se", "haga", "como", "yo", "quiero", "sino", "como", "quieres", "tú", "deseo", "pido"],
+      "answer": "No se haga como yo quiero sino como quieres tú",
+      "explanation": "Mt 26,39: esta oración muestra la sumisión de Jesús a la voluntad del Padre."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El mandamiento del amor", "es": "Resume toda la ley y los profetas" },
+        { "en": "El juicio por los más pequeños", "es": "Enseña que servir al necesitado es servir a Cristo" },
+        { "en": "La entrega en la última cena", "es": "Se convierte en memorial permanente de la Iglesia" },
+        { "en": "La aceptación del sufrimiento", "es": "Muestra la sumisión de Jesús a la voluntad del Padre" },
+        { "en": "La Gran Comisión", "es": "Envía a los discípulos a todos los pueblos hasta el fin de los tiempos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué grita Jesús en la cruz, poco antes de morir, en Mateo 27?",
+      "options": ["«Dios mío, Dios mío, ¿por qué me has abandonado?»", "«Padre, líbrame de esta hora, si es posible»", "No dice nada, muere en completo silencio"],
+      "correct": 0,
+      "hint": "Algunos de los presentes creen que está llamando al profeta Elías.",
+      "explanation": "Mt 27,46: «Dios mío, Dios mío, ¿por qué me has abandonado?»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios mío, Dios mío, ¿por qué me has ___?",
+      "options": ["abandonado", "olvidado", "dejado"],
+      "answer": "abandonado",
+      "explanation": "Mt 27,46: este grito expresa el abismo del sufrimiento de Jesús en la cruz."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 27,46 · El grito en la cruz",
+      "direction": "es-es",
+      "tiles": ["Dios", "mío", "Dios", "mío", "por", "qué", "me", "has", "abandonado", "olvidado", "dejado"],
+      "answer": "Dios mío Dios mío por qué me has abandonado",
+      "explanation": "Mt 27,46: este grito expresa el abismo del sufrimiento de Jesús en la cruz."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia el ángel a las mujeres que llegan al sepulcro vacío, en Mateo 28?",
+      "options": ["Que deben esperar allí hasta el anochecer", "«No está aquí: ¡ha resucitado!»", "Que alguien ha robado el cuerpo de Jesús"],
+      "correct": 1,
+      "hint": "El ángel les pide ir aprisa a contárselo a los discípulos.",
+      "explanation": "Mt 28,6: «no está aquí: ¡ha resucitado!, como había dicho»."
+    },
+    {
+      "type": "gap",
+      "text": "No está aquí: ¡ha ___!",
+      "options": ["resucitado", "partido", "huido"],
+      "answer": "resucitado",
+      "explanation": "Mt 28,6: el ángel anuncia la resurrección de Jesús a las mujeres en el sepulcro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 28,6 · El sepulcro vacío",
+      "direction": "es-es",
+      "tiles": ["No", "está", "aquí", "ha", "resucitado", "partido", "huido"],
+      "answer": "No está aquí ha resucitado",
+      "explanation": "Mt 28,6: el ángel anuncia la resurrección de Jesús a las mujeres en el sepulcro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué manda Jesús a sus discípulos antes de dejarlos, en la Gran Comisión de Mateo 28?",
+      "options": ["Que permanezcan escondidos hasta nueva orden", "Que regresen cada uno a su antiguo oficio", "«Id, y haced discípulos a todos los pueblos... yo estoy con vosotros hasta el final de los tiempos»"],
+      "correct": 2,
+      "hint": "Manda bautizar «en el nombre del Padre y del Hijo y del Espíritu Santo».",
+      "explanation": "Mt 28,19-20: «id, pues, y haced discípulos a todos los pueblos... yo estoy con vosotros todos los días, hasta el final de los tiempos»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo estoy con vosotros todos los días, hasta el final de los ___.",
+      "options": ["tiempos", "siglos", "días"],
+      "answer": "tiempos",
+      "explanation": "Mt 28,20: esta promesa cierra el evangelio de Mateo con la presencia permanente de Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 28,19 · La Gran Comisión",
+      "direction": "es-es",
+      "tiles": ["Id", "y", "haced", "discípulos", "a", "todos", "los", "pueblos", "reyes", "sabios"],
+      "answer": "Id y haced discípulos a todos los pueblos",
+      "explanation": "Mt 28,19: esta orden envía a los discípulos a todos los pueblos hasta el fin de los tiempos."
+    }
+  ]
+}

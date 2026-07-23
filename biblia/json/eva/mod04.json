@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod04",
+  "module": 4,
+  "title": "Marcos I — Los Primeros Milagros y Discípulos",
+  "subtitle": "Marcos 1–8",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué se oye desde los cielos en el momento del bautismo de Jesús, en Marcos 1?",
+      "options": ["«Tú eres mi Hijo amado, en ti me complazco»", "«Este es el profeta que esperaba Israel»", "Ningún sonido, solo el Espíritu bajando en silencio"],
+      "correct": 0,
+      "hint": "Antes se ve al Espíritu bajar sobre él como una paloma.",
+      "explanation": "Mc 1,11: «tú eres mi Hijo amado, en ti me complazco»."
+    },
+    {
+      "type": "gap",
+      "text": "Tú eres mi Hijo amado, en ti me ___.",
+      "options": ["complazco", "acompaño", "glorifico"],
+      "answer": "complazco",
+      "explanation": "Mc 1,11: esta voz desde el cielo confirma la identidad filial de Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 1,11 · La voz del bautismo",
+      "direction": "es-es",
+      "tiles": ["Tú", "eres", "mi", "Hijo", "amado", "en", "ti", "me", "complazco", "acompaño", "glorifico"],
+      "answer": "Tú eres mi Hijo amado en ti me complazco",
+      "explanation": "Mc 1,11: esta voz desde el cielo confirma la identidad filial de Jesús."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Tú eres mi Hijo amado", "es": "La voz del Padre en el bautismo de Jesús" },
+        { "en": "Pescadores de hombres", "es": "La llamada de los primeros discípulos" },
+        { "en": "Tus pecados te son perdonados", "es": "La curación del paralítico" },
+        { "en": "Silencio, enmudece", "es": "La calma de la tormenta" },
+        { "en": "Dadles vosotros de comer", "es": "La multiplicación de los panes" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús a Simón y Andrés cuando los llama junto al mar, en Marcos 1?",
+      "options": ["Que dejen la pesca y busquen un oficio más seguro", "«Venid en pos de mí y os haré pescadores de hombres»", "Que esperen a que él termine de orar en el desierto"],
+      "correct": 1,
+      "hint": "Ellos dejan las redes «inmediatamente» y lo siguen.",
+      "explanation": "Mc 1,17: «venid en pos de mí y os haré pescadores de hombres»."
+    },
+    {
+      "type": "gap",
+      "text": "Venid en pos de mí y os haré pescadores de ___.",
+      "options": ["hombres", "peces", "almas"],
+      "answer": "hombres",
+      "explanation": "Mc 1,17: esta llamada da inicio al seguimiento de los primeros discípulos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 1,17 · La llamada junto al mar",
+      "direction": "es-es",
+      "tiles": ["Os", "haré", "pescadores", "de", "hombres", "peces", "almas"],
+      "answer": "Os haré pescadores de hombres",
+      "explanation": "Mc 1,17: esta llamada da inicio al seguimiento de los primeros discípulos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús al paralítico que unos hombres bajan por la techumbre, en Marcos 2?",
+      "options": ["Que primero debe demostrar su fe con obras", "Que espere a los sacerdotes para ser purificado", "«Hijo, tus pecados te son perdonados»"],
+      "correct": 2,
+      "hint": "Esto provoca la indignación de algunos escribas presentes.",
+      "explanation": "Mc 2,5: «hijo, tus pecados te son perdonados»."
+    },
+    {
+      "type": "gap",
+      "text": "Hijo, tus pecados te son ___.",
+      "options": ["perdonados", "olvidados", "borrados"],
+      "answer": "perdonados",
+      "explanation": "Mc 2,5: este perdón muestra la autoridad de Jesús sobre el pecado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 2,5 · La curación del paralítico",
+      "direction": "es-es",
+      "tiles": ["Hijo", "tus", "pecados", "te", "son", "perdonados", "olvidados", "borrados"],
+      "answer": "Hijo tus pecados te son perdonados",
+      "explanation": "Mc 2,5: este perdón muestra la autoridad de Jesús sobre el pecado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "No temas; basta que tengas fe", "es": "Marcos 5,36" },
+        { "en": "Todo lo ha hecho bien", "es": "Marcos 7,37" },
+        { "en": "Tú eres el Mesías", "es": "Marcos 8,29" },
+        { "en": "Que se niegue a sí mismo", "es": "Marcos 8,34" },
+        { "en": "Silencio, enmudece", "es": "Marcos 4,39" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Jesús cuando los discípulos lo despiertan asustados durante la tormenta, en Marcos 4?",
+      "options": ["Increpa al viento y dice al mar: «¡Silencio, enmudece!», y todo se calma", "Les dice que remen con más fuerza hasta llegar a la orilla", "Se mantiene dormido porque confía en que la tormenta pasará sola"],
+      "correct": 0,
+      "hint": "Después les pregunta: «¿por qué tenéis miedo? ¿Aún no tenéis fe?»",
+      "explanation": "Mc 4,39: «increpó al viento y dijo al mar: “¡silencio, enmudece!”. El viento cesó y vino una gran calma»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Silencio, ___!",
+      "options": ["enmudece", "cállate", "tranquilo"],
+      "answer": "enmudece",
+      "explanation": "Mc 4,39: esta orden de Jesús revela su dominio sobre la creación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 4,39 · La tempestad calmada",
+      "direction": "es-es",
+      "tiles": ["El", "viento", "cesó", "y", "vino", "una", "gran", "calma", "tormenta", "ola"],
+      "answer": "El viento cesó y vino una gran calma",
+      "explanation": "Mc 4,39: esta orden de Jesús revela su dominio sobre la creación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "El bautismo de Jesús", "es": "Ocurre en el río Jordán, con el Espíritu como una paloma" },
+        { "en": "La llamada junto al mar", "es": "Simón y Andrés dejan las redes de inmediato" },
+        { "en": "La curación del paralítico", "es": "Lo bajan por la techumbre ante el gentío" },
+        { "en": "La tempestad calmada", "es": "Deja asombrados a los discípulos por su poder" },
+        { "en": "La confesión de Pedro", "es": "Sucede cerca de Cesarea de Filipo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice Jesús al jefe de la sinagoga cuando le anuncian que su hija ha muerto, en Marcos 5?",
+      "options": ["Que ya no hay nada que hacer y debe resignarse", "«No temas; basta que tengas fe»", "Que busque a otro maestro más capacitado"],
+      "correct": 1,
+      "hint": "Solo permite que lo acompañen Pedro, Santiago y Juan.",
+      "explanation": "Mc 5,36: «no temas; basta que tengas fe»."
+    },
+    {
+      "type": "gap",
+      "text": "No temas; basta que tengas ___.",
+      "options": ["fe", "calma", "paciencia"],
+      "answer": "fe",
+      "explanation": "Mc 5,36: esta respuesta de Jesús anima a confiar incluso ante la peor noticia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 5,36 · Ánimo ante la muerte",
+      "direction": "es-es",
+      "tiles": ["No", "temas", "basta", "que", "tengas", "fe", "calma", "paciencia"],
+      "answer": "No temas basta que tengas fe",
+      "explanation": "Mc 5,36: esta respuesta de Jesús anima a confiar incluso ante la peor noticia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde Jesús cuando los discípulos le piden despedir a la multitud para que coma, en Marcos 6?",
+      "options": ["Que cada uno se las arregle por su cuenta", "Que ya es demasiado tarde y deben esperar al día siguiente", "«Dadles vosotros de comer»"],
+      "correct": 2,
+      "hint": "Los discípulos responden que solo tienen cinco panes y dos peces.",
+      "explanation": "Mc 6,37: «dadles vosotros de comer»."
+    },
+    {
+      "type": "gap",
+      "text": "___ vosotros de comer.",
+      "options": ["Dadles", "Ofrecedles", "Servidles"],
+      "answer": "Dadles",
+      "explanation": "Mc 6,37: esta compasión de Jesús por la multitud se traduce en la multiplicación de los panes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 6,37 · La multiplicación de los panes",
+      "direction": "es-es",
+      "tiles": ["Dadles", "vosotros", "de", "comer", "Ofrecedles", "Servidles"],
+      "answer": "Dadles vosotros de comer",
+      "explanation": "Mc 6,37: esta compasión de Jesús por la multitud se traduce en la multiplicación de los panes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice la gente admirada tras ver a Jesús sanar a un sordomudo, en Marcos 7?",
+      "options": ["«Todo lo ha hecho bien: hace oír a los sordos y hablar a los mudos»", "Que prefieren no dar publicidad al hecho", "Que ya habían visto milagros semejantes antes"],
+      "correct": 0,
+      "hint": "Jesús les había pedido que no lo contaran a nadie, pero lo proclaman igualmente.",
+      "explanation": "Mc 7,37: «todo lo ha hecho bien: hace oír a los sordos y hablar a los mudos»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo lo ha hecho ___: hace oír a los sordos y hablar a los mudos.",
+      "options": ["bien", "perfecto", "grande"],
+      "answer": "bien",
+      "explanation": "Mc 7,37: esta admiración de la gente responde a la sanación del sordomudo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La voz del bautismo", "es": "Confirma la identidad filial de Jesús" },
+        { "en": "El perdón al paralítico", "es": "Muestra la autoridad de Jesús sobre el pecado" },
+        { "en": "El poder sobre la tormenta", "es": "Revela su dominio sobre la creación" },
+        { "en": "La compasión por la multitud", "es": "Se traduce en la multiplicación de los panes" },
+        { "en": "El llamado a tomar la cruz", "es": "Exige renunciar a la propia vida para seguirlo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde Pedro cuando Jesús pregunta «y vosotros, ¿quién decís que soy yo?», en Marcos 8?",
+      "options": ["«Eres un maestro sabio, como los antiguos profetas»", "«Tú eres el Mesías»", "No responde, y baja la mirada en silencio"],
+      "correct": 1,
+      "hint": "Jesús les manda a continuación que no hablen de esto a nadie.",
+      "explanation": "Mc 8,29: «tú eres el Mesías»."
+    },
+    {
+      "type": "gap",
+      "text": "Tú eres el ___.",
+      "options": ["Mesías", "profeta", "maestro"],
+      "answer": "Mesías",
+      "explanation": "Mc 8,29: esta confesión de Pedro sucede cerca de Cesarea de Filipo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 8,29 · La confesión de Pedro",
+      "direction": "es-es",
+      "tiles": ["Tú", "eres", "el", "Mesías", "profeta", "maestro"],
+      "answer": "Tú eres el Mesías",
+      "explanation": "Mc 8,29: esta confesión de Pedro sucede cerca de Cesarea de Filipo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué condición pone Jesús a quien quiera seguirlo, en Marcos 8?",
+      "options": ["Que abandone a su familia sin mirar atrás", "Que primero venda todas sus posesiones", "Que se niegue a sí mismo, tome su cruz y lo siga"],
+      "correct": 2,
+      "hint": "Añade que quien pierda su vida por él y el Evangelio, la salvará.",
+      "explanation": "Mc 8,34: «si alguno quiere venir en pos de mí, que se niegue a sí mismo, tome su cruz y me siga»."
+    },
+    {
+      "type": "gap",
+      "text": "Si alguno quiere venir en pos de mí, que se niegue a sí mismo, tome su ___ y me siga.",
+      "options": ["cruz", "carga", "camino"],
+      "answer": "cruz",
+      "explanation": "Mc 8,34: este llamado exige renunciar a la propia vida para seguir a Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 8,34 · El llamado a tomar la cruz",
+      "direction": "es-es",
+      "tiles": ["Que", "se", "niegue", "a", "sí", "mismo", "tome", "su", "cruz", "carga", "camino"],
+      "answer": "Que se niegue a sí mismo tome su cruz",
+      "explanation": "Mc 8,34: este llamado exige renunciar a la propia vida para seguir a Jesús."
+    }
+  ]
+}

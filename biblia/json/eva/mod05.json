@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod05",
+  "module": 5,
+  "title": "Marcos II — El Camino a Jerusalén y la Pasión",
+  "subtitle": "Marcos 9–16",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué grita el padre del muchacho poseído, cuando Jesús le dice «todo es posible al que tiene fe», en Marcos 9?",
+      "options": ["«Creo, pero ayuda mi falta de fe»", "Que prefiere no creer para no llevarse una decepción", "Que ya no tiene ninguna esperanza para su hijo"],
+      "correct": 0,
+      "hint": "Lo dice a gritos, justo antes de que Jesús cure a su hijo.",
+      "explanation": "Mc 9,24: «creo, pero ayuda mi falta de fe»."
+    },
+    {
+      "type": "gap",
+      "text": "Creo, pero ayuda mi falta de ___.",
+      "options": ["fe", "valor", "ánimo"],
+      "answer": "fe",
+      "explanation": "Mc 9,24: esta súplica muestra que se puede creer y aun así pedir ayuda para creer más."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 9,24 · La fe imperfecta del padre",
+      "direction": "es-es",
+      "tiles": ["Creo", "pero", "ayuda", "mi", "falta", "de", "fe", "valor", "ánimo"],
+      "answer": "Creo pero ayuda mi falta de fe",
+      "explanation": "Mc 9,24: esta súplica muestra que se puede creer y aun así pedir ayuda para creer más."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Creo, ayuda mi falta de fe", "es": "La petición del padre del muchacho poseído" },
+        { "en": "Una cosa te falta", "es": "El llamado al joven rico" },
+        { "en": "Camello por el ojo de una aguja", "es": "La dificultad de las riquezas" },
+        { "en": "No ha venido a ser servido sino a servir", "es": "La misión de Jesús como servicio" },
+        { "en": "Tu fe te ha salvado", "es": "La curación del ciego Bartimeo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le falta al joven rico que ha guardado los mandamientos desde su juventud, en Marcos 10?",
+      "options": ["Ofrecer más sacrificios en el templo", "«Vender lo que tiene, dárselo a los pobres, y seguir a Jesús»", "Casarse y formar una familia numerosa"],
+      "correct": 1,
+      "hint": "El texto dice que Jesús «lo amó» antes de pedirle esto.",
+      "explanation": "Mc 10,21: «una cosa te falta: anda, vende lo que tienes, dáselo a los pobres... y luego ven y sígueme»."
+    },
+    {
+      "type": "gap",
+      "text": "Una cosa te ___: anda, vende lo que tienes.",
+      "options": ["falta", "sobra", "queda"],
+      "answer": "falta",
+      "explanation": "Mc 10,21: este llamado advierte del peligro de aferrarse a las riquezas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 10,21 · El llamado al joven rico",
+      "direction": "es-es",
+      "tiles": ["Vende", "lo", "que", "tienes", "y", "dáselo", "a", "los", "pobres", "guarda", "reparte"],
+      "answer": "Vende lo que tienes y dáselo a los pobres",
+      "explanation": "Mc 10,21: este llamado advierte del peligro de aferrarse a las riquezas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús sobre la dificultad de un rico para entrar en el reino de Dios, en Marcos 10?",
+      "options": ["Que es imposible para cualquier persona con dinero", "Que basta con dar una limosna simbólica", "«Más fácil le es a un camello pasar por el ojo de una aguja»"],
+      "correct": 2,
+      "hint": "Los discípulos, al oírlo, se espantan y preguntan quién puede salvarse.",
+      "explanation": "Mc 10,25: «más fácil le es a un camello pasar por el ojo de una aguja, que a un rico entrar en el reino de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Más fácil le es a un camello pasar por el ojo de una ___.",
+      "options": ["aguja", "puerta", "ventana"],
+      "answer": "aguja",
+      "explanation": "Mc 10,25: esta imagen expresa lo difícil que es para un rico entrar en el reino de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 10,25 · El camello y la aguja",
+      "direction": "es-es",
+      "tiles": ["Más", "fácil", "es", "a", "un", "camello", "pasar", "por", "el", "ojo", "de", "una", "aguja", "puerta", "ventana"],
+      "answer": "Más fácil es a un camello pasar por el ojo de una aguja",
+      "explanation": "Mc 10,25: esta imagen expresa lo difícil que es para un rico entrar en el reino de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Una cosa te falta", "es": "Marcos 10,21" },
+        { "en": "Ojo de una aguja", "es": "Marcos 10,25" },
+        { "en": "Rescate por muchos", "es": "Marcos 10,45" },
+        { "en": "Ha echado todo lo que tenía", "es": "Marcos 12,44" },
+        { "en": "Hijo de Dios", "es": "Marcos 15,39" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo define Jesús su propia misión ante sus discípulos, en Marcos 10?",
+      "options": ["«El Hijo del hombre no ha venido a ser servido, sino a servir y dar su vida en rescate por muchos»", "Que ha venido a ser servido como corresponde a un rey", "Que su misión es solo enseñar en las sinagogas"],
+      "correct": 0,
+      "hint": "Lo dice tras enseñar que el que quiera ser primero, sea esclavo de todos.",
+      "explanation": "Mc 10,45: «el Hijo del hombre no ha venido a ser servido, sino a servir y dar su vida en rescate por muchos»."
+    },
+    {
+      "type": "gap",
+      "text": "El Hijo del hombre no ha venido a ser servido, sino a ___.",
+      "options": ["servir", "mandar", "reinar"],
+      "answer": "servir",
+      "explanation": "Mc 10,45: esta frase define la misión de Jesús entre los hombres."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 10,45 · La misión de servicio",
+      "direction": "es-es",
+      "tiles": ["No", "ha", "venido", "a", "ser", "servido", "sino", "a", "servir", "mandar", "reinar"],
+      "answer": "No ha venido a ser servido sino a servir",
+      "explanation": "Mc 10,45: esta frase define la misión de Jesús entre los hombres."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "El padre del muchacho poseído", "es": "Había pedido ayuda a los discípulos sin éxito" },
+        { "en": "El joven rico", "es": "Se marcha triste porque tenía muchos bienes" },
+        { "en": "El ciego Bartimeo", "es": "Pedía limosna junto al camino de Jericó" },
+        { "en": "La viuda del templo", "es": "Ofrece solo dos moneditas, pero da todo lo que tiene" },
+        { "en": "La muerte de Jesús en la cruz", "es": "Es presenciada de cerca por el centurión romano" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice Jesús al ciego Bartimeo tras sanarlo, en Marcos 10?",
+      "options": ["Que debe quedarse en Jericó a dar gracias", "«Anda, tu fe te ha salvado»", "Que no cuente a nadie lo sucedido"],
+      "correct": 1,
+      "hint": "Bartimeo recobra la vista al instante y sigue a Jesús por el camino.",
+      "explanation": "Mc 10,52: «anda, tu fe te ha salvado»."
+    },
+    {
+      "type": "gap",
+      "text": "Anda, tu fe te ha ___.",
+      "options": ["salvado", "curado", "sanado"],
+      "answer": "salvado",
+      "explanation": "Mc 10,52: esta curación devuelve la vista al ciego Bartimeo junto al camino de Jericó."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 10,52 · La curación de Bartimeo",
+      "direction": "es-es",
+      "tiles": ["Tu", "fe", "te", "ha", "salvado", "curado", "sanado"],
+      "answer": "Tu fe te ha salvado",
+      "explanation": "Mc 10,52: esta curación devuelve la vista al ciego Bartimeo junto al camino de Jericó."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué elogia Jesús la ofrenda de la viuda pobre en el templo, en Marcos 12?",
+      "options": ["Porque su ofrenda es la más grande en cantidad de monedas", "Porque la entrega en público, para que todos la vean", "Porque, a diferencia de los demás, ha echado todo lo que tenía para vivir"],
+      "correct": 2,
+      "hint": "Los demás, dice Jesús, han dado «de lo que les sobra».",
+      "explanation": "Mc 12,44: «esta, que pasa necesidad, ha echado todo lo que tenía para vivir»."
+    },
+    {
+      "type": "gap",
+      "text": "Esta, que pasa necesidad, ha echado todo lo que tenía para ___.",
+      "options": ["vivir", "dar", "ofrecer"],
+      "answer": "vivir",
+      "explanation": "Mc 12,44: esta ofrenda enseña que el valor de un don se mide por la entrega, no por la cantidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 12,44 · La ofrenda de la viuda",
+      "direction": "es-es",
+      "tiles": ["Ha", "echado", "todo", "lo", "que", "tenía", "para", "vivir", "dar", "ofrecer"],
+      "answer": "Ha echado todo lo que tenía para vivir",
+      "explanation": "Mc 12,44: esta ofrenda enseña que el valor de un don se mide por la entrega, no por la cantidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La fe imperfecta del padre", "es": "Muestra que se puede creer y aun así pedir ayuda para creer más" },
+        { "en": "El desprendimiento pedido al joven rico", "es": "Advierte del peligro de aferrarse a las riquezas" },
+        { "en": "El servicio como grandeza", "es": "Define la misión de Jesús entre los hombres" },
+        { "en": "La ofrenda de la viuda", "es": "Enseña que el valor de un don se mide por la entrega, no por la cantidad" },
+        { "en": "La Gran Comisión final", "es": "Envía el Evangelio a toda la creación" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice el centurión al ver cómo muere Jesús en la cruz, en Marcos 15?",
+      "options": ["«Verdaderamente este hombre era Hijo de Dios»", "Que se trata de un criminal más, sin importancia", "Nada, se retira en silencio sin decir palabra"],
+      "correct": 0,
+      "hint": "Lo dice justo al ver cómo Jesús había expirado.",
+      "explanation": "Mc 15,39: «verdaderamente este hombre era Hijo de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Verdaderamente este hombre era ___ de Dios.",
+      "options": ["Hijo", "siervo", "profeta"],
+      "answer": "Hijo",
+      "explanation": "Mc 15,39: esta confesión del centurión romano ocurre justo al ver morir a Jesús."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia el ángel a las mujeres que llegan al sepulcro, en Marcos 16?",
+      "options": ["Que deben regresar más tarde, no es el momento", "«Ha resucitado. No está aquí»", "Que el cuerpo de Jesús ha sido trasladado a otro lugar"],
+      "correct": 1,
+      "hint": "El ángel les pide ir a decírselo a los discípulos y a Pedro.",
+      "explanation": "Mc 16,6: «ha resucitado. No está aquí»."
+    },
+    {
+      "type": "gap",
+      "text": "Ha resucitado. No está ___.",
+      "options": ["aquí", "vivo", "solo"],
+      "answer": "aquí",
+      "explanation": "Mc 16,6: este anuncio del ángel proclama la resurrección de Jesús a las mujeres."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 16,6 · El sepulcro vacío",
+      "direction": "es-es",
+      "tiles": ["Ha", "resucitado", "no", "está", "aquí", "vivo", "solo"],
+      "answer": "Ha resucitado no está aquí",
+      "explanation": "Mc 16,6: este anuncio del ángel proclama la resurrección de Jesús a las mujeres."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué manda Jesús a sus discípulos antes de su ascensión, en Marcos 16?",
+      "options": ["Que permanezcan en Jerusalén sin salir de allí", "Que esperen instrucciones adicionales antes de actuar", "«Id al mundo entero y proclamad el Evangelio a toda la creación»"],
+      "correct": 2,
+      "hint": "Añade que el que crea y sea bautizado se salvará.",
+      "explanation": "Mc 16,15: «id al mundo entero y proclamad el Evangelio a toda la creación»."
+    },
+    {
+      "type": "gap",
+      "text": "Id al mundo entero y proclamad el ___ a toda la creación.",
+      "options": ["Evangelio", "Reino", "mensaje"],
+      "answer": "Evangelio",
+      "explanation": "Mc 16,15: esta Gran Comisión final envía el Evangelio a toda la creación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mc 16,15 · La Gran Comisión",
+      "direction": "es-es",
+      "tiles": ["Id", "al", "mundo", "entero", "proclamad", "el", "Evangelio", "Reino", "mensaje"],
+      "answer": "Id al mundo entero proclamad el Evangelio",
+      "explanation": "Mc 16,15: esta Gran Comisión final envía el Evangelio a toda la creación."
+    }
+  ]
+}

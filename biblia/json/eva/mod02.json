@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod02",
+  "module": 2,
+  "title": "Mateo II — Milagros, Parábolas y la Confesión de Pedro",
+  "subtitle": "Mateo 8–20",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué compara Jesús el reino de los cielos en la parábola del grano de mostaza?",
+      "options": ["Con la semilla más pequeña que se convierte en un gran árbol", "Con un tesoro escondido que nadie llega a encontrar", "Con una gran tormenta que todo lo arrasa"],
+      "correct": 0,
+      "hint": "El texto añade que las aves llegan a anidar en sus ramas.",
+      "explanation": "Mt 13,31-32: «el reino de los cielos se parece a un grano de mostaza... aunque es la más pequeña de las semillas... se hace un árbol»."
+    },
+    {
+      "type": "gap",
+      "text": "El reino de los cielos se parece a un grano de ___.",
+      "options": ["mostaza", "trigo", "arena"],
+      "answer": "mostaza",
+      "explanation": "Mt 13,31: esta parábola muestra que el crecimiento del reino empieza en lo pequeño y se expande con el tiempo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 13,31 · El grano de mostaza",
+      "direction": "es-es",
+      "tiles": ["El", "reino", "de", "los", "cielos", "se", "parece", "a", "un", "grano", "de", "mostaza", "trigo", "arena"],
+      "answer": "El reino de los cielos se parece a un grano de mostaza",
+      "explanation": "Mt 13,31: esta parábola muestra que el crecimiento del reino empieza en lo pequeño y se expande con el tiempo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Grano de mostaza", "es": "El crecimiento silencioso del reino de los cielos" },
+        { "en": "Cinco panes y dos peces", "es": "La multiplicación que alimenta a la multitud" },
+        { "en": "Hombre de poca fe", "es": "La duda de Pedro al caminar sobre el agua" },
+        { "en": "Tú eres el Mesías", "es": "La confesión de fe de Pedro" },
+        { "en": "Sobre esta piedra edificaré mi Iglesia", "es": "El fundamento de la Iglesia sobre Pedro" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responden los discípulos cuando Jesús les pide dar de comer a la multitud, en Mateo 14?",
+      "options": ["Que ya han repartido toda la comida disponible", "Que solo tienen cinco panes y dos peces", "Que prefieren esperar hasta el día siguiente"],
+      "correct": 1,
+      "hint": "Jesús les había dicho: «dadles vosotros de comer».",
+      "explanation": "Mt 14,17: «si aquí no tenemos más que cinco panes y dos peces»."
+    },
+    {
+      "type": "gap",
+      "text": "Si aquí no tenemos más que cinco panes y dos ___.",
+      "options": ["peces", "huevos", "panes"],
+      "answer": "peces",
+      "explanation": "Mt 14,17: este milagro alimenta a una gran multitud a partir de una cantidad muy pequeña de comida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 14,17 · Los cinco panes y dos peces",
+      "direction": "es-es",
+      "tiles": ["Solo", "tenemos", "cinco", "panes", "y", "dos", "peces", "huevos"],
+      "answer": "Solo tenemos cinco panes y dos peces",
+      "explanation": "Mt 14,17: este milagro alimenta a una gran multitud a partir de una cantidad muy pequeña de comida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Cinco panes y dos peces", "es": "Mateo 14,17" },
+        { "en": "Tú eres el Mesías", "es": "Mateo 16,16" },
+        { "en": "Tú eres Pedro", "es": "Mateo 16,18" },
+        { "en": "Escuchadlo", "es": "Mateo 17,5" },
+        { "en": "Setenta veces siete", "es": "Mateo 18,22" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurre a Pedro cuando intenta caminar sobre el agua hacia Jesús, en Mateo 14?",
+      "options": ["Llega hasta él sin ninguna dificultad", "Se da la vuelta y regresa enseguida a la barca", "Le entra miedo, empieza a hundirse y grita pidiendo auxilio"],
+      "correct": 2,
+      "hint": "Jesús lo agarra de la mano y le dice: «hombre de poca fe».",
+      "explanation": "Mt 14,30: «al sentir la fuerza del viento, le entró miedo, empezó a hundirse y gritó: “Señor, sálvame”»."
+    },
+    {
+      "type": "gap",
+      "text": "Señor, ___.",
+      "options": ["sálvame", "ayúdame", "escúchame"],
+      "answer": "sálvame",
+      "explanation": "Mt 14,30: este grito de Pedro expresa el miedo que lo hace hundirse mientras caminaba hacia Jesús."
+    },
+    {
+      "type": "gap",
+      "text": "¡Hombre de poca ___! ¿Por qué has dudado?",
+      "options": ["fe", "valor", "fuerza"],
+      "answer": "fe",
+      "explanation": "Mt 14,31: esta respuesta de Jesús muestra que la duda puede hacer hundir incluso a quien ya camina con él."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 14,31 · La duda de Pedro",
+      "direction": "es-es",
+      "tiles": ["Hombre", "de", "poca", "fe", "por", "qué", "has", "dudado", "valor", "fuerza"],
+      "answer": "Hombre de poca fe por qué has dudado",
+      "explanation": "Mt 14,31: esta respuesta de Jesús muestra que la duda puede hacer hundir incluso a quien ya camina con él."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde Pedro cuando Jesús pregunta \"¿quién decís que soy yo?\", en Mateo 16?",
+      "options": ["«Tú eres el Mesías, el Hijo del Dios vivo»", "«Tú eres un gran profeta, como Elías»", "Guarda silencio, sin saber qué responder"],
+      "correct": 0,
+      "hint": "Jesús le responde: «bienaventurado tú, Simón, hijo de Jonás».",
+      "explanation": "Mt 16,16: «tú eres el Mesías, el Hijo del Dios vivo»."
+    },
+    {
+      "type": "gap",
+      "text": "Tú eres el Mesías, el Hijo del Dios ___.",
+      "options": ["vivo", "eterno", "fuerte"],
+      "answer": "vivo",
+      "explanation": "Mt 16,16: esta confesión de fe se convierte en fundamento visible de la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 16,16 · La confesión de fe de Pedro",
+      "direction": "es-es",
+      "tiles": ["Tú", "eres", "el", "Mesías", "el", "Hijo", "del", "Dios", "vivo", "eterno", "fuerte"],
+      "answer": "Tú eres el Mesías el Hijo del Dios vivo",
+      "explanation": "Mt 16,16: esta confesión de fe se convierte en fundamento visible de la Iglesia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Jesús a Pedro tras su confesión de fe, en Mateo 16?",
+      "options": ["Que será el primero en abandonar al grupo de discípulos", "Que sobre él edificará su Iglesia, y el poder del infierno no la vencerá", "Que deberá cambiar su nombre por el de Juan"],
+      "correct": 1,
+      "hint": "También le promete «las llaves del reino de los cielos».",
+      "explanation": "Mt 16,18: «tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y el poder del infierno no la derrotará»."
+    },
+    {
+      "type": "gap",
+      "text": "Tú eres Pedro, y sobre esta piedra edificaré mi ___.",
+      "options": ["Iglesia", "reino", "templo"],
+      "answer": "Iglesia",
+      "explanation": "Mt 16,18: este anuncio establece a Pedro como fundamento visible de la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 16,18 · El fundamento de la Iglesia",
+      "direction": "es-es",
+      "tiles": ["Sobre", "esta", "piedra", "edificaré", "mi", "Iglesia", "reino", "templo"],
+      "answer": "Sobre esta piedra edificaré mi Iglesia",
+      "explanation": "Mt 16,18: este anuncio establece a Pedro como fundamento visible de la Iglesia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "La parábola del grano de mostaza", "es": "Una de varias parábolas del reino en Mateo 13" },
+        { "en": "La multiplicación de los panes", "es": "Milagro realizado ante una multitud numerosa en un lugar despoblado" },
+        { "en": "La Transfiguración", "es": "Ocurre ante Pedro, Santiago y Juan en un monte alto" },
+        { "en": "La pregunta sobre el perdón", "es": "Surge de Pedro, preocupado por fijar un límite razonable" },
+        { "en": "Los niños bendecidos", "es": "Muestran a quiénes pertenece especialmente el reino de los cielos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se escucha desde la nube en el momento de la Transfiguración, en Mateo 17?",
+      "options": ["«Bajad del monte inmediatamente, sin demora»", "Ningún sonido, solo un silencio absoluto", "«Este es mi Hijo, el amado, en quien me complazco. Escuchadlo»"],
+      "correct": 2,
+      "hint": "Antes de esto, Moisés y Elías aparecen conversando con Jesús.",
+      "explanation": "Mt 17,5: «una voz desde la nube decía: “este es mi Hijo, el amado, en quien me complazco. Escuchadlo”»."
+    },
+    {
+      "type": "gap",
+      "text": "Este es mi Hijo, el amado, en quien me complazco. ___.",
+      "options": ["Escuchadlo", "Seguidlo", "Temedlo"],
+      "answer": "Escuchadlo",
+      "explanation": "Mt 17,5: esta voz confirma solemnemente la identidad de Jesús ante sus tres discípulos más cercanos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 17,5 · La voz en la Transfiguración",
+      "direction": "es-es",
+      "tiles": ["Este", "es", "mi", "Hijo", "el", "amado", "siervo", "profeta"],
+      "answer": "Este es mi Hijo el amado",
+      "explanation": "Mt 17,5: esta voz confirma solemnemente la identidad de Jesús ante sus tres discípulos más cercanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántas veces manda Jesús perdonar a quien nos ofende, en Mateo 18?",
+      "options": ["Setenta veces siete", "Exactamente siete veces, ni una más", "Solo una vez, después ya no hay obligación"],
+      "correct": 0,
+      "hint": "Pedro le había preguntado si bastaba con perdonar «hasta siete veces».",
+      "explanation": "Mt 18,22: «no te digo hasta siete veces, sino hasta setenta veces siete»."
+    },
+    {
+      "type": "gap",
+      "text": "No te digo hasta siete veces, sino hasta ___ veces siete.",
+      "options": ["setenta", "setecientas", "setenta y siete"],
+      "answer": "setenta",
+      "explanation": "Mt 18,22: esta respuesta de Jesús supera cualquier cálculo razonable de justicia humana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 18,22 · El perdón sin límite",
+      "direction": "es-es",
+      "tiles": ["Hasta", "setenta", "veces", "siete", "debes", "perdonar", "veinte", "cien"],
+      "answer": "Hasta setenta veces siete debes perdonar",
+      "explanation": "Mt 18,22: esta respuesta de Jesús supera cualquier cálculo razonable de justicia humana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús cuando los discípulos regañan a quienes traen niños para que los bendiga, en Mateo 19?",
+      "options": ["Que los niños deben esperar a ser mayores", "«Dejadlos, no impidáis a los niños acercarse a mí»", "Que solo bendecirá a los adultos presentes"],
+      "correct": 1,
+      "hint": "Añade: «de los que son como ellos es el reino de los cielos».",
+      "explanation": "Mt 19,14: «dejadlos, no impidáis a los niños acercarse a mí; de los que son como ellos es el reino de los cielos»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué enseña Jesús sobre la verdadera grandeza, en el capítulo 20?",
+      "options": ["Que consiste en mandar con autoridad sobre los demás", "Que se mide por la cantidad de riquezas acumuladas", "Que el que quiera ser grande, que sea servidor de los demás"],
+      "correct": 2,
+      "hint": "Añade que el Hijo del hombre «no ha venido a ser servido sino a servir».",
+      "explanation": "Mt 20,26-28: «el que quiera ser grande entre vosotros, que sea vuestro servidor... no ha venido a ser servido sino a servir»."
+    },
+    {
+      "type": "gap",
+      "text": "El que quiera ser grande entre vosotros, que sea vuestro ___.",
+      "options": ["servidor", "jefe", "maestro"],
+      "answer": "servidor",
+      "explanation": "Mt 20,26: esta enseñanza define la verdadera grandeza según Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mt 20,26 · El servicio como grandeza",
+      "direction": "es-es",
+      "tiles": ["El", "que", "quiera", "ser", "grande", "que", "sea", "vuestro", "servidor", "jefe", "maestro"],
+      "answer": "El que quiera ser grande que sea vuestro servidor",
+      "explanation": "Mt 20,26: esta enseñanza define la verdadera grandeza según Jesús."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El crecimiento del reino", "es": "Empieza en lo pequeño y se expande con el tiempo" },
+        { "en": "La fe de Pedro sobre el agua", "es": "Muestra que la duda puede hacer hundir incluso al que ya camina con Jesús" },
+        { "en": "La confesión de fe", "es": "Se convierte en fundamento visible de la Iglesia" },
+        { "en": "El perdón sin límite", "es": "Supera cualquier cálculo razonable de justicia humana" },
+        { "en": "El servicio a los demás", "es": "Define la verdadera grandeza según Jesús" }
+      ]
+    }
+  ]
+}
