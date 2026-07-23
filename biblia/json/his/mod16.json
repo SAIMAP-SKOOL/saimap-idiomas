@@ -1,0 +1,251 @@
+{
+  "id": "his-mod16",
+  "module": 16,
+  "title": "2 Crónicas I — Salomón, Asá y Josafat",
+  "subtitle": "2 Crónicas 1–20",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué detalle exclusivo de 2 Crónicas ocurre al terminar la oración de Salomón en la dedicación del templo?",
+      "options": ["Bajó fuego del cielo que devoró el holocausto y los sacrificios", "Sonaron trompetas durante toda la noche", "El pueblo entero cayó dormido de asombro"],
+      "correct": 0,
+      "hint": "Este prodigio no aparece en el relato paralelo de 1 Reyes.",
+      "explanation": "2Cr 7:1: «bajó fuego del cielo, que devoró el holocausto y los sacrificios. La gloria de Dios llenó el templo» — un detalle propio de Crónicas, ausente en 1 Reyes."
+    },
+    {
+      "type": "gap",
+      "text": "Al terminar la oración de Salomón, bajó ___ del cielo que devoró el sacrificio.",
+      "options": ["fuego", "lluvia", "maná"],
+      "answer": "fuego",
+      "explanation": "2Cr 7:1: junto a la nube que ya llenaba el templo, este fuego confirma de forma aún más visible la aceptación divina del santuario."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 7:1 · El fuego del cielo en la dedicación del templo",
+      "direction": "es-es",
+      "tiles": ["Bajó", "fuego", "del", "cielo", "que", "devoró", "el", "holocausto", "agua", "humo"],
+      "answer": "Bajó fuego del cielo que devoró el holocausto",
+      "explanation": "2Cr 7:1: este prodigio, exclusivo del relato de Crónicas, remarca la santidad del templo recién dedicado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Salomón", "es": "Pidió sabiduría y vio bajar fuego del cielo" },
+        { "en": "La reina de Saba", "es": "Quedó admirada por la sabiduría de Salomón" },
+        { "en": "Roboán", "es": "Respondió con dureza y perdió diez tribus" },
+        { "en": "Asá", "es": "Reformó el culto y venció a Zéraj" },
+        { "en": "Josafat", "es": "Reformó los tribunales y venció sin combatir" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Salomón pidió a Dios sabiduría y ___ para gobernar a su pueblo.",
+      "options": ["ciencia", "riquezas", "ejércitos"],
+      "answer": "ciencia",
+      "explanation": "2Cr 1:10: «dame sabiduría y ciencia para dirigir a este pueblo» — la petición de Salomón antepone el buen gobierno a cualquier bien material."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pidió Salomón a Dios en Guibeón?",
+      "options": ["Un largo reinado sin enemigos", "Sabiduría y ciencia para gobernar a su pueblo", "La derrota inmediata de los filisteos"],
+      "correct": 1,
+      "hint": "Su petición se centra en la capacidad de gobernar bien, no en el poder personal.",
+      "explanation": "2Cr 1:10: Dios, complacido con esta petición, concede a Salomón además riquezas, bienes y gloria sin precedentes."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la dedicación del templo con su dato",
+      "pairs": [
+        { "en": "La nube", "es": "Llenó el templo con la gloria del Señor" },
+        { "en": "El fuego del cielo", "es": "Devoró el holocausto, detalle propio de Crónicas" },
+        { "en": "La oración de Salomón", "es": "Súplica de perdón ante toda la asamblea" },
+        { "en": "Los sacerdotes", "es": "No pudieron seguir oficiando por la gloria del Señor" },
+        { "en": "La reina de Saba", "es": "Llegó después, atraída por la fama de Salomón" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "La reina de Saba dijo a Salomón que no le habían contado ni la ___ de lo que vio.",
+      "options": ["mitad", "cuarta parte", "décima parte"],
+      "answer": "mitad",
+      "explanation": "2Cr 9:6: la reina, admirada, reconoce que la fama de Salomón se quedaba corta comparada con lo que comprobó con sus propios ojos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 9:6 · El asombro de la reina de Saba",
+      "direction": "es-es",
+      "tiles": ["No", "me", "dijeron", "ni", "la", "mitad", "verdad", "nada"],
+      "answer": "No me dijeron ni la mitad",
+      "explanation": "2Cr 9:6: la reina de Saba viaja para comprobar personalmente la fama de Salomón, y queda todavía más impresionada de lo que esperaba."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué impresionó tanto a la reina de Saba al visitar a Salomón?",
+      "options": ["El tamaño de su ejército permanente", "La belleza de los jardines del palacio", "Su sabiduría, superior incluso a lo que ella había oído contar"],
+      "correct": 2,
+      "hint": "Su reacción confirma con creces la fama que la había motivado a viajar hasta Jerusalén.",
+      "explanation": "2Cr 9:5-6: la reina propone enigmas a Salomón para poner a prueba su sabiduría, y termina reconociendo que la realidad supera lo que había escuchado."
+    },
+    {
+      "type": "gap",
+      "text": "Roboán amenazó al pueblo: mi padre os azotó con látigos, yo os azotaré con ___.",
+      "options": ["escorpiones", "espadas", "cadenas"],
+      "answer": "escorpiones",
+      "explanation": "2Cr 10:11: esta respuesta soberbia de Roboán provoca la ruptura definitiva entre las diez tribus del norte y la casa de David."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 10:11 · La amenaza de Roboán al pueblo",
+      "direction": "es-es",
+      "tiles": ["Yo", "os", "azotaré", "con", "escorpiones", "perdonaré", "coronaré"],
+      "answer": "Yo os azotaré con escorpiones",
+      "explanation": "2Cr 10:11: la dureza de esta respuesta desencadena la rebelión de las diez tribus del norte y la división del reino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo respondió Roboán a la petición del pueblo de aliviar el yugo impuesto por Salomón?",
+      "options": ["Prometió gobernar con más justicia que su padre", "Convocó una asamblea para decidir junto al pueblo", "Respondió con dureza, amenazando con azotarlos con escorpiones"],
+      "correct": 2,
+      "hint": "Sigue el consejo de los jóvenes en vez del de los ancianos, con consecuencias inmediatas.",
+      "explanation": "2Cr 10: tras esta respuesta, Israel se rebela contra la casa de David, y Roboán queda reinando solo sobre Judá y Benjamín."
+    },
+    {
+      "type": "gap",
+      "text": "El rey Asá suprimió los altares extranjeros y los santuarios ___ de Judá.",
+      "options": ["paganos", "antiguos", "reales"],
+      "answer": "paganos",
+      "explanation": "2Cr 14-15: la reforma religiosa de Asá busca devolver a Judá la fidelidad exclusiva al Señor tras años de tolerancia idolátrica."
+    },
+    {
+      "type": "gap",
+      "text": "Asá oró: Señor, nadie como tú puede ayudar al poderoso o al ___.",
+      "options": ["desvalido", "rico", "extranjero"],
+      "answer": "desvalido",
+      "explanation": "2Cr 14:10: esta oración precede a la sorprendente victoria de Judá sobre el ejército cusita de Zéraj, muy superior en número."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 14:10 · La oración de Asá ante el ejército de Zéraj",
+      "direction": "es-es",
+      "tiles": ["Nadie", "como", "tú", "puede", "ayudar", "al", "desvalido", "poderoso", "rico"],
+      "answer": "Nadie como tú puede ayudar al desvalido",
+      "explanation": "2Cr 14:10-11: confiando en esta oración, Asá se enfrenta a un ejército muchísimo más numeroso y obtiene una gran victoria."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo respondió Asá cuando el ejército cusita de Zéraj invadió Judá?",
+      "options": ["Oró pidiendo ayuda, confiando en que Dios ayuda al débil frente al fuerte", "Pagó un tributo para evitar la batalla", "Huyó con toda su corte a Egipto"],
+      "correct": 0,
+      "hint": "Su confianza se apoya en la desproporción misma de fuerzas, no a pesar de ella.",
+      "explanation": "2Cr 14:8-11: frente a un ejército de un millón de hombres, Asá confía en que el Señor puede ayudar tanto al fuerte como al débil, y obtiene la victoria."
+    },
+    {
+      "type": "gap",
+      "text": "Josafat advirtió a los jueces que no juzgaban en nombre de los hombres, sino del ___.",
+      "options": ["Señor", "rey", "pueblo"],
+      "answer": "Señor",
+      "explanation": "2Cr 19:6: esta advertencia subraya la responsabilidad última de los jueces ante Dios, más allá de cualquier autoridad humana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 19:6 · La advertencia de Josafat a los jueces",
+      "direction": "es-es",
+      "tiles": ["No", "juzgáis", "en", "nombre", "de", "los", "hombres", "reyes", "pueblos"],
+      "answer": "No juzgáis en nombre de los hombres",
+      "explanation": "2Cr 19:6: Josafat recuerda a los jueces recién nombrados que su autoridad procede directamente de Dios, no de un cargo político."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reforma llevó a cabo el rey Josafat en el ámbito judicial?",
+      "options": ["Abolió por completo los tribunales locales", "Nombró jueces en las ciudades, advirtiéndoles que juzgaban en nombre del Señor", "Trasladó todos los juicios a Jerusalén"],
+      "correct": 1,
+      "hint": "La reforma refuerza la justicia local, no la centraliza.",
+      "explanation": "2Cr 19: Josafat organiza un sistema de jueces por todo el reino, insistiendo en que su función tiene una dimensión religiosa, no solo política."
+    },
+    {
+      "type": "gap",
+      "text": "El levita ___ anunció a Josafat que no tendrían que combatir.",
+      "options": ["Jahaziel", "Natán", "Elías"],
+      "answer": "Jahaziel",
+      "explanation": "2Cr 20:14-17: Jahaziel, inspirado por el espíritu del Señor, anuncia una victoria sin necesidad de luchar, ante la invasión de moabitas y amonitas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anunció el levita Jahaziel a Josafat ante la invasión de moabitas y amonitas?",
+      "options": ["Que debían negociar la rendición cuanto antes", "Que debían atacar de inmediato al amanecer", "Que no tendrían que combatir, pues la guerra era del Señor"],
+      "correct": 2,
+      "hint": "Su anuncio invierte por completo la lógica habitual de la preparación militar.",
+      "explanation": "2Cr 20:15.17: «no tendréis que pelear... permaneced quietos y ved la salvación que el Señor os concede»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 20:17 · El anuncio de Jahaziel antes de la batalla",
+      "direction": "es-es",
+      "tiles": ["No", "tendréis", "que", "pelear", "permaneced", "quietos", "atacad", "huid"],
+      "answer": "No tendréis que pelear permaneced quietos",
+      "explanation": "2Cr 20:15-17: la profecía de Jahaziel transforma por completo la actitud del ejército de Judá ante una invasión numéricamente superior."
+    },
+    {
+      "type": "gap",
+      "text": "Josafat puso a los ___ en vanguardia del ejército, entonando alabanzas.",
+      "options": ["cantores", "arqueros", "sacerdotes"],
+      "answer": "cantores",
+      "explanation": "2Cr 20:21: esta estrategia insólita sustituye el armamento convencional por la alabanza como forma de ir al encuentro del enemigo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué estrategia insólita usó Josafat frente al ejército invasor?",
+      "options": ["Puso a los cantores en vanguardia, entonando alabanzas", "Envió mensajeros a negociar en secreto con el enemigo", "Dividió el ejército en pequeños grupos de asalto nocturno"],
+      "correct": 0,
+      "hint": "Sustituye la primera línea de combate por una expresión de confianza en Dios.",
+      "explanation": "2Cr 20:21: siguiendo el consejo recibido, Josafat organiza cantores que marchan al frente del ejército alabando al Señor, en vez de soldados armados."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 20:21 · El canto de los levitas al frente del ejército",
+      "direction": "es-es",
+      "tiles": ["Dad", "gracias", "al", "Señor", "porque", "es", "eterna", "su", "misericordia", "ira"],
+      "answer": "Dad gracias al Señor porque es eterna su misericordia",
+      "explanation": "2Cr 20:21: mientras los cantores entonan este himno, el Señor provoca la confusión entre los ejércitos enemigos, que se destruyen entre sí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 20:6 · El comienzo de la oración de Josafat en el templo",
+      "direction": "es-es",
+      "tiles": ["No", "eres", "tú", "el", "Dios", "del", "cielo", "hombre", "pueblo"],
+      "answer": "No eres tú el Dios del cielo",
+      "explanation": "2Cr 20:6: Josafat abre su oración reconociendo el señorío universal de Dios antes de exponer la amenaza que se cierne sobre Judá."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la batalla de Josafat con su dato",
+      "pairs": [
+        { "en": "Jahaziel", "es": "Anuncia que la guerra es del Señor" },
+        { "en": "Los cantores", "es": "Salen en vanguardia entonando alabanzas" },
+        { "en": "Moabitas y amonitas", "es": "Invasores que se destruyen entre sí" },
+        { "en": "Josafat", "es": "Ora en el templo antes de la batalla" },
+        { "en": "Judá", "es": "No dispara ni una flecha en toda la batalla" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo terminó la batalla contra moabitas, amonitas y la gente de Seír?",
+      "options": ["Judá venció tras una larga y dura lucha", "Los enemigos se destruyeron entre sí sin que Judá llegara a combatir", "Ambos bandos se retiraron sin vencedor claro"],
+      "correct": 1,
+      "hint": "Judá se limita a presenciar el desenlace desde una distancia segura.",
+      "explanation": "2Cr 20:22-24: el Señor provoca una emboscada de confusión entre los ejércitos invasores, que acaban luchando entre sí, sin que Judá tenga que intervenir."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada rey con su reforma o hazaña principal",
+      "pairs": [
+        { "en": "Asá", "es": "Suprimió los altares e ídolos paganos" },
+        { "en": "Josafat", "es": "Nombró jueces en las ciudades fortificadas" },
+        { "en": "Roboán", "es": "Perdió diez tribus por su dureza" },
+        { "en": "Jeroboán", "es": "Primer rey de las diez tribus del norte" },
+        { "en": "Salomón", "es": "Dedicó el templo con fuego bajado del cielo" }
+      ]
+    }
+  ]
+}

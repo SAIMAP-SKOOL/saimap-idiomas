@@ -1,0 +1,251 @@
+{
+  "id": "his-mod17",
+  "module": 17,
+  "title": "2 Crónicas II — Uzías, Manasés y el Decreto de Ciro",
+  "subtitle": "2 Crónicas 26–36",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo el rey Uzías que provocó su castigo con lepra?",
+      "options": ["Entró en el templo para quemar incienso, función reservada a los sacerdotes", "Destruyó el altar del templo por soberbia", "Prohibió las peregrinaciones a Jerusalén"],
+      "correct": 0,
+      "hint": "Su éxito y poder lo llevaron a usurpar una función que no le correspondía.",
+      "explanation": "2Cr 26:16.19: «se llenó de soberbia... hasta el punto de entrar en el templo del Señor para quemar incienso» — los sacerdotes protestaron, y la lepra brotó en su frente ante ellos."
+    },
+    {
+      "type": "gap",
+      "text": "Uzías provocó la ira de Dios al querer quemar ___ en el templo, tarea reservada a los sacerdotes.",
+      "options": ["incienso", "pan", "aceite"],
+      "answer": "incienso",
+      "explanation": "2Cr 26:16-18: los sacerdotes le advirtieron que esa función no le correspondía a él, sino a los descendientes de Aarón."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 26:16 · La soberbia de Uzías",
+      "direction": "es-es",
+      "tiles": ["Se", "llenó", "de", "soberbia", "hasta", "pervertirse", "humildad", "sabiduría"],
+      "answer": "Se llenó de soberbia hasta pervertirse",
+      "explanation": "2Cr 26:16: el éxito y el poder de Uzías lo llevan a traspasar los límites de su función real, invadiendo el terreno reservado a los sacerdotes."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Uzías", "es": "Castigado con lepra por quemar incienso indebidamente" },
+        { "en": "Ezequías", "es": "Celebró una gran Pascua invitando también al norte" },
+        { "en": "Manasés", "es": "Se arrepintió en cautiverio y fue restaurado" },
+        { "en": "Josías", "es": "Murió en la batalla de Meguido" },
+        { "en": "Ciro", "es": "Rey persa que permitió el regreso y la reconstrucción del templo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Como castigo, la ___ brotó en la frente de Uzías, y quedó así hasta su muerte.",
+      "options": ["lepra", "ceguera", "parálisis"],
+      "answer": "lepra",
+      "explanation": "2Cr 26:19-21: Uzías quedó apartado del templo y del gobierno directo durante el resto de su vida a causa de esta enfermedad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 26:18 · La protesta de los sacerdotes ante Uzías",
+      "direction": "es-es",
+      "tiles": ["No", "te", "corresponde", "a", "ti", "sino", "a", "los", "sacerdotes", "reyes"],
+      "answer": "No te corresponde a ti sino a los sacerdotes",
+      "explanation": "2Cr 26:18: los sacerdotes se enfrentan valientemente al rey para recordarle los límites de su autoridad ante el culto del templo."
+    },
+    {
+      "type": "gap",
+      "text": "Ezequías invitó también a las tribus del ___ a celebrar la Pascua en Jerusalén.",
+      "options": ["norte", "sur", "desierto"],
+      "answer": "norte",
+      "explanation": "2Cr 30:1: este gesto de Ezequías, exclusivo del relato de Crónicas, busca reunir de nuevo en un mismo culto a las tribus separadas desde la división del reino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tuvo de especial la Pascua celebrada por Ezequías, según 2 Crónicas?",
+      "options": ["Fue la primera Pascua celebrada en toda la historia de Israel", "Invitó también a las tribus del reino del norte, ya separadas", "Se celebró en secreto por miedo a los asirios"],
+      "correct": 1,
+      "hint": "El gesto busca una reconciliación religiosa más allá de la frontera política entre los dos reinos.",
+      "explanation": "2Cr 30:1.13: Ezequías envía cartas a todo Israel y Judá, y «se congregaron en Jerusalén muchísima gente» para la fiesta, incluyendo israelitas del norte."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurrió al rey Manasés como castigo por su gran maldad?",
+      "options": ["Fue depuesto por los sacerdotes del templo", "Murió en una plaga que asoló Jerusalén", "Fue apresado con ganchos y llevado cautivo a Babilonia"],
+      "correct": 2,
+      "hint": "Su captura es especialmente humillante para un rey.",
+      "explanation": "2Cr 33:11: «el Señor envió contra Manasés a los jefes del ejército... lo apresaron con ganchos» y lo llevaron cautivo a Babilonia."
+    },
+    {
+      "type": "gap",
+      "text": "Manasés fue apresado con ___ y llevado cautivo a Babilonia.",
+      "options": ["ganchos", "cadenas", "redes"],
+      "answer": "ganchos",
+      "explanation": "2Cr 33:11: este detalle, exclusivo de 2 Crónicas, no aparece en el relato paralelo de 2 Reyes sobre Manasés."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del episodio de Manasés con su dato",
+      "pairs": [
+        { "en": "Los jefes del ejército asirio", "es": "Apresaron a Manasés con ganchos" },
+        { "en": "La oración", "es": "Expresión del arrepentimiento de Manasés en el destierro" },
+        { "en": "Dios", "es": "Escucha su súplica y lo restaura" },
+        { "en": "El trono de Jerusalén", "es": "Recuperado por Manasés tras su conversión" },
+        { "en": "El altar del Señor", "es": "Reparado por Manasés tras su regreso" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Manasés estando cautivo en Babilonia, según el relato exclusivo de Crónicas?",
+      "options": ["Se humilló profundamente y oró al Señor", "Organizó una rebelión contra sus captores", "Se negó a reconocer su culpa hasta el final"],
+      "correct": 0,
+      "hint": "Su reacción contrasta radicalmente con la maldad de su reinado anterior.",
+      "explanation": "2Cr 33:12: «en su angustia imploró al Señor, su Dios, y se humilló profundamente ante el Dios de sus padres» — el giro más sorprendente de todo el libro."
+    },
+    {
+      "type": "gap",
+      "text": "En su angustia, Manasés se ___ profundamente ante el Dios de sus padres.",
+      "options": ["humilló", "rebeló", "escondió"],
+      "answer": "humilló",
+      "explanation": "2Cr 33:12: este arrepentimiento sincero contrasta con la idolatría y la violencia que habían marcado su largo reinado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 33:12 · El arrepentimiento de Manasés en el destierro",
+      "direction": "es-es",
+      "tiles": ["Se", "humilló", "profundamente", "ante", "el", "Dios", "de", "sus", "padres", "reyes"],
+      "answer": "Se humilló profundamente ante el Dios de sus padres",
+      "explanation": "2Cr 33:12: este es uno de los relatos de conversión más notables del Antiguo Testamento, protagonizado por uno de los peores reyes de Judá."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió tras la oración de arrepentimiento de Manasés?",
+      "options": ["Murió poco después, todavía en el destierro", "Dios lo escuchó y lo devolvió a su trono en Jerusalén", "Fue perdonado, pero nunca pudo regresar a Judá"],
+      "correct": 1,
+      "hint": "Su restauración incluye no solo el perdón, sino también el poder político.",
+      "explanation": "2Cr 33:13: «el Señor escuchó su petición... lo devolvió a Jerusalén, a su reino» — tras esto, Manasés emprende una reforma religiosa, reparando el altar del Señor."
+    },
+    {
+      "type": "gap",
+      "text": "Tras escuchar su oración, Dios devolvió a Manasés a su ___ en Jerusalén.",
+      "options": ["trono", "templo", "familia"],
+      "answer": "trono",
+      "explanation": "2Cr 33:13: la restauración de Manasés es completa — recupera tanto el favor divino como su posición como rey."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 33:13 · La restauración de Manasés",
+      "direction": "es-es",
+      "tiles": ["Lo", "devolvió", "a", "Jerusalén", "a", "su", "reino", "castigó", "exilio"],
+      "answer": "Lo devolvió a Jerusalén a su reino",
+      "explanation": "2Cr 33:13-16: tras su regreso, Manasés quita los dioses extraños y repara el altar del Señor, revirtiendo buena parte de su reinado anterior."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo murió el rey Josías?",
+      "options": ["De una enfermedad repentina en Jerusalén", "Asesinado en una conspiración palaciega", "Herido por los arqueros egipcios en la batalla de Meguido"],
+      "correct": 2,
+      "hint": "Intenta interceptar al ejército egipcio en su camino hacia el norte.",
+      "explanation": "2Cr 35:23-24: Josías es herido por los arqueros del faraón Necao en Meguido, y muere poco después."
+    },
+    {
+      "type": "gap",
+      "text": "Josías murió herido por los arqueros egipcios en la batalla de ___.",
+      "options": ["Meguido", "Carmelo", "Guilboa"],
+      "answer": "Meguido",
+      "explanation": "2Cr 35:20-24: su muerte pone fin a la última gran reforma religiosa de Judá antes de la caída del reino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 34:14 · El hallazgo del libro de la ley en tiempos de Josías",
+      "direction": "es-es",
+      "tiles": ["Encontraron", "el", "libro", "de", "la", "ley", "del", "Señor", "profetas", "reyes"],
+      "answer": "Encontraron el libro de la ley del Señor",
+      "explanation": "2Cr 34:14: este hallazgo, paralelo al de 2 Reyes 22, desencadena la gran reforma religiosa de Josías."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del final del reino con su dato",
+      "pairs": [
+        { "en": "Josías", "es": "Halla el libro de la ley y muere en Meguido" },
+        { "en": "Los últimos reyes", "es": "Joacaz, Joacim, Joaquín y Sedecías" },
+        { "en": "Nabucodonosor", "es": "Destruye el templo y deporta al pueblo" },
+        { "en": "Los setenta años", "es": "Duración del exilio, según Crónicas" },
+        { "en": "Ciro", "es": "Emite el decreto que permite el regreso" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué razón da 2 Crónicas para explicar la duración del exilio, setenta años?",
+      "options": ["Para que la tierra gozara de los sábados que no había guardado", "Porque así lo exigió expresamente el rey de Babilonia", "Por una antigua promesa que Dios había hecho a Ciro"],
+      "correct": 0,
+      "hint": "La explicación conecta el exilio con el descanso sabático que Israel había descuidado.",
+      "explanation": "2Cr 36:21: «la tierra gozó de sus sábados; todos los días de la desolación guardó sábado, hasta que se cumplieron setenta años»."
+    },
+    {
+      "type": "gap",
+      "text": "Según Crónicas, el exilio duró setenta años para que la tierra gozara de sus ___.",
+      "options": ["sábados", "cosechas", "fiestas"],
+      "answer": "sábados",
+      "explanation": "2Cr 36:21: esta interpretación teológica presenta el exilio como una compensación por los años sabáticos incumplidos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 36:21 · El sentido teológico de los setenta años de exilio",
+      "direction": "es-es",
+      "tiles": ["La", "tierra", "gozó", "de", "sus", "sábados", "reyes", "templos"],
+      "answer": "La tierra gozó de sus sábados",
+      "explanation": "2Cr 36:21: el exilio se interpreta como un tiempo de reparación, no solo de castigo, en el que la tierra descansa lo que no había descansado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué permitía el decreto de Ciro, rey de Persia, al final de 2 Crónicas?",
+      "options": ["La anexión definitiva de Judá al imperio persa", "La reconstrucción del templo de Jerusalén y el regreso de los deportados", "La abolición del culto judío en todo el imperio"],
+      "correct": 1,
+      "hint": "El decreto marca el final del exilio y abre una nueva etapa de esperanza.",
+      "explanation": "2Cr 36:23: Ciro autoriza a «quien haya entre vosotros de su pueblo» a subir a Jerusalén y reconstruir el templo, cerrando el libro con una nota de esperanza."
+    },
+    {
+      "type": "gap",
+      "text": "Ciro declaró: el Señor me ha encargado que le construya un ___ en Jerusalén.",
+      "options": ["templo", "palacio", "altar"],
+      "answer": "templo",
+      "explanation": "2Cr 36:23: el decreto de Ciro reconoce al Dios de Israel como quien le ha entregado el gobierno de todos los reinos de la tierra."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién atribuye Ciro, en su decreto, el encargo de construir el templo de Jerusalén?",
+      "options": ["A los sacerdotes de Babilonia", "Al consejo de sus generales persas", "Al Señor, Dios del cielo, que le entregó todos los reinos de la tierra"],
+      "correct": 2,
+      "hint": "El decreto reconoce una autoridad divina superior a la del propio rey persa.",
+      "explanation": "2Cr 36:23: «así dice Ciro, rey de Persia: el Señor, Dios del cielo, me ha entregado todos los reinos de la tierra y me ha encargado que le construya un templo en Jerusalén»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 36:23 · El decreto de Ciro (primera parte)",
+      "direction": "es-es",
+      "tiles": ["Me", "ha", "entregado", "todos", "los", "reinos", "de", "la", "tierra", "pueblos", "templos"],
+      "answer": "Me ha entregado todos los reinos de la tierra",
+      "explanation": "2Cr 36:23: Ciro reconoce que su vasto poder político procede, según el propio decreto, del Dios de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Cr 36:23 · El decreto de Ciro (cierre)",
+      "direction": "es-es",
+      "tiles": ["Que", "el", "Señor", "su", "Dios", "esté", "con", "él", "y", "suba", "quede", "huya"],
+      "answer": "Que el Señor su Dios esté con él y suba",
+      "explanation": "2Cr 36:23: estas son las últimas palabras del libro de 2 Crónicas — una invitación abierta a regresar, que el libro de Esdras retomará al comenzar."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del decreto de Ciro con su dato",
+      "pairs": [
+        { "en": "El Señor", "es": "Le entregó a Ciro todos los reinos de la tierra" },
+        { "en": "El templo de Jerusalén", "es": "Ciro ordena reconstruirlo" },
+        { "en": "El pueblo deportado", "es": "Autorizado a subir y regresar a Judá" },
+        { "en": "2 Crónicas", "es": "Termina con este decreto de esperanza" },
+        { "en": "El libro de Esdras", "es": "Continúa la historia del regreso" }
+      ]
+    }
+  ]
+}

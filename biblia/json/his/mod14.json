@@ -1,0 +1,251 @@
+{
+  "id": "his-mod14",
+  "module": 14,
+  "title": "1 Crónicas I — David, Rey y el Arca",
+  "subtitle": "1 Crónicas 10–21",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Por qué murió Saúl, según la explicación teológica que da 1 Crónicas?",
+      "options": ["Por haber sido infiel al Señor y consultar a una nigromante", "Por una traición de sus propios generales", "Por desobedecer una orden militar de sus jefes"],
+      "correct": 0,
+      "hint": "El libro de Crónicas insiste en la causa espiritual, más que en los detalles militares de la derrota.",
+      "explanation": "1Cr 10:13: «Saúl murió por haber sido infiel al Señor, por no guardar su palabra, pues llegó a interrogar y a consultar a una adivina» — resume así el final del primer rey de Israel."
+    },
+    {
+      "type": "gap",
+      "text": "Saúl murió por haber sido infiel al Señor y por consultar a una ___.",
+      "options": ["nigromante", "vidente", "sacerdote"],
+      "answer": "nigromante",
+      "explanation": "1Cr 10:13-14: Crónicas presenta la muerte de Saúl como consecuencia directa de su infidelidad religiosa, resumiendo en un solo versículo todo un reinado fracasado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Saúl", "es": "Murió por su infidelidad y por consultar a una nigromante" },
+        { "en": "David", "es": "Ungido rey en Hebrón ante los ancianos de Israel" },
+        { "en": "Joab", "es": "Primero en entrar en Jerusalén, nombrado general" },
+        { "en": "Uzá", "es": "Murió al tocar el arca de la alianza" },
+        { "en": "Ornán", "es": "Jebuseo dueño de la era comprada por David" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "David fue ungido rey de Israel en ___, ante los ancianos del pueblo.",
+      "options": ["Hebrón", "Jerusalén", "Belén"],
+      "answer": "Hebrón",
+      "explanation": "1Cr 11:3: «David hizo un pacto con ellos ante el Señor en Hebrón y le ungieron como rey de Israel»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 11:3 · La unción de David como rey",
+      "direction": "es-es",
+      "tiles": ["Le", "ungieron", "como", "rey", "de", "Israel", "juez", "profeta"],
+      "answer": "Le ungieron como rey de Israel",
+      "explanation": "1Cr 11:3: este pacto en Hebrón sella el reconocimiento de David como rey de todas las tribus, no solo de Judá."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién fue nombrado general del ejército de David por ser el primero en entrar en la fortaleza de Jerusalén?",
+      "options": ["Benaías", "Abisay", "Joab, hijo de Seruyá"],
+      "correct": 2,
+      "hint": "Se convertirá en el general más importante de todo el reinado de David.",
+      "explanation": "1Cr 11:6: «Joab, hijo de Seruyá, subió el primero y fue nombrado general» tras la conquista de la fortaleza jebusea de Sion."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 11:6 · Joab conquista Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Joab", "hijo", "de", "Seruyá", "subió", "el", "primero", "último", "David"],
+      "answer": "Joab hijo de Seruyá subió el primero",
+      "explanation": "1Cr 11:6: por esta hazaña, Joab se convierte en el general del ejército de David durante todo su reinado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurrió a Uzá cuando alargó la mano para sujetar el arca?",
+      "options": ["Murió, herido por la ira del Señor", "Fue expulsado del cortejo por su torpeza", "Recibió una bendición especial por su reflejo"],
+      "correct": 0,
+      "hint": "Su muerte da nombre al lugar donde ocurrió el incidente.",
+      "explanation": "1Cr 13:9-10: al tropezar los bueyes, Uzá extiende la mano para evitar que el arca caiga, y muere en el acto — el lugar se llamará después «Peres de Uzá»."
+    },
+    {
+      "type": "gap",
+      "text": "Uzá murió al alargar la mano para sujetar el ___ cuando los bueyes tropezaron.",
+      "options": ["arca", "carro", "buey"],
+      "answer": "arca",
+      "explanation": "1Cr 13:9-10: el incidente detiene por un tiempo el traslado del arca a Jerusalén y provoca el temor de David."
+    },
+    {
+      "type": "gap",
+      "text": "El lugar donde murió Uzá fue llamado ___.",
+      "options": ["Peres de Uzá", "Ebenézer", "Guilgal"],
+      "answer": "Peres de Uzá",
+      "explanation": "1Cr 13:11: el nombre del lugar recuerda para siempre la irrupción divina que interrumpió el primer traslado del arca."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué falló el primer intento de trasladar el arca a Jerusalén?",
+      "options": ["Porque estalló una tormenta repentina", "Porque no se transportó según la ley, en un carro en vez de a hombros de levitas", "Porque los filisteos atacaron la procesión"],
+      "correct": 1,
+      "hint": "El segundo intento se hace corrigiendo precisamente este error ritual.",
+      "explanation": "1Cr 15:2.13: David reconoce después que el arca debía ser llevada por los levitas, según la ley mosaica, y no en un carro tirado por bueyes."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada episodio del arca con su dato",
+      "pairs": [
+        { "en": "El primer intento", "es": "Fracasa; muere Uzá al tocar el arca" },
+        { "en": "Peres de Uzá", "es": "Nombre del lugar de la tragedia" },
+        { "en": "El segundo intento", "es": "Los levitas la transportan según la ley" },
+        { "en": "El salmo de David", "es": "Canto de acción de gracias al llegar el arca" },
+        { "en": "Jerusalén", "es": "Ciudad donde finalmente se instala el arca" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 16:8 · El salmo de acción de gracias de David",
+      "direction": "es-es",
+      "tiles": ["Dad", "gracias", "al", "Señor", "invocad", "su", "nombre", "callad", "temblad"],
+      "answer": "Dad gracias al Señor invocad su nombre",
+      "explanation": "1Cr 16:8: David compone este salmo para celebrar la llegada exitosa del arca a Jerusalén, tras corregir el error del primer intento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Natán a David de parte de Dios sobre su hijo Salomón?",
+      "options": ["Que sería el más rico de todos los reyes de Israel", "Que gobernaría solo sobre las tribus del sur", "Que él construiría el templo y su trono estaría firme para siempre"],
+      "correct": 2,
+      "hint": "La promesa combina una tarea concreta con una garantía sobre el futuro de la dinastía.",
+      "explanation": "1Cr 17:12.14: «tu hijo Salomón edificará mi templo... lo confirmaré para siempre en mi casa y en mi reino, y su trono estará firme eternamente»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 17:14 · La promesa dinástica a través de Natán",
+      "direction": "es-es",
+      "tiles": ["Su", "trono", "estará", "firme", "eternamente", "roto", "un", "día"],
+      "answer": "Su trono estará firme eternamente",
+      "explanation": "1Cr 17:14: esta promesa, paralela a la de 2Sam 7, es el fundamento de la esperanza mesiánica ligada a la casa de David."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su papel en la promesa y el reinado de David",
+      "pairs": [
+        { "en": "Natán", "es": "Transmite a David la promesa dinástica" },
+        { "en": "Salomón", "es": "Construirá el templo, según la promesa" },
+        { "en": "Los levitas", "es": "Encargados de transportar correctamente el arca" },
+        { "en": "Los ancianos de Israel", "es": "Ungen a David como rey en Hebrón" },
+        { "en": "Los jebuseos", "es": "Habitantes de la fortaleza que David conquista" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 17:12 · La promesa dinástica, otro fragmento",
+      "direction": "es-es",
+      "tiles": ["Lo", "confirmaré", "para", "siempre", "en", "mi", "casa", "destruiré", "reino"],
+      "answer": "Lo confirmaré para siempre en mi casa",
+      "explanation": "1Cr 17:12: este fragmento de la promesa transmitida por Natán refuerza la estabilidad eterna que Dios garantiza a la dinastía de David."
+    },
+    {
+      "type": "gap",
+      "text": "___ fue el primero en entrar en la fortaleza jebusea y por ello fue nombrado general.",
+      "options": ["Joab", "Benaías", "Abisay"],
+      "answer": "Joab",
+      "explanation": "1Cr 11:6: la hazaña de Joab en la conquista de Jerusalén le vale el mando del ejército durante todo el reinado de David."
+    },
+    {
+      "type": "gap",
+      "text": "Entre los valientes de David se cuentan guerreros como Eleazar, Abisay y ___.",
+      "options": ["Benaías", "Ornán", "Uzá"],
+      "answer": "Benaías",
+      "explanation": "1Cr 11: el capítulo dedica una larga lista a los guerreros de élite que acompañaron a David en sus campañas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué llevó a David a ordenar un censo de Israel, según 1 Crónicas?",
+      "options": ["Satán se alzó contra Israel e instigó a David", "Un mandato explícito del Señor", "La presión de sus propios generales"],
+      "correct": 0,
+      "hint": "A diferencia de otros episodios, aquí se señala explícitamente a una figura tentadora.",
+      "explanation": "1Cr 21:1: «Satán se alzó contra Israel e instigó a David a hacer un censo», un acto que desencadena un grave castigo sobre el pueblo."
+    },
+    {
+      "type": "gap",
+      "text": "Satán se alzó contra Israel e instigó a David a hacer un ___.",
+      "options": ["censo", "pacto", "templo"],
+      "answer": "censo",
+      "explanation": "1Cr 21:1: el propio Joab intenta disuadir a David de este censo, sin éxito."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 21:1 · El origen del censo de David",
+      "direction": "es-es",
+      "tiles": ["Satán", "se", "alzó", "contra", "Israel", "ángel", "profeta"],
+      "answer": "Satán se alzó contra Israel",
+      "explanation": "1Cr 21:1: esta es una de las pocas veces que el Antiguo Testamento atribuye explícitamente una tentación a esta figura."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué castigo siguió al censo ordenado por David?",
+      "options": ["Una sequía de tres años", "Una invasión extranjera", "Una peste enviada por Dios"],
+      "correct": 2,
+      "hint": "El propio David, al ver el alcance del castigo, pide que recaiga solo sobre él y su familia.",
+      "explanation": "1Cr 21:14: la peste causa miles de muertos en Israel, hasta que David intercede y compra la era de Ornán para ofrecer un sacrificio expiatorio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién compró David la era donde después se construiría el templo?",
+      "options": ["Al rey filisteo de Gat", "A Ornán, el jebuseo", "A Joab, su general"],
+      "correct": 1,
+      "hint": "El vendedor le ofrece la era gratis, pero David insiste en pagar su precio justo.",
+      "explanation": "1Cr 21:22-25: David rechaza recibir la era de Ornán como regalo, pagando por ella con oro, porque no quiere ofrecer al Señor «algo que no me cueste nada»."
+    },
+    {
+      "type": "gap",
+      "text": "David compró la era a Ornán para construir allí un ___.",
+      "options": ["altar", "palacio", "pozo"],
+      "answer": "altar",
+      "explanation": "1Cr 21:22.26: sobre este mismo lugar se construirá después el templo de Salomón."
+    },
+    {
+      "type": "gap",
+      "text": "David dio a Ornán unos siete kilos de ___ por el lugar.",
+      "options": ["oro", "plata", "bronce"],
+      "answer": "oro",
+      "explanation": "1Cr 21:25: el pago generoso de David subraya su voluntad de ofrecer un sacrificio que le suponga un coste real."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 21:22 · David pide comprar la era de Ornán",
+      "direction": "es-es",
+      "tiles": ["Dame", "la", "era", "para", "construir", "un", "altar", "regálame", "casa"],
+      "answer": "Dame la era para construir un altar",
+      "explanation": "1Cr 21:22: David insiste en pagar por la era, negándose a aceptarla como regalo de Ornán."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué vio Ornán que le hizo comprender la gravedad del momento cuando David acudió a comprar su era?",
+      "options": ["Un eclipse repentino", "Un ángel del Señor", "Una señal en las nubes"],
+      "correct": 1,
+      "hint": "Es la misma figura que había estado hiriendo a Israel con la peste.",
+      "explanation": "1Cr 21:20-21: Ornán y sus hijos ven al ángel del Señor con la espada extendida sobre Jerusalén, lo que explica su disposición inmediata a colaborar con David."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 21:20-21 · Lo que ve Ornán junto a su era",
+      "direction": "es-es",
+      "tiles": ["Ornán", "vio", "al", "ángel", "del", "Señor", "rey", "ejército"],
+      "answer": "Ornán vio al ángel del Señor",
+      "explanation": "1Cr 21:20-21: esta visión explica por qué Ornán se postra ante David y le ofrece la era sin condiciones, aunque David insiste en pagarla."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada dato del censo y la compra de la era",
+      "pairs": [
+        { "en": "Satán", "es": "Instiga a David a hacer el censo" },
+        { "en": "La peste", "es": "Castigo enviado por Dios tras el censo" },
+        { "en": "Ornán", "es": "Jebuseo dueño de la era, junto a Jerusalén" },
+        { "en": "El ángel", "es": "Visto por Ornán junto a la era" },
+        { "en": "El altar", "es": "Construido por David en la era comprada" }
+      ]
+    }
+  ]
+}

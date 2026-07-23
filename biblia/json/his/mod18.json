@@ -1,0 +1,251 @@
+{
+  "id": "his-mod18",
+  "module": 18,
+  "title": "Esdras — El Regreso y la Reconstrucción",
+  "subtitle": "Esdras 1–10",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué permitió el decreto de Ciro que abre el libro de Esdras?",
+      "options": ["El regreso de los deportados y la reconstrucción del templo", "La anexión definitiva de Judá al imperio persa", "La prohibición definitiva del culto judío"],
+      "correct": 0,
+      "hint": "El decreto cumple una antigua profecía anunciada por boca de Jeremías.",
+      "explanation": "Esd 1:1-4: Ciro autoriza la reconstrucción del templo de Jerusalén y ordena que los pueblos ayuden con plata, oro y bienes a quienes regresen."
+    },
+    {
+      "type": "gap",
+      "text": "El decreto de Ciro permitió el regreso de los deportados y la reconstrucción del ___.",
+      "options": ["templo", "palacio", "muro"],
+      "answer": "templo",
+      "explanation": "Esd 1:1-4: este decreto cumple, según el texto, la palabra del Señor anunciada por el profeta Jeremías."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esd 1:1 · El origen del decreto de Ciro",
+      "direction": "es-es",
+      "tiles": ["Para", "que", "se", "cumpliera", "la", "palabra", "del", "Señor", "olvidara", "silencio"],
+      "answer": "Para que se cumpliera la palabra del Señor",
+      "explanation": "Esd 1:1: el libro enmarca el decreto de Ciro como el cumplimiento de una promesa profética anunciada por Jeremías."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Ciro", "es": "Emite el decreto que permite el regreso" },
+        { "en": "Zorobabel", "es": "Encabeza el primer grupo de repatriados" },
+        { "en": "Ageo y Zacarías", "es": "Profetas que impulsan la reanudación de la obra" },
+        { "en": "Darío", "es": "Confirma el decreto de Ciro y financia la obra" },
+        { "en": "Esdras", "es": "Escriba que llega después con la ley de Moisés" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "___ encabezó el primer grupo de repatriados que regresó a Judá.",
+      "options": ["Zorobabel", "Esdras", "Nehemías"],
+      "answer": "Zorobabel",
+      "explanation": "Esd 2: Zorobabel lidera el primer contingente de repatriados, cuyo número asciende a más de cuarenta y dos mil personas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esd 2:64 · El número de repatriados",
+      "direction": "es-es",
+      "tiles": ["Cuarenta", "y", "dos", "mil", "trescientas", "sesenta", "personas", "mil", "cien"],
+      "answer": "Cuarenta y dos mil trescientas sesenta personas",
+      "explanation": "Esd 2:64-65: además de esta cifra, el registro incluye a más de siete mil esclavos y sirvientes que también regresan con ellos."
+    },
+    {
+      "type": "gap",
+      "text": "Al llegar, el pueblo reconstruyó primero el ___ para ofrecer holocaustos.",
+      "options": ["altar", "templo", "palacio"],
+      "answer": "altar",
+      "explanation": "Esd 3:1-6: antes de emprender la reconstrucción del templo, los repatriados restauran el culto diario levantando de nuevo el altar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se construyó primero al llegar los repatriados, antes que el templo?",
+      "options": ["Las murallas defensivas de la ciudad", "El altar, para reanudar los sacrificios", "El palacio del gobernador de la provincia"],
+      "correct": 1,
+      "hint": "La prioridad es restablecer el culto diario, aunque el edificio principal tarde años en levantarse.",
+      "explanation": "Esd 3:2-6: el pueblo reconstruye el altar «para ofrecer sobre él los holocaustos» y celebra la fiesta de las Tiendas antes de poner los cimientos del templo."
+    },
+    {
+      "type": "gap",
+      "text": "Al colocarse los cimientos del templo, los ancianos lloraban y otros gritaban de ___.",
+      "options": ["alegría", "miedo", "cansancio"],
+      "answer": "alegría",
+      "explanation": "Esd 3:12-13: los que recordaban el templo de Salomón lloraban al ver el nuevo, más modesto, mientras los más jóvenes celebraban con gritos de alegría."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió al colocarse los cimientos del nuevo templo?",
+      "options": ["Todo el pueblo guardó un silencio solemne", "Se canceló la ceremonia por falta de fondos", "Los ancianos lloraban recordando el templo antiguo, mientras otros gritaban de alegría"],
+      "correct": 2,
+      "hint": "Dos generaciones reaccionan de forma opuesta ante el mismo acontecimiento.",
+      "explanation": "Esd 3:12-13: «muchos de los sacerdotes, levitas y cabezas de familia más ancianos... lloraban a gritos, mientras que otros muchos daban gritos de alegría» — el ruido era tal que no se distinguía el llanto del júbilo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esd 3:12-13 · La reacción mixta ante los cimientos del templo",
+      "direction": "es-es",
+      "tiles": ["Otros", "muchos", "daban", "gritos", "de", "alegría", "silencio", "tristeza"],
+      "answer": "Otros muchos daban gritos de alegría",
+      "explanation": "Esd 3:13: el contraste entre el llanto de los ancianos y la alegría de los jóvenes marca este momento como agridulce."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada etapa de la reconstrucción con su dato",
+      "pairs": [
+        { "en": "El altar", "es": "Se reconstruye antes que el templo" },
+        { "en": "Los cimientos", "es": "Provocan llanto y alegría a la vez" },
+        { "en": "La oposición", "es": "Detiene la obra durante años" },
+        { "en": "Los profetas", "es": "Impulsan la reanudación de la obra" },
+        { "en": "La dedicación", "es": "Celebra la terminación del segundo templo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "La oposición de los enemigos de Judá detuvo la obra hasta el reinado de ___.",
+      "options": ["Darío", "Ciro", "Artajerjes"],
+      "answer": "Darío",
+      "explanation": "Esd 4:24: la construcción del templo quedó paralizada durante años por la presión de los pueblos vecinos, hostiles al proyecto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué logró detener la reconstrucción del templo durante años?",
+      "options": ["La oposición de los enemigos de Judá y Benjamín", "Una plaga que diezmó a los obreros", "La falta de materiales de construcción"],
+      "correct": 0,
+      "hint": "La resistencia viene de fuera, no de una dificultad técnica o material.",
+      "explanation": "Esd 4:1-24: los pueblos vecinos presionan a las autoridades persas para frenar la obra, que queda detenida hasta el reinado de Darío."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esd 4:24 · La paralización de la obra del templo",
+      "direction": "es-es",
+      "tiles": ["Detuvieron", "la", "obra", "hasta", "el", "reinado", "de", "Darío", "Ciro"],
+      "answer": "Detuvieron la obra hasta el reinado de Darío",
+      "explanation": "Esd 4:24: años de oposición dejan la obra interrumpida, hasta que la predicación de dos profetas impulsa su reanudación."
+    },
+    {
+      "type": "gap",
+      "text": "Los profetas Ageo y ___ impulsaron la reanudación de la obra del templo.",
+      "options": ["Zacarías", "Isaías", "Jeremías"],
+      "answer": "Zacarías",
+      "explanation": "Esd 5:1: la predicación de estos dos profetas anima a Zorobabel y al pueblo a retomar la construcción interrumpida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué impulsó la reanudación de la obra del templo tras años de paralización?",
+      "options": ["Un nuevo ejército enviado desde Persia", "La predicación de los profetas Ageo y Zacarías", "Una rebelión armada contra los opositores"],
+      "correct": 1,
+      "hint": "El impulso es de naturaleza espiritual, no militar ni política.",
+      "explanation": "Esd 5:1-2: «el profeta Ageo y el profeta Zacarías... comenzaron a profetizar», y Zorobabel retoma la construcción con su aliento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esd 5:1 · Los profetas que impulsan la obra",
+      "direction": "es-es",
+      "tiles": ["Comenzaron", "a", "profetizar", "Ageo", "y", "Zacarías", "Isaías", "Elías"],
+      "answer": "Comenzaron a profetizar Ageo y Zacarías",
+      "explanation": "Esd 5:1: la predicación profética logra lo que años de espera política no habían conseguido: reanudar la obra del templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo el rey Darío al conocer la disputa sobre la obra del templo?",
+      "options": ["Ordenó detener definitivamente la construcción", "Exigió un nuevo permiso escrito de los sacerdotes", "Confirmó el decreto de Ciro y ordenó financiar la obra"],
+      "correct": 2,
+      "hint": "En vez de frenar la obra, la respalda con recursos del propio tesoro real.",
+      "explanation": "Esd 6:1-12: Darío hace buscar el decreto original de Ciro en los archivos, lo confirma y ordena costear la obra con los tributos de la región."
+    },
+    {
+      "type": "gap",
+      "text": "El templo quedó terminado en el año sexto del reinado de ___.",
+      "options": ["Darío", "Ciro", "Artajerjes"],
+      "answer": "Darío",
+      "explanation": "Esd 6:15: la terminación del templo se celebra con una gran ofrenda de cien toros, doscientos carneros y cuatrocientos corderos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esd 6:15 · La terminación del segundo templo",
+      "direction": "es-es",
+      "tiles": ["Terminaron", "este", "templo", "el", "día", "tercero", "cuarto", "quinto"],
+      "answer": "Terminaron este templo el día tercero",
+      "explanation": "Esd 6:15: la dedicación del templo, tras años de interrupción, se celebra con una gran ofrenda y con la reanudación de las fiestas litúrgicas."
+    },
+    {
+      "type": "gap",
+      "text": "Esdras era un ___ experto en la ley de Moisés.",
+      "options": ["escriba", "general", "mercader"],
+      "answer": "escriba",
+      "explanation": "Esd 7:6: Esdras llega a Jerusalén con la autorización del rey Artajerjes para enseñar y hacer cumplir la ley del Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién era Esdras, según se presenta al comienzo de su misión?",
+      "options": ["Un escriba experto en la ley de Moisés", "Un general del ejército persa", "Un sacerdote sin formación en las Escrituras"],
+      "correct": 0,
+      "hint": "Su autoridad se basa en el conocimiento profundo de la ley, no en un cargo militar.",
+      "explanation": "Esd 7:6.10: Esdras «se había dedicado a estudiar la ley del Señor», y el rey Artajerjes le concede autoridad para nombrar magistrados y jueces."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esd 7:6 · La presentación de Esdras",
+      "direction": "es-es",
+      "tiles": ["Escriba", "experto", "en", "la", "ley", "de", "Moisés", "profeta", "rey"],
+      "answer": "Escriba experto en la ley de Moisés",
+      "explanation": "Esd 7:6: esta descripción explica por qué Esdras se convertirá en la figura clave de la reforma religiosa del pueblo tras el exilio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la misión de Esdras con su dato",
+      "pairs": [
+        { "en": "Artajerjes", "es": "Rey que autoriza la misión de Esdras" },
+        { "en": "La ley de Moisés", "es": "Centro de la enseñanza de Esdras" },
+        { "en": "Los matrimonios mixtos", "es": "Problema que Esdras debe afrontar" },
+        { "en": "La oración de confesión", "es": "Respuesta de Esdras ante el pecado del pueblo" },
+        { "en": "La separación de las esposas", "es": "Decisión final tomada por el pueblo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Ante el problema de los matrimonios mixtos, Esdras se arrancó el pelo de la cabeza y de la ___.",
+      "options": ["barba", "ropa", "frente"],
+      "answer": "barba",
+      "explanation": "Esd 9:3: este gesto de duelo expresa la profunda angustia de Esdras al descubrir que el pueblo había vuelto a mezclarse con naciones extranjeras."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué problema afrontó Esdras al llegar a Jerusalén?",
+      "options": ["La falta de fondos para terminar el templo", "Los matrimonios mixtos con mujeres extranjeras", "Una nueva invasión de pueblos vecinos"],
+      "correct": 1,
+      "hint": "El problema es de fidelidad religiosa, no político ni militar.",
+      "explanation": "Esd 9:1-2: Esdras descubre que muchos israelitas, incluidos sacerdotes y levitas, se habían casado con mujeres de los pueblos vecinos, contraviniendo la ley."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionó Esdras al conocer el problema de los matrimonios mixtos?",
+      "options": ["Lo ignoró por considerarlo un asunto de poca importancia", "Convocó de inmediato al ejército para expulsar a las familias", "Se rasgó las vestiduras, se arrancó el pelo y oró con angustia"],
+      "correct": 2,
+      "hint": "Su reacción es de duelo público antes que de castigo inmediato.",
+      "explanation": "Esd 9:3-5: «rasgué mi vestidura y mi manto, arranqué pelo de mi cabeza y de mi barba», y después Esdras eleva una larga oración de confesión en nombre de todo el pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Esd 9:3 · La angustia de Esdras",
+      "direction": "es-es",
+      "tiles": ["Rasgué", "mi", "vestidura", "y", "mi", "manto", "corona", "cinturón"],
+      "answer": "Rasgué mi vestidura y mi manto",
+      "explanation": "Esd 9:3: este gesto público de duelo antecede a la oración de confesión de Esdras y a la decisión comunitaria de separarse de las esposas extranjeras."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada número con su dato en el libro de Esdras",
+      "pairs": [
+        { "en": "42.360", "es": "Número aproximado de repatriados con Zorobabel" },
+        { "en": "Treinta", "es": "Bandejas de oro devueltas del templo" },
+        { "en": "Cien", "es": "Toros ofrecidos en la dedicación del templo" },
+        { "en": "Sexto", "es": "Año del reinado de Darío en que se terminó el templo" },
+        { "en": "Tercero", "es": "Día del mes de adar en que se terminó el templo" }
+      ]
+    }
+  ]
+}

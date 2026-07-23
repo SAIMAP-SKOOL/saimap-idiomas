@@ -1,0 +1,251 @@
+{
+  "id": "his-mod15",
+  "module": 15,
+  "title": "1 Crónicas II — Los Preparativos del Templo",
+  "subtitle": "1 Crónicas 22–29",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué le explicó David a Salomón sobre su propio deseo de construir el templo?",
+      "options": ["Que él mismo había pensado construirlo, pero no le fue permitido", "Que nunca había pensado en construir un templo", "Que prefería que lo construyera otro pueblo"],
+      "correct": 0,
+      "hint": "Una razón concreta, relacionada con su vida de guerrero, se lo impide.",
+      "explanation": "1Cr 22:8: «tú has derramado mucha sangre y has emprendido grandes guerras. No construirás un templo en mi honor» — así explica David a Salomón por qué la tarea recae en él."
+    },
+    {
+      "type": "gap",
+      "text": "David explicó que no pudo construir el templo por haber derramado mucha ___ en sus guerras.",
+      "options": ["sangre", "plata", "tierra"],
+      "answer": "sangre",
+      "explanation": "1Cr 22:8: aunque David fue un rey fiel, su vida de guerrero lo descalifica para la tarea, reservada a su hijo Salomón, hombre de paz."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 22:8 · Por qué David no puede construir el templo",
+      "direction": "es-es",
+      "tiles": ["Tú", "has", "derramado", "mucha", "sangre", "oro", "paz"],
+      "answer": "Tú has derramado mucha sangre",
+      "explanation": "1Cr 22:8: la razón que da Dios a David para reservar la construcción del templo a un hijo suyo, hombre de paz."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "David", "es": "Entrega a Salomón el plano del templo" },
+        { "en": "Salomón", "es": "Construirá el templo con los materiales reunidos" },
+        { "en": "Los sacerdotes", "es": "Organizados en veinticuatro turnos de servicio" },
+        { "en": "Los levitas", "es": "Repartidos en las familias de Guersón, Queat y Merarí" },
+        { "en": "El pueblo de Israel", "es": "Asiste a la segunda proclamación de Salomón" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "David reunió para el templo grandes cantidades de oro, plata, bronce y ___.",
+      "options": ["hierro", "madera", "lino"],
+      "answer": "hierro",
+      "explanation": "1Cr 22:14: el texto habla de cantidades enormes de metales acumulados por David para que Salomón pudiera construir el templo sin escasez."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cantidad de materiales dice el texto que David reunió para el templo?",
+      "options": ["Solo madera y piedra sin trabajar", "Enormes cantidades de oro, plata, bronce y hierro", "Únicamente objetos de culto ya usados"],
+      "correct": 1,
+      "hint": "El texto insiste en la magnitud casi incalculable de la reserva acumulada.",
+      "explanation": "1Cr 22:14: «he reunido para el templo de Dios» cantidades tan grandes de metales que el propio texto las describe como incalculables."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 22:14 · Los materiales reunidos por David para el templo",
+      "direction": "es-es",
+      "tiles": ["He", "reunido", "para", "el", "templo", "de", "Dios", "construido", "pueblo"],
+      "answer": "He reunido para el templo de Dios",
+      "explanation": "1Cr 22:14: David dedica gran parte de sus últimos años a acumular recursos para que su hijo pueda construir el templo con holgura."
+    },
+    {
+      "type": "gap",
+      "text": "Los sacerdotes quedaron organizados en veinticuatro ___ o turnos de servicio.",
+      "options": ["clases", "familias", "ciudades"],
+      "answer": "clases",
+      "explanation": "1Cr 23-26: David organiza minuciosamente el futuro culto del templo, repartiendo también a los levitas en músicos y porteros."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo organizó David a los sacerdotes para el futuro servicio del templo?",
+      "options": ["Todos servían juntos cada día del año", "Solo los descendientes directos de Aarón podían servir", "En veinticuatro turnos o clases de servicio"],
+      "correct": 2,
+      "hint": "El sistema reparte el año en periodos regulares de servicio.",
+      "explanation": "1Cr 24: la organización en veinticuatro clases sacerdotales seguirá vigente durante siglos, hasta la época del Nuevo Testamento (cf. Lc 1:5, el turno de Zacarías)."
+    },
+    {
+      "type": "gap",
+      "text": "Los levitas se organizaron en las familias de Guersón, Queat y ___.",
+      "options": ["Merarí", "Judá", "Efraín"],
+      "answer": "Merarí",
+      "explanation": "1Cr 23: estas tres familias, descendientes de los hijos de Leví, se repartieron las distintas tareas del culto en el templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 23 · La organización de las familias levíticas",
+      "direction": "es-es",
+      "tiles": ["Estos", "los", "distribuyó", "por", "clases", "según", "los", "hijos", "de", "Leví", "tribus"],
+      "answer": "Estos los distribuyó por clases según los hijos de Leví",
+      "explanation": "1Cr 23: la organización de los levitas en familias asegura la continuidad ordenada del culto en el futuro templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué grupos organizó David además de los sacerdotes, para el futuro servicio del templo?",
+      "options": ["Músicos y porteros del templo", "Solo un ejército permanente", "Un cuerpo de jueces itinerantes"],
+      "correct": 0,
+      "hint": "Ambos grupos, junto a los sacerdotes, aseguran el buen funcionamiento diario del culto.",
+      "explanation": "1Cr 25-26: David organiza a los levitas cantores (familias de Asaf, Hemán y Yedutún) y a los porteros encargados de vigilar las puertas del templo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada familia levítica con su función",
+      "pairs": [
+        { "en": "Guersón", "es": "Una de las tres familias levíticas organizadas por David" },
+        { "en": "Queat", "es": "Otra de las familias levíticas organizadas por David" },
+        { "en": "Merarí", "es": "La tercera de las familias levíticas" },
+        { "en": "Asaf", "es": "Familia de cantores del templo" },
+        { "en": "Yedutún", "es": "Otra familia de músicos del templo" }
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada grupo con su función en los preparativos del templo",
+      "pairs": [
+        { "en": "Los materiales", "es": "Oro, plata, bronce y hierro reunidos por David" },
+        { "en": "Los músicos", "es": "Cantores de las familias de Asaf, Hemán y Yedutún" },
+        { "en": "Los porteros", "es": "Vigilaban las puertas del templo" },
+        { "en": "El plano", "es": "Entregado por David con todas las medidas" },
+        { "en": "«Sé fuerte y valiente»", "es": "Última exhortación de David a Salomón" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "David exhortó a Salomón: sé fuerte y ___, no temas ni desmayes.",
+      "options": ["valiente", "paciente", "generoso"],
+      "answer": "valiente",
+      "explanation": "1Cr 22:13: esta exhortación final resume el espíritu con que David quiere que Salomón afronte la gran tarea de construir el templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exhortación final dio David a Salomón sobre la construcción del templo?",
+      "options": ["Que contratara arquitectos extranjeros para dirigir la obra", "Que fuera fuerte y valiente, sin temer ni desmayar", "Que esperara a reunir más recursos antes de empezar"],
+      "correct": 1,
+      "hint": "David ya ha reunido los materiales; lo que le falta a Salomón es ánimo, no medios.",
+      "explanation": "1Cr 22:13: «¡sé fuerte y valiente! ¡no temas ni desmayes!» — David encomienda a Salomón la tarea con toda la fuerza espiritual de sus últimas palabras."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 22:13 · La exhortación final de David a Salomón",
+      "direction": "es-es",
+      "tiles": ["Sé", "fuerte", "y", "valiente", "no", "temas", "ni", "desmayes", "espera", "duda"],
+      "answer": "Sé fuerte y valiente no temas ni desmayes",
+      "explanation": "1Cr 22:13: estas palabras resumen el espíritu con que David encomienda a su hijo la gran tarea de construir el templo."
+    },
+    {
+      "type": "gap",
+      "text": "David entregó a Salomón el ___ del templo, con todas sus medidas.",
+      "options": ["plano", "tesoro", "nombre"],
+      "answer": "plano",
+      "explanation": "1Cr 28:11-19: David entrega a Salomón el proyecto detallado del pórtico, las salas y todas las dependencias del futuro templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué entregó David a Salomón para guiar la construcción del templo?",
+      "options": ["Solo instrucciones verbales generales", "Una carta sellada para abrir tras su muerte", "El plano detallado del templo, con todas sus medidas"],
+      "correct": 2,
+      "hint": "El documento incluye hasta las salas superiores y las naves interiores.",
+      "explanation": "1Cr 28:11: «David entregó a su hijo Salomón el plano del pórtico y del templo, de los almacenes, las salas superiores, las naves interiores»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 28:11 · David entrega el plano del templo",
+      "direction": "es-es",
+      "tiles": ["David", "entregó", "a", "Salomón", "el", "plano", "del", "templo", "oro", "trono"],
+      "answer": "David entregó a Salomón el plano del templo",
+      "explanation": "1Cr 28:11: este plano detallado asegura que Salomón pueda construir exactamente lo que David había proyectado."
+    },
+    {
+      "type": "gap",
+      "text": "En su oración final, David reconoció: todo viene de ti, y de lo recibido de tu ___ te damos.",
+      "options": ["mano", "pueblo", "templo"],
+      "answer": "mano",
+      "explanation": "1Cr 29:14: David reconoce que incluso las riquezas ofrecidas para el templo pertenecían ya a Dios antes de ser entregadas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué idea central expresa David en su oración final sobre las ofrendas para el templo?",
+      "options": ["Todo lo que se ofrece a Dios proviene ya de su propia mano", "Las ofrendas debían proceder exclusivamente de los reyes", "El pueblo pobre estaba exento de ofrendar"],
+      "correct": 0,
+      "hint": "La oración despoja de todo mérito humano al acto de dar.",
+      "explanation": "1Cr 29:14: «todo viene de ti, y de lo recibido de tu mano te damos» — la generosidad del pueblo se entiende como devolución, no como posesión propia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 29:14 · La oración de David sobre la generosidad",
+      "direction": "es-es",
+      "tiles": ["De", "lo", "recibido", "de", "tu", "mano", "te", "damos", "guardamos"],
+      "answer": "De lo recibido de tu mano te damos",
+      "explanation": "1Cr 29:14: esta frase resume la teología de la ofrenda en el Antiguo Testamento — dar a Dios es devolverle lo que ya era suyo."
+    },
+    {
+      "type": "gap",
+      "text": "En la misma oración, David reflexiona: nuestros días sobre la tierra son como una ___.",
+      "options": ["sombra", "estrella", "flor"],
+      "answer": "sombra",
+      "explanation": "1Cr 29:15: David enmarca la generosidad del pueblo dentro de la conciencia de la brevedad de la vida humana ante la eternidad de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 29:15 · La brevedad de la vida en la oración de David",
+      "direction": "es-es",
+      "tiles": ["Nuestros", "días", "sobre", "la", "tierra", "son", "como", "una", "sombra", "eternos"],
+      "answer": "Nuestros días sobre la tierra son como una sombra",
+      "explanation": "1Cr 29:15: esta reflexión sobre la fugacidad de la vida da un tono de humildad a toda la oración final de David."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la oración final y el desenlace del libro",
+      "pairs": [
+        { "en": "«Todo viene de ti»", "es": "Reconocimiento de que las ofrendas ya eran de Dios" },
+        { "en": "«Como una sombra»", "es": "Reflexión sobre la brevedad de la vida humana" },
+        { "en": "La asamblea de Israel", "es": "Testigo de la oración y la proclamación final" },
+        { "en": "Salomón", "es": "Ungido rey por segunda vez, ya viejo David" },
+        { "en": "Cuarenta años", "es": "Duración total del reinado de David" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Siendo ya viejo, David proclamó rey de Israel a su hijo ___ por segunda vez.",
+      "options": ["Salomón", "Absalón", "Adonías"],
+      "answer": "Salomón",
+      "explanation": "1Cr 29:23: esta segunda proclamación, ya pública y solemne ante toda la asamblea, consolida a Salomón como sucesor indiscutido de David."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo fue proclamado Salomón rey por segunda vez?",
+      "options": ["En secreto, sin la presencia del pueblo", "Con David ya viejo, ante toda la asamblea de Israel", "Después de una guerra civil contra sus hermanos"],
+      "correct": 1,
+      "hint": "A diferencia de la unción precipitada de 1 Reyes 1, aquí se trata de un acto público y solemne.",
+      "explanation": "1Cr 29:22-23: «siendo ya viejo y colmado de años, David proclamó rey de Israel a su hijo Salomón», con la aclamación de todo el pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Cr 29:23 · La segunda proclamación de Salomón",
+      "direction": "es-es",
+      "tiles": ["David", "proclamó", "rey", "de", "Israel", "a", "Salomón", "Absalón", "hijo"],
+      "answer": "David proclamó rey de Israel a Salomón",
+      "explanation": "1Cr 29:23: esta proclamación pública cierra definitivamente cualquier disputa sobre la sucesión al trono de David."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántos años reinó David en total, según el resumen final de 1 Crónicas?",
+      "options": ["Veinte años", "Setenta años", "Cuarenta años, siete en Hebrón y treinta y tres en Jerusalén"],
+      "correct": 2,
+      "hint": "El reinado se divide en dos periodos, según la capital desde la que gobernaba.",
+      "explanation": "1Cr 29:27: el resumen final del libro recuerda que David reinó cuarenta años en total, coincidiendo con el dato ya conocido de 2 Samuel 5:4."
+    }
+  ]
+}
