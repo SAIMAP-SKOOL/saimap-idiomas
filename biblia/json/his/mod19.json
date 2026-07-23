@@ -1,0 +1,251 @@
+{
+  "id": "his-mod19",
+  "module": 19,
+  "title": "Nehemías — La Reconstrucción de la Muralla",
+  "subtitle": "Nehemías 1–13",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionó Nehemías al enterarse del estado ruinoso de Jerusalén?",
+      "options": ["Se sentó a llorar, ayunó y oró", "Pidió permiso de inmediato sin más reflexión", "Decidió ignorar la noticia por prudencia"],
+      "correct": 0,
+      "hint": "Su reacción dura varios días antes de que se atreva a hablar con el rey.",
+      "explanation": "Neh 1:4: «al oír estas palabras me senté y me puse a llorar. Hice duelo algunos días, ayunando y orando ante el Dios del cielo»."
+    },
+    {
+      "type": "gap",
+      "text": "Al oír que la muralla de Jerusalén estaba destrozada, Nehemías se sentó a ___.",
+      "options": ["llorar", "reír", "dormir"],
+      "answer": "llorar",
+      "explanation": "Neh 1:3-4: la noticia, traída por su hermano Jananí, sume a Nehemías en un duelo de varios días antes de decidirse a actuar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Neh 1:4 · La reacción de Nehemías ante la noticia",
+      "direction": "es-es",
+      "tiles": ["Me", "senté", "y", "me", "puse", "a", "llorar", "reír", "dormir"],
+      "answer": "Me senté y me puse a llorar",
+      "explanation": "Neh 1:4: este duelo inicial precede a días de ayuno y oración antes de que Nehemías se atreva a hablar con el rey."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Nehemías", "es": "Copero del rey, reconstruye la muralla de Jerusalén" },
+        { "en": "Artajerjes", "es": "Rey persa que concede el permiso de Nehemías" },
+        { "en": "Sambalat", "es": "Opositor joronita a la reconstrucción" },
+        { "en": "Tobías", "es": "Funcionario amonita, también opositor" },
+        { "en": "Esdras", "es": "Lee la ley públicamente ante el pueblo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El rey ___ concedió a Nehemías permiso para ir a reconstruir Jerusalén.",
+      "options": ["Artajerjes", "Ciro", "Darío"],
+      "answer": "Artajerjes",
+      "explanation": "Neh 2:4-6: el rey, con la reina sentada a su lado, pregunta a Nehemías cuánto durará su viaje antes de concederle el permiso."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le concedió el rey Artajerjes a Nehemías?",
+      "options": ["Un ejército para conquistar territorios vecinos", "Permiso para ir a Jerusalén y reconstruirla", "El título de gobernador vitalicio de toda Persia"],
+      "correct": 1,
+      "hint": "El favor real se limita a un permiso concreto, no a un cargo político definitivo.",
+      "explanation": "Neh 2:4-8: Nehemías pide permiso para reconstruir la ciudad de sus padres, y el rey se lo concede junto con cartas de salvoconducto."
+    },
+    {
+      "type": "gap",
+      "text": "Sambalat, Tobías y Guesén se burlaron preguntando si pretendían ___ contra el rey.",
+      "options": ["rebelaros", "negociar", "huir"],
+      "answer": "rebelaros",
+      "explanation": "Neh 2:19: ante esta burla, Nehemías responde con firmeza que el Dios del cielo les dará éxito en su proyecto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quiénes se opusieron y se burlaron del proyecto de reconstrucción de Nehemías?",
+      "options": ["Los propios sacerdotes de Jerusalén", "El pueblo, que prefería seguir sin murallas", "Sambalat, Tobías y Guesén"],
+      "correct": 2,
+      "hint": "Son tres figuras de pueblos vecinos, hostiles a que Judá recupere su fortaleza.",
+      "explanation": "Neh 2:19-20: estos tres opositores acompañarán con burlas y amenazas toda la obra de reconstrucción de la muralla."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Neh 2:20 · La respuesta de Nehemías a las burlas",
+      "direction": "es-es",
+      "tiles": ["El", "Dios", "del", "cielo", "es", "quien", "nos", "dará", "éxito", "riqueza"],
+      "answer": "El Dios del cielo es quien nos dará éxito",
+      "explanation": "Neh 2:20: frente a la burla de sus opositores, Nehemías responde con una confianza que sostendrá toda la obra de reconstrucción."
+    },
+    {
+      "type": "gap",
+      "text": "Los constructores trabajaban con una mano mientras con la otra empuñaban el ___.",
+      "options": ["arma", "martillo", "pan"],
+      "answer": "arma",
+      "explanation": "Neh 4:11-12: la amenaza constante de ataque obliga a combinar la construcción con la vigilancia armada permanente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué estrategia adoptaron los constructores ante la amenaza de ataque?",
+      "options": ["Trabajaban con una mano y sostenían un arma con la otra", "Suspendieron la obra hasta que pasara el peligro", "Contrataron mercenarios extranjeros para defenderse"],
+      "correct": 0,
+      "hint": "La obra no se detiene, pero tampoco se descuida la defensa.",
+      "explanation": "Neh 4:11-12: «los que trabajaban en la muralla... con una mano trabajaban y con la otra empuñaban el arma»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la reconstrucción con su dato",
+      "pairs": [
+        { "en": "La muralla", "es": "Terminada en cincuenta y dos días" },
+        { "en": "La mano y la espada", "es": "Símbolo del trabajo bajo amenaza constante" },
+        { "en": "La usura", "es": "Problema social resuelto por Nehemías" },
+        { "en": "La Puerta del Agua", "es": "Lugar de la lectura pública de la ley" },
+        { "en": "La fiesta de las Tiendas", "es": "Celebrada como no se hacía desde Josué" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Nehemías pidió a los ricos que perdonaran las ___ de los pobres.",
+      "options": ["deudas", "culpas", "tierras"],
+      "answer": "deudas",
+      "explanation": "Neh 5:10-11: algunos judíos se veían obligados a esclavizar a sus propios hijos para pagar deudas contraídas con otros judíos ricos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué problema social descubrió Nehemías entre los propios judíos durante la reconstrucción?",
+      "options": ["El robo sistemático de materiales de construcción", "Algunos esclavizaban a sus hijos por deudas con otros judíos", "La negativa general a trabajar sin salario"],
+      "correct": 1,
+      "hint": "El conflicto es interno, entre judíos ricos y judíos empobrecidos por el hambre.",
+      "explanation": "Neh 5:1-11: Nehemías exige a los ricos que devuelvan campos, viñas y casas, y perdonen las deudas de sus propios paisanos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Neh 5:11 · La exigencia de Nehemías a los ricos",
+      "direction": "es-es",
+      "tiles": ["Devolvedles", "ahora", "mismo", "sus", "campos", "y", "sus", "viñas", "casas", "oro"],
+      "answer": "Devolvedles ahora mismo sus campos y sus viñas",
+      "explanation": "Neh 5:10-12: los ricos aceptan la exigencia de Nehemías, poniendo fin a la esclavitud por deudas entre los propios judíos."
+    },
+    {
+      "type": "gap",
+      "text": "La muralla se terminó el día veinticinco del mes de ___, tras cincuenta y dos días.",
+      "options": ["elul", "adar", "nisán"],
+      "answer": "elul",
+      "explanation": "Neh 6:15: la rapidez de la obra, a pesar de la oposición constante, se interpreta como una señal de la ayuda de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En cuántos días se terminó la muralla de Jerusalén?",
+      "options": ["Doce días", "Ciento veinte días", "Cincuenta y dos días"],
+      "correct": 2,
+      "hint": "Un plazo sorprendentemente corto para una obra de esa magnitud.",
+      "explanation": "Neh 6:15-16: «la muralla se terminó... después de cincuenta y dos días», hazaña que impresiona incluso a los enemigos de Judá."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Neh 6:15 · La terminación de la muralla",
+      "direction": "es-es",
+      "tiles": ["Se", "terminó", "después", "de", "cincuenta", "y", "dos", "días", "cien", "veinte"],
+      "answer": "Se terminó después de cincuenta y dos días",
+      "explanation": "Neh 6:15-16: ni siquiera los opositores de Nehemías pueden negar que la rapidez de la obra tiene algo de extraordinario."
+    },
+    {
+      "type": "gap",
+      "text": "El pueblo se reunió como un solo hombre ante la Puerta del ___ para oír la ley.",
+      "options": ["Agua", "Oro", "Templo"],
+      "answer": "Agua",
+      "explanation": "Neh 8:1-3: Esdras lee la ley ante toda la asamblea, de pie, desde la mañana hasta el mediodía."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionó el pueblo al principio, al escuchar la lectura pública de la ley?",
+      "options": ["Lloraba al escuchar las palabras de la ley", "Aplaudía con entusiasmo cada frase leída", "Permanecía en silencio absoluto, indiferente"],
+      "correct": 0,
+      "hint": "La reacción inicial es de tristeza, antes de que Nehemías y Esdras la reorienten.",
+      "explanation": "Neh 8:9: «todo el pueblo lloraba al escuchar las palabras de la ley», conmovido al comprender cuánto se habían apartado de ella."
+    },
+    {
+      "type": "gap",
+      "text": "Esdras y Nehemías dijeron al pueblo: el gozo del Señor es vuestra ___.",
+      "options": ["fortaleza", "riqueza", "corona"],
+      "answer": "fortaleza",
+      "explanation": "Neh 8:10: esta frase transforma el duelo inicial del pueblo en una celebración festiva, propia de un día consagrado al Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué les dijo Nehemías al pueblo tras la lectura de la ley, para calmar su llanto?",
+      "options": ["Que ayunaran durante siete días como penitencia", "Que no estuvieran tristes, porque el gozo del Señor era su fortaleza", "Que debían reconstruir también el templo de inmediato"],
+      "correct": 1,
+      "hint": "En vez de prolongar el duelo, invita al pueblo a celebrar.",
+      "explanation": "Neh 8:9-10: «no os pongáis tristes; el gozo del Señor es vuestra fortaleza» — el día se convierte así en una gran fiesta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Neh 8:10 · La invitación al gozo tras la lectura de la ley",
+      "direction": "es-es",
+      "tiles": ["El", "gozo", "del", "Señor", "es", "vuestra", "fortaleza", "tristeza", "ruina"],
+      "answer": "El gozo del Señor es vuestra fortaleza",
+      "explanation": "Neh 8:10: esta frase resume el giro emocional de todo el capítulo, del llanto a la alegría festiva."
+    },
+    {
+      "type": "gap",
+      "text": "El pueblo celebró la fiesta de las ___, como no se hacía desde los tiempos de Josué.",
+      "options": ["Tiendas", "Semanas", "Trompetas"],
+      "answer": "Tiendas",
+      "explanation": "Neh 8:14-17: el pueblo vivió en cabañas durante siete días, cumpliendo un mandato de la ley olvidado durante generaciones."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué fiesta celebró el pueblo después de la lectura de la ley, siguiendo lo escrito en ella?",
+      "options": ["La fiesta de la Dedicación del templo", "La fiesta de las Semanas", "La fiesta de las Tiendas, como no se celebraba desde Josué"],
+      "correct": 2,
+      "hint": "El texto subraya que hacía muchísimos siglos que no se celebraba con tanta fidelidad al mandato original.",
+      "explanation": "Neh 8:17: «desde los tiempos de Josué, hijo de Nun, no habían hecho una cosa así los hijos de Israel... y la alegría fue inmensa»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Neh 8:17 · La alegría de la fiesta de las Tiendas",
+      "direction": "es-es",
+      "tiles": ["Y", "la", "alegría", "fue", "inmensa", "escasa", "triste"],
+      "answer": "Y la alegría fue inmensa",
+      "explanation": "Neh 8:17: la celebración marca un punto culminante de renovación espiritual para el pueblo recién regresado del exilio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada reforma o compromiso final con su dato",
+      "pairs": [
+        { "en": "Los matrimonios mixtos", "es": "Reprendidos duramente por Nehemías" },
+        { "en": "El sábado", "es": "Protegido cerrando las puertas de la ciudad" },
+        { "en": "El compromiso escrito", "es": "Sellado por príncipes, levitas y sacerdotes" },
+        { "en": "Jananí", "es": "Hermano de Nehemías que trae la noticia de Jerusalén" },
+        { "en": "El pueblo entero", "es": "Reunido como un solo hombre para oír la ley" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Neh 13:25 · La reacción de Nehemías ante los matrimonios mixtos",
+      "direction": "es-es",
+      "tiles": ["Los", "reprendí", "y", "los", "maldije", "bendije", "premié"],
+      "answer": "Los reprendí y los maldije",
+      "explanation": "Neh 13:23-27: en su última reforma, Nehemías actúa con dureza contra quienes habían vuelto a casarse con mujeres extranjeras."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Neh 13:19 · La observancia del sábado ordenada por Nehemías",
+      "direction": "es-es",
+      "tiles": ["Ordené", "que", "se", "cerrasen", "las", "puertas", "abrieran", "templo"],
+      "answer": "Ordené que se cerrasen las puertas",
+      "explanation": "Neh 13:15-19: para proteger el descanso sabático, Nehemías ordena cerrar las puertas de la ciudad hasta pasado el sábado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje secundario con su dato",
+      "pairs": [
+        { "en": "Jacalías", "es": "Padre de Nehemías" },
+        { "en": "Guesén", "es": "Árabe opositor a la reconstrucción" },
+        { "en": "Los príncipes, levitas y sacerdotes", "es": "Firman el compromiso escrito de la alianza" },
+        { "en": "Las mujeres asdoditas, amonitas y moabitas", "es": "Origen de los matrimonios mixtos reprendidos" },
+        { "en": "El copero real", "es": "Cargo de Nehemías en la corte de Artajerjes" }
+      ]
+    }
+  ]
+}

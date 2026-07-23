@@ -26,7 +26,7 @@
     {
       "code": "HIS",
       "name": "Libros Históricos",
-      "sub": "18 módulos · Josué a Esdras",
+      "sub": "22 módulos · Josué a Ester",
       "color": "#B5651D",
       "modules": [
         { "n": 1,  "title": "Josué I — La Conquista de Canaán",           "es": "Josué I · La Conquista de Canaán (Jos 1–12)",    "file": "his/mod01.json" },
@@ -46,7 +46,11 @@
         { "n": 15, "title": "1 Crónicas II — Los Preparativos del Templo", "es": "1 Crónicas II · Preparativos del Templo (1Cr 22–29)", "file": "his/mod15.json" },
         { "n": 16, "title": "2 Crónicas I — Salomón, Asá y Josafat",      "es": "2 Crónicas I · Salomón, Asá y Josafat (2Cr 1–20)", "file": "his/mod16.json" },
         { "n": 17, "title": "2 Crónicas II — Uzías, Manasés y el Decreto de Ciro", "es": "2 Crónicas II · Hasta el Exilio (2Cr 26–36)", "file": "his/mod17.json" },
-        { "n": 18, "title": "Esdras — El Regreso y la Reconstrucción",    "es": "Esdras · El Regreso y la Reconstrucción",         "file": "his/mod18.json" }
+        { "n": 18, "title": "Esdras — El Regreso y la Reconstrucción",    "es": "Esdras · El Regreso y la Reconstrucción",         "file": "his/mod18.json" },
+        { "n": 19, "title": "Nehemías — La Reconstrucción de la Muralla", "es": "Nehemías · La Muralla de Jerusalén",              "file": "his/mod19.json" },
+        { "n": 20, "title": "Tobías — El Ángel Rafael y la Familia Fiel", "es": "Tobías · El Ángel Rafael",                        "file": "his/mod20.json" },
+        { "n": 21, "title": "Judit — La Viuda que Salvó a su Pueblo",     "es": "Judit · La Viuda que Salvó a su Pueblo",          "file": "his/mod21.json" },
+        { "n": 22, "title": "Ester — La Reina que Salvó a su Pueblo",     "es": "Ester · La Reina que Salvó a su Pueblo",          "file": "his/mod22.json" }
       ]
     },
     { "code": "SAP", "name": "Libros Sapienciales y Poéticos", "color": "#C79B00", "locked": true, "moduleCount": 12 },

@@ -1,0 +1,251 @@
+{
+  "id": "his-mod21",
+  "module": 21,
+  "title": "Judit — La Viuda que Salvó a su Pueblo",
+  "subtitle": "Judit 1–16",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Por qué envió Nabucodonosor a su general Holofernes contra los pueblos de occidente?",
+      "options": ["Porque se negaron a unirse a su alianza militar", "Porque le debían un antiguo tributo de guerra", "Porque habían profanado un templo asirio"],
+      "correct": 0,
+      "hint": "El rechazo a colaborar en una guerra anterior desencadena la represalia.",
+      "explanation": "Jdt 2:4-7: Nabucodonosor envía a Holofernes, «jefe supremo del ejército y segundo en autoridad después del mismo rey», a someter a los pueblos que no lo apoyaron en su campaña militar."
+    },
+    {
+      "type": "gap",
+      "text": "Holofernes era el jefe supremo del ejército, segundo en autoridad tras el propio ___.",
+      "options": ["rey", "sacerdote", "gobernador"],
+      "answer": "rey",
+      "explanation": "Jdt 2:4: esta posición de máxima confianza explica la gravedad de lo que Judit está a punto de hacer."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jdt 2:4 · El cargo de Holofernes",
+      "direction": "es-es",
+      "tiles": ["Jefe", "supremo", "del", "ejército", "y", "segundo", "en", "autoridad", "tercero", "último"],
+      "answer": "Jefe supremo del ejército y segundo en autoridad",
+      "explanation": "Jdt 2:4: Holofernes ostenta el poder militar más alto después del propio Nabucodonosor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Nabucodonosor", "es": "Rey asirio que envía a Holofernes" },
+        { "en": "Holofernes", "es": "General asirio que asedia Betulia" },
+        { "en": "Ozías", "es": "Jefe de Betulia, propone esperar cinco días" },
+        { "en": "Judit", "es": "Viuda piadosa que salva a su pueblo" },
+        { "en": "El pueblo de Betulia", "es": "Desesperado, a punto de rendirse" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Los asirios cortaron el suministro de ___ a la ciudad de Betulia.",
+      "options": ["agua", "grano", "leña"],
+      "answer": "agua",
+      "explanation": "Jdt 7:20: la falta de agua lleva al pueblo al borde de la rendición, hasta la intervención decisiva de Judit."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué provocó la desesperación del pueblo de Betulia durante el asedio?",
+      "options": ["El incendio de sus graneros de trigo", "El corte del suministro de agua", "La traición de uno de sus propios jefes"],
+      "correct": 1,
+      "hint": "Es la privación más urgente para una ciudad sitiada bajo el sol.",
+      "explanation": "Jdt 7:20-22: agotadas las reservas de agua, el pueblo exige a Ozías que se rinda a los asirios."
+    },
+    {
+      "type": "gap",
+      "text": "Ozías propuso resistir ___ días más antes de rendirse.",
+      "options": ["cinco", "diez", "treinta"],
+      "answer": "cinco",
+      "explanation": "Jdt 7:30: Ozías confía en que, en ese plazo, Dios mostrará de nuevo su misericordia con el pueblo asediado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jdt 7:30 · La propuesta de Ozías al pueblo desesperado",
+      "direction": "es-es",
+      "tiles": ["Resistamos", "cinco", "días", "más", "diez", "meses"],
+      "answer": "Resistamos cinco días más",
+      "explanation": "Jdt 7:30: este plazo, que a Judit le parecerá una imprudencia, será el que ella misma se encargue de acortar con su propia acción."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué propuso Ozías al pueblo desesperado de Betulia?",
+      "options": ["Rendirse de inmediato a Holofernes", "Enviar mensajeros pidiendo ayuda a Jerusalén", "Resistir cinco días más, confiando en la misericordia de Dios"],
+      "correct": 2,
+      "hint": "Su propuesta es un compromiso entre la rendición inmediata y la resistencia indefinida.",
+      "explanation": "Jdt 7:30-31: Ozías pide al pueblo un último plazo de confianza antes de considerar la rendición, plazo que Judit criticará por poner un límite a Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Judit reprochó a los jefes: ¿quiénes sois vosotros para tentar así a ___?",
+      "options": ["Dios", "vuestro pueblo", "los ancianos"],
+      "answer": "Dios",
+      "explanation": "Jdt 8:12: Judit critica el plazo fijado por Ozías, considerando que poner una fecha límite a la misericordia divina es una falta de fe."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reprochó Judit a Ozías por su plazo de cinco días?",
+      "options": ["Que ponía un límite a Dios, como si pudiera ser puesto a prueba", "Que el plazo era demasiado largo para la ciudad", "Que debía consultarlo antes con los sacerdotes"],
+      "correct": 0,
+      "hint": "Su crítica es de naturaleza teológica, no práctica.",
+      "explanation": "Jdt 8:11-12: «¿quiénes sois vosotros para tentar así a Dios?» — Judit rechaza condicionar la confianza en Dios a un plazo fijo, y propone su propio plan."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jdt 8:12 · El reproche de Judit a los jefes de Betulia",
+      "direction": "es-es",
+      "tiles": ["Quiénes", "sois", "vosotros", "para", "tentar", "así", "a", "Dios", "pueblo", "rey"],
+      "answer": "Quiénes sois vosotros para tentar así a Dios",
+      "explanation": "Jdt 8:12: tras este reproche, Judit anuncia que actuará ella misma, sin revelar todavía su plan a los ancianos de la ciudad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del plan de Judit con su dato",
+      "pairs": [
+        { "en": "El vestido de luto", "es": "Se lo quita antes de salir hacia el campamento" },
+        { "en": "El perfume", "es": "Parte de su transformación antes del engaño" },
+        { "en": "La comida pura", "es": "Lleva su propia comida al campamento asirio" },
+        { "en": "La promesa de guiarlo a Jerusalén", "es": "Engaño con que gana la confianza de Holofernes" },
+        { "en": "El banquete", "es": "Ocasión en que Holofernes bebe en exceso" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se preparó Judit antes de salir del campamento hacia el ejército asirio?",
+      "options": ["Se vistió de luto para inspirar compasión en Holofernes", "Se arregló con sus mejores galas y perfumes", "Se disfrazó de soldado para pasar inadvertida"],
+      "correct": 1,
+      "hint": "Su transformación busca seducir, no pasar desapercibida.",
+      "explanation": "Jdt 10:3-4: Judit se quita el vestido de luto, se baña, se perfuma y se engalana cuidadosamente antes de dirigirse al campamento de Holofernes."
+    },
+    {
+      "type": "gap",
+      "text": "Judit llevó consigo una alforja con galletas, tortas de higos y panes ___.",
+      "options": ["puros", "dulces", "recién horneados"],
+      "answer": "puros",
+      "explanation": "Jdt 10:5: Judit lleva su propia comida para no contaminarse ritualmente comiendo la del campamento asirio."
+    },
+    {
+      "type": "gap",
+      "text": "Judit prometió a Holofernes conducirlo hasta la conquista de ___.",
+      "options": ["Jerusalén", "Betulia", "Samaria"],
+      "answer": "Jerusalén",
+      "explanation": "Jdt 11:19: esta promesa engañosa gana la confianza de Holofernes durante los días que Judit permanece en el campamento asirio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le prometió Judit a Holofernes para ganarse su confianza?",
+      "options": ["Entregarle las llaves de Betulia esa misma noche", "Revelarle la identidad de un traidor dentro del campamento", "Guiarlo hasta la conquista de Jerusalén"],
+      "correct": 2,
+      "hint": "Su promesa apunta a un objetivo mucho más ambicioso que la propia Betulia.",
+      "explanation": "Jdt 11:19: Judit finge estar dispuesta a traicionar a su pueblo, prometiendo a Holofernes un triunfo mayor: la conquista de la propia Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jdt 11:19 · La promesa engañosa de Judit a Holofernes",
+      "direction": "es-es",
+      "tiles": ["Te", "conduciré", "a", "través", "de", "Judea", "hasta", "Jerusalén", "Betulia", "Egipto"],
+      "answer": "Te conduciré a través de Judea hasta Jerusalén",
+      "explanation": "Jdt 11:19: esta promesa, completamente falsa, mantiene a Holofernes confiado hasta la noche fatal del banquete."
+    },
+    {
+      "type": "gap",
+      "text": "En el banquete, Holofernes bebió tanto vino como jamás había ___.",
+      "options": ["bebido", "pagado", "servido"],
+      "answer": "bebido",
+      "explanation": "Jdt 12:20: fascinado por Judit, Holofernes se excede con el vino hasta quedar completamente dormido, indefenso ante ella."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué estado se encontraba Holofernes cuando Judit lo mató?",
+      "options": ["Profundamente dormido, tras haber bebido en exceso", "Despierto, tras rechazar el vino del banquete", "Herido en una escaramuza previa"],
+      "correct": 0,
+      "hint": "Su propio exceso lo deja completamente vulnerable ante Judit.",
+      "explanation": "Jdt 12:20-13:2: Holofernes bebe «tanto vino como jamás había bebido» y cae dormido, dejando a Judit a solas con él en la tienda."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jdt 13:4 · La oración de Judit antes de actuar",
+      "direction": "es-es",
+      "tiles": ["Mira", "con", "benevolencia", "lo", "que", "voy", "a", "hacer", "decir", "pensar"],
+      "answer": "Mira con benevolencia lo que voy a hacer",
+      "explanation": "Jdt 13:4: antes de actuar, Judit ora pidiendo la ayuda de Dios para llevar a cabo su plan."
+    },
+    {
+      "type": "gap",
+      "text": "Judit le asestó dos golpes en el cuello y le cortó la ___.",
+      "options": ["cabeza", "mano", "espada"],
+      "answer": "cabeza",
+      "explanation": "Jdt 13:8: Judit usa la propia espada de Holofernes, colgada junto a la cama, para decapitarlo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo mató Judit a Holofernes?",
+      "options": ["Con veneno mezclado en su copa de vino", "Le cortó la cabeza con su propia espada", "Lo ahogó mientras dormía"],
+      "correct": 1,
+      "hint": "Usa un arma que estaba al alcance de la mano, junto al lecho del propio general.",
+      "explanation": "Jdt 13:6-8: Judit toma la espada de Holofernes, cuelga junto a la cama, y «le asestó dos golpes en el cuello y le cortó la cabeza»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del desenlace con su dato",
+      "pairs": [
+        { "en": "La espada de Holofernes", "es": "Arma usada por Judit para matarlo" },
+        { "en": "La cabeza de Holofernes", "es": "Trofeo que Judit lleva de vuelta a Betulia" },
+        { "en": "Las puertas de Betulia", "es": "Se abren para recibir a Judit" },
+        { "en": "El ejército asirio", "es": "Huye despavorido al conocer la noticia" },
+        { "en": "El cántico de Judit", "es": "Celebra la victoria de todo el pueblo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jdt 13:11 · El grito de Judit al volver a Betulia",
+      "direction": "es-es",
+      "tiles": ["Abrid", "abrid", "la", "puerta", "Dios", "está", "con", "nosotros", "huid", "temed"],
+      "answer": "Abrid abrid la puerta Dios está con nosotros",
+      "explanation": "Jdt 13:11: Judit regresa con la cabeza de Holofernes como prueba de que Dios ha escuchado la oración del pueblo asediado."
+    },
+    {
+      "type": "gap",
+      "text": "Al descubrir la muerte de Holofernes, los jefes asirios huyeron a la ___.",
+      "options": ["desbandada", "fortaleza", "capital"],
+      "answer": "desbandada",
+      "explanation": "Jdt 15:1-2: sin su general, el ejército asirio pierde toda cohesión y es derrotado con facilidad por los israelitas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió con el ejército asirio al descubrir la muerte de Holofernes?",
+      "options": ["Eligió un nuevo general y continuó el asedio", "Se rindió pacíficamente a los habitantes de Betulia", "Huyó despavorido y fue derrotado en la desbandada"],
+      "correct": 2,
+      "hint": "La muerte de su jefe siembra el pánico entre las tropas.",
+      "explanation": "Jdt 15:1-2: sin liderazgo, los soldados asirios huyen «por los caminos de la llanura y de los montes», siendo perseguidos y derrotados por Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jdt 16:1 · El comienzo del cántico de Judit",
+      "direction": "es-es",
+      "tiles": ["Alabad", "a", "mi", "Dios", "con", "tambores", "espadas", "lanzas"],
+      "answer": "Alabad a mi Dios con tambores",
+      "explanation": "Jdt 16:1: el cántico final de Judit celebra la victoria alcanzada gracias a la astucia y la fe de una sola mujer."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jdt 8:7 · La riqueza de Judit, la viuda",
+      "direction": "es-es",
+      "tiles": ["Su", "marido", "le", "había", "dejado", "oro", "y", "plata", "hijos", "esclavos"],
+      "answer": "Su marido le había dejado oro y plata",
+      "explanation": "Jdt 8:7: la posición acomodada de Judit, sumada a su piedad y belleza, la convierte en una figura respetada dentro de Betulia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con el momento de la historia al que pertenece",
+      "pairs": [
+        { "en": "«Resistamos cinco días más»", "es": "Propuesta de Ozías al pueblo" },
+        { "en": "«Quiénes sois para tentar a Dios»", "es": "Reproche de Judit a los jefes" },
+        { "en": "«Te conduciré hasta Jerusalén»", "es": "Engaño de Judit a Holofernes" },
+        { "en": "«Abrid la puerta»", "es": "Grito de Judit al volver a Betulia" },
+        { "en": "«Alabad a mi Dios con tambores»", "es": "Inicio del cántico final de Judit" }
+      ]
+    }
+  ]
+}

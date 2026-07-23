@@ -1,0 +1,251 @@
+{
+  "id": "his-mod20",
+  "module": 20,
+  "title": "Tobías — El Ángel Rafael y la Familia Fiel",
+  "subtitle": "Tobías 1–14",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué causó la ceguera de Tobit?",
+      "options": ["El excremento caliente de un pájaro le cayó en los ojos", "Una enfermedad contraída durante el exilio en Nínive", "Una herida recibida al huir de Senaquerib"],
+      "correct": 0,
+      "hint": "Ocurrió mientras dormía al aire libre, tras enterrar piadosamente a un muerto.",
+      "explanation": "Tob 2:10: «sus excrementos aún calientes me cayeron sobre los ojos», provocando manchas blancas que dejan a Tobit completamente ciego."
+    },
+    {
+      "type": "gap",
+      "text": "Tobit quedó ciego cuando el excremento caliente de un ___ le cayó en los ojos.",
+      "options": ["pájaro", "murciélago", "insecto"],
+      "answer": "pájaro",
+      "explanation": "Tob 2:10: este accidente, tras años de vida justa y caritativa, sume a Tobit en una profunda aflicción."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tob 1:3 · La presentación de Tobit como hombre justo",
+      "direction": "es-es",
+      "tiles": ["He", "practicado", "la", "verdad", "y", "la", "justicia", "riqueza", "guerra"],
+      "answer": "He practicado la verdad y la justicia",
+      "explanation": "Tob 1:3: Tobit se presenta como un hombre fiel a la ley incluso en el exilio, dando limosna y enterrando a los muertos con riesgo de su propia vida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Tobit", "es": "Hombre justo, quedó ciego, padre de Tobías" },
+        { "en": "Sara", "es": "Hija de Ragüel, atormentada por un demonio" },
+        { "en": "Asmodeo", "es": "Demonio que mataba a los maridos de Sara" },
+        { "en": "Rafael", "es": "Ángel que guía a Tobías bajo el nombre de Azarías" },
+        { "en": "Ragüel", "es": "Padre de Sara, suegro de Tobías" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Sara, hija de Ragüel, vivía en la ciudad de ___.",
+      "options": ["Ecbátana", "Nínive", "Ragués"],
+      "answer": "Ecbátana",
+      "explanation": "Tob 3:7: allí, Sara sufre el tormento del demonio Asmodeo y también pide morir, al igual que Tobit en Nínive."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué sufría Sara, hija de Ragüel, en Ecbátana?",
+      "options": ["Había sido acusada injustamente de un crimen", "El demonio Asmodeo había matado a sus siete maridos", "Su padre la había desterrado de la ciudad"],
+      "correct": 1,
+      "hint": "Ninguno de sus esposos sobrevivió a la noche de bodas.",
+      "explanation": "Tob 3:8: «el malvado demonio Asmodeo los había matado», antes de que ninguno de los siete maridos de Sara pudiera consumar el matrimonio."
+    },
+    {
+      "type": "gap",
+      "text": "El demonio ___ había matado a los siete maridos de Sara.",
+      "options": ["Asmodeo", "Belial", "Azazel"],
+      "answer": "Asmodeo",
+      "explanation": "Tob 3:8: este demonio es el gran obstáculo que Tobías tendrá que superar para poder casarse con Sara."
+    },
+    {
+      "type": "gap",
+      "text": "Tobit envió a su hijo Tobías a cobrar un dinero que había dejado en ___.",
+      "options": ["Media", "Egipto", "Babilonia"],
+      "answer": "Media",
+      "explanation": "Tob 4-5: para este viaje, Tobías contrata como guía a un hombre que en realidad es el ángel Rafael."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién acompañó a Tobías en su viaje a Media, disfrazado de hombre?",
+      "options": ["Un mercader amigo de la familia", "Un primo lejano de Ragüel", "El ángel Rafael, presentado como Azarías"],
+      "correct": 2,
+      "hint": "Su verdadera identidad no se revelará hasta el final del libro.",
+      "explanation": "Tob 5:13: el ángel se presenta como «Azarías, hijo del célebre Ananías», alegando parentesco con la familia de Tobit."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del viaje con su dato",
+      "pairs": [
+        { "en": "El río Tigris", "es": "Lugar donde aparece el pez enorme" },
+        { "en": "La hiel del pez", "es": "Cura la ceguera de Tobit" },
+        { "en": "El corazón y el hígado", "es": "Ahuyentan al demonio si se queman" },
+        { "en": "Gabael", "es": "Guarda el dinero que Rafael va a cobrar" },
+        { "en": "Ecbátana", "es": "Ciudad donde viven Ragüel y Sara" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El ángel Rafael se presentó a Tobías con el nombre de ___.",
+      "options": ["Azarías", "Gabriel", "Miguel"],
+      "answer": "Azarías",
+      "explanation": "Tob 5:13: bajo esta identidad falsa, Rafael acompaña y protege a Tobías durante todo el viaje."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tob 6:4 · La instrucción de Rafael sobre el pez",
+      "direction": "es-es",
+      "tiles": ["Ábrelo", "sácale", "la", "hiel", "el", "corazón", "y", "el", "hígado", "escamas"],
+      "answer": "Ábrelo sácale la hiel el corazón y el hígado",
+      "explanation": "Tob 6:4: estas tres partes del pez tendrán un papel decisivo tanto en la boda de Tobías como en la curación de Tobit."
+    },
+    {
+      "type": "gap",
+      "text": "Del pez del Tigris, Rafael mandó guardar la hiel, el corazón y el ___.",
+      "options": ["hígado", "estómago", "cerebro"],
+      "answer": "hígado",
+      "explanation": "Tob 6:4-9: cada una de estas tres partes tendrá un uso concreto más adelante en la historia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué partes del pez del Tigris le dijo Rafael a Tobías que guardara?",
+      "options": ["La hiel, el corazón y el hígado", "Las escamas y la cola", "Los ojos y las branquias"],
+      "correct": 0,
+      "hint": "Cada una de estas partes tendrá un uso concreto más adelante en la historia.",
+      "explanation": "Tob 6:4: Rafael explica que estas partes sirven tanto para expulsar demonios como para curar la ceguera."
+    },
+    {
+      "type": "gap",
+      "text": "Tobías ahuyentó al demonio quemando el corazón y el hígado del pez sobre el ___.",
+      "options": ["brasero", "altar", "agua"],
+      "answer": "brasero",
+      "explanation": "Tob 8:2-3: el humo del pez expulsa a Asmodeo, que huye hasta la lejana región de Egipto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo ahuyentó Tobías al demonio Asmodeo en la noche de bodas?",
+      "options": ["Recitando un salmo durante toda la noche", "Quemando el corazón y el hígado del pez", "Rociando la habitación con agua bendita"],
+      "correct": 1,
+      "hint": "Sigue al pie de la letra la instrucción que Rafael le había dado antes del viaje.",
+      "explanation": "Tob 8:2-3: «el olor del pez expulsó al demonio, que huyó volando hasta la región de Egipto», librando por fin a Sara de su maldición."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tob 8:3 · La huida del demonio Asmodeo",
+      "direction": "es-es",
+      "tiles": ["El", "olor", "del", "pez", "expulsó", "al", "demonio", "atrajo", "curó"],
+      "answer": "El olor del pez expulsó al demonio",
+      "explanation": "Tob 8:3: este prodigio libera a Sara de la maldición que había costado la vida a sus siete maridos anteriores."
+    },
+    {
+      "type": "gap",
+      "text": "Tobías curó la ceguera de su padre untándole los ojos con la ___ del pez.",
+      "options": ["hiel", "sangre", "grasa"],
+      "answer": "hiel",
+      "explanation": "Tob 11:11-13: al aplicar la hiel, Tobit recupera la vista y puede ver por fin a su hijo tras su largo viaje."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué curó Tobías la ceguera de su padre Tobit al regresar del viaje?",
+      "options": ["Con un ungüento comprado en Media", "Con la oración de Rafael sobre sus ojos", "Untando sus ojos con la hiel del pez"],
+      "correct": 2,
+      "hint": "El remedio ya lo llevaba preparado desde el episodio del río Tigris.",
+      "explanation": "Tob 11:11-13: «te veo, hijo, luz de mis ojos» exclama Tobit al recuperar la vista gracias a la hiel del pez."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tob 11:13 · La alegría de Tobit al recuperar la vista",
+      "direction": "es-es",
+      "tiles": ["Te", "veo", "hijo", "luz", "de", "mis", "ojos", "voz", "corazón"],
+      "answer": "Te veo hijo luz de mis ojos",
+      "explanation": "Tob 11:13: la curación de Tobit cierra el círculo de sufrimiento abierto al comienzo del libro con su ceguera."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del desenlace con su dato",
+      "pairs": [
+        { "en": "El brasero", "es": "Donde se queman las partes del pez" },
+        { "en": "El demonio", "es": "Huye hasta la lejana región de Egipto" },
+        { "en": "Tobías y Sara", "es": "Se casan y quedan libres del maleficio" },
+        { "en": "Tobit", "es": "Recupera la vista al regresar su hijo" },
+        { "en": "Rafael", "es": "Revela su identidad angélica antes de partir" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Rafael reveló ser uno de los siete ___ que están ante Dios.",
+      "options": ["ángeles", "profetas", "sacerdotes"],
+      "answer": "ángeles",
+      "explanation": "Tob 12:15: Rafael revela su identidad solo al final, explicando que había presentado ante Dios las oraciones de Tobit y de Sara."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién era en realidad Azarías, el guía de Tobías durante el viaje?",
+      "options": ["El ángel Rafael, uno de los siete ángeles ante Dios", "Un pariente lejano de la familia de Tobit", "Un mercader que buscaba compañía de viaje"],
+      "correct": 0,
+      "hint": "Su verdadera identidad explica por qué el viaje resultó tan providencial.",
+      "explanation": "Tob 12:15: «yo soy Rafael, uno de los siete ángeles que están al servicio del Señor» — su misión concluye una vez cumplida su tarea con la familia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tob 12:15 · La revelación de la identidad de Rafael",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "Rafael", "uno", "de", "los", "siete", "ángeles", "profeta", "hombre"],
+      "answer": "Yo soy Rafael uno de los siete ángeles",
+      "explanation": "Tob 12:15: tras esta revelación, Rafael desaparece de la vista de Tobit y Tobías, dejándolos maravillados y agradecidos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué función explica Rafael que cumplía durante las oraciones de Tobit y Sara?",
+      "options": ["Los protegía físicamente de los enemigos exteriores", "Presentaba el memorial de sus oraciones ante Dios", "Les enviaba sueños con instrucciones concretas"],
+      "correct": 1,
+      "hint": "Su papel es el de mediador entre las súplicas humanas y la presencia divina.",
+      "explanation": "Tob 12:12: «cuando tú y Sara orabais, era yo quien presentaba el memorial de vuestras oraciones ante la gloria del Señor»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo comienza el cántico final de acción de gracias de Tobit?",
+      "options": ["Alabando la riqueza recuperada por la familia", "Pidiendo perdón por los pecados de Nínive", "Bendiciendo a Dios, que vive eternamente"],
+      "correct": 2,
+      "hint": "El cántico abre con una alabanza solemne antes de mirar hacia el futuro de Jerusalén.",
+      "explanation": "Tob 13:1: «bendito sea Dios, que vive eternamente; y cuyo reino dura por los siglos» — el cántico incluye después una promesa de luz para todas las naciones."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tob 13:1 · El comienzo del cántico de Tobit",
+      "direction": "es-es",
+      "tiles": ["Bendito", "sea", "Dios", "que", "vive", "eternamente", "muere", "calla"],
+      "answer": "Bendito sea Dios que vive eternamente",
+      "explanation": "Tob 13:1: este cántico final resume el sentido de toda la historia — la providencia de Dios cuidando a los que sufren en el exilio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tob 3:6 · La oración de Tobit pidiendo la muerte",
+      "direction": "es-es",
+      "tiles": ["Más", "me", "vale", "morir", "que", "vivir", "reinar", "callar"],
+      "answer": "Más me vale morir que vivir",
+      "explanation": "Tob 3:6: la profundidad de la angustia de Tobit, ciego y despreciado, lo lleva a pedir a Dios que le conceda la muerte."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tob 12:12 · La misión de Rafael durante las oraciones",
+      "direction": "es-es",
+      "tiles": ["Presentaba", "el", "memorial", "de", "vuestras", "oraciones", "ante", "Dios", "olvidaba", "ocultaba"],
+      "answer": "Presentaba el memorial de vuestras oraciones ante Dios",
+      "explanation": "Tob 12:12: Rafael explica que había llevado personalmente ante Dios tanto la oración de Tobit como la de Sara, antes incluso de que se conocieran."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del cántico final con su dato",
+      "pairs": [
+        { "en": "«Bendito sea Dios»", "es": "Inicio del cántico de Tobit" },
+        { "en": "El reino de Dios", "es": "Dura por los siglos, según el cántico" },
+        { "en": "Una luz esplendente", "es": "Promesa de esperanza para todas las regiones" },
+        { "en": "Nínive", "es": "Ciudad del exilio de Tobit" },
+        { "en": "Media", "es": "Destino del viaje de Tobías por el dinero" }
+      ]
+    }
+  ]
+}

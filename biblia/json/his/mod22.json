@@ -1,0 +1,251 @@
+{
+  "id": "his-mod22",
+  "module": 22,
+  "title": "Ester — La Reina que Salvó a su Pueblo",
+  "subtitle": "Ester 1–10",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Por qué destronó Asuero a la reina Vasti?",
+      "options": ["Se negó a obedecer una orden del rey", "Fue acusada de conspirar contra él", "Pidió el divorcio voluntariamente"],
+      "correct": 0,
+      "hint": "Su desobediencia pública encoleriza al rey ante toda la corte.",
+      "explanation": "Est 1:12: «la reina Vasti se negó a obedecer la orden que le comunicaron los eunucos. El rey se encolerizó», lo que desencadena su destitución."
+    },
+    {
+      "type": "gap",
+      "text": "La reina ___ fue destronada por negarse a obedecer al rey Asuero.",
+      "options": ["Vasti", "Ester", "Zeres"],
+      "answer": "Vasti",
+      "explanation": "Est 1:12-19: su destitución abre el proceso que llevará a la elección de una nueva reina entre las jóvenes del reino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Est 1:12 · La desobediencia de la reina Vasti",
+      "direction": "es-es",
+      "tiles": ["La", "reina", "Vasti", "se", "negó", "a", "obedecer", "aceptó", "pidió"],
+      "answer": "La reina Vasti se negó a obedecer",
+      "explanation": "Est 1:12: esta negativa pública provoca la ira del rey y desencadena todo el proceso de búsqueda de una nueva reina."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Asuero", "es": "Rey de Persia que destrona a Vasti" },
+        { "en": "Vasti", "es": "Reina destronada por desobediencia" },
+        { "en": "Ester", "es": "Joven judía elegida nueva reina" },
+        { "en": "Mardoqueo", "es": "Primo de Ester, salva la vida del rey" },
+        { "en": "Amán", "es": "Gran visir que trama el exterminio de los judíos" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Ester no reveló su origen ___, por instrucción de Mardoqueo.",
+      "options": ["judío", "persa", "real"],
+      "answer": "judío",
+      "explanation": "Est 2:10.20: Ester mantiene en secreto su identidad incluso después de convertirse en reina, siguiendo el consejo de su primo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué mantuvo oculto Ester al ser elegida reina?",
+      "options": ["Su verdadera edad", "Su origen judío, por instrucción de Mardoqueo", "El nombre de su padre"],
+      "correct": 1,
+      "hint": "Este secreto será clave más adelante, cuando decida revelarlo ante el rey.",
+      "explanation": "Est 2:10: «Ester no había dicho a qué raza o pueblo pertenecía, pues Mardoqueo se lo había prohibido»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Est 2:10 · El secreto de Ester",
+      "direction": "es-es",
+      "tiles": ["Ester", "no", "había", "dicho", "a", "qué", "pueblo", "pertenecía", "ciudad", "familia"],
+      "answer": "Ester no había dicho a qué pueblo pertenecía",
+      "explanation": "Est 2:10: este secreto, guardado por consejo de Mardoqueo, protege a Ester mientras se gana la confianza del rey."
+    },
+    {
+      "type": "gap",
+      "text": "Mardoqueo descubrió una conspiración de dos ___ contra la vida del rey.",
+      "options": ["eunucos", "generales", "sacerdotes"],
+      "answer": "eunucos",
+      "explanation": "Est 2:21-23: al advertir el complot, Mardoqueo salva la vida del rey, y el hecho queda registrado en las crónicas del reino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué descubrió Mardoqueo que le permitió salvar la vida del rey?",
+      "options": ["Un plan de invasión de un ejército extranjero", "Un robo en el tesoro real", "Una conspiración de dos eunucos para asesinar al rey"],
+      "correct": 2,
+      "hint": "Este servicio quedará registrado y será decisivo más adelante en la historia.",
+      "explanation": "Est 2:21-23: gracias al aviso de Mardoqueo, la conspiración es descubierta y los culpables ejecutados; el hecho se anota en las crónicas reales."
+    },
+    {
+      "type": "gap",
+      "text": "Amán se enfureció porque Mardoqueo no se ___ ante él.",
+      "options": ["inclinaba", "presentaba", "dirigía"],
+      "answer": "inclinaba",
+      "explanation": "Est 3:2-5: la negativa de Mardoqueo a rendir homenaje a Amán desencadena un odio que se extenderá a todo el pueblo judío."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué se enfureció Amán con Mardoqueo?",
+      "options": ["Porque Mardoqueo no se inclinaba ante él", "Porque Mardoqueo lo había denunciado ante el rey", "Porque Mardoqueo ocupaba su antiguo cargo en la corte"],
+      "correct": 0,
+      "hint": "Su ira nace de un gesto de respeto que Mardoqueo se niega a rendirle.",
+      "explanation": "Est 3:2-5: la negativa de Mardoqueo a inclinarse convierte el orgullo herido de Amán en un odio que se extiende contra todo el pueblo judío."
+    },
+    {
+      "type": "gap",
+      "text": "Amán echó suertes, llamadas ___, para fijar el día del exterminio de los judíos.",
+      "options": ["Pur", "Purim", "Sortes"],
+      "answer": "Pur",
+      "explanation": "Est 3:7: de esta suerte, «Pur», tomará después su nombre la fiesta de Purim, instituida para celebrar la liberación del pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Est 3:6 · El plan de Amán contra los judíos",
+      "direction": "es-es",
+      "tiles": ["Se", "propuso", "exterminar", "a", "todos", "los", "judíos", "expulsar", "esclavizar"],
+      "answer": "Se propuso exterminar a todos los judíos",
+      "explanation": "Est 3:6: el odio personal de Amán hacia Mardoqueo se transforma en un plan de exterminio contra todo su pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué plan tramó Amán contra los judíos del imperio persa?",
+      "options": ["Expulsarlos a todos a una provincia lejana", "Exterminarlos a todos en un día fijado por sorteo", "Confiscar todas sus propiedades y esclavizarlos"],
+      "correct": 1,
+      "hint": "El plan de Amán no se limita a Mardoqueo, sino que alcanza a todo su pueblo.",
+      "explanation": "Est 3:6-13: «se propuso exterminar... a todos los judíos residentes en el reino», fijando la fecha mediante un sorteo llamado Pur."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la conspiración con su dato",
+      "pairs": [
+        { "en": "Los dos eunucos", "es": "Conspiran para matar al rey" },
+        { "en": "El sorteo (Pur)", "es": "Fija la fecha del exterminio de los judíos" },
+        { "en": "«No se inclinaba ante él»", "es": "Motivo del odio de Amán a Mardoqueo" },
+        { "en": "«Para un momento como este»", "es": "Frase de Mardoqueo a Ester" },
+        { "en": "El banquete privado", "es": "Estrategia de Ester para acercarse al rey" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Mardoqueo dijo a Ester: quizá has llegado a la realeza precisamente para un ___ como este.",
+      "options": ["momento", "pueblo", "rey"],
+      "answer": "momento",
+      "explanation": "Est 4:14: esta frase convence a Ester de arriesgar su vida presentándose ante el rey sin haber sido llamada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dijo Mardoqueo a Ester para convencerla de actuar en favor de su pueblo?",
+      "options": ["Que el rey ya conocía el plan de Amán", "Que huyera del palacio mientras aún pudiera", "Que quizá había llegado a la realeza precisamente para ese momento"],
+      "correct": 2,
+      "hint": "Su argumento apela al sentido providencial de la posición de Ester como reina.",
+      "explanation": "Est 4:14: «es muy posible que hayas llegado a ser reina para una ocasión como esta» — una de las frases más citadas de todo el libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Est 4:14 · La frase decisiva de Mardoqueo a Ester",
+      "direction": "es-es",
+      "tiles": ["Llegado", "a", "ser", "reina", "para", "esta", "ocasión", "guerra", "fiesta"],
+      "answer": "Llegado a ser reina para esta ocasión",
+      "explanation": "Est 4:14: estas palabras deciden a Ester a arriesgar su vida presentándose ante el rey sin haber sido convocada."
+    },
+    {
+      "type": "gap",
+      "text": "Ester invitó al rey y a ___ a un banquete privado.",
+      "options": ["Amán", "Mardoqueo", "Vasti"],
+      "answer": "Amán",
+      "explanation": "Est 5:4-8: Ester organiza dos banquetes sucesivos, aplazando su petición hasta el segundo, para preparar el terreno de su denuncia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Est 5:4 · La invitación de Ester al primer banquete",
+      "direction": "es-es",
+      "tiles": ["Venga", "hoy", "con", "Amán", "al", "banquete", "mañana", "solo"],
+      "answer": "Venga hoy con Amán al banquete",
+      "explanation": "Est 5:4: este primer banquete aplaza la petición de Ester, aumentando la tensión antes de la denuncia final contra Amán."
+    },
+    {
+      "type": "gap",
+      "text": "El rey ordenó honrar a Mardoqueo con las vestiduras y el ___ reales.",
+      "options": ["caballo", "trono", "cetro"],
+      "answer": "caballo",
+      "explanation": "Est 6:8-10: irónicamente, es el propio Amán quien debe pasear a Mardoqueo por la ciudad con estos honores, tras haberlos sugerido él mismo sin saber a quién se dirigían."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió la noche en que el rey Asuero no podía dormir?",
+      "options": ["Descubrió en las crónicas que Mardoqueo le había salvado la vida", "Tuvo un sueño que interpretó como una señal de guerra", "Ordenó ejecutar a Ester por sospecha de traición"],
+      "correct": 0,
+      "hint": "Manda leer los registros del reino para distraerse, y encuentra algo inesperado.",
+      "explanation": "Est 6:1-3: al leer las crónicas, el rey descubre que Mardoqueo nunca fue recompensado por salvarle la vida, y decide honrarlo de inmediato."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tuvo que hacer Amán, para su humillación, tras la noche de insomnio del rey?",
+      "options": ["Renunciar públicamente a su cargo de gran visir", "Honrar a Mardoqueo, paseándolo por la ciudad con las vestiduras reales", "Pedir perdón públicamente ante toda la corte"],
+      "correct": 1,
+      "hint": "Amán había ideado ese honor pensando que sería para él mismo.",
+      "explanation": "Est 6:6-11: «toma las vestiduras y el caballo... y haz todo eso con el judío Mardoqueo» — el rey ordena a Amán ejecutar el mismo honor que él había imaginado para sí."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Est 6:10 · La orden del rey a Amán",
+      "direction": "es-es",
+      "tiles": ["Haz", "todo", "eso", "con", "el", "judío", "Mardoqueo", "nada", "Ester"],
+      "answer": "Haz todo eso con el judío Mardoqueo",
+      "explanation": "Est 6:10: la humillación de Amán, obligado a honrar públicamente a su enemigo, anticipa su caída definitiva."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del desenlace con su dato",
+      "pairs": [
+        { "en": "Las crónicas del reino", "es": "Revelan que Mardoqueo salvó al rey" },
+        { "en": "Las vestiduras y el caballo", "es": "Honores que Amán debe dar a Mardoqueo" },
+        { "en": "El segundo banquete", "es": "Momento en que Ester denuncia a Amán" },
+        { "en": "La horca", "es": "Preparada para Mardoqueo, usada finalmente contra Amán" },
+        { "en": "El decreto real", "es": "Permite a los judíos defenderse" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Ester denunció ante el rey: el perseguidor y enemigo es ese malvado, ___.",
+      "options": ["Amán", "Mardoqueo", "el eunuco"],
+      "answer": "Amán",
+      "explanation": "Est 7:6: esta denuncia directa, en presencia del propio Amán, precipita su caída inmediata."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Est 7:6 · La denuncia de Ester contra Amán",
+      "direction": "es-es",
+      "tiles": ["El", "perseguidor", "y", "enemigo", "es", "ese", "malvado", "Amán", "Mardoqueo"],
+      "answer": "El perseguidor y enemigo es ese malvado Amán",
+      "explanation": "Est 7:6: tras esta denuncia, el rey ordena la ejecución de Amán en la misma horca que él había preparado para Mardoqueo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo terminó Amán?",
+      "options": ["Fue desterrado a una provincia lejana del imperio", "Murió en batalla defendiendo al rey", "Fue colgado en la misma horca que había preparado para Mardoqueo"],
+      "correct": 2,
+      "hint": "Su propia trampa se vuelve contra él.",
+      "explanation": "Est 7:9-10: «colgaron a Amán en la horca que él había preparado para Mardoqueo» — un desenlace de justicia poética que cierra la trama del complot."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Est 7:10 · El castigo final de Amán",
+      "direction": "es-es",
+      "tiles": ["Colgaron", "a", "Amán", "en", "la", "horca", "prisión", "torre"],
+      "answer": "Colgaron a Amán en la horca",
+      "explanation": "Est 7:10: Amán muere en la misma horca que había mandado construir para ejecutar a Mardoqueo, un giro de justicia poética."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la fiesta de Purim con su dato",
+      "pairs": [
+        { "en": "El mes de adar", "es": "Mes en que se celebra Purim" },
+        { "en": "Los días catorce y quince", "es": "Fechas de la celebración" },
+        { "en": "El sorteo de Amán", "es": "Da nombre a la fiesta, Pur" },
+        { "en": "La liberación del pueblo judío", "es": "Motivo central de la celebración" },
+        { "en": "Ester y Mardoqueo", "es": "Instituyen la fiesta para todo el pueblo" }
+      ]
+    }
+  ]
+}
