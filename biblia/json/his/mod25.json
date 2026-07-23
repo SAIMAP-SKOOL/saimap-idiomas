@@ -1,0 +1,251 @@
+{
+  "id": "his-mod25",
+  "module": 25,
+  "title": "2 Macabeos — Los Mártires y la Oración por los Difuntos",
+  "subtitle": "2 Macabeos 6–12",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Por qué se negó Eleazar a fingir que comía carne de cerdo, aunque así habrían perdonado su vida?",
+      "options": ["Por no dar mal ejemplo a los jóvenes con un engaño", "Porque no confiaba en la promesa de perdón del rey", "Porque temía el castigo de los sacerdotes del templo"],
+      "correct": 0,
+      "hint": "Su preocupación no es solo por sí mismo, sino por quienes lo observan.",
+      "explanation": "2Mac 6:24-27: «no es digno de mi edad ese engaño... legaré a los jóvenes un noble ejemplo» — Eleazar prefiere la muerte antes que dar una falsa señal de apostasía."
+    },
+    {
+      "type": "gap",
+      "text": "Eleazar dijo: no es digno de mi edad ese ___.",
+      "options": ["engaño", "dolor", "silencio"],
+      "answer": "engaño",
+      "explanation": "2Mac 6:24: aunque fingir sería más fácil, Eleazar rechaza el engaño por el mal ejemplo que daría a los jóvenes que lo observan."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Mac 6:24 · Por qué Eleazar rechaza el engaño",
+      "direction": "es-es",
+      "tiles": ["No", "es", "digno", "de", "mi", "edad", "ese", "engaño", "dolor", "miedo"],
+      "answer": "No es digno de mi edad ese engaño",
+      "explanation": "2Mac 6:24: Eleazar, anciano y respetado, no quiere que su ejemplo lleve a los jóvenes a pensar que la apostasía es aceptable."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Eleazar", "es": "Anciano escriba martirizado por no comer cerdo" },
+        { "en": "Los siete hermanos", "es": "Martirizados junto a su madre" },
+        { "en": "La madre", "es": "Anima a sus siete hijos hasta el final" },
+        { "en": "Antíoco IV", "es": "Ordena los martirios, muere consumido por gusanos" },
+        { "en": "Judas Macabeo", "es": "Ora y ofrece sacrificio por los soldados caídos" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Eleazar prefirió morir para legar a los jóvenes un noble ___.",
+      "options": ["ejemplo", "tesoro", "nombre"],
+      "answer": "ejemplo",
+      "explanation": "2Mac 6:27-28: Eleazar afirma que mostrarse valiente ante la muerte es lo único digno de sus muchos años de vida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué edad tenía Eleazar cuando fue martirizado?",
+      "options": ["Setenta años", "Noventa años", "Cien años"],
+      "correct": 1,
+      "hint": "Su avanzada edad hace aún más notable su fortaleza ante el sufrimiento.",
+      "explanation": "2Mac 6:24: Eleazar teme que los jóvenes crean «que Eleazar a los noventa años ha apostatado», y por eso prefiere morir con coherencia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Mac 6:27 · La decisión final de Eleazar",
+      "direction": "es-es",
+      "tiles": ["Legaré", "a", "los", "jóvenes", "un", "noble", "ejemplo", "tesoro", "nombre"],
+      "answer": "Legaré a los jóvenes un noble ejemplo",
+      "explanation": "2Mac 6:27-28: Eleazar convierte su propia muerte en una lección de fidelidad para las generaciones futuras."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada dato del martirio de Eleazar",
+      "pairs": [
+        { "en": "Noventa años", "es": "Edad de Eleazar en el momento del martirio" },
+        { "en": "La carne de cerdo", "es": "Alimento prohibido que se niega a comer" },
+        { "en": "El engaño", "es": "Opción que rechaza por dar mal ejemplo" },
+        { "en": "El noble ejemplo", "es": "Legado que Eleazar quiere dejar a los jóvenes" },
+        { "en": "Antíoco", "es": "Ordena su ejecución" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se enfrentaron los siete hermanos y su madre a las exigencias de Antíoco?",
+      "options": ["Aceptaron ceder para salvar sus vidas", "Huyeron antes de ser capturados por el rey", "Cada uno se negó a la apostasía, animándose unos a otros"],
+      "correct": 2,
+      "hint": "Su resistencia se sostiene mutuamente, hermano tras hermano.",
+      "explanation": "2Mac 7: los siete hermanos, animados por su madre, se niegan uno tras otro a comer carne prohibida, prefiriendo la muerte."
+    },
+    {
+      "type": "gap",
+      "text": "El segundo hermano afirmó: el Rey del universo nos ___ para una vida eterna.",
+      "options": ["resucitará", "perdonará", "recordará"],
+      "answer": "resucitará",
+      "explanation": "2Mac 7:9: esta es una de las afirmaciones más explícitas del Antiguo Testamento sobre la esperanza de la resurrección."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué esperanza expresó el segundo hermano ante la muerte?",
+      "options": ["Que el Rey del universo los resucitaría para una vida eterna", "Que su sacrificio evitaría la persecución en el futuro", "Que el pueblo se rebelaría al conocer su muerte"],
+      "correct": 0,
+      "hint": "Su fe mira más allá de la muerte inmediata.",
+      "explanation": "2Mac 7:9: frente a la crueldad de Antíoco, el segundo hermano proclama la fe en que Dios resucitará a los fieles a una vida eterna."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Mac 7:9 · La fe en la resurrección del segundo hermano",
+      "direction": "es-es",
+      "tiles": ["El", "Rey", "del", "universo", "nos", "resucitará", "olvidará", "juzgará"],
+      "answer": "El Rey del universo nos resucitará",
+      "explanation": "2Mac 7:9: esta declaración de fe se repite, con variaciones, en boca de varios de los siete hermanos ante Antíoco."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del martirio de los siete hermanos con su dato",
+      "pairs": [
+        { "en": "El segundo hermano", "es": "Expresa la fe en la resurrección" },
+        { "en": "La madre", "es": "Exhorta a su hijo menor a no ceder" },
+        { "en": "El séptimo hermano", "es": "Entrega su vida por las leyes de sus padres" },
+        { "en": "«Dios creó todo de la nada»", "es": "Argumento de la madre sobre la resurrección" },
+        { "en": "Antíoco", "es": "Presencia y ordena los siete martirios" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "La madre pidió a su hijo menor que reconociera que Dios creó todo de la ___.",
+      "options": ["nada", "tierra", "luz"],
+      "answer": "nada",
+      "explanation": "2Mac 7:28: con este argumento, la madre convence a su hijo menor de que Dios, creador de todo, también puede devolverle la vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Mac 7:28 · La exhortación de la madre a su hijo menor",
+      "direction": "es-es",
+      "tiles": ["Dios", "lo", "creó", "todo", "de", "la", "nada", "cielo", "cieno"],
+      "answer": "Dios lo creó todo de la nada",
+      "explanation": "2Mac 7:28: este es uno de los textos bíblicos más citados sobre la creación de la nada (creatio ex nihilo)."
+    },
+    {
+      "type": "gap",
+      "text": "El séptimo hermano dijo: entrego mi cuerpo y mi vida por las ___ de mis padres.",
+      "options": ["leyes", "tierras", "riquezas"],
+      "answer": "leyes",
+      "explanation": "2Mac 7:37: con estas palabras, el último de los siete hermanos cierra el ciclo de testimonios de fidelidad ante el martirio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le pidió la madre a su hijo menor antes de que él también muriera?",
+      "options": ["Que huyera mientras aún pudiera escapar", "Que reconociera que Dios creó todo de la nada", "Que aceptara finalmente las órdenes del rey"],
+      "correct": 1,
+      "hint": "Su argumento se apoya en el poder creador de Dios sobre todas las cosas.",
+      "explanation": "2Mac 7:28-29: la madre anima a su último hijo a no temer al verdugo, confiando en que el mismo Dios creador puede devolverle la vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Mac 7:37 · Las últimas palabras del séptimo hermano",
+      "direction": "es-es",
+      "tiles": ["Entrego", "mi", "cuerpo", "y", "mi", "vida", "por", "las", "leyes", "riquezas"],
+      "answer": "Entrego mi cuerpo y mi vida por las leyes",
+      "explanation": "2Mac 7:37: con estas palabras culmina el testimonio de los siete hermanos, todos fieles hasta la muerte a la ley de sus padres."
+    },
+    {
+      "type": "gap",
+      "text": "Bajo la túnica de los soldados caídos, encontraron ___ de ídolos paganos.",
+      "options": ["amuletos", "cartas", "monedas"],
+      "answer": "amuletos",
+      "explanation": "2Mac 12:40: este hallazgo explica por qué esos soldados habían muerto en la batalla, según la interpretación del texto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué encontraron los soldados de Judas bajo la túnica de los caídos en batalla?",
+      "options": ["Cartas que revelaban una traición al ejército judío", "Oro robado previamente del templo de Jerusalén", "Amuletos de ídolos paganos, prohibidos por la ley"],
+      "correct": 2,
+      "hint": "El hallazgo explica, según el texto, por qué esos soldados habían caído en la batalla.",
+      "explanation": "2Mac 12:40: «bajo la túnica de cada muerto encontraron amuletos de los ídolos de Yamnia, que la ley prohíbe»."
+    },
+    {
+      "type": "gap",
+      "text": "Judas encargó un sacrificio de ___ por los soldados caídos.",
+      "options": ["expiación", "acción de gracias", "bendición"],
+      "answer": "expiación",
+      "explanation": "2Mac 12:43-46: este gesto de Judas es uno de los fundamentos bíblicos de la práctica de orar por los difuntos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Judas al descubrir el pecado de los soldados caídos en la batalla?",
+      "options": ["Encargó un sacrificio de expiación por ellos", "Ordenó destruir sus cuerpos sin darles sepultura", "Prohibió que se recordaran sus nombres en adelante"],
+      "correct": 0,
+      "hint": "Su respuesta busca reparar la falta, no castigar el recuerdo de los caídos.",
+      "explanation": "2Mac 12:43-46: «encargó un sacrificio de expiación por los muertos, para que fueran liberados del pecado» — un gesto de intercesión por quienes ya no pueden actuar por sí mismos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Mac 12:44 · El fundamento de la oración por los difuntos",
+      "direction": "es-es",
+      "tiles": ["Habría", "sido", "inútil", "rezar", "por", "los", "muertos", "vivos", "santos"],
+      "answer": "Habría sido inútil rezar por los muertos",
+      "explanation": "2Mac 12:44: el texto vincula explícitamente la oración por los difuntos con la fe en la resurrección de los caídos."
+    },
+    {
+      "type": "gap",
+      "text": "El texto afirma: es cosa santa y piadosa rogar por los ___.",
+      "options": ["difuntos", "pobres", "enfermos"],
+      "answer": "difuntos",
+      "explanation": "2Mac 12:46: esta afirmación se ha convertido en uno de los textos bíblicos de referencia sobre la oración por los difuntos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio teológico justifica, según el texto, la práctica de orar por los difuntos?",
+      "options": ["La creencia de que los muertos pueden interceder por los vivos", "La fe en la resurrección de los caídos", "Una costumbre heredada de los pueblos vecinos de Judea"],
+      "correct": 1,
+      "hint": "Sin esta esperanza concreta, el gesto de Judas carecería de sentido, según explica el propio texto.",
+      "explanation": "2Mac 12:43-44: «si no hubiera esperado la resurrección de los caídos, habría sido inútil rezar por los muertos» — la oración presupone la esperanza de la vida futura."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Mac 12:46 · La expiación por los soldados caídos",
+      "direction": "es-es",
+      "tiles": ["Encargó", "un", "sacrificio", "de", "expiación", "por", "los", "muertos", "vivos", "reyes"],
+      "answer": "Encargó un sacrificio de expiación por los muertos",
+      "explanation": "2Mac 12:46: este versículo es citado tradicionalmente como uno de los fundamentos bíblicos de la oración por los difuntos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la oración por los difuntos con su dato",
+      "pairs": [
+        { "en": "Los amuletos", "es": "Hallados bajo la túnica de los soldados caídos" },
+        { "en": "El pecado", "es": "Motivo del sacrificio de expiación ofrecido por Judas" },
+        { "en": "La resurrección", "es": "Fundamento de la oración por los difuntos" },
+        { "en": "El sacrificio de expiación", "es": "Ofrecido por Judas en favor de los caídos" },
+        { "en": "«Rogar por los difuntos»", "es": "Práctica santa y piadosa, según el texto" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "En su enfermedad final, el cuerpo de Antíoco fue consumido por ___.",
+      "options": ["gusanos", "fiebre", "heridas"],
+      "answer": "gusanos",
+      "explanation": "2Mac 9:9: 2 Macabeos narra la muerte de Antíoco con un tono aún más dramático que 1 Macabeos, subrayando el castigo por su impiedad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe 2 Macabeos la muerte de Antíoco IV?",
+      "options": ["Sereno y en paz, rodeado de toda su corte", "En pleno combate, defendiendo su imperio", "Consumido por gusanos, en medio de un dolor insoportable"],
+      "correct": 2,
+      "hint": "El relato subraya el sufrimiento físico como reflejo de un castigo divino.",
+      "explanation": "2Mac 9:5-9: «en el cuerpo del impío pululaban los gusanos, caían a pedazos sus carnes, aun estando con vida» — un final descrito como castigo por la profanación del templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Mac 9:9 · La agonía final de Antíoco",
+      "direction": "es-es",
+      "tiles": ["Pululaban", "los", "gusanos", "caían", "a", "pedazos", "sus", "carnes", "flores", "joyas"],
+      "answer": "Pululaban los gusanos caían a pedazos sus carnes",
+      "explanation": "2Mac 9:5-12: antes de morir, el propio Antíoco reconoce que es «justo someterse a Dios», en un tardío arrepentimiento."
+    }
+  ]
+}

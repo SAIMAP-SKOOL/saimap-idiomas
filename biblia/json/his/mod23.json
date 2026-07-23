@@ -1,0 +1,251 @@
+{
+  "id": "his-mod23",
+  "module": 23,
+  "title": "1 Macabeos I — Matatías, Judas y la Purificación del Templo",
+  "subtitle": "1 Macabeos 1–9",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Antíoco IV Epífanes sobre el altar de los holocaustos en Jerusalén?",
+      "options": ["Erigió la abominación de la desolación", "Lo reconstruyó con oro y plata", "Lo trasladó a su capital"],
+      "correct": 0,
+      "hint": "Se trata de un ídolo pagano colocado en el lugar más sagrado del culto judío.",
+      "explanation": "1Mac 1:54: «el rey Antíoco mandó poner sobre el altar de los holocaustos la abominación de la desolación», profanando así el corazón mismo del templo."
+    },
+    {
+      "type": "gap",
+      "text": "Antíoco mandó poner sobre el altar la abominación de la ___.",
+      "options": ["desolación", "alianza", "idolatría"],
+      "answer": "desolación",
+      "explanation": "1Mac 1:54: este acto marca el punto culminante de la persecución religiosa contra el judaísmo bajo Antíoco IV."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 1:54 · La profanación del altar",
+      "direction": "es-es",
+      "tiles": ["El", "rey", "Antíoco", "mandó", "poner", "sobre", "el", "altar", "quitar", "reconstruir"],
+      "answer": "El rey Antíoco mandó poner sobre el altar",
+      "explanation": "1Mac 1:54: este acto de profanación desencadenará, poco después, la revuelta armada liderada por Matatías y sus hijos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Antíoco IV", "es": "Profana el templo y prohíbe el judaísmo" },
+        { "en": "Matatías", "es": "Sacerdote que inicia la revuelta en Modín" },
+        { "en": "Judas Macabeo", "es": "Hijo de Matatías, nombrado caudillo militar" },
+        { "en": "Apolonio", "es": "General sirio derrotado por Judas" },
+        { "en": "Baquides", "es": "General sirio que vence y mata a Judas" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Muchos israelitas prefirieron la ___ antes que contaminarse con lo prohibido.",
+      "options": ["muerte", "huida", "riqueza"],
+      "answer": "muerte",
+      "explanation": "1Mac 1:62-63: la fidelidad de muchos judíos a la ley, incluso a costa de su vida, contrasta con la apostasía de otros."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué prohibió Antíoco bajo pena de muerte?",
+      "options": ["Solo el comercio con otros pueblos vecinos", "La circuncisión y la observancia del sábado", "Únicamente los sacrificios de animales"],
+      "correct": 1,
+      "hint": "Ataca directamente las señales más visibles de la identidad religiosa judía.",
+      "explanation": "1Mac 1: la prohibición de la circuncisión, el sábado y las fiestas judías, junto con la imposición de comer carne de cerdo, busca borrar la práctica del judaísmo."
+    },
+    {
+      "type": "gap",
+      "text": "Matatías gritó: todo el que sienta ___ por la ley, que me siga.",
+      "options": ["celo", "miedo", "duda"],
+      "answer": "celo",
+      "explanation": "1Mac 2:27: este grito de Matatías, tras matar a un apóstata y a un oficial del rey, marca el inicio oficial de la revuelta armada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 2:27 · El grito de guerra de Matatías",
+      "direction": "es-es",
+      "tiles": ["Todo", "el", "que", "sienta", "celo", "por", "la", "ley", "miedo", "duda"],
+      "answer": "Todo el que sienta celo por la ley",
+      "explanation": "1Mac 2:27-28: tras este grito, Matatías huye a las montañas con sus hijos, dando inicio a la resistencia armada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Matatías al ver a un judío dispuesto a sacrificar a los ídolos en Modín?",
+      "options": ["Lo amonestó públicamente sin más consecuencias", "Se marchó de la ciudad en silencio", "Lo mató sobre el propio altar, junto al oficial del rey"],
+      "correct": 2,
+      "hint": "Su reacción es inmediata y violenta, sin margen para la negociación.",
+      "explanation": "1Mac 2:24-25: Matatías mata al apóstata y al funcionario real que exigía el sacrificio, derriba el altar pagano, y huye a las montañas con sus hijos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada hijo de Matatías con su apodo",
+      "pairs": [
+        { "en": "Juan", "es": "Apodado «el Feliz»" },
+        { "en": "Simón", "es": "Apodado «el Fanático»" },
+        { "en": "Judas", "es": "Llamado «Macabeo»" },
+        { "en": "Eleazar", "es": "Apodado «Avarán»" },
+        { "en": "Jonatán", "es": "Apodado «Apfús»" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Matatías fue enterrado en la sepultura familiar, en ___.",
+      "options": ["Modín", "Jerusalén", "Emaús"],
+      "answer": "Modín",
+      "explanation": "1Mac 2:69-70: antes de morir, Matatías nombra a Judas caudillo militar de la revuelta que él mismo había iniciado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién nombró Matatías caudillo militar antes de morir?",
+      "options": ["A Judas, llamado Macabeo", "Al primogénito Juan", "A un jefe militar ajeno a la familia"],
+      "correct": 0,
+      "hint": "No elige por edad, sino por el valor demostrado ya desde joven.",
+      "explanation": "1Mac 2:66: «Judas Macabeo, aguerrido desde joven, será vuestro caudillo» — con estas palabras, Matatías confía a Judas la dirección militar de la revuelta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 2:66 · Matatías nombra a Judas caudillo",
+      "direction": "es-es",
+      "tiles": ["Judas", "Macabeo", "será", "vuestro", "caudillo", "rey", "sacerdote"],
+      "answer": "Judas Macabeo será vuestro caudillo",
+      "explanation": "1Mac 2:66: estas son las últimas palabras de Matatías, encomendando a Judas la dirección de la lucha por la fidelidad a la ley."
+    },
+    {
+      "type": "gap",
+      "text": "En la batalla de Bet Jorón, Judas derrotó a ___ y su ejército.",
+      "options": ["Serón", "Apolonio", "Gorgias"],
+      "answer": "Serón",
+      "explanation": "1Mac 3:23-24: esta victoria, con ochocientas bajas para el ejército sirio, consolida la fama militar de Judas Macabeo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 3:19 · El discurso de Judas antes de la batalla",
+      "direction": "es-es",
+      "tiles": ["La", "fuerza", "llega", "del", "cielo", "tierra", "número"],
+      "answer": "La fuerza llega del cielo",
+      "explanation": "1Mac 3:18-19: Judas anima a sus hombres recordándoles que la victoria no depende del número de soldados, sino de la ayuda divina."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dijo Judas Macabeo sobre la clave de la victoria antes de la batalla?",
+      "options": ["Que dependía únicamente de la superioridad numérica", "Que la fuerza llega del cielo, no del número de soldados", "Que dependía de tener las armas más modernas"],
+      "correct": 1,
+      "hint": "Anima a sus hombres a pesar de estar en clara inferioridad numérica.",
+      "explanation": "1Mac 3:18-19: este principio sostiene la moral del pequeño ejército judío frente a las tropas mucho más numerosas del imperio seléucida."
+    },
+    {
+      "type": "gap",
+      "text": "Gorgias intentó un ataque nocturno con cinco mil hombres y mil ___.",
+      "options": ["jinetes", "arqueros", "elefantes"],
+      "answer": "jinetes",
+      "explanation": "1Mac 4:1-5: el plan de Gorgias fracasa porque no encuentra a los judíos en el lugar esperado, dejando el campamento sirio expuesto."
+    },
+    {
+      "type": "gap",
+      "text": "Tras la victoria de Emaús, cayeron unos tres mil ___ gentiles.",
+      "options": ["hombres", "jinetes", "generales"],
+      "answer": "hombres",
+      "explanation": "1Mac 4:15: la batalla de Emaús es una de las victorias más decisivas de Judas Macabeo contra el ejército seléucida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada batalla de Judas con su dato",
+      "pairs": [
+        { "en": "Apolonio", "es": "Derrotado en la primera gran victoria de Judas" },
+        { "en": "Serón", "es": "Vencido en la batalla de Bet Jorón" },
+        { "en": "Gorgias", "es": "Derrotado en la batalla de Emaús" },
+        { "en": "El templo", "es": "Purificado tras las primeras victorias" },
+        { "en": "Baquides", "es": "Vence a Judas en su última batalla" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué encontraron los hombres de Judas al llegar al templo tras las victorias iniciales?",
+      "options": ["El santuario intacto, listo para el culto", "El templo convertido en un mercado próspero", "El santuario desolado, el altar profanado y las puertas quemadas"],
+      "correct": 2,
+      "hint": "El estado del templo refleja los años de persecución religiosa sufridos.",
+      "explanation": "1Mac 4:38: «vieron el santuario desolado, el altar profanado, las puertas quemadas» — un panorama que impulsa la inmediata reconstrucción y purificación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 4:38 · El estado del templo antes de su purificación",
+      "direction": "es-es",
+      "tiles": ["Vieron", "el", "santuario", "desolado", "el", "altar", "profanado", "restaurado", "limpio"],
+      "answer": "Vieron el santuario desolado el altar profanado",
+      "explanation": "1Mac 4:36-38: esta visión desoladora impulsa a Judas y sus hombres a emprender de inmediato la restauración del culto."
+    },
+    {
+      "type": "gap",
+      "text": "La nueva dedicación del templo se celebró el día veinticinco del mes de ___.",
+      "options": ["casleu", "nisán", "adar"],
+      "answer": "casleu",
+      "explanation": "1Mac 4:52-54: la fecha coincide, tres años después, con el mismo día en que Antíoco había profanado el altar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántos días duró la celebración de la nueva dedicación del templo?",
+      "options": ["Ocho días", "Tres días", "Cuarenta días"],
+      "correct": 0,
+      "hint": "Esta duración se instituye después como fiesta anual, origen de Hanukkah.",
+      "explanation": "1Mac 4:56.59: «durante ocho días celebraron la consagración» y se decretó recordar anualmente esta fecha con la misma duración."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 4:56 · La duración de la fiesta de la Dedicación",
+      "direction": "es-es",
+      "tiles": ["Durante", "ocho", "días", "celebraron", "la", "consagración", "tres", "cuarenta"],
+      "answer": "Durante ocho días celebraron la consagración",
+      "explanation": "1Mac 4:56-59: esta celebración, instituida como fiesta anual, es el origen histórico de la actual Hanukkah."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurrió a Antíoco IV Epífanes tras fracasar en un intento de saqueo en Persia?",
+      "options": ["Regresó triunfante y celebró en su capital", "Cayó enfermo de tristeza y murió, reconociendo el mal hecho en Jerusalén", "Fue depuesto por su propio ejército"],
+      "correct": 1,
+      "hint": "Las malas noticias desde Judea agravan su enfermedad y su angustia final.",
+      "explanation": "1Mac 6:8-16: «el daño que hice en Jerusalén... reconozco que por eso me han venido estas desgracias» — Antíoco muere lejos de su capital, atormentado por su conciencia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 6:13 · La confesión final de Antíoco",
+      "direction": "es-es",
+      "tiles": ["Reconozco", "que", "por", "eso", "me", "han", "venido", "estas", "desgracias", "victorias"],
+      "answer": "Reconozco que por eso me han venido estas desgracias",
+      "explanation": "1Mac 6:12-13: antes de morir, Antíoco atribuye su desgracia final al mal que había hecho en Jerusalén."
+    },
+    {
+      "type": "gap",
+      "text": "El epitafio de Judas dijo: cómo cayó el ___, salvador de Israel.",
+      "options": ["valiente", "rey", "sacerdote"],
+      "answer": "valiente",
+      "explanation": "1Mac 9:21: este lamento resume el lugar que Judas Macabeo ocupó en la memoria de Israel tras años de liderazgo militar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo murió Judas Macabeo?",
+      "options": ["De una enfermedad tras años de dura campaña", "Asesinado por un traidor dentro de su propio ejército", "En batalla contra Baquides, con un ejército muy reducido"],
+      "correct": 2,
+      "hint": "Combate a pesar de que la mayoría de sus hombres han desertado ante la desproporción de fuerzas.",
+      "explanation": "1Mac 9:6-18: con solo ochocientos hombres frente a un ejército mucho mayor, Judas decide combatir igualmente: «si nos ha llegado la hora, muramos valientemente»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada dato de la purificación del templo",
+      "pairs": [
+        { "en": "El altar nuevo", "es": "Construido igual que el anterior" },
+        { "en": "Las puertas quemadas", "es": "Estado del templo antes de la purificación" },
+        { "en": "El día veinticinco de casleu", "es": "Fecha de la nueva dedicación" },
+        { "en": "Los ocho días", "es": "Duración de la fiesta instituida" },
+        { "en": "Hanukkah", "es": "Nombre posterior de esta fiesta anual" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 9:21 · El lamento de Israel por la muerte de Judas",
+      "direction": "es-es",
+      "tiles": ["Cómo", "cayó", "el", "valiente", "salvador", "de", "Israel", "rey", "sacerdote"],
+      "answer": "Cómo cayó el valiente salvador de Israel",
+      "explanation": "1Mac 9:19-21: Jonatán y Simón recogen el cuerpo de su hermano y lo entierran en Modín, junto a su padre Matatías, mientras todo Israel lo llora."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "his-mod24",
+  "module": 24,
+  "title": "1 Macabeos II — Jonatán, Simón y el Fin de la Dinastía",
+  "subtitle": "1 Macabeos 10–16",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué título otorgó el rey Alejandro a Jonatán?",
+      "options": ["Sumo sacerdote de su nación", "Gobernador de toda Siria", "Comandante supremo del ejército sirio"],
+      "correct": 0,
+      "hint": "Los reyes sirios rivales buscan la alianza de Jonatán ofreciéndole honores religiosos.",
+      "explanation": "1Mac 10:20: «te nombramos hoy sumo sacerdote de tu nación y te concedemos el título de Amigo del rey» — así reconoce Alejandro a Jonatán como sucesor de Judas."
+    },
+    {
+      "type": "gap",
+      "text": "El rey Alejandro nombró a Jonatán ___ de su nación.",
+      "options": ["sumo sacerdote", "gobernador", "general"],
+      "answer": "sumo sacerdote",
+      "explanation": "1Mac 10:20: este reconocimiento oficial consolida el liderazgo de Jonatán tanto en lo político como en lo religioso."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 10:20 · El nombramiento de Jonatán",
+      "direction": "es-es",
+      "tiles": ["Te", "nombramos", "hoy", "sumo", "sacerdote", "de", "tu", "nación", "rey", "juez"],
+      "answer": "Te nombramos hoy sumo sacerdote de tu nación",
+      "explanation": "1Mac 10:20: los reyes sirios rivales compiten por ganarse la alianza de Jonatán, ofreciéndole cada vez más honores."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 9:31 · Jonatán sucede a Judas",
+      "direction": "es-es",
+      "tiles": ["Jonatán", "tomó", "el", "mando", "como", "sucesor", "de", "su", "hermano", "Judas", "padre"],
+      "answer": "Jonatán tomó el mando como sucesor de su hermano Judas",
+      "explanation": "1Mac 9:31: tras la muerte de Judas en batalla, Jonatán asume la dirección de la resistencia macabea."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Jonatán", "es": "Sucede a Judas, reconocido sumo sacerdote" },
+        { "en": "Trifón", "es": "Captura y mata a Jonatán con engaño" },
+        { "en": "Simón", "es": "Sucede a Jonatán, consigue la independencia" },
+        { "en": "Tolomeo", "es": "Yerno de Simón, lo asesina en un banquete" },
+        { "en": "Juan (Hircano)", "es": "Hijo de Simón, escapa y le sucede" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Trifón capturó a Jonatán en la ciudad de ___.",
+      "options": ["Tolemaida", "Modín", "Jerusalén"],
+      "answer": "Tolemaida",
+      "explanation": "1Mac 12:48: apenas entró en la ciudad, los habitantes cerraron las puertas y apresaron a Jonatán junto con sus acompañantes."
+    },
+    {
+      "type": "gap",
+      "text": "Trifón pidió tres mil kilos de plata y dos hijos de Jonatán como ___.",
+      "options": ["rehenes", "tributo", "ofrenda"],
+      "answer": "rehenes",
+      "explanation": "1Mac 13:16: Simón, aun sospechando el engaño, envió lo pedido para no ganarse la enemistad del pueblo si se negaba."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exigió Trifón a Simón a cambio de liberar a Jonatán?",
+      "options": ["La rendición incondicional de Jerusalén", "Plata y dos de los hijos de Jonatán como rehenes", "La entrega inmediata del sumo sacerdocio"],
+      "correct": 1,
+      "hint": "Trifón alega una supuesta deuda de Jonatán con el tesoro real.",
+      "explanation": "1Mac 13:15-16: Trifón exige tres mil kilos de plata y dos hijos de Jonatán, alegando deudas contraídas con el tesoro real durante sus cargos."
+    },
+    {
+      "type": "gap",
+      "text": "A pesar de recibir el rescate, Trifón mató a Jonatán en ___.",
+      "options": ["Bascamá", "Emaús", "Modín"],
+      "answer": "Bascamá",
+      "explanation": "1Mac 13:23: Trifón faltó a su palabra, y aunque recibió lo pedido, mandó matar a Jonatán de todos modos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Trifón después de recibir el rescate pedido por la liberación de Jonatán?",
+      "options": ["Lo liberó tal como había prometido", "Lo envió de vuelta a Judea con honores", "Lo mató de todos modos, en Bascamá"],
+      "correct": 2,
+      "hint": "Su promesa resulta ser, desde el principio, una trampa.",
+      "explanation": "1Mac 13:19-23: «Trifón faltó a su palabra y no soltó a Jonatán»; poco después, cerca de Bascamá, lo mandó matar."
+    },
+    {
+      "type": "gap",
+      "text": "Simón dio sepultura a los restos de Jonatán en ___, junto a su padre.",
+      "options": ["Modín", "Jerusalén", "Tolemaida"],
+      "answer": "Modín",
+      "explanation": "1Mac 13:25-26: todo Israel hizo solemnes funerales por Jonatán, llorándolo durante muchos días."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué construyó Simón en memoria de su familia en Modín?",
+      "options": ["Un mausoleo con siete pirámides", "Un templo dedicado especialmente a Judas", "Una fortaleza militar permanente"],
+      "correct": 0,
+      "hint": "El monumento incluye una pirámide por cada miembro cercano de la familia.",
+      "explanation": "1Mac 13:27-30: Simón levanta siete pirámides dedicadas a su padre, su madre y sus cuatro hermanos, un monumento que «subsiste hasta nuestros días»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 13:23 · La muerte de Jonatán",
+      "direction": "es-es",
+      "tiles": ["Hizo", "matar", "a", "Jonatán", "quien", "fue", "enterrado", "allí", "liberado", "coronado"],
+      "answer": "Hizo matar a Jonatán quien fue enterrado allí",
+      "explanation": "1Mac 13:23: Trifón cumple su amenaza en Bascamá, a pesar de haber recibido ya el rescate exigido a Simón."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la trampa de Trifón con su dato",
+      "pairs": [
+        { "en": "La plata y los rehenes", "es": "Precio exigido por la liberación de Jonatán" },
+        { "en": "Tolemaida", "es": "Ciudad donde Trifón captura a Jonatán" },
+        { "en": "Bascamá", "es": "Lugar donde Trifón mata a Jonatán" },
+        { "en": "Modín", "es": "Lugar de sepultura de Jonatán, junto a su padre" },
+        { "en": "El mausoleo de siete pirámides", "es": "Monumento que Simón construye en Modín" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 13:8 · La aclamación del pueblo a Simón",
+      "direction": "es-es",
+      "tiles": ["Tú", "eres", "nuestro", "caudillo", "después", "de", "Judas", "antes", "rey"],
+      "answer": "Tú eres nuestro caudillo después de Judas",
+      "explanation": "1Mac 13:8: tras la muerte de Jonatán, el pueblo aclama a Simón como su tercer y último caudillo de la dinastía macabea."
+    },
+    {
+      "type": "gap",
+      "text": "Bajo el gobierno de Simón, cada uno se sentaba bajo su parra y su ___.",
+      "options": ["higuera", "olivo", "palmera"],
+      "answer": "higuera",
+      "explanation": "1Mac 14:12: esta imagen de paz y prosperidad resume los años de tranquilidad que Judea alcanza bajo el gobierno de Simón."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el texto la paz y prosperidad bajo el gobierno de Simón?",
+      "options": ["El pueblo vivía atemorizado por constantes guerras", "Cada uno se sentaba bajo su parra y su higuera, sin que nadie los inquietara", "El pueblo emigró en masa hacia otras regiones"],
+      "correct": 1,
+      "hint": "La imagen evoca una estabilidad y seguridad poco frecuentes en la historia reciente del pueblo.",
+      "explanation": "1Mac 14:8-12: el cántico describe una época de paz, cosechas abundantes y seguridad, fruto del gobierno de Simón."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 14:12 · La paz bajo el gobierno de Simón",
+      "direction": "es-es",
+      "tiles": ["Cada", "uno", "bajo", "su", "parra", "y", "su", "higuera", "espada", "escudo"],
+      "answer": "Cada uno bajo su parra y su higuera",
+      "explanation": "1Mac 14:12: esta imagen de paz se convertirá en una expresión bíblica clásica para describir la prosperidad y seguridad de un pueblo."
+    },
+    {
+      "type": "gap",
+      "text": "El pueblo proclamó a Simón caudillo y sumo sacerdote para siempre, hasta que apareciera un ___ digno de fe.",
+      "options": ["profeta", "rey", "sacerdote"],
+      "answer": "profeta",
+      "explanation": "1Mac 14:41: este decreto solemne consolida a Simón y a su familia como autoridad legítima, política y religiosa, de Judea."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclamó el pueblo sobre Simón mediante un decreto solemne?",
+      "options": ["Que sería rey hereditario de toda Judea", "Que debía retirarse una vez vencido Trifón", "Que sería caudillo y sumo sacerdote para siempre, hasta que surgiera un profeta digno de fe"],
+      "correct": 2,
+      "hint": "El decreto deja abierta una condición futura, ligada a la aparición de un profeta.",
+      "explanation": "1Mac 14:41-43: este nombramiento solemne concede a Simón, además, el mando del ejército y la administración de todo el país."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 14:41 · El decreto que proclama a Simón",
+      "direction": "es-es",
+      "tiles": ["Caudillo", "y", "sumo", "sacerdote", "para", "siempre", "un", "año", "profeta"],
+      "answer": "Caudillo y sumo sacerdote para siempre",
+      "explanation": "1Mac 14:41: este título perpetuo funda la dinastía asmonea, que gobernará Judea durante generaciones."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del gobierno de Simón con su dato",
+      "pairs": [
+        { "en": "La parra y la higuera", "es": "Símbolo de la paz bajo Simón" },
+        { "en": "El decreto del pueblo", "es": "Lo nombra caudillo y sumo sacerdote para siempre" },
+        { "en": "Las murallas de Jerusalén", "es": "Fortificadas por Simón" },
+        { "en": "La acrópolis", "es": "Liberada de los gentiles por Simón" },
+        { "en": "La remisión de deudas", "es": "Lograda con el rey Demetrio" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Simón fue asesinado en un banquete por su propio ___, Tolomeo.",
+      "options": ["yerno", "hermano", "criado"],
+      "answer": "yerno",
+      "explanation": "1Mac 16:16-17: «perpetró así una alevosa traición, devolviendo mal por bien» — resume el texto sobre este crimen dentro de la propia familia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo murió Simón?",
+      "options": ["Asesinado por su propio yerno Tolomeo, en un banquete", "En batalla contra un ejército sirio invasor", "De una enfermedad repentina en su vejez"],
+      "correct": 0,
+      "hint": "El ataque llega cuando Simón y sus acompañantes están más desprevenidos.",
+      "explanation": "1Mac 16:16: «cuando Simón y sus hijos estaban bebidos, Tolomeo se levantó con los suyos... y lo mataron a él, a sus dos hijos y a algunos de sus servidores»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 16:16 · El asesinato de Simón",
+      "direction": "es-es",
+      "tiles": ["Lo", "mataron", "a", "él", "a", "sus", "dos", "hijos", "tres", "cuatro"],
+      "answer": "Lo mataron a él a sus dos hijos",
+      "explanation": "1Mac 16:16: este atentado, perpetrado por el propio yerno de Simón, pone fin trágico a años de gobierno pacífico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quiénes murieron junto a Simón en el banquete fatal?",
+      "options": ["Toda su guardia personal, sin excepción", "Dos de sus hijos", "Su esposa y su hija"],
+      "correct": 1,
+      "hint": "Solo uno de sus hijos, Juan, logra escapar con vida de la conspiración de Tolomeo.",
+      "explanation": "1Mac 16:16: junto a Simón mueren dos de sus hijos y algunos de sus servidores, en un ataque planeado de antemano por Tolomeo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Mac 16:17 · La valoración del crimen de Tolomeo",
+      "direction": "es-es",
+      "tiles": ["Perpetró", "así", "una", "alevosa", "traición", "victoria", "hazaña"],
+      "answer": "Perpetró así una alevosa traición",
+      "explanation": "1Mac 16:17: el texto condena sin ambigüedad el crimen de Tolomeo, cometido contra su propio suegro y cuñados."
+    },
+    {
+      "type": "gap",
+      "text": "Tras el asesinato, ___ sucedió a su padre Simón como sumo sacerdote.",
+      "options": ["Juan", "Judas", "Jonatán"],
+      "answer": "Juan",
+      "explanation": "1Mac 16:23-24: Juan, más tarde conocido como Juan Hircano, escapa al atentado de Tolomeo y continúa el gobierno de la dinastía asmonea."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurrió a Juan, el hijo superviviente de Simón, tras el asesinato de su padre?",
+      "options": ["Fue capturado y encarcelado por Tolomeo", "Renunció al sumo sacerdocio por miedo a sufrir el mismo destino", "Fue avisado a tiempo y ejecutó a los asesinos enviados contra él"],
+      "correct": 2,
+      "hint": "Alguien se adelanta a los hombres de Tolomeo para advertirle del peligro.",
+      "explanation": "1Mac 16:21-22: al ser avisado de la muerte de su padre y hermanos, «Juan quedó consternado, prendió a los hombres que venían a matarlo y los ejecutó»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del final de la dinastía con su dato",
+      "pairs": [
+        { "en": "El banquete", "es": "Escenario del asesinato de Simón" },
+        { "en": "Los dos hijos de Simón", "es": "Mueren junto a él en el ataque" },
+        { "en": "Juan", "es": "Avisado a tiempo, escapa del atentado" },
+        { "en": "Los asesinos enviados", "es": "Ejecutados por Juan al descubrir el plan" },
+        { "en": "Los Anales del pontificado", "es": "Registran el resto del gobierno de Juan" }
+      ]
+    }
+  ]
+}
