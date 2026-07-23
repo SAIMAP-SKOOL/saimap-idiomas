@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod04",
+  "module": 4,
+  "title": "Salmos II — Refugio, Creación y Alabanza",
+  "subtitle": "Salmos 42, 46, 63, 84, 90, 103, 104, 139 y 148",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué compara el Salmo 42 el anhelo del alma por Dios?",
+      "options": ["Con una cierva que busca corrientes de agua", "Con un pastor que busca a su rebaño perdido", "Con un mercader que busca riquezas lejanas"],
+      "correct": 0,
+      "hint": "La imagen es la de un animal sediento que necesita encontrar agua para sobrevivir.",
+      "explanation": "Sal 42: «como busca la cierva corrientes de agua, así mi alma te busca a ti, Dios mío» — este salmo expresa el anhelo de la presencia de Dios en tiempos de alejamiento."
+    },
+    {
+      "type": "gap",
+      "text": "Mi alma tiene sed de Dios, del Dios ___.",
+      "options": ["vivo", "eterno", "santo"],
+      "answer": "vivo",
+      "explanation": "Sal 42: esta expresión intensifica la imagen de la cierva sedienta, mostrando un anhelo vital y no solo religioso."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 42 · El anhelo de la presencia de Dios",
+      "direction": "es-es",
+      "tiles": ["Mi", "alma", "tiene", "sed", "de", "Dios", "del", "Dios", "vivo", "lejano"],
+      "answer": "Mi alma tiene sed de Dios del Dios vivo",
+      "explanation": "Sal 42: este salmo, atribuido a los hijos de Coré, expresa el anhelo de la presencia de Dios desde el exilio o la distancia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada salmo con su tema central",
+      "pairs": [
+        { "en": "Salmo 42", "es": "El alma sedienta de Dios en el exilio" },
+        { "en": "Salmo 46", "es": "Dios como refugio inquebrantable" },
+        { "en": "Salmo 63", "es": "La búsqueda apasionada de Dios en el desierto" },
+        { "en": "Salmo 84", "es": "El deseo de habitar en la casa de Dios" },
+        { "en": "Salmo 90", "es": "La fragilidad humana ante la eternidad de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclama el Salmo 46 sobre Dios?",
+      "options": ["Que solo ayuda a quienes le ofrecen sacrificios", "Que es refugio y fuerza, poderoso defensor en el peligro", "Que se mantiene distante de los conflictos humanos"],
+      "correct": 1,
+      "hint": "El salmo repite como estribillo que «el Señor del universo está con nosotros».",
+      "explanation": "Sal 46: «Dios es nuestro refugio y nuestra fuerza, poderoso defensor en el peligro» — un salmo de confianza absoluta incluso si «tiemble la tierra»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios es nuestro refugio y nuestra ___, poderoso defensor en el peligro.",
+      "options": ["fuerza", "gloria", "ley"],
+      "answer": "fuerza",
+      "explanation": "Sal 46: este versículo inicial establece el tono de confianza que recorre todo el salmo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 46 · La confianza en Dios como refugio",
+      "direction": "es-es",
+      "tiles": ["Dios", "es", "nuestro", "refugio", "y", "nuestra", "fuerza", "riqueza", "gloria"],
+      "answer": "Dios es nuestro refugio y nuestra fuerza",
+      "explanation": "Sal 46: este versículo abre un salmo de confianza inquebrantable ante cualquier adversidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué expresa el salmista al inicio del Salmo 63?",
+      "options": ["Su temor ante el silencio de Dios", "Su deseo de riquezas y descendencia", "Que su alma está sedienta de Dios como tierra reseca"],
+      "correct": 2,
+      "hint": "El salmo está ambientado en el desierto de Judá, según su título.",
+      "explanation": "Sal 63: «mi alma está sedienta de ti, mi carne tiene ansia de ti, como tierra reseca, agostada, sin agua» — salmo de David compuesto en el desierto."
+    },
+    {
+      "type": "gap",
+      "text": "Tu gracia vale más que la ___, te alabarán mis labios.",
+      "options": ["vida", "plata", "gloria"],
+      "answer": "vida",
+      "explanation": "Sal 63: esta afirmación resume el sentido del salmo: la cercanía de Dios importa más que la propia existencia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 63 · La sed de Dios en el desierto",
+      "direction": "es-es",
+      "tiles": ["Mi", "alma", "está", "sedienta", "de", "ti", "llena", "cansada"],
+      "answer": "Mi alma está sedienta de ti",
+      "explanation": "Sal 63: este salmo de David, compuesto en el desierto de Judá, expresa una búsqueda apasionada de la presencia de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada salmo con su frase inicial más conocida",
+      "pairs": [
+        { "en": "Salmo 103", "es": "Bendice, alma mía, al Señor" },
+        { "en": "Salmo 104", "es": "Dios mío, qué grande eres" },
+        { "en": "Salmo 139", "es": "Señor, tú me sondeas y me conoces" },
+        { "en": "Salmo 148", "es": "Alabad al Señor en el cielo" },
+        { "en": "Salmo 46", "es": "Dios es nuestro refugio y nuestra fuerza" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué declara el Salmo 84 sobre la casa del Señor?",
+      "options": ["Que vale más un día allí que mil en cualquier otro lugar", "Que solo los sacerdotes pueden entrar en ella", "Que será destruida al final de los tiempos"],
+      "correct": 0,
+      "hint": "El salmo compara incluso a un gorrión y una golondrina, que encuentran nido junto a los altares del Señor.",
+      "explanation": "Sal 84: «vale más un día en tus atrios que mil en mi casa» — este salmo, de los hijos de Coré, expresa el deseo de habitar cerca de Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Vale más un día en tus atrios que mil en mi ___.",
+      "options": ["casa", "reino", "tienda"],
+      "answer": "casa",
+      "explanation": "Sal 84: este versículo expresa el deseo del salmista de habitar en la cercanía de Dios por encima de cualquier otra comodidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 84 · El deseo de habitar en la casa de Dios",
+      "direction": "es-es",
+      "tiles": ["Qué", "deseables", "son", "tus", "moradas", "Señor", "templos", "reinos"],
+      "answer": "Qué deseables son tus moradas Señor",
+      "explanation": "Sal 84: este primer versículo abre un salmo que compara la cercanía a Dios con el nido de un gorrión junto a sus altares."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide el Salmo 90, atribuido a Moisés?",
+      "options": ["Vengarse de los enemigos del pueblo", "Que Dios enseñe a calcular bien los años de la vida", "Riquezas que duren para siempre"],
+      "correct": 1,
+      "hint": "El salmo contrasta la brevedad de la vida humana con la eternidad de Dios, «de generación en generación».",
+      "explanation": "Sal 90: «enséñanos a calcular nuestros años, para que adquiramos un corazón sensato» — oración de Moisés sobre la fragilidad humana."
+    },
+    {
+      "type": "gap",
+      "text": "Enséñanos a calcular nuestros años, para que adquiramos un corazón ___.",
+      "options": ["sensato", "valiente", "alegre"],
+      "answer": "sensato",
+      "explanation": "Sal 90: esta petición central del salmo busca sabiduría para vivir bien, conscientes de la brevedad de la vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 90 · La oración de Moisés sobre la fragilidad humana",
+      "direction": "es-es",
+      "tiles": ["Señor", "tú", "has", "sido", "nuestro", "refugio", "castigo", "enemigo"],
+      "answer": "Señor tú has sido nuestro refugio",
+      "explanation": "Sal 90: este salmo, atribuido a Moisés, contrasta la brevedad de la vida humana con la eternidad de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada salmo con su contexto o tradición",
+      "pairs": [
+        { "en": "Salmo 90", "es": "Tradicionalmente atribuido a Moisés" },
+        { "en": "Salmo 139", "es": "Medita sobre el conocimiento total de Dios sobre la persona" },
+        { "en": "Salmo 104", "es": "Himno a la creación y a su orden" },
+        { "en": "Salmo 148", "es": "Convoca a toda la creación a alabar a Dios" },
+        { "en": "Salmo 84", "es": "Atribuido a los hijos de Coré, cantores del templo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invita a hacer el Salmo 103 desde su primer versículo?",
+      "options": ["A ofrecer sacrificios en el templo", "A guardar silencio ante el misterio de Dios", "A bendecir al Señor con toda el alma"],
+      "correct": 2,
+      "hint": "El salmo recuerda la misericordia de Dios «como un padre siente ternura por sus hijos».",
+      "explanation": "Sal 103: «bendice, alma mía, al Señor, y todo mi ser a su santo nombre» — un himno a la misericordia y ternura de Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Como un padre siente ternura por sus hijos, siente el Señor ternura por los que lo ___.",
+      "options": ["temen", "obedecen", "buscan"],
+      "answer": "temen",
+      "explanation": "Sal 103: este versículo compara la misericordia de Dios con la ternura paternal, un tema central del salmo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 103 · El himno a la misericordia de Dios",
+      "direction": "es-es",
+      "tiles": ["Bendice", "alma", "mía", "al", "Señor", "teme", "sirve"],
+      "answer": "Bendice alma mía al Señor",
+      "explanation": "Sal 103: este versículo abre y cierra el salmo, enmarcando un himno a la misericordia y ternura de Dios hacia su pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el Salmo 104 la acción de Dios en la creación?",
+      "options": ["Como un rey que la gobierna con esplendor cósmico", "Como un juez que la observa desde lejos, sin intervenir", "Como un artesano ausente tras terminar su obra"],
+      "correct": 0,
+      "hint": "El salmo dice que Dios «se viste de belleza y majestad» y avanza «en las alas del viento».",
+      "explanation": "Sal 104: «te vistes de belleza y majestad... avanzas en las alas del viento» — un himno que contempla toda la creación como obra viva de Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Te vistes de belleza y ___, la luz te envuelve como un manto.",
+      "options": ["majestad", "poder", "gloria"],
+      "answer": "majestad",
+      "explanation": "Sal 104: esta imagen abre el gran himno a la creación, describiendo a Dios revestido de esplendor cósmico."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada imagen con el salmo al que pertenece",
+      "pairs": [
+        { "en": "La cierva que busca corrientes de agua", "es": "Salmo 42" },
+        { "en": "El gorrión que encuentra una casa junto al altar", "es": "Salmo 84" },
+        { "en": "El águila que renueva la juventud", "es": "Salmo 103" },
+        { "en": "Las alas del viento como carroza", "es": "Salmo 104" },
+        { "en": "La mano que sondea y conoce por completo", "es": "Salmo 139" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma el salmista sobre el conocimiento de Dios en el Salmo 139?",
+      "options": ["Que Dios ignora los pensamientos antes de expresarlos", "Que Dios lo conoce por completo, incluso antes de nacer", "Que Dios solo conoce las acciones, no los pensamientos"],
+      "correct": 1,
+      "hint": "El salmo dice que Dios lo «tejió en el seno materno» y conocía sus días antes de que existieran.",
+      "explanation": "Sal 139: «tú has creado mis entrañas, me has tejido en el seno materno» — este salmo medita sobre el conocimiento íntimo y total que Dios tiene de cada persona."
+    },
+    {
+      "type": "gap",
+      "text": "Señor, tú me sondeas y me ___.",
+      "options": ["conoces", "juzgas", "escuchas"],
+      "answer": "conoces",
+      "explanation": "Sal 139: este versículo inicial resume el tema del salmo, el conocimiento total y cercano que Dios tiene del ser humano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 139 · El conocimiento total de Dios",
+      "direction": "es-es",
+      "tiles": ["Tú", "me", "sondeas", "y", "me", "conoces", "ignoras", "olvidas"],
+      "answer": "Tú me sondeas y me conoces",
+      "explanation": "Sal 139: este versículo abre una meditación sobre la presencia de Dios en cada momento y lugar de la vida humana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quiénes convoca el Salmo 148 para alabar al Señor?",
+      "options": ["Solo a los sacerdotes y levitas del templo", "Únicamente a los ángeles del cielo", "A toda la creación, cielo y tierra, astros y criaturas"],
+      "correct": 2,
+      "hint": "El salmo llama a alabar tanto al sol y la luna como a los montes, los animales y los reyes de la tierra.",
+      "explanation": "Sal 148: «alabad al Señor en el cielo... alabadlo, sol y luna» — este salmo convoca a toda la creación, celeste y terrestre, a la alabanza."
+    },
+    {
+      "type": "gap",
+      "text": "Alabadlo, sol y ___; alabadlo, estrellas lucientes.",
+      "options": ["luna", "cielo", "viento"],
+      "answer": "luna",
+      "explanation": "Sal 148: este versículo forma parte de la larga lista de elementos de la creación convocados a alabar a Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 148 · La convocatoria universal a la alabanza",
+      "direction": "es-es",
+      "tiles": ["Alabad", "al", "Señor", "en", "el", "cielo", "templo", "silencio"],
+      "answer": "Alabad al Señor en el cielo",
+      "explanation": "Sal 148: este versículo inicial abre un salmo que convoca a toda la creación, celeste y terrestre, a unirse en la alabanza a Dios."
+    }
+  ]
+}

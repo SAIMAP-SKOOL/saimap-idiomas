@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod01",
+  "module": 1,
+  "title": "Job I — La Prueba y el Lamento",
+  "subtitle": "Job 1–19",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el texto a Job al principio del libro?",
+      "options": ["Justo, honrado y temeroso de Dios", "Un rey poderoso de una gran ciudad", "Un sacerdote del templo de Jerusalén"],
+      "correct": 0,
+      "hint": "Su carácter moral, no su cargo o linaje, es lo primero que se destaca de él.",
+      "explanation": "Job 1:1: «justo, honrado y temeroso de Dios y vivía apartado del mal» — así presenta el libro a Job, hombre íntegro de la tierra de Hus."
+    },
+    {
+      "type": "gap",
+      "text": "Job era justo, honrado y ___ de Dios.",
+      "options": ["temeroso", "servidor", "sacerdote"],
+      "answer": "temeroso",
+      "explanation": "Job 1:1: esta descripción inicial establece la integridad de Job, clave para entender el desafío que Satán plantea después."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 1:2 · La familia de Job",
+      "direction": "es-es",
+      "tiles": ["Tenía", "siete", "hijos", "y", "tres", "hijas", "dos", "cuatro"],
+      "answer": "Tenía siete hijos y tres hijas",
+      "explanation": "Job 1:2-3: junto a su numerosa familia, Job poseía una gran riqueza en ganado, siendo «el más rico de los hombres de Oriente»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Job", "es": "Hombre íntegro y temeroso de Dios" },
+        { "en": "Satán", "es": "Desafía la integridad de Job ante Dios" },
+        { "en": "La esposa de Job", "es": "Le pide que maldiga a Dios" },
+        { "en": "Elifaz", "es": "Uno de los tres amigos, de Temán" },
+        { "en": "Bildad", "es": "Otro de los amigos, de Súaj" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Job tenía siete hijos y ___ hijas.",
+      "options": ["tres", "cinco", "dos"],
+      "answer": "tres",
+      "explanation": "Job 1:2: esta familia numerosa, junto con su enorme riqueza, será arrebatada a Job en la primera gran prueba."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué desafío plantea Satán a Dios sobre la piedad de Job?",
+      "options": ["Que Job en realidad no cree en Dios", "Que la piedad de Job depende de su prosperidad", "Que Job ha engañado a sus propios hijos"],
+      "correct": 1,
+      "hint": "Satán sugiere que la fidelidad de Job es interesada, no genuina.",
+      "explanation": "Job 1:9-11: «¿crees que Job teme a Dios de balde?» — Satán argumenta que, si Job pierde sus bienes, maldecirá a Dios en su cara."
+    },
+    {
+      "type": "gap",
+      "text": "Satán preguntó a Dios: ¿crees que Job teme a Dios de ___?",
+      "options": ["balde", "verdad", "corazón"],
+      "answer": "balde",
+      "explanation": "Job 1:9: con esta pregunta, Satán pone en duda que la fe de Job sea desinteresada, y pide permiso para ponerlo a prueba."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 1:9 · El desafío de Satán sobre Job",
+      "direction": "es-es",
+      "tiles": ["Crees", "que", "Job", "teme", "a", "Dios", "de", "balde", "siempre", "poco"],
+      "answer": "Crees que Job teme a Dios de balde",
+      "explanation": "Job 1:9-11: Satán sostiene que la piedad de Job depende de la protección y prosperidad que Dios le ha dado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada calamidad de la primera prueba con su dato",
+      "pairs": [
+        { "en": "Los sabeos", "es": "Roban el ganado de Job" },
+        { "en": "El rayo", "es": "Consume las ovejas y los pastores" },
+        { "en": "Los caldeos", "es": "Roban los camellos de Job" },
+        { "en": "El huracán", "es": "Derrumba la casa y mata a los hijos" },
+        { "en": "Las llagas", "es": "Segunda prueba, cubren el cuerpo de Job" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionó Job tras perder sus bienes y a sus diez hijos?",
+      "options": ["Maldijo a Dios y renegó de su fe", "Se rebeló de inmediato y exigió explicaciones", "Se postró y bendijo el nombre del Señor, sin pecar"],
+      "correct": 2,
+      "hint": "Su reacción, ante una pérdida tan grande, sorprende por su serenidad.",
+      "explanation": "Job 1:20-22: «el Señor me lo dio, el Señor me lo quitó; bendito sea el nombre del Señor» — y el texto añade que Job no pecó ni protestó contra Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Tras perder todo, Job dijo: el Señor me lo dio, el Señor me lo ___.",
+      "options": ["quitó", "devolvió", "prestó"],
+      "answer": "quitó",
+      "explanation": "Job 1:21: esta aceptación serena de la pérdida es el primer gran testimonio de la fe de Job."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 1:21 · La respuesta de Job tras perderlo todo",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "me", "lo", "dio", "el", "Señor", "me", "lo", "quitó", "dará", "prestó"],
+      "answer": "El Señor me lo dio el Señor me lo quitó",
+      "explanation": "Job 1:21: esta frase se ha convertido en una de las expresiones bíblicas más citadas sobre la aceptación del sufrimiento."
+    },
+    {
+      "type": "gap",
+      "text": "La mujer de Job le dijo: maldice a Dios y ___.",
+      "options": ["muérete", "huye", "calla"],
+      "answer": "muérete",
+      "explanation": "Job 2:9: ante las llagas de Job, su propia esposa lo incita a renunciar a su fe para acabar con el sufrimiento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dijo la mujer de Job al verlo cubierto de llagas?",
+      "options": ["Que maldijera a Dios y muriera", "Que huyera lejos de sus tres amigos", "Que buscara ayuda de un médico extranjero"],
+      "correct": 0,
+      "hint": "Su consejo busca poner fin al sufrimiento de la forma más drástica.",
+      "explanation": "Job 2:9-10: Job responde llamándola necia: «si aceptamos de Dios los bienes, ¿no vamos a aceptar los males?»."
+    },
+    {
+      "type": "gap",
+      "text": "Job respondió a su mujer: hablas como una ___.",
+      "options": ["necia", "sabia", "cobarde"],
+      "answer": "necia",
+      "explanation": "Job 2:10: a pesar de la provocación, el texto insiste en que «Job no pecó con sus labios»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 2:9 · La incitación de la esposa de Job",
+      "direction": "es-es",
+      "tiles": ["Maldice", "a", "Dios", "y", "muérete", "vive", "calla"],
+      "answer": "Maldice a Dios y muérete",
+      "explanation": "Job 2:9: esta provocación de su propia esposa añade una nueva dimensión de dolor a la prueba que sufre Job."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada amigo de Job con su procedencia",
+      "pairs": [
+        { "en": "Elifaz", "es": "De Temán" },
+        { "en": "Bildad", "es": "De Súaj" },
+        { "en": "Sofar", "es": "De Naamat" },
+        { "en": "Los siete días de silencio", "es": "Primera reacción de los amigos" },
+        { "en": "El argumento de los amigos", "es": "El sufrimiento es castigo por el pecado" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Los tres amigos de Job eran Elifaz, Bildad y ___.",
+      "options": ["Sofar", "Zofar", "Elías"],
+      "answer": "Sofar",
+      "explanation": "Job 2:11: los tres, al ver a Job de lejos, rompieron a llorar y se sentaron con él en silencio, conmovidos por su sufrimiento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quiénes eran los tres amigos que vinieron a consolar a Job?",
+      "options": ["Sus propios hermanos de sangre", "Elifaz, Bildad y Sofar", "Tres sacerdotes enviados desde el templo"],
+      "correct": 1,
+      "hint": "Cada uno procede de una región distinta, pero comparten la misma interpretación del sufrimiento.",
+      "explanation": "Job 2:11: Elifaz de Temán, Bildad de Súaj y Sofar de Naamat, acuden a consolar a Job al enterarse de sus desgracias."
+    },
+    {
+      "type": "gap",
+      "text": "Los amigos se sentaron con Job en silencio durante ___ días.",
+      "options": ["siete", "tres", "cuarenta"],
+      "answer": "siete",
+      "explanation": "Job 2:13: ninguno de los tres se atrevía a hablar, «viendo lo atroz de su sufrimiento»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hicieron los tres amigos al llegar junto a Job y ver su estado?",
+      "options": ["Le exigieron explicaciones de inmediato", "Se marcharon horrorizados por su aspecto", "Se sentaron con él en silencio durante siete días"],
+      "correct": 2,
+      "hint": "Ninguno se atreve a hablar ante la magnitud del sufrimiento que presencian.",
+      "explanation": "Job 2:12-13: al verlo de lejos, los amigos rompieron a llorar y se sentaron con Job en el suelo, en silencio, «viendo lo atroz de su sufrimiento»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 2:13 · El silencio de los tres amigos",
+      "direction": "es-es",
+      "tiles": ["Estuvieron", "siete", "días", "con", "sus", "noches", "tres", "cuarenta"],
+      "answer": "Estuvieron siete días con sus noches",
+      "explanation": "Job 2:13: este largo silencio precede a los intensos discursos que ocuparán la mayor parte del libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Job al abrir por fin la boca, en el capítulo 3?",
+      "options": ["Maldijo el día de su nacimiento", "Agradeció a Dios su paciencia hasta ese momento", "Pidió perdón por pecados que desconocía"],
+      "correct": 0,
+      "hint": "Su primer discurso no es de gratitud ni de súplica, sino de lamento profundo.",
+      "explanation": "Job 3:1-3: «muera el día en que nací» — Job rompe su silencio con un lamento que desea no haber existido nunca."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 3:3 · El lamento de Job por su nacimiento",
+      "direction": "es-es",
+      "tiles": ["Muera", "el", "día", "en", "que", "nací", "bendito", "sea"],
+      "answer": "Muera el día en que nací",
+      "explanation": "Job 3:1-3: este lamento abre el largo ciclo de discursos poéticos que forman el núcleo del libro de Job."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál era el argumento central de los tres amigos sobre el sufrimiento de Job?",
+      "options": ["Que era una prueba enviada para fortalecerlo", "Que el sufrimiento es castigo por algún pecado oculto", "Que se trataba de pura casualidad sin sentido"],
+      "correct": 1,
+      "hint": "Su lógica asume una relación directa entre la conducta y la desgracia sufrida.",
+      "explanation": "Job 4:8; 8:3-4; 11:6: los tres amigos, con matices distintos, insisten en que el sufrimiento de Job debe tener una causa en algún pecado suyo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la protesta de Job con su dato",
+      "pairs": [
+        { "en": "El capítulo 3", "es": "Lamento maldiciendo su nacimiento" },
+        { "en": "«Aunque me mate, yo esperaré»", "es": "Fe de Job en medio del sufrimiento" },
+        { "en": "«Yo sé que mi redentor vive»", "es": "Confesión de esperanza de Job" },
+        { "en": "La integridad de Job", "es": "Motivo del desafío de Satán" },
+        { "en": "Los tres amigos", "es": "Sostienen que el sufrimiento es castigo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 13:15 · La fe de Job en medio del sufrimiento",
+      "direction": "es-es",
+      "tiles": ["Aunque", "me", "mate", "yo", "esperaré", "huiré", "callaré"],
+      "answer": "Aunque me mate yo esperaré",
+      "explanation": "Job 13:15: a pesar de su angustia, Job insiste en defender su causa ante Dios, sin abandonar la esperanza."
+    },
+    {
+      "type": "gap",
+      "text": "Job proclamó: yo sé que mi ___ vive.",
+      "options": ["redentor", "hermano", "hijo"],
+      "answer": "redentor",
+      "explanation": "Job 19:25: esta afirmación de esperanza, en medio del sufrimiento más profundo, es una de las más citadas de todo el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclamó Job sobre su fe, a pesar de todo su sufrimiento?",
+      "options": ["Que abandonaría su fe si no recibía respuesta", "Que solo volvería a creer si Dios se le aparecía", "Que sabe que su redentor vive y que al fin lo verá"],
+      "correct": 2,
+      "hint": "Su afirmación mira más allá del sufrimiento presente, hacia un encuentro futuro con Dios.",
+      "explanation": "Job 19:25-27: «yo sé que mi redentor vive... yo mismo lo veré, y no otro» — una de las cimas de esperanza de todo el Antiguo Testamento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 19:25 · La confesión de esperanza de Job",
+      "direction": "es-es",
+      "tiles": ["Yo", "sé", "que", "mi", "redentor", "vive", "duda", "calla"],
+      "answer": "Yo sé que mi redentor vive",
+      "explanation": "Job 19:25-27: en medio del abandono y la incomprensión de sus amigos, Job afirma una esperanza que trasciende su sufrimiento presente."
+    }
+  ]
+}

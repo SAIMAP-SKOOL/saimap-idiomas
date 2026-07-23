@@ -56,7 +56,20 @@
         { "n": 25, "title": "2 Macabeos — Los Mártires y la Oración por los Difuntos", "es": "2 Macabeos · Los Mártires",       "file": "his/mod25.json" }
       ]
     },
-    { "code": "SAP", "name": "Libros Sapienciales y Poéticos", "color": "#C79B00", "locked": true, "moduleCount": 12 },
+    {
+      "code": "SAP",
+      "name": "Libros Sapienciales y Poéticos",
+      "sub": "6 módulos · Job, Salmos, Proverbios y Eclesiastés — en curso",
+      "color": "#C79B00",
+      "modules": [
+        { "n": 1, "title": "Job I — La Prueba y el Lamento",             "es": "Job I · La Prueba y el Lamento (Job 1–19)",       "file": "sap/mod01.json" },
+        { "n": 2, "title": "Job II — La Voz desde la Tormenta",          "es": "Job II · La Voz desde la Tormenta (Job 32–42)",   "file": "sap/mod02.json" },
+        { "n": 3, "title": "Salmos I — Confianza, Alabanza y Arrepentimiento", "es": "Salmos I · Confianza y Alabanza",           "file": "sap/mod03.json" },
+        { "n": 4, "title": "Salmos II — Refugio, Creación y Alabanza",   "es": "Salmos II · Refugio y Creación",                  "file": "sap/mod04.json" },
+        { "n": 5, "title": "Proverbios — Sabiduría para la Vida Diaria", "es": "Proverbios · Sabiduría para la Vida Diaria",     "file": "sap/mod05.json" },
+        { "n": 6, "title": "Eclesiastés — La Vanidad y el Sentido de la Vida", "es": "Eclesiastés · Vanidad y Sentido",           "file": "sap/mod06.json" }
+      ]
+    },
     { "code": "PRO", "name": "Libros Proféticos",              "color": "#7C4C9E", "locked": true, "moduleCount": 18 },
     { "code": "EVA", "name": "Evangelios",                     "color": "#2F8A87", "locked": true, "moduleCount": 10 },
     { "code": "HCH", "name": "Hechos de los Apóstoles",        "color": "#3B6FA6", "locked": true, "moduleCount": 2 },

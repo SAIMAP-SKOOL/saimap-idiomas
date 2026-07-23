@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod03",
+  "module": 3,
+  "title": "Salmos I — Confianza, Alabanza y Arrepentimiento",
+  "subtitle": "Salmos 1, 8, 22, 23, 51, 91, 100, 121 y 130",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué compara el Salmo 1 al hombre que medita la ley del Señor?",
+      "options": ["Con un árbol plantado junto a una acequia, que da fruto", "Con una roca inamovible en medio del mar", "Con un pastor que guía a su rebaño"],
+      "correct": 0,
+      "hint": "La imagen contrasta con el destino de los impíos, comparados con la paja que arrebata el viento.",
+      "explanation": "Sal 1: «será como un árbol plantado al borde de la acequia: da fruto en su sazón» — la primera de las dos vías que abre todo el salterio."
+    },
+    {
+      "type": "gap",
+      "text": "El justo será como un árbol plantado al borde de la ___.",
+      "options": ["acequia", "montaña", "ciudad"],
+      "answer": "acequia",
+      "explanation": "Sal 1: esta imagen de arraigo y fecundidad se contrapone a la inestabilidad de los impíos, comparados con la paja que arrebata el viento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 1 · El primer versículo del salterio",
+      "direction": "es-es",
+      "tiles": ["Dichoso", "el", "hombre", "que", "no", "sigue", "el", "consejo", "de", "los", "impíos", "sabios"],
+      "answer": "Dichoso el hombre que no sigue el consejo de los impíos",
+      "explanation": "Sal 1: este versículo inaugural presenta el tema de los dos caminos que recorrerá buena parte del salterio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada salmo con su tema central",
+      "pairs": [
+        { "en": "Salmo 1", "es": "Los dos caminos, el justo y el impío" },
+        { "en": "Salmo 8", "es": "La dignidad del ser humano en la creación" },
+        { "en": "Salmo 22", "es": "El grito de abandono transformado en esperanza" },
+        { "en": "Salmo 23", "es": "El Señor como pastor que cuida y guía" },
+        { "en": "Salmo 51", "es": "El arrepentimiento tras el pecado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta hace el Salmo 8 sobre la dignidad humana?",
+      "options": ["Por qué el hombre teme tanto a la muerte", "Qué es el hombre para que Dios se acuerde de él", "Cuándo llegará el día del juicio final"],
+      "correct": 1,
+      "hint": "La pregunta expresa asombro ante la atención que Dios presta a una criatura tan pequeña frente a la inmensidad de lo creado.",
+      "explanation": "Sal 8: «¿qué es el hombre para que te acuerdes de él?» — el salmo responde afirmando que Dios lo coronó «de gloria y dignidad»."
+    },
+    {
+      "type": "gap",
+      "text": "Señor, Dios nuestro, qué admirable es tu ___ en toda la tierra.",
+      "options": ["nombre", "poder", "templo"],
+      "answer": "nombre",
+      "explanation": "Sal 8: este versículo abre y cierra el salmo, enmarcando la reflexión sobre la dignidad humana dentro de la alabanza a Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 8 · La pregunta central sobre la dignidad humana",
+      "direction": "es-es",
+      "tiles": ["Qué", "es", "el", "hombre", "para", "que", "te", "acuerdes", "olvides", "temas"],
+      "answer": "Qué es el hombre para que te acuerdes",
+      "explanation": "Sal 8: esta pregunta retórica abre una reflexión sobre el lugar del ser humano dentro de toda la creación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué grito de angustia abre el Salmo 22?",
+      "options": ["Ten piedad de mí, Señor, según tu bondad", "Alzo mis ojos a los montes", "Dios mío, Dios mío, ¿por qué me has abandonado?"],
+      "correct": 2,
+      "hint": "Este mismo grito será pronunciado por Jesús en la cruz, según los evangelios.",
+      "explanation": "Sal 22: este clamor de abandono abre un salmo que, tras la angustia inicial, se transforma en confianza y alabanza."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy un ___, no un hombre, vergüenza de la gente.",
+      "options": ["gusano", "pecador", "extranjero"],
+      "answer": "gusano",
+      "explanation": "Sal 22: esta imagen extrema de humillación refleja la profundidad del sufrimiento que expresa el salmista."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 22 · El grito de abandono",
+      "direction": "es-es",
+      "tiles": ["Dios", "mío", "Dios", "mío", "por", "qué", "me", "has", "abandonado", "salvado"],
+      "answer": "Dios mío Dios mío por qué me has abandonado",
+      "explanation": "Sal 22: este clamor, citado por Jesús en la cruz según los evangelios de Mateo y Marcos, abre uno de los salmos más intensos del salterio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada salmo con su frase inicial más conocida",
+      "pairs": [
+        { "en": "Salmo 91", "es": "El que habita al amparo del Altísimo" },
+        { "en": "Salmo 100", "es": "Aclamad al Señor, tierra entera" },
+        { "en": "Salmo 121", "es": "Alzo mis ojos a los montes" },
+        { "en": "Salmo 130", "es": "Desde lo hondo clamo a ti" },
+        { "en": "Salmo 23", "es": "El Señor es mi pastor, nada me falta" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el Salmo 23 la relación entre el creyente y Dios?",
+      "options": ["Como la de un pastor que cuida a su rebaño", "Como la de un juez severo con el acusado", "Como la de un rey lejano e inaccesible"],
+      "correct": 0,
+      "hint": "El salmo entero se construye a partir de esta única imagen, desarrollada con distintos detalles.",
+      "explanation": "Sal 23: «el Señor es mi pastor, nada me falta» — esta imagen pastoral estructura todo el salmo, uno de los más conocidos de la Biblia."
+    },
+    {
+      "type": "gap",
+      "text": "En verdes praderas me hace ___; me conduce hacia fuentes tranquilas.",
+      "options": ["recostar", "trabajar", "esperar"],
+      "answer": "recostar",
+      "explanation": "Sal 23: esta imagen de descanso y abundancia expresa la confianza del salmista en el cuidado constante de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 23 · El primer versículo del salmo del buen pastor",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "es", "mi", "pastor", "nada", "me", "falta", "todo", "sobra"],
+      "answer": "El Señor es mi pastor nada me falta",
+      "explanation": "Sal 23: quizás el salmo más citado de todo el salterio, expresa una confianza serena en el cuidado de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide el salmista en el Salmo 51, tras reconocer su pecado?",
+      "options": ["Venganza contra quienes lo habían acusado", "Que Dios cree en él un corazón puro", "Riquezas para reparar el daño causado"],
+      "correct": 1,
+      "hint": "Su petición no busca reparar lo externo, sino transformar lo más íntimo de sí mismo.",
+      "explanation": "Sal 51: «crea en mí un corazón puro, renuévame por dentro con espíritu firme» — este salmo, tradicionalmente atribuido a David, es la gran oración de arrepentimiento del salterio."
+    },
+    {
+      "type": "gap",
+      "text": "Oh Dios, crea en mí un corazón ___, renuévame por dentro.",
+      "options": ["puro", "fuerte", "valiente"],
+      "answer": "puro",
+      "explanation": "Sal 51: esta petición central del salmo busca una renovación interior, no solo el perdón de una falta puntual."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 51 · La súplica de misericordia",
+      "direction": "es-es",
+      "tiles": ["Misericordia", "Dios", "mío", "por", "tu", "bondad", "justicia", "poder"],
+      "answer": "Misericordia Dios mío por tu bondad",
+      "explanation": "Sal 51: este salmo, tradicionalmente ligado al pecado de David con Betsabé, es una de las oraciones de arrepentimiento más profundas de la Biblia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada salmo con su contexto o tradición",
+      "pairs": [
+        { "en": "Salmo 51", "es": "Atribuido tradicionalmente a David tras su pecado con Betsabé" },
+        { "en": "Salmo 22", "es": "Citado por Jesús en la cruz, según los evangelios" },
+        { "en": "Salmo 1", "es": "Abre todo el salterio como introducción" },
+        { "en": "Salmo 8", "es": "Alaba la dignidad humana dentro de la creación" },
+        { "en": "Salmo 130", "es": "Conocido tradicionalmente como «De profundis»" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete el Salmo 91 a quien habita al amparo del Altísimo?",
+      "options": ["Una vida sin ningún tipo de dificultad", "Riquezas y poder sobre otras naciones", "Protección frente al peligro, como bajo unas alas"],
+      "correct": 2,
+      "hint": "La imagen recuerda a un ave que cubre a sus crías bajo sus alas.",
+      "explanation": "Sal 91: «con sus alas te cubrirá, y bajo sus plumas hallarás refugio» — este salmo expresa una confianza total en la protección divina."
+    },
+    {
+      "type": "gap",
+      "text": "Con sus alas te cubrirá, y bajo sus plumas hallarás ___.",
+      "options": ["refugio", "tesoro", "camino"],
+      "answer": "refugio",
+      "explanation": "Sal 91: esta imagen de protección maternal es una de las más entrañables de todo el salterio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 91 · La promesa de protección divina",
+      "direction": "es-es",
+      "tiles": ["Te", "librará", "de", "la", "red", "del", "cazador", "enemigo", "mar"],
+      "answer": "Te librará de la red del cazador",
+      "explanation": "Sal 91: este salmo enumera distintos peligros de los que Dios protege a quien confía en él."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué invita el Salmo 100 a toda la tierra?",
+      "options": ["A aclamar al Señor con alegría", "A guardar un silencio penitencial", "A huir del juicio que se avecina"],
+      "correct": 0,
+      "hint": "El tono de este breve salmo es de celebración gozosa y universal.",
+      "explanation": "Sal 100: «aclamad al Señor, tierra entera... entrad en sus puertas con acción de gracias» — un salmo breve de alabanza festiva."
+    },
+    {
+      "type": "gap",
+      "text": "Entrad en sus puertas con acción de gracias, en sus atrios con ___.",
+      "options": ["alabanzas", "silencio", "ofrendas"],
+      "answer": "alabanzas",
+      "explanation": "Sal 100: este salmo invita a toda la tierra a unirse en una misma acción de gracias hacia Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta se hace el salmista al alzar los ojos a los montes en el Salmo 121?",
+      "options": ["Cuándo terminará su largo destierro", "De dónde le vendrá el auxilio", "Quién construirá el nuevo templo"],
+      "correct": 1,
+      "hint": "La pregunta abre un salmo que responde afirmando la constante vigilancia de Dios.",
+      "explanation": "Sal 121: «alzo mis ojos a los montes: ¿de dónde me vendrá el auxilio?» — el salmo responde que el Señor es quien guarda al peregrino en todos sus caminos."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor es tu guardián, tu sombra a tu ___.",
+      "options": ["derecha", "izquierda", "espalda"],
+      "answer": "derecha",
+      "explanation": "Sal 121: esta imagen de cercanía constante expresa la confianza del peregrino en la protección divina durante todo su camino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 121 · La pregunta que abre el salmo",
+      "direction": "es-es",
+      "tiles": ["Alzo", "mis", "ojos", "a", "los", "montes", "cielos", "mares"],
+      "answer": "Alzo mis ojos a los montes",
+      "explanation": "Sal 121: este salmo de peregrinación expresa la confianza de quien busca ayuda más allá de sus propias fuerzas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Desde dónde clama el salmista en el Salmo 130?",
+      "options": ["Desde lo alto de un monte sagrado", "Desde el atrio exterior del templo", "Desde lo hondo de su angustia"],
+      "correct": 2,
+      "hint": "La imagen de profundidad da al salmo su nombre tradicional en latín, «De profundis».",
+      "explanation": "Sal 130: «desde lo hondo clamo a ti, Señor» — este salmo pasa de la angustia inicial a la confianza en el perdón de Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Si llevaras cuenta de culpas, Señor, ¿quién podría ___?",
+      "options": ["subsistir", "huir", "callar"],
+      "answer": "subsistir",
+      "explanation": "Sal 130: esta pregunta retórica da paso a la afirmación de que en Dios hay perdón, motivo por el que se le teme y se le busca."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sal 130 · El clamor desde la angustia",
+      "direction": "es-es",
+      "tiles": ["Desde", "lo", "hondo", "clamo", "a", "ti", "Señor", "alto", "lejos"],
+      "answer": "Desde lo hondo clamo a ti Señor",
+      "explanation": "Sal 130: este salmo, conocido tradicionalmente como «De profundis», es una de las grandes oraciones de súplica del salterio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada imagen con el salmo al que pertenece",
+      "pairs": [
+        { "en": "El árbol junto a la acequia", "es": "Salmo 1" },
+        { "en": "Las alas y las plumas protectoras", "es": "Salmo 91" },
+        { "en": "Las verdes praderas", "es": "Salmo 23" },
+        { "en": "La sombra a la derecha", "es": "Salmo 121" },
+        { "en": "El corazón puro", "es": "Salmo 51" }
+      ]
+    }
+  ]
+}

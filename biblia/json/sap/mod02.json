@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod02",
+  "module": 2,
+  "title": "Job II — La Voz desde la Tormenta",
+  "subtitle": "Job 32–42",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Por qué se enojó Elihú con los tres amigos de Job?",
+      "options": ["Por no hallar respuesta y dejar a Dios por culpable", "Por haber abandonado a Job en pleno sufrimiento", "Por haber pedido dinero a cambio de sus consejos"],
+      "correct": 0,
+      "hint": "Su enojo apunta a la debilidad argumental de los tres amigos, no a su ausencia.",
+      "explanation": "Job 32:2-3: Elihú se enoja tanto con Job, por justificarse ante Dios, como con los amigos, «por no hallar respuesta» y dejar a Dios por culpable en el fondo de sus argumentos."
+    },
+    {
+      "type": "gap",
+      "text": "Elihú dijo: yo soy joven, vosotros ya ___.",
+      "options": ["viejos", "sabios", "ricos"],
+      "answer": "viejos",
+      "explanation": "Job 32:6: Elihú explica que su juventud lo había intimidado hasta ese momento para exponer su propio parecer sobre el sufrimiento de Job."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 32:6 · La presentación de Elihú",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "joven", "vosotros", "ya", "viejos", "sabios", "ricos"],
+      "answer": "Yo soy joven vosotros ya viejos",
+      "explanation": "Job 32:6: Elihú es el cuarto interlocutor de Job, y su discurso precede inmediatamente a la respuesta de Dios desde la tormenta."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Elihú", "es": "Joven que interviene tras los tres amigos" },
+        { "en": "Dios", "es": "Responde a Job desde la tormenta" },
+        { "en": "Job", "es": "Reconoce su pequeñez ante Dios" },
+        { "en": "Elifaz", "es": "Reprendido por Dios junto a sus dos compañeros" },
+        { "en": "Los nuevos hijos de Job", "es": "Siete hijos y tres hijas tras la restauración" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Desde dónde habló el Señor a Job para responderle?",
+      "options": ["Desde el templo de Jerusalén", "Desde la tormenta", "Desde un sueño de Job"],
+      "correct": 1,
+      "hint": "La respuesta divina llega de forma tan sobrecogedora como la propia pregunta de Job.",
+      "explanation": "Job 38:1: «el Señor habló a Job desde la tormenta», iniciando una larga serie de preguntas retóricas sobre la creación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 38:2 · La primera pregunta de Dios desde la tormenta",
+      "direction": "es-es",
+      "tiles": ["Quién", "es", "ese", "que", "enturbia", "mis", "designios", "aclara", "ayuda"],
+      "answer": "Quién es ese que enturbia mis designios",
+      "explanation": "Job 38:2: esta pregunta inicial de Dios reprocha a Job haber hablado sin comprender del todo lo que criticaba."
+    },
+    {
+      "type": "gap",
+      "text": "Dios preguntó a Job: ¿dónde estabas cuando yo cimenté la ___?",
+      "options": ["tierra", "ciudad", "montaña"],
+      "answer": "tierra",
+      "explanation": "Job 38:4: esta pregunta abre una larga serie de interrogantes sobre la creación, ante las que Job no tiene respuesta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 38:4 · La primera pregunta de Dios a Job",
+      "direction": "es-es",
+      "tiles": ["Dónde", "estabas", "cuando", "cimenté", "la", "tierra", "creaste", "cielo"],
+      "answer": "Dónde estabas cuando cimenté la tierra",
+      "explanation": "Job 38:4: esta pregunta inaugura un extenso recorrido por los misterios de la creación que Job no puede explicar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le pidió Dios a Job antes de comenzar a interrogarlo?",
+      "options": ["Que llamara de nuevo a sus tres amigos", "Que se postrara en silencio absoluto", "Que se ciñera los lomos como un guerrero"],
+      "correct": 2,
+      "hint": "La imagen evoca a alguien que se prepara para un combate o un desafío.",
+      "explanation": "Job 38:3: «si eres hombre, cíñete los lomos; voy a interrogarte y tú me instruirás» — Dios invita a Job al mismo debate que este había reclamado."
+    },
+    {
+      "type": "gap",
+      "text": "Dios preguntó si Job podía atar los lazos de las ___.",
+      "options": ["Pléyades", "estrellas", "nubes"],
+      "answer": "Pléyades",
+      "explanation": "Job 38:31-32: entre las muchas preguntas de Dios, esta apunta a la constelación de las Pléyades, fuera del control humano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada pregunta de Dios sobre la creación con su dato",
+      "pairs": [
+        { "en": "El mar", "es": "Cerrado con una puerta por Dios" },
+        { "en": "La aurora", "es": "Su lugar señalado por Dios cada día" },
+        { "en": "Las Pléyades", "es": "Sus lazos, que Job no puede atar" },
+        { "en": "El caballo", "es": "Se burla impávido del miedo" },
+        { "en": "El avestruz", "es": "Pone sus huevos directamente en el suelo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Sobre qué tipo de preguntas interroga Dios a Job en su gran discurso?",
+      "options": ["Sobre los misterios de la creación y la naturaleza", "Sobre los pecados ocultos que Job pudiera tener", "Sobre las leyes rituales del templo de Jerusalén"],
+      "correct": 0,
+      "hint": "Ninguna pregunta acusa a Job; todas apuntan a lo que escapa a su comprensión.",
+      "explanation": "Job 38-39: Dios interroga a Job sobre el mar, la aurora, las estrellas, y animales como el león, la cabra montés, el avestruz y el caballo, mostrando la inmensidad de la creación."
+    },
+    {
+      "type": "gap",
+      "text": "Job respondió: me taparé la boca con la ___.",
+      "options": ["mano", "arena", "ropa"],
+      "answer": "mano",
+      "explanation": "Job 40:4-5: ante la magnitud del discurso divino, Job reconoce su pequeñez y decide no insistir más en su reclamo."
+    },
+    {
+      "type": "gap",
+      "text": "Job dijo: hablé una vez, no ___.",
+      "options": ["insistiré", "callaré", "mentiré"],
+      "answer": "insistiré",
+      "explanation": "Job 40:5: esta primera respuesta de Job es breve, un reconocimiento inicial de su pequeñez frente a la grandeza de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo respondió Job la primera vez que Dios terminó de hablar?",
+      "options": ["Exigiendo una explicación todavía más detallada", "Reconociendo su pequeñez y tapándose la boca", "Acusando a Dios de haber sido injusto con él"],
+      "correct": 1,
+      "hint": "Su respuesta es breve y humilde, muy distinta a sus largos discursos anteriores.",
+      "explanation": "Job 40:3-5: «me siento pequeño, ¿qué replicaré? Me taparé la boca con la mano» — Job reconoce que no tiene argumentos ante la grandeza que Dios le ha mostrado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 40:4 · La primera respuesta de Job a Dios",
+      "direction": "es-es",
+      "tiles": ["Me", "taparé", "la", "boca", "con", "la", "mano", "abriré", "grito"],
+      "answer": "Me taparé la boca con la mano",
+      "explanation": "Job 40:3-5: esta reacción de humildad precede al segundo discurso de Dios, centrado en Behemot y Leviatán."
+    },
+    {
+      "type": "gap",
+      "text": "En su segundo discurso, Dios describió a Behemot y ___.",
+      "options": ["Leviatán", "el dragón", "el unicornio"],
+      "answer": "Leviatán",
+      "explanation": "Job 40-41: estas dos criaturas, de fuerza y misterio descomunales, subrayan aún más los límites del poder humano frente a la creación de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dos criaturas describe Dios en su segundo gran discurso a Job?",
+      "options": ["El águila y la serpiente del desierto", "El toro sagrado y el cordero manso", "Behemot y Leviatán"],
+      "correct": 2,
+      "hint": "Una vive en tierra con fuerza descomunal; la otra es una bestia marina invencible.",
+      "explanation": "Job 40:15-41: Behemot, «obra maestra de Dios», y Leviatán, criatura «sin miedo» a la que nadie puede pescar, cierran el discurso divino sobre la creación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del desenlace con su dato",
+      "pairs": [
+        { "en": "Behemot", "es": "Criatura poderosa, obra maestra de Dios" },
+        { "en": "Leviatán", "es": "Bestia invencible que nadie puede pescar" },
+        { "en": "La respuesta final de Job", "es": "Reconoce haber hablado de lo que ignoraba" },
+        { "en": "Los tres amigos", "es": "Deben ofrecer un holocausto por intercesión de Job" },
+        { "en": "La restauración", "es": "Dios devuelve a Job el doble de sus bienes" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 42:3 · Job reconoce los límites de su saber",
+      "direction": "es-es",
+      "tiles": ["Hablé", "de", "cosas", "que", "ignoraba", "sabía", "temía"],
+      "answer": "Hablé de cosas que ignoraba",
+      "explanation": "Job 42:3: Job admite que había discutido sobre los planes de Dios sin la comprensión necesaria para hacerlo."
+    },
+    {
+      "type": "gap",
+      "text": "Job confesó: antes te conocía de ___, mas ahora te ven mis ojos.",
+      "options": ["oídas", "lejos", "niño"],
+      "answer": "oídas",
+      "explanation": "Job 42:5: esta confesión final marca el paso de un conocimiento indirecto de Dios a una experiencia personal y transformadora."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reconoció Job en su respuesta final a Dios?",
+      "options": ["Que antes lo conocía solo de oídas, y ahora lo ven sus ojos", "Que sus tres amigos tenían razón desde el principio", "Que nunca había tenido una verdadera fe"],
+      "correct": 0,
+      "hint": "Su reconocimiento distingue entre un conocimiento teórico y una experiencia personal.",
+      "explanation": "Job 42:2-6: «te conocía solo de oídas, pero ahora te han visto mis ojos; por eso, me retracto y me arrepiento, echado en el polvo y la ceniza»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 42:5 · El reconocimiento final de Job",
+      "direction": "es-es",
+      "tiles": ["Ahora", "te", "han", "visto", "mis", "ojos", "oídos", "manos"],
+      "answer": "Ahora te han visto mis ojos",
+      "explanation": "Job 42:5: este encuentro directo con Dios transforma la fe de Job de un conocimiento aprendido a una experiencia vivida."
+    },
+    {
+      "type": "gap",
+      "text": "Job dijo: me retracto y me arrepiento sobre polvo y ___.",
+      "options": ["ceniza", "tierra", "fuego"],
+      "answer": "ceniza",
+      "explanation": "Job 42:6: este gesto de humildad cierra el largo proceso de protesta, lamento y finalmente encuentro con Dios que recorre todo el libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 42:6 · El arrepentimiento final de Job",
+      "direction": "es-es",
+      "tiles": ["Me", "retracto", "y", "me", "arrepiento", "alegro", "quejo"],
+      "answer": "Me retracto y me arrepiento",
+      "explanation": "Job 42:6: tras el encuentro con Dios, Job abandona su protesta anterior, no por haber recibido una explicación, sino por haber visto a Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué reprendió Dios a los tres amigos de Job al final del libro?",
+      "options": ["Por no haber viajado a tiempo para consolar a Job", "Por no haber hablado rectamente de Dios, a diferencia de Job", "Por haberse quedado con parte de los bienes de Job"],
+      "correct": 1,
+      "hint": "Sorprendentemente, Dios reprueba precisamente el argumento que los tres amigos defendían con más insistencia.",
+      "explanation": "Job 42:7: «estoy irritado contra ti y contra tus dos compañeros, porque no habéis hablado rectamente de mí, como lo ha hecho mi siervo Job»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Job 42:7 · La reprensión de Dios a los tres amigos",
+      "direction": "es-es",
+      "tiles": ["No", "habéis", "hablado", "rectamente", "de", "mí", "bien", "mal"],
+      "answer": "No habéis hablado rectamente de mí",
+      "explanation": "Job 42:7-8: Dios ordena a los tres amigos ofrecer un holocausto, y será el propio Job quien interceda por ellos."
+    },
+    {
+      "type": "gap",
+      "text": "Al final, el Señor duplicó todas las ___ de Job.",
+      "options": ["posesiones", "oraciones", "tierras"],
+      "answer": "posesiones",
+      "explanation": "Job 42:10-12: la restauración de Job incluye también una nueva familia y una vida larga y plena."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada dato de la restauración final con su detalle",
+      "pairs": [
+        { "en": "El doble de sus posesiones", "es": "Devuelto por Dios a Job" },
+        { "en": "Siete hijos y tres hijas", "es": "La nueva familia de Job" },
+        { "en": "Ciento cuarenta años", "es": "Longevidad final de Job" },
+        { "en": "Los nietos y biznietos", "es": "Job llega a conocerlos" },
+        { "en": "«Lo bendijo al final»", "es": "Más que al principio de su vida" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo terminó la historia de Job?",
+      "options": ["Murió pobre, aunque en paz con Dios", "Se retiró a vivir en soledad el resto de su vida", "Dios le devolvió el doble de sus bienes y le concedió una larga vida"],
+      "correct": 2,
+      "hint": "La restauración final de Job supera incluso su prosperidad inicial.",
+      "explanation": "Job 42:10-17: «el Señor bendijo a Job al final de su vida más aún que al principio», con nuevos hijos y ciento cuarenta años de vida."
+    }
+  ]
+}

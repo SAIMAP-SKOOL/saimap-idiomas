@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod05",
+  "module": 5,
+  "title": "Proverbios — Sabiduría para la Vida Diaria",
+  "subtitle": "Proverbios 1–31",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué es, según Proverbios, \"el comienzo de la sabiduría\"?",
+      "options": ["El temor del Señor", "El estudio detallado de la Ley", "La riqueza y el poder"],
+      "correct": 0,
+      "hint": "Esta afirmación abre el libro entero y se repite como principio en varios pasajes.",
+      "explanation": "Prov 1,7: «el comienzo de la sabiduría es el temor del Señor, los necios desprecian la sabiduría y la disciplina»."
+    },
+    {
+      "type": "gap",
+      "text": "El comienzo de la sabiduría es el temor del ___.",
+      "options": ["Señor", "rey", "sabio"],
+      "answer": "Señor",
+      "explanation": "Prov 1,7: esta sentencia inaugural presenta el temor de Dios como fundamento de todo conocimiento verdadero."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prov 1,7 · El principio de todo el libro",
+      "direction": "es-es",
+      "tiles": ["El", "comienzo", "de", "la", "sabiduría", "es", "el", "temor", "del", "Señor", "amor", "estudio"],
+      "answer": "El comienzo de la sabiduría es el temor del Señor",
+      "explanation": "Prov 1,7: esta sentencia inaugural resume el sentido de todo el libro de los Proverbios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada proverbio con su tema central",
+      "pairs": [
+        { "en": "El comienzo de la sabiduría es el temor del Señor", "es": "El temor de Dios como raíz de la sabiduría" },
+        { "en": "Confía en el Señor con toda el alma", "es": "La confianza plena en Dios" },
+        { "en": "La senda del justo es aurora luminosa", "es": "El crecimiento constante de la vida justa" },
+        { "en": "Seis cosas detesta el Señor", "es": "Los vicios que Dios aborrece" },
+        { "en": "La soberbia precede a la ruina", "es": "El peligro del orgullo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué anima Proverbios 3 a confiar \"con toda el alma\"?",
+      "options": ["En la propia inteligencia y cálculo", "En el Señor, sin fiarse solo del propio juicio", "En los consejos de sabios extranjeros"],
+      "correct": 1,
+      "hint": "El texto contrapone esta confianza a fiarse únicamente de la propia inteligencia.",
+      "explanation": "Prov 3,5: «confía en el Señor con toda el alma, no te fíes de tu propia inteligencia»."
+    },
+    {
+      "type": "gap",
+      "text": "Confía en el Señor con toda el alma, no te fíes de tu propia ___.",
+      "options": ["inteligencia", "riqueza", "familia"],
+      "answer": "inteligencia",
+      "explanation": "Prov 3,5: este versículo, uno de los más citados del libro, contrapone la confianza en Dios al exceso de confianza en el propio juicio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prov 3,5 · La confianza plena en Dios",
+      "direction": "es-es",
+      "tiles": ["Confía", "en", "el", "Señor", "con", "toda", "el", "alma", "mente", "fuerza"],
+      "answer": "Confía en el Señor con toda el alma",
+      "explanation": "Prov 3,5: este versículo es una de las sentencias más conocidas y citadas de todo el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué compara Proverbios 4 la senda del justo?",
+      "options": ["Con un camino recto pero solitario", "Con un río que nunca se seca", "Con una aurora luminosa que crece hasta el mediodía"],
+      "correct": 2,
+      "hint": "La imagen contrasta con la de los malvados, que «caminan en tinieblas».",
+      "explanation": "Prov 4,18: «la senda del justo es aurora luminosa, crece su luz hasta hacerse mediodía»."
+    },
+    {
+      "type": "gap",
+      "text": "La senda del justo es aurora luminosa, crece su luz hasta hacerse ___.",
+      "options": ["mediodía", "noche", "invierno"],
+      "answer": "mediodía",
+      "explanation": "Prov 4,18: esta imagen de luz creciente describe el camino del justo, en contraste con la oscuridad del malvado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prov 4,18 · La luz creciente del justo",
+      "direction": "es-es",
+      "tiles": ["La", "senda", "del", "justo", "es", "aurora", "luminosa", "oscura", "fría"],
+      "answer": "La senda del justo es aurora luminosa",
+      "explanation": "Prov 4,18: esta imagen contrapone la senda del justo, que crece en luz, con el camino del malvado, que «no sabe dónde tropieza»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué animal envía Proverbios al perezoso para que aprenda?",
+      "options": ["A la hormiga", "Al águila", "Al buey"],
+      "correct": 0,
+      "hint": "El texto elogia a este animal porque, «sin capataz ni jefe», reúne su alimento a tiempo.",
+      "explanation": "Prov 6,6: «ve a observar a la hormiga, perezoso, fíjate en sus costumbres y aprende»."
+    },
+    {
+      "type": "gap",
+      "text": "Ve a observar a la ___, perezoso, fíjate en sus costumbres y aprende.",
+      "options": ["hormiga", "abeja", "paloma"],
+      "answer": "hormiga",
+      "explanation": "Prov 6,6: este proverbio pone a la hormiga como ejemplo de laboriosidad frente a la pereza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prov 6,6 · El ejemplo de la hormiga",
+      "direction": "es-es",
+      "tiles": ["Ve", "a", "observar", "a", "la", "hormiga", "perezoso", "abeja", "paloma"],
+      "answer": "Ve a observar a la hormiga perezoso",
+      "explanation": "Prov 6,6: este proverbio pone a la hormiga como modelo de previsión y trabajo constante."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada proverbio con su referencia o contenido exacto",
+      "pairs": [
+        { "en": "Prov 6,6", "es": "«Ve a observar a la hormiga, perezoso»" },
+        { "en": "Prov 22,1", "es": "«Más vale fama que riqueza»" },
+        { "en": "Prov 27,17", "es": "«El hierro con el hierro se afila»" },
+        { "en": "Prov 31,10", "es": "«Una mujer fuerte, ¿quién la hallará?»" },
+        { "en": "Prov 3,5", "es": "«Confía en el Señor con toda el alma»" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Entre las \"seis cosas\" que el Señor detesta según Proverbios 6, ¿cuál se menciona expresamente?",
+      "options": ["La riqueza mal repartida entre hermanos", "La lengua mentirosa", "El silencio prudente del sabio"],
+      "correct": 1,
+      "hint": "La lista incluye también «ojos altaneros» y «manos que derraman sangre inocente».",
+      "explanation": "Prov 6,16-17: «seis cosas detesta el Señor... ojos altaneros, lengua mentirosa, manos que derraman sangre inocente»."
+    },
+    {
+      "type": "gap",
+      "text": "Seis cosas detesta el Señor: ojos altaneros, lengua ___.",
+      "options": ["mentirosa", "callada", "extranjera"],
+      "answer": "mentirosa",
+      "explanation": "Prov 6,16-17: esta lista de siete vicios detestables por Dios incluye la mentira, la violencia y la discordia entre hermanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advierte Proverbios sobre la soberbia?",
+      "options": ["Que trae fama y reconocimiento social", "Que solo afecta a los reyes y gobernantes", "Que precede a la ruina, y el orgullo a la caída"],
+      "correct": 2,
+      "hint": "Es uno de los proverbios más breves y más citados de todo el libro.",
+      "explanation": "Prov 16,18: «la soberbia precede a la ruina; el orgullo, a la caída»."
+    },
+    {
+      "type": "gap",
+      "text": "La soberbia precede a la ___; el orgullo, a la caída.",
+      "options": ["ruina", "fama", "guerra"],
+      "answer": "ruina",
+      "explanation": "Prov 16,18: esta advertencia sobre el orgullo es una de las sentencias más breves y conocidas del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prov 16,18 · El peligro del orgullo",
+      "direction": "es-es",
+      "tiles": ["La", "soberbia", "precede", "a", "la", "ruina", "gloria", "fama"],
+      "answer": "La soberbia precede a la ruina",
+      "explanation": "Prov 16,18: este proverbio breve advierte sobre las consecuencias del orgullo y la altivez."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué valora más Proverbios 22 que las riquezas?",
+      "options": ["El buen nombre y la buena estima", "El poder político sobre otras naciones", "Una descendencia numerosa"],
+      "correct": 0,
+      "hint": "El texto añade que «rico y pobre tienen en común que a los dos los hizo el Señor».",
+      "explanation": "Prov 22,1: «más vale fama que riqueza, mejor estima que plata y oro»."
+    },
+    {
+      "type": "gap",
+      "text": "Más vale ___ que riqueza, mejor estima que plata y oro.",
+      "options": ["fama", "salud", "juventud"],
+      "answer": "fama",
+      "explanation": "Prov 22,1: este proverbio antepone la buena reputación y la integridad moral a la mera acumulación de bienes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prov 22,1 · Lo que vale más que las riquezas",
+      "direction": "es-es",
+      "tiles": ["Más", "vale", "fama", "que", "riqueza", "oro", "plata"],
+      "answer": "Más vale fama que riqueza",
+      "explanation": "Prov 22,1: este proverbio antepone el buen nombre y la integridad a la mera acumulación de bienes materiales."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada parte de Proverbios con su contexto",
+      "pairs": [
+        { "en": "Proverbios 1–9", "es": "Discursos de un padre a su hijo sobre la sabiduría" },
+        { "en": "Proverbios 10–29", "es": "Colección de sentencias breves e independientes" },
+        { "en": "Proverbios 31", "es": "Palabras que la madre del rey Lemuel le enseñó" },
+        { "en": "El libro entero", "es": "Atribuido tradicionalmente a Salomón" },
+        { "en": "El poema de la \"mujer fuerte\"", "es": "Poema acróstico según el alfabeto hebreo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué compara Proverbios 27 la influencia positiva de un buen amigo?",
+      "options": ["Con el agua que apaga el fuego", "Con el hierro que afila al hierro", "Con la sombra que protege del sol"],
+      "correct": 1,
+      "hint": "La imagen describe cómo el trato con otra persona pule y mejora el carácter propio.",
+      "explanation": "Prov 27,17: «el hierro con el hierro se afila; el hombre, en el roce con su prójimo»."
+    },
+    {
+      "type": "gap",
+      "text": "El hierro con el hierro se afila; el hombre, en el roce con su ___.",
+      "options": ["prójimo", "enemigo", "maestro"],
+      "answer": "prójimo",
+      "explanation": "Prov 27,17: esta imagen describe cómo el trato con los demás forma y mejora el propio carácter."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prov 27,17 · La amistad que forma el carácter",
+      "direction": "es-es",
+      "tiles": ["El", "hierro", "con", "el", "hierro", "se", "afila", "fuego", "agua"],
+      "answer": "El hierro con el hierro se afila",
+      "explanation": "Prov 27,17: este proverbio describe cómo la relación con el prójimo pule y perfecciona el carácter, igual que el hierro afila al hierro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué virtud alaba principalmente el poema final de Proverbios 31 sobre la \"mujer fuerte\"?",
+      "options": ["Su belleza física, ante todo", "Su silencio y su total pasividad", "Su laboriosidad, prudencia y temor de Dios"],
+      "correct": 2,
+      "hint": "El poema concluye afirmando que «engañosa es la gracia, fugaz la hermosura; la que teme al Señor merece alabanza».",
+      "explanation": "Prov 31,30: «engañosa es la gracia, fugaz la hermosura; la que teme al Señor merece alabanza» — el poema alaba su trabajo, prudencia y piedad, no su apariencia."
+    },
+    {
+      "type": "gap",
+      "text": "Una mujer fuerte, ¿quién la hallará? Supera en valor a las ___.",
+      "options": ["perlas", "montañas", "estrellas"],
+      "answer": "perlas",
+      "explanation": "Prov 31,10: este verso abre el poema acróstico final del libro, dedicado a la mujer laboriosa y sabia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Prov 31,10 · El inicio del poema de la mujer fuerte",
+      "direction": "es-es",
+      "tiles": ["Una", "mujer", "fuerte", "quién", "la", "hallará", "hermosa", "rica"],
+      "answer": "Una mujer fuerte quién la hallará",
+      "explanation": "Prov 31,10: este verso abre el poema acróstico que cierra el libro, elogiando la laboriosidad y sabiduría práctica."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación práctica",
+      "pairs": [
+        { "en": "El ejemplo de la hormiga", "es": "La laboriosidad frente a la pereza" },
+        { "en": "El hierro que afila al hierro", "es": "El valor de la amistad sincera" },
+        { "en": "La aurora luminosa", "es": "El crecimiento constante del justo" },
+        { "en": "La soberbia que precede a la ruina", "es": "El peligro de la vanidad" },
+        { "en": "La mujer fuerte", "es": "Modelo de sabiduría práctica y laboriosidad" }
+      ]
+    }
+  ]
+}

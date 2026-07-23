@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod06",
+  "module": 6,
+  "title": "Eclesiastés — La Vanidad y el Sentido de la Vida",
+  "subtitle": "Eclesiastés 1–12",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué frase célebre abre el libro del Eclesiastés?",
+      "options": ["¡Vanidad de vanidades, todo es vanidad!", "Bienaventurados los pobres de espíritu", "En el principio creó Dios el cielo y la tierra"],
+      "correct": 0,
+      "hint": "Esta expresión, repetida al inicio y al final del libro, resume su tono reflexivo sobre el sentido de la vida.",
+      "explanation": "Ecl 1,2: «¡Vanidad de vanidades! —dice Qohélet—. ¡Vanidad de vanidades; todo es vanidad!» — esta frase enmarca todo el libro, repitiéndose también en 12,8."
+    },
+    {
+      "type": "gap",
+      "text": "¡Vanidad de vanidades! —dice Qohélet—. ¡Vanidad de vanidades; todo es ___!",
+      "options": ["vanidad", "polvo", "silencio"],
+      "answer": "vanidad",
+      "explanation": "Ecl 1,2: esta frase inaugural es el motivo central que recorre todo el libro del Eclesiastés."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ecl 1,2 · La frase que abre y cierra el libro",
+      "direction": "es-es",
+      "tiles": ["Vanidad", "de", "vanidades", "todo", "es", "vanidad", "gloria", "poder"],
+      "answer": "Vanidad de vanidades todo es vanidad",
+      "explanation": "Ecl 1,2 y 12,8: esta expresión enmarca todo el libro, del principio al final."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Vanidad de vanidades, todo es vanidad", "es": "El motivo central que recorre todo el libro" },
+        { "en": "Nada hay nuevo bajo el sol", "es": "La repetición cíclica de la historia humana" },
+        { "en": "Tiempo de nacer, tiempo de morir", "es": "El ritmo de los tiempos que Dios ha fijado" },
+        { "en": "Más vale ser dos que uno", "es": "El valor de la compañía frente a la soledad" },
+        { "en": "Acuérdate de tu Creador en tus años mozos", "es": "La exhortación final a vivir con sentido religioso" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Qohélet sobre la novedad de las cosas?",
+      "options": ["Que cada generación trae algo radicalmente nuevo", "Que nada hay nuevo bajo el sol", "Que solo los sabios descubren cosas nuevas"],
+      "correct": 1,
+      "hint": "El texto compara esto con el sol que sale y se pone siempre igual, y los ríos que siempre van al mar.",
+      "explanation": "Ecl 1,9: «lo que pasó volverá a pasar; lo que ocurrió volverá a ocurrir: nada hay nuevo bajo el sol»."
+    },
+    {
+      "type": "gap",
+      "text": "Lo que pasó volverá a pasar... nada hay nuevo bajo el ___.",
+      "options": ["sol", "cielo", "mar"],
+      "answer": "sol",
+      "explanation": "Ecl 1,9: la expresión «bajo el sol» se repite constantemente en el libro para designar la vida terrena."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ecl 1,9 · La repetición cíclica de la historia",
+      "direction": "es-es",
+      "tiles": ["Nada", "hay", "nuevo", "bajo", "el", "sol", "cielo", "mar"],
+      "answer": "Nada hay nuevo bajo el sol",
+      "explanation": "Ecl 1,9: esta sentencia expresa la visión de Qohélet sobre la repetición constante de la experiencia humana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el capítulo 3 el paso del tiempo humano?",
+      "options": ["Como un ciclo sin sentido que conviene evitar", "Como un castigo impuesto por Dios a los hombres", "Como una sucesión de tiempos: de nacer, de morir, de plantar, de arrancar"],
+      "correct": 2,
+      "hint": "Este famoso poema enumera pares de opuestos: llorar y reír, callar y hablar, amar y odiar.",
+      "explanation": "Ecl 3,1-2: «todo tiene su momento... tiempo de nacer, tiempo de morir; tiempo de plantar, tiempo de arrancar»."
+    },
+    {
+      "type": "gap",
+      "text": "Tiempo de nacer, tiempo de ___; tiempo de plantar, tiempo de arrancar.",
+      "options": ["morir", "crecer", "esperar"],
+      "answer": "morir",
+      "explanation": "Ecl 3,2: este célebre poema de los tiempos enumera catorce pares de opuestos que marcan la vida humana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ecl 3,2 · El poema de los tiempos",
+      "direction": "es-es",
+      "tiles": ["Tiempo", "de", "nacer", "tiempo", "de", "morir", "vivir", "soñar"],
+      "answer": "Tiempo de nacer tiempo de morir",
+      "explanation": "Ecl 3,2: este verso abre el célebre poema que enumera los tiempos fijados para cada cosa bajo el cielo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada capítulo con su contenido principal",
+      "pairs": [
+        { "en": "Eclesiastés 1", "es": "La vanidad de todo esfuerzo humano" },
+        { "en": "Eclesiastés 3", "es": "El poema de los tiempos" },
+        { "en": "Eclesiastés 4", "es": "Las ventajas de la compañía sobre la soledad" },
+        { "en": "Eclesiastés 9", "es": "El papel del azar en el éxito humano" },
+        { "en": "Eclesiastés 12", "es": "El poema de la vejez y la exhortación final" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ventaja señala Eclesiastés en ser dos en vez de uno?",
+      "options": ["Que si uno cae, el otro lo levanta", "Que se reparten mejor las riquezas heredadas", "Que impresionan más a los demás"],
+      "correct": 0,
+      "hint": "El texto añade también que «si dos duermen juntos, se calientan».",
+      "explanation": "Ecl 4,9-10: «más vale ser dos que uno, pues sacan más provecho de su esfuerzo... si uno cae, el otro lo levanta»."
+    },
+    {
+      "type": "gap",
+      "text": "Más vale ser dos que uno, pues sacan más provecho de su ___.",
+      "options": ["esfuerzo", "dinero", "tiempo"],
+      "answer": "esfuerzo",
+      "explanation": "Ecl 4,9: este proverbio valora la compañía y la ayuda mutua frente a la soledad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ecl 4,9 · El valor de la compañía",
+      "direction": "es-es",
+      "tiles": ["Más", "vale", "ser", "dos", "que", "uno", "tres", "cuatro"],
+      "answer": "Más vale ser dos que uno",
+      "explanation": "Ecl 4,9: este proverbio abre una reflexión sobre las ventajas de la compañía frente a la soledad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen ilustra Eclesiastés la fuerza de la unión entre varios?",
+      "options": ["Con dos manos que se lavan mutuamente", "Con una cuerda de tres cabos, difícil de romper", "Con un muro construido entre varios albañiles"],
+      "correct": 1,
+      "hint": "La imagen refuerza la idea de que «si a uno solo pueden vencerle, dos juntos resistirán».",
+      "explanation": "Ecl 4,12: «una cuerda de tres cabos no es fácil de romper» — imagen que cierra la reflexión sobre las ventajas de no estar solo."
+    },
+    {
+      "type": "gap",
+      "text": "Una cuerda de tres cabos no es fácil de ___.",
+      "options": ["romper", "tejer", "encontrar"],
+      "answer": "romper",
+      "explanation": "Ecl 4,12: esta imagen refuerza la idea de que la unión da fuerza frente a la fragilidad de estar solo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ecl 4,12 · La fuerza de la unión",
+      "direction": "es-es",
+      "tiles": ["Una", "cuerda", "de", "tres", "cabos", "dos", "cuatro"],
+      "answer": "Una cuerda de tres cabos",
+      "explanation": "Ecl 4,12: esta imagen cierra la reflexión sobre las ventajas de la compañía frente a la soledad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advierte Eclesiastés sobre quien ama el dinero?",
+      "options": ["Que tarde o temprano perderá toda su fortuna", "Que sus hijos heredarán inevitablemente su avaricia", "Que nunca se sacia, por mucho que acumule"],
+      "correct": 2,
+      "hint": "El texto añade que «aumentan los bienes y aumentan los que los comen».",
+      "explanation": "Ecl 5,9: «quien ama el dinero nunca se sacia; quien ama la abundancia no le saca provecho. También esto es vanidad»."
+    },
+    {
+      "type": "gap",
+      "text": "Quien ama el dinero nunca se ___.",
+      "options": ["sacia", "arrepiente", "pierde"],
+      "answer": "sacia",
+      "explanation": "Ecl 5,9: este proverbio advierte sobre la insaciabilidad de la avaricia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto dentro del libro",
+      "pairs": [
+        { "en": "Qohélet", "es": "Nombre hebreo del autor, tradicionalmente vinculado a Salomón" },
+        { "en": "«Bajo el sol»", "es": "Expresión repetida que designa la vida terrena" },
+        { "en": "El libro entero", "es": "Pertenece a los libros sapienciales del Antiguo Testamento" },
+        { "en": "Su tono general", "es": "Reflexivo y a veces escéptico ante el sentido de la vida" },
+        { "en": "Su conclusión final", "es": "Teme a Dios y guarda sus mandamientos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué compara Eclesiastés 7 con \"el día de la muerte\"?",
+      "options": ["El día del nacimiento, considerándolo de menor valor", "El día de una gran victoria militar", "El día en que un rey sube al trono"],
+      "correct": 0,
+      "hint": "El texto añade que «más vale ir a la casa en duelo que frecuentar la casa en fiestas».",
+      "explanation": "Ecl 7,1: «más vale buena fama que buen perfume, y el día de la muerte que el del nacimiento»."
+    },
+    {
+      "type": "gap",
+      "text": "Más vale buena fama que buen ___.",
+      "options": ["perfume", "vino", "oro"],
+      "answer": "perfume",
+      "explanation": "Ecl 7,1: este proverbio antepone la reputación y la reflexión sobre la propia vida a los placeres pasajeros."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ecl 7,1 · Lo que vale más que el perfume",
+      "direction": "es-es",
+      "tiles": ["Más", "vale", "buena", "fama", "que", "buen", "perfume", "oro", "vino"],
+      "answer": "Más vale buena fama que buen perfume",
+      "explanation": "Ecl 7,1: este proverbio antepone la buena reputación a los placeres pasajeros de los sentidos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué observa Eclesiastés sobre el éxito en la carrera o en la guerra?",
+      "options": ["Que siempre premia al más fuerte y hábil", "Que no depende solo de la habilidad, sino también de la ocasión y la suerte", "Que Dios lo decide sin dejar lugar al azar"],
+      "correct": 1,
+      "hint": "El texto dice literalmente que «siempre se tercian ocasión y suerte».",
+      "explanation": "Ecl 9,11: «no gana la carrera el más ágil, ni la guerra el más fuerte... pues siempre se tercian ocasión y suerte»."
+    },
+    {
+      "type": "gap",
+      "text": "No gana la carrera el más ágil, ni la guerra el más ___.",
+      "options": ["fuerte", "rico", "joven"],
+      "answer": "fuerte",
+      "explanation": "Ecl 9,11: este pasaje observa que el éxito humano depende también del azar y la ocasión, no solo del mérito."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ecl 9,11 · El papel del azar en el éxito",
+      "direction": "es-es",
+      "tiles": ["No", "gana", "la", "carrera", "el", "más", "ágil", "fuerte", "rico"],
+      "answer": "No gana la carrera el más ágil",
+      "explanation": "Ecl 9,11: este pasaje observa que ni la fuerza ni la habilidad garantizan el éxito, pues «se tercian ocasión y suerte»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza de Eclesiastés con su aplicación práctica",
+      "pairs": [
+        { "en": "La brevedad de la vida", "es": "Invita a disfrutar con moderación de cada día" },
+        { "en": "La incertidumbre del futuro", "es": "Invita a la humildad ante los propios planes" },
+        { "en": "La soledad", "es": "Se supera mejor con la compañía de otros" },
+        { "en": "La riqueza acumulada", "es": "No garantiza la satisfacción del corazón" },
+        { "en": "El temor de Dios", "es": "Da sentido último a toda la existencia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exhortación resume, en esencia, la conclusión del libro?",
+      "options": ["Que hay que acumular riquezas antes de morir", "Que solo los jóvenes deben preocuparse por Dios", "Que hay que acordarse del Creador y temerlo, guardando sus mandamientos"],
+      "correct": 2,
+      "hint": "El libro concluye afirmando que Dios juzgará todas las acciones, incluso las ocultas.",
+      "explanation": "Ecl 12,1.13: «acuérdate de tu Creador en tus años mozos»... «teme a Dios y guarda sus mandamientos, porque eso es ser hombre»."
+    },
+    {
+      "type": "gap",
+      "text": "Acuérdate de tu Creador en tus años ___.",
+      "options": ["mozos", "finales", "tranquilos"],
+      "answer": "mozos",
+      "explanation": "Ecl 12,1: este verso abre el poema final del libro, una meditación sobre la vejez y la exhortación a vivir con sentido religioso desde la juventud."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ecl 12,1 · La exhortación final del libro",
+      "direction": "es-es",
+      "tiles": ["Acuérdate", "de", "tu", "Creador", "en", "tus", "años", "mozos", "duros", "últimos"],
+      "answer": "Acuérdate de tu Creador en tus años mozos",
+      "explanation": "Ecl 12,1: este verso abre el célebre poema de la vejez que cierra el libro, invitando a vivir con sentido religioso desde la juventud."
+    }
+  ]
+}
