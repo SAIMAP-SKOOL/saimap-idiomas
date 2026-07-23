@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod02",
+  "module": 2,
+  "title": "Isaías II — Oráculos contra las Naciones y el Rey Ezequías",
+  "subtitle": "Isaías 13–39",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Isaías la caída del rey de Babilonia en su oráculo?",
+      "options": ["Como un astro matutino, hijo de la aurora, derribado por tierra", "Como un río que se va secando lentamente", "Como un templo que se derrumba en silencio"],
+      "correct": 0,
+      "hint": "El texto añade que este rey había dicho en su corazón: «escalaré los cielos».",
+      "explanation": "Is 14,12: «¡cómo has caído del cielo, astro matutino, hijo de la aurora! ¡Has sido derribado por tierra, opresor de naciones!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Cómo has caído del cielo, astro matutino, hijo de la ___!",
+      "options": ["aurora", "noche", "tormenta"],
+      "answer": "aurora",
+      "explanation": "Is 14,12: este oráculo contra el rey de Babilonia se ha leído tradicionalmente también como imagen de la soberbia derrotada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 14,12 · El oráculo contra el rey de Babilonia",
+      "direction": "es-es",
+      "tiles": ["Cómo", "has", "caído", "del", "cielo", "astro", "matutino", "noche", "tormenta"],
+      "answer": "Cómo has caído del cielo astro matutino",
+      "explanation": "Is 14,12: este oráculo contra el rey de Babilonia recuerda que ningún poder humano es eterno."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Cómo has caído del cielo", "es": "El oráculo contra el rey de Babilonia" },
+        { "en": "Enjugará las lágrimas de todos los rostros", "es": "La promesa de la victoria final sobre la muerte" },
+        { "en": "Convertiros y tener calma", "es": "La verdadera fuente de la salvación de Judá" },
+        { "en": "Se despegarán los ojos de los ciegos", "es": "La sanación como signo de la llegada de Dios" },
+        { "en": "El ángel del Señor golpeó el campamento", "es": "La liberación milagrosa de Jerusalén" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Isaías 25 sobre la muerte?",
+      "options": ["Que será solo aplazada para los más justos", "Que Dios la aniquilará para siempre y enjugará las lágrimas de todos", "Que afectará únicamente a los enemigos de Israel"],
+      "correct": 1,
+      "hint": "El texto añade que ese día se dirá: «este es el Señor en quien esperamos».",
+      "explanation": "Is 25,8: «aniquilará la muerte para siempre. Dios, el Señor, enjugará las lágrimas de todos los rostros»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios, el Señor, enjugará las ___ de todos los rostros.",
+      "options": ["lágrimas", "culpas", "deudas"],
+      "answer": "lágrimas",
+      "explanation": "Is 25,8: esta promesa expresa la esperanza última en la victoria de Dios sobre la muerte y el dolor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 25,8 · La victoria sobre la muerte",
+      "direction": "es-es",
+      "tiles": ["Enjugará", "las", "lágrimas", "de", "todos", "los", "rostros", "culpas", "deudas"],
+      "answer": "Enjugará las lágrimas de todos los rostros",
+      "explanation": "Is 25,8: esta promesa expresa la esperanza última en la victoria de Dios sobre la muerte y el dolor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde afirma Isaías que está la verdadera salvación del pueblo de Judá?",
+      "options": ["En una alianza militar con Egipto", "En la construcción de mayores fortificaciones", "En convertirse y tener calma, en confiar y estar tranquilos"],
+      "correct": 2,
+      "hint": "El pueblo, sin embargo, prefirió confiar en la huida a caballo.",
+      "explanation": "Is 30,15: «vuestra salvación está en convertiros y en tener calma, vuestra fuerza está en confiar y estar tranquilos»."
+    },
+    {
+      "type": "gap",
+      "text": "Vuestra salvación está en convertiros y en tener ___.",
+      "options": ["calma", "riqueza", "ejércitos"],
+      "answer": "calma",
+      "explanation": "Is 30,15: este oráculo contrapone la confianza en Dios a las alianzas militares con potencias extranjeras."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 30,15 · La verdadera fuente de salvación",
+      "direction": "es-es",
+      "tiles": ["Vuestra", "salvación", "está", "en", "convertiros", "y", "en", "tener", "calma", "riqueza", "ejércitos"],
+      "answer": "Vuestra salvación está en convertiros y en tener calma",
+      "explanation": "Is 30,15: este oráculo contrapone la confianza en Dios a las alianzas militares con potencias extranjeras."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada parte del libro con su contenido principal",
+      "pairs": [
+        { "en": "Isaías 13–14", "es": "Oráculos contra Babilonia y su rey" },
+        { "en": "Isaías 25", "es": "El banquete final y la victoria sobre la muerte" },
+        { "en": "Isaías 35", "es": "La promesa de sanación y el camino de los rescatados" },
+        { "en": "Isaías 36–37", "es": "El asedio de Senaquerib y la liberación de Jerusalén" },
+        { "en": "Isaías 38", "es": "La enfermedad y curación del rey Ezequías" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué transformación anuncia Isaías 35 para quienes sufren alguna dolencia?",
+      "options": ["Que se despegarán los ojos de los ciegos y se abrirán los oídos de los sordos", "Que serán sanados solo si peregrinan hasta Jerusalén", "Que recibirán una compensación económica del templo"],
+      "correct": 0,
+      "hint": "El texto añade que «saltará el cojo como un ciervo y cantará la lengua del mudo».",
+      "explanation": "Is 35,5-6: «se despegarán los ojos de los ciegos, los oídos de los sordos se abrirán»."
+    },
+    {
+      "type": "gap",
+      "text": "Se despegarán los ojos de los ___.",
+      "options": ["ciegos", "sordos", "mudos"],
+      "answer": "ciegos",
+      "explanation": "Is 35,5: esta promesa de sanación anuncia la cercanía de la salvación de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 35,5 · La promesa de sanación",
+      "direction": "es-es",
+      "tiles": ["Se", "despegarán", "los", "ojos", "de", "los", "ciegos", "sordos", "mudos"],
+      "answer": "Se despegarán los ojos de los ciegos",
+      "explanation": "Is 35,5: esta promesa de sanación anuncia la cercanía de la salvación de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se llama el camino que atravesarán los rescatados del Señor, según Isaías 35?",
+      "options": ["Camino de los Reyes", "Vía sacra", "Senda del Desierto"],
+      "correct": 1,
+      "hint": "El texto dice que «los impuros no pasarán por él».",
+      "explanation": "Is 35,8: «habrá un camino recto. Lo llamarán “Vía sacra”. Los impuros no pasarán por él»."
+    },
+    {
+      "type": "gap",
+      "text": "Habrá un camino recto. Lo llamarán «Vía ___».",
+      "options": ["sacra", "real", "antigua"],
+      "answer": "sacra",
+      "explanation": "Is 35,8: este camino simboliza el regreso gozoso de los rescatados hacia Sión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 35,8 · El camino de los rescatados",
+      "direction": "es-es",
+      "tiles": ["Habrá", "un", "camino", "recto", "lo", "llamarán", "Vía", "sacra", "real", "antigua"],
+      "answer": "Habrá un camino recto lo llamarán Vía sacra",
+      "explanation": "Is 35,8: este camino simboliza el regreso gozoso de los rescatados hacia Sión."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato correspondiente",
+      "pairs": [
+        { "en": "Ezequías", "es": "Rey de Judá que oró pidiendo más años de vida" },
+        { "en": "Senaquerib", "es": "Rey de Asiria que asedió Jerusalén" },
+        { "en": "Isaías", "es": "Profeta que anunció la señal de la sombra retrocediendo" },
+        { "en": "El ángel del Señor", "es": "Quien golpeó al ejército asirio en una sola noche" },
+        { "en": "El rey de Babilonia", "es": "Comparado con un astro caído del cielo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué situación histórica describen los capítulos 36–39 de Isaías?",
+      "options": ["La construcción del segundo templo tras el exilio", "La coronación de un nuevo rey persa", "El asedio de Jerusalén por Senaquerib, rey de Asiria, en tiempos de Ezequías"],
+      "correct": 2,
+      "hint": "Estos capítulos narran en prosa un episodio histórico también contado en 2 Reyes.",
+      "explanation": "Is 36,1: «el año decimocuarto del rey Ezequías, Senaquerib, rey de Asiria, marchó contra todas las ciudades fortificadas de Judá»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se libra Jerusalén del ejército asirio, según Isaías 37?",
+      "options": ["El ángel del Señor golpea el campamento asirio en una sola noche", "El rey de Asiria firma un tratado de paz con Judá", "Un terremoto repentino destruye las murallas enemigas"],
+      "correct": 0,
+      "hint": "Al amanecer, todo el campamento asirio eran cadáveres.",
+      "explanation": "Is 37,36: «el ángel del Señor avanzó y golpeó en el campamento asirio a ciento ochenta y cinco mil hombres»."
+    },
+    {
+      "type": "gap",
+      "text": "Aquella misma noche el ___ del Señor golpeó el campamento asirio.",
+      "options": ["ángel", "ejército", "pueblo"],
+      "answer": "ángel",
+      "explanation": "Is 37,36: esta liberación milagrosa de Jerusalén puso fin al asedio de Senaquerib."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 37,36 · La liberación de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["El", "ángel", "del", "Señor", "golpeó", "el", "campamento", "asirio", "ejército", "pueblo"],
+      "answer": "El ángel del Señor golpeó el campamento asirio",
+      "explanation": "Is 37,36: esta liberación milagrosa de Jerusalén puso fin al asedio de Senaquerib."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace el rey Ezequías al enterarse de que va a morir a causa de su enfermedad?",
+      "options": ["Acepta la noticia sin ninguna reacción", "Ora al Señor recordando su fidelidad, y se deshace en lágrimas", "Convoca de inmediato a un sucesor al trono"],
+      "correct": 1,
+      "hint": "Ezequías «volvió la cara a la pared» antes de orar.",
+      "explanation": "Is 38,2-3: Ezequías «volvió la cara a la pared y oró al Señor: “¡Ah, Señor!, recuerda que he caminado ante ti con sinceridad”... y se deshizo en lágrimas»."
+    },
+    {
+      "type": "gap",
+      "text": "Pon orden en tu casa, porque vas a morir y no ___.",
+      "options": ["vivirás", "volverás", "reinarás"],
+      "answer": "vivirás",
+      "explanation": "Is 38,1: este anuncio de Isaías provocó la oración llena de lágrimas del rey Ezequías."
+    },
+    {
+      "type": "gap",
+      "text": "Añadiré otros quince años a tu ___.",
+      "options": ["vida", "reino", "pueblo"],
+      "answer": "vida",
+      "explanation": "Is 38,5: esta respuesta de Dios a la oración de Ezequías le concede una prórroga a su vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 38,1 · El anuncio de la enfermedad de Ezequías",
+      "direction": "es-es",
+      "tiles": ["Pon", "orden", "en", "tu", "casa", "vas", "a", "morir", "volverás", "reinarás"],
+      "answer": "Pon orden en tu casa vas a morir",
+      "explanation": "Is 38,1: este anuncio de Isaías provocó la oración llena de lágrimas del rey Ezequías."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué señal confirma a Ezequías que Dios cumplirá su promesa de sanarlo?",
+      "options": ["Un eclipse total de sol sobre Jerusalén", "La aparición repentina de una estrella nueva", "Que la sombra retroceda diez gradas en la escalera de Ajaz"],
+      "correct": 2,
+      "hint": "Esta señal invierte el curso natural del tiempo marcado por el sol.",
+      "explanation": "Is 38,8: «haré retroceder diez gradas la sombra en la escalera de Ajaz... y el sol retrocedió las diez gradas»."
+    },
+    {
+      "type": "gap",
+      "text": "Haré retroceder diez gradas la ___ en la escalera de Ajaz.",
+      "options": ["sombra", "piedra", "puerta"],
+      "answer": "sombra",
+      "explanation": "Is 38,8: esta señal extraordinaria confirmó a Ezequías el cumplimiento de la promesa de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 38,8 · La señal de la sombra",
+      "direction": "es-es",
+      "tiles": ["Haré", "retroceder", "diez", "gradas", "la", "sombra", "piedra", "puerta"],
+      "answer": "Haré retroceder diez gradas la sombra",
+      "explanation": "Is 38,8: esta señal extraordinaria confirmó a Ezequías el cumplimiento de la promesa de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La caída de los poderosos", "es": "Ningún imperio humano es eterno ante Dios" },
+        { "en": "La victoria sobre la muerte", "es": "Fundamenta la esperanza última de los creyentes" },
+        { "en": "La confianza y la calma", "es": "Son más fuertes que las alianzas militares" },
+        { "en": "La sanación de los enfermos", "es": "Anuncia la cercanía del reinado de Dios" },
+        { "en": "La oración de Ezequías", "es": "Muestra el valor de acudir a Dios en la enfermedad" }
+      ]
+    }
+  ]
+}

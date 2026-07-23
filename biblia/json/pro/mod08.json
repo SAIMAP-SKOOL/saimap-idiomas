@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod08",
+  "module": 8,
+  "title": "Lamentaciones — El Duelo por Jerusalén y la Esperanza Renovada",
+  "subtitle": "Lamentaciones 1–5",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen se abre el libro de las Lamentaciones para describir a Jerusalén destruida?",
+      "options": ["Como una viuda solitaria, antes populosa entre las naciones", "Como un desierto que nunca tuvo vida", "Como una fortaleza aún en pie, resistiendo el asedio"],
+      "correct": 0,
+      "hint": "El texto añade que «ninguno de sus amantes le ofrece consuelo».",
+      "explanation": "Lam 1,1: «¡qué solitaria se encuentra la ciudad populosa! Como una viuda ha quedado la primera de las naciones»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Qué solitaria se encuentra la ciudad populosa! Como una ___ ha quedado.",
+      "options": ["viuda", "reina", "guerrera"],
+      "answer": "viuda",
+      "explanation": "Lam 1,1: este primer versículo abre el libro con la imagen de la soledad de Jerusalén destruida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lam 1,1 · La soledad de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Qué", "solitaria", "se", "encuentra", "la", "ciudad", "populosa", "fuerte"],
+      "answer": "Qué solitaria se encuentra la ciudad",
+      "explanation": "Lam 1,1: este primer versículo abre el libro con la imagen de la soledad de Jerusalén destruida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Como una viuda ha quedado", "es": "La soledad de Jerusalén destruida" },
+        { "en": "Mirad y ved si hay dolor", "es": "El clamor de Jerusalén a quienes pasan" },
+        { "en": "No se agota la bondad del Señor", "es": "La esperanza en medio del sufrimiento" },
+        { "en": "Mi lote es el Señor", "es": "La confianza personal del poeta" },
+        { "en": "Haznos volver a ti, Señor", "es": "La súplica final de restauración" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Jerusalén personificada a quienes pasan por el camino, en Lamentaciones 1?",
+      "options": ["Que se unan a ella en un canto de victoria", "Que miren y vean si hay dolor como el suyo", "Que reconstruyan sus murallas cuanto antes"],
+      "correct": 1,
+      "hint": "Añade que este dolor le vino «el día de su ardiente ira».",
+      "explanation": "Lam 1,12: «mirad y ved si hay dolor como el dolor que me atormenta»."
+    },
+    {
+      "type": "gap",
+      "text": "Mirad y ved si hay ___ como el dolor que me atormenta.",
+      "options": ["dolor", "gozo", "silencio"],
+      "answer": "dolor",
+      "explanation": "Lam 1,12: este clamor de Jerusalén a los que pasan expresa la magnitud de su sufrimiento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lam 1,12 · El clamor de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Si", "hay", "dolor", "como", "el", "dolor", "que", "me", "atormenta", "gozo", "paz"],
+      "answer": "Si hay dolor como el dolor que me atormenta",
+      "explanation": "Lam 1,12: este clamor de Jerusalén a los que pasan expresa la magnitud de su sufrimiento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el poeta su propio dolor ante la ruina de Jerusalén, en Lamentaciones 2?",
+      "options": ["Como algo lejano que apenas le afecta personalmente", "Como una ira que solo busca la venganza", "Como unos ojos que se consumen en lágrimas sin descanso"],
+      "correct": 2,
+      "hint": "El texto añade que «los niños y lactantes desfallecen por las plazas de la ciudad».",
+      "explanation": "Lam 2,11: «se consumen en lágrimas mis ojos, se conmueven mis entrañas; muy profundo es mi dolor»."
+    },
+    {
+      "type": "gap",
+      "text": "Se consumen en lágrimas mis ___.",
+      "options": ["ojos", "manos", "pies"],
+      "answer": "ojos",
+      "explanation": "Lam 2,11: esta expresión de dolor personal se une al lamento colectivo por la ciudad destruida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Como una viuda ha quedado", "es": "Lamentaciones 1,1" },
+        { "en": "No se agota la bondad del Señor", "es": "Lamentaciones 3,22" },
+        { "en": "Como oro deslucido", "es": "Lamentaciones 4,1" },
+        { "en": "El Señor permanece por siempre", "es": "Lamentaciones 5,19" },
+        { "en": "Haznos volver a ti", "es": "Lamentaciones 5,21" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma el famoso versículo central de Lamentaciones 3 sobre la misericordia de Dios?",
+      "options": ["Que no se agota, que se renueva cada mañana", "Que solo alcanza a unos pocos elegidos", "Que se manifestará únicamente al final de los tiempos"],
+      "correct": 0,
+      "hint": "El texto añade: «¡qué grande es tu fidelidad!».",
+      "explanation": "Lam 3,22-23: «no se agota la bondad del Señor, no se acaba su misericordia; se renuevan cada mañana»."
+    },
+    {
+      "type": "gap",
+      "text": "No se agota la bondad del Señor, no se acaba su ___.",
+      "options": ["misericordia", "paciencia", "memoria"],
+      "answer": "misericordia",
+      "explanation": "Lam 3,22: este es el versículo teológicamente central de todo el libro, un giro hacia la esperanza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lam 3,22 · El giro hacia la esperanza",
+      "direction": "es-es",
+      "tiles": ["No", "se", "agota", "la", "bondad", "del", "Señor", "paciencia", "memoria"],
+      "answer": "No se agota la bondad del Señor",
+      "explanation": "Lam 3,22: este es el versículo teológicamente central de todo el libro, un giro hacia la esperanza."
+    },
+    {
+      "type": "gap",
+      "text": "Se renuevan cada mañana, ¡qué grande es tu ___!",
+      "options": ["fidelidad", "riqueza", "gloria"],
+      "answer": "fidelidad",
+      "explanation": "Lam 3,23: este versículo, junto al anterior, es el centro teológico de todo el libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lam 3,23 · La fidelidad renovada cada mañana",
+      "direction": "es-es",
+      "tiles": ["Se", "renuevan", "cada", "mañana", "qué", "grande", "es", "tu", "fidelidad", "riqueza", "gloria"],
+      "answer": "Se renuevan cada mañana qué grande es tu fidelidad",
+      "explanation": "Lam 3,23: este versículo, junto al anterior, es el centro teológico de todo el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud adopta el poeta a pesar del sufrimiento, en Lamentaciones 3?",
+      "options": ["Abandona toda esperanza en Dios", "Afirma que su lote es el Señor y que esperará en él", "Decide no volver a rezar nunca más"],
+      "correct": 1,
+      "hint": "Esta afirmación sigue de cerca a la mención de la fidelidad de Dios.",
+      "explanation": "Lam 3,24: «me digo: mi lote es el Señor, por eso esperaré en él»."
+    },
+    {
+      "type": "gap",
+      "text": "Mi lote es el Señor, por eso ___ en él.",
+      "options": ["esperaré", "dudaré", "lucharé"],
+      "answer": "esperaré",
+      "explanation": "Lam 3,24: esta confianza personal del poeta surge en medio del dolor más profundo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lam 3,24 · La confianza personal del poeta",
+      "direction": "es-es",
+      "tiles": ["Mi", "lote", "es", "el", "Señor", "reino", "pueblo"],
+      "answer": "Mi lote es el Señor",
+      "explanation": "Lam 3,24: esta confianza personal del poeta surge en medio del dolor más profundo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "El libro entero", "es": "Cinco poemas de lamento por la caída de Jerusalén" },
+        { "en": "Su estructura", "es": "Los cuatro primeros capítulos son acrósticos según el alfabeto hebreo" },
+        { "en": "Su autoría tradicional", "es": "Atribuida al profeta Jeremías, testigo de la catástrofe" },
+        { "en": "El capítulo 3", "es": "Es el centro teológico del libro, con un giro hacia la esperanza" },
+        { "en": "El tono general", "es": "Combina el duelo más profundo con destellos de confianza en Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué considera \"bueno\" el autor en medio del sufrimiento, en Lamentaciones 3?",
+      "options": ["Vengarse cuanto antes de los enemigos", "Olvidar por completo lo ocurrido", "Esperar en silencio la salvación del Señor"],
+      "correct": 2,
+      "hint": "El texto añade que también «es bueno que el hombre cargue con el yugo desde su juventud».",
+      "explanation": "Lam 3,26: «es bueno esperar en silencio la salvación del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Es bueno esperar en silencio la ___ del Señor.",
+      "options": ["salvación", "ira", "ausencia"],
+      "answer": "salvación",
+      "explanation": "Lam 3,26: esta actitud de espera confiada acompaña la afirmación de la fidelidad de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lam 3,26 · Esperar en silencio",
+      "direction": "es-es",
+      "tiles": ["Es", "bueno", "esperar", "en", "silencio", "la", "salvación", "ira", "ausencia"],
+      "answer": "Es bueno esperar en silencio la salvación",
+      "explanation": "Lam 3,26: esta actitud de espera confiada acompaña la afirmación de la fidelidad de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Lamentaciones 4 la degradación de los antes honorables hijos de Sión?",
+      "options": ["Como oro deslucido, convertidos en cacharros de barro", "Como guerreros que siguen luchando con honor", "Como sabios que enseñan pese a la derrota"],
+      "correct": 0,
+      "hint": "El texto añade que antes eran «valiosos como el oro fino».",
+      "explanation": "Lam 4,1-2: «¡cómo se ha deslucido el oro!... los hijos de Sión... son considerados como cacharros de barro»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El lamento sincero", "es": "Es una forma legítima de oración ante el dolor" },
+        { "en": "La misericordia renovada cada día", "es": "Sostiene la esperanza incluso en la peor catástrofe" },
+        { "en": "El silencio confiado", "es": "Puede ser una forma de esperar la salvación de Dios" },
+        { "en": "La permanencia de Dios", "es": "Contrasta con la fragilidad de todo poder humano" },
+        { "en": "La súplica final", "es": "Muestra que el lamento puede abrirse a la esperanza de un nuevo comienzo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué verdad permanece firme en medio de toda la destrucción, según Lamentaciones 5?",
+      "options": ["Que el pueblo recuperará el poder por sus propias fuerzas", "Que el Señor permanece para siempre, con su trono de generación en generación", "Que Jerusalén será reconstruida sin ninguna ayuda divina"],
+      "correct": 1,
+      "hint": "Esta afirmación contrasta con la pregunta que sigue: «¿te olvidarás de nosotros para siempre?».",
+      "explanation": "Lam 5,19: «tú, Señor, permaneces por siempre, tu trono de generación en generación»."
+    },
+    {
+      "type": "gap",
+      "text": "Tú, Señor, permaneces por siempre, tu ___ de generación en generación.",
+      "options": ["trono", "pueblo", "templo"],
+      "answer": "trono",
+      "explanation": "Lam 5,19: esta verdad permanece firme en medio de toda la destrucción narrada en el libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lam 5,19 · La permanencia de Dios",
+      "direction": "es-es",
+      "tiles": ["Tú", "Señor", "permaneces", "por", "siempre", "reinas", "gobiernas"],
+      "answer": "Tú Señor permaneces por siempre",
+      "explanation": "Lam 5,19: esta verdad permanece firme en medio de toda la destrucción narrada en el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué súplica se cierra el libro de las Lamentaciones?",
+      "options": ["Con una maldición definitiva contra los enemigos", "Con la resignación total y sin ninguna esperanza", "Con la petición de que Dios los haga volver y renueve sus días"],
+      "correct": 2,
+      "hint": "El libro termina con una pregunta abierta sobre el enojo de Dios.",
+      "explanation": "Lam 5,21: «haznos volver a ti, Señor, y volveremos, renueva nuestros días como antaño»."
+    },
+    {
+      "type": "gap",
+      "text": "Haznos volver a ti, Señor, y ___.",
+      "options": ["volveremos", "callaremos", "huiremos"],
+      "answer": "volveremos",
+      "explanation": "Lam 5,21: esta súplica final abre el lamento a la esperanza de un nuevo comienzo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lam 5,21 · La súplica final de restauración",
+      "direction": "es-es",
+      "tiles": ["Haznos", "volver", "a", "ti", "Señor", "callar", "huir"],
+      "answer": "Haznos volver a ti Señor",
+      "explanation": "Lam 5,21: esta súplica final abre el lamento a la esperanza de un nuevo comienzo."
+    }
+  ]
+}

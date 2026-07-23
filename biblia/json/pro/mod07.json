@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod07",
+  "module": 7,
+  "title": "Jeremías III — La Caída de Jerusalén y el Epílogo",
+  "subtitle": "Jeremías 39–52",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre en el año undécimo del reinado de Sedecías, según Jeremías 39?",
+      "options": ["Los babilonios abren brecha en las murallas de Jerusalén tras un largo asedio", "Egipto envía un ejército para liberar la ciudad", "El pueblo se rebela y expulsa al rey de la ciudad"],
+      "correct": 0,
+      "hint": "El asedio había comenzado dos años antes, el año noveno de Sedecías.",
+      "explanation": "Jr 39,2: «el año undécimo de Sedecías, el día nueve del cuarto mes, abrieron brecha en las murallas de la ciudad»."
+    },
+    {
+      "type": "gap",
+      "text": "Los babilonios abrieron ___ en las murallas de la ciudad.",
+      "options": ["brecha", "templos", "puertas"],
+      "answer": "brecha",
+      "explanation": "Jr 39,2: este momento marca el final del largo asedio de Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 39,2 · El final del asedio de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Los", "babilonios", "abrieron", "brecha", "en", "las", "murallas", "templos", "puertas"],
+      "answer": "Los babilonios abrieron brecha en las murallas",
+      "explanation": "Jr 39,2: este momento marca el final del largo asedio de Jerusalén."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Abrieron brecha en las murallas", "es": "El final del asedio de Jerusalén" },
+        { "en": "A Sedecías le sacó los ojos", "es": "El trágico destino del último rey de Judá" },
+        { "en": "No le hagas ningún daño", "es": "El trato especial que recibió Jeremías" },
+        { "en": "Desobedeciendo la voz del Señor... a Egipto", "es": "La desobediencia final del pueblo tras la caída" },
+        { "en": "Evil Merodac... lo sacó de su reclusión", "es": "Un rayo de esperanza al final del libro" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurre al rey Sedecías al intentar huir de Jerusalén?",
+      "options": ["Logra escapar y refugiarse en Egipto", "Es alcanzado y capturado por el ejército caldeo en las estepas de Jericó", "Muere defendiendo la ciudad hasta el final"],
+      "correct": 1,
+      "hint": "Había huido de noche, atravesando los jardines reales.",
+      "explanation": "Jr 39,5: «el ejército caldeo los persiguió, y dieron alcance a Sedecías en las estepas de Jericó. Lo apresaron»."
+    },
+    {
+      "type": "gap",
+      "text": "El ejército caldeo persiguió y dio alcance a Sedecías en las estepas de ___.",
+      "options": ["Jericó", "Babilonia", "Egipto"],
+      "answer": "Jericó",
+      "explanation": "Jr 39,5: la huida nocturna de Sedecías terminó en su captura por el ejército babilonio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué castigo sufre Sedecías tras ser capturado?",
+      "options": ["Es enviado de vuelta a Jerusalén como rey vasallo", "Es perdonado a cambio de un tributo anual", "Ve morir a sus hijos y después es cegado y encadenado"],
+      "correct": 2,
+      "hint": "Todo esto ocurrió en Riblá, ante Nabucodonosor.",
+      "explanation": "Jr 39,6-7: «el rey de Babilonia ordenó degollar en Riblá a los hijos de Sedecías en presencia de este... a Sedecías le sacó los ojos y lo cargó de cadenas»."
+    },
+    {
+      "type": "gap",
+      "text": "A Sedecías le sacó los ___ y lo cargó de cadenas.",
+      "options": ["ojos", "hijos", "bienes"],
+      "answer": "ojos",
+      "explanation": "Jr 39,7: este trágico destino cumplió las advertencias que Jeremías había anunciado durante años."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 39,7 · El destino trágico de Sedecías",
+      "direction": "es-es",
+      "tiles": ["A", "Sedecías", "le", "sacó", "los", "ojos", "hijos", "bienes"],
+      "answer": "A Sedecías le sacó los ojos",
+      "explanation": "Jr 39,7: este trágico destino cumplió las advertencias que Jeremías había anunciado durante años."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Abrieron brecha en las murallas", "es": "Jeremías 39,2" },
+        { "en": "Tómalo a tu cargo", "es": "Jeremías 39,12" },
+        { "en": "Llegaron a Egipto", "es": "Jeremías 43,7" },
+        { "en": "Lo sacó de su reclusión", "es": "Jeremías 52,31" },
+        { "en": "Le concedió una pensión", "es": "Jeremías 52,34" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hacen los caldeos con Jerusalén tras conquistarla?",
+      "options": ["Prenden fuego al palacio real y derriban las murallas", "La reconstruyen de inmediato como nueva capital del imperio", "La dejan completamente intacta como muestra de respeto"],
+      "correct": 0,
+      "hint": "Además, deportaron a Babilonia a buena parte de la población.",
+      "explanation": "Jr 39,8: «los caldeos pegaron fuego al palacio real y a las viviendas de la ciudad, y derribaron las murallas de Jerusalén»."
+    },
+    {
+      "type": "gap",
+      "text": "Los caldeos pegaron fuego al palacio real y derribaron las ___ de Jerusalén.",
+      "options": ["murallas", "puertas", "torres"],
+      "answer": "murallas",
+      "explanation": "Jr 39,8: esta destrucción total de la ciudad marcó el final del reino de Judá."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 39,8 · La destrucción de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Derribaron", "las", "murallas", "de", "Jerusalén", "puertas", "torres"],
+      "answer": "Derribaron las murallas de Jerusalén",
+      "explanation": "Jr 39,8: esta destrucción total de la ciudad marcó el final del reino de Judá."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué orden da Nabucodonosor respecto a Jeremías?",
+      "options": ["Que sea ejecutado junto con los demás notables de Judá", "Que se lo cuiden y no le hagan ningún daño", "Que sea desterrado a Egipto de inmediato"],
+      "correct": 1,
+      "hint": "Añadió también: «concédele lo que te pida».",
+      "explanation": "Jr 39,12: «tómalo a tu cargo y no le hagas daño alguno. Y concédele lo que te pida»."
+    },
+    {
+      "type": "gap",
+      "text": "Tómalo a tu cargo y no le hagas ningún ___.",
+      "options": ["daño", "favor", "reproche"],
+      "answer": "daño",
+      "explanation": "Jr 39,12: este trato especial hacia Jeremías contrasta con la suerte de otros notables de Judá."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 39,12 · El trato especial hacia Jeremías",
+      "direction": "es-es",
+      "tiles": ["Tómalo", "a", "tu", "cargo", "y", "no", "le", "hagas", "daño", "favor", "reproche"],
+      "answer": "Tómalo a tu cargo y no le hagas daño",
+      "explanation": "Jr 39,12: este trato especial hacia Jeremías contrasta con la suerte de otros notables de Judá."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato correspondiente",
+      "pairs": [
+        { "en": "Sedecías", "es": "Último rey de Judá, capturado y cegado por los babilonios" },
+        { "en": "Nabucodonosor", "es": "Rey de Babilonia que ordenó respetar la vida de Jeremías" },
+        { "en": "Yojanán", "es": "Oficial que llevó al pueblo y a Jeremías hacia Egipto" },
+        { "en": "Joaquín", "es": "Rey desterrado, liberado treinta y siete años después" },
+        { "en": "Evil Merodac", "es": "Rey de Babilonia que trató a Joaquín con generosidad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿De qué acusan a Jeremías, Azarías y Yojanán, en el capítulo 43?",
+      "options": ["De haber colaborado directamente con los babilonios", "De haber robado los tesoros del templo de Jerusalén", "De mentir, incitado por Baruc, para entregarlos a los caldeos"],
+      "correct": 2,
+      "hint": "Le dijeron: «Baruc, hijo de Nerías, te incita contra nosotros».",
+      "explanation": "Jr 43,2-3: «estás mintiendo... Baruc te incita contra nosotros para que caigamos en poder de los caldeos»."
+    },
+    {
+      "type": "gap",
+      "text": "Baruc te incita contra nosotros para que caigamos en poder de los ___.",
+      "options": ["caldeos", "egipcios", "filisteos"],
+      "answer": "caldeos",
+      "explanation": "Jr 43,3: esta acusación infundada precede a la decisión del pueblo de huir a Egipto contra la voluntad de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 43,3 · La acusación contra Jeremías y Baruc",
+      "direction": "es-es",
+      "tiles": ["Baruc", "te", "incita", "contra", "nosotros", "ayuda", "defiende"],
+      "answer": "Baruc te incita contra nosotros",
+      "explanation": "Jr 43,3: esta acusación infundada precede a la decisión del pueblo de huir a Egipto contra la voluntad de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hacen finalmente Yojanán y el resto del pueblo con Jeremías?",
+      "options": ["Se lo llevan a Egipto, desobedeciendo la voz del Señor", "Lo dejan gobernar como sucesor de Godolías en Judá", "Lo entregan como prisionero a los babilonios"],
+      "correct": 0,
+      "hint": "Dios les había mandado quedarse a vivir en Judá.",
+      "explanation": "Jr 43,7: «desobedeciendo la voz del Señor, llegaron a Egipto y se instalaron en Tafnes»."
+    },
+    {
+      "type": "gap",
+      "text": "Desobedeciendo la voz del Señor, llegaron a ___.",
+      "options": ["Egipto", "Babilonia", "Asiria"],
+      "answer": "Egipto",
+      "explanation": "Jr 43,7: esta desobediencia final del pueblo se repite incluso después de la caída de Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 43,7 · La huida a Egipto",
+      "direction": "es-es",
+      "tiles": ["Desobedeciendo", "la", "voz", "del", "Señor", "llegaron", "a", "Egipto", "Babilonia", "Asiria"],
+      "answer": "Desobedeciendo la voz del Señor llegaron a Egipto",
+      "explanation": "Jr 43,7: esta desobediencia final del pueblo se repite incluso después de la caída de Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre con el rey Joaquín treinta y siete años después de su deportación?",
+      "options": ["Es ejecutado por orden del nuevo rey de Babilonia", "Evil Merodac, rey de Babilonia, lo indulta y lo saca de su reclusión", "Consigue escapar y regresar por su cuenta a Jerusalén"],
+      "correct": 1,
+      "hint": "Esto ocurrió «con ocasión de su ascensión al trono».",
+      "explanation": "Jr 52,31: «Evil Merodac, rey de Babilonia... indultó a Jeconías, rey de Judá, y lo sacó de su reclusión»."
+    },
+    {
+      "type": "gap",
+      "text": "Evil Merodac indultó a Jeconías, rey de Judá, y lo sacó de su ___.",
+      "options": ["reclusión", "ciudad", "pueblo"],
+      "answer": "reclusión",
+      "explanation": "Jr 52,31: este indulto ofrece una nota de esperanza al cierre del libro de Jeremías."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 52,31 · El indulto de Joaquín",
+      "direction": "es-es",
+      "tiles": ["Lo", "sacó", "de", "su", "reclusión", "ciudad", "pueblo"],
+      "answer": "Lo sacó de su reclusión",
+      "explanation": "Jr 52,31: este indulto ofrece una nota de esperanza al cierre del libro de Jeremías."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo trata Evil Merodac a Joaquín tras liberarlo de la cárcel?",
+      "options": ["Lo mantiene vigilado y sin ningún privilegio especial", "Lo envía de vuelta a Judá para gobernar como rey vasallo", "Le permite comer a su mesa y le concede una pensión de por vida"],
+      "correct": 2,
+      "hint": "También le concedió «un sitial más elevado que el del resto de los reyes» desterrados.",
+      "explanation": "Jr 52,33-34: «le permitió comer a su mesa durante el resto de su vida... una pensión diaria de por vida»."
+    },
+    {
+      "type": "gap",
+      "text": "El rey de Babilonia le concedió una ___ diaria de por vida.",
+      "options": ["pensión", "corona", "guardia"],
+      "answer": "pensión",
+      "explanation": "Jr 52,34: este gesto de generosidad cierra el libro de Jeremías con una nota inesperada de esperanza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 52,34 · La generosidad final hacia Joaquín",
+      "direction": "es-es",
+      "tiles": ["Le", "concedió", "una", "pensión", "diaria", "de", "por", "vida", "corona", "guardia"],
+      "answer": "Le concedió una pensión diaria de por vida",
+      "explanation": "Jr 52,34: este gesto de generosidad cierra el libro de Jeremías con una nota inesperada de esperanza."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La caída de Jerusalén", "es": "Cumple las advertencias que Jeremías había anunciado durante años" },
+        { "en": "El respeto hacia Jeremías", "es": "Muestra que Dios protege a su profeta incluso en medio del desastre" },
+        { "en": "La desobediencia del pueblo", "es": "Se repite hasta el final, incluso tras la caída de la ciudad" },
+        { "en": "El indulto de Joaquín", "es": "Ofrece una nota de esperanza al cierre del libro" },
+        { "en": "La fidelidad de la palabra de Dios", "es": "Se cumple más allá del tiempo, aun en el exilio" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod04",
+  "module": 4,
+  "title": "Isaías IV — El Nuevo Cielo y la Nueva Tierra",
+  "subtitle": "Isaías 56–66",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Isaías 56 el templo, abierto a todos los pueblos?",
+      "options": ["Como «casa de oración» para todos", "Como fortaleza militar de Jerusalén", "Como archivo de las leyes de Israel"],
+      "correct": 0,
+      "hint": "El texto añade que allí serán aceptados «sus holocaustos y sacrificios».",
+      "explanation": "Is 56,7: «mi casa es casa de oración» — un templo abierto también a los extranjeros que se unen al Señor."
+    },
+    {
+      "type": "gap",
+      "text": "Mi casa es casa de ___.",
+      "options": ["oración", "sacrificios", "justicia"],
+      "answer": "oración",
+      "explanation": "Is 56,7: este versículo abre el templo de Jerusalén a todos los pueblos, no solo a Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 56,7 · El templo abierto a todos los pueblos",
+      "direction": "es-es",
+      "tiles": ["Mi", "casa", "es", "casa", "de", "oración", "sacrificios", "justicia"],
+      "answer": "Mi casa es casa de oración",
+      "explanation": "Is 56,7: este versículo abre el templo de Jerusalén a todos los pueblos, no solo a Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Mi casa es casa de oración", "es": "La apertura del templo a todos los pueblos" },
+        { "en": "Partir tu pan con el hambriento", "es": "El verdadero ayuno que agrada a Dios" },
+        { "en": "El Espíritu del Señor está sobre mí", "es": "La misión profética de anunciar la buena noticia" },
+        { "en": "Un nuevo cielo y una nueva tierra", "es": "La promesa de una creación renovada" },
+        { "en": "Como a un niño a quien su madre consuela", "es": "La ternura final de Dios hacia su pueblo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el verdadero ayuno que Dios pide, según Isaías 58?",
+      "options": ["Guardar un silencio absoluto durante todo el día", "Soltar las cadenas injustas y liberar a los oprimidos", "Vestirse de saco y ceniza en público"],
+      "correct": 1,
+      "hint": "El texto contrasta esto con «inclinar la cabeza como un junco».",
+      "explanation": "Is 58,6: «este es el ayuno que yo quiero: soltar las cadenas injustas... liberar a los oprimidos»."
+    },
+    {
+      "type": "gap",
+      "text": "Este es el ayuno que yo quiero: soltar las cadenas ___.",
+      "options": ["injustas", "doradas", "viejas"],
+      "answer": "injustas",
+      "explanation": "Is 58,6: este oráculo redefine el ayuno como una práctica de justicia hacia los oprimidos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 58,6 · El verdadero ayuno",
+      "direction": "es-es",
+      "tiles": ["Este", "es", "el", "ayuno", "que", "yo", "quiero", "prefiero", "exijo"],
+      "answer": "Este es el ayuno que yo quiero",
+      "explanation": "Is 58,6: este oráculo redefine el ayuno como una práctica de justicia hacia los oprimidos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué acción concreta pide Isaías 58 hacia el hambriento?",
+      "options": ["Orar por él sin ninguna acción más", "Recordarlo solo en las grandes fiestas religiosas", "Partir tu pan con él y hospedar a los pobres sin techo"],
+      "correct": 2,
+      "hint": "El texto añade: «cubrir a quien ves desnudo y no desentenderte de los tuyos».",
+      "explanation": "Is 58,7: «partir tu pan con el hambriento, hospedar a los pobres sin techo, cubrir a quien ves desnudo»."
+    },
+    {
+      "type": "gap",
+      "text": "Partir tu pan con el ___.",
+      "options": ["hambriento", "vecino", "extranjero"],
+      "answer": "hambriento",
+      "explanation": "Is 58,7: esta acción concreta forma parte del verdadero ayuno que agrada a Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 58,7 · El pan compartido con el hambriento",
+      "direction": "es-es",
+      "tiles": ["Partir", "tu", "pan", "con", "el", "hambriento", "vecino", "extranjero"],
+      "answer": "Partir tu pan con el hambriento",
+      "explanation": "Is 58,7: esta acción concreta forma parte del verdadero ayuno que agrada a Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Mi casa es casa de oración", "es": "Isaías 56,7" },
+        { "en": "Levántate y resplandece", "es": "Isaías 60,1" },
+        { "en": "El Espíritu del Señor está sobre mí", "es": "Isaías 61,1" },
+        { "en": "Un nuevo cielo y una nueva tierra", "es": "Isaías 65,17" },
+        { "en": "El cielo es mi trono", "es": "Isaías 66,1" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabras se abre el capítulo 60 de Isaías, sobre la gloria futura de Jerusalén?",
+      "options": ["«Levántate y resplandece, porque llega tu luz»", "«Guarda silencio y espera tu hora»", "«Huye lejos, porque llega el peligro»"],
+      "correct": 0,
+      "hint": "El texto añade: «la gloria del Señor amanece sobre ti».",
+      "explanation": "Is 60,1: «¡levántate y resplandece, porque llega tu luz; la gloria del Señor amanece sobre ti!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Levántate y resplandece, porque llega tu ___!",
+      "options": ["luz", "rey", "hora"],
+      "answer": "luz",
+      "explanation": "Is 60,1: este versículo abre el gran anuncio de la gloria futura de Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 60,1 · El anuncio de la gloria futura",
+      "direction": "es-es",
+      "tiles": ["Levántate", "y", "resplandece", "porque", "llega", "tu", "luz", "rey", "hora"],
+      "answer": "Levántate y resplandece porque llega tu luz",
+      "explanation": "Is 60,1: este versículo abre el gran anuncio de la gloria futura de Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia la voz profética al comienzo de Isaías 61, citada después por Jesús en la sinagoga de Nazaret?",
+      "options": ["Que viene a juzgar al mundo sin ninguna misericordia", "Que el Espíritu del Señor está sobre él, enviado a dar la buena noticia a los pobres", "Que viene únicamente a reconstruir el templo"],
+      "correct": 1,
+      "hint": "Según el evangelio de Lucas, Jesús leyó este mismo pasaje en la sinagoga y dijo que se cumplía en él.",
+      "explanation": "Is 61,1: «el Espíritu del Señor, Dios, está sobre mí, porque el Señor me ha ungido. Me ha enviado para dar la buena noticia a los pobres»."
+    },
+    {
+      "type": "gap",
+      "text": "El Espíritu del Señor, Dios, está sobre ___.",
+      "options": ["mí", "ti", "nosotros"],
+      "answer": "mí",
+      "explanation": "Is 61,1: este pasaje sería citado siglos después por Jesús en la sinagoga de Nazaret, según el evangelio de Lucas."
+    },
+    {
+      "type": "gap",
+      "text": "Me ha enviado para dar la buena noticia a los ___.",
+      "options": ["pobres", "reyes", "sabios"],
+      "answer": "pobres",
+      "explanation": "Is 61,1: esta misión profética de anunciar la buena noticia sería asumida después por Jesús como propia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 61,1 · La misión profética",
+      "direction": "es-es",
+      "tiles": ["El", "Espíritu", "del", "Señor", "está", "sobre", "mí", "ti", "nosotros"],
+      "answer": "El Espíritu del Señor está sobre mí",
+      "explanation": "Is 61,1: este pasaje sería citado siglos después por Jesús en la sinagoga de Nazaret, según el evangelio de Lucas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Los capítulos 56–66", "es": "Dirigidos a la comunidad ya regresada del exilio" },
+        { "en": "Isaías 61", "es": "Fue leído por Jesús en la sinagoga de Nazaret, según Lucas" },
+        { "en": "\"Año de gracia del Señor\"", "es": "Evoca el año jubilar de liberación y perdón" },
+        { "en": "El \"nuevo cielo y nueva tierra\"", "es": "Inspiraría después la imaginería del Apocalipsis" },
+        { "en": "El libro de Isaías completo", "es": "El más extenso y citado de todos los profetas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclama Isaías 61 además de la buena noticia a los pobres?",
+      "options": ["El fin definitivo de todas las fiestas religiosas", "La abolición completa de la ley de Moisés", "Un año de gracia del Señor y la consolación de los afligidos"],
+      "correct": 2,
+      "hint": "El texto añade que dará «una diadema en lugar de cenizas».",
+      "explanation": "Is 61,2: «proclamar un año de gracia del Señor... para consolar a los afligidos»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios crear en Isaías 65?",
+      "options": ["Un nuevo cielo y una nueva tierra", "Un nuevo templo hecho de oro puro", "Un nuevo pueblo distinto de Israel"],
+      "correct": 0,
+      "hint": "El texto añade: «de las cosas pasadas ni habrá recuerdo ni vendrá pensamiento».",
+      "explanation": "Is 65,17: «voy a crear un nuevo cielo y una nueva tierra: de las cosas pasadas ni habrá recuerdo»."
+    },
+    {
+      "type": "gap",
+      "text": "Voy a crear un nuevo cielo y una nueva ___.",
+      "options": ["tierra", "alianza", "ciudad"],
+      "answer": "tierra",
+      "explanation": "Is 65,17: esta promesa de una creación completamente renovada cierra el ciclo de las grandes esperanzas del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 65,17 · La promesa de una creación renovada",
+      "direction": "es-es",
+      "tiles": ["Voy", "a", "crear", "un", "nuevo", "cielo", "alianza", "ciudad"],
+      "answer": "Voy a crear un nuevo cielo",
+      "explanation": "Is 65,17: esta promesa de una creación completamente renovada cierra el ciclo de las grandes esperanzas del libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Isaías 66 la grandeza de Dios frente a cualquier templo humano?",
+      "options": ["Diciendo que Dios necesita un templo mejor que el anterior", "Diciendo que el cielo es su trono y la tierra el estrado de sus pies", "Diciendo que prefiere vivir sin ningún tipo de culto"],
+      "correct": 1,
+      "hint": "El texto pregunta: «¿qué templo podréis construirme?».",
+      "explanation": "Is 66,1: «el cielo es mi trono, y la tierra, el estrado de mis pies: ¿qué templo podréis construirme?»."
+    },
+    {
+      "type": "gap",
+      "text": "El cielo es mi trono, y la tierra, el ___ de mis pies.",
+      "options": ["estrado", "camino", "jardín"],
+      "answer": "estrado",
+      "explanation": "Is 66,1: esta imagen expresa que la grandeza de Dios supera cualquier templo o edificio humano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 66,1 · La grandeza de Dios sobre cualquier templo",
+      "direction": "es-es",
+      "tiles": ["El", "cielo", "es", "mi", "trono", "camino", "jardín"],
+      "answer": "El cielo es mi trono",
+      "explanation": "Is 66,1: esta imagen expresa que la grandeza de Dios supera cualquier templo o edificio humano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen consuela Dios a su pueblo al final del libro de Isaías?",
+      "options": ["Con la imagen de un juez que finalmente absuelve", "Con la imagen de un rey que reparte riquezas", "Con la imagen de una madre que consuela a su hijo"],
+      "correct": 2,
+      "hint": "El texto añade: «en Jerusalén seréis consolados».",
+      "explanation": "Is 66,13: «como a un niño a quien su madre consuela, así os consolaré yo, y en Jerusalén seréis consolados»."
+    },
+    {
+      "type": "gap",
+      "text": "Como a un niño a quien su madre consuela, así os ___ yo.",
+      "options": ["consolaré", "juzgaré", "defenderé"],
+      "answer": "consolaré",
+      "explanation": "Is 66,13: esta imagen materna cierra el libro con una nota de ternura hacia el pueblo de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 66,13 · La ternura final de Dios",
+      "direction": "es-es",
+      "tiles": ["Como", "a", "un", "niño", "a", "quien", "su", "madre", "consuela", "padre", "hermano"],
+      "answer": "Como a un niño a quien su madre consuela",
+      "explanation": "Is 66,13: esta imagen materna cierra el libro con una nota de ternura hacia el pueblo de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El verdadero culto", "es": "Se demuestra en la justicia hacia los más pobres" },
+        { "en": "La misión profética", "es": "Anuncia liberación, consuelo y esperanza" },
+        { "en": "La grandeza de Dios", "es": "Supera cualquier templo o edificio humano" },
+        { "en": "La promesa final", "es": "Transforma el dolor en alegría duradera" },
+        { "en": "La ternura de Dios", "es": "Se compara con el amor incondicional de una madre" }
+      ]
+    }
+  ]
+}

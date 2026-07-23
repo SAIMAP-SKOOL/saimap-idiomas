@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod01",
+  "module": 1,
+  "title": "Isaías I — La Visión y el Anuncio del Mesías",
+  "subtitle": "Isaías 1–12",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué reproche hace Dios a su pueblo al comienzo del libro de Isaías?",
+      "options": ["Que ni siquiera el buey o el asno reconocen tan poco a su dueño como Israel a Dios", "Que han dejado de sacrificar animales en el templo", "Que han perdido la memoria de sus antepasados"],
+      "correct": 0,
+      "hint": "El texto compara a Israel con animales domésticos que, al menos, reconocen a quien los alimenta.",
+      "explanation": "Is 1,3: «el buey conoce a su amo, y el asno el pesebre de su dueño; Israel no me conoce, mi pueblo no comprende»."
+    },
+    {
+      "type": "gap",
+      "text": "El buey conoce a su amo... Israel no me ___.",
+      "options": ["conoce", "teme", "busca"],
+      "answer": "conoce",
+      "explanation": "Is 1,3: este reproche inicial compara la infidelidad de Israel con la torpeza de un animal que no reconoce a su dueño."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 1,3 · El reproche inicial",
+      "direction": "es-es",
+      "tiles": ["El", "buey", "conoce", "a", "su", "amo", "pastor", "rey"],
+      "answer": "El buey conoce a su amo",
+      "explanation": "Is 1,3: este reproche inicial compara la infidelidad de Israel con la torpeza de un animal que no reconoce a su dueño."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "El buey conoce a su amo", "es": "El reproche inicial por la infidelidad de Israel" },
+        { "en": "Pecados como escarlata, blancos como la nieve", "es": "La promesa del perdón divino" },
+        { "en": "De las espadas forjarán arados", "es": "La visión de paz universal entre las naciones" },
+        { "en": "Santo, santo, santo", "es": "La visión de la gloria de Dios en el templo" },
+        { "en": "Aquí estoy, mándame", "es": "La respuesta generosa de Isaías a su vocación" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa hace Dios sobre los pecados, aunque sean \"como escarlata\"?",
+      "options": ["Que serán castigados sin remedio posible", "Que quedarán blancos como la nieve", "Que se olvidarán con el simple paso del tiempo"],
+      "correct": 1,
+      "hint": "El texto añade que, aunque sean rojos como la púrpura, «quedarán como lana».",
+      "explanation": "Is 1,18: «aunque vuestros pecados sean como escarlata, quedarán blancos como nieve»."
+    },
+    {
+      "type": "gap",
+      "text": "Aunque vuestros pecados sean como escarlata, quedarán blancos como la ___.",
+      "options": ["nieve", "plata", "luna"],
+      "answer": "nieve",
+      "explanation": "Is 1,18: esta promesa de perdón abre la posibilidad de un nuevo comienzo para el pueblo infiel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 1,18 · La promesa del perdón",
+      "direction": "es-es",
+      "tiles": ["Quedarán", "blancos", "como", "la", "nieve", "plata", "luna"],
+      "answer": "Quedarán blancos como la nieve",
+      "explanation": "Is 1,18: esta promesa de perdón abre la posibilidad de un nuevo comienzo para el pueblo infiel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen usa Isaías para describir la paz futura entre las naciones?",
+      "options": ["Reyes que se abrazan en un gran banquete", "Un templo abierto por igual a todos los pueblos", "Espadas convertidas en arados y lanzas en podaderas"],
+      "correct": 2,
+      "hint": "El texto añade que «no se adiestrarán para la guerra».",
+      "explanation": "Is 2,4: «de las espadas forjarán arados, de las lanzas, podaderas. No alzará la espada pueblo contra pueblo»."
+    },
+    {
+      "type": "gap",
+      "text": "De las espadas forjarán ___, de las lanzas, podaderas.",
+      "options": ["arados", "escudos", "cadenas"],
+      "answer": "arados",
+      "explanation": "Is 2,4: esta visión de paz universal es una de las imágenes más célebres de todo el libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 2,4 · La visión de paz universal",
+      "direction": "es-es",
+      "tiles": ["De", "las", "espadas", "forjarán", "arados", "escudos", "cadenas"],
+      "answer": "De las espadas forjarán arados",
+      "explanation": "Is 2,4: esta visión de paz universal entre las naciones es una de las imágenes más célebres de todo el libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "La virgen... Enmanuel", "es": "Isaías 7,14" },
+        { "en": "Príncipe de la paz", "es": "Isaías 9,6" },
+        { "en": "El lobo habitará con el cordero", "es": "Isaías 11,6" },
+        { "en": "Santo, santo, santo", "es": "Isaías 6,3" },
+        { "en": "Espadas convertidas en arados", "es": "Isaías 2,4" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué denuncia Isaías en el capítulo 5 sobre la inversión de los valores morales?",
+      "options": ["A los que llaman bien al mal y mal al bien", "A los que rezan demasiadas veces al día", "A los que abandonan sus tierras de cultivo"],
+      "correct": 0,
+      "hint": "El texto añade: «que tienen las tinieblas por luz y la luz por tinieblas».",
+      "explanation": "Is 5,20: «¡ay de los que llaman bien al mal y mal al bien, que tienen las tinieblas por luz y la luz por tinieblas!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Ay de los que llaman bien al mal y mal al ___!",
+      "options": ["bien", "cielo", "pueblo"],
+      "answer": "bien",
+      "explanation": "Is 5,20: este «ay» denuncia la inversión de los valores morales dentro del pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exclaman los serafines ante el trono de Dios en la visión de Isaías?",
+      "options": ["Grande, grande, grande es el Señor", "Santo, santo, santo es el Señor del universo", "Justo, justo, justo es el Señor de Israel"],
+      "correct": 1,
+      "hint": "Añaden a continuación: «llena está la tierra de su gloria».",
+      "explanation": "Is 6,3: «santo, santo, santo es el Señor del universo, llena está la tierra de su gloria»."
+    },
+    {
+      "type": "gap",
+      "text": "___, santo, santo es el Señor del universo, llena está la tierra de su gloria.",
+      "options": ["Santo", "Grande", "Justo"],
+      "answer": "Santo",
+      "explanation": "Is 6,3: esta triple aclamación de los serafines es el centro de la visión inaugural de Isaías en el templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 6,3 · La visión de la gloria de Dios",
+      "direction": "es-es",
+      "tiles": ["Santo", "santo", "santo", "es", "el", "Señor", "grande", "justo"],
+      "answer": "Santo santo santo es el Señor",
+      "explanation": "Is 6,3: esta triple aclamación de los serafines es el centro de la visión inaugural de Isaías en el templo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "El llamado de Isaías", "es": "Ocurre en una visión en el templo, el año de la muerte del rey Ozías" },
+        { "en": "El signo de Enmanuel", "es": "Se da al rey Ajaz de Judá en medio de una amenaza militar" },
+        { "en": "El \"Príncipe de la paz\"", "es": "Anuncia un reinado de justicia sobre el trono de David" },
+        { "en": "El \"tronco de Jesé\"", "es": "Recuerda el origen del rey David, de la familia de Jesé" },
+        { "en": "La canción de la viña", "es": "Es una parábola sobre la infidelidad de Israel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo responde Isaías cuando Dios pregunta \"¿a quién enviaré?\"?",
+      "options": ["Guarda silencio, dudando de su propia voz", "Pide primero una señal que confirme la llamada", "Responde de inmediato: «Aquí estoy, mándame»"],
+      "correct": 2,
+      "hint": "Antes de esto, un serafín había purificado sus labios con un ascua tomada del altar.",
+      "explanation": "Is 6,8: «¿a quién enviaré? ¿Y quién irá por nosotros?». Contesté: «aquí estoy, mándame»."
+    },
+    {
+      "type": "gap",
+      "text": "Aquí estoy, ___.",
+      "options": ["mándame", "escúchame", "perdóname"],
+      "answer": "mándame",
+      "explanation": "Is 6,8: esta respuesta generosa de Isaías a su vocación se ha convertido en modelo de disponibilidad ante Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué signo anuncia Isaías al rey Ajaz en el capítulo 7?",
+      "options": ["Que la virgen concebirá y dará a luz un hijo llamado Enmanuel", "Que Jerusalén será reconstruida en solo tres días", "Que el templo será destruido por el fuego"],
+      "correct": 0,
+      "hint": "El nombre del niño, «Enmanuel», significa «Dios con nosotros».",
+      "explanation": "Is 7,14: «la virgen está encinta y da a luz un hijo, y le pondrá por nombre Enmanuel»."
+    },
+    {
+      "type": "gap",
+      "text": "La virgen está encinta y da a luz un hijo, y le pondrá por nombre ___.",
+      "options": ["Enmanuel", "Josué", "Ezequías"],
+      "answer": "Enmanuel",
+      "explanation": "Is 7,14: este signo dado al rey Ajaz se convertiría en una de las profecías más célebres de todo el Antiguo Testamento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 7,14 · El signo de Enmanuel",
+      "direction": "es-es",
+      "tiles": ["La", "virgen", "está", "encinta", "y", "da", "a", "luz", "un", "hijo", "concibe", "promete"],
+      "answer": "La virgen está encinta y da a luz un hijo",
+      "explanation": "Is 7,14: este signo dado al rey Ajaz se convertiría en una de las profecías más célebres de todo el Antiguo Testamento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué títulos se anuncia al niño prometido en Isaías 9?",
+      "options": ["Guerrero invencible, señor de los ejércitos", "Maravilla de Consejero, Dios fuerte, Padre de eternidad, Príncipe de la paz", "Rey de los persas, libertador de Israel"],
+      "correct": 1,
+      "hint": "El texto añade que su reinado se asentará «sobre el trono de David».",
+      "explanation": "Is 9,5-6: «un niño nos ha nacido, un hijo se nos ha dado... Maravilla de Consejero, Dios fuerte, Padre de eternidad, Príncipe de la paz»."
+    },
+    {
+      "type": "gap",
+      "text": "Un niño nos ha nacido, un hijo se nos ha dado... Príncipe de la ___.",
+      "options": ["paz", "guerra", "gloria"],
+      "answer": "paz",
+      "explanation": "Is 9,6: estos títulos anuncian un reinado de justicia y paz sobre el trono de David."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 9,5 · El anuncio del niño prometido",
+      "direction": "es-es",
+      "tiles": ["Un", "niño", "nos", "ha", "nacido", "un", "hijo", "se", "nos", "ha", "dado", "hombre", "siervo"],
+      "answer": "Un niño nos ha nacido un hijo se nos ha dado",
+      "explanation": "Is 9,5: este anuncio da paso a los grandes títulos mesiánicos del versículo siguiente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La conversión del corazón", "es": "Dios prefiere la justicia a los sacrificios vacíos" },
+        { "en": "La paz mesiánica", "es": "Transforma incluso las relaciones entre los animales" },
+        { "en": "La vocación profética", "es": "Exige una respuesta libre y generosa" },
+        { "en": "El perdón de Dios", "es": "Puede transformar la culpa más profunda" },
+        { "en": "La fidelidad de Israel", "es": "Se compara con la de un buey o un asno hacia su amo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen de paz universal describe Isaías 11 sobre el \"renuevo del tronco de Jesé\"?",
+      "options": ["Que reinará al frente de un ejército invencible", "Que reconstruirá todas las ciudades destruidas", "Que el lobo habitará con el cordero y el león comerá paja como el buey"],
+      "correct": 2,
+      "hint": "El texto añade que «nadie causará daño ni estrago por todo mi monte santo».",
+      "explanation": "Is 11,1.6: «brotará un renuevo del tronco de Jesé... habitará el lobo con el cordero, el leopardo se tumbará con el cabrito»."
+    },
+    {
+      "type": "gap",
+      "text": "Habitará el lobo con el ___.",
+      "options": ["cordero", "león", "buey"],
+      "answer": "cordero",
+      "explanation": "Is 11,6: esta imagen de paz universal entre los animales simboliza el reinado del futuro descendiente de Jesé."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 11,1 · El renuevo del tronco de Jesé",
+      "direction": "es-es",
+      "tiles": ["Brotará", "un", "renuevo", "del", "tronco", "de", "Jesé", "árbol", "rey"],
+      "answer": "Brotará un renuevo del tronco de Jesé",
+      "explanation": "Is 11,1: este anuncio vincula al futuro Mesías con el linaje del rey David, hijo de Jesé."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 11,6 · La paz mesiánica entre los animales",
+      "direction": "es-es",
+      "tiles": ["Habitará", "el", "lobo", "con", "el", "cordero", "león", "buey"],
+      "answer": "Habitará el lobo con el cordero",
+      "explanation": "Is 11,6: esta imagen de paz universal entre los animales simboliza el reinado pacífico del futuro Mesías."
+    }
+  ]
+}

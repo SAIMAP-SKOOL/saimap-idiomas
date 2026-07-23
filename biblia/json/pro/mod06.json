@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod06",
+  "module": 6,
+  "title": "Jeremías II — La Alianza Nueva y el Rollo de Baruc",
+  "subtitle": "Jeremías 21–38",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha Dios a los \"pastores\" (los gobernantes) de su pueblo en Jeremías 23?",
+      "options": ["Que han dispersado y descuidado a las ovejas de su rebaño", "Que han cobrado impuestos excesivos al pueblo", "Que han abandonado por completo el templo de Jerusalén"],
+      "correct": 0,
+      "hint": "Dios promete: «yo mismo reuniré el resto de mis ovejas de todos los países».",
+      "explanation": "Jr 23,1: «¡ay de los pastores que dispersan y dejan que se pierdan las ovejas de mi rebaño!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Ay de los pastores que dispersan y dejan que se pierdan las ovejas de mi ___!",
+      "options": ["rebaño", "templo", "pueblo"],
+      "answer": "rebaño",
+      "explanation": "Jr 23,1: esta denuncia contra los malos gobernantes abre el capítulo 23."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 23,1 · La denuncia de los malos pastores",
+      "direction": "es-es",
+      "tiles": ["Ay", "de", "los", "pastores", "que", "dispersan", "las", "ovejas", "cuidan", "alimentan"],
+      "answer": "Ay de los pastores que dispersan las ovejas",
+      "explanation": "Jr 23,1: esta denuncia contra los malos gobernantes abre el capítulo 23."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Pastores que dispersan las ovejas", "es": "La denuncia de los malos gobernantes" },
+        { "en": "Vástago legítimo de David", "es": "La esperanza mesiánica en un rey justo" },
+        { "en": "Designios de paz y no de aflicción", "es": "La esperanza ofrecida a los desterrados" },
+        { "en": "Alianza nueva... escrita en los corazones", "es": "La promesa de una relación renovada con Dios" },
+        { "en": "Arrojado al aljibe", "es": "El sufrimiento de Jeremías por ser fiel a su misión" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios que dará a David en Jeremías 23?",
+      "options": ["Un imperio que dominará a todas las naciones", "Un vástago legítimo que reinará con justicia y derecho", "Un templo reconstruido enteramente en oro"],
+      "correct": 1,
+      "hint": "A este rey lo llamarán «El-Señor-nuestra-justicia».",
+      "explanation": "Jr 23,5-6: «daré a David un vástago legítimo: reinará como monarca prudente, con justicia y derecho en la tierra»."
+    },
+    {
+      "type": "gap",
+      "text": "Daré a David un vástago ___: reinará como monarca prudente.",
+      "options": ["legítimo", "guerrero", "extranjero"],
+      "answer": "legítimo",
+      "explanation": "Jr 23,5: este anuncio expresa la esperanza mesiánica en un futuro rey justo de la casa de David."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 23,5 · La esperanza mesiánica",
+      "direction": "es-es",
+      "tiles": ["Daré", "a", "David", "un", "vástago", "legítimo", "guerrero", "extranjero"],
+      "answer": "Daré a David un vástago legítimo",
+      "explanation": "Jr 23,5: este anuncio expresa la esperanza mesiánica en un futuro rey justo de la casa de David."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué designios tiene Dios para su pueblo desterrado, según la carta de Jeremías?",
+      "options": ["Designios de castigo eterno sin posibilidad de retorno", "Designios de total indiferencia ante su suerte", "Designios de paz y no de aflicción, un porvenir y una esperanza"],
+      "correct": 2,
+      "hint": "El texto añade: «me invocaréis e iréis a suplicarme, y yo os escucharé».",
+      "explanation": "Jr 29,11: «sé muy bien lo que pienso hacer con vosotros: designios de paz y no de aflicción, daros un porvenir y una esperanza»."
+    },
+    {
+      "type": "gap",
+      "text": "Sé muy bien lo que pienso hacer con vosotros: designios de paz y no de ___.",
+      "options": ["aflicción", "silencio", "guerra"],
+      "answer": "aflicción",
+      "explanation": "Jr 29,11: esta carta a los desterrados en Babilonia ofrece esperanza en medio del exilio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 29,11 · La esperanza en el destierro",
+      "direction": "es-es",
+      "tiles": ["Designios", "de", "paz", "y", "no", "de", "aflicción", "silencio", "guerra"],
+      "answer": "Designios de paz y no de aflicción",
+      "explanation": "Jr 29,11: esta carta a los desterrados en Babilonia ofrece esperanza en medio del exilio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Vástago legítimo de David", "es": "Jeremías 23,5" },
+        { "en": "Designios de paz", "es": "Jeremías 29,11" },
+        { "en": "Alianza nueva", "es": "Jeremías 31,31" },
+        { "en": "El rollo arrojado al brasero", "es": "Jeremías 36,23" },
+        { "en": "Arrojado al aljibe", "es": "Jeremías 38,6" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios que hará \"en aquellos días\", según Jeremías 31?",
+      "options": ["Una alianza nueva con la casa de Israel y la casa de Judá", "Una nueva ley civil aplicable a todos los pueblos", "Un nuevo templo construido en una ciudad distinta"],
+      "correct": 0,
+      "hint": "El texto aclara que no será «como la alianza que hice con sus padres».",
+      "explanation": "Jr 31,31: «llegan días... en que haré con la casa de Israel y la casa de Judá una alianza nueva»."
+    },
+    {
+      "type": "gap",
+      "text": "Haré con la casa de Israel y la casa de Judá una alianza ___.",
+      "options": ["nueva", "eterna", "secreta"],
+      "answer": "nueva",
+      "explanation": "Jr 31,31: este anuncio de una alianza nueva es uno de los pasajes más citados de todo el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué consiste la novedad de esta alianza, según Jeremías 31?",
+      "options": ["En que ya no exigirá ninguna fidelidad al pueblo", "En que Dios pondrá su ley en el interior del pueblo, escrita en el corazón", "En que sustituirá por completo al pueblo elegido"],
+      "correct": 1,
+      "hint": "El texto añade: «yo seré su Dios y ellos serán mi pueblo».",
+      "explanation": "Jr 31,33: «pondré mi ley en su interior y la escribiré en sus corazones; yo seré su Dios y ellos serán mi pueblo»."
+    },
+    {
+      "type": "gap",
+      "text": "Pondré mi ley en su interior y la escribiré en sus ___.",
+      "options": ["corazones", "manos", "puertas"],
+      "answer": "corazones",
+      "explanation": "Jr 31,33: esta imagen expresa una relación con Dios más íntima e interior que la alianza anterior."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 31,33 · La ley escrita en el corazón",
+      "direction": "es-es",
+      "tiles": ["Pondré", "mi", "ley", "en", "su", "interior", "reino", "templo"],
+      "answer": "Pondré mi ley en su interior",
+      "explanation": "Jr 31,33: esta imagen expresa una relación con Dios más íntima e interior que la alianza anterior."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 31,33 · Escrita en los corazones",
+      "direction": "es-es",
+      "tiles": ["La", "escribiré", "en", "sus", "corazones", "manos", "puertas"],
+      "answer": "La escribiré en sus corazones",
+      "explanation": "Jr 31,33: esta imagen expresa una relación con Dios más íntima e interior que la alianza anterior."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato correspondiente",
+      "pairs": [
+        { "en": "Baruc", "es": "Secretario de Jeremías, escribió sus palabras en un rollo" },
+        { "en": "Joaquim", "es": "Rey que quemó el rollo de las profecías" },
+        { "en": "Ebedmélec", "es": "Eunuco cusita que salvó la vida de Jeremías" },
+        { "en": "Sedecías", "es": "Último rey de Judá antes de la caída de Jerusalén" },
+        { "en": "Jeremías", "es": "Profeta que sufrió persecución por anunciar la palabra de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué encarga Jeremías a su secretario Baruc en el capítulo 36?",
+      "options": ["Que reconstruya con sus propias manos el templo de Jerusalén", "Que ocupe su lugar como profeta ante todo el pueblo", "Que escriba en un rollo todas las palabras que el Señor le ha dictado"],
+      "correct": 2,
+      "hint": "Jeremías estaba preso y no podía ir personalmente al templo.",
+      "explanation": "Jr 36,4: «Jeremías llamó a Baruc, hijo de Nerías, para que escribiese en un rollo, mientras él iba dictando, todas las palabras que el Señor le había comunicado»."
+    },
+    {
+      "type": "gap",
+      "text": "Toma un rollo y escribe en él todo lo que te he ___.",
+      "options": ["dicho", "mostrado", "jurado"],
+      "answer": "dicho",
+      "explanation": "Jr 36,2: este encargo inicial dio origen al rollo que después leería Baruc en el templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reacciona el rey Joaquim al escuchar la lectura del rollo de Jeremías?",
+      "options": ["Corta el rollo en pedazos y lo arroja al brasero", "Ordena copiarlo y distribuirlo por todo el reino", "Se convierte inmediatamente al escucharlo"],
+      "correct": 0,
+      "hint": "Lo hizo «cada vez que Jehudí leía tres o cuatro columnas del rollo».",
+      "explanation": "Jr 36,23: «el rey cortaba la parte ya leída con el cortaplumas del canciller y la arrojaba al brasero, hasta que todo el rollo quedó consumido»."
+    },
+    {
+      "type": "gap",
+      "text": "El rey cortaba la parte ya leída y la arrojaba al ___.",
+      "options": ["brasero", "pozo", "templo"],
+      "answer": "brasero",
+      "explanation": "Jr 36,23: este gesto del rey Joaquim no impidió que la palabra de Dios se volviera a escribir después."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 36,23 · El rollo quemado por el rey",
+      "direction": "es-es",
+      "tiles": ["El", "rey", "cortaba", "la", "parte", "ya", "leída", "guardaba", "copiaba"],
+      "answer": "El rey cortaba la parte ya leída",
+      "explanation": "Jr 36,23: este gesto del rey Joaquim no impidió que la palabra de Dios se volviera a escribir después."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurre a Jeremías cuando lo arrojan al aljibe de Malquías?",
+      "options": ["Consigue escapar nadando por un canal secreto", "Se hunde en el lodo del fondo, pues el aljibe no tenía agua", "Es rescatado de inmediato por sus propios discípulos"],
+      "correct": 1,
+      "hint": "El aljibe se encontraba en el patio de la guardia.",
+      "explanation": "Jr 38,6: «Jeremías se hundió en el lodo del fondo, pues el aljibe no tenía agua»."
+    },
+    {
+      "type": "gap",
+      "text": "Jeremías se hundió en el ___ del fondo, pues el aljibe no tenía agua.",
+      "options": ["lodo", "polvo", "hielo"],
+      "answer": "lodo",
+      "explanation": "Jr 38,6: este episodio muestra el sufrimiento de Jeremías por permanecer fiel a su misión profética."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 38,6 · Jeremías arrojado al aljibe",
+      "direction": "es-es",
+      "tiles": ["Se", "hundió", "en", "el", "lodo", "del", "fondo", "polvo", "hielo"],
+      "answer": "Se hundió en el lodo del fondo",
+      "explanation": "Jr 38,6: este episodio muestra el sufrimiento de Jeremías por permanecer fiel a su misión profética."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién intercede ante el rey para salvar la vida de Jeremías?",
+      "options": ["El sumo sacerdote del templo de Jerusalén", "Un grupo de profetas rivales de Jeremías", "Ebedmélec, un eunuco cusita del palacio real"],
+      "correct": 2,
+      "hint": "Le advirtió al rey que Jeremías «sin duda morirá de hambre» en el aljibe.",
+      "explanation": "Jr 38,9: Ebedmélec dijo al rey: «esos hombres han tratado injustamente al profeta Jeremías al arrojarlo al aljibe»."
+    },
+    {
+      "type": "gap",
+      "text": "Esos hombres han tratado injustamente al profeta Jeremías al arrojarlo al ___.",
+      "options": ["aljibe", "desierto", "exilio"],
+      "answer": "aljibe",
+      "explanation": "Jr 38,9: esta denuncia de Ebedmélec ante el rey llevó al rescate de Jeremías."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 38,9 · La intercesión de Ebedmélec",
+      "direction": "es-es",
+      "tiles": ["Han", "tratado", "injustamente", "al", "profeta", "Jeremías", "bien", "correctamente"],
+      "answer": "Han tratado injustamente al profeta Jeremías",
+      "explanation": "Jr 38,9: esta denuncia de Ebedmélec ante el rey llevó al rescate de Jeremías."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La crítica a los malos pastores", "es": "Recuerda la responsabilidad de quienes gobiernan al pueblo de Dios" },
+        { "en": "La nueva alianza", "es": "Anticipa una relación más íntima entre Dios y su pueblo" },
+        { "en": "La palabra de Dios escrita", "es": "No puede ser destruida, aunque se queme el rollo" },
+        { "en": "El sufrimiento del justo", "es": "No impide que Dios provea una ayuda inesperada" },
+        { "en": "La esperanza en el destierro", "es": "Se sostiene en la promesa de un futuro mejor" }
+      ]
+    }
+  ]
+}

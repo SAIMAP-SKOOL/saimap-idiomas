@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod05",
+  "module": 5,
+  "title": "Jeremías I — La Vocación y las Confesiones del Profeta",
+  "subtitle": "Jeremías 1–20",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice Dios a Jeremías sobre el origen de su vocación profética?",
+      "options": ["Que lo eligió y consagró antes de formarlo en el vientre materno", "Que lo eligió al cumplir treinta años de edad", "Que lo eligió por ser el mejor orador de su generación"],
+      "correct": 0,
+      "hint": "El texto añade: «te constituí profeta de las naciones».",
+      "explanation": "Jr 1,5: «antes de formarte en el vientre, te elegí; antes de que salieras del seno materno, te consagré: te constituí profeta de las naciones»."
+    },
+    {
+      "type": "gap",
+      "text": "Antes de formarte en el vientre, te ___.",
+      "options": ["elegí", "castigué", "olvidé"],
+      "answer": "elegí",
+      "explanation": "Jr 1,5: este versículo sitúa el origen de la vocación de Jeremías incluso antes de su nacimiento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 1,5 · El origen de la vocación de Jeremías",
+      "direction": "es-es",
+      "tiles": ["Antes", "de", "formarte", "en", "el", "vientre", "te", "elegí", "castigué", "olvidé"],
+      "answer": "Antes de formarte en el vientre te elegí",
+      "explanation": "Jr 1,5: este versículo sitúa el origen de la vocación de Jeremías incluso antes de su nacimiento."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Antes de formarte en el vientre te elegí", "es": "El origen divino de la vocación de Jeremías" },
+        { "en": "No sé hablar, que solo soy un niño", "es": "La resistencia inicial del profeta ante su llamada" },
+        { "en": "El barro en manos del alfarero", "es": "La soberanía de Dios sobre los pueblos" },
+        { "en": "Me sedujiste, Señor", "es": "La lucha interior de Jeremías con su propia misión" },
+        { "en": "Cueva de bandidos", "es": "La denuncia de un culto vacío de justicia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué excusa pone Jeremías al recibir su llamada profética?",
+      "options": ["Que prefiere dedicarse al sacerdocio en el templo", "Que no sabe hablar, que solo es un niño", "Que ya existen suficientes profetas en Israel"],
+      "correct": 1,
+      "hint": "Dios le responde: «no digas que eres un niño».",
+      "explanation": "Jr 1,6: «¡ay, Señor, Dios mío! Mira que no sé hablar, que solo soy un niño»."
+    },
+    {
+      "type": "gap",
+      "text": "No digas que eres un niño, pues irás adonde yo te ___.",
+      "options": ["envíe", "tema", "deje"],
+      "answer": "envíe",
+      "explanation": "Jr 1,7: esta respuesta de Dios supera la resistencia inicial de Jeremías ante su vocación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 1,6 · La resistencia inicial del profeta",
+      "direction": "es-es",
+      "tiles": ["No", "sé", "hablar", "que", "solo", "soy", "un", "niño", "sabio", "fuerte"],
+      "answer": "No sé hablar que solo soy un niño",
+      "explanation": "Jr 1,6: esta objeción inicial de Jeremías es superada por la promesa de Dios de estar con él."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo capacita Dios a Jeremías para hablar en su nombre?",
+      "options": ["Enviándole años de estudio con los sacerdotes del templo", "Dándole un libro donde estaban escritas todas sus palabras", "Tocando su boca y poniendo en ella sus palabras"],
+      "correct": 2,
+      "hint": "El Señor «extendió la mano» para hacer este gesto.",
+      "explanation": "Jr 1,9: «el Señor extendió la mano, tocó mi boca y me dijo: voy a poner mis palabras en tu boca»."
+    },
+    {
+      "type": "gap",
+      "text": "Voy a poner mis palabras en tu ___.",
+      "options": ["boca", "mano", "corazón"],
+      "answer": "boca",
+      "explanation": "Jr 1,9: este gesto simbólico capacita a Jeremías para hablar en nombre de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 1,9 · La capacitación del profeta",
+      "direction": "es-es",
+      "tiles": ["Voy", "a", "poner", "mis", "palabras", "en", "tu", "boca", "mano", "corazón"],
+      "answer": "Voy a poner mis palabras en tu boca",
+      "explanation": "Jr 1,9: este gesto simbólico capacita a Jeremías para hablar en nombre de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Antes de formarte en el vientre te elegí", "es": "Jeremías 1,5" },
+        { "en": "Cueva de bandidos", "es": "Jeremías 7,11" },
+        { "en": "El barro en manos del alfarero", "es": "Jeremías 18,6" },
+        { "en": "Me sedujiste, Señor", "es": "Jeremías 20,7" },
+        { "en": "Fuente de agua viva", "es": "Jeremías 2,13" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué verbos describe Dios la misión que confía a Jeremías sobre pueblos y reinos?",
+      "options": ["Arrancar y arrasar, destruir y demoler, reedificar y plantar", "Conquistar y gobernar, juzgar y premiar a los pueblos", "Enseñar y corregir, bendecir y ungir a los reyes"],
+      "correct": 0,
+      "hint": "Estos verbos resumen el doble movimiento de juicio y esperanza en todo el libro.",
+      "explanation": "Jr 1,10: «te doy poder sobre pueblos y reinos para arrancar y arrasar, para destruir y demoler, para reedificar y plantar»."
+    },
+    {
+      "type": "gap",
+      "text": "Para arrancar y arrasar, para destruir y ___.",
+      "options": ["demoler", "vender", "ocultar"],
+      "answer": "demoler",
+      "explanation": "Jr 1,10: estos verbos resumen el doble movimiento de juicio y esperanza que recorrerá todo el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Jeremías el doble pecado de Israel?",
+      "options": ["Con la imagen de un rebaño disperso sin pastor", "Con la de abandonar la fuente de agua viva por aljibes agrietados que no retienen agua", "Con la imagen de un ejército sin armas"],
+      "correct": 1,
+      "hint": "El texto llama a esto «una doble maldad».",
+      "explanation": "Jr 2,13: «me abandonaron a mí, fuente de agua viva, y se cavaron aljibes, aljibes agrietados que no retienen agua»."
+    },
+    {
+      "type": "gap",
+      "text": "Me abandonaron a mí, fuente de agua ___.",
+      "options": ["viva", "fría", "lejana"],
+      "answer": "viva",
+      "explanation": "Jr 2,13: esta imagen describe el doble pecado de Israel: abandonar a Dios y buscar sustitutos que no sacian."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 2,13 · El doble pecado de Israel",
+      "direction": "es-es",
+      "tiles": ["Me", "abandonaron", "a", "mí", "fuente", "de", "agua", "viva", "fría", "lejana"],
+      "answer": "Me abandonaron a mí fuente de agua viva",
+      "explanation": "Jr 2,13: esta imagen describe el doble pecado de Israel: abandonar a Dios y buscar sustitutos que no sacian."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Jeremías", "es": "Sacerdote de Anatot, llamado a profetizar siendo joven" },
+        { "en": "Su ministerio", "es": "Se extendió durante los últimos reyes de Judá, hasta la caída de Jerusalén" },
+        { "en": "El episodio de Pasjur", "es": "Comisario del templo que azotó y encarceló a Jeremías" },
+        { "en": "El \"sermón del templo\"", "es": "Denuncia la falsa seguridad religiosa del pueblo" },
+        { "en": "Las \"confesiones\" de Jeremías", "es": "Pasajes donde el profeta expresa su dolor y lucha personal" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta hace Jeremías sobre el templo de Jerusalén, citada después por Jesús?",
+      "options": ["¿Es este templo demasiado pequeño para todo el pueblo?", "¿Debe reconstruirse este templo con piedras nuevas?", "¿Creéis que es una cueva de bandidos este templo dedicado a mi nombre?"],
+      "correct": 2,
+      "hint": "Jesús repetiría esta misma pregunta al purificar el templo, según los evangelios.",
+      "explanation": "Jr 7,11: «¿creéis que es una cueva de bandidos este templo dedicado a mi nombre? Atención, que yo lo he visto»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Creéis que es una cueva de ___ este templo dedicado a mi nombre?",
+      "options": ["bandidos", "sombras", "silencio"],
+      "answer": "bandidos",
+      "explanation": "Jr 7,11: esta pregunta denuncia un culto externo que no va acompañado de verdadera justicia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 7,11 · La denuncia del culto vacío",
+      "direction": "es-es",
+      "tiles": ["Es", "una", "cueva", "de", "bandidos", "este", "templo", "sombras", "silencio"],
+      "answer": "Es una cueva de bandidos este templo",
+      "explanation": "Jr 7,11: esta pregunta denuncia un culto externo que no va acompañado de verdadera justicia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen explica Dios a Jeremías su poder sobre los pueblos, en la casa del alfarero?",
+      "options": ["Como el barro en manos del alfarero, así está Israel en la mano de Dios", "Como el viento que nadie puede llegar a detener", "Como una siembra que nunca llega a fallar"],
+      "correct": 0,
+      "hint": "Dios añade que, si un pueblo se arrepiente, también él «desistirá del mal que pensaba hacerle».",
+      "explanation": "Jr 18,6: «lo mismo que está el barro en manos del alfarero, así estáis vosotros en mi mano, casa de Israel»."
+    },
+    {
+      "type": "gap",
+      "text": "Lo mismo que está el barro en manos del ___, así estáis vosotros en mi mano.",
+      "options": ["alfarero", "rey", "sacerdote"],
+      "answer": "alfarero",
+      "explanation": "Jr 18,6: esta imagen expresa la soberanía de Dios sobre el destino de los pueblos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 18,6 · El barro en manos del alfarero",
+      "direction": "es-es",
+      "tiles": ["El", "barro", "en", "manos", "del", "alfarero", "rey", "sacerdote"],
+      "answer": "El barro en manos del alfarero",
+      "explanation": "Jr 18,6: esta imagen expresa la soberanía de Dios sobre el destino de los pueblos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabras expresa Jeremías su lucha interior por ser profeta?",
+      "options": ["Que renuncia definitivamente a hablar en nombre de Dios", "Que Dios lo sedujo y fue más fuerte que él", "Que pide ser sustituido cuanto antes por otro profeta"],
+      "correct": 1,
+      "hint": "El texto añade que «ha sido a diario el hazmerreír» de la gente.",
+      "explanation": "Jr 20,7: «me sedujiste, Señor, y me dejé seducir; has sido más fuerte que yo y me has podido»."
+    },
+    {
+      "type": "gap",
+      "text": "Me sedujiste, Señor, y me dejé ___.",
+      "options": ["seducir", "vencer", "dominar"],
+      "answer": "seducir",
+      "explanation": "Jr 20,7: esta confesión expresa la lucha interior de Jeremías con el peso de su propia misión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 20,7 · La lucha interior del profeta",
+      "direction": "es-es",
+      "tiles": ["Me", "sedujiste", "Señor", "y", "me", "dejé", "seducir", "vencer", "dominar"],
+      "answer": "Me sedujiste Señor y me dejé seducir",
+      "explanation": "Jr 20,7: esta confesión expresa la lucha interior de Jeremías con el peso de su propia misión."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurre a Jeremías cuando intenta callar y no hablar más en nombre de Dios?",
+      "options": ["Encuentra paz y descanso de inmediato", "Sus enemigos dejan de perseguirlo por completo", "Siente como un fuego ardiente encerrado en sus huesos que no puede sofocar"],
+      "correct": 2,
+      "hint": "El texto dice que «intentaba sofocarlo, y no podía».",
+      "explanation": "Jr 20,9: «había en mis entrañas como fuego, algo ardiente encerrado en mis huesos. Yo intentaba sofocarlo, y no podía»."
+    },
+    {
+      "type": "gap",
+      "text": "Había en mis entrañas como ___, algo ardiente encerrado en mis huesos.",
+      "options": ["fuego", "hielo", "viento"],
+      "answer": "fuego",
+      "explanation": "Jr 20,9: esta imagen expresa la fuerza incontenible de la vocación profética de Jeremías."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jr 20,9 · El fuego incontenible de la vocación",
+      "direction": "es-es",
+      "tiles": ["Algo", "ardiente", "encerrado", "en", "mis", "huesos", "hielo", "viento"],
+      "answer": "Algo ardiente encerrado en mis huesos",
+      "explanation": "Jr 20,9: esta imagen expresa la fuerza incontenible de la vocación profética de Jeremías."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La vocación profética", "es": "Puede ser recibida desde antes del propio nacimiento" },
+        { "en": "La debilidad humana", "es": "No es obstáculo cuando Dios capacita para la misión" },
+        { "en": "El poder de Dios sobre la historia", "es": "Se compara con el control del alfarero sobre el barro" },
+        { "en": "La falsa seguridad religiosa", "es": "No sustituye la conversión verdadera del corazón" },
+        { "en": "El sufrimiento del profeta", "es": "Forma parte del precio de ser fiel a la palabra de Dios" }
+      ]
+    }
+  ]
+}

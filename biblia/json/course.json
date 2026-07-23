@@ -73,7 +73,23 @@
         { "n": 9, "title": "Eclesiástico (Sirácida) — Sabiduría para la Vida Cotidiana", "es": "Eclesiástico · Sabiduría Cotidiana", "file": "sap/mod09.json" }
       ]
     },
-    { "code": "PRO", "name": "Libros Proféticos",              "color": "#7C4C9E", "locked": true, "moduleCount": 18 },
+    {
+      "code": "PRO",
+      "name": "Libros Proféticos",
+      "sub": "9 módulos · Isaías, Jeremías, Lamentaciones y Baruc — en curso",
+      "color": "#7C4C9E",
+      "modules": [
+        { "n": 1, "title": "Isaías I — La Visión y el Anuncio del Mesías",         "es": "Isaías I · La Visión y el Mesías (Is 1–12)",       "file": "pro/mod01.json" },
+        { "n": 2, "title": "Isaías II — Oráculos contra las Naciones y el Rey Ezequías", "es": "Isaías II · Oráculos y Ezequías (Is 13–39)", "file": "pro/mod02.json" },
+        { "n": 3, "title": "Isaías III — Consolación y los Cantos del Siervo",    "es": "Isaías III · Consolación (Is 40–55)",              "file": "pro/mod03.json" },
+        { "n": 4, "title": "Isaías IV — El Nuevo Cielo y la Nueva Tierra",        "es": "Isaías IV · Nuevo Cielo (Is 56–66)",               "file": "pro/mod04.json" },
+        { "n": 5, "title": "Jeremías I — La Vocación y las Confesiones del Profeta", "es": "Jeremías I · Vocación y Confesiones (Jr 1–20)", "file": "pro/mod05.json" },
+        { "n": 6, "title": "Jeremías II — La Alianza Nueva y el Rollo de Baruc",  "es": "Jeremías II · Alianza Nueva (Jr 21–38)",           "file": "pro/mod06.json" },
+        { "n": 7, "title": "Jeremías III — La Caída de Jerusalén y el Epílogo",  "es": "Jeremías III · Caída de Jerusalén (Jr 39–52)",     "file": "pro/mod07.json" },
+        { "n": 8, "title": "Lamentaciones — El Duelo por Jerusalén y la Esperanza Renovada", "es": "Lamentaciones · Duelo y Esperanza", "file": "pro/mod08.json" },
+        { "n": 9, "title": "Baruc — Confesión, Sabiduría y Esperanza en el Destierro", "es": "Baruc · Confesión y Esperanza",         "file": "pro/mod09.json" }
+      ]
+    },
     { "code": "EVA", "name": "Evangelios",                     "color": "#2F8A87", "locked": true, "moduleCount": 10 },
     { "code": "HCH", "name": "Hechos de los Apóstoles",        "color": "#3B6FA6", "locked": true, "moduleCount": 2 },
     { "code": "PAB", "name": "Corpus Paulino",                 "color": "#4F8B6B", "locked": true, "moduleCount": 14 },

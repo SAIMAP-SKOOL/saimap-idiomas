@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod09",
+  "module": 9,
+  "title": "Baruc — Confesión, Sabiduría y Esperanza en el Destierro",
+  "subtitle": "Baruc 1–6",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo comienza la oración de confesión que Baruc envía a Jerusalén?",
+      "options": ["Confesando que el Señor es justo y que ellos sienten la vergüenza de su culpa", "Exigiendo explicaciones a Dios por el destierro sufrido", "Negando cualquier responsabilidad en lo ocurrido"],
+      "correct": 0,
+      "hint": "El texto añade: «hemos pecado contra el Señor desoyendo sus palabras».",
+      "explanation": "Bar 1,15: «confesamos que el Señor nuestro Dios es justo. Nosotros, en cambio, sentimos en este día la vergüenza de la culpa»."
+    },
+    {
+      "type": "gap",
+      "text": "Confesamos que el Señor nuestro Dios es ___.",
+      "options": ["justo", "lejano", "silencioso"],
+      "answer": "justo",
+      "explanation": "Bar 1,15: esta confesión abre la larga oración de reconocimiento del pecado que ocupa los primeros capítulos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Bar 1,15 · El reconocimiento del pecado",
+      "direction": "es-es",
+      "tiles": ["Confesamos", "que", "el", "Señor", "nuestro", "Dios", "es", "justo", "lejano", "silencioso"],
+      "answer": "Confesamos que el Señor nuestro Dios es justo",
+      "explanation": "Bar 1,15: esta confesión abre la larga oración de reconocimiento del pecado que ocupa los primeros capítulos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Confesamos que el Señor es justo", "es": "El reconocimiento del pecado del pueblo" },
+        { "en": "Alianza eterna... mi pueblo", "es": "La promesa de una relación restaurada con Dios" },
+        { "en": "Abandonaste la fuente de la sabiduría", "es": "La causa del sufrimiento de Israel" },
+        { "en": "Apareció en el mundo y vivió entre los hombres", "es": "La sabiduría de Dios manifestada entre los hombres" },
+        { "en": "No son dioses, no les tengáis miedo", "es": "La crítica a los ídolos sin vida" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa incluye Dios en la alianza eterna anunciada en Baruc 2?",
+      "options": ["Que nunca más volverá a hablar a su pueblo", "Que él será su Dios y ellos serán su pueblo", "Que sustituirá definitivamente a Israel por otra nación"],
+      "correct": 1,
+      "hint": "Antes de esto, Dios promete darles «un corazón bien dispuesto y unos oídos atentos».",
+      "explanation": "Bar 2,35: «haré con ellos una alianza eterna: yo seré su Dios y ellos serán mi pueblo»."
+    },
+    {
+      "type": "gap",
+      "text": "Haré con ellos una alianza eterna: yo seré su Dios y ellos serán mi ___.",
+      "options": ["pueblo", "templo", "ejército"],
+      "answer": "pueblo",
+      "explanation": "Bar 2,35: esta promesa de restauración renueva la esperanza del pueblo desterrado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha el poema de la sabiduría a Israel en Baruc 3?",
+      "options": ["Haber construido demasiados templos en el reino", "Haber comerciado en exceso con naciones extranjeras", "Haber abandonado la fuente de la sabiduría"],
+      "correct": 2,
+      "hint": "El texto añade: «si hubieras seguido el camino de Dios, habitarías en paz para siempre».",
+      "explanation": "Bar 3,12: «¡abandonaste la fuente de la sabiduría!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Abandonaste la fuente de la ___!",
+      "options": ["sabiduría", "riqueza", "juventud"],
+      "answer": "sabiduría",
+      "explanation": "Bar 3,12: este reproche explica, según el libro, el origen del sufrimiento de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Bar 3,12 · La causa del sufrimiento",
+      "direction": "es-es",
+      "tiles": ["Abandonaste", "la", "fuente", "de", "la", "sabiduría", "riqueza", "juventud"],
+      "answer": "Abandonaste la fuente de la sabiduría",
+      "explanation": "Bar 3,12: este reproche explica, según el libro, el origen del sufrimiento de Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Confesamos que el Señor es justo", "es": "Baruc 1,15" },
+        { "en": "Abandonaste la fuente de la sabiduría", "es": "Baruc 3,12" },
+        { "en": "Apareció en el mundo", "es": "Baruc 3,38" },
+        { "en": "Ley de validez eterna", "es": "Baruc 4,1" },
+        { "en": "Vístete las galas de la gloria", "es": "Baruc 5,1" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invita a aprender el libro de Baruc, además de la prudencia y la inteligencia?",
+      "options": ["Dónde está la paz y la larga vida", "Dónde se esconden los tesoros de los reyes", "Dónde se libran las grandes batallas del futuro"],
+      "correct": 0,
+      "hint": "El texto lo llama «la luz de los ojos».",
+      "explanation": "Bar 3,14: «aprende dónde está la prudencia, dónde el valor y la inteligencia, dónde una larga vida... y la paz»."
+    },
+    {
+      "type": "gap",
+      "text": "Si hubieras seguido el camino de Dios, habitarías en ___ para siempre.",
+      "options": ["paz", "gloria", "silencio"],
+      "answer": "paz",
+      "explanation": "Bar 3,13: este versículo conecta la fidelidad al camino de Dios con la paz duradera."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Bar 3,13 · El camino hacia la paz",
+      "direction": "es-es",
+      "tiles": ["Habitarías", "en", "paz", "para", "siempre", "gloria", "silencio"],
+      "answer": "Habitarías en paz para siempre",
+      "explanation": "Bar 3,13: este versículo conecta la fidelidad al camino de Dios con la paz duradera."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Baruc sobre la sabiduría de Dios al final de este gran poema del capítulo 3?",
+      "options": ["Que permanece siempre oculta e inaccesible al ser humano", "Que apareció en el mundo y vivió en medio de los hombres", "Que solo se revela a los ángeles del cielo"],
+      "correct": 1,
+      "hint": "Antes de esto, el texto dice que Dios «se lo enseñó a su hijo, Jacob».",
+      "explanation": "Bar 3,37-38: «rastreó el camino de la inteligencia y se lo enseñó a su hijo, Jacob... después apareció en el mundo y vivió en medio de los hombres»."
+    },
+    {
+      "type": "gap",
+      "text": "Este es nuestro Dios, y no hay quien se le pueda ___.",
+      "options": ["comparar", "vencer", "nombrar"],
+      "answer": "comparar",
+      "explanation": "Bar 3,36: esta afirmación introduce el clímax del poema sobre la sabiduría de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Bar 3,36 · La incomparable grandeza de Dios",
+      "direction": "es-es",
+      "tiles": ["No", "hay", "quien", "se", "le", "pueda", "comparar", "vencer", "nombrar"],
+      "answer": "No hay quien se le pueda comparar",
+      "explanation": "Bar 3,36: esta afirmación introduce el clímax del poema sobre la sabiduría de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Baruc", "es": "Secretario y compañero del profeta Jeremías" },
+        { "en": "El libro", "es": "Escrito, según el relato, desde el destierro en Babilonia" },
+        { "en": "Su lugar en el canon", "es": "Libro deuterocanónico, unido tradicionalmente a Jeremías" },
+        { "en": "El capítulo 6", "es": "También llamado \"Carta de Jeremías\", contra la idolatría" },
+        { "en": "El poema de la sabiduría", "es": "Recuerda a textos semejantes de Job y Proverbios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Baruc 4 el libro de los mandatos de Dios?",
+      "options": ["Como un texto reservado únicamente a los sacerdotes", "Como una carga pesada que conviene evitar", "Como la ley de validez eterna: quien la guarda, vive"],
+      "correct": 2,
+      "hint": "El texto añade: «los que la abandonen morirán».",
+      "explanation": "Bar 4,1: «es el libro de los mandatos de Dios, la ley de validez eterna: los que la guarden vivirán»."
+    },
+    {
+      "type": "gap",
+      "text": "Es el libro de los mandatos de Dios, la ley de validez ___.",
+      "options": ["eterna", "antigua", "secreta"],
+      "answer": "eterna",
+      "explanation": "Bar 4,1: esta descripción presenta la ley de Dios como camino de vida verdadera."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Bar 4,1 · La ley de validez eterna",
+      "direction": "es-es",
+      "tiles": ["Es", "el", "libro", "de", "los", "mandatos", "de", "Dios", "reyes", "sabios"],
+      "answer": "Es el libro de los mandatos de Dios",
+      "explanation": "Bar 4,1: esta descripción presenta la ley de Dios como camino de vida verdadera."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué invita Baruc a Jacob (Israel) en el capítulo 4?",
+      "options": ["A volverse a la ley de Dios y caminar al resplandor de su luz", "A tomar las armas contra todos sus enemigos", "A abandonar definitivamente su propio nombre"],
+      "correct": 0,
+      "hint": "El texto añade: «no entregues a otros tu gloria».",
+      "explanation": "Bar 4,2: «vuélvete, Jacob, a recibirla, camina al resplandor de su luz»."
+    },
+    {
+      "type": "gap",
+      "text": "Vuélvete, Jacob, a recibirla, camina al ___ de su luz.",
+      "options": ["resplandor", "eco", "ritmo"],
+      "answer": "resplandor",
+      "explanation": "Bar 4,2: esta invitación anima a Israel a volver a la ley de Dios como fuente de vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Bar 4,2 · El llamado a volver a la ley",
+      "direction": "es-es",
+      "tiles": ["Camina", "al", "resplandor", "de", "su", "luz", "eco", "ritmo"],
+      "answer": "Camina al resplandor de su luz",
+      "explanation": "Bar 4,2: esta invitación anima a Israel a volver a la ley de Dios como fuente de vida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Baruc a Jerusalén que haga con su \"vestido de luto\", en el capítulo 5?",
+      "options": ["Que lo conserve como recuerdo permanente de la tragedia", "Que se lo despoje y se vista de la gloria que Dios le concede", "Que lo entregue como ofrenda especial en el templo"],
+      "correct": 1,
+      "hint": "El texto añade: «ponte en la cabeza la diadema de la gloria del Eterno».",
+      "explanation": "Bar 5,1: «Jerusalén, despójate del vestido de luto y aflicción que llevas, y vístete las galas perpetuas de la gloria que Dios te concede»."
+    },
+    {
+      "type": "gap",
+      "text": "Jerusalén, despójate del vestido de luto... y vístete las galas perpetuas de la ___.",
+      "options": ["gloria", "seda", "plata"],
+      "answer": "gloria",
+      "explanation": "Bar 5,1: esta imagen anuncia la restauración gozosa de Jerusalén tras el destierro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Bar 5,1 · La restauración de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Vístete", "las", "galas", "perpetuas", "de", "la", "gloria", "seda", "plata"],
+      "answer": "Vístete las galas perpetuas de la gloria",
+      "explanation": "Bar 5,1: esta imagen anuncia la restauración gozosa de Jerusalén tras el destierro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud recomienda la Carta de Jeremías (Baruc 6) frente a los ídolos de Babilonia?",
+      "options": ["Adorarlos por respeto a la cultura y las costumbres locales", "Estudiarlos con detenimiento y curiosidad académica", "No temerlos, reconociendo que solo el Señor merece ser adorado"],
+      "correct": 2,
+      "hint": "El texto explica que estos ídolos «son pura apariencia, incapaces de hablar».",
+      "explanation": "Bar 6,5-6: «decid en vuestro interior: solo tú, Señor, mereces ser adorado. Mi ángel os acompañará y velará por vosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "Solo tú, Señor, mereces ser ___.",
+      "options": ["adorado", "temido", "obedecido"],
+      "answer": "adorado",
+      "explanation": "Bar 6,5: esta afirmación central de la Carta de Jeremías invita a no temer a los ídolos sin vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Bar 6,5 · Solo Dios merece ser adorado",
+      "direction": "es-es",
+      "tiles": ["Solo", "tú", "Señor", "mereces", "ser", "adorado", "temido", "obedecido"],
+      "answer": "Solo tú Señor mereces ser adorado",
+      "explanation": "Bar 6,5: esta afirmación central de la Carta de Jeremías invita a no temer a los ídolos sin vida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La confesión del pecado", "es": "Es el primer paso para la reconciliación con Dios" },
+        { "en": "La sabiduría abandonada", "es": "Explica, según el libro, el origen del sufrimiento" },
+        { "en": "La promesa de restauración", "es": "Renueva la esperanza del pueblo desterrado" },
+        { "en": "La crítica a los ídolos", "es": "Invita a no temer lo que no tiene vida ni poder real" },
+        { "en": "La ley de Dios", "es": "Se presenta como camino de vida verdadera" }
+      ]
+    }
+  ]
+}

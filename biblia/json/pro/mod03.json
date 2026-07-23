@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod03",
+  "module": 3,
+  "title": "Isaías III — Consolación y los Cantos del Siervo",
+  "subtitle": "Isaías 40–55",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabra se abre la segunda gran parte del libro de Isaías, dirigida al pueblo exiliado?",
+      "options": ["«Consolad, consolad a mi pueblo»", "«Juzgad, juzgad a mi pueblo»", "«Esperad, esperad a mi pueblo»"],
+      "correct": 0,
+      "hint": "El texto añade que «se ha cumplido su servicio y está pagado su crimen».",
+      "explanation": "Is 40,1: «consolad, consolad a mi pueblo —dice vuestro Dios—»."
+    },
+    {
+      "type": "gap",
+      "text": "«Consolad, consolad a mi ___», dice vuestro Dios.",
+      "options": ["pueblo", "siervo", "rey"],
+      "answer": "pueblo",
+      "explanation": "Is 40,1: este versículo abre la gran sección de consolación dirigida al pueblo desterrado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 40,1 · El anuncio de la consolación",
+      "direction": "es-es",
+      "tiles": ["Consolad", "consolad", "a", "mi", "pueblo", "siervo", "rey"],
+      "answer": "Consolad consolad a mi pueblo",
+      "explanation": "Is 40,1: este versículo abre la gran sección de consolación dirigida al pueblo desterrado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Consolad, consolad a mi pueblo", "es": "El anuncio de la consolación tras el destierro" },
+        { "en": "Preparadle un camino al Señor", "es": "La voz que anuncia la llegada de Dios" },
+        { "en": "Echan alas como las águilas", "es": "La renovación de fuerzas de quien confía en Dios" },
+        { "en": "Luz de las naciones", "es": "La misión universal del siervo del Señor" },
+        { "en": "Una madre olvidar al niño que amamanta", "es": "La ternura inquebrantable de Dios hacia su pueblo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia la voz que grita \"en el desierto\" en Isaías 40?",
+      "options": ["Que se acerca un ejército enemigo poderoso", "Que hay que preparar un camino al Señor", "Que el desierto florecerá de inmediato sin razón"],
+      "correct": 1,
+      "hint": "El texto añade: «que los valles se levanten, que montes y colinas se abajen».",
+      "explanation": "Is 40,3: «una voz grita: en el desierto preparadle un camino al Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "En el desierto preparadle un ___ al Señor.",
+      "options": ["camino", "templo", "altar"],
+      "answer": "camino",
+      "explanation": "Is 40,3: este anuncio prepara la revelación de la gloria de Dios ante todo el pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 40,3 · La voz que anuncia la llegada de Dios",
+      "direction": "es-es",
+      "tiles": ["En", "el", "desierto", "preparadle", "un", "camino", "al", "Señor", "templo", "altar"],
+      "answer": "En el desierto preparadle un camino al Señor",
+      "explanation": "Is 40,3: este anuncio prepara la revelación de la gloria de Dios ante todo el pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Isaías a quienes esperan en el Señor?",
+      "options": ["Que nunca más sentirán ninguna dificultad", "Que recibirán riquezas abundantes de inmediato", "Que renovarán sus fuerzas y echarán alas como las águilas"],
+      "correct": 2,
+      "hint": "El texto contrasta esto con los jóvenes, que «se cansan y se fatigan».",
+      "explanation": "Is 40,31: «los que esperan en el Señor renuevan sus fuerzas, echan alas como las águilas, corren y no se fatigan»."
+    },
+    {
+      "type": "gap",
+      "text": "Los que esperan en el Señor... echan alas como las ___.",
+      "options": ["águilas", "palomas", "golondrinas"],
+      "answer": "águilas",
+      "explanation": "Is 40,31: esta imagen expresa la renovación de fuerzas que da la confianza en Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 40,31 · La renovación de fuerzas",
+      "direction": "es-es",
+      "tiles": ["Echan", "alas", "como", "las", "águilas", "palomas", "golondrinas"],
+      "answer": "Echan alas como las águilas",
+      "explanation": "Is 40,31: esta imagen expresa la renovación de fuerzas que da la confianza en Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Consolad, consolad a mi pueblo", "es": "Isaías 40,1" },
+        { "en": "Echan alas como las águilas", "es": "Isaías 40,31" },
+        { "en": "Luz de las naciones", "es": "Isaías 49,6" },
+        { "en": "Sus cicatrices nos curaron", "es": "Isaías 53,5" },
+        { "en": "Oíd, sedientos todos", "es": "Isaías 55,1" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Para qué es constituido el siervo del Señor en Isaías 49?",
+      "options": ["Para ser luz de las naciones, hasta el confín de la tierra", "Para gobernar únicamente sobre el pueblo elegido", "Para juzgar solo a los enemigos de Israel"],
+      "correct": 0,
+      "hint": "El texto añade que su misión va más allá de «restablecer las tribus de Jacob».",
+      "explanation": "Is 49,6: «te hago luz de las naciones, para que mi salvación alcance hasta el confín de la tierra»."
+    },
+    {
+      "type": "gap",
+      "text": "Te hago luz de las ___, para que mi salvación alcance hasta el confín de la tierra.",
+      "options": ["naciones", "ciudades", "estrellas"],
+      "answer": "naciones",
+      "explanation": "Is 49,6: esta misión universal del siervo amplía el alcance de la salvación más allá de un solo pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen consuela Dios a Sión, que se sentía abandonada?",
+      "options": ["Con la imagen de un rey que protege su reino", "Con la imagen de una madre que no puede olvidar al hijo que amamanta", "Con la imagen de un pastor lejano e inaccesible"],
+      "correct": 1,
+      "hint": "Sión había dicho: «me ha abandonado el Señor, mi dueño me ha olvidado».",
+      "explanation": "Is 49,15: «¿puede una madre olvidar al niño que amamanta, no tener compasión del hijo de sus entrañas?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Puede una madre olvidar al niño que ___?",
+      "options": ["amamanta", "educa", "corrige"],
+      "answer": "amamanta",
+      "explanation": "Is 49,15: esta imagen materna expresa la ternura inquebrantable de Dios hacia su pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 49,15 · La ternura inquebrantable de Dios",
+      "direction": "es-es",
+      "tiles": ["Puede", "una", "madre", "olvidar", "al", "niño", "que", "amamanta", "educa", "corrige"],
+      "answer": "Puede una madre olvidar al niño que amamanta",
+      "explanation": "Is 49,15: esta imagen materna expresa la ternura inquebrantable de Dios hacia su pueblo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Los capítulos 40–55", "es": "Dirigidos al pueblo desterrado en Babilonia, anunciando su liberación" },
+        { "en": "Los \"cantos del Siervo\"", "es": "Cuatro poemas sobre una misteriosa figura que sufre por los demás" },
+        { "en": "El cuarto canto (Isaías 53)", "es": "Leído por la tradición cristiana en relación con la pasión de Cristo" },
+        { "en": "Su tono general", "es": "Pasa del consuelo a la esperanza y la invitación al banquete" },
+        { "en": "Su estilo literario", "es": "Poesía profética de gran belleza e intensidad emocional" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Según el cuarto canto del Siervo, ¿qué efecto tienen sus sufrimientos sobre el pueblo?",
+      "options": ["Ninguno, pues sufre solo por sus propios pecados", "Sirven de ejemplo moral, pero no salvan a nadie", "Sus cicatrices curan al pueblo, traspasado por las rebeliones de todos"],
+      "correct": 2,
+      "hint": "El texto añade: «nuestro castigo saludable cayó sobre él».",
+      "explanation": "Is 53,5: «él fue traspasado por nuestras rebeliones, triturado por nuestros crímenes... sus cicatrices nos curaron»."
+    },
+    {
+      "type": "gap",
+      "text": "Sus ___ nos curaron.",
+      "options": ["cicatrices", "palabras", "manos"],
+      "answer": "cicatrices",
+      "explanation": "Is 53,5: este versículo central del cuarto canto del Siervo ha sido leído por la tradición cristiana en relación con la pasión de Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 53,4 · El sufrimiento que sana",
+      "direction": "es-es",
+      "tiles": ["Nuestro", "castigo", "saludable", "cayó", "sobre", "él", "premio", "perdón"],
+      "answer": "Nuestro castigo saludable cayó sobre él",
+      "explanation": "Is 53,4-5: este pasaje describe cómo el sufrimiento del siervo trae sanación al pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace el Señor con los crímenes del pueblo, según Isaías 53?",
+      "options": ["Los carga sobre su siervo, que los lleva sobre sí", "Los ignora por completo hasta el día del juicio", "Los reparte entre todos los habitantes por igual"],
+      "correct": 0,
+      "hint": "El texto añade: «todos errábamos como ovejas, cada uno siguiendo su camino».",
+      "explanation": "Is 53,6: «el Señor cargó sobre él todos nuestros crímenes»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor cargó sobre él todos nuestros ___.",
+      "options": ["crímenes", "tesoros", "años"],
+      "answer": "crímenes",
+      "explanation": "Is 53,6: este versículo describe cómo el siervo carga con la culpa de todo el pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 53,6 · El siervo carga con la culpa del pueblo",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "cargó", "sobre", "él", "todos", "nuestros", "crímenes", "tesoros", "años"],
+      "answer": "El Señor cargó sobre él todos nuestros crímenes",
+      "explanation": "Is 53,6: este versículo describe cómo el siervo carga con la culpa de todo el pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Isaías 53 la actitud del siervo ante el maltrato que recibe?",
+      "options": ["Se defiende con dureza ante sus acusadores", "Enmudece y no abre la boca, como cordero llevado al matadero", "Huye lejos de la ciudad para salvar su vida"],
+      "correct": 1,
+      "hint": "El texto añade: «como oveja ante el esquilador».",
+      "explanation": "Is 53,7: «maltratado, voluntariamente se humillaba y no abría la boca: como cordero llevado al matadero»."
+    },
+    {
+      "type": "gap",
+      "text": "Como cordero llevado al ___, enmudecía y no abría la boca.",
+      "options": ["matadero", "templo", "desierto"],
+      "answer": "matadero",
+      "explanation": "Is 53,7: esta imagen de mansedumbre ante el sufrimiento es central en el cuarto canto del Siervo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 53,7 · La mansedumbre del siervo",
+      "direction": "es-es",
+      "tiles": ["Como", "cordero", "llevado", "al", "matadero", "templo", "desierto"],
+      "answer": "Como cordero llevado al matadero",
+      "explanation": "Is 53,7: esta imagen de mansedumbre ante el sufrimiento es central en el cuarto canto del Siervo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién invita Isaías 55 a \"acudir por agua\"?",
+      "options": ["Solo a los sacerdotes del templo", "Únicamente a los ricos que pueden pagarla", "A todos los sedientos, incluso a los que no tienen dinero"],
+      "correct": 2,
+      "hint": "El texto añade: «comprad trigo y comed... sin dinero y de balde».",
+      "explanation": "Is 55,1: «oíd, sedientos todos, acudid por agua; venid, también los que no tenéis dinero»."
+    },
+    {
+      "type": "gap",
+      "text": "Oíd, sedientos todos, acudid por ___.",
+      "options": ["agua", "pan", "oro"],
+      "answer": "agua",
+      "explanation": "Is 55,1: esta invitación gratuita y universal abre el gran cierre poético de esta sección del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Is 55,1 · La invitación gratuita al banquete",
+      "direction": "es-es",
+      "tiles": ["Oíd", "sedientos", "todos", "acudid", "por", "agua", "pan", "oro"],
+      "answer": "Oíd sedientos todos acudid por agua",
+      "explanation": "Is 55,1: esta invitación gratuita y universal abre el gran cierre poético de esta sección del libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La consolación divina", "es": "Responde a un pueblo que se sentía castigado y olvidado" },
+        { "en": "La fortaleza que da la esperanza", "es": "Permite continuar el camino sin desfallecer" },
+        { "en": "El sufrimiento del siervo", "es": "Se ofrece por el bien de los demás, no por culpa propia" },
+        { "en": "La invitación al banquete", "es": "Es gratuita y abierta a todos, incluso a quien no tiene nada" },
+        { "en": "La misión universal", "es": "Extiende la salvación más allá de un solo pueblo" }
+      ]
+    }
+  ]
+}
