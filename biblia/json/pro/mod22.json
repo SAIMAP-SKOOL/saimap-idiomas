@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod22",
+  "module": 22,
+  "title": "Nahúm — La Caída de Nínive y la Justicia de Dios",
+  "subtitle": "Nahúm 1–3",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Nahúm a Dios al comienzo del libro?",
+      "options": ["Como un Dios celoso y vengador, experto en furor contra sus enemigos", "Como un Dios indiferente ante la injusticia del mundo", "Como un Dios que solo actúa a través de intermediarios"],
+      "correct": 0,
+      "hint": "El texto añade que «camina sobre la tormenta y la tempestad».",
+      "explanation": "Nah 1,2: «Dios celoso y vengador, el Señor; el Señor es vengador y experto en furor»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios celoso y ___, el Señor.",
+      "options": ["vengador", "silencioso", "lejano"],
+      "answer": "vengador",
+      "explanation": "Nah 1,2: este versículo inicial presenta la justicia inflexible de Dios contra el mal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nah 1,2 · La justicia inflexible de Dios",
+      "direction": "es-es",
+      "tiles": ["Dios", "celoso", "y", "vengador", "el", "Señor", "silencioso", "lejano"],
+      "answer": "Dios celoso y vengador el Señor",
+      "explanation": "Nah 1,2: este versículo inicial presenta la justicia inflexible de Dios contra el mal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Dios celoso y vengador", "es": "La justicia inflexible de Dios contra el mal" },
+        { "en": "El Señor es buen refugio", "es": "La protección de Dios para quien confía en él" },
+        { "en": "Los pies del mensajero que proclama la paz", "es": "El anuncio gozoso del fin de la opresión" },
+        { "en": "Ay de la ciudad sanguinaria", "es": "La denuncia de la violencia de Nínive" },
+        { "en": "No hay remedio para tu herida", "es": "El juicio final e irreversible contra el imperio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Nahúm sobre la justicia de Dios, junto con su paciencia?",
+      "options": ["Que olvida rápidamente las culpas cometidas contra él", "Que es paciente y fuerte, pero nada deja sin castigo", "Que castiga de inmediato, sin dar ninguna oportunidad"],
+      "correct": 1,
+      "hint": "El texto añade que «se marchitan el Basán y el Carmelo» ante su cólera.",
+      "explanation": "Nah 1,3: «el Señor es paciente y fuerte, nada deja sin castigo el Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor es paciente y fuerte, nada deja sin ___ el Señor.",
+      "options": ["castigo", "rastro", "dueño"],
+      "answer": "castigo",
+      "explanation": "Nah 1,3: este versículo combina la paciencia de Dios con la certeza de su justicia final."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nah 1,3 · La paciencia y la justicia de Dios",
+      "direction": "es-es",
+      "tiles": ["Nada", "deja", "sin", "castigo", "el", "Señor", "rastro", "dueño"],
+      "answer": "Nada deja sin castigo el Señor",
+      "explanation": "Nah 1,3: este versículo combina la paciencia de Dios con la certeza de su justicia final."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete el Señor a quienes se cobijan en él \"el día de la desgracia\"?",
+      "options": ["Que también ellos sufrirán, aunque en menor medida", "Que deberán esperar mucho tiempo antes de ser escuchados", "Que él mismo es un buen refugio, y los reconoce"],
+      "correct": 2,
+      "hint": "Este versículo contrasta con el resto del libro, centrado en el juicio contra Nínive.",
+      "explanation": "Nah 1,7: «el Señor es buen refugio el día de la desgracia; reconoce a los que se cobijan en él»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor es buen ___ el día de la desgracia.",
+      "options": ["refugio", "juez", "enemigo"],
+      "answer": "refugio",
+      "explanation": "Nah 1,7: este versículo ofrece un contraste de esperanza en medio del oráculo de juicio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nah 1,7 · El refugio de Dios",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "es", "buen", "refugio", "juez", "enemigo"],
+      "answer": "El Señor es buen refugio",
+      "explanation": "Nah 1,7: este versículo ofrece un contraste de esperanza en medio del oráculo de juicio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Dios celoso y vengador", "es": "Nahúm 1,2" },
+        { "en": "El Señor es buen refugio", "es": "Nahúm 1,7" },
+        { "en": "Los pies del mensajero", "es": "Nahúm 2,1" },
+        { "en": "Ay de la ciudad sanguinaria", "es": "Nahúm 3,1" },
+        { "en": "No hay remedio para tu herida", "es": "Nahúm 3,19" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios contra Nínive y su linaje, en el capítulo 1?",
+      "options": ["Que no se perpetuará su linaje, y arrancará los ídolos de su templo", "Que su linaje se multiplicará sin ningún límite", "Que solo perderá su templo, pero conservará su poder"],
+      "correct": 0,
+      "hint": "El texto añade: «¡preparo tu tumba, miserable!».",
+      "explanation": "Nah 1,14: «no se perpetuará tu linaje... del templo de tu dios arrancaré ídolos e imágenes»."
+    },
+    {
+      "type": "gap",
+      "text": "No se perpetuará tu ___.",
+      "options": ["linaje", "templo", "ejército"],
+      "answer": "linaje",
+      "explanation": "Nah 1,14: este anuncio pone fin definitivo a la dinastía y al culto idolátrico de Nínive."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nah 1,14 · El fin del linaje de Nínive",
+      "direction": "es-es",
+      "tiles": ["No", "se", "perpetuará", "tu", "linaje", "templo", "ejército"],
+      "answer": "No se perpetuará tu linaje",
+      "explanation": "Nah 1,14: este anuncio pone fin definitivo a la dinastía y al culto idolátrico de Nínive."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué buena noticia anuncia el \"mensajero\" que aparece sobre los montes, en Nahúm 2?",
+      "options": ["El fin de una larga sequía que afligía al país", "La paz, ya que el perverso no volverá a pasar por Judá", "El nacimiento de un nuevo rey en Jerusalén"],
+      "correct": 1,
+      "hint": "El texto añade: «celebra tus fiestas, Judá, cumple tus votos».",
+      "explanation": "Nah 2,1: «he aquí sobre los montes los pies del mensajero que proclama la paz... que no pasará más por ti el perverso»."
+    },
+    {
+      "type": "gap",
+      "text": "He aquí sobre los montes los pies del mensajero que proclama la ___.",
+      "options": ["paz", "guerra", "ley"],
+      "answer": "paz",
+      "explanation": "Nah 2,1: este anuncio gozoso marca el fin de la opresión que sufría Judá por parte de Nínive."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nah 2,1 · El mensajero que anuncia la paz",
+      "direction": "es-es",
+      "tiles": ["Los", "pies", "del", "mensajero", "que", "proclama", "la", "paz", "guerra", "ley"],
+      "answer": "Los pies del mensajero que proclama la paz",
+      "explanation": "Nah 2,1: este anuncio gozoso marca el fin de la opresión que sufría Judá por parte de Nínive."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Nahúm", "es": "Profeta de Elcós, autor de un poema centrado en la caída de Nínive" },
+        { "en": "Nínive", "es": "Capital del imperio asirio, que había destruido el reino del norte" },
+        { "en": "El libro de Nahúm", "es": "Contrasta con el libro de Jonás, que anunciaba el perdón de la misma ciudad" },
+        { "en": "El estilo del libro", "es": "Poesía vívida y dramática sobre la batalla y la caída de la ciudad" },
+        { "en": "El tema central", "es": "La justicia de Dios que no deja impune la violencia imperial" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabras se dirige el Señor directamente contra Nínive, en el capítulo 2?",
+      "options": ["Con una invitación abierta a la reconciliación", "Con una simple advertencia sin consecuencias reales", "«Aquí me tienes, voy a por ti», convirtiendo en humo sus hordas"],
+      "correct": 2,
+      "hint": "El texto añade: «la espada devorará tus cachorros».",
+      "explanation": "Nah 2,14: «aquí me tienes, voy a por ti —oráculo del Señor del universo—. Convertiré en humo tus hordas»."
+    },
+    {
+      "type": "gap",
+      "text": "Convertiré en humo tus ___.",
+      "options": ["hordas", "templos", "riquezas"],
+      "answer": "hordas",
+      "explanation": "Nah 2,14: esta sentencia directa anuncia la destrucción militar total de Nínive."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nah 2,14 · La destrucción de las hordas",
+      "direction": "es-es",
+      "tiles": ["Convertiré", "en", "humo", "tus", "hordas", "templos", "riquezas"],
+      "answer": "Convertiré en humo tus hordas",
+      "explanation": "Nah 2,14: esta sentencia directa anuncia la destrucción militar total de Nínive."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué expresión se abre el oráculo final contra Nínive, en el capítulo 3?",
+      "options": ["¡Ay de la ciudad sanguinaria, toda ella mentira!", "¡Alégrate, ciudad fiel y siempre verdadera!", "¡Escucha, ciudad de paz duradera!"],
+      "correct": 0,
+      "hint": "El texto añade que está «llena de rapiña, insaciable de botín».",
+      "explanation": "Nah 3,1: «¡ay de la ciudad sanguinaria, toda ella mentira, llena de rapiña!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Ay de la ciudad ___, toda ella mentira!",
+      "options": ["sanguinaria", "dormida", "vacía"],
+      "answer": "sanguinaria",
+      "explanation": "Nah 3,1: esta denuncia de la violencia de Nínive abre el último oráculo del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nah 3,1 · La ciudad sanguinaria",
+      "direction": "es-es",
+      "tiles": ["Ay", "de", "la", "ciudad", "sanguinaria", "dormida", "vacía"],
+      "answer": "Ay de la ciudad sanguinaria",
+      "explanation": "Nah 3,1: esta denuncia de la violencia de Nínive abre el último oráculo del libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué declara el Señor directamente contra la ciudad, en Nahúm 3,5?",
+      "options": ["Que la premiará por su próspero comercio internacional", "«Aquí estoy contra ti», exhibiendo su vergüenza ante los pueblos", "Que la dejará en paz si cambia su conducta"],
+      "correct": 1,
+      "hint": "El texto añade: «te deshonraré públicamente».",
+      "explanation": "Nah 3,5: «aquí estoy contra ti —oráculo del Señor del universo—. Exhibiré a los pueblos tu desnudez»."
+    },
+    {
+      "type": "gap",
+      "text": "Aquí estoy contra ___.",
+      "options": ["ti", "ellos", "vosotros"],
+      "answer": "ti",
+      "explanation": "Nah 3,5: esta declaración directa expresa la oposición frontal de Dios contra la ciudad violenta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué afirmación final se cierra el libro de Nahúm sobre la herida de Nínive?",
+      "options": ["Que sanará pronto con la ayuda de sus aliados extranjeros", "Que fue exagerada por los profetas que la anunciaron", "Que no tiene remedio, que su lesión es incurable"],
+      "correct": 2,
+      "hint": "El texto añade que todos «aplauden» por la caída de Nínive.",
+      "explanation": "Nah 3,19: «no hay remedio para tu herida, tu lesión es incurable»."
+    },
+    {
+      "type": "gap",
+      "text": "No hay remedio para tu herida, tu lesión es ___.",
+      "options": ["incurable", "pequeña", "antigua"],
+      "answer": "incurable",
+      "explanation": "Nah 3,19: este versículo final advierte sobre las consecuencias definitivas de la violencia sostenida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Nah 3,19 · La herida incurable",
+      "direction": "es-es",
+      "tiles": ["No", "hay", "remedio", "para", "tu", "herida", "pequeña", "antigua"],
+      "answer": "No hay remedio para tu herida",
+      "explanation": "Nah 3,19: este versículo final advierte sobre las consecuencias definitivas de la violencia sostenida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La paciencia de Dios", "es": "No significa que el mal quede sin castigo para siempre" },
+        { "en": "El refugio en Dios", "es": "Da seguridad en medio de las peores adversidades" },
+        { "en": "La caída de los imperios violentos", "es": "Responde a la justicia divina sobre la historia" },
+        { "en": "La alegría por la liberación", "es": "Se compara con la buena noticia que trae un mensajero" },
+        { "en": "El juicio irreversible", "es": "Advierte sobre las consecuencias definitivas de la violencia sostenida" }
+      ]
+    }
+  ]
+}

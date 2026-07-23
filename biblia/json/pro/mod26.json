@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod26",
+  "module": 26,
+  "title": "Zacarías I — Las Visiones y el Espíritu de Dios",
+  "subtitle": "Zacarías 1–8",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué invitación abre el libro de Zacarías?",
+      "options": ["«Volveos a mí, y yo me volveré a vosotros»", "«Alejaos de mí, pues me habéis ofendido»", "«Esperad en silencio hasta nuevo aviso»"],
+      "correct": 0,
+      "hint": "El texto añade: «no seáis como vuestros padres».",
+      "explanation": "Zac 1,3: «volveos a mí —oráculo del Señor del universo— y yo me volveré a vosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "Volveos a mí, y yo me volveré a ___.",
+      "options": ["vosotros", "ellos", "ella"],
+      "answer": "vosotros",
+      "explanation": "Zac 1,3: esta invitación inicial a la conversión abre todo el libro de Zacarías."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 1,3 · La invitación a la conversión",
+      "direction": "es-es",
+      "tiles": ["Volveos", "a", "mí", "y", "yo", "me", "volveré", "a", "vosotros", "ellos", "ella"],
+      "answer": "Volveos a mí y yo me volveré a vosotros",
+      "explanation": "Zac 1,3: esta invitación inicial a la conversión abre todo el libro de Zacarías."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Volveos a mí, y yo me volveré a vosotros", "es": "La invitación inicial a la conversión" },
+        { "en": "La niña de mis ojos", "es": "La ternura de Dios hacia su pueblo perseguido" },
+        { "en": "Ni con violencia ni por la fuerza", "es": "La confianza en el espíritu de Dios, no en el poder humano" },
+        { "en": "Ciudad Fiel", "es": "La restauración plena de Jerusalén" },
+        { "en": "Se agarrarán al manto de un judío", "es": "La atracción universal hacia el pueblo de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué expresión describe Dios su cercanía a su pueblo perseguido, en el capítulo 2?",
+      "options": ["Que apenas se preocupa por lo que les ocurre", "Que el que os toca a vosotros, toca a la niña de sus ojos", "Que deben defenderse enteramente por su cuenta"],
+      "correct": 1,
+      "hint": "Esta imagen expresa el máximo grado de cercanía y sensibilidad.",
+      "explanation": "Zac 2,12: «el que os toca a vosotros, toca a la niña de mis ojos»."
+    },
+    {
+      "type": "gap",
+      "text": "El que os toca a vosotros, toca a la niña de mis ___.",
+      "options": ["ojos", "manos", "pies"],
+      "answer": "ojos",
+      "explanation": "Zac 2,12: esta imagen expresa la ternura y sensibilidad extrema de Dios hacia su pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 2,12 · La niña de los ojos de Dios",
+      "direction": "es-es",
+      "tiles": ["Toca", "a", "la", "niña", "de", "mis", "ojos", "manos", "pies"],
+      "answer": "Toca a la niña de mis ojos",
+      "explanation": "Zac 2,12: esta imagen expresa la ternura y sensibilidad extrema de Dios hacia su pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace el mensajero del Señor con los \"vestidos sucios\" de Josué, el sumo sacerdote?",
+      "options": ["Los deja tal cual están, como signo de humildad", "Los quema públicamente ante todo el pueblo", "Se los quita y lo viste con vestido de fiesta"],
+      "correct": 2,
+      "hint": "También le colocan «una diadema limpia en la cabeza».",
+      "explanation": "Zac 3,4: «quitadle los vestidos sucios... aparto de ti tu pecado y te visto con vestido de fiesta»."
+    },
+    {
+      "type": "gap",
+      "text": "Aparto de ti tu pecado y te visto con vestido de ___.",
+      "options": ["fiesta", "luto", "guerra"],
+      "answer": "fiesta",
+      "explanation": "Zac 3,4: esta visión simboliza la purificación del sumo sacerdote y, con él, de todo el pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 3,4 · El vestido de fiesta",
+      "direction": "es-es",
+      "tiles": ["Te", "visto", "con", "vestido", "de", "fiesta", "luto", "guerra"],
+      "answer": "Te visto con vestido de fiesta",
+      "explanation": "Zac 3,4: esta visión simboliza la purificación del sumo sacerdote y, con él, de todo el pueblo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Volveos a mí", "es": "Zacarías 1,3" },
+        { "en": "La niña de mis ojos", "es": "Zacarías 2,12" },
+        { "en": "Ni con violencia ni por la fuerza", "es": "Zacarías 4,6" },
+        { "en": "Ciudad Fiel", "es": "Zacarías 8,3" },
+        { "en": "Deciros la verdad unos a otros", "es": "Zacarías 8,16" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué medios se construirá el templo, según el mensaje dirigido a Zorobabel?",
+      "options": ["Ni con violencia ni por la fuerza, sino por el espíritu de Dios", "Solo con un gran ejército bien armado y organizado", "Únicamente mediante alianzas con reinos extranjeros"],
+      "correct": 0,
+      "hint": "El texto añade: «¿quién eres tú, gran montaña? Conviértete en llano».",
+      "explanation": "Zac 4,6: «ni con violencia ni por la fuerza, sino por mi espíritu, dice el Señor del universo»."
+    },
+    {
+      "type": "gap",
+      "text": "Ni con violencia ni por la fuerza, sino por mi ___.",
+      "options": ["espíritu", "ejército", "riqueza"],
+      "answer": "espíritu",
+      "explanation": "Zac 4,6: este versículo, muy citado, confía la obra de Dios a su espíritu y no al poder humano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 4,6 · La confianza en el espíritu de Dios",
+      "direction": "es-es",
+      "tiles": ["Ni", "con", "violencia", "ni", "por", "la", "fuerza", "ejército", "riqueza"],
+      "answer": "Ni con violencia ni por la fuerza",
+      "explanation": "Zac 4,6: este versículo, muy citado, confía la obra de Dios a su espíritu y no al poder humano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Zacarías", "es": "Profeta contemporáneo de Ageo, animando la reconstrucción del templo" },
+        { "en": "Josué", "es": "Sumo sacerdote purificado en la visión del capítulo 3" },
+        { "en": "Zorobabel", "es": "Gobernador destinatario del mensaje sobre el espíritu de Dios" },
+        { "en": "Las ocho visiones nocturnas", "es": "Ocupan los primeros seis capítulos del libro" },
+        { "en": "Los capítulos 7–8", "es": "Pasan de la pregunta sobre el ayuno a las grandes promesas de restauración" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Dios que se practique \"unos con otros\", en el capítulo 7?",
+      "options": ["Silencio absoluto en todos los asuntos importantes", "Sentencias justas, amor y misericordia, sin oprimir a los débiles", "Solo el cumplimiento estricto de los ayunos anuales"],
+      "correct": 1,
+      "hint": "El texto añade: «no oprimáis a viudas y huérfanos, a emigrantes y pobres».",
+      "explanation": "Zac 7,9-10: «pronunciad sentencias justas y practicad el amor y la misericordia unos con otros»."
+    },
+    {
+      "type": "gap",
+      "text": "Pronunciad sentencias justas y practicad el amor y la ___.",
+      "options": ["misericordia", "riqueza", "fuerza"],
+      "answer": "misericordia",
+      "explanation": "Zac 7,9: esta enseñanza antepone la justicia y la misericordia al cumplimiento externo de los ritos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 7,9 · La justicia y la misericordia",
+      "direction": "es-es",
+      "tiles": ["Practicad", "el", "amor", "y", "la", "misericordia", "riqueza", "fuerza"],
+      "answer": "Practicad el amor y la misericordia",
+      "explanation": "Zac 7,9: esta enseñanza antepone la justicia y la misericordia al cumplimiento externo de los ritos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué nuevo nombre llamarán a Jerusalén, según Zacarías 8?",
+      "options": ["Ciudad del Silencio", "Ciudad Lejana", "Ciudad Fiel"],
+      "correct": 2,
+      "hint": "El texto añade que al monte del Señor lo llamarán «Monte Santo».",
+      "explanation": "Zac 8,3: «llamarán a Jerusalén “Ciudad Fiel”, y al monte del Señor del universo, “Monte Santo”»."
+    },
+    {
+      "type": "gap",
+      "text": "Llamarán a Jerusalén «Ciudad ___».",
+      "options": ["Fiel", "Lejana", "Vacía"],
+      "answer": "Fiel",
+      "explanation": "Zac 8,3: este nuevo nombre expresa la restauración plena de Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 8,3 · Jerusalén, Ciudad Fiel",
+      "direction": "es-es",
+      "tiles": ["Llamarán", "a", "Jerusalén", "Ciudad", "Fiel", "Lejana", "Vacía"],
+      "answer": "Llamarán a Jerusalén Ciudad Fiel",
+      "explanation": "Zac 8,3: este nuevo nombre expresa la restauración plena de Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Dios que se digan \"unos a otros\" los habitantes de Jerusalén, en el capítulo 8?",
+      "options": ["La verdad", "Solo lo que quieran escuchar en cada momento", "Nada, es mejor guardar siempre silencio"],
+      "correct": 0,
+      "hint": "El texto añade: «que vuestros juicios sean de paz y justicia».",
+      "explanation": "Zac 8,16: «deciros la verdad unos a otros; sí, la verdad»."
+    },
+    {
+      "type": "gap",
+      "text": "Deciros la verdad unos a ___.",
+      "options": ["otros", "solas", "escondidas"],
+      "answer": "otros",
+      "explanation": "Zac 8,16: esta enseñanza práctica cierra las grandes promesas de restauración del capítulo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 8,16 · Decirse la verdad",
+      "direction": "es-es",
+      "tiles": ["Deciros", "la", "verdad", "unos", "a", "otros", "solas", "escondidas"],
+      "answer": "Deciros la verdad unos a otros",
+      "explanation": "Zac 8,16: esta enseñanza práctica cierra las grandes promesas de restauración del capítulo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen describe la atracción de las naciones hacia el pueblo de Dios, en Zacarías 8?",
+      "options": ["Que todas las naciones se alejarán definitivamente de Israel", "Diez hombres de lenguas distintas se agarrarán al manto de un judío", "Que solo los reyes podrán acercarse al pueblo de Dios"],
+      "correct": 1,
+      "hint": "El texto añade: «hemos oído que Dios está con vosotros».",
+      "explanation": "Zac 8,23: «diez hombres de lenguas distintas de entre las naciones se agarrarán al manto de un judío»."
+    },
+    {
+      "type": "gap",
+      "text": "Diez hombres de lenguas distintas se agarrarán al ___ de un judío.",
+      "options": ["manto", "brazo", "pie"],
+      "answer": "manto",
+      "explanation": "Zac 8,23: esta imagen muestra el alcance universal de la promesa de Dios a su pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 8,23 · La atracción universal de las naciones",
+      "direction": "es-es",
+      "tiles": ["Se", "agarrarán", "al", "manto", "de", "un", "judío", "brazo", "pie"],
+      "answer": "Se agarrarán al manto de un judío",
+      "explanation": "Zac 8,23: esta imagen muestra el alcance universal de la promesa de Dios a su pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen de paz describe Zacarías 8 sobre el futuro de Jerusalén?",
+      "options": ["Calles vacías por el temor a nuevos ataques", "Un ejército permanente vigilando cada esquina de la ciudad", "Ancianos con bastón y niños jugando en las calles"],
+      "correct": 2,
+      "hint": "El texto añade que los ancianos vivirán «una vida muy larga».",
+      "explanation": "Zac 8,4-5: «de nuevo se sentarán ancianos y ancianas en las calles de Jerusalén... y sus calles estarán llenas de niños y niñas jugando»."
+    },
+    {
+      "type": "gap",
+      "text": "De nuevo se sentarán ancianos y ancianas en las calles de ___.",
+      "options": ["Jerusalén", "Babilonia", "Samaría"],
+      "answer": "Jerusalén",
+      "explanation": "Zac 8,4: esta imagen de paz cotidiana expresa la plena restauración de la ciudad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La conversión sincera", "es": "Abre camino a la cercanía renovada de Dios" },
+        { "en": "La protección de Dios", "es": "Trata a su pueblo con extrema delicadeza, como la niña de los ojos" },
+        { "en": "La confianza en el espíritu", "es": "Supera cualquier logro basado solo en la fuerza humana" },
+        { "en": "La justicia y la misericordia", "es": "Son más importantes que el cumplimiento externo de los ritos" },
+        { "en": "La atracción de las naciones", "es": "Muestra el alcance universal de la promesa de Dios" }
+      ]
+    }
+  ]
+}

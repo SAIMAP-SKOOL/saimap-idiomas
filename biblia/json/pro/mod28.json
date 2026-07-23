@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod28",
+  "module": 28,
+  "title": "Malaquías — El Amor de Dios y el Mensajero Anunciado",
+  "subtitle": "Malaquías 1–3",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué afirmación abre Malaquías su oráculo, respondiendo a la duda del pueblo?",
+      "options": ["«Os amo», dice el Señor", "«Os he olvidado», dice el Señor", "«Ya no tengo nada que deciros»"],
+      "correct": 0,
+      "hint": "El pueblo había preguntado: «¿en qué se nota que nos amas?».",
+      "explanation": "Mal 1,2: «os amo, dice el Señor. Pero vosotros decís: ¿en qué se nota que nos amas?»."
+    },
+    {
+      "type": "gap",
+      "text": "«Os ___», dice el Señor.",
+      "options": ["amo", "olvido", "juzgo"],
+      "answer": "amo",
+      "explanation": "Mal 1,2: este amor inicial de Dios es la base desde la que se entienden todas sus exigencias posteriores."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mal 1,2 · El amor de Dios",
+      "direction": "es-es",
+      "tiles": ["Os", "amo", "dice", "el", "Señor", "olvido", "juzgo"],
+      "answer": "Os amo dice el Señor",
+      "explanation": "Mal 1,2: este amor inicial de Dios es la base desde la que se entienden todas sus exigencias posteriores."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Os amo, dice el Señor", "es": "El amor de Dios como fundamento del libro" },
+        { "en": "Mi nombre es grande entre las naciones", "es": "La dimensión universal del culto verdadero" },
+        { "en": "Volveos a mí y yo me volveré a vosotros", "es": "La invitación final a la conversión" },
+        { "en": "Abro las compuertas del cielo", "es": "La generosidad de Dios ante la fidelidad del pueblo" },
+        { "en": "El profeta Elías", "es": "El anuncio de un precursor antes del Día del Señor" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha Dios a los sacerdotes sobre el honor debido, en Malaquías 1?",
+      "options": ["Que exigen demasiados honores por parte del pueblo", "Que, siendo Dios su padre y señor, no reciben ni honor ni temor", "Que han abandonado por completo el templo de Jerusalén"],
+      "correct": 1,
+      "hint": "El texto añade que traen «alimentos contaminados, impuros» al altar.",
+      "explanation": "Mal 1,6: «el hijo honra al padre... si yo soy padre, ¿dónde está mi honor?... sacerdotes que despreciáis mi nombre»."
+    },
+    {
+      "type": "gap",
+      "text": "Si soy padre, ¿dónde está mi ___?",
+      "options": ["honor", "pueblo", "templo"],
+      "answer": "honor",
+      "explanation": "Mal 1,6: este reproche denuncia la falta de honor de los sacerdotes hacia Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mal 1,6 · El honor debido a Dios",
+      "direction": "es-es",
+      "tiles": ["Si", "soy", "padre", "dónde", "está", "mi", "honor", "pueblo", "templo"],
+      "answer": "Si soy padre dónde está mi honor",
+      "explanation": "Mal 1,6: este reproche denuncia la falta de honor de los sacerdotes hacia Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Dios sobre la extensión de su nombre entre las naciones, en Malaquías 1?",
+      "options": ["Que solo es conocido dentro de las fronteras de Israel", "Que pronto será olvidado por completo entre los pueblos", "Que de Oriente a Occidente su nombre es grande entre las naciones"],
+      "correct": 2,
+      "hint": "El texto añade que «en todo lugar se quema incienso» en su honor.",
+      "explanation": "Mal 1,11: «de Oriente a Occidente mi nombre es grande entre las naciones»."
+    },
+    {
+      "type": "gap",
+      "text": "De Oriente a Occidente mi nombre es grande entre las ___.",
+      "options": ["naciones", "familias", "tribus"],
+      "answer": "naciones",
+      "explanation": "Mal 1,11: este versículo expresa la dimensión universal del culto verdadero a Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Os amo, dice el Señor", "es": "Malaquías 1,2" },
+        { "en": "Mi nombre es grande entre las naciones", "es": "Malaquías 1,11" },
+        { "en": "Mi mensajero para que prepare el camino", "es": "Malaquías 3,1" },
+        { "en": "Sol de justicia", "es": "Malaquías 3,20" },
+        { "en": "El profeta Elías", "es": "Malaquías 3,23" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta retórica hace Malaquías para denunciar la traición mutua del pueblo, en el capítulo 2?",
+      "options": ["¿No tenemos todos un mismo padre? ¿No nos creó el mismo Dios?", "¿Quién puede resistir el gran poder del Señor?", "¿Cuándo terminará finalmente el destierro del pueblo?"],
+      "correct": 0,
+      "hint": "El texto añade: «¿por qué entonces nos traicionamos unos a otros?».",
+      "explanation": "Mal 2,10: «¿no tenemos todos un mismo padre? ¿No nos creó el mismo Dios?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿No tenemos todos un mismo ___?",
+      "options": ["padre", "rey", "templo"],
+      "answer": "padre",
+      "explanation": "Mal 2,10: esta pregunta funda la fraternidad humana en tener todos un mismo Padre y Creador."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mal 2,10 · Un mismo padre para todos",
+      "direction": "es-es",
+      "tiles": ["No", "tenemos", "todos", "un", "mismo", "padre", "rey", "templo"],
+      "answer": "No tenemos todos un mismo padre",
+      "explanation": "Mal 2,10: esta pregunta funda la fraternidad humana en tener todos un mismo Padre y Creador."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios que hará antes de llegar a su santuario, en el capítulo 3?",
+      "options": ["Destruir primero todos los templos considerados falsos", "Enviar a su mensajero para que prepare el camino ante él", "Esperar mil años más antes de actuar de nuevo"],
+      "correct": 1,
+      "hint": "La tradición cristiana identifica a este mensajero con Juan el Bautista.",
+      "explanation": "Mal 3,1: «voy a enviar a mi mensajero para que prepare el camino ante mí»."
+    },
+    {
+      "type": "gap",
+      "text": "Voy a enviar a mi mensajero para que prepare el ___ ante mí.",
+      "options": ["camino", "templo", "pueblo"],
+      "answer": "camino",
+      "explanation": "Mal 3,1: la tradición cristiana identifica a este mensajero con la figura de Juan el Bautista."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mal 3,1 · El mensajero que prepara el camino",
+      "direction": "es-es",
+      "tiles": ["Voy", "a", "enviar", "a", "mi", "mensajero", "ángel", "ejército"],
+      "answer": "Voy a enviar a mi mensajero",
+      "explanation": "Mal 3,1: la tradición cristiana identifica a este mensajero con la figura de Juan el Bautista."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Malaquías", "es": "Último de los profetas menores según el orden del canon cristiano" },
+        { "en": "Su nombre", "es": "Significa \"mi mensajero\" en hebreo" },
+        { "en": "Los sacerdotes", "es": "Reciben la denuncia principal del libro por sus ofrendas defectuosas" },
+        { "en": "El \"mensajero que prepara el camino\"", "es": "La tradición cristiana lo identifica con Juan el Bautista" },
+        { "en": "El libro de Malaquías", "es": "Cierra el Antiguo Testamento en el canon cristiano" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué invitación llama Dios a la conversión, en el capítulo 3?",
+      "options": ["«Alejaos de mí para siempre»", "«Esperad en silencio mi decisión»", "«Volveos a mí y yo me volveré a vosotros»"],
+      "correct": 2,
+      "hint": "El pueblo responde con otra pregunta: «¿volvernos de qué?».",
+      "explanation": "Mal 3,7: «volveos a mí y yo me volveré a vosotros, dice el Señor del universo»."
+    },
+    {
+      "type": "gap",
+      "text": "Volveos a mí y yo me volveré a ___.",
+      "options": ["vosotros", "ellos", "nadie"],
+      "answer": "vosotros",
+      "explanation": "Mal 3,7: esta invitación final a la conversión resuena con un llamado semejante en Zacarías 1,3."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mal 3,7 · La invitación a la conversión",
+      "direction": "es-es",
+      "tiles": ["Volveos", "a", "mí", "y", "yo", "me", "volveré", "a", "vosotros", "ellos", "nadie"],
+      "answer": "Volveos a mí y yo me volveré a vosotros",
+      "explanation": "Mal 3,7: esta invitación final a la conversión resuena con un llamado semejante en Zacarías 1,3."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios si el pueblo trae todos los diezmos al tesoro, en Malaquías 3?",
+      "options": ["Abrir las compuertas del cielo y derramar bendición sin medida", "Aumentar los impuestos exigidos al año siguiente", "No prometer absolutamente nada a cambio"],
+      "correct": 0,
+      "hint": "El texto invita: «ponedme así a prueba, dice el Señor».",
+      "explanation": "Mal 3,10: «traed todos los diezmos al tesoro... veréis cómo abro las compuertas del cielo y derramo bendición sin medida»."
+    },
+    {
+      "type": "gap",
+      "text": "Veréis cómo abro las compuertas del cielo y derramo ___ sin medida.",
+      "options": ["bendición", "lluvia", "oro"],
+      "answer": "bendición",
+      "explanation": "Mal 3,10: esta prueba invita a confiar en la generosidad de Dios ante la fidelidad del pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mal 3,10 · Las compuertas del cielo",
+      "direction": "es-es",
+      "tiles": ["Abro", "las", "compuertas", "del", "cielo", "puertas", "ventanas"],
+      "answer": "Abro las compuertas del cielo",
+      "explanation": "Mal 3,10: esta prueba invita a confiar en la generosidad de Dios ante la fidelidad del pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen usa Malaquías para describir la salvación de quienes temen el nombre de Dios?",
+      "options": ["Una tormenta que arrasa toda la tierra sin distinción", "Un sol de justicia que trae salud a su sombra", "Un ejército invencible que los protege de todo mal"],
+      "correct": 1,
+      "hint": "El texto añade: «saldréis y brincaréis como terneros que salen del establo».",
+      "explanation": "Mal 3,20: «a vosotros, los que teméis mi nombre, os iluminará un sol de justicia y hallaréis salud a su sombra»."
+    },
+    {
+      "type": "gap",
+      "text": "Os iluminará un sol de ___.",
+      "options": ["justicia", "gloria", "fuego"],
+      "answer": "justicia",
+      "explanation": "Mal 3,20: esta imagen luminosa expresa la salvación reservada a quienes temen el nombre de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mal 3,20 · El sol de justicia",
+      "direction": "es-es",
+      "tiles": ["Os", "iluminará", "un", "sol", "de", "justicia", "gloria", "fuego"],
+      "answer": "Os iluminará un sol de justicia",
+      "explanation": "Mal 3,20: esta imagen luminosa expresa la salvación reservada a quienes temen el nombre de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién anuncia Dios que enviará antes del \"Día del Señor, día grande y terrible\"?",
+      "options": ["A un nuevo rey descendiente directo de David", "A un ángel guerrero que juzgará a todas las naciones", "Al profeta Elías, para convertir el corazón de padres e hijos"],
+      "correct": 2,
+      "hint": "Este anuncio cierra el Antiguo Testamento en el canon cristiano.",
+      "explanation": "Mal 3,23-24: «os envío al profeta Elías... él convertirá el corazón de los padres hacia los hijos»."
+    },
+    {
+      "type": "gap",
+      "text": "Os envío al profeta ___, antes de que venga el Día del Señor.",
+      "options": ["Elías", "Moisés", "Isaías"],
+      "answer": "Elías",
+      "explanation": "Mal 3,23: este anuncio de un precursor prepara al pueblo para la llegada definitiva del Señor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Mal 3,23 · El anuncio del profeta Elías",
+      "direction": "es-es",
+      "tiles": ["Os", "envío", "al", "profeta", "Elías", "Moisés", "Isaías"],
+      "answer": "Os envío al profeta Elías",
+      "explanation": "Mal 3,23: este anuncio de un precursor prepara al pueblo para la llegada definitiva del Señor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El amor inicial de Dios", "es": "Es la base desde la que se entienden todas sus exigencias posteriores" },
+        { "en": "Las ofrendas defectuosas", "es": "Simbolizan una fe que da a Dios solo lo que sobra" },
+        { "en": "La fraternidad humana", "es": "Se basa en tener todos un mismo Padre y Creador" },
+        { "en": "La puesta a prueba con los diezmos", "es": "Invita a confiar en la generosidad de Dios" },
+        { "en": "El precursor anunciado", "es": "Prepara al pueblo para la llegada definitiva del Señor" }
+      ]
+    }
+  ]
+}

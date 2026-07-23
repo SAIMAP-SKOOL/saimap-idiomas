@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod24",
+  "module": 24,
+  "title": "Sofonías — El Día del Señor y la Alegría de Dios",
+  "subtitle": "Sofonías 1–3",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Sofonías la llegada del Día del Señor, en el capítulo 1?",
+      "options": ["Como un día de cólera, angustia, aflicción y oscuridad", "Como un día de fiesta sin ninguna advertencia previa", "Como un acontecimiento lejano que no afectará a nadie"],
+      "correct": 0,
+      "hint": "El texto añade: «día de nieblas y tinieblas».",
+      "explanation": "Sof 1,15: «día de cólera, aquel día, día de angustia y aflicción, día de desolación y devastación»."
+    },
+    {
+      "type": "gap",
+      "text": "Se acerca el gran Día del Señor... día de cólera, aquel ___.",
+      "options": ["día", "pueblo", "mundo"],
+      "answer": "día",
+      "explanation": "Sof 1,14-15: este anuncio temible del Día del Señor domina toda la primera parte del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sof 1,14 · El anuncio del Día del Señor",
+      "direction": "es-es",
+      "tiles": ["Se", "acerca", "el", "gran", "Día", "del", "Señor", "pueblo", "mundo"],
+      "answer": "Se acerca el gran Día del Señor",
+      "explanation": "Sof 1,14-15: este anuncio temible del Día del Señor domina toda la primera parte del libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Día de cólera, aquel día", "es": "El anuncio temible del Día del Señor" },
+        { "en": "Ni su plata ni su oro", "es": "La inutilidad de las riquezas ante el juicio" },
+        { "en": "Buscad al Señor... la justicia... la humildad", "es": "La invitación a la conversión antes del juicio" },
+        { "en": "Un resto humilde y pobre", "es": "La esperanza de un remanente fiel" },
+        { "en": "Se alegra y goza contigo", "es": "La ternura de Dios en medio de su pueblo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advierte Sofonías sobre la riqueza el día de la cólera del Señor?",
+      "options": ["Que servirá para pagar el perdón de las culpas", "Que ni la plata ni el oro podrán salvar a nadie", "Que solo los ricos podrán escapar del juicio"],
+      "correct": 1,
+      "hint": "El texto añade: «cuando el fuego de su celo consuma toda la tierra».",
+      "explanation": "Sof 1,18: «ni su plata ni su oro podrán salvarlos el día de la cólera del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Ni su plata ni su oro podrán ___.",
+      "options": ["salvarlos", "cambiarlos", "alegrarlos"],
+      "answer": "salvarlos",
+      "explanation": "Sof 1,18: esta advertencia muestra que ninguna riqueza material puede sustituir la conversión sincera."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sof 1,18 · La inutilidad de las riquezas",
+      "direction": "es-es",
+      "tiles": ["Ni", "su", "plata", "ni", "su", "oro", "podrán", "salvarlos", "cambiarlos", "alegrarlos"],
+      "answer": "Ni su plata ni su oro podrán salvarlos",
+      "explanation": "Sof 1,18: esta advertencia muestra que ninguna riqueza material puede sustituir la conversión sincera."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué invita Sofonías a \"los humildes de la tierra\", en el capítulo 2?",
+      "options": ["A resignarse sin ninguna esperanza de cambio posible", "A esconderse en silencio hasta que pase el peligro", "A buscar al Señor, la justicia y la humildad"],
+      "correct": 2,
+      "hint": "El texto añade: «quizá podáis resguardaros el día de la ira del Señor».",
+      "explanation": "Sof 2,3: «buscad al Señor los humildes de la tierra, los que practican su derecho, buscad la justicia, buscad la humildad»."
+    },
+    {
+      "type": "gap",
+      "text": "Buscad al Señor los humildes de la tierra... buscad la ___.",
+      "options": ["justicia", "riqueza", "gloria"],
+      "answer": "justicia",
+      "explanation": "Sof 2,3: esta invitación ofrece un camino de protección ante el juicio anunciado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sof 2,3 · La invitación a la conversión",
+      "direction": "es-es",
+      "tiles": ["Buscad", "al", "Señor", "los", "humildes", "de", "la", "tierra", "riqueza", "gloria"],
+      "answer": "Buscad al Señor los humildes de la tierra",
+      "explanation": "Sof 2,3: esta invitación ofrece un camino de protección ante el juicio anunciado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Día de cólera", "es": "Sofonías 1,15" },
+        { "en": "Buscad al Señor... la justicia", "es": "Sofonías 2,3" },
+        { "en": "Un resto humilde y pobre", "es": "Sofonías 3,12" },
+        { "en": "Alégrate, hija de Sión", "es": "Sofonías 3,14" },
+        { "en": "Se alegra y goza contigo", "es": "Sofonías 3,17" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Sofonías el carácter del Señor \"que habita en ella\" (Jerusalén), en el capítulo 3?",
+      "options": ["Que es justo, y nunca falla en sacar a la luz el derecho", "Que ya no interviene en los asuntos de la ciudad", "Que solo actúa cuando se le ofrecen grandes sacrificios"],
+      "correct": 0,
+      "hint": "El texto contrasta esto con «el malvado», que «no sabe lo que es la vergüenza».",
+      "explanation": "Sof 3,5: «el Señor que habita en ella es justo, no comete injusticia; cada mañana va sacando a la luz el derecho; nunca falla»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor que habita en ella es justo, no comete ___.",
+      "options": ["injusticia", "silencio", "templo"],
+      "answer": "injusticia",
+      "explanation": "Sof 3,5: esta descripción contrasta la justicia constante de Dios con la corrupción de los líderes de la ciudad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sof 3,5 · La justicia constante de Dios",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "que", "habita", "en", "ella", "es", "justo", "silencio", "templo"],
+      "answer": "El Señor que habita en ella es justo",
+      "explanation": "Sof 3,5: esta descripción contrasta la justicia constante de Dios con la corrupción de los líderes de la ciudad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Sofonías", "es": "Profeta de la época del rey Josías, antes de sus grandes reformas" },
+        { "en": "El \"Día del Señor\"", "es": "Tema central que domina la primera parte del libro" },
+        { "en": "El capítulo 3", "es": "Pasa del juicio contra las naciones al canto final de alegría" },
+        { "en": "El \"resto humilde\"", "es": "Idea que recorre varios profetas menores como semilla de esperanza" },
+        { "en": "El libro entero", "es": "Combina el anuncio del juicio con una de las promesas más tiernas del Antiguo Testamento" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios hacer con \"los labios de los pueblos\", en Sofonías 3?",
+      "options": ["Silenciarlos para siempre, sin ninguna excepción", "Purificarlos para que todos invoquen su nombre", "Confundirlos, como ocurrió en la torre de Babel"],
+      "correct": 1,
+      "hint": "El texto añade: «para que... todos lo sirvan a una».",
+      "explanation": "Sof 3,9: «purificaré los labios de los pueblos para que invoquen todos ellos el nombre del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Purificaré los labios de los pueblos para que invoquen todos ellos el nombre del ___.",
+      "options": ["Señor", "rey", "pueblo"],
+      "answer": "Señor",
+      "explanation": "Sof 3,9: esta promesa universal anuncia que todos los pueblos podrán un día invocar a Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tipo de \"resto\" promete Dios dejar tras el juicio, en Sofonías 3?",
+      "options": ["Un resto formado por guerreros poderosos e invencibles", "Un resto compuesto únicamente por sacerdotes del templo", "Un pueblo humilde y pobre que buscará refugio en el nombre del Señor"],
+      "correct": 2,
+      "hint": "El texto añade que «no hará más el mal, no mentirá ni habrá engaño en su boca».",
+      "explanation": "Sof 3,12: «dejaré en ti un resto, un pueblo humilde y pobre que buscará refugio en el nombre del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Dejaré en ti un resto, un pueblo humilde y ___.",
+      "options": ["pobre", "fuerte", "rico"],
+      "answer": "pobre",
+      "explanation": "Sof 3,12: esta imagen del resto fiel muestra que la esperanza de Dios nunca desaparece del todo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sof 3,12 · El resto humilde y pobre",
+      "direction": "es-es",
+      "tiles": ["Un", "pueblo", "humilde", "y", "pobre", "fuerte", "rico"],
+      "answer": "Un pueblo humilde y pobre",
+      "explanation": "Sof 3,12: esta imagen del resto fiel muestra que la esperanza de Dios nunca desaparece del todo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué invitación se abre el gran canto de alegría final de Sofonías, en el capítulo 3?",
+      "options": ["¡Alégrate, hija de Sión, grita de gozo, Israel!", "¡Prepárate, hija de Sión, para el combate final!", "¡Huye, hija de Sión, antes de que sea tarde!"],
+      "correct": 0,
+      "hint": "El texto añade: «regocíjate y disfruta con todo tu ser».",
+      "explanation": "Sof 3,14: «alégrate hija de Sión, grita de gozo Israel, regocíjate y disfruta con todo tu ser»."
+    },
+    {
+      "type": "gap",
+      "text": "Alégrate hija de Sión, grita de gozo ___.",
+      "options": ["Israel", "Egipto", "Judá"],
+      "answer": "Israel",
+      "explanation": "Sof 3,14: este canto de alegría abre la conclusión gozosa del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sof 3,14 · El canto de alegría final",
+      "direction": "es-es",
+      "tiles": ["Alégrate", "hija", "de", "Sión", "grita", "de", "gozo", "Egipto", "Judá"],
+      "answer": "Alégrate hija de Sión grita de gozo",
+      "explanation": "Sof 3,14: este canto de alegría abre la conclusión gozosa del libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Sofonías sobre la sentencia de Jerusalén, en el capítulo 3?",
+      "options": ["Que será revisada dentro de muchos años todavía", "Que el Señor la ha revocado, expulsando a su enemigo", "Que se hará todavía más severa que antes"],
+      "correct": 1,
+      "hint": "El texto añade: «¡no temas! ¡Sión, no desfallezcas!».",
+      "explanation": "Sof 3,15: «el Señor ha revocado tu sentencia, ha expulsado a tu enemigo»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor ha revocado tu ___, ha expulsado a tu enemigo.",
+      "options": ["sentencia", "templo", "corona"],
+      "answer": "sentencia",
+      "explanation": "Sof 3,15: este anuncio marca el paso del juicio a la restauración gozosa del pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sof 3,15 · La sentencia revocada",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "ha", "revocado", "tu", "sentencia", "templo", "corona"],
+      "answer": "El Señor ha revocado tu sentencia",
+      "explanation": "Sof 3,15: este anuncio marca el paso del juicio a la restauración gozosa del pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Sofonías la presencia de Dios en medio de su pueblo, al cierre del libro?",
+      "options": ["Como un juez distante que observa todo desde lejos", "Como un rey que exige tributos de manera constante", "Como alguien que se alegra y goza con su pueblo, renovándolo con su amor"],
+      "correct": 2,
+      "hint": "El texto añade: «exulta y se alegra contigo como en día de fiesta».",
+      "explanation": "Sof 3,17: «el Señor tu Dios está en medio de ti, valiente y salvador; se alegra y goza contigo, te renueva con su amor»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor tu Dios está en medio de ti, valiente y ___.",
+      "options": ["salvador", "severo", "lejano"],
+      "answer": "salvador",
+      "explanation": "Sof 3,17: este versículo revela un amor de Dios que se goza activamente en su pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sof 3,17 · La ternura de Dios en medio del pueblo",
+      "direction": "es-es",
+      "tiles": ["Se", "alegra", "y", "goza", "contigo", "juzga", "olvida"],
+      "answer": "Se alegra y goza contigo",
+      "explanation": "Sof 3,17: este versículo revela un amor de Dios que se goza activamente en su pueblo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El Día del Señor", "es": "Recuerda que ningún poder humano puede evitar la justicia de Dios" },
+        { "en": "La riqueza material", "es": "No puede sustituir la conversión sincera del corazón" },
+        { "en": "La búsqueda de la justicia y la humildad", "es": "Ofrece un camino de protección ante el juicio" },
+        { "en": "El resto fiel", "es": "Muestra que la esperanza de Dios nunca desaparece del todo" },
+        { "en": "La alegría final de Dios", "es": "Revela un amor que se goza activamente en su pueblo" }
+      ]
+    }
+  ]
+}

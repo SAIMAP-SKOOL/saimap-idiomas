@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod25",
+  "module": 25,
+  "title": "Ageo — Reconstruir la Casa de Dios",
+  "subtitle": "Ageo 1–2",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta hace Dios al pueblo sobre sus prioridades, en Ageo 1?",
+      "options": ["¿Es momento de vivir en casas lujosas mientras el templo es una ruina?", "¿Por qué habéis dejado de sembrar el campo este año?", "¿Quién os ha dado permiso para construir vuestras casas?"],
+      "correct": 0,
+      "hint": "El pueblo decía: «no es momento de ponerse a construir la casa del Señor».",
+      "explanation": "Ag 1,4: «¿y es momento de vivir en casas lujosas mientras que el templo es una ruina?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Es momento de vivir en casas lujosas mientras que el templo es una ___?",
+      "options": ["ruina", "fiesta", "ofrenda"],
+      "answer": "ruina",
+      "explanation": "Ag 1,4: esta pregunta denuncia las prioridades equivocadas del pueblo tras el regreso del exilio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ag 1,4 · Las prioridades equivocadas",
+      "direction": "es-es",
+      "tiles": ["Vivir", "en", "casas", "lujosas", "mientras", "el", "templo", "es", "una", "ruina", "fiesta", "ofrenda"],
+      "answer": "Vivir en casas lujosas mientras el templo es una ruina",
+      "explanation": "Ag 1,4: esta pregunta denuncia las prioridades equivocadas del pueblo tras el regreso del exilio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Casas lujosas mientras el templo es una ruina", "es": "La denuncia de las prioridades equivocadas del pueblo" },
+        { "en": "Subid al monte, traed madera", "es": "El llamado concreto a reconstruir el templo" },
+        { "en": "Yo estoy con vosotros", "es": "El aliento de Dios en medio de la tarea" },
+        { "en": "Mayor será la gloria de este segundo templo", "es": "La promesa de un futuro mejor que el pasado" },
+        { "en": "Te pondré el anillo de mando", "es": "La elección especial de Zorobabel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué consecuencias describe Ageo por haber descuidado la casa de Dios?",
+      "options": ["Una gran prosperidad inesperada para todo el pueblo", "Sembrar mucho y recoger poco, comer sin llenarse, el salario en saco roto", "Ninguna consecuencia visible en la vida diaria del pueblo"],
+      "correct": 1,
+      "hint": "El texto añade: «bebéis y seguís con sed».",
+      "explanation": "Ag 1,6: «sembrasteis mucho y recogisteis poco... el trabajador guarda su salario en saco roto»."
+    },
+    {
+      "type": "gap",
+      "text": "El trabajador guarda su salario en saco ___.",
+      "options": ["roto", "lleno", "nuevo"],
+      "answer": "roto",
+      "explanation": "Ag 1,6: esta imagen describe la frustración de un esfuerzo que no rinde fruto por haber descuidado el templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ag 1,6 · El salario en saco roto",
+      "direction": "es-es",
+      "tiles": ["El", "trabajador", "guarda", "su", "salario", "en", "saco", "roto", "lleno", "nuevo"],
+      "answer": "El trabajador guarda su salario en saco roto",
+      "explanation": "Ag 1,6: esta imagen describe la frustración de un esfuerzo que no rinde fruto por haber descuidado el templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué orden concreta da Dios al pueblo para remediar la situación, en Ageo 1?",
+      "options": ["Que abandonen la ciudad y busquen otro lugar donde vivir", "Que esperen una señal antes de actuar de ningún modo", "Que suban al monte, traigan madera y construyan el templo"],
+      "correct": 2,
+      "hint": "Dios añade: «me complaceré en él y seré glorificado».",
+      "explanation": "Ag 1,8: «subid al monte, traed madera, construid el templo»."
+    },
+    {
+      "type": "gap",
+      "text": "Subid al monte, traed madera, construid el ___.",
+      "options": ["templo", "palacio", "muro"],
+      "answer": "templo",
+      "explanation": "Ag 1,8: esta orden concreta llama al pueblo a la acción tras la denuncia de sus prioridades equivocadas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ag 1,8 · El llamado a reconstruir",
+      "direction": "es-es",
+      "tiles": ["Subid", "al", "monte", "traed", "madera", "piedra", "agua"],
+      "answer": "Subid al monte traed madera",
+      "explanation": "Ag 1,8: esta orden concreta llama al pueblo a la acción tras la denuncia de sus prioridades equivocadas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Casas lujosas mientras el templo es una ruina", "es": "Ageo 1,4" },
+        { "en": "Subid al monte, traed madera", "es": "Ageo 1,8" },
+        { "en": "Yo estoy con vosotros", "es": "Ageo 1,13" },
+        { "en": "Mayor será la gloria de este segundo templo", "es": "Ageo 2,9" },
+        { "en": "Te pondré el anillo de mando", "es": "Ageo 2,23" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué mensaje de aliento transmite Ageo tras el temor inicial del pueblo?",
+      "options": ["«Yo estoy con vosotros», oráculo del Señor", "«Habéis llegado demasiado tarde para todo»", "«Buscad otro profeta que os guíe mejor»"],
+      "correct": 0,
+      "hint": "Tras este mensaje, el pueblo emprendió las obras del templo.",
+      "explanation": "Ag 1,13: «yo estoy con vosotros —oráculo del Señor—»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo estoy con ___, oráculo del Señor.",
+      "options": ["vosotros", "ellos", "ella"],
+      "answer": "vosotros",
+      "explanation": "Ag 1,13: este mensaje de aliento impulsó al pueblo a emprender finalmente las obras del templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ag 1,13 · El aliento de Dios",
+      "direction": "es-es",
+      "tiles": ["Yo", "estoy", "con", "vosotros", "oráculo", "del", "Señor", "ellos", "ella"],
+      "answer": "Yo estoy con vosotros oráculo del Señor",
+      "explanation": "Ag 1,13: este mensaje de aliento impulsó al pueblo a emprender finalmente las obras del templo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Ageo", "es": "Profeta que anima la reconstrucción del templo tras el regreso del exilio" },
+        { "en": "Zorobabel", "es": "Gobernador de Judá, descendiente de la casa de David" },
+        { "en": "Josué", "es": "Sumo sacerdote contemporáneo de Ageo y Zorobabel" },
+        { "en": "El libro de Ageo", "es": "Uno de los más breves del Antiguo Testamento, solo dos capítulos" },
+        { "en": "Su tema central", "es": "La prioridad de la casa de Dios sobre el bienestar material propio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quiénes anima Dios con la palabra \"ánimo\" al comenzar el capítulo 2?",
+      "options": ["Solo a los sacerdotes que servían en el templo", "A Zorobabel, a Josué y a todo el pueblo", "Únicamente a los soldados del ejército de Judá"],
+      "correct": 1,
+      "hint": "El texto añade: «no temáis», recordando la salida de Egipto.",
+      "explanation": "Ag 2,4-5: «ánimo, pues, Zorobabel... ánimo también tú, Josué... ¡ánimo gentes todas!... ¡adelante, que estoy con vosotros!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Ánimo, gentes todas! ¡Adelante, que estoy con ___!",
+      "options": ["vosotros", "ellos", "nosotros"],
+      "answer": "vosotros",
+      "explanation": "Ag 2,4: este aliento se dirige a todo el pueblo, no solo a sus líderes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ag 2,4 · El ánimo para todo el pueblo",
+      "direction": "es-es",
+      "tiles": ["Ánimo", "gentes", "todas", "que", "estoy", "con", "vosotros", "ellos", "nosotros"],
+      "answer": "Ánimo gentes todas que estoy con vosotros",
+      "explanation": "Ag 2,4: este aliento se dirige a todo el pueblo, no solo a sus líderes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios que hará \"dentro de poco\", según Ageo 2?",
+      "options": ["Enviar una nueva plaga sobre todo el pueblo", "Hacer temblar cielos y tierra, y llenar el templo de gloria", "Sustituir el templo por otro edificio distinto"],
+      "correct": 1,
+      "hint": "El texto añade que «vendrán con todas sus riquezas» los pueblos.",
+      "explanation": "Ag 2,6-7: «haré temblar cielos y tierra... llenaré este templo de gloria, dice el Señor del universo»."
+    },
+    {
+      "type": "gap",
+      "text": "Dentro de poco haré temblar cielos y ___.",
+      "options": ["tierra", "mares", "montes"],
+      "answer": "tierra",
+      "explanation": "Ag 2,6: este anuncio precede a la promesa de que el templo se llenará de la gloria de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿De quién afirma Dios que son \"la plata y el oro\", en Ageo 2?",
+      "options": ["Del gobernador Zorobabel y su familia", "De los mercaderes extranjeros que comercian en la región", "Suyos, del Señor del universo"],
+      "correct": 2,
+      "hint": "Esta afirmación sostiene la promesa de que el templo será lleno de gloria.",
+      "explanation": "Ag 2,8: «míos son la plata y el oro —oráculo del Señor del universo—»."
+    },
+    {
+      "type": "gap",
+      "text": "Míos son la plata y el ___.",
+      "options": ["oro", "trigo", "vino"],
+      "answer": "oro",
+      "explanation": "Ag 2,8: esta afirmación sostiene la promesa de que Dios proveerá lo necesario para la gloria del templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ag 2,8 · La plata y el oro de Dios",
+      "direction": "es-es",
+      "tiles": ["Míos", "son", "la", "plata", "y", "el", "oro", "trigo", "vino"],
+      "answer": "Míos son la plata y el oro",
+      "explanation": "Ag 2,8: esta afirmación sostiene la promesa de que Dios proveerá lo necesario para la gloria del templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios sobre la gloria del templo reconstruido, en Ageo 2?",
+      "options": ["Que será mayor que la del primer templo", "Que será igual, ni mayor ni menor que la anterior", "Que nunca podrá compararse con el templo anterior"],
+      "correct": 0,
+      "hint": "El texto añade: «derramaré paz y prosperidad en este lugar».",
+      "explanation": "Ag 2,9: «mayor será la gloria de este segundo templo que la del primero, dice el Señor del universo»."
+    },
+    {
+      "type": "gap",
+      "text": "Mayor será la gloria de este segundo templo que la del ___.",
+      "options": ["primero", "pueblo", "rey"],
+      "answer": "primero",
+      "explanation": "Ag 2,9: esta promesa anima a no desanimarse por comparar el presente con el pasado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ag 2,9 · La gloria mayor del segundo templo",
+      "direction": "es-es",
+      "tiles": ["Mayor", "será", "la", "gloria", "de", "este", "segundo", "templo", "pueblo", "rey"],
+      "answer": "Mayor será la gloria de este segundo templo",
+      "explanation": "Ag 2,9: esta promesa anima a no desanimarse por comparar el presente con el pasado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa especial recibe Zorobabel al final del libro de Ageo?",
+      "options": ["Ser desterrado junto con el resto del pueblo", "Perder definitivamente su cargo de gobernador de Judá", "Ser tomado como siervo elegido, con el anillo de mando"],
+      "correct": 2,
+      "hint": "Antes de esto, Dios anuncia que hará temblar «cielos y tierra».",
+      "explanation": "Ag 2,23: «te tomaré, Zorobabel... siervo mío... te pondré el anillo de mando, porque te he elegido»."
+    },
+    {
+      "type": "gap",
+      "text": "Te pondré el anillo de mando, porque te he ___.",
+      "options": ["elegido", "olvidado", "abandonado"],
+      "answer": "elegido",
+      "explanation": "Ag 2,23: esta promesa final muestra que Dios sigue actuando a través de personas concretas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ag 2,23 · El anillo de mando de Zorobabel",
+      "direction": "es-es",
+      "tiles": ["Te", "pondré", "el", "anillo", "de", "mando", "corona", "cetro"],
+      "answer": "Te pondré el anillo de mando",
+      "explanation": "Ag 2,23: esta promesa final muestra que Dios sigue actuando a través de personas concretas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La denuncia de las prioridades equivocadas", "es": "Invita a examinar en qué se invierte realmente el tiempo y los recursos" },
+        { "en": "La reconstrucción del templo", "es": "Recuerda que la vida espiritual necesita también gestos y obras concretas" },
+        { "en": "El aliento de Dios", "es": "Sostiene a quienes emprenden una tarea difícil" },
+        { "en": "La promesa de una gloria mayor", "es": "Anima a no desanimarse por comparar el presente con el pasado" },
+        { "en": "La elección de Zorobabel", "es": "Muestra que Dios sigue actuando a través de personas concretas" }
+      ]
+    }
+  ]
+}

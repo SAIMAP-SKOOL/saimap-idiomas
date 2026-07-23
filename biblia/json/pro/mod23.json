@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod23",
+  "module": 23,
+  "title": "Habacuc — El Justo Vivirá por su Fe",
+  "subtitle": "Habacuc 1–3",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué queja abre Habacuc su oráculo?",
+      "options": ["¿Hasta cuándo, Señor, pediré auxilio sin que me oigas?", "¿Por qué me has dado tanta prosperidad?", "¿Cuándo terminará finalmente mi tarea profética?"],
+      "correct": 0,
+      "hint": "El texto añade: «¿por qué me haces ver crímenes y contemplar opresiones?».",
+      "explanation": "Hab 1,2: «¿hasta cuándo, Señor, pediré auxilio sin que me oigas, te gritaré: ¡violencia!, sin que me salves?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Hasta cuándo, Señor, pediré auxilio sin que me ___?",
+      "options": ["oigas", "ayudes", "perdones"],
+      "answer": "oigas",
+      "explanation": "Hab 1,2: este clamor abre el diálogo directo del profeta con Dios sobre el problema del mal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hab 1,2 · El clamor inicial del profeta",
+      "direction": "es-es",
+      "tiles": ["Hasta", "cuándo", "Señor", "pediré", "auxilio", "ayuda", "perdón"],
+      "answer": "Hasta cuándo Señor pediré auxilio",
+      "explanation": "Hab 1,2: este clamor abre el diálogo directo del profeta con Dios sobre el problema del mal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Hasta cuándo, Señor", "es": "El clamor del profeta ante la violencia sin respuesta" },
+        { "en": "Aguantaré de pie en mi guardia", "es": "La actitud de espera confiada ante Dios" },
+        { "en": "El justo por su fe vivirá", "es": "El principio central que resume la fe bíblica" },
+        { "en": "Silencio ante él toda la tierra", "es": "La reverencia debida ante la presencia de Dios" },
+        { "en": "Yo exultaré con el Señor", "es": "La alegría que no depende de las circunstancias externas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué contradicción plantea Habacuc sobre la santidad de Dios y la violencia que observa?",
+      "options": ["Que Dios se complace secretamente en la violencia humana", "Que los ojos de Dios son puros y no soportan ver la opresión, pero calla ante ella", "Que Dios ya no presta ninguna atención a los asuntos humanos"],
+      "correct": 1,
+      "hint": "El texto pregunta: «¿por qué, pues, ves a los traidores y callas?».",
+      "explanation": "Hab 1,13: «tus ojos, puros para contemplar el mal, no soportan ver la opresión. ¿Por qué, pues, ves a los traidores y callas?»."
+    },
+    {
+      "type": "gap",
+      "text": "Tus ojos, puros para contemplar el mal, no soportan ver la ___.",
+      "options": ["opresión", "belleza", "riqueza"],
+      "answer": "opresión",
+      "explanation": "Hab 1,13: esta tensión entre la santidad de Dios y el silencio ante el mal recorre todo el primer capítulo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hab 1,13 · La tensión ante el silencio de Dios",
+      "direction": "es-es",
+      "tiles": ["No", "soportan", "ver", "la", "opresión", "belleza", "riqueza"],
+      "answer": "No soportan ver la opresión",
+      "explanation": "Hab 1,13: esta tensión entre la santidad de Dios y el silencio ante el mal recorre todo el primer capítulo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud adopta Habacuc para esperar la respuesta de Dios, en el capítulo 2?",
+      "options": ["Se aleja del lugar para no tener que escuchar la respuesta", "Duerme hasta que la respuesta llegue por sí sola", "Se pone de pie en su guardia, como un centinela atento"],
+      "correct": 2,
+      "hint": "El texto añade: «observaré a ver qué me responde».",
+      "explanation": "Hab 2,1: «aguantaré de pie en mi guardia, me mantendré erguido en la muralla»."
+    },
+    {
+      "type": "gap",
+      "text": "Aguantaré de pie en mi ___.",
+      "options": ["guardia", "templo", "casa"],
+      "answer": "guardia",
+      "explanation": "Hab 2,1: esta actitud vigilante expresa la espera confiada de Habacuc ante la respuesta de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Hasta cuándo, Señor", "es": "Habacuc 1,2" },
+        { "en": "El justo por su fe vivirá", "es": "Habacuc 2,4" },
+        { "en": "Silencio ante él toda la tierra", "es": "Habacuc 2,20" },
+        { "en": "Yo exultaré con el Señor", "es": "Habacuc 3,18" },
+        { "en": "Piernas de gacela", "es": "Habacuc 3,19" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se dice sobre el cumplimiento de la visión que Dios comunica a Habacuc?",
+      "options": ["Que llegará y no tardará, aunque parezca demorarse", "Que nunca llegará a cumplirse del todo", "Que depende por completo del propio esfuerzo de Habacuc"],
+      "correct": 0,
+      "hint": "El texto añade: «si se atrasa, espera en ella».",
+      "explanation": "Hab 2,3: «la visión tiene un plazo, pero llegará a su término sin defraudar... llegará y no tardará»."
+    },
+    {
+      "type": "gap",
+      "text": "La visión... llegará y no ___.",
+      "options": ["tardará", "fallará", "cambiará"],
+      "answer": "tardará",
+      "explanation": "Hab 2,3: esta promesa invita a la espera confiada, incluso cuando la respuesta parece demorarse."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hab 2,3 · La visión que no tardará",
+      "direction": "es-es",
+      "tiles": ["La", "visión", "llegará", "y", "no", "tardará", "fallará", "cambiará"],
+      "answer": "La visión llegará y no tardará",
+      "explanation": "Hab 2,3: esta promesa invita a la espera confiada, incluso cuando la respuesta parece demorarse."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma el versículo más célebre de Habacuc sobre el justo?",
+      "options": ["Que vivirá gracias a las riquezas que logre acumular", "Que el justo vivirá por su fe", "Que el justo debe imponerse siempre por la fuerza"],
+      "correct": 1,
+      "hint": "Este versículo sería citado siglos después por san Pablo en varias de sus cartas.",
+      "explanation": "Hab 2,4: «el altanero no triunfará; pero el justo por su fe vivirá»."
+    },
+    {
+      "type": "gap",
+      "text": "El justo por su ___ vivirá.",
+      "options": ["fe", "fuerza", "riqueza"],
+      "answer": "fe",
+      "explanation": "Hab 2,4: este principio, citado por san Pablo, se convierte en clave de la relación entre Dios y el ser humano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hab 2,4 · El justo vivirá por su fe",
+      "direction": "es-es",
+      "tiles": ["El", "justo", "por", "su", "fe", "vivirá", "fuerza", "riqueza"],
+      "answer": "El justo por su fe vivirá",
+      "explanation": "Hab 2,4: este principio, citado por san Pablo, se convierte en clave de la relación entre Dios y el ser humano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Habacuc", "es": "Profeta que dialoga directamente con Dios sobre el problema del mal" },
+        { "en": "Los caldeos", "es": "Pueblo que Dios usa como instrumento de castigo, a pesar de su violencia" },
+        { "en": "Habacuc 2,4", "es": "Citado por san Pablo en las cartas a los Romanos y los Gálatas" },
+        { "en": "El capítulo 3", "es": "Un salmo o himno que cierra el libro con un canto de confianza" },
+        { "en": "El libro entero", "es": "Uno de los textos bíblicos más profundos sobre la fe en medio de la duda" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa universal aparece en medio del oráculo contra la violencia, en Habacuc 2?",
+      "options": ["Que solo unos pocos elegidos llegarán a conocer a Dios", "Que el conocimiento de Dios quedará reservado únicamente al templo", "Que la tierra se llenará del conocimiento de la gloria del Señor, como las aguas cubren el mar"],
+      "correct": 2,
+      "hint": "Esta promesa aparece en medio de una serie de «¡ay!» contra la injusticia y la violencia.",
+      "explanation": "Hab 2,14: «se llenará la tierra del conocimiento de la gloria del Señor, como las aguas cubren el mar»."
+    },
+    {
+      "type": "gap",
+      "text": "Se llenará la tierra del conocimiento de la gloria del Señor, como las aguas cubren el ___.",
+      "options": ["mar", "valle", "desierto"],
+      "answer": "mar",
+      "explanation": "Hab 2,14: esta promesa universal contrasta con los oráculos de juicio que la rodean."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hab 2,14 · El conocimiento universal de Dios",
+      "direction": "es-es",
+      "tiles": ["Como", "las", "aguas", "cubren", "el", "mar", "valle", "desierto"],
+      "answer": "Como las aguas cubren el mar",
+      "explanation": "Hab 2,14: esta promesa universal contrasta con los oráculos de juicio que la rodean."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud pide Habacuc ante la presencia de Dios en su templo?",
+      "options": ["Silencio de toda la tierra ante él", "Grandes cánticos y celebraciones constantes", "Que nadie se acerque jamás al templo"],
+      "correct": 0,
+      "hint": "Este versículo cierra la serie de denuncias contra los ídolos mudos e inútiles.",
+      "explanation": "Hab 2,20: «el Señor está en su santo templo: ¡silencio ante él toda la tierra!»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor está en su santo templo: ¡___ ante él toda la tierra!",
+      "options": ["Silencio", "Alegría", "Temor"],
+      "answer": "Silencio",
+      "explanation": "Hab 2,20: este versículo reconoce la grandeza de Dios frente a los ídolos mudos denunciados antes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hab 2,20 · El silencio reverente ante Dios",
+      "direction": "es-es",
+      "tiles": ["Silencio", "ante", "él", "toda", "la", "tierra", "Alegría", "Temor"],
+      "answer": "Silencio ante él toda la tierra",
+      "explanation": "Hab 2,20: este versículo reconoce la grandeza de Dios frente a los ídolos mudos denunciados antes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué declara Habacuc que hará, aunque falten la cosecha y el ganado, al final del libro?",
+      "options": ["Abandonar definitivamente su confianza en Dios", "Exultar con el Señor y gloriarse en Dios, su salvador", "Buscar otro dios que le conceda mejor fortuna"],
+      "correct": 1,
+      "hint": "Antes enumera: «aunque la higuera no eche yemas... aunque el olivo olvida su aceituna».",
+      "explanation": "Hab 3,17-18: «aunque la higuera no echa yemas... yo exultaré con el Señor, me gloriaré en Dios, mi salvador»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo exultaré con el Señor, me gloriaré en Dios, mi ___.",
+      "options": ["salvador", "juez", "rey"],
+      "answer": "salvador",
+      "explanation": "Hab 3,18: esta alegría, que no depende de las circunstancias externas, cierra el libro con un canto de confianza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hab 3,18 · La alegría en medio de la escasez",
+      "direction": "es-es",
+      "tiles": ["Yo", "exultaré", "con", "el", "Señor", "lloraré", "huiré"],
+      "answer": "Yo exultaré con el Señor",
+      "explanation": "Hab 3,18: esta alegría, que no depende de las circunstancias externas, cierra el libro con un canto de confianza."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Habacuc la fuerza que Dios le da, al final del libro?",
+      "options": ["Como la fuerza de un ejército completamente invencible", "Como la fuerza de un león que no teme a nadie", "Como piernas de gacela que le hacen caminar por las alturas"],
+      "correct": 2,
+      "hint": "El texto añade: «el Señor soberano es mi fuerza».",
+      "explanation": "Hab 3,19: «el Señor soberano es mi fuerza, él me da piernas de gacela, y me hace caminar por las alturas»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor soberano es mi fuerza, él me da piernas de ___.",
+      "options": ["gacela", "león", "águila"],
+      "answer": "gacela",
+      "explanation": "Hab 3,19: esta imagen final expresa la agilidad y firmeza que da la confianza en Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hab 3,19 · Las piernas de gacela",
+      "direction": "es-es",
+      "tiles": ["Me", "da", "piernas", "de", "gacela", "león", "águila"],
+      "answer": "Me da piernas de gacela",
+      "explanation": "Hab 3,19: esta imagen final expresa la agilidad y firmeza que da la confianza en Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La queja sincera ante Dios", "es": "Es compatible con una fe profunda y perseverante" },
+        { "en": "La espera activa", "es": "Permite recibir la respuesta de Dios sin desesperar" },
+        { "en": "La vida por la fe", "es": "Se convierte en principio central de la relación con Dios" },
+        { "en": "El silencio reverente", "es": "Reconoce la grandeza de Dios frente a los ídolos mudos" },
+        { "en": "La alegría en medio de la escasez", "es": "Brota de la confianza en Dios, no de las circunstancias" }
+      ]
+    }
+  ]
+}

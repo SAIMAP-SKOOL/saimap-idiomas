@@ -76,7 +76,7 @@
     {
       "code": "PRO",
       "name": "Libros Proféticos",
-      "sub": "21 módulos · Isaías a Miqueas — en curso",
+      "sub": "28 módulos · Isaías a Malaquías — Completo",
       "color": "#7C4C9E",
       "modules": [
         { "n": 1, "title": "Isaías I — La Visión y el Anuncio del Mesías",         "es": "Isaías I · La Visión y el Mesías (Is 1–12)",       "file": "pro/mod01.json" },
@@ -99,7 +99,14 @@
         { "n": 18, "title": "Amós — La Justicia como Arroyo Perenne",           "es": "Amós · La Justicia como Arroyo",                   "file": "pro/mod18.json" },
         { "n": 19, "title": "Abdías — La Soberbia de Edom y el Reinado de Dios", "es": "Abdías · Soberbia de Edom",                        "file": "pro/mod19.json" },
         { "n": 20, "title": "Jonás — La Misericordia de Dios sobre Nínive",     "es": "Jonás · Misericordia sobre Nínive",                "file": "pro/mod20.json" },
-        { "n": 21, "title": "Miqueas — Practicar el Derecho, Amar la Bondad",   "es": "Miqueas · Derecho y Bondad",                       "file": "pro/mod21.json" }
+        { "n": 21, "title": "Miqueas — Practicar el Derecho, Amar la Bondad",   "es": "Miqueas · Derecho y Bondad",                       "file": "pro/mod21.json" },
+        { "n": 22, "title": "Nahúm — La Caída de Nínive y la Justicia de Dios", "es": "Nahúm · Caída de Nínive",                          "file": "pro/mod22.json" },
+        { "n": 23, "title": "Habacuc — El Justo Vivirá por su Fe",             "es": "Habacuc · El Justo Vivirá por su Fe",              "file": "pro/mod23.json" },
+        { "n": 24, "title": "Sofonías — El Día del Señor y la Alegría de Dios", "es": "Sofonías · Día del Señor",                         "file": "pro/mod24.json" },
+        { "n": 25, "title": "Ageo — Reconstruir la Casa de Dios",              "es": "Ageo · Reconstruir la Casa de Dios",               "file": "pro/mod25.json" },
+        { "n": 26, "title": "Zacarías I — Las Visiones y el Espíritu de Dios", "es": "Zacarías I · Visiones (Zac 1–8)",                  "file": "pro/mod26.json" },
+        { "n": 27, "title": "Zacarías II — El Rey Humilde y el Pastor Traspasado", "es": "Zacarías II · El Rey Humilde (Zac 9–14)",      "file": "pro/mod27.json" },
+        { "n": 28, "title": "Malaquías — El Amor de Dios y el Mensajero Anunciado", "es": "Malaquías · El Mensajero Anunciado",          "file": "pro/mod28.json" }
       ]
     },
     { "code": "EVA", "name": "Evangelios",                     "color": "#2F8A87", "locked": true, "moduleCount": 10 },

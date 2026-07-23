@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod27",
+  "module": 27,
+  "title": "Zacarías II — El Rey Humilde y el Pastor Traspasado",
+  "subtitle": "Zacarías 9–14",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Zacarías 9 la llegada del rey mesiánico a Jerusalén?",
+      "options": ["Justo y triunfador, pobre y montado en un borrico", "Poderoso y armado, sobre un gran carro de guerra", "Silencioso y oculto, sin que nadie llegue a verlo"],
+      "correct": 0,
+      "hint": "El texto añade: «un pollino de asna».",
+      "explanation": "Zac 9,9: «mira que viene tu rey, justo y triunfador, pobre y montado en un borrico»."
+    },
+    {
+      "type": "gap",
+      "text": "Mira que viene tu rey, justo y triunfador, pobre y montado en un ___.",
+      "options": ["borrico", "caballo", "carro"],
+      "answer": "borrico",
+      "explanation": "Zac 9,9: este versículo, citado en los evangelios, anuncia la entrada humilde del Mesías en Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 9,9 · La humildad del rey mesiánico",
+      "direction": "es-es",
+      "tiles": ["Justo", "y", "triunfador", "pobre", "y", "montado", "en", "un", "borrico", "caballo", "carro"],
+      "answer": "Justo y triunfador pobre y montado en un borrico",
+      "explanation": "Zac 9,9: este versículo, citado en los evangelios, anuncia la entrada humilde del Mesías en Jerusalén."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Justo y triunfador, montado en un borrico", "es": "La humildad del rey mesiánico" },
+        { "en": "Treinta monedas de plata", "es": "El precio de la traición del pastor" },
+        { "en": "Al que traspasaron", "es": "El duelo y el perdón anunciados por Dios" },
+        { "en": "Hiere al pastor", "es": "La dispersión de las ovejas tras el ataque al pastor" },
+        { "en": "Aguas vivas de Jerusalén", "es": "La vida nueva que brota en el día final" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia este rey una vez llegado a Jerusalén, en Zacarías 9?",
+      "options": ["Una nueva guerra contra todos los pueblos vecinos", "La paz a los pueblos, rompiendo el arco guerrero", "El fin definitivo de todos los demás reyes"],
+      "correct": 1,
+      "hint": "El texto añade: «su dominio irá de mar a mar».",
+      "explanation": "Zac 9,10: «romperá el arco guerrero y proclamará la paz a los pueblos»."
+    },
+    {
+      "type": "gap",
+      "text": "Proclamará la ___ a los pueblos.",
+      "options": ["paz", "guerra", "ley"],
+      "answer": "paz",
+      "explanation": "Zac 9,10: este anuncio describe el reinado de paz universal del rey mesiánico."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 9,10 · El anuncio de la paz",
+      "direction": "es-es",
+      "tiles": ["Proclamará", "la", "paz", "a", "los", "pueblos", "guerra", "ley"],
+      "answer": "Proclamará la paz a los pueblos",
+      "explanation": "Zac 9,10: este anuncio describe el reinado de paz universal del rey mesiánico."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuánto le pagan al pastor como salario, en la parábola de Zacarías 11?",
+      "options": ["Cien monedas de oro puro", "Nada, se niegan por completo a pagarle", "Treinta monedas de plata"],
+      "correct": 2,
+      "hint": "El texto lo llama «el valioso precio en que me han tasado».",
+      "explanation": "Zac 11,12: «contaron mi salario: treinta monedas de plata»."
+    },
+    {
+      "type": "gap",
+      "text": "Contaron mi salario: treinta monedas de ___.",
+      "options": ["plata", "oro", "bronce"],
+      "answer": "plata",
+      "explanation": "Zac 11,12: este pasaje sería evocado en el relato de la traición de Judas por treinta monedas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 11,12 · Las treinta monedas de plata",
+      "direction": "es-es",
+      "tiles": ["Contaron", "mi", "salario", "treinta", "monedas", "de", "plata", "oro", "bronce"],
+      "answer": "Contaron mi salario treinta monedas de plata",
+      "explanation": "Zac 11,12: este pasaje sería evocado en el relato de la traición de Judas por treinta monedas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ordena el Señor hacer con esas treinta monedas de plata, en Zacarías 11?",
+      "options": ["Echarlas al tesoro del templo, ese valioso precio", "Repartirlas entre los pobres de la ciudad", "Devolverlas a quienes las habían pagado"],
+      "correct": 0,
+      "hint": "El texto llama a esta cantidad, con ironía, «el valioso precio en que me han tasado».",
+      "explanation": "Zac 11,13: «echa al tesoro el valioso precio en que me han tasado... cogí las treinta monedas de plata y las eché en el tesoro del templo»."
+    },
+    {
+      "type": "gap",
+      "text": "Echa al tesoro el valioso ___ en que me han tasado.",
+      "options": ["precio", "templo", "pueblo"],
+      "answer": "precio",
+      "explanation": "Zac 11,13: este gesto irónico subraya el desprecio con que fue tasado el pastor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Justo y triunfador, montado en un borrico", "es": "Zacarías 9,9" },
+        { "en": "Treinta monedas de plata", "es": "Zacarías 11,12" },
+        { "en": "Al que traspasaron", "es": "Zacarías 12,10" },
+        { "en": "Hiere al pastor", "es": "Zacarías 13,7" },
+        { "en": "El Señor será rey de todo el mundo", "es": "Zacarías 14,9" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios derramar sobre la casa de David, en Zacarías 12?",
+      "options": ["Un espíritu de guerra y venganza contra sus enemigos", "Un espíritu de perdón y de oración, mirando al que traspasaron", "Un espíritu de completa indiferencia hacia lo ocurrido"],
+      "correct": 1,
+      "hint": "El texto añade: «le harán duelo como de hijo único».",
+      "explanation": "Zac 12,10: «derramaré... un espíritu de perdón y de oración, y volverán sus ojos hacia mí, al que traspasaron»."
+    },
+    {
+      "type": "gap",
+      "text": "Volverán sus ojos hacia mí, al que ___.",
+      "options": ["traspasaron", "olvidaron", "buscaron"],
+      "answer": "traspasaron",
+      "explanation": "Zac 12,10: este versículo sería citado en el evangelio de Juan en relación con la crucifixión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 12,10 · El duelo por el traspasado",
+      "direction": "es-es",
+      "tiles": ["Volverán", "sus", "ojos", "hacia", "mí", "olvidarán", "buscarán"],
+      "answer": "Volverán sus ojos hacia mí",
+      "explanation": "Zac 12,10: este versículo sería citado en el evangelio de Juan en relación con la crucifixión."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Zacarías 9,9", "es": "Citado en los evangelios sobre la entrada de Jesús en Jerusalén" },
+        { "en": "Zacarías 11,12-13", "es": "Evocado en el relato de la traición de Judas por treinta monedas" },
+        { "en": "Zacarías 12,10", "es": "Citado en el evangelio de Juan sobre la crucifixión" },
+        { "en": "Zacarías 13,7", "es": "Citado por Jesús la noche de su arresto, según los evangelios" },
+        { "en": "Los capítulos 9–14", "es": "Se conocen como la segunda parte del libro, de tono más apocalíptico" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué orden se da contra \"el pastor\" en Zacarías 13?",
+      "options": ["Que sea coronado como rey definitivo de Israel", "Que sea protegido por encima de todos los demás", "«Despierta, espada... hiere al pastor, que se dispersen las ovejas»"],
+      "correct": 2,
+      "hint": "Este versículo sería citado por Jesús la noche de su arresto.",
+      "explanation": "Zac 13,7: «despierta, espada, contra mi pastor... hiere al pastor, que se dispersen las ovejas»."
+    },
+    {
+      "type": "gap",
+      "text": "Hiere al pastor, que se dispersen las ___.",
+      "options": ["ovejas", "naciones", "estrellas"],
+      "answer": "ovejas",
+      "explanation": "Zac 13,7: este pasaje sería citado por Jesús la noche de su arresto, según los evangelios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 13,7 · El pastor herido",
+      "direction": "es-es",
+      "tiles": ["Hiere", "al", "pastor", "que", "se", "dispersen", "las", "ovejas", "naciones", "estrellas"],
+      "answer": "Hiere al pastor que se dispersen las ovejas",
+      "explanation": "Zac 13,7: este pasaje sería citado por Jesús la noche de su arresto, según los evangelios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre con el \"tercio\" que queda tras ser purificado como la plata, en Zacarías 13?",
+      "options": ["Invocará el nombre de Dios, y Dios le responderá", "Será exterminado igual que los otros dos tercios", "Se dispersará para siempre entre las naciones"],
+      "correct": 0,
+      "hint": "El texto añade: «diré: “él es mi pueblo”, y él dirá: “el Señor es mi Dios”».",
+      "explanation": "Zac 13,9: «a ese tercio lo pasaré por el fuego y lo purificaré como se purifica la plata. Él me llamará por mi nombre y yo le responderé»."
+    },
+    {
+      "type": "gap",
+      "text": "Él me llamará por mi nombre y yo le ___.",
+      "options": ["responderé", "castigaré", "olvidaré"],
+      "answer": "responderé",
+      "explanation": "Zac 13,9: la purificación por el fuego forma un pueblo fiel a través del sufrimiento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 13,9 · El resto purificado",
+      "direction": "es-es",
+      "tiles": ["Él", "es", "mi", "pueblo", "el", "Señor", "es", "mi", "Dios", "rey", "enemigo"],
+      "answer": "Él es mi pueblo el Señor es mi Dios",
+      "explanation": "Zac 13,9: la purificación por el fuego forma un pueblo fiel a través del sufrimiento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué brotará de Jerusalén \"aquel día\", según Zacarías 14?",
+      "options": ["Un gran incendio que consumirá toda la ciudad", "Aguas vivas que fluirán hacia ambos mares", "Un ejército invencible formado por ángeles"],
+      "correct": 1,
+      "hint": "El texto añade que fluirán «tanto en verano como en invierno».",
+      "explanation": "Zac 14,8: «aquel día brotarán aguas vivas de Jerusalén: la mitad irá al mar oriental, la otra mitad al occidental»."
+    },
+    {
+      "type": "gap",
+      "text": "Aquel día brotarán aguas ___ de Jerusalén.",
+      "options": ["vivas", "turbias", "frías"],
+      "answer": "vivas",
+      "explanation": "Zac 14,8: esta imagen expresa la vida nueva que brota en el día final anunciado por Zacarías."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 14,8 · Las aguas vivas de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Brotarán", "aguas", "vivas", "de", "Jerusalén", "turbias", "frías"],
+      "answer": "Brotarán aguas vivas de Jerusalén",
+      "explanation": "Zac 14,8: esta imagen expresa la vida nueva que brota en el día final anunciado por Zacarías."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclama Zacarías 14 como conclusión final sobre el Señor?",
+      "options": ["Que será rey solo de Israel, y de ningún otro pueblo", "Que compartirá su reino con otros dioses reconocidos", "Que el Señor será rey de todo el mundo"],
+      "correct": 2,
+      "hint": "El texto añade: «aquel día el Señor y su nombre serán únicos».",
+      "explanation": "Zac 14,9: «el Señor será rey de todo el mundo»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor será ___ de todo el mundo.",
+      "options": ["rey", "juez", "huésped"],
+      "answer": "rey",
+      "explanation": "Zac 14,9: esta afirmación final expresa que el reinado de Dios alcanza a todo el mundo, no solo a un pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Zac 14,9 · El reinado universal de Dios",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "será", "rey", "de", "todo", "el", "mundo", "juez", "huésped"],
+      "answer": "El Señor será rey de todo el mundo",
+      "explanation": "Zac 14,9: esta afirmación final expresa que el reinado de Dios alcanza a todo el mundo, no solo a un pueblo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La humildad del rey mesiánico", "es": "Contrasta con la imagen de un rey guerrero y poderoso" },
+        { "en": "La traición del pastor", "es": "Anticipa figuras del sufrimiento del Mesías en el Nuevo Testamento" },
+        { "en": "El duelo por \"el traspasado\"", "es": "Se convierte en ocasión de perdón y conversión" },
+        { "en": "La purificación por el fuego", "es": "Forma un pueblo fiel a través del sufrimiento" },
+        { "en": "El reinado final de Dios", "es": "Alcanza a todo el mundo, no solo a un pueblo" }
+      ]
+    }
+  ]
+}
