@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod14",
+  "module": 14,
+  "title": "Daniel I — La Fidelidad en Babilonia",
+  "subtitle": "Daniel 1–6",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué decide Daniel respecto a los manjares y el vino de la mesa real?",
+      "options": ["No contaminarse con ellos, y pide una alimentación distinta", "Comerlos sin ningún reparo, igual que sus compañeros", "Rechazar por completo cualquier alimento durante meses"],
+      "correct": 0,
+      "hint": "Propuso una prueba de diez días con legumbres y agua.",
+      "explanation": "Dn 1,8: «Daniel hizo el propósito de no contaminarse con los manjares, ni con el vino de la mesa real»."
+    },
+    {
+      "type": "gap",
+      "text": "Daniel hizo el propósito de no ___ con los manjares.",
+      "options": ["contaminarse", "cansarse", "perderse"],
+      "answer": "contaminarse",
+      "explanation": "Dn 1,8: esta decisión inicial muestra la fidelidad de Daniel a sus convicciones desde el comienzo del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 1,8 · La fidelidad de Daniel",
+      "direction": "es-es",
+      "tiles": ["Daniel", "hizo", "el", "propósito", "de", "no", "contaminarse", "cansarse", "perderse"],
+      "answer": "Daniel hizo el propósito de no contaminarse",
+      "explanation": "Dn 1,8: esta decisión inicial muestra la fidelidad de Daniel a sus convicciones desde el comienzo del libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "No contaminarse con los manjares", "es": "La fidelidad de Daniel a sus convicciones" },
+        { "en": "Cabeza de oro", "es": "El sueño profético de los grandes imperios" },
+        { "en": "Un reino que nunca será destruido", "es": "La esperanza en el reino definitivo de Dios" },
+        { "en": "Aunque no lo hiciera", "es": "La fe incondicional de los tres jóvenes" },
+        { "en": "Cerró las fauces de los leones", "es": "La protección de Dios a quien le es fiel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué propone Daniel para probar su decisión sobre la comida?",
+      "options": ["Ayunar por completo durante treinta días seguidos", "Comer legumbres y beber agua durante diez días", "Comer solo pan y miel durante un año entero"],
+      "correct": 1,
+      "hint": "Al cabo de esos días, tenían mejor aspecto que los demás jóvenes.",
+      "explanation": "Dn 1,12: «danos legumbres para comer y agua para beber»."
+    },
+    {
+      "type": "gap",
+      "text": "Danos legumbres para comer y ___ para beber.",
+      "options": ["agua", "vino", "leche"],
+      "answer": "agua",
+      "explanation": "Dn 1,12: esta prueba de diez días confirmó que la fidelidad de Daniel no le perjudicaba, sino todo lo contrario."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué don especial recibe Daniel además de la sabiduría común a sus compañeros?",
+      "options": ["El don de curar toda clase de enfermedades", "El don de hablar todas las lenguas del imperio", "El don de interpretar visiones y sueños"],
+      "correct": 2,
+      "hint": "Este don sería decisivo ante el sueño de Nabucodonosor.",
+      "explanation": "Dn 1,17: «Daniel sabía, además, interpretar visiones y sueños»."
+    },
+    {
+      "type": "gap",
+      "text": "Daniel sabía, además, interpretar visiones y ___.",
+      "options": ["sueños", "estrellas", "señales"],
+      "answer": "sueños",
+      "explanation": "Dn 1,17: este don especial de Daniel será decisivo en los capítulos siguientes del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 1,17 · El don de interpretar sueños",
+      "direction": "es-es",
+      "tiles": ["Daniel", "sabía", "interpretar", "visiones", "y", "sueños", "estrellas", "señales"],
+      "answer": "Daniel sabía interpretar visiones y sueños",
+      "explanation": "Dn 1,17: este don especial de Daniel será decisivo en los capítulos siguientes del libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "No contaminarse con los manjares", "es": "Daniel 1,8" },
+        { "en": "Cabeza de oro", "es": "Daniel 2,32" },
+        { "en": "Un reino que nunca será destruido", "es": "Daniel 2,44" },
+        { "en": "Aunque no lo hiciera", "es": "Daniel 3,18" },
+        { "en": "Cerró las fauces de los leones", "es": "Daniel 6,23" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Daniel la gran estatua del sueño de Nabucodonosor?",
+      "options": ["Cabeza de oro, pecho de plata, vientre de bronce, piernas de hierro y pies de hierro con barro", "Una estatua hecha enteramente de piedra sin ningún adorno", "Un ídolo con forma de animal salvaje y alas"],
+      "correct": 0,
+      "hint": "Cada material representaba un reino sucesivo en la historia.",
+      "explanation": "Dn 2,32-33: «aquella estatua tenía la cabeza de oro fino, el pecho y los brazos de plata, el vientre y los muslos de bronce, las piernas de hierro»."
+    },
+    {
+      "type": "gap",
+      "text": "Aquella estatua tenía la cabeza de ___.",
+      "options": ["oro", "plata", "bronce"],
+      "answer": "oro",
+      "explanation": "Dn 2,32: esta estatua representa la sucesión de los grandes imperios humanos, pasajeros ante Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 2,32 · El sueño de la gran estatua",
+      "direction": "es-es",
+      "tiles": ["Cabeza", "de", "oro", "pecho", "de", "plata", "bronce", "hierro"],
+      "answer": "Cabeza de oro pecho de plata",
+      "explanation": "Dn 2,32: esta estatua representa la sucesión de los grandes imperios humanos, pasajeros ante Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué destruye finalmente la estatua del sueño de Nabucodonosor?",
+      "options": ["Un incendio provocado por los sabios de Babilonia", "Una piedra desprendida sin intervención humana", "Un terremoto que sacude toda la llanura de Dura"],
+      "correct": 1,
+      "hint": "Esa piedra creció después hasta convertirse en una gran montaña.",
+      "explanation": "Dn 2,34: «una piedra se desprendió sin intervención humana, chocó con los pies de hierro y barro de la estatua, y los hizo pedazos»."
+    },
+    {
+      "type": "gap",
+      "text": "Una piedra se desprendió sin intervención ___.",
+      "options": ["humana", "divina", "angélica"],
+      "answer": "humana",
+      "explanation": "Dn 2,34: esta piedra simboliza el reino definitivo que Dios establecerá más allá de los imperios humanos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 2,34 · La piedra que destruye la estatua",
+      "direction": "es-es",
+      "tiles": ["Una", "piedra", "se", "desprendió", "sin", "intervención", "humana", "divina", "angélica"],
+      "answer": "Una piedra se desprendió sin intervención humana",
+      "explanation": "Dn 2,34: esta piedra simboliza el reino definitivo que Dios establecerá más allá de los imperios humanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Daniel sobre el reino que Dios establecerá, en la interpretación del sueño?",
+      "options": ["Que será tan poderoso como los anteriores, pero igual de pasajero", "Que pronto se dividirá entre varios pueblos rivales", "Que nunca será destruido y durará para siempre"],
+      "correct": 2,
+      "hint": "El texto añade que «destruirá y acabará con todos los demás reinos».",
+      "explanation": "Dn 2,44: «el Dios del cielo suscitará un reino que nunca será destruido, ni su dominio pasará a otro pueblo... él durará por siempre»."
+    },
+    {
+      "type": "gap",
+      "text": "El Dios del cielo suscitará un reino que nunca será ___.",
+      "options": ["destruido", "dividido", "olvidado"],
+      "answer": "destruido",
+      "explanation": "Dn 2,44: esta promesa expresa la esperanza en el reino definitivo de Dios, más allá de todos los imperios humanos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 2,44 · El reino que nunca será destruido",
+      "direction": "es-es",
+      "tiles": ["Un", "reino", "que", "nunca", "será", "destruido", "dividido", "olvidado"],
+      "answer": "Un reino que nunca será destruido",
+      "explanation": "Dn 2,44: esta promesa expresa la esperanza en el reino definitivo de Dios, más allá de todos los imperios humanos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato correspondiente",
+      "pairs": [
+        { "en": "Daniel", "es": "Joven judío deportado, dotado de sabiduría para interpretar sueños" },
+        { "en": "Sidrac, Misac y Abdénago", "es": "Nombres babilónicos de Ananías, Misael y Azarías" },
+        { "en": "Nabucodonosor", "es": "Rey de Babilonia que tuvo el sueño de la gran estatua" },
+        { "en": "Darío", "es": "Rey que firmó el decreto que llevó a Daniel al foso de los leones" },
+        { "en": "El ángel del Señor", "es": "Interviene tanto en el horno como en el foso de los leones" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responden Sidrac, Misac y Abdénago ante la amenaza del horno encendido?",
+      "options": ["Que Dios puede librarlos, pero que lo adorarán aunque no lo haga", "Que prefieren negociar con el rey antes de arriesgarse", "Que aceptan adorar la estatua para salvar su vida"],
+      "correct": 0,
+      "hint": "Antes dijeron: «a eso no tenemos por qué responderte».",
+      "explanation": "Dn 3,17-18: «si nuestro Dios... puede librarnos, nos librará... y aunque no lo hiciera, que te conste... que no adoramos la estatua de oro»."
+    },
+    {
+      "type": "gap",
+      "text": "Si nuestro Dios puede librarnos... y aunque no lo hiciera, no adoramos la estatua de ___.",
+      "options": ["oro", "plata", "piedra"],
+      "answer": "oro",
+      "explanation": "Dn 3,18: esta respuesta expresa una fe incondicional que no depende de que Dios actúe según lo esperado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 3,18 · La fe incondicional",
+      "direction": "es-es",
+      "tiles": ["Aunque", "no", "lo", "hiciera", "no", "adoramos", "la", "estatua", "templo", "ídolo"],
+      "answer": "Aunque no lo hiciera no adoramos la estatua",
+      "explanation": "Dn 3,18: esta respuesta expresa una fe incondicional que no depende de que Dios actúe según lo esperado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre dentro del horno encendido, según el relato de Daniel 3?",
+      "options": ["Los tres jóvenes mueren, pero sus almas suben al instante al cielo", "El ángel del Señor aparta las llamas y el fuego no les hace ningún daño", "El horno se apaga por sí solo antes de que ellos entren"],
+      "correct": 1,
+      "hint": "Después, los tres comenzaron a cantar himnos dentro del horno.",
+      "explanation": "Dn 3,49-50: «el ángel del Señor descendió al horno... el fuego no les tocó en absoluto, ni les hizo daño»."
+    },
+    {
+      "type": "gap",
+      "text": "El fuego no les tocó en absoluto, ni les hizo ___.",
+      "options": ["daño", "frío", "sombra"],
+      "answer": "daño",
+      "explanation": "Dn 3,50: este milagro confirmó la fidelidad de Dios hacia quienes confiaron plenamente en él."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 3,50 · La protección en el horno",
+      "direction": "es-es",
+      "tiles": ["El", "fuego", "no", "les", "tocó", "en", "absoluto", "quemó", "dañó"],
+      "answer": "El fuego no les tocó en absoluto",
+      "explanation": "Dn 3,50: este milagro confirmó la fidelidad de Dios hacia quienes confiaron plenamente en él."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Daniel a pesar del decreto que prohibía orar a cualquier dios que no fuera el rey?",
+      "options": ["Deja de orar temporalmente para evitar problemas", "Ora en secreto, de noche, para que nadie pueda verlo", "Sigue orando tres veces al día, como de costumbre, y es librado de los leones"],
+      "correct": 2,
+      "hint": "Sus ventanas «daban hacia Jerusalén», y oraba «como solía hacerlo antes».",
+      "explanation": "Dn 6,10.23: «se ponía de rodillas tres veces al día... mi Dios envió a su ángel a cerrar las fauces de los leones»."
+    },
+    {
+      "type": "gap",
+      "text": "Mi Dios envió a su ángel a cerrar las fauces de los ___.",
+      "options": ["leones", "enemigos", "vientos"],
+      "answer": "leones",
+      "explanation": "Dn 6,23: esta protección de Dios confirma la fidelidad constante de Daniel, incluso bajo amenaza de muerte."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 6,23 · La protección en el foso de los leones",
+      "direction": "es-es",
+      "tiles": ["Envió", "a", "su", "ángel", "a", "cerrar", "las", "fauces", "puertas", "manos"],
+      "answer": "Envió a su ángel a cerrar las fauces",
+      "explanation": "Dn 6,23: esta protección de Dios confirma la fidelidad constante de Daniel, incluso bajo amenaza de muerte."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La fidelidad en lo pequeño", "es": "Prepara para permanecer firme en las grandes pruebas" },
+        { "en": "La interpretación de los sueños", "es": "Muestra la sabiduría que Dios concede a quien confía en él" },
+        { "en": "Los grandes imperios humanos", "es": "Son pasajeros frente al reino definitivo de Dios" },
+        { "en": "La fe incondicional", "es": "No depende de que Dios actúe según lo esperado" },
+        { "en": "La oración constante", "es": "Sostiene la fidelidad incluso bajo amenaza de muerte" }
+      ]
+    }
+  ]
+}

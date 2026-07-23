@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod12",
+  "module": 12,
+  "title": "Ezequiel III — El Buen Pastor y el Valle de los Huesos Secos",
+  "subtitle": "Ezequiel 25–39",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué denuncia Dios en el oráculo contra los pastores de Israel?",
+      "options": ["Que se apacientan a sí mismos en vez de cuidar del rebaño", "Que han vendido el rebaño a otras naciones", "Que se niegan a comer la carne de las ovejas"],
+      "correct": 0,
+      "hint": "El texto añade: «os coméis las partes mejores, os vestís con su lana».",
+      "explanation": "Ez 34,2-3: «¡ay de los pastores de Israel que se apacientan a sí mismos! ¿No deben los pastores apacentar las ovejas?»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Ay de los pastores de Israel que se ___ a sí mismos!",
+      "options": ["apacientan", "esconden", "enriquecen"],
+      "answer": "apacientan",
+      "explanation": "Ez 34,2: esta denuncia abre el oráculo contra los malos gobernantes de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 34,2 · La denuncia contra los malos pastores",
+      "direction": "es-es",
+      "tiles": ["Ay", "de", "los", "pastores", "que", "se", "apacientan", "a", "sí", "mismos", "esconden", "enriquecen"],
+      "answer": "Ay de los pastores que se apacientan a sí mismos",
+      "explanation": "Ez 34,2: esta denuncia abre el oráculo contra los malos gobernantes de Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Ay de los pastores que se apacientan a sí mismos", "es": "La denuncia de los malos gobernantes" },
+        { "en": "Yo mismo buscaré mi rebaño", "es": "Dios se compromete a cuidar personalmente de su pueblo" },
+        { "en": "Mi siervo David", "es": "La esperanza en un pastor mesiánico" },
+        { "en": "¿Podrán revivir estos huesos?", "es": "La pregunta que abre la visión de la esperanza" },
+        { "en": "Abriré vuestros sepulcros", "es": "La promesa de restauración total del pueblo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha Dios a los pastores sobre las ovejas perdidas, en Ezequiel 34?",
+      "options": ["Que las vendieron a buen precio a otras naciones", "Que no buscaron a la descarriada ni a la que se había perdido", "Que las llevaron a pastar demasiado lejos"],
+      "correct": 1,
+      "hint": "El texto añade que tampoco «curaron a la enferma ni vendaron a la herida».",
+      "explanation": "Ez 34,4: «no habéis recogido a la descarriada, ni buscado a la que se había perdido»."
+    },
+    {
+      "type": "gap",
+      "text": "No habéis buscado a la que se había ___.",
+      "options": ["perdido", "cansado", "dormido"],
+      "answer": "perdido",
+      "explanation": "Ez 34,4: este reproche contrasta con la promesa posterior de Dios de buscar él mismo a su rebaño."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete hacer Dios ante el fracaso de los malos pastores?",
+      "options": ["Elegir pastores todavía más severos que los anteriores", "Abandonar definitivamente a su rebaño disperso", "Buscar él mismo a su rebaño y cuidarlo"],
+      "correct": 2,
+      "hint": "El texto añade: «como cuida un pastor de su grey dispersa, así cuidaré yo de mi rebaño».",
+      "explanation": "Ez 34,11: «yo mismo buscaré mi rebaño y lo cuidaré»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo mismo buscaré mi rebaño y lo ___.",
+      "options": ["cuidaré", "venderé", "contaré"],
+      "answer": "cuidaré",
+      "explanation": "Ez 34,11: esta promesa expresa el compromiso personal de Dios con el cuidado de su pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 34,11 · El compromiso personal de Dios",
+      "direction": "es-es",
+      "tiles": ["Yo", "mismo", "buscaré", "mi", "rebaño", "y", "lo", "cuidaré", "venderé", "contaré"],
+      "answer": "Yo mismo buscaré mi rebaño y lo cuidaré",
+      "explanation": "Ez 34,11: esta promesa expresa el compromiso personal de Dios con el cuidado de su pueblo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Ay de los pastores", "es": "Ezequiel 34,2" },
+        { "en": "Mi siervo David", "es": "Ezequiel 34,23" },
+        { "en": "¿Podrán revivir estos huesos?", "es": "Ezequiel 37,3" },
+        { "en": "Sopla sobre estos muertos", "es": "Ezequiel 37,9" },
+        { "en": "Abriré vuestros sepulcros", "es": "Ezequiel 37,12" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué compromiso detalla Dios como buen pastor, en Ezequiel 34?",
+      "options": ["Buscar a la oveja perdida y recoger a la descarriada", "Sacrificar a las ovejas más débiles del rebaño", "Encerrar a todo el rebaño en un solo corral"],
+      "correct": 0,
+      "hint": "El texto añade: «vendaré a las heridas; fortaleceré a la enferma».",
+      "explanation": "Ez 34,16: «buscaré la oveja perdida, recogeré a la descarriada; vendaré a las heridas; fortaleceré a la enferma»."
+    },
+    {
+      "type": "gap",
+      "text": "Buscaré la oveja perdida, recogeré a la ___.",
+      "options": ["descarriada", "herida", "mansa"],
+      "answer": "descarriada",
+      "explanation": "Ez 34,16: este compromiso detalla cómo Dios mismo actuará como el buen pastor de su rebaño."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 34,16 · El compromiso del buen pastor",
+      "direction": "es-es",
+      "tiles": ["Buscaré", "la", "oveja", "perdida", "recogeré", "a", "la", "descarriada", "herida", "mansa"],
+      "answer": "Buscaré la oveja perdida recogeré a la descarriada",
+      "explanation": "Ez 34,16: este compromiso detalla cómo Dios mismo actuará como el buen pastor de su rebaño."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién suscita Dios como \"pastor único\" de su pueblo, en Ezequiel 34?",
+      "options": ["A un ángel enviado especialmente desde el cielo", "A su siervo David", "A un sacerdote elegido por sorteo entre el pueblo"],
+      "correct": 1,
+      "hint": "El texto añade: «yo, el Señor, seré su Dios, y mi siervo David, príncipe en medio de ellos».",
+      "explanation": "Ez 34,23: «suscitaré un único pastor que las apaciente: mi siervo David; él las apacentará, él será su pastor»."
+    },
+    {
+      "type": "gap",
+      "text": "Suscitaré un único pastor que las apaciente: mi siervo ___.",
+      "options": ["David", "Moisés", "Salomón"],
+      "answer": "David",
+      "explanation": "Ez 34,23: este anuncio expresa la esperanza mesiánica ligada a la casa de David."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 34,23 · El pastor único",
+      "direction": "es-es",
+      "tiles": ["Mi", "siervo", "David", "él", "será", "su", "pastor", "Moisés", "Salomón"],
+      "answer": "Mi siervo David él será su pastor",
+      "explanation": "Ez 34,23: este anuncio expresa la esperanza mesiánica ligada a la casa de David."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "El oráculo de los pastores", "es": "Denuncia a los malos gobernantes de Israel" },
+        { "en": "La visión del valle", "es": "Representa la desesperanza de todo el pueblo en el destierro" },
+        { "en": "Las dos varas unidas", "es": "Simbolizan la reunificación de Judá e Israel" },
+        { "en": "El \"pastor único\"", "es": "Anuncia una esperanza mesiánica ligada a David" },
+        { "en": "El espíritu que da vida", "es": "Recuerda el aliento de vida del relato de la creación" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta hace Dios a Ezequiel ante el valle de huesos secos?",
+      "options": ["¿Quién ha permitido esta gran masacre?", "¿Cuándo se secaron exactamente estos huesos?", "¿Podrán revivir estos huesos?"],
+      "correct": 2,
+      "hint": "Ezequiel respondió: «Señor, Dios mío, tú lo sabes».",
+      "explanation": "Ez 37,3: «hijo de hombre: ¿podrán revivir estos huesos?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Podrán revivir estos ___?",
+      "options": ["huesos", "muertos", "hombres"],
+      "answer": "huesos",
+      "explanation": "Ez 37,3: esta pregunta abre la gran visión de la esperanza en medio de la desesperanza del destierro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 37,3 · La respuesta de Ezequiel",
+      "direction": "es-es",
+      "tiles": ["Señor", "Dios", "mío", "tú", "lo", "sabes", "nadie", "todos"],
+      "answer": "Señor Dios mío tú lo sabes",
+      "explanation": "Ez 37,3: esta respuesta de Ezequiel deja la pregunta abierta a la acción de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ordena Dios que se diga al espíritu para que los huesos revivan?",
+      "options": ["Que venga de los cuatro vientos y sople sobre los muertos", "Que descienda directamente desde el interior del templo", "Que espere hasta que llegue el día señalado"],
+      "correct": 0,
+      "hint": "Al cumplirse esto, «revivieron y se pusieron en pie».",
+      "explanation": "Ez 37,9: «ven de los cuatro vientos, espíritu, y sopla sobre estos muertos para que vivan»."
+    },
+    {
+      "type": "gap",
+      "text": "Ven de los cuatro vientos, espíritu, y sopla sobre estos ___.",
+      "options": ["muertos", "huesos", "campos"],
+      "answer": "muertos",
+      "explanation": "Ez 37,9: esta orden al espíritu culmina la visión con el don de la vida nueva."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 37,9 · El espíritu que da vida",
+      "direction": "es-es",
+      "tiles": ["Ven", "de", "los", "cuatro", "vientos", "espíritu", "cielos", "montes"],
+      "answer": "Ven de los cuatro vientos espíritu",
+      "explanation": "Ez 37,9: esta orden al espíritu culmina la visión con el don de la vida nueva."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué representan los huesos secos del valle, según la explicación de Dios?",
+      "options": ["A los ejércitos enemigos ya derrotados en la guerra", "A toda la casa de Israel, que había perdido la esperanza", "A los falsos profetas que habían engañado al pueblo"],
+      "correct": 1,
+      "hint": "El pueblo decía: «se han secado nuestros huesos... estamos perdidos».",
+      "explanation": "Ez 37,11: «estos huesos son la entera casa de Israel, que dice: se han secado nuestros huesos, se ha desvanecido nuestra esperanza»."
+    },
+    {
+      "type": "gap",
+      "text": "Se han secado nuestros huesos, se ha desvanecido nuestra ___.",
+      "options": ["esperanza", "fuerza", "memoria"],
+      "answer": "esperanza",
+      "explanation": "Ez 37,11: esta queja del pueblo desterrado da paso a la gran promesa de restauración."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 37,11 · La desesperanza del pueblo",
+      "direction": "es-es",
+      "tiles": ["Se", "han", "secado", "nuestros", "huesos", "manos", "campos"],
+      "answer": "Se han secado nuestros huesos",
+      "explanation": "Ez 37,11: esta queja del pueblo desterrado da paso a la gran promesa de restauración."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios hacer con los \"sepulcros\" de su pueblo, en Ezequiel 37?",
+      "options": ["Sellarlos para siempre como recuerdo del pasado", "Trasladarlos a otro país mucho más lejano", "Abrirlos y sacar de ellos a su pueblo, llevándolo a su tierra"],
+      "correct": 2,
+      "hint": "El texto añade: «comprenderéis que soy el Señor».",
+      "explanation": "Ez 37,12-13: «yo mismo abriré vuestros sepulcros, y os sacaré de ellos, pueblo mío, y os llevaré a la tierra de Israel»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo mismo abriré vuestros ___, y os sacaré de ellos, pueblo mío.",
+      "options": ["sepulcros", "corazones", "ojos"],
+      "answer": "sepulcros",
+      "explanation": "Ez 37,12: esta promesa de restauración total incluye tanto el cuerpo como el espíritu del pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 37,12 · La promesa de restauración",
+      "direction": "es-es",
+      "tiles": ["Abriré", "vuestros", "sepulcros", "y", "os", "sacaré", "corazones", "ojos"],
+      "answer": "Abriré vuestros sepulcros y os sacaré",
+      "explanation": "Ez 37,12: esta promesa de restauración total incluye tanto el cuerpo como el espíritu del pueblo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El mal liderazgo", "es": "Debe rendir cuentas ante Dios por el daño causado" },
+        { "en": "El buen pastor", "es": "Busca personalmente a quien está perdido o herido" },
+        { "en": "La esperanza aparentemente imposible", "es": "Puede renacer solo por la acción del espíritu de Dios" },
+        { "en": "La reunificación del pueblo", "es": "Supera las viejas divisiones internas" },
+        { "en": "La restauración final", "es": "Incluye tanto el cuerpo como el espíritu del pueblo" }
+      ]
+    }
+  ]
+}

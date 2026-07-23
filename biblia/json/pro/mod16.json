@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod16",
+  "module": 16,
+  "title": "Oseas — El Amor Fiel de Dios ante la Infidelidad de Israel",
+  "subtitle": "Oseas 1–14",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué le pide Dios a Oseas al comienzo del libro?",
+      "options": ["Que se despose con una mujer ligada a la prostitución, como signo profético", "Que abandone su ciudad y viva en el desierto", "Que construya un altar en cada ciudad de Israel"],
+      "correct": 0,
+      "hint": "Esta acción representa cómo «el país no hace sino prostituirse, apartándose del Señor».",
+      "explanation": "Os 1,2: «ve, despósate con una mujer ligada a la prostitución... porque el país no hace sino prostituirse»."
+    },
+    {
+      "type": "gap",
+      "text": "Ve, despósate con una mujer ligada a la ___.",
+      "options": ["prostitución", "pobreza", "tristeza"],
+      "answer": "prostitución",
+      "explanation": "Os 1,2: este signo profético del matrimonio de Oseas representa la infidelidad de todo el pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os 1,2 · El signo profético del matrimonio",
+      "direction": "es-es",
+      "tiles": ["Despósate", "con", "una", "mujer", "ligada", "a", "la", "prostitución", "pobreza", "tristeza"],
+      "answer": "Despósate con una mujer ligada a la prostitución",
+      "explanation": "Os 1,2: este signo profético del matrimonio de Oseas representa la infidelidad de todo el pueblo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Despósate con una mujer ligada a la prostitución", "es": "El signo profético del matrimonio de Oseas" },
+        { "en": "Tú eres mi pueblo", "es": "La restauración final de la alianza" },
+        { "en": "Vamos, volvamos al Señor", "es": "La invitación a la conversión sincera" },
+        { "en": "Misericordia y no sacrificio", "es": "La prioridad del amor sobre el culto externo" },
+        { "en": "De Egipto llamé a mi hijo", "es": "El amor paternal de Dios desde los orígenes de Israel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios sobre \"No mi pueblo\" en el gran oráculo de restauración de Oseas 2?",
+      "options": ["Que permanecerá así, sin cambio, para siempre", "Que le dirá «tú eres mi pueblo»", "Que solo será restaurado después de un siglo entero"],
+      "correct": 1,
+      "hint": "Este cambio de nombre revierte el juicio anunciado al comienzo del libro.",
+      "explanation": "Os 2,25: «diré a “No mi pueblo”: “Tú eres mi pueblo”; y él dirá: “Mi Dios”»."
+    },
+    {
+      "type": "gap",
+      "text": "Le dirá «Tú eres mi ___».",
+      "options": ["pueblo", "hijo", "siervo"],
+      "answer": "pueblo",
+      "explanation": "Os 2,25: este cambio de nombre expresa la restauración final de la alianza entre Dios e Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os 2,25 · La restauración de la alianza",
+      "direction": "es-es",
+      "tiles": ["Le", "dirá", "tú", "eres", "mi", "pueblo", "hijo", "siervo"],
+      "answer": "Le dirá tú eres mi pueblo",
+      "explanation": "Os 2,25: este cambio de nombre expresa la restauración final de la alianza entre Dios e Israel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabras describe Dios su futura alianza con Israel, en Oseas 2?",
+      "options": ["Como un contrato comercial ventajoso para ambas partes", "Como una alianza puramente militar entre iguales", "Como un desposorio en justicia, derecho, misericordia y ternura"],
+      "correct": 2,
+      "hint": "El texto añade: «me desposaré contigo en fidelidad y conocerás al Señor».",
+      "explanation": "Os 2,21-22: «me desposaré contigo para siempre... en justicia y en derecho, en misericordia y en ternura»."
+    },
+    {
+      "type": "gap",
+      "text": "Me desposaré contigo en justicia y en ___.",
+      "options": ["derecho", "riqueza", "poder"],
+      "answer": "derecho",
+      "explanation": "Os 2,21: esta imagen matrimonial describe la futura alianza renovada entre Dios e Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Despósate con una mujer", "es": "Oseas 1,2" },
+        { "en": "Tú eres mi pueblo", "es": "Oseas 2,23" },
+        { "en": "Misericordia y no sacrificio", "es": "Oseas 6,6" },
+        { "en": "De Egipto llamé a mi hijo", "es": "Oseas 11,1" },
+        { "en": "Curaré su deslealtad", "es": "Oseas 14,5" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invitación hace el pueblo en el capítulo 6 de Oseas?",
+      "options": ["«Vamos, volvamos al Señor», confiando en que él curará y hará resurgir", "«Vamos a Egipto», buscando la protección de un pueblo extranjero", "«Construyamos un templo nuevo» sin necesidad de volver a Dios"],
+      "correct": 0,
+      "hint": "El texto añade: «su manifestación es segura como la aurora».",
+      "explanation": "Os 6,1-2: «vamos, volvamos al Señor... en dos días nos volverá a la vida y al tercero nos hará resurgir»."
+    },
+    {
+      "type": "gap",
+      "text": "Vamos, volvamos al ___.",
+      "options": ["Señor", "templo", "desierto"],
+      "answer": "Señor",
+      "explanation": "Os 6,1: esta invitación expresa el deseo de una conversión sincera hacia Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os 6,1 · La invitación a la conversión",
+      "direction": "es-es",
+      "tiles": ["Vamos", "volvamos", "al", "Señor", "él", "nos", "curará", "templo", "desierto"],
+      "answer": "Vamos volvamos al Señor él nos curará",
+      "explanation": "Os 6,1: esta invitación expresa el deseo de una conversión sincera hacia Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué prefiere Dios antes que los sacrificios, según el famoso versículo de Oseas 6?",
+      "options": ["Riquezas y ofrendas abundantes en el templo", "Misericordia y conocimiento de Dios", "Silencio absoluto durante todo el culto"],
+      "correct": 1,
+      "hint": "Este versículo sería citado siglos después por Jesús en el evangelio de Mateo.",
+      "explanation": "Os 6,6: «quiero misericordia y no sacrificio, conocimiento de Dios, más que holocaustos»."
+    },
+    {
+      "type": "gap",
+      "text": "Quiero misericordia y no ___.",
+      "options": ["sacrificio", "silencio", "ayuno"],
+      "answer": "sacrificio",
+      "explanation": "Os 6,6: este versículo, citado después por Jesús, expresa la prioridad del amor sobre el culto puramente externo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os 6,6 · La prioridad de la misericordia",
+      "direction": "es-es",
+      "tiles": ["Quiero", "misericordia", "y", "no", "sacrificio", "silencio", "ayuno"],
+      "answer": "Quiero misericordia y no sacrificio",
+      "explanation": "Os 6,6: este versículo, citado después por Jesús, expresa la prioridad del amor sobre el culto puramente externo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "El matrimonio de Oseas", "es": "Con Gómer se convierte en signo profético de la infidelidad de Israel" },
+        { "en": "Los nombres de los hijos", "es": "\"Yezrael\", \"No compadecida\" y \"No mi pueblo\" anuncian el juicio" },
+        { "en": "El libro entero", "es": "Usa la imagen del matrimonio para hablar de la alianza entre Dios e Israel" },
+        { "en": "Oseas 6,6", "es": "Fue citado por Jesús en el evangelio de Mateo" },
+        { "en": "Oseas 11,1", "es": "Fue aplicado por Mateo a la huida de la Sagrada Familia a Egipto" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Dios su relación con Israel desde su origen, en Oseas 11?",
+      "options": ["Como la de un juez distante y siempre severo", "Como la de un rey que exige tributo constante", "Como la de un padre que amó a su hijo desde joven y lo llamó de Egipto"],
+      "correct": 2,
+      "hint": "Este versículo sería aplicado después a la huida de la Sagrada Familia a Egipto.",
+      "explanation": "Os 11,1: «cuando Israel era joven lo amé y de Egipto llamé a mi hijo»."
+    },
+    {
+      "type": "gap",
+      "text": "Cuando Israel era joven lo amé y de Egipto llamé a mi ___.",
+      "options": ["hijo", "pueblo", "siervo"],
+      "answer": "hijo",
+      "explanation": "Os 11,1: este versículo expresa el amor paternal de Dios hacia Israel desde sus orígenes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os 11,1 · El amor paternal desde el origen",
+      "direction": "es-es",
+      "tiles": ["Cuando", "Israel", "era", "joven", "lo", "amé", "viejo", "fuerte"],
+      "answer": "Cuando Israel era joven lo amé",
+      "explanation": "Os 11,1: este versículo expresa el amor paternal de Dios hacia Israel desde sus orígenes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen usa Dios para describir cómo cuidó a Efraín cuando era niño, en Oseas 11?",
+      "options": ["Como quien lo tomó en sus brazos y lo alzó hasta sus mejillas", "Como quien lo dejó crecer completamente solo, sin ayuda", "Como quien lo entregó a otros pueblos para que lo educaran"],
+      "correct": 0,
+      "hint": "El texto añade: «me incliné hacia él para darle de comer».",
+      "explanation": "Os 11,3-4: «era yo quien había criado a Efraín, tomándolo en mis brazos... me incliné hacia él para darle de comer»."
+    },
+    {
+      "type": "gap",
+      "text": "Me incliné hacia él para darle de ___.",
+      "options": ["comer", "beber", "vestir"],
+      "answer": "comer",
+      "explanation": "Os 11,4: esta imagen manifiesta la ternura paternal de Dios en el cuidado constante de su pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os 11,4 · La ternura paternal de Dios",
+      "direction": "es-es",
+      "tiles": ["Me", "incliné", "hacia", "él", "para", "darle", "de", "comer", "beber", "vestir"],
+      "answer": "Me incliné hacia él para darle de comer",
+      "explanation": "Os 11,4: esta imagen manifiesta la ternura paternal de Dios en el cuidado constante de su pueblo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios hacer con la deslealtad de su pueblo, en el capítulo final del libro?",
+      "options": ["Castigarla sin ninguna posibilidad de perdón", "Curarla, y amar a su pueblo generosamente", "Ignorarla hasta que desaparezca por sí sola"],
+      "correct": 1,
+      "hint": "El texto añade: «mi ira se apartó de ellos».",
+      "explanation": "Os 14,5: «curaré su deslealtad, los amaré generosamente, porque mi ira se apartó de ellos»."
+    },
+    {
+      "type": "gap",
+      "text": "Curaré su deslealtad, los amaré ___.",
+      "options": ["generosamente", "brevemente", "secretamente"],
+      "answer": "generosamente",
+      "explanation": "Os 14,5: esta promesa final transforma el castigo anunciado en una nueva vida floreciente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os 14,5 · La curación final de la deslealtad",
+      "direction": "es-es",
+      "tiles": ["Curaré", "su", "deslealtad", "los", "amaré", "generosamente", "brevemente", "secretamente"],
+      "answer": "Curaré su deslealtad los amaré generosamente",
+      "explanation": "Os 14,5: esta promesa final transforma el castigo anunciado en una nueva vida floreciente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imágenes describe Dios la futura prosperidad de Israel, en Oseas 14?",
+      "options": ["Con la imagen de una fortaleza militar inexpugnable", "Con la imagen de un gran ejército victorioso", "Con el rocío, el lirio y los cedros del Líbano"],
+      "correct": 2,
+      "hint": "El texto añade que Israel «echará sus raíces como los cedros del Líbano».",
+      "explanation": "Os 14,6: «seré para Israel como el rocío, florecerá como el lirio, echará sus raíces como los cedros del Líbano»."
+    },
+    {
+      "type": "gap",
+      "text": "Seré para Israel como el rocío, florecerá como el ___.",
+      "options": ["lirio", "trigo", "ciprés"],
+      "answer": "lirio",
+      "explanation": "Os 14,6: estas imágenes de la naturaleza expresan la nueva vida floreciente prometida a Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Os 14,6 · Las imágenes de la nueva vida",
+      "direction": "es-es",
+      "tiles": ["Seré", "para", "Israel", "como", "el", "rocío", "viento", "fuego"],
+      "answer": "Seré para Israel como el rocío",
+      "explanation": "Os 14,6: estas imágenes de la naturaleza expresan la nueva vida floreciente prometida a Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La infidelidad de Israel", "es": "Se compara con la traición dentro de un matrimonio" },
+        { "en": "El amor de Dios", "es": "Persiste incluso después de la traición del pueblo" },
+        { "en": "La verdadera conversión", "es": "Va más allá del cumplimiento externo de los ritos" },
+        { "en": "La ternura paternal de Dios", "es": "Se manifiesta en el cuidado constante desde la infancia del pueblo" },
+        { "en": "La restauración final", "es": "Transforma el castigo en una nueva vida floreciente" }
+      ]
+    }
+  ]
+}

@@ -76,7 +76,7 @@
     {
       "code": "PRO",
       "name": "Libros Proféticos",
-      "sub": "9 módulos · Isaías, Jeremías, Lamentaciones y Baruc — en curso",
+      "sub": "17 módulos · Isaías a Joel — en curso",
       "color": "#7C4C9E",
       "modules": [
         { "n": 1, "title": "Isaías I — La Visión y el Anuncio del Mesías",         "es": "Isaías I · La Visión y el Mesías (Is 1–12)",       "file": "pro/mod01.json" },
@@ -87,7 +87,15 @@
         { "n": 6, "title": "Jeremías II — La Alianza Nueva y el Rollo de Baruc",  "es": "Jeremías II · Alianza Nueva (Jr 21–38)",           "file": "pro/mod06.json" },
         { "n": 7, "title": "Jeremías III — La Caída de Jerusalén y el Epílogo",  "es": "Jeremías III · Caída de Jerusalén (Jr 39–52)",     "file": "pro/mod07.json" },
         { "n": 8, "title": "Lamentaciones — El Duelo por Jerusalén y la Esperanza Renovada", "es": "Lamentaciones · Duelo y Esperanza", "file": "pro/mod08.json" },
-        { "n": 9, "title": "Baruc — Confesión, Sabiduría y Esperanza en el Destierro", "es": "Baruc · Confesión y Esperanza",         "file": "pro/mod09.json" }
+        { "n": 9, "title": "Baruc — Confesión, Sabiduría y Esperanza en el Destierro", "es": "Baruc · Confesión y Esperanza",         "file": "pro/mod09.json" },
+        { "n": 10, "title": "Ezequiel I — La Visión de la Gloria y el Centinela", "es": "Ezequiel I · La Visión y el Centinela (Ez 1–11)", "file": "pro/mod10.json" },
+        { "n": 11, "title": "Ezequiel II — La Responsabilidad Personal y la Ciudad Sanguinaria", "es": "Ezequiel II · Responsabilidad Personal (Ez 12–24)", "file": "pro/mod11.json" },
+        { "n": 12, "title": "Ezequiel III — El Buen Pastor y el Valle de los Huesos Secos", "es": "Ezequiel III · El Buen Pastor (Ez 25–39)", "file": "pro/mod12.json" },
+        { "n": 13, "title": "Ezequiel IV — El Templo Nuevo y el Río de la Vida", "es": "Ezequiel IV · Templo Nuevo (Ez 40–48)",         "file": "pro/mod13.json" },
+        { "n": 14, "title": "Daniel I — La Fidelidad en Babilonia",              "es": "Daniel I · Fidelidad en Babilonia (Dn 1–6)",       "file": "pro/mod14.json" },
+        { "n": 15, "title": "Daniel II — El Reino Eterno y la Sabiduría de Daniel", "es": "Daniel II · Reino Eterno (Dn 7–14)",             "file": "pro/mod15.json" },
+        { "n": 16, "title": "Oseas — El Amor Fiel de Dios ante la Infidelidad de Israel", "es": "Oseas · El Amor Fiel de Dios",           "file": "pro/mod16.json" },
+        { "n": 17, "title": "Joel — El Día del Señor y el Don del Espíritu",     "es": "Joel · El Día del Señor",                          "file": "pro/mod17.json" }
       ]
     },
     { "code": "EVA", "name": "Evangelios",                     "color": "#2F8A87", "locked": true, "moduleCount": 10 },

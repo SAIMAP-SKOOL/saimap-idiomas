@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod13",
+  "module": 13,
+  "title": "Ezequiel IV — El Templo Nuevo y el Río de la Vida",
+  "subtitle": "Ezequiel 40–48",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿De dónde viene la Gloria de Dios que Ezequiel contempla regresar al templo?",
+      "options": ["Del oriente, con un estruendo de aguas caudalosas", "Del interior del Lugar Santísimo, donde siempre había estado", "De las nubes, sin pasar por ninguna puerta"],
+      "correct": 0,
+      "hint": "El texto añade: «la tierra se iluminó con su Gloria».",
+      "explanation": "Ez 43,2: «vi la Gloria del Dios de Israel que venía de Oriente, con un estruendo de aguas caudalosas»."
+    },
+    {
+      "type": "gap",
+      "text": "Vi la Gloria del Dios de Israel que venía de ___.",
+      "options": ["Oriente", "Occidente", "Egipto"],
+      "answer": "Oriente",
+      "explanation": "Ez 43,2: este regreso de la Gloria responde simétricamente a su partida anunciada en los primeros capítulos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 43,2 · El regreso de la Gloria de Dios",
+      "direction": "es-es",
+      "tiles": ["Vi", "la", "Gloria", "del", "Dios", "de", "Israel", "reino", "pueblo"],
+      "answer": "Vi la Gloria del Dios de Israel",
+      "explanation": "Ez 43,2: este regreso de la Gloria responde simétricamente a su partida anunciada en los primeros capítulos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Vi la Gloria del Dios de Israel", "es": "El regreso de la presencia de Dios al templo" },
+        { "en": "Residir para siempre", "es": "La promesa de una presencia divina permanente" },
+        { "en": "Corría agua hacia el este", "es": "El origen del río que brota del templo" },
+        { "en": "Todo ser viviente tendrá vida", "es": "El poder vivificante de las aguas del templo" },
+        { "en": "El Señor está allí", "es": "El nombre final que resume todo el libro" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por dónde entra la Gloria del Señor al templo reconstruido, en Ezequiel 43?",
+      "options": ["Por una puerta secreta bajo el altar", "Por la puerta oriental", "Por el atrio reservado a los sacerdotes"],
+      "correct": 1,
+      "hint": "Es la misma puerta por donde Ezequiel había visto llegar la Gloria.",
+      "explanation": "Ez 43,4: «la Gloria del Señor entró en el templo por la puerta oriental»."
+    },
+    {
+      "type": "gap",
+      "text": "La Gloria del Señor entró en el templo por la puerta ___.",
+      "options": ["oriental", "norte", "sur"],
+      "answer": "oriental",
+      "explanation": "Ez 43,4: esta entrada solemne culmina la visión del regreso de la presencia de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 43,4 · La entrada de la Gloria",
+      "direction": "es-es",
+      "tiles": ["Entró", "en", "el", "templo", "por", "la", "puerta", "oriental", "norte", "sur"],
+      "answer": "Entró en el templo por la puerta oriental",
+      "explanation": "Ez 43,4: esta entrada solemne culmina la visión del regreso de la presencia de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios sobre su presencia en el templo, en Ezequiel 43?",
+      "options": ["Que solo visitará el templo en las grandes fiestas", "Que dejará el templo vacío hasta el fin de los tiempos", "Que residirá allí para siempre en medio de los hijos de Israel"],
+      "correct": 2,
+      "hint": "Dios añade que su pueblo «ya no volverá a profanar mi nombre santo».",
+      "explanation": "Ez 43,7: «este es el sitio de mi trono... donde voy a residir para siempre en medio de los hijos de Israel»."
+    },
+    {
+      "type": "gap",
+      "text": "Voy a residir en medio de los hijos de Israel para ___.",
+      "options": ["siempre", "un tiempo", "una generación"],
+      "answer": "siempre",
+      "explanation": "Ez 43,7: esta promesa de presencia permanente contrasta con la partida temporal narrada en los primeros capítulos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Vi la Gloria del Dios de Israel", "es": "Ezequiel 43,2" },
+        { "en": "Residir para siempre", "es": "Ezequiel 43,7" },
+        { "en": "Corría agua hacia el este", "es": "Ezequiel 47,1" },
+        { "en": "Su fruto comestible y sus hojas medicinales", "es": "Ezequiel 47,12" },
+        { "en": "El Señor está allí", "es": "Ezequiel 48,35" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿De dónde brota el agua que Ezequiel contempla en la visión del capítulo 47?",
+      "options": ["De debajo del umbral del templo", "De una fuente en el monte de los Olivos", "De un pozo cavado especialmente por los sacerdotes"],
+      "correct": 0,
+      "hint": "El agua bajaba «por el lado derecho del templo, al sur del altar».",
+      "explanation": "Ez 47,1: «de debajo del umbral del templo corría agua hacia el este»."
+    },
+    {
+      "type": "gap",
+      "text": "De debajo del umbral del templo corría ___ hacia el este.",
+      "options": ["agua", "fuego", "humo"],
+      "answer": "agua",
+      "explanation": "Ez 47,1: este es el origen del gran río que da vida en toda la visión del capítulo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 47,1 · El origen del río",
+      "direction": "es-es",
+      "tiles": ["De", "debajo", "del", "umbral", "del", "templo", "corría", "agua", "fuego", "humo"],
+      "answer": "De debajo del umbral del templo corría agua",
+      "explanation": "Ez 47,1: este es el origen del gran río que da vida en toda la visión del capítulo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo crece el caudal del río a medida que Ezequiel avanza guiado por el hombre con el cordel?",
+      "options": ["Se mantiene exactamente igual durante todo el recorrido", "Se convierte en un torrente que ya no se puede vadear, sino cruzar a nado", "Disminuye poco a poco hasta desaparecer por completo"],
+      "correct": 1,
+      "hint": "Antes de esto, el agua le había llegado sucesivamente a los tobillos, las rodillas y la cintura.",
+      "explanation": "Ez 47,5: «era ya un torrente que no se podía vadear, sino cruzar a nado»."
+    },
+    {
+      "type": "gap",
+      "text": "Era ya un torrente que no se podía vadear, sino cruzar a ___.",
+      "options": ["nado", "pie", "caballo"],
+      "answer": "nado",
+      "explanation": "Ez 47,5: este crecimiento progresivo muestra cómo la presencia de Dios se derrama en abundancia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 47,5 · El torrente creciente",
+      "direction": "es-es",
+      "tiles": ["No", "se", "podía", "vadear", "sino", "cruzar", "a", "nado", "pie", "caballo"],
+      "answer": "No se podía vadear sino cruzar a nado",
+      "explanation": "Ez 47,5: este crecimiento progresivo muestra cómo la presencia de Dios se derrama en abundancia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Los capítulos 40–42", "es": "Describen con detalle la arquitectura del templo futuro" },
+        { "en": "El capítulo 43", "es": "Narra el regreso solemne de la Gloria de Dios al templo" },
+        { "en": "El capítulo 47", "es": "Describe el río que brota del templo y da vida" },
+        { "en": "El reparto de la tierra", "es": "Ocupa los últimos capítulos, repartida entre las doce tribus" },
+        { "en": "El nombre final de la ciudad", "es": "Resume la promesa central de todo el libro" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué efecto tienen las aguas del templo al desembocar en el mar de la Sal?",
+      "options": ["Ninguno, el mar permanece igual de salado que antes", "Lo vuelven todavía más salado e inhabitable", "Sanean sus aguas, dándole vida"],
+      "correct": 2,
+      "hint": "El texto añade que «habrá peces en abundancia».",
+      "explanation": "Ez 47,8: «estas aguas fluyen hacia la zona oriental... desembocan en el mar de la Sal. Cuando hayan entrado en él, sus aguas serán saneadas»."
+    },
+    {
+      "type": "gap",
+      "text": "Cuando hayan entrado en el mar de la Sal, sus aguas serán ___.",
+      "options": ["saneadas", "heladas", "perdidas"],
+      "answer": "saneadas",
+      "explanation": "Ez 47,8: esta sanación simboliza que nada queda fuera del alcance de la vida que da Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 47,8 · La sanación del mar de la Sal",
+      "direction": "es-es",
+      "tiles": ["Habrán", "saneado", "el", "mar", "y", "habrá", "vida", "secado", "vaciado"],
+      "answer": "Habrán saneado el mar y habrá vida",
+      "explanation": "Ez 47,8: esta sanación simboliza que nada queda fuera del alcance de la vida que da Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre con todo ser viviente allí donde llega la corriente del templo, en Ezequiel 47?",
+      "options": ["Recibe vida, y habrá peces en gran abundancia", "Debe alejarse, pues las aguas resultan peligrosas", "Queda paralizado por el extraño poder del agua"],
+      "correct": 0,
+      "hint": "El texto añade que se instalarán «pescadores a la orilla».",
+      "explanation": "Ez 47,9: «todo ser viviente que se agita, allí donde desemboque la corriente, tendrá vida; y habrá peces en abundancia»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo ser viviente que se agita... tendrá ___.",
+      "options": ["vida", "miedo", "sed"],
+      "answer": "vida",
+      "explanation": "Ez 47,9: esta promesa expresa el poder vivificante de las aguas que brotan del templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 47,9 · El poder vivificante del río",
+      "direction": "es-es",
+      "tiles": ["Todo", "ser", "viviente", "tendrá", "vida", "miedo", "sed"],
+      "answer": "Todo ser viviente tendrá vida",
+      "explanation": "Ez 47,9: esta promesa expresa el poder vivificante de las aguas que brotan del templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tienen de especial los árboles que crecen en las riberas del torrente, en Ezequiel 47?",
+      "options": ["Son árboles sin ningún fruto, puramente ornamentales", "Dan fruto cada mes y sus hojas son medicinales", "Solo crecen y dan sombra durante el verano"],
+      "correct": 1,
+      "hint": "El texto añade que «no se marchitarán sus hojas ni se acabarán sus frutos».",
+      "explanation": "Ez 47,12: «darán nuevos frutos cada mes... su fruto será comestible y sus hojas medicinales»."
+    },
+    {
+      "type": "gap",
+      "text": "No se marchitarán sus hojas... su fruto será comestible y sus hojas ___.",
+      "options": ["medicinales", "doradas", "secas"],
+      "answer": "medicinales",
+      "explanation": "Ez 47,12: estos árboles representan un sustento constante, renovado cada mes por las aguas del templo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 47,12 · Los árboles junto al río",
+      "direction": "es-es",
+      "tiles": ["Su", "fruto", "será", "comestible", "y", "sus", "hojas", "medicinales", "doradas", "secas"],
+      "answer": "Su fruto será comestible y sus hojas medicinales",
+      "explanation": "Ez 47,12: estos árboles representan un sustento constante, renovado cada mes por las aguas del templo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué nombre nuevo se llamará la ciudad al final del libro de Ezequiel?",
+      "options": ["Nueva Jerusalén", "Ciudad de la Paz", "El-Señor-está-allí"],
+      "correct": 2,
+      "hint": "Este nombre cierra todo el libro, tras describir el perímetro y las puertas de la ciudad.",
+      "explanation": "Ez 48,35: «desde ese día la ciudad se llamará: “El Señor está allí”»."
+    },
+    {
+      "type": "gap",
+      "text": "Desde ese día la ciudad se llamará: «El Señor está ___».",
+      "options": ["allí", "lejos", "solo"],
+      "answer": "allí",
+      "explanation": "Ez 48,35: este nombre final resume la esperanza central de todo el libro de Ezequiel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 48,35 · El nombre final de la ciudad",
+      "direction": "es-es",
+      "tiles": ["La", "ciudad", "se", "llamará", "El", "Señor", "está", "allí", "lejos", "solo"],
+      "answer": "La ciudad se llamará El Señor está allí",
+      "explanation": "Ez 48,35: este nombre final resume la esperanza central de todo el libro de Ezequiel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El regreso de la Gloria", "es": "Responde simétricamente a su partida anunciada en los primeros capítulos" },
+        { "en": "El río creciente", "es": "Muestra cómo la presencia de Dios se derrama en abundancia progresiva" },
+        { "en": "La sanación del mar de la Sal", "es": "Simboliza que nada queda fuera del alcance de la vida de Dios" },
+        { "en": "Los árboles junto al río", "es": "Representan un sustento constante, renovado cada mes" },
+        { "en": "El nombre final de la ciudad", "es": "Resume la esperanza central de todo el libro de Ezequiel" }
+      ]
+    }
+  ]
+}

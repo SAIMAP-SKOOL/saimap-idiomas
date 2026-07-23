@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod17",
+  "module": 17,
+  "title": "Joel — El Día del Señor y el Don del Espíritu",
+  "subtitle": "Joel 1–4",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Joel la devastadora plaga que sufre el país?",
+      "options": ["Una sucesión de langostas que devoran lo que dejan las anteriores", "Una gran sequía sin ninguna otra causa aparente", "Un incendio provocado por un pueblo enemigo"],
+      "correct": 0,
+      "hint": "El texto menciona al saltón, la caballeta, el saltamontes y la langosta.",
+      "explanation": "Jl 1,4: «lo que dejó el saltón se lo comió la caballeta, lo que dejó la caballeta se lo comió el saltamontes»."
+    },
+    {
+      "type": "gap",
+      "text": "Lo que dejó el saltón se lo comió la ___.",
+      "options": ["caballeta", "langosta", "cigarra"],
+      "answer": "caballeta",
+      "explanation": "Jl 1,4: esta plaga devastadora es el motivo real que da pie a la llamada profética a la conversión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jl 1,4 · La plaga de langostas",
+      "direction": "es-es",
+      "tiles": ["Lo", "que", "dejó", "el", "saltón", "se", "lo", "comió", "la", "caballeta", "langosta", "cigarra"],
+      "answer": "Lo que dejó el saltón se lo comió la caballeta",
+      "explanation": "Jl 1,4: esta plaga devastadora es el motivo real que da pie a la llamada profética a la conversión."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "La caballeta devoró lo que dejó el saltón", "es": "La devastadora plaga de langostas" },
+        { "en": "Día de oscuridad y negrura", "es": "La llegada temible del Día del Señor" },
+        { "en": "Rasgad vuestros corazones", "es": "La conversión sincera, más allá de los ritos externos" },
+        { "en": "Derramaré mi espíritu sobre toda carne", "es": "La promesa de un don universal del espíritu" },
+        { "en": "Las montañas chorrearán vino nuevo", "es": "La bendición final y abundante" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Joel la llegada del \"Día del Señor\", en el capítulo 2?",
+      "options": ["Como un amanecer sereno y luminoso", "Como un día de oscuridad, negrura y niebla", "Como una fiesta de gran alegría popular"],
+      "correct": 1,
+      "hint": "El texto añade que avanza «un gentío innumerable, poderoso como nunca lo hubo».",
+      "explanation": "Jl 2,1-2: «se acerca el Día del Señor... día de oscuridad y negrura, día de niebla y oscuridad»."
+    },
+    {
+      "type": "gap",
+      "text": "Se acerca el Día del Señor... día de oscuridad y ___.",
+      "options": ["negrura", "silencio", "calma"],
+      "answer": "negrura",
+      "explanation": "Jl 2,2: esta imagen del Día del Señor es el tema central que recorre todo el libro de Joel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jl 2,2 · El Día del Señor",
+      "direction": "es-es",
+      "tiles": ["Día", "de", "oscuridad", "y", "negrura", "silencio", "calma"],
+      "answer": "Día de oscuridad y negrura",
+      "explanation": "Jl 2,2: esta imagen del Día del Señor es el tema central que recorre todo el libro de Joel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A qué invita Dios a su pueblo ante la gravedad de la situación, en Joel 2?",
+      "options": ["A resignarse sin ninguna esperanza de cambio", "A huir lejos del país cuanto antes", "A convertirse a él de todo corazón, con ayunos, llantos y lamentos"],
+      "correct": 2,
+      "hint": "El texto añade: «rasgad vuestros corazones, no vuestros vestidos».",
+      "explanation": "Jl 2,12: «convertíos a mí de todo corazón, con ayunos, llantos y lamentos»."
+    },
+    {
+      "type": "gap",
+      "text": "Convertíos a mí de todo ___.",
+      "options": ["corazón", "pueblo", "templo"],
+      "answer": "corazón",
+      "explanation": "Jl 2,12: esta invitación pide una conversión sincera, más allá de los ritos externos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "La caballeta devoró...", "es": "Joel 1,4" },
+        { "en": "Rasgad vuestros corazones", "es": "Joel 2,13" },
+        { "en": "Derramaré mi espíritu", "es": "Joel 3,1" },
+        { "en": "Todo el que invoque el nombre del Señor", "es": "Joel 3,5" },
+        { "en": "Forjad espadas con vuestros arados", "es": "Joel 4,10" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Dios que se \"rasgue\" en vez de las vestiduras, en Joel 2?",
+      "options": ["El corazón", "El calendario de las fiestas", "El pacto antiguo con los patriarcas"],
+      "correct": 0,
+      "hint": "Este gesto interior contrasta con el rito externo de rasgar la ropa en señal de duelo.",
+      "explanation": "Jl 2,13: «rasgad vuestros corazones, no vuestros vestidos, y convertíos al Señor vuestro Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Rasgad vuestros corazones, no vuestros ___.",
+      "options": ["vestidos", "pasos", "nombres"],
+      "answer": "vestidos",
+      "explanation": "Jl 2,13: este gesto interior pide una conversión sincera, más allá de los ritos externos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jl 2,13 · La conversión del corazón",
+      "direction": "es-es",
+      "tiles": ["Rasgad", "vuestros", "corazones", "no", "vuestros", "vestidos", "pasos", "nombres"],
+      "answer": "Rasgad vuestros corazones no vuestros vestidos",
+      "explanation": "Jl 2,13: este gesto interior pide una conversión sincera, más allá de los ritos externos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Joel el carácter de Dios al invitar a la conversión, en el capítulo 2?",
+      "options": ["Como un juez que no admite ninguna excusa", "Como un Dios compasivo y misericordioso, lento a la cólera", "Como un rey lejano e indiferente al sufrimiento"],
+      "correct": 1,
+      "hint": "El texto añade: «rico en amor, que se arrepiente del castigo».",
+      "explanation": "Jl 2,13: «un Dios compasivo y misericordioso, lento a la cólera y rico en amor»."
+    },
+    {
+      "type": "gap",
+      "text": "Un Dios compasivo y misericordioso, lento a la ___.",
+      "options": ["cólera", "palabra", "memoria"],
+      "answer": "cólera",
+      "explanation": "Jl 2,13: esta descripción del carácter de Dios motiva la invitación a la conversión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jl 2,13 · El carácter compasivo de Dios",
+      "direction": "es-es",
+      "tiles": ["Un", "Dios", "compasivo", "y", "misericordioso", "severo", "lejano"],
+      "answer": "Un Dios compasivo y misericordioso",
+      "explanation": "Jl 2,13: esta descripción del carácter de Dios motiva la invitación a la conversión."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "La plaga de langostas", "es": "Motivo real que da pie a la llamada profética a la conversión" },
+        { "en": "El \"Día del Señor\"", "es": "Tema central que recorre todo el libro de Joel" },
+        { "en": "Joel 3,1-5", "es": "Fue citado por Pedro el día de Pentecostés, según los Hechos" },
+        { "en": "El valle de Josafat", "es": "Escenario simbólico del juicio final de Dios sobre las naciones" },
+        { "en": "El libro de Joel", "es": "Uno de los doce profetas menores, breve pero de gran densidad teológica" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios derramar \"sobre toda carne\", según Joel 3?",
+      "options": ["Su ira definitiva contra todos los pueblos", "Grandes riquezas materiales para el pueblo", "Su espíritu, para que profeticen hijos, hijas y ancianos"],
+      "correct": 2,
+      "hint": "El texto añade: «vuestros jóvenes verán visiones».",
+      "explanation": "Jl 3,1: «derramaré mi espíritu sobre toda carne, vuestros hijos e hijas profetizarán, vuestros ancianos tendrán sueños»."
+    },
+    {
+      "type": "gap",
+      "text": "Derramaré mi espíritu sobre toda ___.",
+      "options": ["carne", "tierra", "nación"],
+      "answer": "carne",
+      "explanation": "Jl 3,1: esta promesa de un don universal del espíritu sería citada por Pedro el día de Pentecostés."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jl 3,1 · El don universal del espíritu",
+      "direction": "es-es",
+      "tiles": ["Derramaré", "mi", "espíritu", "sobre", "toda", "carne", "tierra", "nación"],
+      "answer": "Derramaré mi espíritu sobre toda carne",
+      "explanation": "Jl 3,1: esta promesa de un don universal del espíritu sería citada por Pedro el día de Pentecostés."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién se salvará, según la promesa de Joel 3?",
+      "options": ["Todo el que invoque el nombre del Señor", "Solo los sacerdotes que sirven en el templo", "Únicamente los descendientes directos del rey David"],
+      "correct": 0,
+      "hint": "El texto añade que «habrá supervivientes en el monte Sión».",
+      "explanation": "Jl 3,5: «todo el que invoque el nombre del Señor se salvará»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo el que invoque el nombre del Señor se ___.",
+      "options": ["salvará", "alegrará", "quedará"],
+      "answer": "salvará",
+      "explanation": "Jl 3,5: esta promesa de salvación está abierta a todo el que invoque el nombre del Señor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jl 3,5 · La salvación ofrecida a todos",
+      "direction": "es-es",
+      "tiles": ["Todo", "el", "que", "invoque", "el", "nombre", "del", "Señor", "temple", "busque"],
+      "answer": "Todo el que invoque el nombre del Señor",
+      "explanation": "Jl 3,5: esta promesa de salvación está abierta a todo el que invoque el nombre del Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen usa Joel 4 para anunciar la movilización final para la guerra?",
+      "options": ["Sembrar la tierra con nuevas semillas de trigo", "Forjar espadas con los arados y lanzas con las podaderas", "Construir nuevas murallas alrededor de las ciudades"],
+      "correct": 1,
+      "hint": "Esta imagen invierte la célebre visión de paz de Isaías 2,4.",
+      "explanation": "Jl 4,10: «forjad espadas con vuestros arados, lanzas con vuestras podaderas»."
+    },
+    {
+      "type": "gap",
+      "text": "Forjad espadas con vuestros arados, lanzas con vuestras ___.",
+      "options": ["podaderas", "manos", "redes"],
+      "answer": "podaderas",
+      "explanation": "Jl 4,10: esta imagen invierte deliberadamente la célebre visión de paz de Isaías 2,4."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jl 4,10 · La movilización para la guerra final",
+      "direction": "es-es",
+      "tiles": ["Forjad", "espadas", "con", "vuestros", "arados", "manos", "redes"],
+      "answer": "Forjad espadas con vuestros arados",
+      "explanation": "Jl 4,10: esta imagen invierte deliberadamente la célebre visión de paz de Isaías 2,4."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen de abundancia describe Joel para \"aquel día\" final, en el capítulo 4?",
+      "options": ["Ríos de sangre que cubrirán toda la tierra", "Ciudades vacías y en completo silencio", "Montañas que chorrearán vino nuevo y colinas que rezumarán leche"],
+      "correct": 2,
+      "hint": "El texto añade que «brotará una fuente de la casa del Señor».",
+      "explanation": "Jl 4,18: «aquel día las montañas chorrearán vino nuevo, las colinas rezumarán leche»."
+    },
+    {
+      "type": "gap",
+      "text": "Las montañas chorrearán vino ___.",
+      "options": ["nuevo", "antiguo", "rojo"],
+      "answer": "nuevo",
+      "explanation": "Jl 4,18: esta imagen de abundancia final transforma la tierra devastada en signo de bendición."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jl 4,18 · La abundancia final",
+      "direction": "es-es",
+      "tiles": ["Las", "montañas", "chorrearán", "vino", "nuevo", "antiguo", "rojo"],
+      "answer": "Las montañas chorrearán vino nuevo",
+      "explanation": "Jl 4,18: esta imagen de abundancia final transforma la tierra devastada en signo de bendición."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La crisis como llamada", "es": "Invita a interpretar las dificultades como ocasión de conversión" },
+        { "en": "La conversión verdadera", "es": "Se mide por el corazón, no solo por gestos externos" },
+        { "en": "El don del espíritu", "es": "Se ofrece a todo el pueblo, sin distinción de edad o condición" },
+        { "en": "La salvación ofrecida", "es": "Está abierta a todo el que invoque el nombre del Señor" },
+        { "en": "La esperanza final", "es": "Transforma la tierra devastada en signo de abundancia" }
+      ]
+    }
+  ]
+}

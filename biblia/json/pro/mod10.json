@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod10",
+  "module": 10,
+  "title": "Ezequiel I — La Visión de la Gloria y el Centinela",
+  "subtitle": "Ezequiel 1–11",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Ezequiel al contemplar la \"apariencia visible de la Gloria del Señor\"?",
+      "options": ["Cae rostro en tierra", "Huye despavorido del lugar", "Se ríe de incredulidad ante la visión"],
+      "correct": 0,
+      "hint": "Justo después escuchó una voz que le hablaba.",
+      "explanation": "Ez 1,28: «era la apariencia visible de la Gloria del Señor. Al contemplarla, caí rostro en tierra»."
+    },
+    {
+      "type": "gap",
+      "text": "Era la apariencia visible de la Gloria del Señor. Al contemplarla, caí rostro en ___.",
+      "options": ["tierra", "silencio", "oración"],
+      "answer": "tierra",
+      "explanation": "Ez 1,28: esta reacción de Ezequiel expresa la respuesta humana ante la manifestación de la gloria de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 1,28 · La respuesta ante la gloria de Dios",
+      "direction": "es-es",
+      "tiles": ["Era", "la", "apariencia", "visible", "de", "la", "Gloria", "del", "Señor", "poder", "justicia"],
+      "answer": "Era la apariencia visible de la Gloria del Señor",
+      "explanation": "Ez 1,28: esta reacción de Ezequiel expresa la respuesta humana ante la manifestación de la gloria de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Caí rostro en tierra", "es": "La respuesta humana ante la gloria de Dios" },
+        { "en": "Un pueblo rebelde", "es": "La dureza del pueblo al que es enviado Ezequiel" },
+        { "en": "Dulce como la miel", "es": "La aceptación gozosa de la palabra de Dios" },
+        { "en": "Te he constituido centinela", "es": "La responsabilidad profética de advertir al pueblo" },
+        { "en": "Corazón de carne", "es": "La promesa de una renovación interior" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Dios al pueblo al que envía a Ezequiel?",
+      "options": ["Como un pueblo extranjero, de lengua desconocida", "Como un pueblo rebelde, de dura cerviz y corazón obstinado", "Como un pueblo ya arrepentido y dispuesto a escuchar"],
+      "correct": 1,
+      "hint": "Dios añade: «te hagan caso o no te hagan caso».",
+      "explanation": "Ez 2,3-4: «te envío a los hijos de Israel, un pueblo rebelde que se ha rebelado contra mí... tienen dura la cerviz y el corazón obstinado»."
+    },
+    {
+      "type": "gap",
+      "text": "Te envío a los hijos de Israel, un pueblo ___.",
+      "options": ["rebelde", "extranjero", "silencioso"],
+      "answer": "rebelde",
+      "explanation": "Ez 2,3: esta descripción del pueblo anticipa la dificultad de la misión encomendada a Ezequiel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 2,4 · La dureza del pueblo",
+      "direction": "es-es",
+      "tiles": ["Un", "pueblo", "rebelde", "de", "dura", "cerviz", "extranjero", "silencioso"],
+      "answer": "Un pueblo rebelde de dura cerviz",
+      "explanation": "Ez 2,4: esta descripción del pueblo anticipa la dificultad de la misión encomendada a Ezequiel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué sabor tiene para Ezequiel el volumen escrito que Dios le hace comer?",
+      "options": ["Amargo como el ajenjo", "Insípido como el agua sin sal", "Dulce como la miel"],
+      "correct": 2,
+      "hint": "El documento contenía «elegías, lamentos y ayes».",
+      "explanation": "Ez 3,3: «lo comí y me supo en la boca dulce como la miel»."
+    },
+    {
+      "type": "gap",
+      "text": "Lo comí y me supo en la boca dulce como la ___.",
+      "options": ["miel", "sal", "arena"],
+      "answer": "miel",
+      "explanation": "Ez 3,3: esta imagen expresa la aceptación gozosa de la palabra de Dios, a pesar de su contenido de juicio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 3,3 · La palabra dulce como la miel",
+      "direction": "es-es",
+      "tiles": ["Me", "supo", "en", "la", "boca", "dulce", "como", "la", "miel", "sal", "arena"],
+      "answer": "Me supo en la boca dulce como la miel",
+      "explanation": "Ez 3,3: esta imagen expresa la aceptación gozosa de la palabra de Dios, a pesar de su contenido de juicio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Caí rostro en tierra", "es": "Ezequiel 1,28" },
+        { "en": "Dulce como la miel", "es": "Ezequiel 3,3" },
+        { "en": "Centinela de Israel", "es": "Ezequiel 3,17" },
+        { "en": "Corazón de carne", "es": "Ezequiel 11,19" },
+        { "en": "Se elevó sobre la ciudad", "es": "Ezequiel 11,23" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Para qué función constituye Dios a Ezequiel en el capítulo 3?",
+      "options": ["Como centinela de Israel", "Como juez supremo de todo el pueblo", "Como sumo sacerdote del templo de Jerusalén"],
+      "correct": 0,
+      "hint": "Esta función implica advertir al pueblo «de parte mía».",
+      "explanation": "Ez 3,17: «te he constituido centinela de Israel. Cuando escuches una palabra de mi boca, los amonestarás de parte mía»."
+    },
+    {
+      "type": "gap",
+      "text": "Hijo de hombre, te he constituido ___ de Israel.",
+      "options": ["centinela", "rey", "sacerdote"],
+      "answer": "centinela",
+      "explanation": "Ez 3,17: esta función implica la responsabilidad profética de advertir al pueblo del peligro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 3,17 · El centinela de Israel",
+      "direction": "es-es",
+      "tiles": ["Te", "he", "constituido", "centinela", "de", "Israel", "rey", "sacerdote"],
+      "answer": "Te he constituido centinela de Israel",
+      "explanation": "Ez 3,17: esta función implica la responsabilidad profética de advertir al pueblo del peligro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre si el centinela no amonesta al malvado, según Ezequiel 3?",
+      "options": ["No pasa nada, pues la responsabilidad es solo del malvado", "Dios le pedirá cuentas de esa vida al centinela", "El centinela recibe automáticamente el mismo castigo"],
+      "correct": 1,
+      "hint": "En cambio, si lo amonesta y el malvado no se convierte, el centinela «habrá salvado su vida».",
+      "explanation": "Ez 3,18: «si tú no lo habías amonestado ni le habías advertido... el malvado morirá por su culpa; pero a ti te pediré cuenta de su vida»."
+    },
+    {
+      "type": "gap",
+      "text": "Si amonestas al malvado y él no se convierte, morirá por su culpa, pero tú habrás salvado tu ___.",
+      "options": ["vida", "honor", "pueblo"],
+      "answer": "vida",
+      "explanation": "Ez 3,19: esta condición recuerda el deber de advertir, aunque no se garantice el resultado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Ezequiel", "es": "Sacerdote y profeta, llamado junto al río Quebar en Babilonia" },
+        { "en": "Los cuatro seres vivientes", "es": "Figuras con rostro de hombre, león, toro y águila" },
+        { "en": "Los \"signos proféticos\"", "es": "Acciones simbólicas que Ezequiel debía representar ante el pueblo" },
+        { "en": "La Gloria del Señor", "es": "Manifestación visible de la presencia de Dios" },
+        { "en": "Su partida del templo", "es": "Anuncia el abandono de Jerusalén ante su infidelidad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué signo profético realiza Ezequiel acostándose sobre su costado, en el capítulo 4?",
+      "options": ["Anuncia una gran victoria militar de Israel", "Representa el descanso sabático de todo el pueblo", "Carga simbólicamente con la culpa de Israel y de Judá"],
+      "correct": 2,
+      "hint": "El número de días acostado equivalía a los años de esa culpa.",
+      "explanation": "Ez 4,4-6: «acuéstate sobre el lado izquierdo, y yo pondré sobre ti la culpa de Israel... cargarás con la culpa de Judá»."
+    },
+    {
+      "type": "gap",
+      "text": "Acuéstate sobre el lado izquierdo, y yo pondré sobre ti la ___ de Israel.",
+      "options": ["culpa", "gloria", "corona"],
+      "answer": "culpa",
+      "explanation": "Ez 4,4: este signo profético comunica el mensaje de Dios con el propio cuerpo de Ezequiel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 4,4 · El signo de cargar con la culpa",
+      "direction": "es-es",
+      "tiles": ["Pondré", "sobre", "ti", "la", "culpa", "de", "Israel", "gloria", "corona"],
+      "answer": "Pondré sobre ti la culpa de Israel",
+      "explanation": "Ez 4,4: este signo profético comunica el mensaje de Dios con el propio cuerpo de Ezequiel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Ezequiel con el pelo que se corta con una espada afilada, en el capítulo 5?",
+      "options": ["Lo divide en tres partes con distintos destinos simbólicos", "Lo entierra en silencio bajo el altar del templo", "Lo entrega como ofrenda especial a los sacerdotes"],
+      "correct": 0,
+      "hint": "Una parte se quema, otra se dispersa con la espada y otra se esparce al viento.",
+      "explanation": "Ez 5,1-2: «divide en partes el pelo cortado... una tercera parte la quemarás... una tercera parte la sacudirás con la espada... una tercera parte la esparcirás al viento»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La vocación profética", "es": "Exige valentía frente a un pueblo que puede no escuchar" },
+        { "en": "La responsabilidad del centinela", "es": "Recuerda el deber de advertir, aunque no se garantice el resultado" },
+        { "en": "Los signos proféticos", "es": "Comunican el mensaje de Dios con el propio cuerpo del profeta" },
+        { "en": "La promesa del corazón nuevo", "es": "Anticipa una renovación interior más profunda que la ley externa" },
+        { "en": "La partida de la Gloria", "es": "Muestra que la presencia de Dios no está atada a un solo lugar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios dar a su pueblo en Ezequiel 11?",
+      "options": ["Nuevas leyes todavía más estrictas que las anteriores", "Un corazón nuevo, cambiando el corazón de piedra por uno de carne", "Nuevas fronteras mucho más amplias para su territorio"],
+      "correct": 1,
+      "hint": "El texto añade: «ellos serán mi pueblo y yo seré su Dios».",
+      "explanation": "Ez 11,19: «les daré otro corazón e infundiré en ellos un espíritu nuevo: les arrancaré el corazón de piedra y les daré un corazón de carne»."
+    },
+    {
+      "type": "gap",
+      "text": "Les arrancaré el corazón de piedra y les daré un corazón de ___.",
+      "options": ["carne", "oro", "roca"],
+      "answer": "carne",
+      "explanation": "Ez 11,19: esta promesa anticipa una renovación interior más profunda que el mero cumplimiento externo de la ley."
+    },
+    {
+      "type": "gap",
+      "text": "Ellos serán mi pueblo y yo seré su ___.",
+      "options": ["Dios", "rey", "juez"],
+      "answer": "Dios",
+      "explanation": "Ez 11,20: esta fórmula de alianza expresa el objetivo último de la renovación interior prometida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 11,19 · El corazón de carne",
+      "direction": "es-es",
+      "tiles": ["Les", "daré", "un", "corazón", "de", "carne", "oro", "roca"],
+      "answer": "Les daré un corazón de carne",
+      "explanation": "Ez 11,19: esta promesa anticipa una renovación interior más profunda que el mero cumplimiento externo de la ley."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 11,20 · La fórmula de la alianza",
+      "direction": "es-es",
+      "tiles": ["Ellos", "serán", "mi", "pueblo", "y", "yo", "seré", "su", "Dios", "rey", "juez"],
+      "answer": "Ellos serán mi pueblo y yo seré su Dios",
+      "explanation": "Ez 11,20: esta fórmula de alianza expresa el objetivo último de la renovación interior prometida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre con la Gloria del Señor al final de esta primera gran visión de Ezequiel?",
+      "options": ["Permanece para siempre en el interior del templo", "Desciende hasta el fondo del río Quebar", "Se eleva sobre la ciudad y se sitúa en el monte al oriente"],
+      "correct": 2,
+      "hint": "Después, el espíritu llevó a Ezequiel de vuelta, en visión, hasta los desterrados en Caldea.",
+      "explanation": "Ez 11,23: «la Gloria del Señor se elevó sobre la ciudad y fue a situarse sobre el monte al oriente de la ciudad»."
+    },
+    {
+      "type": "gap",
+      "text": "La Gloria del Señor se elevó sobre la ciudad y fue a situarse sobre el ___ al oriente.",
+      "options": ["monte", "río", "templo"],
+      "answer": "monte",
+      "explanation": "Ez 11,23: esta partida de la Gloria muestra que la presencia de Dios no está atada a un solo lugar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 11,23 · La partida de la Gloria del Señor",
+      "direction": "es-es",
+      "tiles": ["Se", "elevó", "sobre", "la", "ciudad", "río", "templo"],
+      "answer": "Se elevó sobre la ciudad",
+      "explanation": "Ez 11,23: esta partida de la Gloria muestra que la presencia de Dios no está atada a un solo lugar."
+    }
+  ]
+}

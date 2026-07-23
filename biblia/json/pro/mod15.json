@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod15",
+  "module": 15,
+  "title": "Daniel II — El Reino Eterno y la Sabiduría de Daniel",
+  "subtitle": "Daniel 7–14",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Daniel la visión del \"Anciano\" sentado en su trono, en el capítulo 7?",
+      "options": ["Con vestido blanco como la nieve y trono de llamas de fuego", "Con una corona de oro y un cetro de plata", "Rodeado de un ejército de ángeles armados"],
+      "correct": 0,
+      "hint": "El texto añade que «un río impetuoso de fuego brotaba y corría ante él».",
+      "explanation": "Dn 7,9: «un anciano se sentó. Su vestido era blanco como nieve, su cabellera como lana limpísima; su trono, llamas de fuego»."
+    },
+    {
+      "type": "gap",
+      "text": "Un anciano se sentó. Su vestido era blanco como ___.",
+      "options": ["nieve", "plata", "lino"],
+      "answer": "nieve",
+      "explanation": "Dn 7,9: esta imagen expresa la majestad y pureza absoluta de la visión del trono celestial."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 7,9 · La majestad del Anciano",
+      "direction": "es-es",
+      "tiles": ["Su", "vestido", "era", "blanco", "como", "nieve", "plata", "lino"],
+      "answer": "Su vestido era blanco como nieve",
+      "explanation": "Dn 7,9: esta imagen expresa la majestad y pureza absoluta de la visión del trono celestial."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Vestido blanco como nieve", "es": "La majestad del Anciano en el trono" },
+        { "en": "Poder, honor y reino que no acabará", "es": "La figura celestial que recibe un reino eterno" },
+        { "en": "Los santos... lo poseerán para siempre", "es": "La esperanza final del pueblo fiel" },
+        { "en": "Duermen en el polvo... despertarán", "es": "El anuncio de la resurrección" },
+        { "en": "Bajo qué árbol", "es": "La sabiduría de Daniel para descubrir la mentira" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué recibe la figura que \"viene entre las nubes del cielo\" en la visión de Daniel 7?",
+      "options": ["Solo el gobierno temporal de un pueblo pequeño", "Poder, honor y un reino eterno que no acabará", "El encargo de destruir a las cuatro bestias"],
+      "correct": 1,
+      "hint": "El texto añade: «todos los pueblos, naciones y lenguas lo sirvieron».",
+      "explanation": "Dn 7,13-14: «vi venir una especie de hijo de hombre entre las nubes del cielo... a él se le dio poder, honor y reino... su reino no acabará»."
+    },
+    {
+      "type": "gap",
+      "text": "A él se le dio poder, honor y reino... su reino no ___.",
+      "options": ["acabará", "crecerá", "cambiará"],
+      "answer": "acabará",
+      "explanation": "Dn 7,14: esta visión ofrece esperanza frente al poder pasajero de los grandes imperios humanos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 7,14 · El reino eterno",
+      "direction": "es-es",
+      "tiles": ["Poder", "honor", "y", "reino", "que", "no", "acabará", "crecerá", "cambiará"],
+      "answer": "Poder honor y reino que no acabará",
+      "explanation": "Dn 7,14: esta visión ofrece esperanza frente al poder pasajero de los grandes imperios humanos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quiénes recibirán finalmente el reino, según la interpretación de la visión de las cuatro bestias?",
+      "options": ["Los reyes más poderosos de toda la tierra", "Los ángeles que sirven directamente ante el trono", "Los santos del Altísimo, que lo poseerán para siempre"],
+      "correct": 2,
+      "hint": "El texto añade que ese reino durará «por los siglos de los siglos».",
+      "explanation": "Dn 7,18: «los santos del Altísimo recibirán el reino y lo poseerán para siempre por los siglos de los siglos»."
+    },
+    {
+      "type": "gap",
+      "text": "Los santos del Altísimo recibirán el reino y lo poseerán para ___.",
+      "options": ["siempre", "un año", "una generación"],
+      "answer": "siempre",
+      "explanation": "Dn 7,18: esta promesa expresa la esperanza final reservada al pueblo fiel de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 7,18 · La esperanza del pueblo fiel",
+      "direction": "es-es",
+      "tiles": ["Recibirán", "el", "reino", "y", "lo", "poseerán", "para", "siempre", "un", "año"],
+      "answer": "Recibirán el reino y lo poseerán para siempre",
+      "explanation": "Dn 7,18: esta promesa expresa la esperanza final reservada al pueblo fiel de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Vestido blanco como nieve", "es": "Daniel 7,9" },
+        { "en": "Reino eterno que no acabará", "es": "Daniel 7,14" },
+        { "en": "Duermen en el polvo... despertarán", "es": "Daniel 12,2" },
+        { "en": "Brillarán como el fulgor del firmamento", "es": "Daniel 12,3" },
+        { "en": "Destruyó el ídolo junto con su templo", "es": "Daniel 14,22" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Daniel 12 sobre \"los que duermen en el polvo de la tierra\"?",
+      "options": ["Que despertarán, unos para vida eterna y otros para vergüenza perpetua", "Que permanecerán dormidos para siempre, sin ninguna excepción", "Que solo los reyes despertarán al final de los tiempos"],
+      "correct": 0,
+      "hint": "Este anuncio es uno de los primeros del Antiguo Testamento sobre la resurrección.",
+      "explanation": "Dn 12,2: «muchos de los que duermen en el polvo de la tierra despertarán: unos para vida eterna, otros para vergüenza e ignominia perpetua»."
+    },
+    {
+      "type": "gap",
+      "text": "Muchos de los que duermen en el polvo de la tierra ___.",
+      "options": ["despertarán", "descansarán", "callarán"],
+      "answer": "despertarán",
+      "explanation": "Dn 12,2: este anuncio abre una nueva etapa en la revelación sobre la vida después de la muerte."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 12,2 · El anuncio de la resurrección",
+      "direction": "es-es",
+      "tiles": ["Muchos", "de", "los", "que", "duermen", "en", "el", "polvo", "descansan", "callan"],
+      "answer": "Muchos de los que duermen en el polvo",
+      "explanation": "Dn 12,2: este anuncio abre una nueva etapa en la revelación sobre la vida después de la muerte."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué se compara a los sabios que enseñaron la justicia, en Daniel 12?",
+      "options": ["Con el polvo que el viento dispersa sin dejar rastro", "Con las estrellas, brillando por toda la eternidad", "Con la hierba que se seca rápidamente en verano"],
+      "correct": 1,
+      "hint": "Antes se dice que «brillarán como el fulgor del firmamento».",
+      "explanation": "Dn 12,3: «los sabios brillarán como el fulgor del firmamento, y los que enseñaron a muchos la justicia, como las estrellas»."
+    },
+    {
+      "type": "gap",
+      "text": "Los sabios brillarán como el fulgor del ___.",
+      "options": ["firmamento", "oro", "fuego"],
+      "answer": "firmamento",
+      "explanation": "Dn 12,3: esta imagen celeste expresa la recompensa eterna reservada a quienes enseñan la justicia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 12,3 · Los sabios brillantes como estrellas",
+      "direction": "es-es",
+      "tiles": ["Brillarán", "como", "el", "fulgor", "del", "firmamento", "oro", "fuego"],
+      "answer": "Brillarán como el fulgor del firmamento",
+      "explanation": "Dn 12,3: esta imagen celeste expresa la recompensa eterna reservada a quienes enseñan la justicia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "El capítulo 7", "es": "Visión de las cuatro bestias y del reino eterno concedido al \"hijo de hombre\"" },
+        { "en": "El capítulo 12", "es": "Anuncia por primera vez con claridad la resurrección de los muertos" },
+        { "en": "Susana", "es": "Mujer judía falsamente acusada, salvada por la sabiduría de Daniel" },
+        { "en": "Bel y el dragón", "es": "Relatos que denuncian el fraude de los cultos idolátricos" },
+        { "en": "Los capítulos 13–14", "es": "Pertenecen a las adiciones deuterocanónicas del libro de Daniel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurre a Susana cuando dos ancianos la acechan en el jardín de su marido?",
+      "options": ["Ella acepta ceder ante las amenazas de los ancianos", "Sus criadas la defienden con violencia frente a ellos", "Es falsamente acusada tras negarse a ceder a su chantaje"],
+      "correct": 2,
+      "hint": "El texto dice: «una mujer judía no ha tolerado vuestra maldad».",
+      "explanation": "Dn 13: los dos ancianos, al ser rechazados, acusan falsamente a Susana; Daniel intervendrá para salvarla."
+    },
+    {
+      "type": "gap",
+      "text": "Una mujer judía no ha tolerado vuestra ___.",
+      "options": ["maldad", "pobreza", "debilidad"],
+      "answer": "maldad",
+      "explanation": "Dn 13,57: esta afirmación de Daniel resume la integridad de Susana frente al chantaje de los ancianos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 13,57 · La integridad de Susana",
+      "direction": "es-es",
+      "tiles": ["Una", "mujer", "judía", "no", "ha", "tolerado", "vuestra", "maldad", "pobreza", "debilidad"],
+      "answer": "Una mujer judía no ha tolerado vuestra maldad",
+      "explanation": "Dn 13,57: esta afirmación de Daniel resume la integridad de Susana frente al chantaje de los ancianos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo descubre Daniel que los dos ancianos mienten en el juicio contra Susana?",
+      "options": ["Al interrogarlos por separado, cada uno señala un árbol distinto", "Al encontrar pruebas físicas evidentes del delito", "Al escuchar la confesión espontánea de uno de ellos"],
+      "correct": 0,
+      "hint": "Uno dijo «una encina», y el otro dijo algo distinto.",
+      "explanation": "Dn 13,58-59: «¿bajo qué árbol los sorprendiste abrazados? Debajo de una encina... tu calumnia también se vuelve contra ti»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Bajo qué árbol los sorprendiste abrazados? Debajo de una ___.",
+      "options": ["encina", "palmera", "higuera"],
+      "answer": "encina",
+      "explanation": "Dn 13,58: esta pregunta precisa de Daniel desenmascara la mentira de los dos falsos testigos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 13,58 · La pregunta que desenmascara la mentira",
+      "direction": "es-es",
+      "tiles": ["Bajo", "qué", "árbol", "los", "sorprendiste", "abrazados", "palmera", "higuera"],
+      "answer": "Bajo qué árbol los sorprendiste abrazados",
+      "explanation": "Dn 13,58: esta pregunta precisa de Daniel desenmascara la mentira de los dos falsos testigos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo demuestra Daniel que el ídolo Bel no consume realmente las ofrendas?",
+      "options": ["Rompiendo la estatua directamente ante el rey", "Esparciendo ceniza en el suelo del templo para revelar huellas humanas", "Preguntando directamente a los sacerdotes del templo"],
+      "correct": 1,
+      "hint": "A la mañana siguiente, el rey vio «huellas de hombres, mujeres y niños».",
+      "explanation": "Dn 14,19-20: «mira el suelo y reconoce de quién son esas huellas... veo las huellas de hombres, mujeres y niños»."
+    },
+    {
+      "type": "gap",
+      "text": "Mira el suelo y reconoce de quién son esas ___.",
+      "options": ["huellas", "cenizas", "sombras"],
+      "answer": "huellas",
+      "explanation": "Dn 14,19: esta estrategia de Daniel desenmascara el fraude de los sacerdotes del ídolo Bel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Dn 14,19 · El fraude descubierto",
+      "direction": "es-es",
+      "tiles": ["Mira", "el", "suelo", "y", "reconoce", "esas", "huellas", "cenizas", "sombras"],
+      "answer": "Mira el suelo y reconoce esas huellas",
+      "explanation": "Dn 14,19: esta estrategia de Daniel desenmascara el fraude de los sacerdotes del ídolo Bel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Daniel con el ídolo de Bel una vez descubierto el fraude de los sacerdotes?",
+      "options": ["Lo guarda como advertencia permanente para el pueblo", "Lo entrega a otro reino vecino como tributo", "Lo destruye junto con su templo"],
+      "correct": 2,
+      "hint": "Antes de esto, el rey había mandado ejecutar a los sacerdotes responsables del engaño.",
+      "explanation": "Dn 14,22: «el rey... entregó a Bel en poder de Daniel, que destruyó el ídolo junto con su templo»."
+    },
+    {
+      "type": "gap",
+      "text": "El rey entregó a Bel en poder de Daniel, que destruyó el ídolo junto con su ___.",
+      "options": ["templo", "corona", "ejército"],
+      "answer": "templo",
+      "explanation": "Dn 14,22: este desenlace recuerda que solo Dios merece verdadero culto, frente a cualquier ídolo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La visión del reino eterno", "es": "Ofrece esperanza frente al poder pasajero de los imperios humanos" },
+        { "en": "La promesa de la resurrección", "es": "Abre una nueva etapa en la revelación sobre la vida después de la muerte" },
+        { "en": "La integridad de Susana", "es": "Muestra el valor de mantenerse fiel incluso bajo amenaza" },
+        { "en": "La sabiduría de Daniel", "es": "Desenmascara la mentira mediante preguntas precisas" },
+        { "en": "La denuncia de los ídolos", "es": "Recuerda que solo Dios merece verdadero culto" }
+      ]
+    }
+  ]
+}

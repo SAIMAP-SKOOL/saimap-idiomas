@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod11",
+  "module": 11,
+  "title": "Ezequiel II — La Responsabilidad Personal y la Ciudad Sanguinaria",
+  "subtitle": "Ezequiel 12–24",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Dios a Israel al inicio de Ezequiel 12?",
+      "options": ["Como un pueblo que tiene ojos y no ve, oídos y no oye", "Como un pueblo ya convertido y obediente a la ley", "Como un pueblo sin ningún profeta que lo guíe"],
+      "correct": 0,
+      "hint": "El texto añade: «porque son un pueblo rebelde».",
+      "explanation": "Ez 12,2: «vives en medio de un pueblo rebelde: tienen ojos para ver, y no ven; tienen oídos para oír, y no oyen»."
+    },
+    {
+      "type": "gap",
+      "text": "Tienen ojos para ver, y no ven; tienen oídos para oír, y no ___.",
+      "options": ["oyen", "callan", "temen"],
+      "answer": "oyen",
+      "explanation": "Ez 12,2: esta descripción expresa la ceguera espiritual del pueblo ante la palabra de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 12,2 · La ceguera espiritual del pueblo",
+      "direction": "es-es",
+      "tiles": ["Tienen", "ojos", "para", "ver", "y", "no", "ven", "callan", "temen"],
+      "answer": "Tienen ojos para ver y no ven",
+      "explanation": "Ez 12,2: esta descripción expresa la ceguera espiritual del pueblo ante la palabra de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Ojos para ver y no ven", "es": "La ceguera espiritual del pueblo" },
+        { "en": "Brecha en el muro", "es": "El signo profético que anuncia el destierro" },
+        { "en": "El que peque, ese morirá", "es": "La responsabilidad individual ante el pecado" },
+        { "en": "¿Acaso quiero yo la muerte del malvado?", "es": "La voluntad de Dios de que el pecador viva" },
+        { "en": "Ciudad sanguinaria", "es": "La denuncia de la violencia de Jerusalén" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué signo profético realiza Ezequiel para anunciar el destierro, en el capítulo 12?",
+      "options": ["Construye una pequeña maqueta del templo", "Prepara su equipaje y sale por una brecha en el muro, a la vista de todos", "Reparte pan entre los pobres de la ciudad"],
+      "correct": 1,
+      "hint": "También se cubrió la cara «para no ver la tierra».",
+      "explanation": "Ez 12,5: «a la vista de todos abre una brecha en el muro y saca por allí tu equipaje»."
+    },
+    {
+      "type": "gap",
+      "text": "A la vista de todos abre una brecha en el ___ y saca por allí tu equipaje.",
+      "options": ["muro", "templo", "campo"],
+      "answer": "muro",
+      "explanation": "Ez 12,5: este signo profético representa con el propio cuerpo de Ezequiel el destierro venidero."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 12,5 · El signo del destierro",
+      "direction": "es-es",
+      "tiles": ["Abre", "una", "brecha", "en", "el", "muro", "templo", "campo"],
+      "answer": "Abre una brecha en el muro",
+      "explanation": "Ez 12,5: este signo profético representa con el propio cuerpo de Ezequiel el destierro venidero."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Ojos para ver y no ven", "es": "Ezequiel 12,2" },
+        { "en": "El que peque, ese morirá", "es": "Ezequiel 18,4" },
+        { "en": "¿Acaso quiero yo la muerte del malvado?", "es": "Ezequiel 18,23" },
+        { "en": "Ciudad sanguinaria", "es": "Ezequiel 24,6" },
+        { "en": "Murió mi mujer", "es": "Ezequiel 24,18" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio establece Dios frente al antiguo refrán sobre \"los padres que comieron agraces\"?",
+      "options": ["Que los hijos siempre heredan la culpa de sus padres", "Que solo los reyes son responsables de los pecados del pueblo", "Que cada persona responde por su propio pecado: el que peca, ese muere"],
+      "correct": 2,
+      "hint": "Dios afirma: «todas las vidas son mías: la vida del padre como la del hijo».",
+      "explanation": "Ez 18,4: «el que peque, ese morirá»."
+    },
+    {
+      "type": "gap",
+      "text": "El que peque, ese ___.",
+      "options": ["morirá", "huirá", "callará"],
+      "answer": "morirá",
+      "explanation": "Ez 18,4: este principio establece la responsabilidad individual frente al antiguo refrán de la culpa heredada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 18,4 · La responsabilidad individual",
+      "direction": "es-es",
+      "tiles": ["El", "que", "peque", "ese", "morirá", "huirá", "callará"],
+      "answer": "El que peque ese morirá",
+      "explanation": "Ez 18,4: este principio establece la responsabilidad individual frente al antiguo refrán de la culpa heredada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre si el malvado se convierte de todos sus pecados, según Ezequiel 18?",
+      "options": ["Vivirá, y no se le tendrán en cuenta sus delitos anteriores", "De todos modos será castigado por su pasado", "Debe esperar varias generaciones para ser perdonado"],
+      "correct": 0,
+      "hint": "El texto añade: «por la justicia que ha practicado, vivirá».",
+      "explanation": "Ez 18,21-22: «si el malvado se convierte de todos los pecados cometidos... ciertamente vivirá y no morirá. No se tendrán en cuenta los delitos cometidos»."
+    },
+    {
+      "type": "gap",
+      "text": "Si el malvado se convierte de todos los pecados cometidos... ciertamente vivirá y no ___.",
+      "options": ["morirá", "dudará", "temerá"],
+      "answer": "morirá",
+      "explanation": "Ez 18,21: esta promesa muestra que la conversión sincera puede cambiar el destino anunciado sobre una persona."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 18,21 · La conversión que salva la vida",
+      "direction": "es-es",
+      "tiles": ["Ciertamente", "vivirá", "y", "no", "morirá", "dudará", "temerá"],
+      "answer": "Ciertamente vivirá y no morirá",
+      "explanation": "Ez 18,21: esta promesa muestra que la conversión sincera puede cambiar el destino anunciado sobre una persona."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta retórica hace Dios sobre el destino del malvado, en Ezequiel 18?",
+      "options": ["¿Acaso los malvados merecen alguna compasión?", "¿Acaso quiero yo la muerte del malvado, y no que se convierta y viva?", "¿Acaso los profetas pueden salvar a los malvados?"],
+      "correct": 1,
+      "hint": "Esta pregunta expresa la voluntad de Dios de que el pecador cambie de conducta, no que muera.",
+      "explanation": "Ez 18,23: «¿acaso quiero yo la muerte del malvado, y no que se convierta de su conducta y viva?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Acaso quiero yo la muerte del malvado... y no que se convierta de su conducta y ___?",
+      "options": ["viva", "calle", "huya"],
+      "answer": "viva",
+      "explanation": "Ez 18,23: esta pregunta retórica expresa la voluntad de Dios de que el pecador viva, no que muera."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "El capítulo 12", "es": "Ezequiel representa con su propio cuerpo el destierro venidero" },
+        { "en": "El capítulo 18", "es": "Introduce el principio de la responsabilidad personal ante el pecado" },
+        { "en": "El capítulo 24", "es": "Anuncia el asedio final de Jerusalén mediante una parábola" },
+        { "en": "La muerte de la esposa de Ezequiel", "es": "Se convierte en signo profético para el pueblo" },
+        { "en": "El mandato de no hacer duelo", "es": "Anticipa que el pueblo tampoco podrá llorar la caída de Jerusalén" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué parábola denuncia Ezequiel 24 la maldad de Jerusalén?",
+      "options": ["Con la parábola de la higuera estéril", "Con la parábola del sembrador y las semillas", "Con la parábola de una olla puesta al fuego con la mejor carne"],
+      "correct": 2,
+      "hint": "El texto añade que hay que «cocerla hasta que los huesos se quemen».",
+      "explanation": "Ez 24,3-5: «prepara una olla, prepárala, echa agua en ella. Agrega trozos de carne, los mejores trozos»."
+    },
+    {
+      "type": "gap",
+      "text": "Prepara una ___, prepárala, echa agua en ella.",
+      "options": ["olla", "copa", "red"],
+      "answer": "olla",
+      "explanation": "Ez 24,3: esta parábola de la olla denuncia la maldad acumulada de Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 24,3 · La parábola de la olla",
+      "direction": "es-es",
+      "tiles": ["Prepara", "una", "olla", "échale", "agua", "copa", "red"],
+      "answer": "Prepara una olla échale agua",
+      "explanation": "Ez 24,3: esta parábola de la olla denuncia la maldad acumulada de Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo llama Dios a Jerusalén en el oráculo de la olla, en Ezequiel 24?",
+      "options": ["Ciudad sanguinaria", "Ciudad santa y siempre fiel", "Ciudad olvidada por completo"],
+      "correct": 0,
+      "hint": "El texto añade: «también yo he dejado su sangre sobre la roca desnuda».",
+      "explanation": "Ez 24,6: «¡ay de la ciudad sanguinaria, olla llena de herrumbre, que no se quita!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Ay de la ciudad ___!",
+      "options": ["sanguinaria", "dormida", "vacía"],
+      "answer": "sanguinaria",
+      "explanation": "Ez 24,6: esta denuncia de la violencia de Jerusalén cierra el oráculo de la olla."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 24,6 · La ciudad sanguinaria",
+      "direction": "es-es",
+      "tiles": ["Ay", "de", "la", "ciudad", "sanguinaria", "dormida", "vacía"],
+      "answer": "Ay de la ciudad sanguinaria",
+      "explanation": "Ez 24,6: esta denuncia de la violencia de Jerusalén cierra el oráculo de la olla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios a Ezequiel sobre \"el encanto de sus ojos\", en el capítulo 24?",
+      "options": ["Que recibirá una gran recompensa por su fidelidad", "Que se lo arrebatará repentinamente, sin permitirle hacer duelo público", "Que lo perderá por su propia negligencia"],
+      "correct": 1,
+      "hint": "Se refería a su propia esposa, y Dios le prohibió llorar públicamente su muerte.",
+      "explanation": "Ez 24,16: «voy a arrebatarte repentinamente el encanto de tus ojos; pero tú no entones una lamentación»."
+    },
+    {
+      "type": "gap",
+      "text": "Voy a arrebatarte repentinamente el encanto de tus ___.",
+      "options": ["ojos", "manos", "sueños"],
+      "answer": "ojos",
+      "explanation": "Ez 24,16: este anuncio se refería a la muerte de la propia esposa de Ezequiel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 24,16 · El anuncio sobre la esposa de Ezequiel",
+      "direction": "es-es",
+      "tiles": ["El", "encanto", "de", "tus", "ojos", "manos", "sueños"],
+      "answer": "El encanto de tus ojos",
+      "explanation": "Ez 24,16: este anuncio se refería a la muerte de la propia esposa de Ezequiel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurre a Ezequiel la misma tarde del día en que había hablado al pueblo por la mañana?",
+      "options": ["Recibe una gran multitud de nuevos discípulos", "Es liberado de su condición de deportado", "Muere su mujer, cumpliéndose la palabra del Señor"],
+      "correct": 2,
+      "hint": "Al día siguiente, Ezequiel hizo exactamente lo que Dios le había ordenado.",
+      "explanation": "Ez 24,18: «yo había hablado a la gente por la mañana, y por la tarde murió mi mujer»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo había hablado a la gente por la mañana, y por la tarde murió mi ___.",
+      "options": ["mujer", "hijo", "padre"],
+      "answer": "mujer",
+      "explanation": "Ez 24,18: este cumplimiento convirtió el dolor personal de Ezequiel en signo profético para el pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ez 24,18 · El cumplimiento del signo",
+      "direction": "es-es",
+      "tiles": ["Por", "la", "tarde", "murió", "mi", "mujer", "hijo", "padre"],
+      "answer": "Por la tarde murió mi mujer",
+      "explanation": "Ez 24,18: este cumplimiento convirtió el dolor personal de Ezequiel en signo profético para el pueblo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La responsabilidad personal", "es": "Cada persona responde ante Dios por sus propias decisiones" },
+        { "en": "La conversión sincera", "es": "Puede cambiar el destino anunciado sobre una persona" },
+        { "en": "Los signos proféticos", "es": "Hacen visible con gestos lo que las palabras a veces no logran comunicar" },
+        { "en": "El sufrimiento del profeta", "es": "Se pone al servicio de la misión que Dios le confía" },
+        { "en": "La violencia denunciada", "es": "No puede ocultarse ni justificarse ante Dios" }
+      ]
+    }
+  ]
+}
