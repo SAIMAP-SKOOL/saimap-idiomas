@@ -23,7 +23,19 @@
         { "n": 12, "title": "Deuteronomio II — La Alianza en Moab",    "es": "Deuteronomio II · Alianza en Moab",           "file": "pen/mod12.json" }
       ]
     },
-    { "code": "HIS", "name": "Libros Históricos",              "color": "#B5651D", "locked": true, "moduleCount": 16 },
+    {
+      "code": "HIS",
+      "name": "Libros Históricos",
+      "sub": "5 módulos · Josué, Jueces y Rut",
+      "color": "#B5651D",
+      "modules": [
+        { "n": 1, "title": "Josué I — La Conquista de Canaán",           "es": "Josué I · La Conquista de Canaán (Jos 1–12)",    "file": "his/mod01.json" },
+        { "n": 2, "title": "Josué II — El Reparto de la Tierra",         "es": "Josué II · El Reparto de la Tierra (Jos 13–24)", "file": "his/mod02.json" },
+        { "n": 3, "title": "Jueces I — Otoniel, Aod, Débora y Gedeón",   "es": "Jueces I · Los Primeros Jueces (Jue 1–8)",       "file": "his/mod03.json" },
+        { "n": 4, "title": "Jueces II — Jefté y Sansón",                 "es": "Jueces II · Jefté y Sansón (Jue 9–21)",          "file": "his/mod04.json" },
+        { "n": 5, "title": "Rut — Lealtad en Belén",                     "es": "Rut · Lealtad en Belén (Rut 1–4)",                "file": "his/mod05.json" }
+      ]
+    },
     { "code": "SAP", "name": "Libros Sapienciales y Poéticos", "color": "#C79B00", "locked": true, "moduleCount": 12 },
     { "code": "PRO", "name": "Libros Proféticos",              "color": "#7C4C9E", "locked": true, "moduleCount": 18 },
     { "code": "EVA", "name": "Evangelios",                     "color": "#2F8A87", "locked": true, "moduleCount": 10 },

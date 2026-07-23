@@ -1,0 +1,251 @@
+{
+  "id": "his-mod01",
+  "module": 1,
+  "title": "Josué I — La Conquista de Canaán",
+  "subtitle": "Josué 1–12",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Quién sucede a Moisés al frente del pueblo de Israel?",
+      "options": ["Josué", "Caleb", "Aarón"],
+      "correct": 0,
+      "hint": "Fue uno de los dos exploradores que, junto a Caleb, dieron un informe favorable de la tierra prometida.",
+      "explanation": "Jos 1:1-2: a la muerte de Moisés, el Señor encarga a Josué, su ayudante, que pase el Jordán con el pueblo. Caleb fue el otro explorador fiel, no el sucesor; Aarón, hermano de Moisés, había muerto antes que él."
+    },
+    {
+      "type": "gap",
+      "text": "Tras la muerte de Moisés, Dios ordena a Josué pasar el río ___ para entrar en la tierra prometida.",
+      "options": ["Jordán", "Nilo", "Éufrates"],
+      "answer": "Jordán",
+      "explanation": "Jos 1:2: el paso del Jordán marca el comienzo de la entrada en Canaán, la tierra prometida a los antepasados de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 1:9 · lo que Dios exige a Josué al encomendarle la conquista",
+      "direction": "es-es",
+      "tiles": ["valiente", "Tengas", "fuerza", "seas", "y", "valor", "ánimo"],
+      "answer": "Tengas valor y seas valiente",
+      "explanation": "Jos 1:9: Dios pide a Josué valor y firmeza ante la tarea que le espera, asegurándole que estará con él en cualquier empresa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Rajab a los exploradores a cambio de esconderlos?",
+      "options": ["Que la lleven consigo esa misma noche", "Que salven su vida y la de su familia", "Que le entreguen parte del botín de Jericó"],
+      "correct": 1,
+      "hint": "Ella está convencida de que Israel conquistará la ciudad.",
+      "explanation": "Jos 2:12-13: Rajab pide un juramento para que se respete su vida y la de su familia cuando Israel tome Jericó, a cambio de haberlos escondido y ayudado a escapar."
+    },
+    {
+      "type": "gap",
+      "text": "Rajab escondió a los exploradores bajo unos tallos de ___ tendidos en la azotea de su casa.",
+      "options": ["lino", "trigo", "paja"],
+      "answer": "lino",
+      "explanation": "Jos 2:6: Rajab oculta a los espías bajo el lino que tenía puesto a secar en la azotea, mientras despista a los hombres del rey."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 2:18 · la señal que los exploradores piden a Rajab",
+      "direction": "es-es",
+      "tiles": ["cinta", "Ata", "ventana", "cordón", "esta", "la", "roja", "a", "casa"],
+      "answer": "Ata esta cinta roja a la ventana",
+      "explanation": "Jos 2:18: los exploradores piden a Rajab que ate una cinta roja en la ventana por la que los descolgó, como señal para que su casa se libre de la destrucción."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje o elemento con su dato",
+      "pairs": [
+        { "en": "Josué", "es": "Sucesor de Moisés al frente del pueblo" },
+        { "en": "Rajab", "es": "Prostituta de Jericó que escondió a los exploradores" },
+        { "en": "La cinta roja", "es": "Señal atada a la ventana de Rajab" },
+        { "en": "Los dos exploradores", "es": "Enviados en secreto a reconocer Jericó" },
+        { "en": "Moisés", "es": "Había muerto antes de entrar en la tierra prometida" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué llevaban los sacerdotes al frente del pueblo al cruzar el Jordán?",
+      "options": ["Las tablas de la ley, sin el arca", "El bastón de Moisés", "El arca de la alianza"],
+      "correct": 2,
+      "hint": "Es el mismo objeto sagrado que acompañaba a Israel desde el Sinaí.",
+      "explanation": "Jos 3:14-17: en cuanto los pies de los sacerdotes que portan el arca tocan el agua, la corriente del Jordán se detiene y el pueblo cruza en seco."
+    },
+    {
+      "type": "gap",
+      "text": "En cuanto los sacerdotes que portaban el arca tocaron el agua, las aguas del Jordán quedaron ___.",
+      "options": ["detenidas", "heladas", "teñidas"],
+      "answer": "detenidas",
+      "explanation": "Jos 3:15-16: la corriente se detiene formando un muro, río arriba, y el pueblo cruza el cauce en seco."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 4:20 · el monumento que recuerda el paso del Jordán",
+      "direction": "es-es",
+      "tiles": ["Guilgal", "Erigió", "piedras", "doce", "en", "las", "columnas", "Jericó"],
+      "answer": "Erigió en Guilgal las doce piedras",
+      "explanation": "Jos 4:20: con las doce piedras sacadas del cauce, una por cada tribu, Josué levanta en Guilgal un monumento para que las generaciones futuras recuerden el paso del Jordán."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Josué en Guilgal antes de la primera Pascua en la tierra prometida?",
+      "options": ["Circuncidar a los hijos de Israel", "Construir un altar de doce piedras", "Repartir la tierra por sorteo"],
+      "correct": 0,
+      "hint": "Era un rito ligado a la alianza de Abrahán, descuidado durante los años del desierto.",
+      "explanation": "Jos 5:2-8: en Guilgal Josué circuncida a la generación nacida en el desierto, restableciendo la señal de la alianza antes de entrar en la tierra prometida."
+    },
+    {
+      "type": "gap",
+      "text": "Nada más comer del grano de la tierra prometida, cesó el ___ que había alimentado a Israel en el desierto.",
+      "options": ["maná", "vino", "aceite"],
+      "answer": "maná",
+      "explanation": "Jos 5:11-12: al día siguiente de comer los productos de la tierra, el maná cesó; nunca más volvió a caer."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 5:15 · orden del jefe del ejército del Señor a Josué",
+      "direction": "es-es",
+      "tiles": ["sandalias", "Quítate", "pies", "las", "de", "los", "manto", "manos"],
+      "answer": "Quítate las sandalias de los pies",
+      "explanation": "Jos 5:15: como antes a Moisés en la zarza, el jefe del ejército del Señor advierte a Josué que el suelo que pisa es sagrado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le pregunta Josué al hombre con la espada desnuda que se le aparece cerca de Jericó?",
+      "options": ["Su nombre y su procedencia", "Si viene como amigo o como enemigo", "Si viene a ayudarle a construir un altar"],
+      "correct": 1,
+      "hint": "Antes de saber quién es, Josué quiere saber de qué bando viene.",
+      "explanation": "Jos 5:13-14: Josué pregunta si es de los suyos o de sus enemigos; el personaje se identifica como jefe del ejército del Señor, y Josué se postra en tierra."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada hecho con lo que ocurrió",
+      "pairs": [
+        { "en": "Las piedras, la circuncisión y la primera Pascua", "es": "Tuvieron lugar en Guilgal" },
+        { "en": "Las aguas del Jordán", "es": "Se detuvieron ante el arca de la alianza" },
+        { "en": "El jefe del ejército del Señor", "es": "Se apareció a Josué con la espada desnuda" },
+        { "en": "«Quítate las sandalias»", "es": "Señal de que el suelo era sagrado" },
+        { "en": "El cese del maná", "es": "Ocurrió al comer los primeros frutos de la tierra" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo cayeron las murallas de Jericó?",
+      "options": ["Tras un asedio de varios meses con arietes", "Por un terremoto enviado como castigo", "Rodeando la ciudad seis días y siete veces el séptimo, con trompetas"],
+      "correct": 2,
+      "hint": "El número siete se repite en sacerdotes, trompetas y vueltas.",
+      "explanation": "Jos 6:3-4.20: seis días el pueblo da una vuelta a la ciudad; el séptimo, siete vueltas al son de las trompetas de los sacerdotes, y las murallas se desploman."
+    },
+    {
+      "type": "gap",
+      "text": "El séptimo día, tras la séptima vuelta y el toque de las trompetas, las murallas de Jericó se ___.",
+      "options": ["desplomaron", "abrieron", "incendiaron"],
+      "answer": "desplomaron",
+      "explanation": "Jos 6:20: al oír el clamor del pueblo y el sonido de las trompetas, las murallas se desploman y la ciudad queda expuesta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 6:4 · la disposición de los sacerdotes para rodear Jericó",
+      "direction": "es-es",
+      "tiles": ["sacerdotes", "Siete", "Arca", "llevarán", "delante", "del", "trompetas", "reyes"],
+      "answer": "Siete sacerdotes llevarán delante del Arca",
+      "explanation": "Jos 6:4: siete sacerdotes con trompetas de cuerno de carnero abren la procesión que rodea Jericó junto con el arca de la alianza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 6:17 · el destino de Rajab tras la caída de Jericó",
+      "direction": "es-es",
+      "tiles": ["prostituta", "La", "Rajab", "ella", "y", "los", "que", "estén", "con", "familia", "casa"],
+      "answer": "La prostituta Rajab y los que estén con ella",
+      "explanation": "Jos 6:17.22-23: por haber escondido a los exploradores, Rajab y toda su familia se salvan de la destrucción de Jericó."
+    },
+    {
+      "type": "gap",
+      "text": "Acán confesó haber tomado para sí parte del ___ consagrado de Jericó, que debía destinarse solo al tesoro del Señor.",
+      "options": ["botín", "ganado", "trigo"],
+      "answer": "botín",
+      "explanation": "Jos 7:20-21: Acán reconoce haber tomado un manto, plata y oro del botín de Jericó, que estaba consagrado y prohibido para uso particular."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se identifica a Acán como responsable del robo del botín consagrado?",
+      "options": ["Mediante un sorteo por tribus, clanes y familias", "Confiesa espontáneamente ante Josué", "Un testigo lo denuncia ante el pueblo"],
+      "correct": 0,
+      "hint": "El proceso va reduciendo el círculo de sospechosos paso a paso.",
+      "explanation": "Jos 7:16-18: Josué hace acercarse por sorteo primero a las tribus, luego a los clanes, después a las familias y por último a las personas, hasta señalar a Acán."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo logra Israel conquistar Ay tras la primera derrota?",
+      "options": ["Rodeándola siete veces como en Jericó", "Con una emboscada que sorprende a la ciudad desguarnecida", "Gracias a la traición de un habitante de Ay"],
+      "correct": 1,
+      "hint": "Una parte del ejército finge huir para atraer a los defensores fuera de la ciudad.",
+      "explanation": "Jos 8:3-19: Josué envía una emboscada que ocupa Ay mientras el grueso del ejército finge retirarse; los de Ay salen en persecución y quedan atrapados entre las dos fuerzas."
+    },
+    {
+      "type": "gap",
+      "text": "Tras conquistar Ay, Josué leyó toda la ley ante el pueblo reunido junto a los montes Ebal y ___.",
+      "options": ["Garizín", "Sinaí", "Nebo"],
+      "answer": "Garizín",
+      "explanation": "Jos 8:30-35: Josué construye un altar en el Ebal y lee la ley ante el pueblo, dividido entre ambos montes, tal como había mandado Moisés."
+    },
+    {
+      "type": "gap",
+      "text": "Los gabaonitas se presentaron con ropas viejas y provisiones resecas para hacer creer que venían de muy ___.",
+      "options": ["lejos", "noche", "prisa"],
+      "answer": "lejos",
+      "explanation": "Jos 9:3-6: fingen ser embajadores de un país lejano para conseguir un pacto de paz que la ley prohibía con los pueblos de Canaán."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 9:27 · la condena impuesta a los gabaonitas por su engaño",
+      "direction": "es-es",
+      "tiles": ["aguadores", "Leñadores", "comunidad", "y", "de", "la", "esclavos", "reyes"],
+      "answer": "Leñadores y aguadores de la comunidad",
+      "explanation": "Jos 9:23.27: descubierto el engaño, Josué respeta el pacto jurado pero condena a los gabaonitas a servir para siempre como leñadores y aguadores del culto al Señor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje o episodio con su desenlace",
+      "pairs": [
+        { "en": "Acán", "es": "Apedreado en el valle de Acor por robar del botín de Jericó" },
+        { "en": "Ay", "es": "Conquistada tras una primera derrota, mediante una emboscada" },
+        { "en": "Los montes Ebal y Garizín", "es": "Escenario de la lectura pública de la ley" },
+        { "en": "Los gabaonitas", "es": "Engañaron a Josué fingiendo venir de tierras lejanas" },
+        { "en": "Leñadores y aguadores", "es": "Trabajo perpetuo impuesto a los gabaonitas por su engaño" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué causó más muertes entre los cinco reyes amorreos al huir de Gabaón?",
+      "options": ["El hambre durante la huida", "Una emboscada tendida por los gabaonitas", "El granizo que el Señor hizo caer sobre ellos"],
+      "correct": 2,
+      "hint": "Cayó del cielo y persiguió a los que huían cuesta abajo.",
+      "explanation": "Jos 10:11: mientras huyen ante Israel, el Señor hace caer sobre ellos un fuerte granizo, y mueren más por el pedrisco que por la espada de los israelitas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 10:12 · la orden de Josué al sol y a la luna sobre Gabaón",
+      "direction": "es-es",
+      "tiles": ["sol", "Detente", "Gabaón", "en", "y", "tú", "luna", "luz", "cielo"],
+      "answer": "Detente sol en Gabaón y tú luna",
+      "explanation": "Jos 10:12-13: Josué pide al sol y a la luna que se detengan sobre Gabaón, y el día se prolonga hasta que Israel acaba de derrotar a sus enemigos."
+    },
+    {
+      "type": "gap",
+      "text": "Tras la victoria junto a Gabaón, Josué conquistó una serie de ciudades del ___ de Canaán, entre ellas Maquedá, Laquis y Hebrón.",
+      "options": ["sur", "norte", "centro"],
+      "answer": "sur",
+      "explanation": "Jos 10:28-43: tras derrotar a la coalición de los cinco reyes, Josué somete las ciudades del sur de Canaán en una sola campaña."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con la campaña final de la conquista",
+      "pairs": [
+        { "en": "Los cinco reyes amorreos", "es": "Coalición vencida cerca de Gabaón" },
+        { "en": "El sol", "es": "Se detuvo sobre Gabaón a la orden de Josué" },
+        { "en": "Yabín", "es": "Rey de Jazor, cabeza de la coalición del norte" },
+        { "en": "Las aguas de Merón", "es": "Escenario de la batalla contra los reyes del norte" },
+        { "en": "Treinta y un reyes", "es": "Total de reyes vencidos según el resumen de Josué 12" }
+      ]
+    }
+  ]
+}

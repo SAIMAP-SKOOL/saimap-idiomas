@@ -1,0 +1,251 @@
+{
+  "id": "his-mod02",
+  "module": 2,
+  "title": "Josué II — El Reparto de la Tierra",
+  "subtitle": "Josué 13–24",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "Cuando Josué ya era anciano, ¿qué le dijo el Señor sobre la tarea pendiente?",
+      "options": ["Que ya no había tierra por conquistar y podía descansar", "Que quedaba mucha tierra por conquistar, pero debía repartirla ya entre las tribus", "Que debía esperar a una nueva generación para repartir la tierra"],
+      "correct": 1,
+      "hint": "El Señor no espera a que termine toda la conquista para empezar a repartir.",
+      "explanation": "Jos 13:1: aunque Josué es ya anciano y queda tierra sin conquistar del todo, el Señor ordena repartirla igualmente entre las tribus, dejando la conquista definitiva a la fe futura de cada una."
+    },
+    {
+      "type": "gap",
+      "text": "Reparte esta tierra en heredad entre las nueve tribus y la media tribu de ___.",
+      "options": ["Manasés", "Efraín", "Benjamín"],
+      "answer": "Manasés",
+      "explanation": "Jos 13:7: Josué reparte la tierra al oeste del Jordán entre las nueve tribus y media, ya que las otras dos tribus y media habían recibido su heredad en Transjordania."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 13:1 · lo que el Señor le dice a Josué, ya anciano",
+      "direction": "es-es",
+      "tiles": ["Queda", "todavía", "mucha", "tierra", "por", "conquistar", "poca", "descansar", "gente"],
+      "answer": "Queda todavía mucha tierra por conquistar",
+      "explanation": "Jos 13:1: pese a la edad de Josué, la conquista de Canaán no está terminada — pero el reparto de la tierra por sorteo comienza de todos modos, como acto de fe."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tribus habían recibido ya su heredad en Transjordania, de manos de Moisés?",
+      "options": ["Rubén, Gad y la media tribu de Manasés", "Judá, Efraín y Benjamín", "Simeón, Dan y Neftalí"],
+      "correct": 0,
+      "hint": "Son las tribus que se quedaron en la orilla oriental del Jordán.",
+      "explanation": "Jos 13:8: Rubén, Gad y la media tribu de Manasés ya habían recibido su heredad al este del Jordán de manos de Moisés, antes de morir este. Judá, Efraín y Benjamín reciben su parte más adelante, al oeste del río."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada tribu con el dato de su heredad",
+      "pairs": [
+        { "en": "Rubén", "es": "Heredó tierra en Transjordania, en la llanura desértica" },
+        { "en": "Gad", "es": "Heredó Galaad, en Transjordania" },
+        { "en": "Judá", "es": "Heredó Hebrón y Debir, al sur de Canaán" },
+        { "en": "Efraín", "es": "Heredó Guézer y el centro del país" },
+        { "en": "Benjamín", "es": "Heredó Jericó y Jerusalén, entre Judá y José" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Caleb tenía cuarenta años cuando Moisés lo envió a explorar la tierra de ___.",
+      "options": ["Canaán", "Egipto", "Basán"],
+      "answer": "Canaán",
+      "explanation": "Jos 14:7: Caleb recuerda que tenía cuarenta años cuando Moisés lo envió, junto a los demás exploradores, a reconocer la tierra de Canaán."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué recibió Caleb la montaña de Hebrón como heredad?",
+      "options": ["Porque le tocó por sorteo, como a las demás tribus", "Porque siguió plenamente al Señor cuando exploró la tierra prometida", "Porque era el sacerdote de mayor rango"],
+      "correct": 1,
+      "hint": "Su fidelidad se remonta a los doce exploradores que Moisés envió a Canaán.",
+      "explanation": "Jos 14:9.14: Caleb recibe Hebrón como heredad perpetua «por haber sido fiel al Señor, Dios de Israel», a diferencia de los demás exploradores que desanimaron al pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 14:10 · Caleb, ante Josué, declara su edad",
+      "direction": "es-es",
+      "tiles": ["Ahora", "tengo", "ochenta", "y", "cinco", "años", "cuarenta", "noventa", "meses"],
+      "answer": "Ahora tengo ochenta y cinco años",
+      "explanation": "Jos 14:10-11: a sus ochenta y cinco años, Caleb se presenta ante Josué tan vigoroso como el día en que Moisés lo envió a explorar la tierra."
+    },
+    {
+      "type": "gap",
+      "text": "Hebrón sigue siendo heredad de Caleb por haber sido ___ al Señor.",
+      "options": ["fiel", "valiente", "rico"],
+      "answer": "fiel",
+      "explanation": "Jos 14:14: Hebrón queda como heredad de Caleb «hasta el día de hoy» por haber sido fiel al Señor, a diferencia de quienes desanimaron al pueblo tras la exploración."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 14:14 · el motivo por el que Hebrón queda para siempre en manos de Caleb",
+      "direction": "es-es",
+      "tiles": ["Por", "haber", "sido", "fiel", "al", "Señor", "valiente", "siempre", "Moisés"],
+      "answer": "Por haber sido fiel al Señor",
+      "explanation": "Jos 14:14: la fidelidad de Caleb, mantenida desde los tiempos de Moisés, es la razón explícita por la que Hebrón se convierte en su heredad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato en el reparto de la tierra",
+      "pairs": [
+        { "en": "Caleb", "es": "A sus 85 años recibió Hebrón por su fidelidad" },
+        { "en": "Selofejad", "es": "Sus cinco hijas heredaron su parte al no tener hijos varones" },
+        { "en": "Eleazar", "es": "Sacerdote que repartió la tierra junto a Josué" },
+        { "en": "Pinjás", "es": "Encabezó la delegación que investigó el altar de Transjordania" },
+        { "en": "Josué", "es": "Dirigió el reparto de la tierra por sorteo ante el Señor" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "Ya instalado en su heredad de Hebrón, ¿qué hizo Caleb según el capítulo 15?",
+      "options": ["Expulsó de Hebrón a los hijos de Anac", "Cedió Hebrón a la tribu de Benjamín", "Construyó un altar nuevo en Hebrón"],
+      "correct": 0,
+      "hint": "Son los mismos gigantes que sembraron el miedo entre los exploradores enviados por Moisés.",
+      "explanation": "Jos 15:13-14: ya instalado en Hebrón, Caleb expulsa de allí a los tres hijos de Anac —Sesay, Ajimán y Talmay—, gigantes que habían atemorizado a los exploradores años antes."
+    },
+    {
+      "type": "gap",
+      "text": "Selofejad no tuvo hijos varones, así que sus cinco ___ heredaron su parte de la tierra.",
+      "options": ["hijas", "hermanos", "siervos"],
+      "answer": "hijas",
+      "explanation": "Jos 17:3-4: Selofejad, de la tribu de Manasés, no tuvo hijos varones; sus cinco hijas —Majlá, Noá, Joglá, Milcá y Tirsá— reclamaron y recibieron heredad ante el sacerdote Eleazar."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se repartió la tierra entre las tribus que aún no tenían heredad, reunidas en Siló?",
+      "options": ["Cada jefe de tribu eligió libremente su territorio", "Josué asignó las tierras según la antigüedad de cada tribu", "Se repartieron por sorteo, echado ante el Señor"],
+      "correct": 2,
+      "hint": "El lugar de la asamblea es donde se instaló la Tienda del Encuentro.",
+      "explanation": "Jos 18:1-10: reunidos en Siló, ante la Tienda del Encuentro, las tribus que aún no tenían heredad reciben su territorio por sorteo, echado ante el Señor."
+    },
+    {
+      "type": "gap",
+      "text": "La tribu de Dan conquistó la ciudad de Lesen y le puso el nombre de ___.",
+      "options": ["Dan", "Efraín", "Lesen"],
+      "answer": "Dan",
+      "explanation": "Jos 19:47: la tribu de Dan, tras no lograr asentarse en su territorio original, sube y conquista Lesen, ciudad a la que da su propio nombre."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada ciudad de refugio con su ubicación",
+      "pairs": [
+        { "en": "Cadés", "es": "En Galilea, tierra de Neftalí" },
+        { "en": "Siquén", "es": "En la montaña de Efraín" },
+        { "en": "Quiriat Arbá (Hebrón)", "es": "En la montaña de Judá" },
+        { "en": "Béser", "es": "En la llanura desértica, tierra de Rubén" },
+        { "en": "Ramot de Galaad", "es": "En Transjordania, tierra de Gad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Para qué se establecieron las ciudades de refugio?",
+      "options": ["Servían de residencia exclusiva para los sacerdotes", "Protegían al homicida involuntario hasta que fuera juzgado", "Almacenaban el diezmo de todas las tribus"],
+      "correct": 1,
+      "hint": "Piensa en un homicidio involuntario, sin intención de matar.",
+      "explanation": "Jos 20:2-3: las ciudades de refugio protegen a quien haya matado a alguien por inadvertencia, sin intención, dándole tiempo y lugar seguro hasta comparecer ante la comunidad."
+    },
+    {
+      "type": "gap",
+      "text": "En las ciudades de refugio podía refugiarse quien hubiera matado a alguien por ___.",
+      "options": ["inadvertencia", "venganza", "robo"],
+      "answer": "inadvertencia",
+      "explanation": "Jos 20:3: la protección de estas ciudades es solo para el homicida involuntario, «que haya matado a alguien por inadvertencia» — no para quien mata con intención."
+    },
+    {
+      "type": "gap",
+      "text": "Golán de Basán, la sexta ciudad de refugio, pertenecía al territorio de la tribu de ___.",
+      "options": ["Manasés", "Isacar", "Neftalí"],
+      "answer": "Manasés",
+      "explanation": "Jos 20:8: Golán de Basán, en Transjordania, era la sexta ciudad de refugio y pertenecía al territorio de la media tribu de Manasés oriental."
+    },
+    {
+      "type": "gap",
+      "text": "Los levitas no recibieron un territorio propio, sino ___ ciudades repartidas entre las demás tribus.",
+      "options": ["cuarenta y ocho", "doce", "veinticuatro"],
+      "answer": "cuarenta y ocho",
+      "explanation": "Jos 21: los levitas, sin territorio propio por su servicio al culto, reciben cuarenta y ocho ciudades con sus pastos, repartidas entre las heredades de las demás tribus."
+    },
+    {
+      "type": "quiz",
+      "q": "Al concluir el reparto, ¿qué afirma el texto sobre la promesa del Señor a los antepasados de Israel?",
+      "options": ["Que solo se cumplió en parte", "Que quedó pendiente para una generación futura", "Que el Señor dio a Israel toda la tierra que había prometido a sus padres"],
+      "correct": 2,
+      "hint": "Es el versículo que cierra todo el proceso del reparto.",
+      "explanation": "Jos 21:43: al concluir el reparto, el texto resume que «el Señor dio a Israel toda la tierra que había jurado dar a sus padres», y que Israel se instaló en ella."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 21:43 · el resumen del narrador al concluir el reparto de la tierra",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "dio", "a", "Israel", "toda", "la", "tierra", "prometió", "pueblo", "cielo"],
+      "answer": "El Señor dio a Israel toda la tierra",
+      "explanation": "Jos 21:43: esta frase cierra el largo proceso de reparto iniciado en el capítulo 13 — la promesa hecha a los patriarcas se cumple."
+    },
+    {
+      "type": "gap",
+      "text": "Antes de que las tribus de Transjordania regresaran a su tierra, construyeron un gran ___ junto al Jordán.",
+      "options": ["altar", "templo", "pozo"],
+      "answer": "altar",
+      "explanation": "Jos 22:10: antes de cruzar de vuelta a su territorio, Rubén, Gad y la media tribu de Manasés levantan un gran altar junto al Jordán, en la orilla de Canaán."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué se indignaron las demás tribus de Israel al saber del altar junto al Jordán?",
+      "options": ["Pensaron que era un altar rival, una rebelión contra el Señor", "Pensaron que el altar invadía el territorio de Efraín", "Pensaron que profanaba la memoria de Josué"],
+      "correct": 0,
+      "hint": "El miedo era a una ruptura de la alianza, como la que ya le había costado cara a Israel.",
+      "explanation": "Jos 22:11-12: al oír que se había erigido un altar junto al Jordán, el resto de Israel temió que fuera un signo de rebelión contra el Señor y se dispuso a ir a la guerra contra sus hermanos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 22:34 · el nombre que las tribus de Transjordania dan a su altar",
+      "direction": "es-es",
+      "tiles": ["Testigo", "entre", "nosotros", "de", "que", "el", "Señor", "es", "Dios", "sacrificio", "altar", "rey"],
+      "answer": "Testigo entre nosotros de que el Señor es Dios",
+      "explanation": "Jos 22:34: las tribus de Transjordania aclaran que el altar no es para sacrificios, sino un signo —un «Testigo»— de que también ellas tienen parte en el Señor, y así se evita la guerra."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 23:7 · advertencia de Josué en su discurso de despedida",
+      "direction": "es-es",
+      "tiles": ["No", "mentéis", "el", "nombre", "de", "sus", "dioses", "juréis", "sirváis", "ídolos"],
+      "answer": "No mentéis el nombre de sus dioses",
+      "explanation": "Jos 23:7: en su discurso de despedida, ya anciano, Josué advierte a Israel que no se mezcle con los pueblos que quedan en la tierra ni invoque el nombre de sus dioses."
+    },
+    {
+      "type": "quiz",
+      "q": "En la asamblea de Siquén, ¿qué hace Josué antes de retar al pueblo a elegir a quién servir?",
+      "options": ["Nombra un sucesor para dirigir a Israel", "Divide de nuevo el territorio entre las tribus", "Repasa toda la historia de salvación, desde Abrahán hasta la entrada en la tierra"],
+      "correct": 2,
+      "hint": "Antes de pedir una decisión, Josué recuerda todo lo que el Señor ya ha hecho.",
+      "explanation": "Jos 24:2-13: reunido con Israel en Siquén, Josué recorre la historia entera de salvación —desde Abrahán, pasando por Egipto y el desierto, hasta la entrada en la tierra— antes de plantear su reto final."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 24:15 · el reto de Josué al pueblo reunido en Siquén",
+      "direction": "es-es",
+      "tiles": ["Yo", "y", "mi", "casa", "serviremos", "al", "Señor", "familia", "dioses", "hoy"],
+      "answer": "Yo y mi casa serviremos al Señor",
+      "explanation": "Jos 24:15: en la asamblea de Siquén, Josué reta al pueblo a elegir a quién servir y proclama su propia decisión y la de su familia — el versículo más citado del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jos 24:18 · la respuesta unánime del pueblo a Josué",
+      "direction": "es-es",
+      "tiles": ["También", "nosotros", "serviremos", "al", "Señor", "Josué", "dioses", "ídolos"],
+      "answer": "También nosotros serviremos al Señor",
+      "explanation": "Jos 24:18: el pueblo responde a Josué con el mismo compromiso que él acaba de proclamar, renovando así la alianza con el Señor en Siquén."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del final del libro con su significado",
+      "pairs": [
+        { "en": "El libro de la Ley", "es": "Donde Josué escribió las palabras de la alianza renovada" },
+        { "en": "La piedra grande", "es": "Testigo silencioso de la alianza, erigida en Siquén" },
+        { "en": "Timná Séraj", "es": "Lugar de la montaña de Efraín donde fue sepultado Josué" },
+        { "en": "Los huesos de José", "es": "Enterrados en Siquén, en el campo que Jacob compró a los hijos de Jamor" },
+        { "en": "Guibeá", "es": "Ciudad donde fue enterrado el sacerdote Eleazar" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "his-mod03",
+  "module": 3,
+  "title": "Jueces I — Otoniel, Aod, Débora y Gedeón",
+  "subtitle": "Jueces 1–8",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha el ángel del Señor a Israel en Boquín?",
+      "options": ["Haber pactado con los pueblos de Canaán y sus dioses", "No haber conquistado toda la tierra prometida", "Haber abandonado el arca de la alianza"],
+      "correct": 0,
+      "hint": "El reproche tiene que ver con alianzas indebidas, no con territorio.",
+      "explanation": "Jue 2:2-3: Israel había hecho pactos con los habitantes de la tierra en vez de destruir sus altares. Por eso el ángel anuncia que esos pueblos «serán vuestros lazos y sus dioses una trampa»."
+    },
+    {
+      "type": "gap",
+      "text": "Ellos serán vuestros lazos y sus dioses una ___.",
+      "options": ["trampa", "ruina", "prueba"],
+      "answer": "trampa",
+      "explanation": "Jue 2:3: la advertencia del ángel del Señor en Boquín, tras el reproche por los pactos con los cananeos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el ciclo que se repite a lo largo de todo el libro de los Jueces?",
+      "options": ["Guerra, victoria, reparto de tierras, censo", "Infidelidad, opresión, clamor, liberación por un juez, paz", "Alianza, bendición, desobediencia, destierro"],
+      "correct": 1,
+      "hint": "Empieza siempre con Israel apartándose del Señor.",
+      "explanation": "Jue 2: el patrón se repite con cada juez — Israel se aparta de Dios, es entregado a un opresor, clama, Dios suscita un liberador y hay paz, hasta la siguiente recaída."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada juez con su adversario o hazaña",
+      "pairs": [
+        { "en": "Otoniel", "es": "Venció a Cusán Risatáin, rey de Arán Naharáim" },
+        { "en": "Aod", "es": "Mató al rey Eglón de Moab con un puñal oculto" },
+        { "en": "Samgar", "es": "Mató a seiscientos filisteos con una aguijada" },
+        { "en": "Débora", "es": "Profetisa que convocó a Barac contra Sísara" },
+        { "en": "Gedeón", "es": "Venció a Madián con trescientos hombres" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Otoniel liberó a Israel del rey ___, y el país estuvo en paz cuarenta años.",
+      "options": ["Cusán Risatáin", "Eglón", "Jabín"],
+      "answer": "Cusán Risatáin",
+      "explanation": "Jue 3:8-11: Otoniel, el primer juez, libera a Israel de la opresión de Cusán Risatáin, rey de Arán Naharáim."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 3:31 · La hazaña de Samgar",
+      "direction": "es-es",
+      "tiles": ["Mató", "a", "seiscientos", "filisteos", "con", "una", "aguijada", "espada", "lanza"],
+      "answer": "Mató a seiscientos filisteos con una aguijada",
+      "explanation": "Jue 3:31: Samgar, tercer juez mencionado, libra a Israel de los filisteos con un arma tan sencilla como una aguijada de bueyes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo mató Aod al rey Eglón de Moab?",
+      "options": ["Con una honda, en pleno campo de batalla", "Con una lanza, durante una emboscada nocturna", "Con un puñal oculto bajo el manto, a solas con él"],
+      "correct": 2,
+      "hint": "Aod era zurdo, y eso jugó a su favor en el engaño.",
+      "explanation": "Jue 3:16-21: Aod ocultó un puñal de doble filo bajo su manto y, a solas con Eglón con el pretexto de un mensaje secreto, «alargó la mano izquierda, agarró el puñal del muslo derecho y se lo clavó en el vientre»."
+    },
+    {
+      "type": "gap",
+      "text": "Aod ciñó un puñal de doble filo bajo su ___.",
+      "options": ["manto", "túnica", "cinturón"],
+      "answer": "manto",
+      "explanation": "Jue 3:16: el arma escondida bajo el manto permitió a Aod acercarse a Eglón sin levantar sospechas al ser zurdo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde se sentaba Débora para juzgar a Israel?",
+      "options": ["Bajo la palmera de Débora, entre Ramá y Betel", "A las puertas de Betel", "En la tienda del encuentro de Silo"],
+      "correct": 0,
+      "hint": "El lugar lleva su propio nombre.",
+      "explanation": "Jue 4:5: Débora se sentaba bajo la palmera que lleva su nombre, entre Ramá y Betel, en la montaña de Efraín, y los israelitas acudían a ella para resolver sus pleitos."
+    },
+    {
+      "type": "gap",
+      "text": "Débora convocó a Barac para luchar contra Sísara, jefe del ejército de ___.",
+      "options": ["Yabín", "Eglón", "Madián"],
+      "answer": "Yabín",
+      "explanation": "Jue 4:2-7: Yabín, rey de Canaán, oprimía a Israel con novecientos carros de hierro al mando de su general Sísara."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 5:24 · El cántico de Débora celebra a Yael",
+      "direction": "es-es",
+      "tiles": ["Bendita", "Yael", "entre", "las", "mujeres", "la", "esposa", "de", "Jéber", "maldita", "hijas"],
+      "answer": "Bendita Yael entre las mujeres la esposa de Jéber",
+      "explanation": "Jue 5:24: el cántico de Débora, tras la victoria, alaba a Yael como la más bendita entre las mujeres por haber dado muerte a Sísara."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo dio muerte Yael a Sísara?",
+      "options": ["Lo ahogó en la leche que le había ofrecido", "Le clavó una estaca en la sien mientras dormía", "Lo entregó atado a las tropas de Barac"],
+      "correct": 1,
+      "hint": "Ella lo había recibido en su tienda ofreciéndole leche.",
+      "explanation": "Jue 4:21: Sísara, agotado, se refugió en la tienda de Yael. Ella «agarró una estaca de la tienda y el martillo, se le acercó sigilosamente y le clavó la estaca en la sien»."
+    },
+    {
+      "type": "gap",
+      "text": "Sísara pidió agua a Yael, y ella le dio ___.",
+      "options": ["leche", "vino", "vinagre"],
+      "answer": "leche",
+      "explanation": "Jue 4:19: Yael ofreció a Sísara leche en vez de agua, un gesto de hospitalidad que precedió a su muerte mientras dormía confiado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su papel en la historia de Débora y Sísara",
+      "pairs": [
+        { "en": "Débora", "es": "Profetisa que convoca a Barac" },
+        { "en": "Barac", "es": "Jefe militar que lucha contra Sísara" },
+        { "en": "Sísara", "es": "General del ejército de Yabín" },
+        { "en": "Yael", "es": "Le da muerte con una estaca" },
+        { "en": "Yabín", "es": "Rey de Canaán que oprimía a Israel" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 6:12 · El saludo del ángel a Gedeón",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "esté", "contigo", "valiente", "guerrero", "poderoso", "siempre"],
+      "answer": "El Señor esté contigo valiente guerrero",
+      "explanation": "Jue 6:12: el ángel saluda a Gedeón como «valiente guerrero» aun cuando él mismo se considera insignificante, el menor de su clan (Jue 6:15)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Gedeón por la noche, por miedo a su familia y a la ciudad?",
+      "options": ["Escondió el arca en una cueva", "Reunió en secreto a los treinta mil hombres", "Derribó el altar de Baal y taló la Asera de su padre"],
+      "correct": 2,
+      "hint": "Actuó de noche precisamente para no ser visto haciéndolo.",
+      "explanation": "Jue 6:25-27: Dios manda a Gedeón derribar el altar de Baal de su padre y talar el poste sagrado de Asera; lo hace de noche por temor a la reacción de su familia y de la ciudad."
+    },
+    {
+      "type": "gap",
+      "text": "Gedeón pidió una señal: que el rocío mojara solo el ___ dejando seco el suelo.",
+      "options": ["vellón", "altar", "manto"],
+      "answer": "vellón",
+      "explanation": "Jue 6:37-38: la primera señal del vellón de lana; después Gedeón pide la señal inversa (vellón seco, suelo mojado) para confirmarse (Jue 6:39-40)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 7:2 · Por qué Dios reduce el ejército de Gedeón",
+      "direction": "es-es",
+      "tiles": ["Tienes", "contigo", "demasiada", "demasiada", "gente", "para", "entregar", "Madián", "poca", "vencer"],
+      "answer": "Tienes contigo demasiada gente para entregar",
+      "explanation": "Jue 7:2: Dios reduce el ejército de Gedeón para que la victoria sobre Madián no pueda atribuirse a la fuerza de Israel, sino solo al Señor."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se seleccionó a los trescientos hombres del ejército de Gedeón?",
+      "options": ["Por la forma de beber agua en la fuente", "Por sorteo entre las doce tribus", "Por ser los más jóvenes del campamento"],
+      "correct": 0,
+      "hint": "Unos bebieron llevándose el agua a la boca con la mano; otros se arrodillaron.",
+      "explanation": "Jue 7:5-7: se quedaron los que bebieron el agua lamiéndola con la lengua como hace un perro, llevándosela a la boca con la mano — solo trescientos hombres."
+    },
+    {
+      "type": "gap",
+      "text": "El ejército de Gedeón pasó de treinta y dos mil a ___ hombres.",
+      "options": ["trescientos", "mil", "cien"],
+      "answer": "trescientos",
+      "explanation": "Jue 7:3-7: primero se licenciaron los temerosos (quedaron diez mil) y luego la prueba del agua redujo el número a trescientos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la batalla contra Madián con su función",
+      "pairs": [
+        { "en": "Los cántaros", "es": "Ocultaban las antorchas encendidas" },
+        { "en": "Las trompetas", "es": "Sonaban para sembrar confusión" },
+        { "en": "Las antorchas", "es": "Se alzaban al romperse los cántaros" },
+        { "en": "El grito de guerra", "es": "«¡Espada por el Señor y por Gedeón!»" },
+        { "en": "Los trescientos hombres", "es": "Rodearon de noche el campamento enemigo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 7:20 · El grito de guerra de los trescientos de Gedeón",
+      "direction": "es-es",
+      "tiles": ["Espada", "por", "el", "Señor", "y", "por", "Gedeón", "victoria", "Israel"],
+      "answer": "Espada por el Señor y por Gedeón",
+      "explanation": "Jue 7:20: al romper los cántaros y mostrar las antorchas, los trescientos hombres gritan esta consigna, sembrando el pánico en el campamento madianita."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué llevaba cada uno de los trescientos hombres de Gedeón en cada mano?",
+      "options": ["Una espada y un escudo", "Una trompeta y un cántaro con una antorcha dentro", "Una honda y piedras"],
+      "correct": 1,
+      "hint": "Al romper lo que llevaban en una mano, mostraban lo que escondían dentro.",
+      "explanation": "Jue 7:16.19-20: cada hombre llevaba una trompeta y un cántaro con una antorcha encendida en su interior; al romper los cántaros, hicieron sonar las trompetas y alzaron las antorchas."
+    },
+    {
+      "type": "gap",
+      "text": "Cuando el pueblo pidió a Gedeón que reinara sobre ellos, él respondió que reinaría el ___.",
+      "options": ["Señor", "primogénito", "sacerdote"],
+      "answer": "Señor",
+      "explanation": "Jue 8:23: «Ni yo ni mi hijo mandaremos sobre vosotros. El Señor es quien mandará sobre vosotros» — Gedeón rechaza la realeza hereditaria."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 8:23 · La respuesta de Gedeón al ofrecimiento de ser rey",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "es", "quien", "mandará", "sobre", "vosotros", "reinaré", "hijo"],
+      "answer": "El Señor es quien mandará sobre vosotros",
+      "explanation": "Jue 8:23: Gedeón declina la propuesta de fundar una dinastía, recordando que Israel tiene un solo rey verdadero, el Señor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 3:11 · La paz que trajo la victoria de Otoniel",
+      "direction": "es-es",
+      "tiles": ["El", "país", "estuvo", "en", "paz", "cuarenta", "años", "guerra", "cien"],
+      "answer": "El país estuvo en paz cuarenta años",
+      "explanation": "Jue 3:11: fórmula que se repite tras cada liberación en el libro de los Jueces, hasta que la muerte del juez reinicia el ciclo de infidelidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada juez con el pueblo opresor del que liberó a Israel",
+      "pairs": [
+        { "en": "Otoniel", "es": "Arán Naharáim" },
+        { "en": "Aod", "es": "Moab" },
+        { "en": "Samgar", "es": "Los filisteos" },
+        { "en": "Débora y Barac", "es": "Canaán, bajo el rey Yabín" },
+        { "en": "Gedeón", "es": "Madián" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hacía Gedeón cuando se le apareció el ángel del Señor por primera vez?",
+      "options": ["Ofrecía un sacrificio en el altar de Baal", "Reunía a las tribus para la guerra", "Trillaba trigo escondido en un lagar"],
+      "correct": 2,
+      "hint": "Trillar en un lagar, en vez de en la era habitual, no era lo normal.",
+      "explanation": "Jue 6:11: Gedeón trillaba el trigo en el lagar, escondido, para que los madianitas no se lo robaran — retrata la opresión que sufría Israel antes de su liberación."
+    },
+    {
+      "type": "gap",
+      "text": "El fuego que salió de la roca consumió la carne y los panes que Gedeón había ofrecido al ___.",
+      "options": ["ángel", "altar", "sacerdote"],
+      "answer": "ángel",
+      "explanation": "Jue 6:21: el prodigio del fuego confirma a Gedeón que quien le habla es un enviado del Señor, y no un simple viajero."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 3:21 · Cómo remata Aod al rey Eglón",
+      "direction": "es-es",
+      "tiles": ["Le", "clavó", "el", "puñal", "en", "el", "vientre", "espada", "pecho"],
+      "answer": "Le clavó el puñal en el vientre",
+      "explanation": "Jue 3:21: Aod, aprovechando ser zurdo, hunde su puñal oculto en el cuerpo de Eglón durante una audiencia a solas."
+    }
+  ]
+}

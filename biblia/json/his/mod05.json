@@ -1,0 +1,251 @@
+{
+  "id": "his-mod05",
+  "module": 5,
+  "title": "Rut — Lealtad en Belén",
+  "subtitle": "Rut 1–4",
+  "exercises": [
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su descripción",
+      "pairs": [
+        { "en": "Elimélec", "es": "Esposo de Noemí, emigra con su familia a Moab" },
+        { "en": "Noemí", "es": "Israelita que vuelve viuda a Belén" },
+        { "en": "Majlón", "es": "Hijo de Elimélec, esposo de Rut" },
+        { "en": "Kilyón", "es": "Hijo de Elimélec, esposo de Orfá" },
+        { "en": "Orfá", "es": "Nuera moabita que regresa a su pueblo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué emigró la familia de Elimélec de Belén a Moab?",
+      "options": ["Porque hubo hambre en la tierra de Judá", "Porque el rey los expulsó de Belén", "Porque buscaban tierras para su ganado"],
+      "correct": 0,
+      "hint": "Belén significa «casa del pan», pero en ese momento no lo era.",
+      "explanation": "Rut 1:1: una hambruna en Belén de Judá obliga a Elimélec y su familia a buscar sustento en los campos de Moab; el texto no habla de expulsión ni de pastos."
+    },
+    {
+      "type": "gap",
+      "text": "Elimélec emigró con su familia a los campos de ___ huyendo del hambre.",
+      "options": ["Moab", "Egipto", "Asiria"],
+      "answer": "Moab",
+      "explanation": "Rut 1:1-2: el hambre en Judá lleva a Elimélec, Noemí y sus dos hijos a instalarse como emigrantes en los campos de Moab, al este del mar Muerto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué les ocurrió a Elimélec y después a sus dos hijos Majlón y Kilyón en Moab?",
+      "options": ["Prosperaron y no regresaron nunca a Judá", "Los tres murieron y dejaron viudas a las tres mujeres", "Se convirtieron a la fe de Moab"],
+      "correct": 1,
+      "hint": "Por eso Noemí queda sin marido y sin hijos varones.",
+      "explanation": "Rut 1:3-5: primero muere Elimélec y, unos diez años después, también Majlón y Kilyón, dejando viudas a Noemí, Rut y Orfá."
+    },
+    {
+      "type": "gap",
+      "text": "Noemí decide volver a Belén al oír que el Señor había visitado a su pueblo dándole ___.",
+      "options": ["pan", "oro", "lluvia"],
+      "answer": "pan",
+      "explanation": "Rut 1:6: cuando Noemí oye en Moab que el Señor ha vuelto a dar pan a su pueblo, decide regresar a Belén, cuyo nombre significa precisamente «casa del pan»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rut 1:16 · La respuesta de Rut cuando Noemí le pide que vuelva a Moab",
+      "direction": "es-es",
+      "tiles": ["Iré", "adonde", "tú", "vayas", "viviré", "donde", "tú", "vivas", "yo", "allí"],
+      "answer": "Iré adonde tú vayas viviré donde tú vivas",
+      "explanation": "Rut 1:16: la respuesta de Rut a Noemí es la frase más citada del libro —y una de las más citadas de toda la Biblia en bodas y promesas de fidelidad."
+    },
+    {
+      "type": "quiz",
+      "q": "Al saber que Noemí vuelve a Belén, ¿qué hacen sus dos nueras Orfá y Rut?",
+      "options": ["Las dos regresan de inmediato a Moab", "Ninguna de las dos quiere acompañarla al camino", "Orfá se despide, pero Rut decide quedarse con ella"],
+      "correct": 2,
+      "hint": "Solo una de las dos cumple lo que promete en el camino.",
+      "explanation": "Rut 1:14: tras el ruego de Noemí, Orfá besa a su suegra y vuelve a su pueblo, pero Rut permanece unida a ella."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rut 1:20 · Lo que pide Noemí al llegar a Belén, marcada por el sufrimiento",
+      "direction": "es-es",
+      "tiles": ["No", "me", "llaméis", "Noemí", "llamadme", "Mará", "Rut", "Booz"],
+      "answer": "No me llaméis Noemí llamadme Mará",
+      "explanation": "Rut 1:20: de vuelta en Belén, Noemí pide que la llamen Mará («amargura») en lugar de Noemí, por todo el sufrimiento vivido en Moab."
+    },
+    {
+      "type": "gap",
+      "text": "Noemí y Rut llegaron a Belén al comienzo de la siega de la ___.",
+      "options": ["cebada", "aceituna", "vid"],
+      "answer": "cebada",
+      "explanation": "Rut 1:22: Noemí y Rut llegan a Belén justo cuando empieza la cosecha de la cebada, el momento del año en que arranca la acción del capítulo 2."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con lo que es en el campo de Booz",
+      "pairs": [
+        { "en": "Booz", "es": "Pariente rico de Elimélec, dueño del campo de cebada" },
+        { "en": "Espigar", "es": "Recoger las espigas que dejan los segadores" },
+        { "en": "Capataz", "es": "Criado que vigila a los segadores en el campo" },
+        { "en": "Efa", "es": "Medida de grano que Rut recogió en un solo día" },
+        { "en": "Harina tostada", "es": "Alimento que Booz comparte con Rut a la hora de comer" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rut 2:2 · Lo primero que hace Rut al llegar a Belén",
+      "direction": "es-es",
+      "tiles": ["Puedo", "ir", "a", "espigar", "en", "el", "campo", "pueblo", "huerto"],
+      "answer": "Puedo ir a espigar en el campo",
+      "explanation": "Rut 2:2: nada más llegar a Belén, es Rut quien toma la iniciativa y pide permiso a Noemí para ir a espigar y sostener así a las dos."
+    },
+    {
+      "type": "gap",
+      "text": "Rut fue a espigar y, por casualidad, vino a parar en la parcela de ___.",
+      "options": ["Booz", "un forastero", "Majlón"],
+      "answer": "Booz",
+      "explanation": "Rut 2:3: sin saberlo, Rut «da la casualidad» de espigar precisamente en el campo de Booz, pariente de su difunto suegro Elimélec."
+    },
+    {
+      "type": "quiz",
+      "q": "Al ver a Rut espigando, ¿qué hace Booz?",
+      "options": ["Pregunta quién es y la trata con favor", "La ignora como al resto de los espigadores", "Le exige que abandone el campo de inmediato"],
+      "correct": 0,
+      "hint": "Su reacción marca el inicio de la trama del libro.",
+      "explanation": "Rut 2:5-9: Booz se interesa por la joven, se entera de quién es y ordena que la dejen espigar tranquila junto a sus criadas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rut 2:11 · Por qué explica Booz que trata así a Rut",
+      "direction": "es-es",
+      "tiles": ["Has", "dejado", "a", "tus", "padres", "y", "tu", "tierra", "natal", "hermanos", "casa"],
+      "answer": "Has dejado a tus padres y tu tierra natal",
+      "explanation": "Rut 2:11: Booz explica su favor porque ha oído cómo Rut dejó atrás a su familia y su tierra moabita por acompañar a Noemí."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué se muestra Booz especialmente generoso con Rut?",
+      "options": ["Porque le debe dinero a Noemí desde antes del hambre", "Porque es pariente de Elimélec y valora la lealtad de Rut", "Porque el rey le ha ordenado favorecer a los extranjeros"],
+      "correct": 1,
+      "hint": "Su generosidad une parentesco familiar y admiración moral.",
+      "explanation": "Rut 2:1,11: Booz es pariente de Elimélec y ha oído cómo Rut dejó su tierra para cuidar de Noemí; ese doble motivo explica su trato con ella."
+    },
+    {
+      "type": "gap",
+      "text": "Booz mandó a sus criados que dejaran caer algunas ___ a propósito para que Rut las recogiera.",
+      "options": ["espigas", "monedas", "semillas"],
+      "answer": "espigas",
+      "explanation": "Rut 2:16: Booz ordena a sus criados que dejen caer espigas a propósito para que Rut recoja más grano sin tener que pedir limosna."
+    },
+    {
+      "type": "quiz",
+      "q": "Cuando Rut cuenta a Noemí en qué campo ha espigado, ¿qué le revela su suegra sobre Booz?",
+      "options": ["Que es un comerciante extranjero de paso por Belén", "Que es el juez que gobierna Belén", "Que es uno de los parientes con derecho de rescate"],
+      "correct": 2,
+      "hint": "Ese parentesco será la clave de los capítulos siguientes.",
+      "explanation": "Rut 2:20: Noemí revela que Booz es uno de los parientes cercanos de la familia, con derecho y deber de rescate, un dato clave para lo que viene después."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le propone Noemí a Rut para asegurarle un futuro estable?",
+      "options": ["Que acuda de noche a la era y pida protección a Booz", "Que renuncie y vuelva a vivir a Moab con Orfá", "Que se case con el capataz de los segadores"],
+      "correct": 0,
+      "hint": "El plan aprovecha la costumbre del pariente redentor.",
+      "explanation": "Rut 3:1-4: Noemí, buscando un «hogar» estable para Rut, la envía de noche a la era donde Booz trilla la cebada."
+    },
+    {
+      "type": "gap",
+      "text": "Noemí mandó a Rut lavarse, perfumarse y bajar de noche a la ___.",
+      "options": ["era", "fuente", "sinagoga"],
+      "answer": "era",
+      "explanation": "Rut 3:3: Noemí prepara a Rut para acudir de noche a la era, el lugar donde se trillaba el grano, siguiendo la costumbre para reclamar la protección de un pariente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rut 3:9 · Lo que pide Rut a Booz cuando él despierta en la era",
+      "direction": "es-es",
+      "tiles": ["Cúbreme", "con", "tu", "manto", "porque", "eres", "mi", "protector", "espada", "escudo"],
+      "answer": "Cúbreme con tu manto porque eres mi protector",
+      "explanation": "Rut 3:9: en la era, Rut pide a Booz que la cubra con su manto, un gesto simbólico con el que reclama su papel de pariente protector."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reacciona Booz al despertarse de noche y encontrar a Rut a sus pies?",
+      "options": ["Se asusta y la manda lejos de la era", "Se sorprende, elogia su lealtad y acepta protegerla", "Se da la vuelta y sigue durmiendo tranquilo"],
+      "correct": 1,
+      "hint": "Su respuesta confirma que está dispuesto a asumir el papel de pariente redentor.",
+      "explanation": "Rut 3:8-11: Booz se sobresalta al despertar, pero elogia la lealtad de Rut —que no ha ido tras hombres más jóvenes— y se compromete a resolver su situación."
+    },
+    {
+      "type": "gap",
+      "text": "Booz le explica a Rut que hay un pariente más cercano que tiene ___ sobre él para redimir el campo.",
+      "options": ["prioridad", "deuda", "sospecha"],
+      "answer": "prioridad",
+      "explanation": "Rut 3:12: Booz reconoce que hay un pariente aún más cercano que él, con prioridad legal para redimir el campo y casarse con Rut."
+    },
+    {
+      "type": "quiz",
+      "q": "Antes de que Rut vuelva de madrugada a casa, ¿qué le da Booz?",
+      "options": ["Una carta para los ancianos de Belén", "Nada, solo la despide con una bendición", "Una buena cantidad de cebada para Noemí"],
+      "correct": 2,
+      "hint": "El regalo es también una señal para Noemí de que el asunto se resolverá pronto.",
+      "explanation": "Rut 3:15,17: antes de despedirla, Booz le da a Rut una gran cantidad de cebada para que no vuelva con las manos vacías junto a Noemí."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su papel en la resolución del caso en la puerta de Belén",
+      "pairs": [
+        { "en": "El pariente más cercano", "es": "Renuncia a su derecho por temor a perjudicar su propia herencia" },
+        { "en": "La sandalia", "es": "Signo legal para formalizar la renuncia de un derecho" },
+        { "en": "Los ancianos de la puerta", "es": "Testigos del acuerdo entre Booz y el pariente" },
+        { "en": "Booz", "es": "Acepta redimir el campo y tomar a Rut por esposa" },
+        { "en": "La puerta de la ciudad", "es": "Lugar donde se trataban los asuntos legales de Belén" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "En la puerta de la ciudad, al pariente con más derecho que Booz el texto lo llama simplemente «___».",
+      "options": ["fulano", "el forastero", "el juez"],
+      "answer": "fulano",
+      "explanation": "Rut 4:1: el texto no da nombre a este pariente con más derecho que Booz; simplemente lo llama «fulano», dejándolo en el anonimato."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rut 4:7-8 · La costumbre legal para formalizar la renuncia de un derecho",
+      "direction": "es-es",
+      "tiles": ["Se", "quitaba", "la", "sandalia", "y", "se", "la", "daba", "anillo", "túnica"],
+      "answer": "Se quitaba la sandalia y se la daba",
+      "explanation": "Rut 4:7-8: la costumbre legal de la época se sellaba quitándose la sandalia y entregándosela a la otra parte; así renuncia el pariente más cercano ante Booz."
+    },
+    {
+      "type": "gap",
+      "text": "Ante los ancianos, Booz declara que toma a Rut por esposa para mantener vivo el nombre del difunto sobre su ___.",
+      "options": ["herencia", "rebaño", "aldea"],
+      "answer": "herencia",
+      "explanation": "Rut 4:10: Booz declara ante los ancianos que toma a Rut por esposa para que el nombre del difunto Majlón no desaparezca de su herencia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rut 4:15 · Lo que dicen de Rut las mujeres de Belén al nacer Obed",
+      "direction": "es-es",
+      "tiles": ["Ha", "demostrado", "ser", "para", "ti", "mejor", "que", "siete", "hijos", "diez", "hermanos"],
+      "answer": "Ha demostrado ser para ti mejor que siete hijos",
+      "explanation": "Rut 4:15: así describen las mujeres de Belén el cariño de Rut hacia Noemí, subrayando el valor de una nuera que ha elegido quedarse por lealtad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rut 4:17 · El anuncio del nacimiento que cierra la historia de Noemí",
+      "direction": "es-es",
+      "tiles": ["A", "Noemí", "le", "ha", "nacido", "un", "hijo", "nieto", "Booz"],
+      "answer": "A Noemí le ha nacido un hijo",
+      "explanation": "Rut 4:17: el nacimiento de Obed cierra la historia de Noemí, que recupera en su nieto la descendencia que había perdido, y abre la genealogía final del libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada nombre con su lugar en la genealogía final del libro",
+      "pairs": [
+        { "en": "Booz", "es": "Esposo de Rut y padre de Obed" },
+        { "en": "Obed", "es": "Hijo de Booz y Rut, abuelo de David" },
+        { "en": "Jesé", "es": "Hijo de Obed y padre de David" },
+        { "en": "David", "es": "Último nombre de la genealogía que cierra el libro de Rut" },
+        { "en": "Rut", "es": "La moabita bisabuela de David" }
+      ]
+    }
+  ]
+}

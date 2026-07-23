@@ -1,0 +1,251 @@
+{
+  "id": "his-mod04",
+  "module": 4,
+  "title": "Jueces II — Jefté y Sansón",
+  "subtitle": "Jueces 9–21",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo consigue Abimélec proclamarse rey en Siquén?",
+      "options": ["Mata a sus setenta hermanos con plata del templo de Baal Berit", "Es elegido por los ancianos de todas las tribus", "Hereda el título de juez de su padre Gedeón"],
+      "correct": 0,
+      "hint": "Se presenta ante los señores de Siquén como «hueso y carne» de ellos.",
+      "explanation": "Jue 9:1-6: Abimélec, hijo de Gedeón y una concubina de Siquén, contrata mercenarios con plata del templo de Baal Berit y mata a sus setenta hermanos sobre una misma piedra. Solo Jotán, el menor, escapa escondiéndose."
+    },
+    {
+      "type": "gap",
+      "text": "Abimélec mató a sus setenta hermanos sobre una misma ___.",
+      "options": ["piedra", "roca", "mesa"],
+      "answer": "piedra",
+      "explanation": "Jue 9:5: la matanza busca eliminar a todos los posibles rivales al poder que Abimélec pretende para sí en Siquén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 9:15 · La respuesta de la zarza en la fábula de Jotán",
+      "direction": "es-es",
+      "tiles": ["Venid", "a", "a", "cobijaros", "bajo", "mi", "sombra", "sol", "raíz"],
+      "answer": "Venid a cobijaros bajo mi sombra",
+      "explanation": "Jue 9:15: en la fábula de Jotán, olivo, higuera y vid rechazan reinar por no abandonar su fruto; solo la zarza, inútil y peligrosa, acepta — una advertencia contra Abimélec."
+    },
+    {
+      "type": "gap",
+      "text": "En la fábula de Jotán, antes de la zarza, rechazan reinar el olivo, la higuera y la ___.",
+      "options": ["vid", "palmera", "cedro"],
+      "answer": "vid",
+      "explanation": "Jue 9:8-13: los tres árboles fructíferos —olivo, higuera y vid— rechazan uno tras otro la corona por no abandonar su fruto; solo la inútil zarza acepta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién mató a Abimélec durante el asedio de Tebes?",
+      "options": ["Un soldado enemigo con una lanza", "Una mujer, lanzándole una piedra de molino", "Su propio escudero, por traición"],
+      "correct": 1,
+      "hint": "La forma de su muerte le avergonzó tanto que pidió que lo remataran.",
+      "explanation": "Jue 9:53-54: una mujer le rompió el cráneo con una piedra de molino desde la torre. Abimélec pidió a su escudero que lo matara «para que no se diga que me mató una mujer»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 9:54 · Las últimas palabras de Abimélec a su escudero",
+      "direction": "es-es",
+      "tiles": ["Que", "no", "se", "diga", "que", "me", "mató", "una", "mujer", "venció", "hombre"],
+      "answer": "Que no se diga que me mató una mujer",
+      "explanation": "Jue 9:54: herido de muerte por una piedra de molino, Abimélec pide a su escudero que lo remate para evitar esa vergüenza según la mentalidad de la época."
+    },
+    {
+      "type": "gap",
+      "text": "Jefté fue repudiado por sus hermanos por ser hijo de una ___.",
+      "options": ["prostituta", "esclava", "extranjera"],
+      "answer": "prostituta",
+      "explanation": "Jue 11:1-2: sus hermanastros lo expulsaron de la herencia paterna por ser hijo de Galaad y una prostituta, aunque después los ancianos de Galaad lo llamarían para dirigirlos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué reclamaron los ancianos de Galaad a Jefté, a pesar de haberlo repudiado antes?",
+      "options": ["Para que juzgara un pleito de tierras", "Para que reconstruyera el santuario local", "Para que los dirigiera en la guerra contra los amonitas"],
+      "correct": 2,
+      "hint": "Necesitaban a un guerrero experimentado ante una amenaza externa.",
+      "explanation": "Jue 11:5-6: ante la guerra declarada por los amonitas, los ancianos de Galaad buscaron a Jefté, ya famoso como guerrero, para que los liderara."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 11:2 · El rechazo de sus hermanastros a Jefté",
+      "direction": "es-es",
+      "tiles": ["No", "heredarás", "nada", "en", "la", "casa", "de", "nuestro", "padre", "madre", "tierra"],
+      "answer": "No heredarás nada en la casa de nuestro padre",
+      "explanation": "Jue 11:2: por ser hijo de una prostituta, los hermanastros de Jefté lo expulsan de la herencia paterna, motivo por el que se marcha a la tierra de Tob."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 11:31 · El voto imprudente de Jefté antes de la batalla",
+      "direction": "es-es",
+      "tiles": ["Lo", "ofreceré", "en", "en", "holocausto", "al", "Señor", "sacrificio", "altar"],
+      "answer": "Lo ofreceré en holocausto al Señor",
+      "explanation": "Jue 11:30-31: Jefté prometió ofrecer en holocausto a lo primero que saliera de su casa a recibirlo si vencía a los amonitas — un voto que se cumpliría trágicamente en su propia hija."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pidió la hija de Jefté antes de que se cumpliera el voto de su padre?",
+      "options": ["Dos meses para llorar su virginidad por los montes", "Que la enviaran a vivir a otra tribu", "Que su padre buscara otra víctima en su lugar"],
+      "correct": 0,
+      "hint": "Su petición dio origen después a una costumbre anual entre las mujeres de Israel.",
+      "explanation": "Jue 11:37-40: pidió dos meses para «llorar su virginidad» junto a sus compañeras. Tras cumplirse el voto, quedó la costumbre de que las hijas de Israel la recordaran cuatro días cada año."
+    },
+    {
+      "type": "gap",
+      "text": "Para distinguir a los efraimitas fugitivos, los hombres de Galaad les hacían pronunciar la palabra ___.",
+      "options": ["shibbolet", "berit", "nazir"],
+      "answer": "shibbolet",
+      "explanation": "Jue 12:5-6: los efraimitas no podían pronunciar correctamente «shibbolet» y decían «sibbolet» — ese fallo de pronunciación los delataba y costó la vida a cuarenta y dos mil de ellos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Abimélec", "es": "Se proclamó rey tras matar a sus hermanos" },
+        { "en": "Jotán", "es": "Único hermano que escapó de la matanza" },
+        { "en": "Jefté", "es": "Repudiado, después caudillo de Galaad" },
+        { "en": "La hija de Jefté", "es": "Víctima del voto imprudente de su padre" },
+        { "en": "Los efraimitas", "es": "No podían pronunciar «shibbolet»" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anunció el ángel del Señor a la esposa de Manóaj sobre el hijo que tendría?",
+      "options": ["Que sería sacerdote del santuario de Silo", "Que sería nazireo de Dios desde el seno materno", "Que liberaría a Israel del yugo de Moab"],
+      "correct": 1,
+      "hint": "Su condición implicaba varias renuncias, entre ellas no cortarse nunca el cabello.",
+      "explanation": "Jue 13:5: «la navaja no pasará por su cabeza, porque el niño será un nazir de Dios desde el seno materno» — así se anuncia el nacimiento de Sansón."
+    },
+    {
+      "type": "gap",
+      "text": "El voto de nazireo de Sansón implicaba no beber vino, no tocar cadáveres y no cortarse el ___.",
+      "options": ["cabello", "barba", "manto"],
+      "answer": "cabello",
+      "explanation": "Jue 13:4-5: las tres renuncias del nazireato — vino, impureza ritual y el cabello sin cortar— definen la consagración especial de Sansón desde antes de nacer."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 14:14 · El enigma que Sansón propone a los filisteos",
+      "direction": "es-es",
+      "tiles": ["Del", "que", "come", "salió", "comida", "y", "del", "fuerte", "dulzura", "miel"],
+      "answer": "Del que come salió comida y del fuerte dulzura",
+      "explanation": "Jue 14:14: Sansón propuso este enigma tras encontrar un panal de miel en la osamenta de un león que había matado — nadie lo resolvió sin ayuda de su esposa filistea."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Sansón con trescientas zorras contra los filisteos?",
+      "options": ["Las usó para transportar armas escondidas", "Las cambió por un rescate de plata", "Las soltó por las mieses con antorchas atadas a la cola"],
+      "correct": 2,
+      "hint": "El fuego se propagó por los campos gracias a los animales.",
+      "explanation": "Jue 15:4-5: ató antorchas encendidas entre pares de zorras por la cola y las soltó por los sembrados filisteos, incendiando mieses, viñas y olivos como venganza."
+    },
+    {
+      "type": "gap",
+      "text": "Sansón mató a mil filisteos con la quijada de un ___.",
+      "options": ["asno", "buey", "camello"],
+      "answer": "asno",
+      "explanation": "Jue 15:15-16: con esa quijada fresca compuso también un breve cántico de victoria: «con una quijada de asno maté mil hombres»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 15:16 · El cántico de victoria de Sansón",
+      "direction": "es-es",
+      "tiles": ["Con", "una", "quijada", "de", "asno", "maté", "mil", "hombres", "espada", "cien"],
+      "answer": "Con una quijada de asno maté mil hombres",
+      "explanation": "Jue 15:16: Sansón compone este breve cántico tras matar a mil filisteos con la quijada fresca de un asno que encontró en el camino."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada hazaña de Sansón con su detalle",
+      "pairs": [
+        { "en": "El león", "es": "En su cadáver encontró un panal de miel" },
+        { "en": "Las zorras", "es": "Trescientas, con antorchas atadas por parejas" },
+        { "en": "La quijada de asno", "es": "Mató con ella a mil filisteos" },
+        { "en": "Las puertas de Gaza", "es": "Se las llevó sobre los hombros" },
+        { "en": "El templo de Dagón", "es": "Lo derribó sobre sí y los filisteos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuántas veces engañó Sansón a Dalila antes de revelarle el verdadero secreto de su fuerza?",
+      "options": ["Tres veces, con cuerdas y con el telar", "Ninguna, se lo dijo a la primera pregunta", "Cinco veces, cambiando cada detalle"],
+      "correct": 0,
+      "hint": "Probó cuerdas frescas, cuerdas nuevas y trenzar su cabello en el telar.",
+      "explanation": "Jue 16:6-14: Sansón engañó tres veces a Dalila (cuerdas frescas, cuerdas nuevas, el cabello tejido al telar) antes de ceder ante su insistencia y revelar el secreto real."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada intento de Dalila con su resultado",
+      "pairs": [
+        { "en": "Atarlo con cuerdas frescas", "es": "Sansón las rompió con facilidad" },
+        { "en": "Atarlo con cuerdas nuevas", "es": "También las rompió sin esfuerzo" },
+        { "en": "Tejer su cabello en el telar", "es": "Arrancó la estaca del telar al despertar" },
+        { "en": "Preguntar por el verdadero secreto", "es": "Sansón, agotado de su insistencia, lo reveló" },
+        { "en": "Raparle el cabello mientras dormía", "es": "Su fuerza lo abandonó de verdad" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Sansón confesó a Dalila: «Si me ___, mi fuerza se alejaría de mí».",
+      "options": ["rapan", "atan", "ciegan"],
+      "answer": "rapan",
+      "explanation": "Jue 16:17: Sansón revela por fin que su fuerza depende de no haber pasado nunca la navaja por su cabello, signo de su consagración como nazireo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hicieron los filisteos con Sansón tras capturarlo?",
+      "options": ["Lo encerraron sin hacerle ningún daño físico", "Le sacaron los ojos y lo pusieron a moler en la cárcel", "Lo entregaron a Dalila como esclavo personal"],
+      "correct": 1,
+      "hint": "Su fuerza ya se había ido junto con su cabello.",
+      "explanation": "Jue 16:21: tras raparlo mientras dormía, los filisteos lo apresaron, le sacaron los ojos, lo encadenaron y lo pusieron a dar vueltas a la muela en la cárcel de Gaza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 16:30 · Las últimas palabras de Sansón antes de derribar el templo",
+      "direction": "es-es",
+      "tiles": ["Muera", "yo", "también", "con", "los", "filisteos", "todos", "enemigos"],
+      "answer": "Muera yo también con los filisteos",
+      "explanation": "Jue 16:30: tras pedir a Dios fuerza una última vez, Sansón empujó las columnas del templo de Dagón, muriendo junto con los filisteos allí reunidos."
+    },
+    {
+      "type": "gap",
+      "text": "Sansón derribó el templo del dios ___ de los filisteos.",
+      "options": ["Dagón", "Baal", "Moloc"],
+      "answer": "Dagón",
+      "explanation": "Jue 16:23-30: los filisteos habían reunido a miles de personas en el templo de Dagón para celebrar la captura de Sansón, sin saber que su cabello había vuelto a crecer."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jue 16:28 · La última oración de Sansón",
+      "direction": "es-es",
+      "tiles": ["Acuérdate", "de", "de", "mí", "y", "dame", "fuerza", "ahora", "señor", "vida"],
+      "answer": "Acuérdate de mí y dame fuerza",
+      "explanation": "Jue 16:28: Sansón, ciego y encadenado, invoca al Señor una última vez para vengarse de los filisteos por la pérdida de sus ojos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con un dato final de su historia",
+      "pairs": [
+        { "en": "Abimélec", "es": "Murió por una piedra de molino en Tebes" },
+        { "en": "Jefté", "es": "Cumplió su voto sacrificando a su única hija" },
+        { "en": "Dalila", "es": "Cobró plata de los filisteos por el secreto de Sansón" },
+        { "en": "Sansón", "es": "Murió derribando el templo de Dagón" },
+        { "en": "Los efraimitas", "es": "Muchos murieron por no pronunciar «shibbolet»" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "«En aquellos días no había rey en Israel y cada uno hacía lo que le parecía ___».",
+      "options": ["bien", "justo", "necesario"],
+      "answer": "bien",
+      "explanation": "Jue 21:25: el colofón del libro de los Jueces resume toda la época de caudillos como un tiempo sin autoridad estable ni fidelidad constante a la ley."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué costó reconocer a los efraimitas que no sabían pronunciar «shibbolet»?",
+      "options": ["Ser expulsados de su territorio", "Pagar un tributo a Galaad", "La vida: eran degollados en los vados del Jordán"],
+      "correct": 2,
+      "hint": "El episodio ocurrió tras la guerra civil entre Jefté y la tribu de Efraín.",
+      "explanation": "Jue 12:5-6: los hombres de Galaad controlaban los vados del Jordán y degollaban a quien no pudiera pronunciar correctamente la contraseña — cuarenta y dos mil efraimitas murieron así."
+    }
+  ]
+}
