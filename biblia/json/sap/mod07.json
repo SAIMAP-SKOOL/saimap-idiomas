@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod07",
+  "module": 7,
+  "title": "Cantar de los Cantares — El Amor como Símbolo de la Alianza",
+  "subtitle": "Cantar de los Cantares 1–8",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿A quién se atribuye tradicionalmente la autoría del Cantar de los Cantares?",
+      "options": ["A Salomón", "A David", "A Moisés"],
+      "correct": 0,
+      "hint": "El libro se abre presentándose con este nombre real, célebre por su sabiduría.",
+      "explanation": "Cant 1,1: «Cantar de los cantares. De Salomón» — así se presenta el libro, dentro de la tradición sapiencial vinculada a este rey."
+    },
+    {
+      "type": "gap",
+      "text": "Cantar de los cantares. De ___.",
+      "options": ["Salomón", "David", "Moisés"],
+      "answer": "Salomón",
+      "explanation": "Cant 1,1: este primer versículo atribuye el libro a Salomón, dentro de la tradición sapiencial de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Cant 1,1 · El título del libro",
+      "direction": "es-es",
+      "tiles": ["Cantar", "de", "los", "cantares", "de", "Salomón", "David", "Moisés"],
+      "answer": "Cantar de los cantares de Salomón",
+      "explanation": "Cant 1,1: este título presenta el libro como el más excelso de los cantos, vinculado a la sabiduría de Salomón."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Yo soy para mi amado y mi amado es para mí", "es": "La mutua pertenencia de los amantes" },
+        { "en": "El invierno ya ha pasado, las lluvias cesaron", "es": "El despertar del amor como la llegada de la primavera" },
+        { "en": "Es fuerte el amor como la muerte", "es": "La fuerza indestructible del amor" },
+        { "en": "Las aguas caudalosas no podrán apagar el amor", "es": "Nada puede extinguir el amor verdadero" },
+        { "en": "Grábame como sello en tu corazón", "es": "El deseo de fidelidad y permanencia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué expresión resume la mutua pertenencia de los amantes en el Cantar?",
+      "options": ["Buscaré la sabiduría toda mi vida", "Yo soy para mi amado y mi amado es para mí", "Guardaré silencio ante mi amado"],
+      "correct": 1,
+      "hint": "Esta frase, repetida con variantes en el libro, expresa la reciprocidad plena del amor.",
+      "explanation": "Cant 6,3: «yo soy para mi amado y mi amado es para mí. ¡Se deleita entre las rosas!»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy para mi amado y mi amado es para ___.",
+      "options": ["mí", "ti", "nosotros"],
+      "answer": "mí",
+      "explanation": "Cant 6,3: esta expresión de reciprocidad plena es una de las más citadas del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Cant 6,3 · La mutua pertenencia de los amantes",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "para", "mi", "amado", "y", "mi", "amado", "es", "para", "mí", "ti", "él"],
+      "answer": "Yo soy para mi amado y mi amado es para mí",
+      "explanation": "Cant 6,3: esta expresión de reciprocidad plena es una de las más citadas del libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe el Cantar el despertar del amor?",
+      "options": ["Con una tormenta que todo lo arrasa", "Con el silencio profundo de la noche", "Con la llegada de la primavera, cuando pasa el invierno y florecen los campos"],
+      "correct": 2,
+      "hint": "El texto menciona el arrullo de la tórtola y las yemas que despuntan en la higuera.",
+      "explanation": "Cant 2,11-12: «el invierno ya ha pasado, las lluvias cesaron, se han ido. Brotan las flores en el campo, llega la estación de la poda»."
+    },
+    {
+      "type": "gap",
+      "text": "El invierno ya ha pasado, las ___ cesaron, se han ido.",
+      "options": ["lluvias", "tormentas", "nieves"],
+      "answer": "lluvias",
+      "explanation": "Cant 2,11: esta imagen de la primavera simboliza el despertar y la novedad del amor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Cant 2,11 · El despertar del amor como la primavera",
+      "direction": "es-es",
+      "tiles": ["El", "invierno", "ya", "ha", "pasado", "las", "lluvias", "cesaron", "nieves", "vientos"],
+      "answer": "El invierno ya ha pasado las lluvias cesaron",
+      "explanation": "Cant 2,11: esta imagen primaveral simboliza el despertar y la novedad del amor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada capítulo con su contenido principal",
+      "pairs": [
+        { "en": "Cantar 1", "es": "Primer encuentro y elogio mutuo de los amantes" },
+        { "en": "Cantar 2", "es": "La llegada de la primavera como símbolo del amor" },
+        { "en": "Cantar 3", "es": "La búsqueda nocturna de la amada" },
+        { "en": "Cantar 4", "es": "La belleza de la amada descrita con imágenes de la naturaleza" },
+        { "en": "Cantar 8", "es": "El himno final sobre la fuerza del amor" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué compara el Cantar la fuerza del amor?",
+      "options": ["Con la fuerza de la muerte", "Con la fuerza de un gran ejército", "Con la fuerza del viento del desierto"],
+      "correct": 0,
+      "hint": "El texto añade que «es cruel la pasión como el abismo».",
+      "explanation": "Cant 8,6: «es fuerte el amor como la muerte, es cruel la pasión como el abismo» — el punto culminante teológico del libro."
+    },
+    {
+      "type": "gap",
+      "text": "Es fuerte el amor como la ___, es cruel la pasión como el abismo.",
+      "options": ["muerte", "tormenta", "guerra"],
+      "answer": "muerte",
+      "explanation": "Cant 8,6: esta comparación expresa la seriedad última y la fuerza incontenible del amor verdadero."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Cant 8,6 · La fuerza del amor",
+      "direction": "es-es",
+      "tiles": ["Es", "fuerte", "el", "amor", "como", "la", "muerte", "guerra", "tormenta"],
+      "answer": "Es fuerte el amor como la muerte",
+      "explanation": "Cant 8,6: esta comparación es el punto culminante teológico de todo el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma el Cantar sobre la capacidad de las aguas para apagar el amor?",
+      "options": ["Que basta un pequeño río para extinguirlo", "Que ni las aguas caudalosas ni los ríos pueden apagarlo", "Que solo el paso del tiempo puede apagarlo"],
+      "correct": 1,
+      "hint": "El texto añade que quien intentara comprar el amor con todas sus riquezas «sería sumamente despreciable».",
+      "explanation": "Cant 8,7: «las aguas caudalosas no podrán apagar el amor, ni anegarlo los ríos»."
+    },
+    {
+      "type": "gap",
+      "text": "Las aguas caudalosas no podrán apagar el ___.",
+      "options": ["amor", "fuego", "sol"],
+      "answer": "amor",
+      "explanation": "Cant 8,7: este versículo afirma que nada puede extinguir el amor verdadero."
+    },
+    {
+      "type": "gap",
+      "text": "Quien quisiera comprar el amor con todas las riquezas de su casa, sería sumamente ___.",
+      "options": ["despreciable", "rico", "sabio"],
+      "answer": "despreciable",
+      "explanation": "Cant 8,7: este versículo afirma que el amor verdadero no se puede comprar ni valorar en términos materiales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Cant 8,7 · Nada puede apagar el amor",
+      "direction": "es-es",
+      "tiles": ["Las", "aguas", "caudalosas", "no", "podrán", "apagar", "el", "amor", "fuego", "sol"],
+      "answer": "Las aguas caudalosas no podrán apagar el amor",
+      "explanation": "Cant 8,7: este versículo afirma la fuerza indestructible del amor verdadero."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o tradición",
+      "pairs": [
+        { "en": "El libro entero", "es": "Atribuido tradicionalmente a Salomón" },
+        { "en": "Su género literario", "es": "Poesía de amor en forma de diálogo" },
+        { "en": "La tradición judía", "es": "Lo ha leído como alegoría del amor entre Dios e Israel" },
+        { "en": "La tradición cristiana", "es": "Lo ha leído como símbolo del amor entre Cristo y la Iglesia" },
+        { "en": "Su lugar en el canon", "es": "Pertenece a los libros sapienciales y poéticos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide la amada a su amado como símbolo de fidelidad?",
+      "options": ["Que le construya una casa de cedro", "Que le entregue todas sus riquezas", "Que la lleve grabada como un sello sobre el corazón"],
+      "correct": 2,
+      "hint": "El texto añade también «grábame como sello en tu brazo».",
+      "explanation": "Cant 8,6: «grábame como sello en tu corazón, grábame como sello en tu brazo»."
+    },
+    {
+      "type": "gap",
+      "text": "Grábame como sello en tu ___, grábame como sello en tu brazo.",
+      "options": ["corazón", "mano", "frente"],
+      "answer": "corazón",
+      "explanation": "Cant 8,6: esta petición expresa el deseo de fidelidad y permanencia inquebrantable del amor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Cant 8,6 · El deseo de fidelidad",
+      "direction": "es-es",
+      "tiles": ["Grábame", "como", "sello", "en", "tu", "corazón", "mano", "frente"],
+      "answer": "Grábame como sello en tu corazón",
+      "explanation": "Cant 8,6: esta petición expresa el deseo de una fidelidad tan firme como un sello grabado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se describe a sí misma la amada en el Cantar?",
+      "options": ["Como un narciso de la llanura, una rosa de los valles", "Como una torre inexpugnable de piedra", "Como una estrella lejana e inalcanzable"],
+      "correct": 0,
+      "hint": "Su amado responde comparándola con «una rosa entre espinas».",
+      "explanation": "Cant 2,1: «soy un narciso de la llanura, una rosa de los valles» — imagen de sencillez y belleza natural."
+    },
+    {
+      "type": "gap",
+      "text": "Soy un narciso de la llanura, una ___ de los valles.",
+      "options": ["rosa", "palmera", "estrella"],
+      "answer": "rosa",
+      "explanation": "Cant 2,1: esta imagen de sencillez y belleza natural describe a la amada."
+    },
+    {
+      "type": "gap",
+      "text": "Brotan las flores en el campo, llega la estación de la ___.",
+      "options": ["poda", "siega", "siembra"],
+      "answer": "poda",
+      "explanation": "Cant 2,12: esta imagen primaveral acompaña el llamado del amado a su amada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Cant 2,1 · La sencilla belleza de la amada",
+      "direction": "es-es",
+      "tiles": ["Soy", "un", "narciso", "de", "la", "llanura", "palmera", "estrella"],
+      "answer": "Soy un narciso de la llanura",
+      "explanation": "Cant 2,1: esta imagen de sencillez y belleza natural abre uno de los pasajes más líricos del libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada imagen con su significado",
+      "pairs": [
+        { "en": "El sello sobre el corazón", "es": "La fidelidad inquebrantable" },
+        { "en": "Las aguas que no apagan el amor", "es": "La fuerza indestructible del amor" },
+        { "en": "La primavera que llega", "es": "El despertar y la novedad del amor" },
+        { "en": "El narciso y la rosa", "es": "La belleza sencilla de la amada" },
+        { "en": "El amor fuerte como la muerte", "es": "La seriedad última del compromiso amoroso" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo ha leído tradicionalmente la Iglesia el Cantar de los Cantares, además de como poema de amor humano?",
+      "options": ["Como un tratado legal sobre el matrimonio", "Como alegoría del amor entre Dios y su pueblo, o entre Cristo y la Iglesia", "Como una crónica histórica del reinado de Salomón"],
+      "correct": 1,
+      "hint": "Autores como san Bernardo de Claraval o san Juan de la Cruz comentaron este libro en clave espiritual.",
+      "explanation": "La tradición judía y cristiana ha leído el Cantar como celebración del amor humano y, a la vez, como símbolo del amor entre Dios y su pueblo, o entre Cristo y la Iglesia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo está construido literariamente el Cantar de los Cantares?",
+      "options": ["Como una única oración litúrgica extensa", "Como una lista ordenada de mandamientos", "Como un diálogo poético entre dos voces que se buscan y se alaban mutuamente"],
+      "correct": 2,
+      "hint": "A lo largo del libro se alternan las voces de la amada, el amado y el coro de «muchachas de Jerusalén».",
+      "explanation": "El Cantar se estructura como un diálogo poético entre los dos amantes, con la intervención ocasional de un coro, en el que ambos se buscan, se alaban y celebran su amor mutuo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Cant 8,5 · El recuerdo del origen del amor",
+      "direction": "es-es",
+      "tiles": ["Te", "desperté", "bajo", "el", "manzano", "cedro", "olivo"],
+      "answer": "Te desperté bajo el manzano",
+      "explanation": "Cant 8,5: este recuerdo enlaza el amor de los esposos con el origen mismo de la vida."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod09",
+  "module": 9,
+  "title": "Eclesiástico (Sirácida) — Sabiduría para la Vida Cotidiana",
+  "subtitle": "Eclesiástico 1–51",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿De dónde procede, según el Eclesiástico, toda sabiduría?",
+      "options": ["Del Señor, y está con él por siempre", "Del estudio prolongado de los sabios", "De la experiencia acumulada de los ancianos"],
+      "correct": 0,
+      "hint": "Este versículo inaugural sitúa el origen de la sabiduría directamente en Dios.",
+      "explanation": "Eclo 1,1: «toda sabiduría viene del Señor y está con él por siempre»."
+    },
+    {
+      "type": "gap",
+      "text": "Toda sabiduría viene del ___ y está con él por siempre.",
+      "options": ["Señor", "sabio", "rey"],
+      "answer": "Señor",
+      "explanation": "Eclo 1,1: este versículo inaugural sitúa el origen de toda sabiduría directamente en Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Eclo 1,1 · El origen divino de la sabiduría",
+      "direction": "es-es",
+      "tiles": ["Toda", "sabiduría", "viene", "del", "Señor", "sabio", "rey"],
+      "answer": "Toda sabiduría viene del Señor",
+      "explanation": "Eclo 1,1: este versículo inaugural sitúa el origen de toda sabiduría directamente en Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Toda sabiduría viene del Señor", "es": "El origen divino de la sabiduría" },
+        { "en": "Un amigo fiel es un refugio seguro", "es": "El valor incalculable de la amistad" },
+        { "en": "Lo dejó en poder de su propio albedrío", "es": "La libertad humana ante el bien y el mal" },
+        { "en": "Yo salí de la boca del Altísimo", "es": "La sabiduría personificada como dádiva divina" },
+        { "en": "Hagamos el elogio de los hombres ilustres", "es": "El recuerdo agradecido de los antepasados" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete el Eclesiástico a quien honra a su padre?",
+      "options": ["Una vida sin ninguna dificultad", "Que expía sus pecados", "Una gran fortuna heredada"],
+      "correct": 1,
+      "hint": "El texto añade que quien respeta a su madre «es como quien acumula tesoros».",
+      "explanation": "Eclo 3,3: «quien honra a su padre expía sus pecados»."
+    },
+    {
+      "type": "gap",
+      "text": "Quien honra a su padre ___ sus pecados.",
+      "options": ["expía", "oculta", "hereda"],
+      "answer": "expía",
+      "explanation": "Eclo 3,3: este versículo vincula el honor a los padres con el perdón de las propias faltas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué recomienda el Eclesiástico sobre la humildad?",
+      "options": ["Que solo la necesitan los pobres", "Que es signo de debilidad de carácter", "Que cuanto más grande sea alguien, más debe humillarse"],
+      "correct": 2,
+      "hint": "El texto afirma que quien actúa con humildad «será querido más que el hombre generoso».",
+      "explanation": "Eclo 3,17-18: «hijo, actúa con humildad en tus quehaceres... cuanto más grande seas, más debes humillarte, y así alcanzarás el favor del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Cuanto más grande seas, más debes ___.",
+      "options": ["humillarte", "exigir", "callar"],
+      "answer": "humillarte",
+      "explanation": "Eclo 3,18: este consejo vincula la grandeza personal con la necesidad de mayor humildad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Eclo 3,18 · La verdadera grandeza",
+      "direction": "es-es",
+      "tiles": ["Cuanto", "más", "grande", "seas", "más", "debes", "humillarte", "exigir", "hablar"],
+      "answer": "Cuanto más grande seas más debes humillarte",
+      "explanation": "Eclo 3,18: este consejo vincula la grandeza personal con la necesidad de mayor humildad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada capítulo con su contenido principal",
+      "pairs": [
+        { "en": "Eclesiástico 1", "es": "El origen y la naturaleza de la sabiduría" },
+        { "en": "Eclesiástico 3", "es": "El honor debido a los padres y la humildad" },
+        { "en": "Eclesiástico 6", "es": "El valor de la verdadera amistad" },
+        { "en": "Eclesiástico 24", "es": "El gran poema de autoelogio de la sabiduría" },
+        { "en": "Eclesiástico 44", "es": "El elogio de los antepasados de Israel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se afirma que hace la limosna, según el Eclesiástico?",
+      "options": ["Perdona los pecados, igual que el agua apaga el fuego", "Garantiza riquezas para el futuro", "Sustituye por completo a la oración diaria"],
+      "correct": 0,
+      "hint": "El texto compara directamente dos acciones: apagar el fuego y perdonar los pecados.",
+      "explanation": "Eclo 3,30: «el agua apaga el fuego ardiente, y la limosna perdona los pecados»."
+    },
+    {
+      "type": "gap",
+      "text": "El agua apaga el fuego ardiente, y la limosna ___ los pecados.",
+      "options": ["perdona", "oculta", "retrasa"],
+      "answer": "perdona",
+      "explanation": "Eclo 3,30: esta comparación vincula la caridad hacia los necesitados con el perdón de las propias faltas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Eclo 3,30 · La limosna que perdona",
+      "direction": "es-es",
+      "tiles": ["El", "agua", "apaga", "el", "fuego", "ardiente", "viento", "frío"],
+      "answer": "El agua apaga el fuego ardiente",
+      "explanation": "Eclo 3,30: esta imagen introduce la comparación entre apagar el fuego y perdonar los pecados mediante la limosna."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el Eclesiástico a un amigo fiel?",
+      "options": ["Como alguien fácil de encontrar en cualquier lugar", "Como un refugio seguro y un tesoro sin precio", "Como alguien que nunca contradice a su amigo"],
+      "correct": 1,
+      "hint": "El texto añade que «un amigo fiel es medicina de vida».",
+      "explanation": "Eclo 6,14-15: «un amigo fiel es un refugio seguro, y quien lo encuentra ha encontrado un tesoro... un amigo fiel no tiene precio»."
+    },
+    {
+      "type": "gap",
+      "text": "Un amigo fiel es un ___ seguro.",
+      "options": ["refugio", "palacio", "puente"],
+      "answer": "refugio",
+      "explanation": "Eclo 6,14: esta imagen expresa el valor incalculable de la verdadera amistad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Eclo 6,14 · El valor de la amistad",
+      "direction": "es-es",
+      "tiles": ["Un", "amigo", "fiel", "es", "un", "refugio", "seguro", "palacio", "puente"],
+      "answer": "Un amigo fiel es un refugio seguro",
+      "explanation": "Eclo 6,14: esta imagen expresa el valor incalculable de la verdadera amistad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué enseña el Eclesiástico sobre la libertad del ser humano?",
+      "options": ["Que Dios decide por él sin dejarle ninguna opción", "Que solo los sabios pueden elegir su propio camino", "Que Dios lo dejó en poder de su propio albedrío, ante la vida y la muerte"],
+      "correct": 2,
+      "hint": "El texto añade: «ante los hombres está la vida y la muerte, y a cada uno se le dará lo que prefiera».",
+      "explanation": "Eclo 15,14-17: «al principio él creó al hombre y lo dejó en poder de su propio albedrío. Si quieres, guardarás los mandamientos»."
+    },
+    {
+      "type": "gap",
+      "text": "Al principio él creó al hombre y lo dejó en poder de su propio ___.",
+      "options": ["albedrío", "riqueza", "templo"],
+      "answer": "albedrío",
+      "explanation": "Eclo 15,14: este pasaje afirma la libertad humana para elegir entre el bien y el mal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Eclo 15,14 · La libertad humana",
+      "direction": "es-es",
+      "tiles": ["Lo", "dejó", "en", "poder", "de", "su", "propio", "albedrío", "riqueza", "templo"],
+      "answer": "Lo dejó en poder de su propio albedrío",
+      "explanation": "Eclo 15,14: este pasaje afirma la libertad humana para elegir entre el bien y el mal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su dato o contexto",
+      "pairs": [
+        { "en": "El libro entero", "es": "También llamado Sirácida, por su autor Jesús ben Sirá" },
+        { "en": "Su origen", "es": "Escrito en hebreo y traducido al griego por su nieto" },
+        { "en": "Su lugar en el canon", "es": "Libro deuterocanónico, no aceptado por todas las tradiciones" },
+        { "en": "Su tono general", "es": "Práctico y cercano a la vida cotidiana" },
+        { "en": "Su fecha aproximada", "es": "Compuesto en torno al siglo II antes de Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se presenta la sabiduría personificada en el capítulo 24 del Eclesiástico?",
+      "options": ["Como quien salió de la boca del Altísimo y gobernó sobre toda la tierra", "Como una criatura sometida por completo a los ángeles", "Como un don reservado únicamente a los reyes"],
+      "correct": 0,
+      "hint": "Este gran poema recuerda al de Proverbios 8, donde la sabiduría también habla en primera persona.",
+      "explanation": "Eclo 24,3.6: «yo salí de la boca del Altísimo... goberné sobre las olas del mar y sobre toda la tierra»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo salí de la boca del ___.",
+      "options": ["Altísimo", "ángel", "profeta"],
+      "answer": "Altísimo",
+      "explanation": "Eclo 24,3: este gran poema personifica a la sabiduría hablando en primera persona sobre su origen divino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Eclo 24,3 · La sabiduría personificada",
+      "direction": "es-es",
+      "tiles": ["Yo", "salí", "de", "la", "boca", "del", "Altísimo", "ángel", "profeta"],
+      "answer": "Yo salí de la boca del Altísimo",
+      "explanation": "Eclo 24,3: este gran poema personifica a la sabiduría hablando en primera persona sobre su origen divino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud recomienda el Eclesiástico hacia el médico?",
+      "options": ["Desconfiar de él y evitar siempre sus remedios", "Honrarlo, pues también a él lo creó el Señor", "Sustituirlo siempre únicamente por la oración"],
+      "correct": 1,
+      "hint": "El texto añade que «del Altísimo viene la curación».",
+      "explanation": "Eclo 38,1-2: «honra al médico por los servicios que presta, que también a él lo creó el Señor. Del Altísimo viene la curación»."
+    },
+    {
+      "type": "gap",
+      "text": "Honra al médico por los servicios que presta, que también a él lo creó el ___.",
+      "options": ["Señor", "pueblo", "rey"],
+      "answer": "Señor",
+      "explanation": "Eclo 38,1: este pasaje reconoce el valor de la medicina como un bien que también proviene de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Eclo 38,1 · El honor debido al médico",
+      "direction": "es-es",
+      "tiles": ["Honra", "al", "médico", "por", "los", "servicios", "que", "presta", "juez", "rey"],
+      "answer": "Honra al médico por los servicios que presta",
+      "explanation": "Eclo 38,1: este pasaje reconoce el valor de la medicina como un bien que también proviene de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabras se abre el elogio de los antepasados en el Eclesiástico?",
+      "options": ["Olvidemos a quienes ya no están entre nosotros", "Juzguemos con dureza a las generaciones pasadas", "Hagamos el elogio de los hombres ilustres, de nuestros padres según sus generaciones"],
+      "correct": 2,
+      "hint": "Este largo pasaje final recorre a los grandes patriarcas, jueces, reyes y profetas de Israel.",
+      "explanation": "Eclo 44,1: «hagamos el elogio de los hombres ilustres, de nuestros padres según sus generaciones»."
+    },
+    {
+      "type": "gap",
+      "text": "Hagamos el elogio de los hombres ___, de nuestros padres según sus generaciones.",
+      "options": ["ilustres", "olvidados", "jóvenes"],
+      "answer": "ilustres",
+      "explanation": "Eclo 44,1: este versículo abre el largo elogio final de los grandes antepasados de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Eclo 44,1 · El elogio de los antepasados",
+      "direction": "es-es",
+      "tiles": ["Hagamos", "el", "elogio", "de", "los", "hombres", "ilustres", "olvidados", "jóvenes"],
+      "answer": "Hagamos el elogio de los hombres ilustres",
+      "explanation": "Eclo 44,1: este versículo abre el largo elogio final de los grandes antepasados de Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación práctica",
+      "pairs": [
+        { "en": "Honrar a los padres", "es": "Expía los pecados, según el libro" },
+        { "en": "La humildad", "es": "Atrae más aprecio que la generosidad ostentosa" },
+        { "en": "La limosna", "es": "Actúa como el agua que apaga el fuego" },
+        { "en": "El médico", "es": "Merece honra porque su ciencia viene de Dios" },
+        { "en": "Los antepasados", "es": "Merecen ser recordados con gratitud" }
+      ]
+    }
+  ]
+}

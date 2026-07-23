@@ -1,0 +1,251 @@
+{
+  "id": "sap-mod08",
+  "module": 8,
+  "title": "Sabiduría — La Justicia, la Muerte y el Elogio de la Sabiduría",
+  "subtitle": "Sabiduría 1–19",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿A quién se dirige el libro de la Sabiduría en su primer versículo?",
+      "options": ["A los gobernantes de la tierra", "A los sacerdotes del templo", "A los niños de Israel"],
+      "correct": 0,
+      "hint": "El libro comienza como una exhortación dirigida a quienes ejercen el poder.",
+      "explanation": "Sab 1,1: «amad la justicia, gobernantes de la tierra, pensad correctamente del Señor y buscadlo con sencillez de corazón»."
+    },
+    {
+      "type": "gap",
+      "text": "Amad la justicia, gobernantes de la ___.",
+      "options": ["tierra", "ciudad", "corte"],
+      "answer": "tierra",
+      "explanation": "Sab 1,1: este versículo inaugural dirige la exhortación del libro a quienes gobiernan."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sab 1,1 · La exhortación inicial del libro",
+      "direction": "es-es",
+      "tiles": ["Amad", "la", "justicia", "gobernantes", "de", "la", "tierra", "ciudad", "corte"],
+      "answer": "Amad la justicia gobernantes de la tierra",
+      "explanation": "Sab 1,1: este versículo inaugural dirige la exhortación del libro a quienes ejercen el poder."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Amad la justicia, gobernantes de la tierra", "es": "La exhortación inicial a los gobernantes" },
+        { "en": "Dios no ha hecho la muerte", "es": "El origen de la muerte no está en la voluntad de Dios" },
+        { "en": "La vida de los justos está en manos de Dios", "es": "La esperanza de inmortalidad para los justos" },
+        { "en": "La preferí a cetros y tronos", "es": "La sabiduría vale más que el poder" },
+        { "en": "Amas a todos los seres", "es": "El amor universal de Dios hacia lo creado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma el libro de la Sabiduría sobre la muerte?",
+      "options": ["Que Dios la creó para castigar a los pecadores", "Que Dios no ha hecho la muerte ni se complace destruyendo a los vivos", "Que la muerte es el único camino hacia la sabiduría"],
+      "correct": 1,
+      "hint": "El texto añade que «la justicia es inmortal».",
+      "explanation": "Sab 1,13-14: «Dios no ha hecho la muerte, ni se complace destruyendo a los vivos... porque la justicia es inmortal»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios no ha hecho la ___, ni se complace destruyendo a los vivos.",
+      "options": ["muerte", "ira", "guerra"],
+      "answer": "muerte",
+      "explanation": "Sab 1,13: este versículo afirma que el origen de la muerte no está en la voluntad de Dios, sino en el pecado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sab 1,13 · El origen de la muerte",
+      "direction": "es-es",
+      "tiles": ["Dios", "no", "ha", "hecho", "la", "muerte", "ira", "guerra"],
+      "answer": "Dios no ha hecho la muerte",
+      "explanation": "Sab 1,13: este versículo afirma que Dios no quiere la muerte, sino la vida de sus criaturas."
+    },
+    {
+      "type": "quiz",
+      "q": "Según el libro de la Sabiduría, ¿cómo tratan los impíos al hombre justo que se llama a sí mismo \"hijo de Dios\"?",
+      "options": ["Lo veneran como a un gran maestro", "Lo ignoran por completo, sin prestarle atención", "Lo acechan y planean condenarlo a una muerte ignominiosa para comprobar si Dios lo salva"],
+      "correct": 2,
+      "hint": "Este pasaje ha sido leído por la tradición cristiana como un anuncio profético de la Pasión de Cristo.",
+      "explanation": "Sab 2,12-20: «acechemos al justo... presume de conocer a Dios y se llama a sí mismo hijo de Dios... lo condenaremos a muerte ignominiosa»."
+    },
+    {
+      "type": "gap",
+      "text": "Acechemos al justo... presume de conocer a Dios y se llama a sí mismo ___ de Dios.",
+      "options": ["hijo", "siervo", "amigo"],
+      "answer": "hijo",
+      "explanation": "Sab 2,13: este pasaje sobre la persecución del justo ha sido leído por la tradición cristiana como anuncio de la Pasión de Cristo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada parte del libro con su contenido principal",
+      "pairs": [
+        { "en": "Sabiduría 1–5", "es": "La justicia, la muerte y el destino de justos e impíos" },
+        { "en": "Sabiduría 6–9", "es": "El elogio de la sabiduría y la oración de Salomón" },
+        { "en": "Sabiduría 10–19", "es": "El repaso de la historia de Israel, especialmente el Éxodo" },
+        { "en": "El libro entero", "es": "Atribuido a la figura de Salomón, aunque escrito mucho después" },
+        { "en": "Su lengua original", "es": "El griego, a diferencia de la mayoría del Antiguo Testamento" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde afirma el libro de la Sabiduría que está la vida de los justos?",
+      "options": ["En manos de Dios, sin que ningún tormento los alcance", "En manos de sus propios méritos y esfuerzos", "Perdida para siempre después de la muerte"],
+      "correct": 0,
+      "hint": "El texto añade que «su esperanza estaba llena de inmortalidad».",
+      "explanation": "Sab 3,1: «la vida de los justos está en manos de Dios, y ningún tormento los alcanzará»."
+    },
+    {
+      "type": "gap",
+      "text": "La vida de los justos está en manos de Dios, y ningún ___ los alcanzará.",
+      "options": ["tormento", "error", "olvido"],
+      "answer": "tormento",
+      "explanation": "Sab 3,1: este versículo expresa la esperanza de inmortalidad reservada a los justos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sab 3,1 · La esperanza de los justos",
+      "direction": "es-es",
+      "tiles": ["La", "vida", "de", "los", "justos", "está", "en", "manos", "de", "Dios", "ángeles", "reyes"],
+      "answer": "La vida de los justos está en manos de Dios",
+      "explanation": "Sab 3,1: este versículo expresa la esperanza de inmortalidad reservada a los justos, más allá de las apariencias de la muerte."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué prefirió Salomón a \"cetros y tronos\", según el libro de la Sabiduría?",
+      "options": ["El poder militar sobre otras naciones", "El espíritu de sabiduría", "Las alianzas con reinos vecinos"],
+      "correct": 1,
+      "hint": "El texto añade que ni el oro ni la plata se le pueden comparar.",
+      "explanation": "Sab 7,7-8: «invoqué y vino a mí el espíritu de sabiduría. La preferí a cetros y tronos»."
+    },
+    {
+      "type": "gap",
+      "text": "Invoqué y vino a mí el espíritu de sabiduría. La preferí a cetros y ___.",
+      "options": ["tronos", "ejércitos", "templos"],
+      "answer": "tronos",
+      "explanation": "Sab 7,7-8: este pasaje afirma que la sabiduría vale más que cualquier forma de poder o riqueza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sab 7,8 · La sabiduría vale más que el poder",
+      "direction": "es-es",
+      "tiles": ["La", "preferí", "a", "cetros", "y", "tronos", "ejércitos", "templos"],
+      "answer": "La preferí a cetros y tronos",
+      "explanation": "Sab 7,8: este versículo afirma que Salomón valoró la sabiduría por encima de cualquier forma de poder."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el libro de la Sabiduría a la sabiduría misma?",
+      "options": ["Como una ley severa escrita en piedra", "Como un tesoro escondido e inaccesible", "Como un espíritu que todo lo penetra, irradiación de la luz eterna y espejo de la actividad de Dios"],
+      "correct": 2,
+      "hint": "El texto la describe con una larga lista de cualidades: «única, múltiple, sutil, ágil, penetrante».",
+      "explanation": "Sab 7,22.26: «la sabiduría posee un espíritu inteligente, santo... es irradiación de la luz eterna, espejo límpido de la actividad de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "La sabiduría posee un espíritu inteligente, ___, único, sutil, ágil.",
+      "options": ["santo", "fuerte", "lejano"],
+      "answer": "santo",
+      "explanation": "Sab 7,22: esta larga lista de cualidades personifica a la sabiduría como un espíritu que todo lo penetra."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sab 7,26 · La sabiduría como irradiación de Dios",
+      "direction": "es-es",
+      "tiles": ["Es", "irradiación", "de", "la", "luz", "eterna", "sol", "luna"],
+      "answer": "Es irradiación de la luz eterna",
+      "explanation": "Sab 7,26: esta imagen describe a la sabiduría como reflejo de la propia luz de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "\"Acechemos al justo... hijo de Dios\"", "es": "Pasaje leído por la tradición cristiana como anuncio de la Pasión de Cristo" },
+        { "en": "La personificación de la sabiduría", "es": "Prepara el lenguaje que usará después la teología sobre el Verbo de Dios" },
+        { "en": "\"Peso, número y medida\"", "es": "La creación tiene un orden querido por Dios" },
+        { "en": "La oración de Salomón", "es": "Modelo de humildad al pedir el don de la sabiduría" },
+        { "en": "\"Amigo de la vida\"", "es": "Título que el libro da a Dios por su amor a todo lo creado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se presenta Salomón ante Dios al pedirle sabiduría?",
+      "options": ["Como un siervo débil y de pocos años, necesitado de ella", "Como un rey que ya lo posee todo por sí mismo", "Como un juez que no necesita consejo de nadie"],
+      "correct": 0,
+      "hint": "El texto dice: «siervo tuyo soy, hijo de tu sierva, hombre débil y de pocos años».",
+      "explanation": "Sab 9,4-5: «dame la sabiduría asistente de tu trono... porque siervo tuyo soy, hijo de tu sierva, hombre débil y de pocos años»."
+    },
+    {
+      "type": "gap",
+      "text": "Dame la sabiduría asistente de tu ___.",
+      "options": ["trono", "templo", "pueblo"],
+      "answer": "trono",
+      "explanation": "Sab 9,4: esta petición de Salomón es un modelo de humildad al reconocer su necesidad de la sabiduría de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sab 9,4 · La oración de Salomón",
+      "direction": "es-es",
+      "tiles": ["Dame", "la", "sabiduría", "asistente", "de", "tu", "trono", "templo", "pueblo"],
+      "answer": "Dame la sabiduría asistente de tu trono",
+      "explanation": "Sab 9,4: esta petición es un modelo de humildad al pedir el don de la sabiduría."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo afirma el libro de la Sabiduría que Dios dispuso todas las cosas de la creación?",
+      "options": ["De manera caótica y completamente aleatoria", "Con peso, número y medida", "Sin ningún orden reconocible por el hombre"],
+      "correct": 1,
+      "hint": "Esta afirmación expresa la confianza en un orden querido por Dios detrás de toda la creación.",
+      "explanation": "Sab 11,20: «tú todo lo has dispuesto con peso, número y medida»."
+    },
+    {
+      "type": "gap",
+      "text": "Tú todo lo has dispuesto con peso, número y ___.",
+      "options": ["medida", "tiempo", "fuego"],
+      "answer": "medida",
+      "explanation": "Sab 11,20: esta afirmación expresa la confianza en un orden querido por Dios detrás de toda la creación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sab 11,20 · El orden de la creación",
+      "direction": "es-es",
+      "tiles": ["Todo", "lo", "has", "dispuesto", "con", "peso", "número", "y", "medida", "tiempo", "fuego"],
+      "answer": "Todo lo has dispuesto con peso número y medida",
+      "explanation": "Sab 11,20: esta afirmación expresa la confianza en un orden querido por Dios detrás de toda la creación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud de Dios hacia lo creado describe el libro de la Sabiduría?",
+      "options": ["Indiferencia hacia las criaturas más pequeñas", "Compasión limitada únicamente a Israel", "Amor hacia todos los seres, sin aborrecer nada de lo que hizo"],
+      "correct": 2,
+      "hint": "El texto añade: «si odiaras algo, no lo habrías creado».",
+      "explanation": "Sab 11,24: «amas a todos los seres y no aborreces nada de lo que hiciste; pues, si odiaras algo, no lo habrías creado»."
+    },
+    {
+      "type": "gap",
+      "text": "Amas a todos los seres y no aborreces nada de lo que ___.",
+      "options": ["hiciste", "temiste", "odiaste"],
+      "answer": "hiciste",
+      "explanation": "Sab 11,24: este versículo expresa el amor universal de Dios hacia todo lo que ha creado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Sab 11,24 · El amor universal de Dios",
+      "direction": "es-es",
+      "tiles": ["Amas", "a", "todos", "los", "seres", "algunos", "pocos"],
+      "answer": "Amas a todos los seres",
+      "explanation": "Sab 11,24: este versículo expresa el amor universal de Dios hacia todo lo que ha creado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Dios no ha hecho la muerte", "es": "Sabiduría 1,13" },
+        { "en": "La vida de los justos está en manos de Dios", "es": "Sabiduría 3,1" },
+        { "en": "Dame la sabiduría asistente de tu trono", "es": "Sabiduría 9,4" },
+        { "en": "Todo lo has dispuesto con peso, número y medida", "es": "Sabiduría 11,20" },
+        { "en": "Amas a todos los seres", "es": "Sabiduría 11,24" }
+      ]
+    }
+  ]
+}
