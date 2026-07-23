@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod19",
+  "module": 19,
+  "title": "Abdías — La Soberbia de Edom y el Reinado de Dios",
+  "subtitle": "Abdías 1",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Dios que hará con Edom al comienzo del libro de Abdías?",
+      "options": ["Hacerlo pequeño y despreciable entre las naciones", "Convertirlo en la nación más poderosa de la región", "Perdonarlo sin ninguna condición previa"],
+      "correct": 0,
+      "hint": "El texto añade: «te ha engañado la arrogancia de tu corazón».",
+      "explanation": "Abd 1,2: «te hago pequeño y despreciable entre las naciones»."
+    },
+    {
+      "type": "gap",
+      "text": "Te hago pequeño y ___ entre las naciones.",
+      "options": ["despreciable", "famoso", "temido"],
+      "answer": "despreciable",
+      "explanation": "Abd 1,2: este anuncio inicial abre el oráculo de juicio contra Edom."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Abd 1,2 · El anuncio del juicio contra Edom",
+      "direction": "es-es",
+      "tiles": ["Te", "hago", "pequeño", "y", "despreciable", "entre", "las", "naciones", "famoso", "temido"],
+      "answer": "Te hago pequeño y despreciable entre las naciones",
+      "explanation": "Abd 1,2: este anuncio inicial abre el oráculo de juicio contra Edom."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Te hago pequeño y despreciable", "es": "El anuncio del juicio contra Edom" },
+        { "en": "Aunque te eleves como el águila", "es": "La caída inevitable de la soberbia" },
+        { "en": "Te portaste como uno de ellos", "es": "La complicidad de Edom en la caída de Jerusalén" },
+        { "en": "No te regodees", "es": "La advertencia contra alegrarse del mal ajeno" },
+        { "en": "El Señor reinará", "es": "La afirmación final de la soberanía de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha Dios a Edom sobre su actitud interior?",
+      "options": ["Su generosidad excesiva hacia los pueblos vecinos", "La arrogancia de su corazón, que lo hace sentirse inalcanzable", "Su falta de interés por los asuntos de guerra"],
+      "correct": 1,
+      "hint": "El texto añade que Edom decía para sus adentros: «¿quién me echará por tierra?».",
+      "explanation": "Abd 1,3: «te ha engañado la arrogancia de tu corazón, a ti, que habitas en los huecos de las peñas»."
+    },
+    {
+      "type": "gap",
+      "text": "Te ha engañado la arrogancia de tu ___.",
+      "options": ["corazón", "pueblo", "ejército"],
+      "answer": "corazón",
+      "explanation": "Abd 1,3: este reproche señala la raíz interior de la soberbia de Edom."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Abd 1,3 · La arrogancia de Edom",
+      "direction": "es-es",
+      "tiles": ["Te", "ha", "engañado", "la", "arrogancia", "de", "tu", "corazón", "pueblo", "ejército"],
+      "answer": "Te ha engañado la arrogancia de tu corazón",
+      "explanation": "Abd 1,3: este reproche señala la raíz interior de la soberbia de Edom."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios hacer aunque Edom \"se eleve como el águila\"?",
+      "options": ["Concederle todavía más altura y gloria", "Ignorarlo por completo, sin ninguna reacción", "Derribarlo de allí donde se esconda"],
+      "correct": 2,
+      "hint": "El texto añade: «aunque hagas tu nido en las estrellas».",
+      "explanation": "Abd 1,4: «aunque te eleves como el águila y hagas tu nido en las estrellas, de allí te echaré»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Abd 1,4 · La caída inevitable de la soberbia",
+      "direction": "es-es",
+      "tiles": ["Aunque", "te", "eleves", "como", "el", "águila", "el", "viento", "la", "nube"],
+      "answer": "Aunque te eleves como el águila",
+      "explanation": "Abd 1,4: esta imagen expresa que ninguna altura protege de la justicia de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Te hago pequeño y despreciable", "es": "Abdías 1,2" },
+        { "en": "Serás destruido para siempre", "es": "Abdías 1,10" },
+        { "en": "No te regodees", "es": "Abdías 1,12" },
+        { "en": "Un resto santo", "es": "Abdías 1,17" },
+        { "en": "El Señor reinará", "es": "Abdías 1,21" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué anuncia Dios la destrucción definitiva de Edom, en Abdías 1,10?",
+      "options": ["Por la violencia desplegada contra su hermano Jacob", "Por no pagar los tributos exigidos por Israel", "Por adorar a dioses completamente desconocidos"],
+      "correct": 0,
+      "hint": "El texto añade: «te cubrirá la vergüenza».",
+      "explanation": "Abd 1,10: «por la violencia desplegada contra tu hermano Jacob... serás destruido para siempre»."
+    },
+    {
+      "type": "gap",
+      "text": "Por la violencia desplegada contra tu hermano Jacob, serás destruido para ___.",
+      "options": ["siempre", "un tiempo", "una hora"],
+      "answer": "siempre",
+      "explanation": "Abd 1,10: esta sentencia agrava la culpa de Edom precisamente por tratarse de un pueblo hermano."
+    },
+    {
+      "type": "gap",
+      "text": "La casa de Jacob será fuego, la casa de José llama y la casa de Esaú ___.",
+      "options": ["paja", "piedra", "agua"],
+      "answer": "paja",
+      "explanation": "Abd 1,18: esta imagen anuncia la consumición total de Edom frente a la restauración de Israel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha Dios a Edom sobre su comportamiento el día de la caída de Jerusalén?",
+      "options": ["Que intentó defender la ciudad, aunque sin éxito", "Que se portó como uno más de los invasores extranjeros", "Que avisó a tiempo a Jerusalén del peligro"],
+      "correct": 1,
+      "hint": "El texto dice que Edom «observabas a distancia» mientras deportaban a su ejército.",
+      "explanation": "Abd 1,11: «cuando los extranjeros llegaron a sus puertas y echaron suertes sobre Jerusalén, tú te portaste como uno de ellos»."
+    },
+    {
+      "type": "gap",
+      "text": "Tú te portaste como uno de ___.",
+      "options": ["ellos", "nosotros", "los justos"],
+      "answer": "ellos",
+      "explanation": "Abd 1,11: este reproche denuncia la complicidad de Edom con los invasores de Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Abd 1,11 · La complicidad de Edom",
+      "direction": "es-es",
+      "tiles": ["Tú", "te", "portaste", "como", "uno", "de", "ellos", "nosotros", "los", "justos"],
+      "answer": "Tú te portaste como uno de ellos",
+      "explanation": "Abd 1,11: este reproche denuncia la complicidad de Edom con los invasores de Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advertencia repite Abdías sobre la actitud ante el sufrimiento del hermano?",
+      "options": ["Que conviene guardar silencio siempre, pase lo que pase", "Que hay que intervenir de inmediato con violencia", "Que no hay que regodearse contemplando el desastre del hermano"],
+      "correct": 2,
+      "hint": "El texto repite varias veces: «no te regodees», «no te alegres», «no se desate tu boca».",
+      "explanation": "Abd 1,12: «no te regodees contemplando el día de tu hermano, el día de su desastre»."
+    },
+    {
+      "type": "gap",
+      "text": "No te regodees contemplando el día de tu ___.",
+      "options": ["hermano", "enemigo", "rey"],
+      "answer": "hermano",
+      "explanation": "Abd 1,12: esta advertencia denuncia la actitud de alegrarse ante el mal ajeno."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Abd 1,12 · La advertencia contra alegrarse del mal ajeno",
+      "direction": "es-es",
+      "tiles": ["No", "te", "regodees", "contemplando", "el", "día", "de", "tu", "hermano", "enemigo", "rey"],
+      "answer": "No te regodees contemplando el día de tu hermano",
+      "explanation": "Abd 1,12: esta advertencia denuncia la actitud de alegrarse ante el mal ajeno."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Abdías", "es": "El libro más breve de todo el Antiguo Testamento, un solo capítulo" },
+        { "en": "Edom", "es": "Pueblo descendiente de Esaú, hermano de Jacob" },
+        { "en": "\"El día de tu hermano\"", "es": "Se refiere a la caída de Jerusalén, en la que Edom no ayudó" },
+        { "en": "El principio de justicia recíproca", "es": "\"Como hiciste, harán contigo\" resume el mensaje central" },
+        { "en": "El desenlace del libro", "es": "Anuncia la reunificación de Israel y el reinado definitivo de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio de justicia anuncia Abdías sobre \"el Día del Señor\"?",
+      "options": ["Como hiciste, harán contigo: te caerá encima la venganza", "El pasado quedará completamente olvidado para todos", "Solo los pueblos inocentes recibirán algún tipo de juicio"],
+      "correct": 0,
+      "hint": "Este principio anuncia que las acciones de Edom se volverán contra él mismo.",
+      "explanation": "Abd 1,15: «llega el Día del Señor contra todos los pueblos; como hiciste, harán contigo, te caerá encima la venganza»."
+    },
+    {
+      "type": "gap",
+      "text": "Como hiciste, harán contigo, te caerá encima la ___.",
+      "options": ["venganza", "riqueza", "gloria"],
+      "answer": "venganza",
+      "explanation": "Abd 1,15: este principio de justicia recíproca resume el mensaje central de todo el libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Abd 1,15 · El principio de justicia recíproca",
+      "direction": "es-es",
+      "tiles": ["Te", "caerá", "encima", "la", "venganza", "riqueza", "gloria"],
+      "answer": "Te caerá encima la venganza",
+      "explanation": "Abd 1,15: este principio de justicia recíproca resume el mensaje central de todo el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa de esperanza aparece en medio del oráculo contra Edom?",
+      "options": ["Que todos los pueblos desaparecerán por igual, sin excepción", "Que en el monte Sión quedará un resto santo", "Que Edom será perdonado sin ninguna condición"],
+      "correct": 1,
+      "hint": "El texto añade que «la casa de Jacob se apoderará de los que la habían despojado».",
+      "explanation": "Abd 1,17: «pero en el monte Sión quedará un resto santo»."
+    },
+    {
+      "type": "gap",
+      "text": "En el monte Sión quedará un resto ___.",
+      "options": ["santo", "vacío", "olvidado"],
+      "answer": "santo",
+      "explanation": "Abd 1,17: esta promesa de esperanza aparece en medio del oráculo de juicio contra Edom."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Abd 1,17 · La promesa del resto santo",
+      "direction": "es-es",
+      "tiles": ["En", "el", "monte", "Sión", "quedará", "un", "resto", "santo", "vacío", "olvidado"],
+      "answer": "En el monte Sión quedará un resto santo",
+      "explanation": "Abd 1,17: esta promesa de esperanza aparece en medio del oráculo de juicio contra Edom."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué afirmación final se cierra el breve libro de Abdías?",
+      "options": ["Con una lista detallada de las ciudades reconquistadas", "Con una nueva advertencia sobre futuros peligros", "Con la proclamación de que el Señor reinará"],
+      "correct": 2,
+      "hint": "Antes de esto, el texto anuncia que subirán «triunfantes al monte Sión».",
+      "explanation": "Abd 1,21: «subirán triunfantes al monte Sión para juzgar a la montaña de Esaú. Y el Señor reinará»."
+    },
+    {
+      "type": "gap",
+      "text": "Subirán triunfantes al monte Sión... y el Señor ___.",
+      "options": ["reinará", "callará", "huirá"],
+      "answer": "reinará",
+      "explanation": "Abd 1,21: este versículo final afirma que el reinado de Dios se impondrá sobre toda soberbia humana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Abd 1,21 · El reinado final de Dios",
+      "direction": "es-es",
+      "tiles": ["Subirán", "triunfantes", "al", "monte", "Sión", "valle", "desierto"],
+      "answer": "Subirán triunfantes al monte Sión",
+      "explanation": "Abd 1,21: este versículo final afirma que el reinado de Dios se impondrá sobre toda soberbia humana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La soberbia humana", "es": "No puede esconderse de la justicia de Dios, por muy alto que se eleve" },
+        { "en": "La fraternidad traicionada", "es": "Agrava la culpa de quien debía haber ayudado" },
+        { "en": "La alegría ante el mal ajeno", "es": "Es denunciada como una falta grave" },
+        { "en": "La ley del talión profético", "es": "Advierte que las acciones tienen consecuencias recíprocas" },
+        { "en": "La esperanza final", "es": "Afirma que el reinado de Dios se impondrá sobre toda soberbia humana" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod18",
+  "module": 18,
+  "title": "Amós — La Justicia como Arroyo Perenne",
+  "subtitle": "Amós 1–9",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen se abre el libro de Amós para describir la voz de Dios?",
+      "options": ["El Señor ruge desde Sión y alza su voz desde Jerusalén", "El Señor susurra suavemente desde el templo", "El Señor guarda silencio ante la injusticia"],
+      "correct": 0,
+      "hint": "El texto añade que «se enlutan los pastizales de los pastores».",
+      "explanation": "Am 1,2: «el Señor ruge desde Sión y desde Jerusalén alza su voz»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor ruge desde Sión y desde Jerusalén alza su ___.",
+      "options": ["voz", "mano", "ira"],
+      "answer": "voz",
+      "explanation": "Am 1,2: este versículo inaugural presenta la voz poderosa de Dios que recorre todo el libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Am 1,2 · La voz poderosa de Dios",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "ruge", "desde", "Sión", "susurra", "calla"],
+      "answer": "El Señor ruge desde Sión",
+      "explanation": "Am 1,2: este versículo inaugural presenta la voz poderosa de Dios que recorre todo el libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "El Señor ruge desde Sión", "es": "La voz poderosa de Dios que abre el libro" },
+        { "en": "Por tres crímenes, y por cuatro", "es": "La fórmula de juicio contra las naciones vecinas" },
+        { "en": "Buscadme y viviréis", "es": "La invitación a la conversión verdadera" },
+        { "en": "Que fluya como agua el derecho", "es": "La prioridad de la justicia sobre el culto vacío" },
+        { "en": "La cabaña caída de David", "es": "La esperanza de restauración final" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué fórmula repetida usa Amós para anunciar el juicio contra las naciones vecinas?",
+      "options": ["«He aquí que llega el fin»", "«Por tres crímenes, y por cuatro, no revocaré mi sentencia»", "«Escuchad, cielos, y prestad oído»"],
+      "correct": 1,
+      "hint": "Esta fórmula se repite contra Damasco, Gaza, Tiro, Edón y otras naciones.",
+      "explanation": "Am 1,3: «por tres crímenes de Damasco, y por cuatro, no revocaré mi sentencia»."
+    },
+    {
+      "type": "gap",
+      "text": "Por tres crímenes... y por cuatro, no revocaré mi ___.",
+      "options": ["sentencia", "pueblo", "templo"],
+      "answer": "sentencia",
+      "explanation": "Am 1,3: esta fórmula de juicio se repite contra cada una de las naciones vecinas de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Am 1,3 · La fórmula del juicio",
+      "direction": "es-es",
+      "tiles": ["Por", "tres", "crímenes", "y", "por", "cuatro", "cinco", "dos"],
+      "answer": "Por tres crímenes y por cuatro",
+      "explanation": "Am 1,3: esta fórmula de juicio se repite contra cada una de las naciones vecinas de Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "El Señor ruge desde Sión", "es": "Amós 1,2" },
+        { "en": "Buscadme y viviréis", "es": "Amós 5,4" },
+        { "en": "Que fluya como agua el derecho", "es": "Amós 5,24" },
+        { "en": "Yo era un pastor", "es": "Amós 7,14" },
+        { "en": "La cabaña caída de David", "es": "Amós 9,11" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué comparación hace Amós sobre la necesidad de profetizar, en el capítulo 3?",
+      "options": ["Que profetizar es una carga que se puede evitar fácilmente", "Que solo los sacerdotes pueden hablar en nombre de Dios", "Que si el Señor ha hablado, no se puede dejar de profetizar, como no se puede dejar de temer al rugido del león"],
+      "correct": 2,
+      "hint": "El texto pregunta antes: «¿acaso ruge el león en la foresta si no tiene una presa?».",
+      "explanation": "Am 3,8: «ha rugido el león, ¿quién no temerá? El Señor Dios ha hablado, ¿quién no profetizará?»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor Dios ha hablado, ¿quién no ___?",
+      "options": ["profetizará", "temerá", "callará"],
+      "answer": "profetizará",
+      "explanation": "Am 3,8: esta comparación expresa la urgencia interior de la vocación profética de Amós."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invitación hace Dios a la casa de Israel, en Amós 5?",
+      "options": ["¡Buscadme y viviréis!", "¡Alejaos de mí y descansaréis!", "¡Construid más templos y prosperaréis!"],
+      "correct": 0,
+      "hint": "El texto añade: «no busquéis a Betel, no vayáis a Guilgal».",
+      "explanation": "Am 5,4: «esto dice el Señor a la casa de Israel: ¡buscadme y viviréis!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Buscadme y ___!",
+      "options": ["viviréis", "temblaréis", "callaréis"],
+      "answer": "viviréis",
+      "explanation": "Am 5,4: esta invitación pide una búsqueda de Dios que vaya más allá de los santuarios habituales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Am 5,4 · La invitación a buscar a Dios",
+      "direction": "es-es",
+      "tiles": ["No", "busquéis", "a", "Betel", "buscadme", "y", "viviréis", "templo", "altar"],
+      "answer": "No busquéis a Betel buscadme y viviréis",
+      "explanation": "Am 5,4: esta invitación pide una búsqueda de Dios que vaya más allá de los santuarios habituales."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud de Dios describe Amós 5 hacia el culto vacío de justicia?",
+      "options": ["Que lo acepta con tal de que sea solemne y bien organizado", "Que aborrece y rechaza las fiestas y asambleas", "Que solo le importa la cantidad de las ofrendas presentadas"],
+      "correct": 1,
+      "hint": "El texto añade: «no quiero escuchar la melodía de tus cítaras».",
+      "explanation": "Am 5,21: «aborrezco y rechazo vuestras fiestas, no acepto vuestras asambleas»."
+    },
+    {
+      "type": "gap",
+      "text": "Aborrezco y rechazo vuestras ___.",
+      "options": ["fiestas", "riquezas", "palabras"],
+      "answer": "fiestas",
+      "explanation": "Am 5,21: esta denuncia del culto vacío de justicia introduce el célebre versículo sobre el derecho y la justicia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Am 5,21 · El rechazo del culto vacío",
+      "direction": "es-es",
+      "tiles": ["Aborrezco", "y", "rechazo", "vuestras", "fiestas", "riquezas", "palabras"],
+      "answer": "Aborrezco y rechazo vuestras fiestas",
+      "explanation": "Am 5,21: esta denuncia del culto vacío de justicia introduce el célebre versículo sobre el derecho y la justicia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Amós", "es": "Pastor de Técoa, en Judá, enviado a profetizar sobre Israel" },
+        { "en": "Amasías", "es": "Sacerdote de Betel que intentó expulsar a Amós" },
+        { "en": "El tema central del libro", "es": "La denuncia de la injusticia social y el culto vacío de justicia" },
+        { "en": "Amós 5,24", "es": "Fue citado por Martin Luther King en su lucha por los derechos civiles" },
+        { "en": "El libro de Amós", "es": "Uno de los primeros profetas escritores del Antiguo Testamento" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Dios que \"fluya\" en lugar de los rituales vacíos, en Amós 5?",
+      "options": ["El oro y la plata de las ofrendas del templo", "El vino de las libaciones festivas", "El derecho como agua, y la justicia como arroyo perenne"],
+      "correct": 2,
+      "hint": "Este versículo sería citado siglos después por Martin Luther King.",
+      "explanation": "Am 5,24: «que fluya como agua el derecho y la justicia como arroyo perenne»."
+    },
+    {
+      "type": "gap",
+      "text": "Que fluya como agua el derecho y la justicia como arroyo ___.",
+      "options": ["perenne", "seco", "lejano"],
+      "answer": "perenne",
+      "explanation": "Am 5,24: este versículo, uno de los más citados del Antiguo Testamento, resume el mensaje central del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Am 5,24 · La justicia como arroyo perenne",
+      "direction": "es-es",
+      "tiles": ["La", "justicia", "como", "arroyo", "perenne", "seco", "lejano"],
+      "answer": "La justicia como arroyo perenne",
+      "explanation": "Am 5,24: este versículo, uno de los más citados del Antiguo Testamento, resume el mensaje central del libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se presenta Amós a sí mismo ante el sacerdote Amasías, en el capítulo 7?",
+      "options": ["Como un pastor y cultivador de sicomoros a quien el Señor arrancó de su rebaño", "Como miembro de una reconocida familia de profetas profesionales", "Como un sacerdote enviado oficialmente por el rey"],
+      "correct": 0,
+      "hint": "Amasías le había ordenado: «vete, huye al territorio de Judá».",
+      "explanation": "Am 7,14-15: «yo no soy profeta ni hijo de profeta. Yo era un pastor y un cultivador de sicomoros... el Señor me arrancó de mi rebaño»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo era un pastor y un cultivador de ___.",
+      "options": ["sicomoros", "olivos", "trigo"],
+      "answer": "sicomoros",
+      "explanation": "Am 7,14: esta respuesta de Amós muestra que la vocación profética no depende de una casta sacerdotal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Am 7,14 · El origen humilde de Amós",
+      "direction": "es-es",
+      "tiles": ["Yo", "era", "un", "pastor", "y", "un", "cultivador", "de", "sicomoros", "olivos", "trigo"],
+      "answer": "Yo era un pastor y un cultivador de sicomoros",
+      "explanation": "Am 7,14: esta respuesta de Amós muestra que la vocación profética no depende de una casta sacerdotal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tipo de hambre anuncia Dios que enviará al país, en Amós 8?",
+      "options": ["Hambre de pan y sed de agua, como cualquier hambruna común", "Hambre de escuchar las palabras del Señor", "Hambre que solo afectará a los pueblos extranjeros vecinos"],
+      "correct": 1,
+      "hint": "El texto añade que «andarán errantes... buscando la palabra del Señor, pero no la encontrarán».",
+      "explanation": "Am 8,11: «enviaré hambre al país: no hambre de pan, ni sed de agua, sino de escuchar las palabras del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Enviaré hambre al país... de escuchar las palabras del ___.",
+      "options": ["Señor", "rey", "pueblo"],
+      "answer": "Señor",
+      "explanation": "Am 8,11: esta imagen describe la ausencia de la palabra de Dios como la peor de las hambrunas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Am 8,11 · El hambre de la palabra de Dios",
+      "direction": "es-es",
+      "tiles": ["Hambre", "de", "escuchar", "las", "palabras", "del", "Señor", "rey", "pueblo"],
+      "answer": "Hambre de escuchar las palabras del Señor",
+      "explanation": "Am 8,11: esta imagen describe la ausencia de la palabra de Dios como la peor de las hambrunas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Dios restaurar al final del libro de Amós?",
+      "options": ["El templo de Betel, con todos sus altares", "El reino del norte, con su capital en Samaría", "La cabaña caída de David, reparando sus brechas y ruinas"],
+      "correct": 2,
+      "hint": "El texto añade que «las montañas destilarán mosto y las colinas se derretirán».",
+      "explanation": "Am 9,11: «aquel día levantaré la cabaña caída de David, repararé sus brechas, restauraré sus ruinas»."
+    },
+    {
+      "type": "gap",
+      "text": "Levantaré la cabaña caída de ___.",
+      "options": ["David", "Jacob", "Moisés"],
+      "answer": "David",
+      "explanation": "Am 9,11: esta promesa final de restauración asegura que el castigo no será la última palabra de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Am 9,11 · La restauración de la cabaña de David",
+      "direction": "es-es",
+      "tiles": ["Levantaré", "la", "cabaña", "caída", "de", "David", "Jacob", "Moisés"],
+      "answer": "Levantaré la cabaña caída de David",
+      "explanation": "Am 9,11: esta promesa final de restauración asegura que el castigo no será la última palabra de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La denuncia profética", "es": "Se dirige tanto a las naciones vecinas como al propio pueblo de Israel" },
+        { "en": "El culto sin justicia", "es": "Resulta inaceptable para Dios, por solemne que sea" },
+        { "en": "La vocación profética", "es": "No depende del origen social ni de una casta sacerdotal" },
+        { "en": "La búsqueda de Dios", "es": "Debe reflejarse en una vida de justicia concreta" },
+        { "en": "La esperanza final", "es": "Asegura que el castigo no será la última palabra de Dios" }
+      ]
+    }
+  ]
+}

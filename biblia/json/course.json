@@ -76,7 +76,7 @@
     {
       "code": "PRO",
       "name": "Libros Proféticos",
-      "sub": "17 módulos · Isaías a Joel — en curso",
+      "sub": "21 módulos · Isaías a Miqueas — en curso",
       "color": "#7C4C9E",
       "modules": [
         { "n": 1, "title": "Isaías I — La Visión y el Anuncio del Mesías",         "es": "Isaías I · La Visión y el Mesías (Is 1–12)",       "file": "pro/mod01.json" },
@@ -95,7 +95,11 @@
         { "n": 14, "title": "Daniel I — La Fidelidad en Babilonia",              "es": "Daniel I · Fidelidad en Babilonia (Dn 1–6)",       "file": "pro/mod14.json" },
         { "n": 15, "title": "Daniel II — El Reino Eterno y la Sabiduría de Daniel", "es": "Daniel II · Reino Eterno (Dn 7–14)",             "file": "pro/mod15.json" },
         { "n": 16, "title": "Oseas — El Amor Fiel de Dios ante la Infidelidad de Israel", "es": "Oseas · El Amor Fiel de Dios",           "file": "pro/mod16.json" },
-        { "n": 17, "title": "Joel — El Día del Señor y el Don del Espíritu",     "es": "Joel · El Día del Señor",                          "file": "pro/mod17.json" }
+        { "n": 17, "title": "Joel — El Día del Señor y el Don del Espíritu",     "es": "Joel · El Día del Señor",                          "file": "pro/mod17.json" },
+        { "n": 18, "title": "Amós — La Justicia como Arroyo Perenne",           "es": "Amós · La Justicia como Arroyo",                   "file": "pro/mod18.json" },
+        { "n": 19, "title": "Abdías — La Soberbia de Edom y el Reinado de Dios", "es": "Abdías · Soberbia de Edom",                        "file": "pro/mod19.json" },
+        { "n": 20, "title": "Jonás — La Misericordia de Dios sobre Nínive",     "es": "Jonás · Misericordia sobre Nínive",                "file": "pro/mod20.json" },
+        { "n": 21, "title": "Miqueas — Practicar el Derecho, Amar la Bondad",   "es": "Miqueas · Derecho y Bondad",                       "file": "pro/mod21.json" }
       ]
     },
     { "code": "EVA", "name": "Evangelios",                     "color": "#2F8A87", "locked": true, "moduleCount": 10 },

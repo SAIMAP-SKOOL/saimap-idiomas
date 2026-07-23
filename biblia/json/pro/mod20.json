@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod20",
+  "module": 20,
+  "title": "Jonás — La Misericordia de Dios sobre Nínive",
+  "subtitle": "Jonás 1–4",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Jonás al recibir el encargo de ir a Nínive?",
+      "options": ["Huye en dirección contraria, hacia Tarsis, lejos del Señor", "Obedece de inmediato, sin ninguna duda", "Pide que otro profeta vaya en su lugar"],
+      "correct": 0,
+      "hint": "Bajó a Jafa y embarcó en un barco que iba a Tarsis.",
+      "explanation": "Jon 1,3: «Jonás se puso en marcha para huir a Tarsis, lejos del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Jonás se puso en marcha para huir a Tarsis, lejos del ___.",
+      "options": ["Señor", "mar", "templo"],
+      "answer": "Señor",
+      "explanation": "Jon 1,3: esta huida inicial expresa la resistencia de Jonás a la misión que Dios le confía."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jon 1,3 · La huida de Jonás",
+      "direction": "es-es",
+      "tiles": ["Jonás", "se", "puso", "en", "marcha", "para", "huir", "a", "Tarsis", "Nínive", "Jerusalén"],
+      "answer": "Jonás se puso en marcha para huir a Tarsis",
+      "explanation": "Jon 1,3: esta huida inicial expresa la resistencia de Jonás a la misión que Dios le confía."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Huir a Tarsis, lejos del Señor", "es": "La resistencia inicial de Jonás a su misión" },
+        { "en": "Un gran pez que se lo traga", "es": "El rescate inesperado de Jonás" },
+        { "en": "La salvación viene del Señor", "es": "La confesión central de la oración de Jonás" },
+        { "en": "Nínive será arrasada", "es": "El anuncio profético que provoca la conversión" },
+        { "en": "¿No he de compadecerme yo de Nínive?", "es": "La misericordia universal de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué propone Jonás a los marineros para calmar la tormenta?",
+      "options": ["Que recen todos juntos a su propio Dios", "Que lo agarren y lo echen al mar, pues él es el culpable", "Que arrojen toda la carga y el equipaje del barco"],
+      "correct": 1,
+      "hint": "Antes habían echado suertes, y el resultado había señalado a Jonás.",
+      "explanation": "Jon 1,12: «agarradme, echadme al mar y se calmará. Bien sé que soy el culpable»."
+    },
+    {
+      "type": "gap",
+      "text": "Agarradme, echadme al mar y se ___.",
+      "options": ["calmará", "hundirá", "secará"],
+      "answer": "calmará",
+      "explanation": "Jon 1,12: Jonás asume su responsabilidad ante los marineros aterrorizados por la tormenta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jon 1,12 · La propuesta de Jonás",
+      "direction": "es-es",
+      "tiles": ["Agarradme", "echadme", "al", "mar", "y", "se", "calmará", "hundirá", "secará"],
+      "answer": "Agarradme echadme al mar y se calmará",
+      "explanation": "Jon 1,12: Jonás asume su responsabilidad ante los marineros aterrorizados por la tormenta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionan los marineros tras calmarse el mar, en Jonás 1?",
+      "options": ["Se olvidan rápidamente de todo lo ocurrido", "Culpan a Jonás por haberlos puesto en peligro", "Temen profundamente al Señor y le ofrecen un sacrificio"],
+      "correct": 2,
+      "hint": "El texto añade que también «le hicieron votos».",
+      "explanation": "Jon 1,16: «aquellos hombres temieron profundamente al Señor, le ofrecieron un sacrificio y le hicieron votos»."
+    },
+    {
+      "type": "gap",
+      "text": "Temieron profundamente al Señor y le ofrecieron un ___.",
+      "options": ["sacrificio", "tesoro", "juramento"],
+      "answer": "sacrificio",
+      "explanation": "Jon 1,16: estos marineros paganos terminan reconociendo y temiendo al Señor."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Huir a Tarsis", "es": "Jonás 1,3" },
+        { "en": "Un gran pez", "es": "Jonás 2,1" },
+        { "en": "La salvación viene del Señor", "es": "Jonás 2,10" },
+        { "en": "Nínive será arrasada", "es": "Jonás 3,4" },
+        { "en": "¿No he de compadecerme yo de Nínive?", "es": "Jonás 4,11" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dispone el Señor para salvar a Jonás, tras ser arrojado al mar?",
+      "options": ["Un gran pez que se lo traga, donde permanece tres días y tres noches", "Una tabla flotante que lo lleva hasta la costa", "Un barco de pescadores que pasaba por allí cerca"],
+      "correct": 0,
+      "hint": "Desde el vientre del pez, Jonás elevó una oración al Señor.",
+      "explanation": "Jon 2,1: «el Señor envió un gran pez para que se tragase a Jonás, y allí estuvo Jonás... durante tres días con sus noches»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor envió un gran pez para que se ___ a Jonás.",
+      "options": ["tragase", "ahogase", "llevase"],
+      "answer": "tragase",
+      "explanation": "Jon 2,1: este rescate inesperado convierte el castigo en una oportunidad de conversión para Jonás."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jon 2,1 · El gran pez que rescata a Jonás",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "envió", "un", "gran", "pez", "barco", "ángel"],
+      "answer": "El Señor envió un gran pez",
+      "explanation": "Jon 2,1: este rescate inesperado convierte el castigo en una oportunidad de conversión para Jonás."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué afirmación central concluye la oración de Jonás desde el vientre del pez?",
+      "options": ["Que la salvación depende únicamente del propio esfuerzo", "Que la salvación viene del Señor", "Que nadie puede ser salvado más de una vez"],
+      "correct": 1,
+      "hint": "Antes de esto, Jonás promete: «te ofreceré un sacrificio; cumpliré mi promesa».",
+      "explanation": "Jon 2,10: «la salvación viene del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "La salvación viene del ___.",
+      "options": ["Señor", "mar", "pez"],
+      "answer": "Señor",
+      "explanation": "Jon 2,10: esta confesión final resume el sentido de toda la oración de Jonás."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jon 2,10 · La confesión central de la oración",
+      "direction": "es-es",
+      "tiles": ["La", "salvación", "viene", "del", "Señor", "mar", "pez"],
+      "answer": "La salvación viene del Señor",
+      "explanation": "Jon 2,10: esta confesión final resume el sentido de toda la oración de Jonás."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Jonás", "es": "Profeta enviado a una ciudad extranjera, no a Israel" },
+        { "en": "Nínive", "es": "Capital del imperio asirio, enemigo tradicional de Israel" },
+        { "en": "Los marineros paganos", "es": "Terminan temiendo al Señor y ofreciéndole sacrificio" },
+        { "en": "El libro de Jonás", "es": "Se distingue de otros profetas por su forma de relato narrativo" },
+        { "en": "El tema central del libro", "es": "La misericordia de Dios se extiende también a los no israelitas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reacciona Nínive al escuchar el anuncio de Jonás, en el capítulo 3?",
+      "options": ["Lo ignoran por completo, sin ningún cambio de conducta", "Expulsan a Jonás violentamente de la ciudad", "Creen en Dios y proclaman un ayuno, desde el mayor hasta el menor"],
+      "correct": 2,
+      "hint": "Incluso el rey «se levantó de su trono» y se cubrió con sayal.",
+      "explanation": "Jon 3,5: «los ninivitas creyeron en Dios, proclamaron un ayuno y se vistieron con rudo sayal, desde el más importante al menor»."
+    },
+    {
+      "type": "gap",
+      "text": "Dentro de cuarenta días, Nínive será ___.",
+      "options": ["arrasada", "perdonada", "olvidada"],
+      "answer": "arrasada",
+      "explanation": "Jon 3,4: este anuncio profético de Jonás provoca la conversión inmediata de toda la ciudad."
+    },
+    {
+      "type": "gap",
+      "text": "Los ninivitas creyeron en Dios, proclamaron un ___.",
+      "options": ["ayuno", "banquete", "desfile"],
+      "answer": "ayuno",
+      "explanation": "Jon 3,5: esta respuesta unánime de la ciudad muestra la sinceridad de su conversión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jon 3,4 · El anuncio de Jonás",
+      "direction": "es-es",
+      "tiles": ["Dentro", "de", "cuarenta", "días", "Nínive", "será", "arrasada", "perdonada", "olvidada"],
+      "answer": "Dentro de cuarenta días Nínive será arrasada",
+      "explanation": "Jon 3,4: este anuncio profético de Jonás provoca la conversión inmediata de toda la ciudad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Dios al ver la conversión sincera de Nínive?",
+      "options": ["Se arrepiente de la desgracia que había determinado enviarles, y no la ejecuta", "Destruye la ciudad de todos modos, sin ninguna excepción", "Exige pruebas adicionales antes de conceder el perdón"],
+      "correct": 0,
+      "hint": "El texto dice que Dios «vio su comportamiento, cómo habían abandonado el mal camino».",
+      "explanation": "Jon 3,10: «Dios se arrepintió de la desgracia que había determinado enviarles. Así que no la ejecutó»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jon 3,10 · Dios se arrepiente del castigo",
+      "direction": "es-es",
+      "tiles": ["Se", "arrepintió", "de", "la", "desgracia", "que", "había", "determinado", "confirmó", "aceleró"],
+      "answer": "Se arrepintió de la desgracia que había determinado",
+      "explanation": "Jon 3,10: este cambio de Dios responde a la conversión sincera de toda la ciudad de Nínive."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué motivo da Jonás para haber huido inicialmente a Tarsis?",
+      "options": ["Que temía el largo y peligroso viaje hasta Nínive", "Que sabía que Dios es bondadoso, compasivo y se arrepiente del mal", "Que no conocía el idioma de los habitantes de Nínive"],
+      "correct": 1,
+      "hint": "Jonás añade: «vale más morir que vivir».",
+      "explanation": "Jon 4,2: «bien sé que eres un Dios bondadoso, compasivo, paciente y misericordioso, que te arrepientes del mal»."
+    },
+    {
+      "type": "gap",
+      "text": "Sé que eres un Dios bondadoso, compasivo, paciente y ___.",
+      "options": ["misericordioso", "severo", "lejano"],
+      "answer": "misericordioso",
+      "explanation": "Jon 4,2: esta confesión revela que Jonás huyó precisamente porque conocía bien el carácter de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jon 4,2 · El carácter de Dios",
+      "direction": "es-es",
+      "tiles": ["Eres", "un", "Dios", "bondadoso", "compasivo", "paciente", "severo", "lejano"],
+      "answer": "Eres un Dios bondadoso compasivo paciente",
+      "explanation": "Jon 4,2: esta confesión revela que Jonás huyó precisamente porque conocía bien el carácter de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué pregunta final se cierra el libro de Jonás?",
+      "options": ["¿Por qué los ninivitas no creyeron mucho antes?", "¿Cuándo volverá Jonás finalmente a su tierra?", "¿No he de compadecerme yo de Nínive, la gran ciudad?"],
+      "correct": 2,
+      "hint": "Dios compara el disgusto de Jonás por el ricino con la suerte de toda una ciudad.",
+      "explanation": "Jon 4,11: «¿y no me he de compadecer yo de Nínive, la gran ciudad, donde hay más de ciento veinte mil personas?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿No he de compadecerme yo de Nínive, la gran ___?",
+      "options": ["ciudad", "nación", "familia"],
+      "answer": "ciudad",
+      "explanation": "Jon 4,11: esta pregunta final abierta expresa la compasión divina que se extiende a toda la creación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jon 4,11 · La pregunta final del libro",
+      "direction": "es-es",
+      "tiles": ["No", "he", "de", "compadecerme", "yo", "de", "Nínive", "olvidarme", "alejarme"],
+      "answer": "No he de compadecerme yo de Nínive",
+      "explanation": "Jon 4,11: esta pregunta final abierta expresa la compasión divina que se extiende a toda la creación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La huida de la vocación", "es": "No libra a nadie de la llamada de Dios" },
+        { "en": "El arrepentimiento sincero", "es": "Puede cambiar el destino anunciado sobre un pueblo entero" },
+        { "en": "La misericordia de Dios", "es": "Alcanza incluso a quienes el profeta consideraba enemigos" },
+        { "en": "El enfado de Jonás", "es": "Revela las propias limitaciones humanas ante la generosidad de Dios" },
+        { "en": "La compasión divina", "es": "Se extiende a toda la creación, personas y animales" }
+      ]
+    }
+  ]
+}

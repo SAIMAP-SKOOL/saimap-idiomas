@@ -1,0 +1,251 @@
+{
+  "id": "pro-mod21",
+  "module": 21,
+  "title": "Miqueas — Practicar el Derecho, Amar la Bondad",
+  "subtitle": "Miqueas 1–7",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué visión describe Miqueas 4 sobre el monte de la casa del Señor?",
+      "options": ["Que todas las naciones confluirán hacia él para aprender sus caminos", "Que quedará oculto para siempre a los ojos de los pueblos", "Que será destruido antes que cualquier otro templo"],
+      "correct": 0,
+      "hint": "El texto añade: «de Sión saldrá la ley, la palabra del Señor».",
+      "explanation": "Miq 4,1-2: «hacia él confluirán todas las naciones... venid, subamos al monte del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Hacia él confluirán todas las ___.",
+      "options": ["naciones", "ciudades", "riquezas"],
+      "answer": "naciones",
+      "explanation": "Miq 4,1: esta visión de paz universal es casi idéntica a un pasaje paralelo de Isaías 2."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Miq 4,1 · La visión de paz universal",
+      "direction": "es-es",
+      "tiles": ["Hacia", "él", "confluirán", "todas", "las", "naciones", "ciudades", "riquezas"],
+      "answer": "Hacia él confluirán todas las naciones",
+      "explanation": "Miq 4,1: esta visión de paz universal es casi idéntica a un pasaje paralelo de Isaías 2."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Todas las naciones confluirán", "es": "La visión de paz universal" },
+        { "en": "Espadas convertidas en arados", "es": "El fin de la guerra entre los pueblos" },
+        { "en": "De Belén saldrá el que ha de gobernar", "es": "La esperanza mesiánica ligada a un pueblo pequeño" },
+        { "en": "Practicar el derecho, amar la bondad", "es": "El resumen de lo que Dios pide al ser humano" },
+        { "en": "Arrojará nuestros pecados al mar", "es": "La misericordia definitiva de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Miqueas la paz universal entre las naciones, en el capítulo 4?",
+      "options": ["Con la imagen de un gran banquete compartido entre pueblos", "Con espadas convertidas en arados y lanzas en podaderas", "Con las murallas derribadas entre todos los pueblos"],
+      "correct": 1,
+      "hint": "El texto añade que «no se adiestrarán para la guerra».",
+      "explanation": "Miq 4,3: «de las espadas forjarán arados, de las lanzas, podaderas»."
+    },
+    {
+      "type": "gap",
+      "text": "De las espadas forjarán arados, de las lanzas, ___.",
+      "options": ["podaderas", "escudos", "cetros"],
+      "answer": "podaderas",
+      "explanation": "Miq 4,3: esta imagen de paz universal es casi idéntica a un pasaje paralelo de Isaías 2,4."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Miq 4,3 · El fin de la guerra",
+      "direction": "es-es",
+      "tiles": ["De", "las", "espadas", "forjarán", "arados", "escudos", "cetros"],
+      "answer": "De las espadas forjarán arados",
+      "explanation": "Miq 4,3: esta imagen de paz universal es casi idéntica a un pasaje paralelo de Isaías 2,4."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia Miqueas sobre Belén Efratá, aunque sea \"pequeña entre los clanes de Judá\"?",
+      "options": ["Que será destruida precisamente a causa de su pequeñez", "Que nunca llegará a tener ninguna importancia histórica", "Que de ella saldrá el que ha de gobernar Israel"],
+      "correct": 2,
+      "hint": "Este versículo sería citado en el evangelio de Mateo sobre el nacimiento de Jesús.",
+      "explanation": "Miq 5,1: «y tú, Belén Efratá, pequeña entre los clanes de Judá, de ti voy a sacar al que ha de gobernar Israel»."
+    },
+    {
+      "type": "gap",
+      "text": "Y tú, Belén Efratá, de ti voy a sacar al que ha de ___ Israel.",
+      "options": ["gobernar", "destruir", "abandonar"],
+      "answer": "gobernar",
+      "explanation": "Miq 5,1: esta profecía sería citada siglos después en el evangelio de Mateo sobre el nacimiento de Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Miq 5,1 · La esperanza mesiánica de Belén",
+      "direction": "es-es",
+      "tiles": ["De", "ti", "voy", "a", "sacar", "al", "que", "ha", "de", "gobernar", "Israel", "destruir", "abandonar"],
+      "answer": "De ti voy a sacar al que ha de gobernar Israel",
+      "explanation": "Miq 5,1: esta profecía sería citada siglos después en el evangelio de Mateo sobre el nacimiento de Jesús."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Todas las naciones confluirán", "es": "Miqueas 4,1" },
+        { "en": "De Belén saldrá el que ha de gobernar", "es": "Miqueas 5,1" },
+        { "en": "Practicar el derecho, amar la bondad", "es": "Miqueas 6,8" },
+        { "en": "El Señor es mi luz", "es": "Miqueas 7,8" },
+        { "en": "Arrojará nuestros pecados al mar", "es": "Miqueas 7,19" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué preguntas retóricas se hace el pueblo sobre cómo presentarse ante Dios, en Miqueas 6?",
+      "options": ["Si bastan los holocaustos, o incluso ofrecer al propio primogénito", "Si es mejor no presentarse nunca ante Dios", "Si Dios prefiere el silencio absoluto en el culto"],
+      "correct": 0,
+      "hint": "Estas preguntas preparan la respuesta central del capítulo, en el versículo siguiente.",
+      "explanation": "Miq 6,6-7: «¿me presentaré con holocaustos?... ¿le ofreceré mi primogénito por mi falta?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Le ofreceré mi primogénito por mi ___?",
+      "options": ["falta", "riqueza", "orgullo"],
+      "answer": "falta",
+      "explanation": "Miq 6,7: esta pregunta retórica prepara la respuesta central de todo el capítulo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué es \"lo bueno\" que el Señor pide, según el versículo más célebre de Miqueas?",
+      "options": ["Multiplicar los sacrificios rituales cada día del año", "Practicar el derecho, amar la bondad y caminar humildemente con Dios", "Construir templos cada vez más grandes y ricos"],
+      "correct": 1,
+      "hint": "Este versículo es considerado un resumen de toda la ética profética.",
+      "explanation": "Miq 6,8: «se te ha hecho saber lo que es bueno... practicar el derecho, amar la bondad, y caminar humildemente con tu Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Practicar el derecho, amar la bondad, y caminar humildemente con tu ___.",
+      "options": ["Dios", "pueblo", "rey"],
+      "answer": "Dios",
+      "explanation": "Miq 6,8: este versículo se considera un resumen de toda la ética profética del Antiguo Testamento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Miq 6,8 · El resumen de la ética profética",
+      "direction": "es-es",
+      "tiles": ["Practicar", "el", "derecho", "amar", "la", "bondad", "riqueza", "poder"],
+      "answer": "Practicar el derecho amar la bondad",
+      "explanation": "Miq 6,8: este versículo se considera un resumen de toda la ética profética del Antiguo Testamento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Miq 6,8 · Caminar con Dios",
+      "direction": "es-es",
+      "tiles": ["Caminar", "humildemente", "con", "tu", "Dios", "pueblo", "rey"],
+      "answer": "Caminar humildemente con tu Dios",
+      "explanation": "Miq 6,8: este versículo se considera un resumen de toda la ética profética del Antiguo Testamento."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento con su contexto o dato",
+      "pairs": [
+        { "en": "Miqueas", "es": "Profeta de Moréset, contemporáneo de Isaías" },
+        { "en": "Miqueas 4,1-3", "es": "Casi idéntico a un pasaje de Isaías 2,2-4" },
+        { "en": "Miqueas 5,1", "es": "Fue citado en el evangelio de Mateo sobre el nacimiento de Jesús en Belén" },
+        { "en": "Miqueas 6,8", "es": "Considerado un resumen de toda la ética profética" },
+        { "en": "El libro entero", "es": "Combina denuncia social, esperanza mesiánica y confianza final en el perdón" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabras de confianza responde Miqueas a quienes se alegran de su caída, en el capítulo 7?",
+      "options": ["Que nunca podrá levantarse de nuevo por sí mismo", "Que buscará la manera de vengarse de sus enemigos", "Que si cayó, se levantará, porque el Señor es su luz en las tinieblas"],
+      "correct": 2,
+      "hint": "El texto añade: «no te alegres por mi causa, enemiga mía».",
+      "explanation": "Miq 7,8: «si caí me levantaré; si vivo en tinieblas, el Señor es mi luz»."
+    },
+    {
+      "type": "gap",
+      "text": "Si vivo en tinieblas, el Señor es mi ___.",
+      "options": ["luz", "fuerza", "escudo"],
+      "answer": "luz",
+      "explanation": "Miq 7,8: esta confianza se apoya en que Dios mismo es la luz del creyente, incluso en la caída."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Miq 7,8 · La confianza en medio de la caída",
+      "direction": "es-es",
+      "tiles": ["Si", "vivo", "en", "tinieblas", "el", "Señor", "es", "mi", "luz", "fuerza", "escudo"],
+      "answer": "Si vivo en tinieblas el Señor es mi luz",
+      "explanation": "Miq 7,8: esta confianza se apoya en que Dios mismo es la luz del creyente, incluso en la caída."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué pregunta admirada se acerca al final el libro de Miqueas, sobre el perdón de Dios?",
+      "options": ["¿Qué Dios hay como tú, capaz de perdonar el pecado?", "¿Quién puede resistir la ira eterna de Dios?", "¿Cuándo terminará por fin el castigo de nuestro pueblo?"],
+      "correct": 0,
+      "hint": "El texto añade: «no conserva para siempre su cólera, pues le gusta la misericordia».",
+      "explanation": "Miq 7,18: «¿qué Dios hay como tú, capaz de perdonar el pecado, de pasar por alto la falta?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Qué Dios hay como tú, capaz de perdonar el ___?",
+      "options": ["pecado", "tiempo", "pasado"],
+      "answer": "pecado",
+      "explanation": "Miq 7,18: esta pregunta admirada expresa el asombro ante la misericordia única de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Miq 7,18 · El asombro ante la misericordia de Dios",
+      "direction": "es-es",
+      "tiles": ["Qué", "Dios", "hay", "como", "tú", "capaz", "de", "perdonar", "el", "pecado", "tiempo", "pasado"],
+      "answer": "Qué Dios hay como tú capaz de perdonar el pecado",
+      "explanation": "Miq 7,18: esta pregunta admirada expresa el asombro ante la misericordia única de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Miqueas el perdón definitivo de los pecados, al cierre del libro?",
+      "options": ["Los quemará hasta las cenizas ante todo el pueblo reunido", "Los arrojará a lo hondo del mar", "Los borrará solo de manera temporal y parcial"],
+      "correct": 1,
+      "hint": "El texto añade: «concederás a Jacob tu fidelidad y a Abrahán tu bondad».",
+      "explanation": "Miq 7,19: «volverá a compadecerse de nosotros, destrozará nuestras culpas, arrojará nuestros pecados a lo hondo del mar»."
+    },
+    {
+      "type": "gap",
+      "text": "Arrojará nuestros pecados a lo hondo del ___.",
+      "options": ["mar", "pozo", "desierto"],
+      "answer": "mar",
+      "explanation": "Miq 7,19: esta imagen describe el perdón de Dios como algo definitivo, no parcial ni temporal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Miq 7,19 · El perdón definitivo",
+      "direction": "es-es",
+      "tiles": ["Arrojará", "nuestros", "pecados", "a", "lo", "hondo", "del", "mar", "pozo", "desierto"],
+      "answer": "Arrojará nuestros pecados a lo hondo del mar",
+      "explanation": "Miq 7,19: esta imagen describe el perdón de Dios como algo definitivo, no parcial ni temporal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Miqueas su propia fuerza para profetizar, en el capítulo 3?",
+      "options": ["Como algo heredado de una familia sacerdotal reconocida", "Como fruto exclusivo de largos años de estudio de la ley", "Como fuerza llena del espíritu de Dios, de derecho y coraje"],
+      "correct": 2,
+      "hint": "Esta fuerza le permite «anunciar a Jacob su culpa, a Israel su pecado».",
+      "explanation": "Miq 3,8: «yo estoy lleno de fuerza —por el espíritu de Dios—, de derecho y coraje»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo estoy lleno de fuerza, por el espíritu de ___.",
+      "options": ["Dios", "mi pueblo", "mi casa"],
+      "answer": "Dios",
+      "explanation": "Miq 3,8: esta afirmación distingue a Miqueas de los falsos profetas denunciados en el mismo capítulo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La denuncia de la injusticia", "es": "Se dirige especialmente a los líderes y jueces corruptos" },
+        { "en": "La esperanza mesiánica", "es": "Surge precisamente de lo pequeño y aparentemente insignificante" },
+        { "en": "La verdadera religión", "es": "Se resume en la justicia, la misericordia y la humildad" },
+        { "en": "La confianza en medio de la caída", "es": "Se apoya en que Dios mismo es la luz del creyente" },
+        { "en": "El perdón de Dios", "es": "Es descrito como algo definitivo, no parcial ni temporal" }
+      ]
+    }
+  ]
+}
