@@ -1,0 +1,251 @@
+{
+  "id": "his-mod06",
+  "module": 6,
+  "title": "1 Samuel I — Samuel y el Primer Rey",
+  "subtitle": "1 Samuel 1–15",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué voto hizo Ana en Siló al pedir un hijo?",
+      "options": ["Ofrecerlo al Señor toda su vida", "Construir un altar en su nombre", "Peregrinar a Siló cada año"],
+      "correct": 0,
+      "hint": "Su promesa afecta a todo el futuro del niño, no solo a su nacimiento.",
+      "explanation": "1Sam 1:11: Ana prometió que si el Señor le concedía un hijo varón, lo ofrecería a su servicio. Ese hijo fue Samuel, que creció junto al sacerdote Elí en el santuario."
+    },
+    {
+      "type": "gap",
+      "text": "El sacerdote Elí creyó que Ana estaba ___ al verla mover solo los labios en su oración.",
+      "options": ["borracha", "loca", "enferma"],
+      "answer": "borracha",
+      "explanation": "1Sam 1:13-14: Ana oraba en silencio, moviendo los labios sin voz, y Elí la reprendió pensando que estaba ebria, hasta que ella le explicó su angustia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su descripción",
+      "pairs": [
+        { "en": "Ana", "es": "Madre estéril que hizo un voto en Siló" },
+        { "en": "Elí", "es": "Sacerdote que crio a Samuel en el santuario" },
+        { "en": "Jofní y Pinjás", "es": "Hijos desalmados de Elí" },
+        { "en": "Samuel", "es": "Niño consagrado al Señor desde su nacimiento" },
+        { "en": "Saúl", "es": "El primer rey ungido de Israel" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 1:20 · Por qué Ana llamó Samuel a su hijo",
+      "direction": "es-es",
+      "tiles": ["Se", "lo", "pedí", "al", "Señor", "regalo", "prometí"],
+      "answer": "Se lo pedí al Señor",
+      "explanation": "1Sam 1:20: el nombre de Samuel recuerda el modo en que Ana lo obtuvo — pidiéndoselo al Señor tras años de esterilidad y aflicción."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se dice de los hijos de Elí, Jofní y Pinjás?",
+      "options": ["Que servían con fidelidad en el santuario", "Que sucedieron a su padre como jueces", "Que eran desalmados y no reconocían al Señor"],
+      "correct": 2,
+      "hint": "Su comportamiento en el santuario contrasta con la piedad de Samuel niño.",
+      "explanation": "1Sam 2:12: «los hijos de Elí eran unos desalmados, que no reconocían al Señor» — robaban las porciones de los sacrificios y cometían graves abusos, lo que atrajo la condena divina sobre la casa de Elí."
+    },
+    {
+      "type": "gap",
+      "text": "Cuando el Señor llamó a Samuel de noche, él respondió: «Habla, que tu ___ escucha».",
+      "options": ["siervo", "hijo", "profeta"],
+      "answer": "siervo",
+      "explanation": "1Sam 3:10: tras confundir tres veces la voz de Dios con la de Elí, Samuel aprende a responder correctamente a la llamada nocturna del Señor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 3:10 · La respuesta de Samuel a la llamada del Señor",
+      "direction": "es-es",
+      "tiles": ["Habla", "que", "tu", "siervo", "escucha", "Señor", "espera"],
+      "answer": "Habla que tu siervo escucha",
+      "explanation": "1Sam 3:9-10: siguiendo el consejo de Elí, Samuel responde así a la voz que lo llama por su nombre — el inicio de su vocación profética."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió cuando los filisteos capturaron el arca de la alianza?",
+      "options": ["Israel venció igualmente en la siguiente batalla", "El arca fue destruida en el campo de batalla", "Murieron Jofní, Pinjás y el anciano Elí"],
+      "correct": 2,
+      "hint": "La noticia de la captura del arca fue lo que provocó una de esas muertes.",
+      "explanation": "1Sam 4:10-18: Israel fue derrotado, Jofní y Pinjás murieron en la batalla, y Elí, de noventa y ocho años, murió al recibir la noticia de la pérdida del arca."
+    },
+    {
+      "type": "gap",
+      "text": "La nuera de Pinjás llamó a su hijo ___, «porque ha sido desterrada la gloria de Israel».",
+      "options": ["Icabod", "Samuel", "Ébenézer"],
+      "answer": "Icabod",
+      "explanation": "1Sam 4:21-22: el nombre Icabod («sin gloria») recuerda la pérdida del arca, símbolo de la presencia de Dios en medio de Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su acontecimiento",
+      "pairs": [
+        { "en": "Siló", "es": "Ana hizo su voto ante el sacerdote Elí" },
+        { "en": "Afec", "es": "Israel fue derrotado y el arca capturada" },
+        { "en": "Asdod", "es": "La estatua de Dagón cayó ante el arca" },
+        { "en": "Bet Semes", "es": "Las vacas devolvieron el arca a Israel" },
+        { "en": "Mispá", "es": "Saúl fue proclamado rey ante el pueblo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurrió a la estatua del dios Dagón cuando el arca estuvo en su templo?",
+      "options": ["Permaneció intacta durante toda la noche", "Cayó rota, con la cabeza y las manos cortadas", "Fue trasladada a otro templo filisteo"],
+      "correct": 1,
+      "hint": "Ocurrió dos veces seguidas, y la segunda fue peor que la primera.",
+      "explanation": "1Sam 5:3-4: Dagón apareció caído ante el arca; al colocarlo de nuevo en su sitio, a la mañana siguiente apareció otra vez caído, esta vez «con la cabeza y las palmas de las manos cortadas»."
+    },
+    {
+      "type": "gap",
+      "text": "Los filisteos devolvieron el arca en un carro tirado por ___.",
+      "options": ["vacas", "bueyes", "asnos"],
+      "answer": "vacas",
+      "explanation": "1Sam 6:7-12: pusieron el arca en un carro nuevo tirado por dos vacas que, sin guía humana, se encaminaron derechas hacia Bet Semes, territorio israelita."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 7:12 · El nombre que Samuel dio a la piedra conmemorativa",
+      "direction": "es-es",
+      "tiles": ["Hasta", "aquí", "nos", "ha", "socorrido", "el", "Señor", "ayudado", "guiado"],
+      "answer": "Hasta aquí nos ha socorrido el Señor",
+      "explanation": "1Sam 7:12: Samuel erige la piedra Ebenézer, entre Mispá y Sen, tras una victoria sobre los filisteos, en agradecimiento por la ayuda constante de Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pidió el pueblo a Samuel en su vejez?",
+      "options": ["Un rey que los gobernara como a las demás naciones", "Que sus hijos lo sucedieran como jueces", "La reconstrucción del santuario de Siló"],
+      "correct": 0,
+      "hint": "Los otros dos rechazan explícitamente esa idea; solo una encaja con la advertencia posterior de Samuel.",
+      "explanation": "1Sam 8:5: «Nómbranos un rey, para que nos gobierne, como se hace en todas las naciones». Samuel lo vive como un rechazo a Dios como único rey, y advierte de las cargas que un rey humano impondría."
+    },
+    {
+      "type": "gap",
+      "text": "Samuel advirtió que el rey se llevaría a los hijos del pueblo para destinarlos a su ___.",
+      "options": ["carroza", "ejército", "palacio"],
+      "answer": "carroza",
+      "explanation": "1Sam 8:11-17: Samuel enumera los abusos que traerá la monarquía —hijos reclutados, tierras confiscadas, tributos— antes de que el pueblo insista en tener un rey."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el texto el aspecto físico de Saúl?",
+      "options": ["Bajo y de complexión fuerte", "Sobrepasaba a todo el pueblo de hombros para arriba", "De edad avanzada y cabello canoso"],
+      "correct": 1,
+      "hint": "Su estatura llamaba la atención entre toda la asamblea.",
+      "explanation": "1Sam 9:2: Saúl «de hombros para arriba, sobrepasaba a todo el pueblo» — un detalle que subraya su idoneidad exterior para ser el primer rey."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada objeto o gesto con su significado",
+      "pairs": [
+        { "en": "El frasco de óleo", "es": "Consagra a Saúl como rey ungido" },
+        { "en": "La piedra Ebenézer", "es": "Memorial de la ayuda del Señor" },
+        { "en": "El arca capturada", "es": "Da nombre a Icabod, «sin gloria»" },
+        { "en": "Las vacas del carro", "es": "Señal de que Dios devolvía el arca" },
+        { "en": "El sorteo en Mispá", "es": "Elección pública del primer rey" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 9:2 · La estatura de Saúl",
+      "direction": "es-es",
+      "tiles": ["Sobrepasaba", "a", "todo", "el", "pueblo", "de", "hombros", "para", "arriba", "espada", "fuerza"],
+      "answer": "Sobrepasaba a todo el pueblo de hombros para arriba",
+      "explanation": "1Sam 9:2: este detalle físico marca a Saúl como una figura llamativa entre el pueblo, incluso antes de que Samuel lo ungiera en secreto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento de Saúl con su significado",
+      "pairs": [
+        { "en": "La unción en secreto", "es": "Samuel lo consagra rey con óleo" },
+        { "en": "La proclamación en Mispá", "es": "El pueblo aclama «¡Viva el rey!»" },
+        { "en": "La victoria en Jabés de Galaad", "es": "Confirma su autoridad ante Israel" },
+        { "en": "El sacrificio impaciente", "es": "Su primer gran pecado como rey" },
+        { "en": "Perdonar a Agag", "es": "El pecado que le cuesta el trono" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 10:24 · La aclamación del pueblo tras la proclamación de Saúl",
+      "direction": "es-es",
+      "tiles": ["Viva", "el", "rey", "Saúl", "Samuel", "siempre"],
+      "answer": "Viva el rey",
+      "explanation": "1Sam 10:24: en Mispá, tras la elección por sorteo, todo el pueblo aclama a Saúl como su primer rey."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Contra quién obtuvo Saúl su primera gran victoria como rey?",
+      "options": ["Los filisteos, en Micmás", "Los amonitas, en Jabés de Galaad", "Los amalecitas, en el Négueb"],
+      "correct": 1,
+      "hint": "El rey amonita se llamaba Najás.",
+      "explanation": "1Sam 11: Saúl derrotó a Najás, rey de los amonitas, y liberó Jabés de Galaad, victoria que confirmó su liderazgo ante todo Israel."
+    },
+    {
+      "type": "gap",
+      "text": "El primer pecado de Saúl fue ofrecer él mismo el ___ sin esperar a Samuel.",
+      "options": ["holocausto", "diezmo", "voto"],
+      "answer": "holocausto",
+      "explanation": "1Sam 13:8-13: impaciente ante la tardanza de Samuel y la desbandada de sus tropas, Saúl usurpó la función sacerdotal, un acto de desobediencia grave."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hicieron Jonatán y su escudero contra la guarnición filistea?",
+      "options": ["La atacaron ellos solos, escalando un desfiladero", "Negociaron una tregua temporal", "Esperaron refuerzos del ejército de Saúl"],
+      "correct": 0,
+      "hint": "Actuaron sin avisar siquiera a su padre Saúl.",
+      "explanation": "1Sam 14:1-14: Jonatán y su escudero, confiando en que «nada impide al Señor salvar con muchos o con pocos», treparon solos hasta la guarnición filistea y mataron a unos veinte hombres, sembrando el pánico."
+    },
+    {
+      "type": "gap",
+      "text": "Dios mandó a Saúl exterminar por completo a los ___, sin perdonar ni siquiera a su rey.",
+      "options": ["amalecitas", "filisteos", "moabitas"],
+      "answer": "amalecitas",
+      "explanation": "1Sam 15:1-3: la orden divina era total; Saúl, sin embargo, perdonó al rey Agag y lo mejor del ganado, desobedeciendo el mandato del Señor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 15:22 · La respuesta de Samuel al pecado de Saúl",
+      "direction": "es-es",
+      "tiles": ["La", "obediencia", "vale", "más", "que", "el", "sacrificio", "oro", "ayuno"],
+      "answer": "La obediencia vale más que el sacrificio",
+      "explanation": "1Sam 15:22-23: Samuel rechaza la excusa de Saúl (había reservado ganado para sacrificios) con esta sentencia, antes de anunciarle la pérdida definitiva del reino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le anunció Samuel a Saúl tras el episodio de Agag?",
+      "options": ["Que tendría una segunda oportunidad si se arrepentía", "Que el Señor le había arrancado el reino de Israel", "Que su hijo Jonatán heredaría el trono sin problema"],
+      "correct": 1,
+      "hint": "Solo una de las opciones coincide con la firmeza del rechazo definitivo de Samuel.",
+      "explanation": "1Sam 15:28: «El Señor te ha arrancado hoy el reino de Israel, y se lo ha dado a otro mejor que tú» — el rechazo de Saúl es irrevocable, aunque siga reinando formalmente hasta su muerte."
+    },
+    {
+      "type": "gap",
+      "text": "Saúl confesó a Samuel: «He pecado, desobedeciendo el ___ del Señor».",
+      "options": ["mandato", "consejo", "aviso"],
+      "answer": "mandato",
+      "explanation": "1Sam 15:24: la confesión de Saúl llega tarde — reconoce su falta por temor al pueblo, no por auténtico arrepentimiento, y el rechazo de Samuel se mantiene firme."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 2:1 · El comienzo del cántico de Ana",
+      "direction": "es-es",
+      "tiles": ["Mi", "corazón", "se", "regocija", "en", "el", "Señor", "alma", "llora"],
+      "answer": "Mi corazón se regocija en el Señor",
+      "explanation": "1Sam 2:1: el cántico de Ana, tras entregar a Samuel al servicio del santuario, celebra la fidelidad de Dios con quien confía en él — un precedente del Magníficat de María."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 14:14 · El primer golpe de Jonatán y su escudero",
+      "direction": "es-es",
+      "tiles": ["Fueron", "unos", "veinte", "hombres", "muertos", "cien", "mil"],
+      "answer": "Fueron unos veinte hombres",
+      "explanation": "1Sam 14:14: un número reducido, pero suficiente para sembrar el pánico en todo el campamento filisteo, que se sumó a un terremoto y desencadenó la desbandada."
+    },
+    {
+      "type": "gap",
+      "text": "El arca capturada provocó ___ entre los filisteos allá donde la llevaban.",
+      "options": ["tumores", "ceguera", "hambre"],
+      "answer": "tumores",
+      "explanation": "1Sam 5:6-12: allá donde trasladaban el arca, los filisteos sufrían una plaga de tumores, señal que finalmente los convenció de devolverla a Israel."
+    }
+  ]
+}

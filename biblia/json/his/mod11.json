@@ -1,0 +1,251 @@
+{
+  "id": "his-mod11",
+  "module": 11,
+  "title": "1 Reyes II — El Reino Dividido y Elías",
+  "subtitle": "1 Reyes 12–22",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo respondió Roboán a la petición del pueblo de aliviar el yugo impuesto por Salomón?",
+      "options": ["Respondió con dureza: «añadiré peso a vuestro yugo»", "Prometió aliviar las cargas y bajar los impuestos", "Consultó a los ancianos y siguió su consejo"],
+      "correct": 0,
+      "hint": "Su respuesta desencadena de inmediato la ruptura del reino.",
+      "explanation": "1Re 12: Roboán rechaza el consejo de los ancianos y sigue el de los jóvenes, respondiendo con dureza — el pueblo se rebela y aclama a Jeroboán como rey."
+    },
+    {
+      "type": "gap",
+      "text": "Roboán respondió al pueblo: mi padre os impuso un yugo pesado, yo añadiré ___ a vuestro yugo.",
+      "options": ["peso", "años", "impuestos"],
+      "answer": "peso",
+      "explanation": "1Re 12: esta respuesta soberbia provoca la ruptura definitiva entre las diez tribus del norte y la casa de David."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 12:16 · La respuesta del pueblo a Roboán",
+      "direction": "es-es",
+      "tiles": ["Qué", "parte", "tenemos", "con", "David", "rey", "Israel"],
+      "answer": "Qué parte tenemos con David",
+      "explanation": "1Re 12:16: con este grito, las diez tribus del norte rechazan a Roboán y se separan del reino de Judá, proclamando rey a Jeroboán."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Roboán", "es": "Hijo de Salomón, rey del reino del sur, Judá" },
+        { "en": "Jeroboán", "es": "Primer rey de las diez tribus del norte, Israel" },
+        { "en": "Elías", "es": "Profeta tesbita que anuncia la sequía" },
+        { "en": "Ajab", "es": "Rey de Israel que codicia la viña de Nabot" },
+        { "en": "Jezabel", "es": "Esposa de Ajab, trama la muerte de Nabot" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Jeroboán colocó un becerro de oro en Betel y otro en ___.",
+      "options": ["Dan", "Siquén", "Samaria"],
+      "answer": "Dan",
+      "explanation": "1Re 12:28-29: Jeroboán fabricó estos dos becerros para evitar que el pueblo del norte subiera a adorar al templo de Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué fabricó Jeroboán dos becerros de oro en Betel y Dan?",
+      "options": ["Para conmemorar su victoria sobre Roboán", "Para evitar que el pueblo subiera a adorar a Jerusalén", "Por orden directa de un profeta del norte"],
+      "correct": 1,
+      "hint": "Temía que el culto en Jerusalén acabara devolviendo la lealtad del pueblo a la casa de David.",
+      "explanation": "1Re 12:26-29: Jeroboán calcula que si el pueblo sigue subiendo al templo de Jerusalén, terminará volviendo a la casa de David; por eso instaura un culto propio en su territorio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 12:28 · Lo que Jeroboán dice sobre los becerros de oro",
+      "direction": "es-es",
+      "tiles": ["Este", "es", "tu", "dios", "Israel", "Señor", "rey"],
+      "answer": "Este es tu dios Israel",
+      "explanation": "1Re 12:28: con estas palabras, Jeroboán instaura un culto idolátrico paralelo en Betel y Dan, alejando al pueblo del templo de Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anunció Elías al rey Ajab en su primera aparición?",
+      "options": ["La muerte del rey en el plazo de un año", "Una gran victoria militar inminente", "Que no habría lluvia salvo por su palabra"],
+      "correct": 2,
+      "hint": "Su anuncio desencadena una larga sequía sobre todo el país.",
+      "explanation": "1Re 17:1: Elías, el tesbita de Galaad, anuncia a Ajab que no habrá «rocío ni lluvia si no es por la palabra de mi boca»."
+    },
+    {
+      "type": "gap",
+      "text": "Elías era originario de ___, en Galaad.",
+      "options": ["Tisbé", "Sarepta", "Jezreel"],
+      "answer": "Tisbé",
+      "explanation": "1Re 17:1: de ahí el título «el tesbita» con que se identifica a Elías en todo el ciclo de relatos que protagoniza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 17:1 · El anuncio de Elías al rey Ajab",
+      "direction": "es-es",
+      "tiles": ["No", "habrá", "lluvia", "si", "no", "es", "por", "mi", "palabra", "nunca"],
+      "answer": "No habrá lluvia si no es por mi palabra",
+      "explanation": "1Re 17:1: el anuncio de la sequía marca el inicio del gran conflicto de Elías contra el culto a Baal en Israel."
+    },
+    {
+      "type": "gap",
+      "text": "Junto al torrente Querit, unos ___ traían pan y carne a Elías.",
+      "options": ["cuervos", "ángeles", "pastores"],
+      "answer": "cuervos",
+      "explanation": "1Re 17:4-6: mientras duró la sequía en esa zona, Elías fue alimentado de forma prodigiosa junto al torrente Querit."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué prodigio ocurrió en casa de la viuda de Sarepta mientras acogía a Elías?",
+      "options": ["La harina y el aceite no se agotaron durante la sequía", "Su casa se llenó de oro y plata", "Recuperó la vista, que había perdido años atrás"],
+      "correct": 0,
+      "hint": "El milagro se repite día tras día mientras dura la escasez.",
+      "explanation": "1Re 17:14-16: «la orza de harina no se vaciará, la alcuza de aceite no se agotará» — la promesa se cumple hasta el fin de la sequía; después Elías resucita también al hijo de la viuda."
+    },
+    {
+      "type": "gap",
+      "text": "En Sarepta, la ___ de la viuda no se acabó durante toda la sequía.",
+      "options": ["harina", "agua", "leña"],
+      "answer": "harina",
+      "explanation": "1Re 17:14-16: el prodigio sostiene a Elías, a la viuda y a su hijo durante todo el tiempo que dura la falta de lluvia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 17:14 · La promesa de Elías a la viuda de Sarepta",
+      "direction": "es-es",
+      "tiles": ["La", "orza", "de", "harina", "no", "se", "vaciará", "agua", "oro"],
+      "answer": "La orza de harina no se vaciará",
+      "explanation": "1Re 17:14: el prodigio del alimento inagotable sostiene a la viuda, a su hijo y a Elías durante toda la sequía."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada milagro de Elías con su dato",
+      "pairs": [
+        { "en": "Los cuervos", "es": "Alimentan a Elías junto al torrente Querit" },
+        { "en": "La viuda de Sarepta", "es": "Su harina y aceite no se acaban" },
+        { "en": "El hijo de la viuda", "es": "Resucitado por Elías" },
+        { "en": "El fuego del cielo", "es": "Consume el sacrificio en el Carmelo" },
+        { "en": "El ángel", "es": "Alimenta a Elías en su huida al desierto" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Elías retó a los profetas de Baal a un sacrificio en el monte ___.",
+      "options": ["Carmelo", "Horeb", "Sinaí"],
+      "answer": "Carmelo",
+      "explanation": "1Re 18: el desafío pretendía demostrar públicamente cuál era el verdadero Dios de Israel, ante cuatrocientos cincuenta profetas de Baal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se burló Elías de los profetas de Baal en el monte Carmelo?",
+      "options": ["Los desafió a un duelo cuerpo a cuerpo", "Sugirió que su dios podía estar meditando o de viaje", "Les ofreció la mitad del sacrificio como ventaja"],
+      "correct": 1,
+      "hint": "Su ironía apunta a la ausencia de respuesta del dios al que invocan durante horas.",
+      "explanation": "1Re 18:27: «gritad con voz más fuerte, porque él es dios, pero tendrá algún negocio» — la burla de Elías subraya el silencio absoluto de Baal frente a sus profetas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 18:27 · La burla de Elías a los profetas de Baal",
+      "direction": "es-es",
+      "tiles": ["Gritad", "con", "voz", "más", "fuerte", "porque", "él", "es", "dios", "callad"],
+      "answer": "Gritad con voz más fuerte porque él es dios",
+      "explanation": "1Re 18:27: mientras los profetas de Baal claman sin respuesta, Elías se burla de su silencio antes de que baje el fuego sobre su propio sacrificio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió al descender el fuego del cielo sobre el sacrificio de Elías en el Carmelo?",
+      "options": ["El pueblo se dispersó atemorizado sin reaccionar", "Los profetas de Baal se convirtieron y lo alabaron", "El pueblo reconoció al Señor como el único Dios"],
+      "correct": 2,
+      "hint": "La reacción del pueblo confirma el propósito del desafío de Elías.",
+      "explanation": "1Re 18:38-39: el fuego consume el holocausto, el agua, las piedras y hasta el polvo, y el pueblo entero exclama que el Señor es el verdadero Dios."
+    },
+    {
+      "type": "gap",
+      "text": "Tras la victoria, Elías hizo bajar a los profetas de Baal al torrente ___ y los mató.",
+      "options": ["Quisón", "Jordán", "Querit"],
+      "answer": "Quisón",
+      "explanation": "1Re 18:40: la ejecución de los cuatrocientos cincuenta profetas de Baal pone fin, aparentemente, al culto idolátrico impulsado por Jezabel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su acontecimiento",
+      "pairs": [
+        { "en": "Betel y Dan", "es": "Los becerros de oro de Jeroboán" },
+        { "en": "El monte Carmelo", "es": "Desafío contra los profetas de Baal" },
+        { "en": "El torrente Quisón", "es": "Muerte de los profetas de Baal" },
+        { "en": "El monte Horeb", "es": "Teofanía silenciosa y vocación de Eliseo" },
+        { "en": "La viña de Nabot", "es": "Codiciada por Ajab y Jezabel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué experimenta Elías en el monte Horeb tras huir de Jezabel?",
+      "options": ["Dios se le manifiesta en el susurro de una brisa suave, no en el viento ni el fuego", "Un ángel lo lleva de vuelta a Jezreel de inmediato", "Escucha una gran voz de trueno que lo derriba"],
+      "correct": 0,
+      "hint": "Dios no está en los fenómenos espectaculares que preceden a su llegada.",
+      "explanation": "1Re 19:11-13: tras el viento, el terremoto y el fuego, sin que Dios estuviera en ninguno de ellos, Elías lo reconoce en el susurro de una brisa suave."
+    },
+    {
+      "type": "gap",
+      "text": "En el Horeb, Dios no estaba en el viento ni el fuego, sino en el susurro de una brisa ___.",
+      "options": ["suave", "fuerte", "helada"],
+      "answer": "suave",
+      "explanation": "1Re 19:12: esta teofanía silenciosa contrasta con la espectacularidad del fuego que había bajado del cielo en el Carmelo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 19:5 · El ángel socorre a Elías en el desierto",
+      "direction": "es-es",
+      "tiles": ["Un", "ángel", "le", "dijo", "levántate", "y", "come", "duerme", "huye"],
+      "answer": "Un ángel le dijo levántate y come",
+      "explanation": "1Re 19:5-8: agotado y queriendo morir bajo una retama, Elías recibe fuerzas de este alimento para caminar cuarenta días hasta el Horeb."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo consiguió Jezabel la viña de Nabot para el rey Ajab?",
+      "options": ["La compró a un precio justo con oro del palacio", "Organizó un falso testimonio que llevó a Nabot a la muerte", "La ganó apostando contra el propio Nabot"],
+      "correct": 1,
+      "hint": "El crimen se disfraza de proceso legal, con testigos falsos.",
+      "explanation": "1Re 21:7-13: Jezabel organiza un falso juicio acusando a Nabot de blasfemia; es apedreado, y Ajab toma posesión de su viña."
+    },
+    {
+      "type": "gap",
+      "text": "Elías anunció a Ajab: donde lamieron la sangre de Nabot, los perros lamerán también la ___ tuya.",
+      "options": ["sangre", "ropa", "corona"],
+      "answer": "sangre",
+      "explanation": "1Re 21:19: el castigo anunciado por Elías refleja la gravedad del crimen cometido contra Nabot para apoderarse de su viña."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada desenlace con su personaje",
+      "pairs": [
+        { "en": "Nabot", "es": "Ejecutado por un falso testimonio de blasfemia" },
+        { "en": "Ajab", "es": "Muere en batalla, herido por una flecha" },
+        { "en": "Eliseo", "es": "Ungido sucesor de Elías en el Horeb" },
+        { "en": "Jezabel", "es": "Trama el asesinato de Nabot" },
+        { "en": "Los profetas de Baal", "es": "Ejecutados tras el desafío del Carmelo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo murió el rey Ajab?",
+      "options": ["De una enfermedad repentina en su palacio", "Asesinado por Jezabel tras una disputa", "En batalla contra los arameos, herido por una flecha"],
+      "correct": 2,
+      "hint": "Intentó ocultar su identidad de rey antes de entrar en combate, sin éxito.",
+      "explanation": "1Re 22:34-35: una flecha disparada al azar hiere a Ajab, y su sangre «corrió por el fondo del carro» hasta que murió esa misma tarde."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 22:35 · La muerte del rey Ajab en batalla",
+      "direction": "es-es",
+      "tiles": ["Su", "sangre", "corrió", "por", "el", "fondo", "del", "carro", "suelo"],
+      "answer": "Su sangre corrió por el fondo del carro",
+      "explanation": "1Re 22:34-35: Ajab, herido por una flecha disparada al azar, muere lentamente mientras permanece de pie en su carro durante el resto de la batalla."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 18:39 · La aclamación del pueblo tras el fuego del cielo",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "es", "Dios", "el", "Señor", "es", "Dios", "Baal"],
+      "answer": "El Señor es Dios el Señor es Dios",
+      "explanation": "1Re 18:39: al ver el fuego consumir el sacrificio de Elías, todo el pueblo cae rostro en tierra y repite esta aclamación, reconociendo al único Dios verdadero."
+    }
+  ]
+}

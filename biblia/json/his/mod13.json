@@ -1,0 +1,251 @@
+{
+  "id": "his-mod13",
+  "module": 13,
+  "title": "2 Reyes II — Judá hasta el Exilio",
+  "subtitle": "2 Reyes 18–25",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Ezequías como parte de su reforma religiosa en Judá?",
+      "options": ["Hizo pedazos la serpiente de bronce que Moisés había fundido", "Reconstruyó los santuarios paganos de su padre", "Prohibió las peregrinaciones a Jerusalén"],
+      "correct": 0,
+      "hint": "El pueblo había convertido en objeto de culto un antiguo signo de salvación del desierto.",
+      "explanation": "2Re 18:3-4: Ezequías destruye la serpiente de bronce de Moisés (Nm 21) porque el pueblo le quemaba incienso como a un ídolo, además de retirar santuarios y estelas paganas."
+    },
+    {
+      "type": "gap",
+      "text": "Ezequías destruyó la serpiente de ___ que Moisés había fundido, porque el pueblo le rendía culto.",
+      "options": ["bronce", "oro", "piedra"],
+      "answer": "bronce",
+      "explanation": "2Re 18:4: este objeto, originalmente un signo de curación en el desierto (Nm 21:9), se había convertido con el tiempo en un ídolo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Ezequías", "es": "Reformó el culto y destruyó la serpiente de bronce" },
+        { "en": "Senaquerib", "es": "Rey asirio que asedió Jerusalén sin conquistarla" },
+        { "en": "Manasés", "es": "El peor rey de Judá, por su gran idolatría" },
+        { "en": "Josías", "es": "Halló el libro de la Ley y renovó la alianza" },
+        { "en": "Juldá", "es": "Profetisa consultada sobre el libro hallado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exigió Senaquerib a Ezequías al invadir Judá?",
+      "options": ["La rendición incondicional de Jerusalén", "Un tributo de trescientos talentos de plata y treinta de oro", "La entrega de todos los objetos sagrados del templo"],
+      "correct": 1,
+      "hint": "El pago exigido combina dos metales preciosos en cantidades distintas.",
+      "explanation": "2Re 18:13-14: Senaquerib marcha contra las ciudades amuralladas de Judá y exige a Ezequías un tributo de trescientos talentos de plata y treinta de oro."
+    },
+    {
+      "type": "gap",
+      "text": "El ángel del Señor golpeó en una sola noche a ciento ochenta y cinco ___ del ejército asirio.",
+      "options": ["mil", "cien", "diez mil"],
+      "answer": "mil",
+      "explanation": "2Re 19:35: tras esta liberación milagrosa, Senaquerib levantó el campamento y regresó a Nínive sin conquistar Jerusalén."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 19:35 · La liberación milagrosa de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["El", "ángel", "del", "Señor", "avanzó", "y", "golpeó", "rey", "ejército"],
+      "answer": "El ángel del Señor avanzó y golpeó",
+      "explanation": "2Re 19:35: esta intervención repentina pone fin al asedio asirio sin que Judá tenga que presentar batalla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se libró finalmente Jerusalén del asedio de Senaquerib?",
+      "options": ["Un ejército egipcio llegó en su ayuda", "Ezequías pagó un rescate final que satisfizo al rey asirio", "El ángel del Señor golpeó al ejército asirio en una sola noche"],
+      "correct": 2,
+      "hint": "La liberación llega sin que Judá tenga que combatir.",
+      "explanation": "2Re 19:35-36: tras la muerte de ciento ochenta y cinco mil soldados asirios en una sola noche, Senaquerib se retira definitivamente a Nínive."
+    },
+    {
+      "type": "gap",
+      "text": "Como señal de su curación, la sombra del reloj solar ___.",
+      "options": ["retrocedió", "desapareció", "se detuvo"],
+      "answer": "retrocedió",
+      "explanation": "2Re 20:8-11: Ezequías pide una señal para creer la promesa de curación, y Dios hace retroceder la sombra diez grados en el reloj solar de Ajaz."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué señal recibió Ezequías para confirmar que sanaría de su enfermedad?",
+      "options": ["El retroceso de la sombra en el reloj solar", "Una estrella que brilló en pleno día", "La curación instantánea de otro enfermo del reino"],
+      "correct": 0,
+      "hint": "La señal invierte el curso natural del tiempo, no lo detiene simplemente.",
+      "explanation": "2Re 20:6.9-11: además de la señal, Dios promete a Ezequías «añadiré otros quince años a tu vida», librando también a Jerusalén de manos asirias."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 20:6 · La promesa de Dios a Ezequías enfermo",
+      "direction": "es-es",
+      "tiles": ["Añadiré", "otros", "quince", "años", "a", "tu", "vida", "diez", "cien"],
+      "answer": "Añadiré otros quince años a tu vida",
+      "explanation": "2Re 20:6: la promesa llega tras la oración de Ezequías, gravemente enfermo, y va acompañada de la liberación de Jerusalén."
+    },
+    {
+      "type": "gap",
+      "text": "Manasés reinó ___ años, más que ningún otro rey de Judá.",
+      "options": ["cincuenta y cinco", "diez", "veinte"],
+      "answer": "cincuenta y cinco",
+      "explanation": "2Re 21:1-2: a pesar de su largo reinado, el texto lo recuerda como el rey más idólatra de la historia de Judá."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe el texto bíblico al rey Manasés?",
+      "options": ["El rey más justo desde los tiempos de David", "El peor rey de Judá, por su gran idolatría", "Un rey débil que apenas llegó a gobernar"],
+      "correct": 1,
+      "hint": "Su largo reinado se recuerda por lo contrario a lo que cabría esperar de tantos años en el trono.",
+      "explanation": "2Re 21:2: «hizo el mal a los ojos del Señor, según la costumbre abominable de las naciones», llevando la idolatría de Judá a su punto más extremo."
+    },
+    {
+      "type": "gap",
+      "text": "El sacerdote Jilquías halló el libro de la ___ en el templo durante unas reparaciones.",
+      "options": ["Ley", "Alianza", "Sabiduría"],
+      "answer": "Ley",
+      "explanation": "2Re 22:8: «he hallado el libro de la Ley en el templo del Señor» — un descubrimiento que desencadena la gran reforma religiosa de Josías."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 22:8 · El hallazgo del libro de la Ley",
+      "direction": "es-es",
+      "tiles": ["He", "hallado", "el", "libro", "de", "la", "Ley", "alianza", "templo"],
+      "answer": "He hallado el libro de la Ley",
+      "explanation": "2Re 22:8: el sacerdote Jilquías comunica este hallazgo a Safán, el escriba, que lo lleva ante el rey Josías."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la reforma de Josías con su dato",
+      "pairs": [
+        { "en": "Jilquías", "es": "Sacerdote que halló el libro de la Ley" },
+        { "en": "Josías", "es": "Rasgó sus vestiduras al oír la lectura del libro" },
+        { "en": "Juldá", "es": "Profetisa consultada tras el hallazgo" },
+        { "en": "La renovación de la alianza", "es": "Ceremonia pública ante todo el pueblo" },
+        { "en": "La Pascua", "es": "Gran fiesta celebrada como parte de la reforma" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Josías consultó a la profetisa ___ sobre el libro hallado en el templo.",
+      "options": ["Juldá", "Débora", "Ana"],
+      "answer": "Juldá",
+      "explanation": "2Re 22:14: Josías envía a sus servidores a consultarla antes de actuar, y Juldá confirma la autenticidad del libro y anuncia el castigo venidero, aunque no en vida del rey."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 22:11 · La reacción de Josías al oír el libro de la Ley",
+      "direction": "es-es",
+      "tiles": ["Al", "oírlo", "Josías", "rasgó", "sus", "vestiduras", "alegró", "calló"],
+      "answer": "Al oírlo Josías rasgó sus vestiduras",
+      "explanation": "2Re 22:11: el gesto de Josías expresa su angustia al comprender cuánto se había apartado el pueblo de la ley que ahora se recuperaba."
+    },
+    {
+      "type": "gap",
+      "text": "Josías celebró una gran ___ en honor del Señor, como parte de su reforma.",
+      "options": ["Pascua", "Pentecostés", "dedicación"],
+      "answer": "Pascua",
+      "explanation": "2Re 23:21-23: el texto señala que no se había celebrado una Pascua semejante desde los tiempos de los jueces."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué encontraron durante las reparaciones del templo en tiempos de Josías?",
+      "options": ["Un tesoro oculto de oro y plata", "Los huesos de un antiguo rey de Judá", "El libro de la Ley, perdido durante generaciones"],
+      "correct": 2,
+      "hint": "El hallazgo, más que material, tiene un enorme peso espiritual para el reino.",
+      "explanation": "2Re 22:8: el sacerdote Jilquías halla el libro durante unas obras de restauración, y su lectura pública desencadena la mayor reforma religiosa del reino de Judá."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionó Josías al escuchar leer el libro de la Ley hallado en el templo?",
+      "options": ["Rasgó sus vestiduras, consciente de la infidelidad del pueblo", "Ordenó quemar el libro por considerarlo falso", "Lo ignoró y siguió con sus asuntos habituales"],
+      "correct": 0,
+      "hint": "Su reacción es de duelo y arrepentimiento inmediato.",
+      "explanation": "2Re 22:11: al comprender cuánto se había alejado el pueblo de los mandatos de la Ley, Josías rasga sus vestiduras y emprende una gran reforma religiosa."
+    },
+    {
+      "type": "gap",
+      "text": "Josías murió en la batalla de ___, luchando contra el faraón Necao.",
+      "options": ["Meguido", "Carmelo", "Guilboa"],
+      "answer": "Meguido",
+      "explanation": "2Re 23:29: la muerte de Josías en Meguido pone fin a la última gran reforma religiosa de Judá antes de la caída del reino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 23:29 · La muerte de Josías",
+      "direction": "es-es",
+      "tiles": ["Josías", "salió", "al", "encuentro", "y", "murió", "en", "Meguido", "Samaria"],
+      "answer": "Josías salió al encuentro y murió en Meguido",
+      "explanation": "2Re 23:29: Josías intenta interceptar al faraón Necao de Egipto en su camino hacia Asiria, y muere en el enfrentamiento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo murió el rey Josías?",
+      "options": ["De una enfermedad repentina en Jerusalén", "En la batalla de Meguido, contra el faraón Necao", "Asesinado en una conspiración palaciega"],
+      "correct": 1,
+      "hint": "Muere interceptando al ejército egipcio en su camino hacia el norte.",
+      "explanation": "2Re 23:29: su muerte marca el final de la independencia efectiva de Judá, que a partir de entonces queda bajo la influencia de potencias extranjeras."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada uno de los últimos reyes de Judá con su dato",
+      "pairs": [
+        { "en": "Joacaz", "es": "Reinó solo tres meses, deportado a Egipto" },
+        { "en": "Joaquín (Yoyaquín)", "es": "Apresado por Nabucodonosor, luego liberado en el exilio" },
+        { "en": "Sedecías", "es": "Último rey de Judá antes de la caída de Jerusalén" },
+        { "en": "Josías", "es": "Padre de varios de los últimos reyes, murió en Meguido" },
+        { "en": "Guedalías", "es": "Gobernador nombrado por Babilonia, después asesinado" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Nabucodonosor tras conquistar Jerusalén?",
+      "options": ["Perdonó la ciudad a cambio de un tributo anual", "Nombró rey a un descendiente directo de David", "Incendió el templo y demolió las murallas de la ciudad"],
+      "correct": 2,
+      "hint": "La destrucción es total: templo, palacio y las defensas de la ciudad.",
+      "explanation": "2Re 25:9-10: «el templo del Señor fue incendiado» y «todos los muros que rodeaban Jerusalén fueron demolidos», sellando el fin del reino de Judá."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 25:9 · La destrucción del templo de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["El", "templo", "del", "Señor", "fue", "incendiado", "reconstruido", "saqueado"],
+      "answer": "El templo del Señor fue incendiado",
+      "explanation": "2Re 25:9: junto al palacio real y las casas principales, el templo de Salomón es reducido a cenizas por las tropas de Nabucodonosor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 25:10 · La destrucción de las murallas de Jerusalén",
+      "direction": "es-es",
+      "tiles": ["Todos", "los", "muros", "de", "Jerusalén", "fueron", "demolidos", "reforzados", "pintados"],
+      "answer": "Todos los muros de Jerusalén fueron demolidos",
+      "explanation": "2Re 25:10: junto al incendio del templo, la demolición de las murallas deja a Jerusalén completamente indefensa y marca el fin simbólico del reino de Judá."
+    },
+    {
+      "type": "gap",
+      "text": "Nabucodonosor nombró gobernador de Judá a ___, que fue después asesinado.",
+      "options": ["Guedalías", "Sedecías", "Ismael"],
+      "answer": "Guedalías",
+      "explanation": "2Re 25:22-25: Guedalías es asesinado por Ismael en una conspiración, lo que provoca una nueva huida de parte del pueblo, esta vez a Egipto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su dato en el desenlace del reino de Judá",
+      "pairs": [
+        { "en": "Nínive", "es": "A donde regresó Senaquerib tras la derrota" },
+        { "en": "El templo de Jerusalén", "es": "Incendiado por los babilonios" },
+        { "en": "Meguido", "es": "Lugar de la muerte de Josías" },
+        { "en": "Babilonia", "es": "Destino de los deportados de Judá" },
+        { "en": "Jerusalén", "es": "Ciudad sitiada y finalmente destruida por Nabucodonosor" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 25:27-28 · El final del libro: la liberación de Joaquín en el exilio",
+      "direction": "es-es",
+      "tiles": ["Hizo", "que", "Joaquín", "saliera", "de", "la", "cárcel", "muriera", "reinara"],
+      "answer": "Hizo que Joaquín saliera de la cárcel",
+      "explanation": "2Re 25:27-28: el rey babilonio Evil-Merodac trata a Joaquín con amabilidad tras décadas de exilio, un último destello de esperanza con el que se cierra el libro."
+    }
+  ]
+}

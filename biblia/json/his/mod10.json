@@ -1,0 +1,251 @@
+{
+  "id": "his-mod10",
+  "module": 10,
+  "title": "1 Reyes I — Salomón, Sabiduría y Templo",
+  "subtitle": "1 Reyes 1–11",
+  "exercises": [
+    {
+      "type": "gap",
+      "text": "David era ya viejo, entrado en ___, cuando Adonías intentó proclamarse rey.",
+      "options": ["años", "batallas", "riquezas"],
+      "answer": "años",
+      "explanation": "1Re 1:1: la debilidad del anciano David abre la puerta a la intriga de Adonías, que se proclama rey sin su consentimiento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién intentó proclamarse rey sin permiso de David, aprovechando su vejez?",
+      "options": ["Absalón, de nuevo", "Adonías, hijo de Jaguit", "Salomón, precipitadamente"],
+      "correct": 1,
+      "hint": "No es la primera intriga por el trono que sufre la familia de David.",
+      "explanation": "1Re 1:5: Adonías, hijo de Jaguit, se proclama rey por su cuenta, lo que obliga a Betsabé y Natán a intervenir ante David en favor de Salomón."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Adonías", "es": "Hijo de Jaguit que intentó proclamarse rey" },
+        { "en": "Betsabé", "es": "Madre de Salomón, intervino ante David" },
+        { "en": "Natán", "es": "Profeta que confirmó la intriga de Adonías" },
+        { "en": "Sadoc", "es": "Sacerdote que ungió a Salomón" },
+        { "en": "Salomón", "es": "Hijo de David proclamado rey por decisión paterna" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "David ordenó que Salomón fuera ungido rey en ___.",
+      "options": ["Guijón", "Guibeón", "Hebrón"],
+      "answer": "Guijón",
+      "explanation": "1Re 1:33-39: David manda montar a Salomón en su propia mula y bajarlo a Guijón, donde el sacerdote Sadoc lo unge rey ante la aclamación del pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 1:39 · La aclamación tras la unción de Salomón en Guijón",
+      "direction": "es-es",
+      "tiles": ["Viva", "el", "rey", "Salomón", "David", "siempre"],
+      "answer": "Viva el rey Salomón",
+      "explanation": "1Re 1:39: tras la unción por el sacerdote Sadoc, todo el pueblo aclama a Salomón como nuevo rey de Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 2:2-3 · Los últimos consejos de David a Salomón",
+      "direction": "es-es",
+      "tiles": ["Ten", "valor", "y", "sé", "hombre", "rey", "fuerte"],
+      "answer": "Ten valor y sé hombre",
+      "explanation": "1Re 2:2-3: antes de morir, David exhorta a Salomón a guardar los mandatos del Señor para que su reinado prospere."
+    },
+    {
+      "type": "gap",
+      "text": "En Guibeón, Dios se apareció a Salomón en ___.",
+      "options": ["sueños", "visión", "el templo"],
+      "answer": "sueños",
+      "explanation": "1Re 3:5: allí Dios pregunta a Salomón qué quiere que le conceda, dando pie a la célebre petición de sabiduría."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pidió Salomón a Dios en su sueño de Guibeón?",
+      "options": ["Riquezas y un largo reinado", "La derrota de todos sus enemigos", "Un corazón que sepa discernir el bien del mal"],
+      "correct": 2,
+      "hint": "Su petición no busca el poder ni la fama, sino la capacidad de gobernar con justicia.",
+      "explanation": "1Re 3:9: Salomón pide «un corazón atento para juzgar a tu pueblo y discernir entre el bien y el mal», y Dios, complacido, le concede además riquezas y gloria."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 3:9 · La petición de Salomón en Guibeón",
+      "direction": "es-es",
+      "tiles": ["Un", "corazón", "atento", "para", "juzgar", "a", "tu", "pueblo", "sabio", "fuerte"],
+      "answer": "Un corazón atento para juzgar a tu pueblo",
+      "explanation": "1Re 3:9: esta petición de sabiduría práctica, y no de riqueza o poder, es lo que agrada a Dios y le vale a Salomón fama universal."
+    },
+    {
+      "type": "gap",
+      "text": "Salomón pidió un corazón atento para juzgar a su pueblo y discernir entre el bien y el ___.",
+      "options": ["malo", "injusto", "ajeno"],
+      "answer": "malo",
+      "explanation": "1Re 3:9: la petición de Salomón se centra en la capacidad de gobernar con justicia, no en el poder o la riqueza personal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 3:25 · La orden de Salomón en el juicio de las dos madres",
+      "direction": "es-es",
+      "tiles": ["Cortad", "al", "niño", "vivo", "en", "dos", "partes", "mitades", "trozos"],
+      "answer": "Cortad al niño vivo en dos partes",
+      "explanation": "1Re 3:25: esta orden, aparentemente cruel, era en realidad una prueba: solo la verdadera madre renunciaría al niño para salvarle la vida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo resolvió Salomón la disputa entre las dos mujeres que reclamaban al mismo niño?",
+      "options": ["Ordenó partir al niño en dos para descubrir a la verdadera madre", "Consultó a los sacerdotes del templo", "Repartió al niño entre las dos mujeres por turnos"],
+      "correct": 0,
+      "hint": "La reacción de cada mujer ante la orden reveló quién decía la verdad.",
+      "explanation": "1Re 3:24-27: al oír la orden, la madre verdadera suplicó que le dieran el niño vivo a la otra antes que verlo muerto, revelando así su identidad a Salomón."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 3:27 · La sentencia final de Salomón",
+      "direction": "es-es",
+      "tiles": ["Entregadle", "a", "ella", "el", "niño", "vivo", "muerto", "reparto"],
+      "answer": "Entregadle a ella el niño vivo",
+      "explanation": "1Re 3:27: Salomón entrega el niño a la mujer que había suplicado por su vida, «porque ella es su madre»."
+    },
+    {
+      "type": "gap",
+      "text": "Salomón tenía doce ___ al frente de todo Israel, encargados de abastecer la corte.",
+      "options": ["gobernadores", "sacerdotes", "jueces"],
+      "answer": "gobernadores",
+      "explanation": "1Re 4:7: la organización administrativa de Salomón dividía el reino en distritos, cada uno responsable de sostener la corte real un mes al año."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 4:29 · La sabiduría de Salomón",
+      "direction": "es-es",
+      "tiles": ["Dios", "concedió", "a", "Salomón", "sabiduría", "e", "inteligencia", "riquezas", "fuerza"],
+      "answer": "Dios concedió a Salomón sabiduría e inteligencia",
+      "explanation": "1Re 4:29-30: la fama de Salomón como sabio superaba, según el texto, a la de todos los sabios de Oriente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la construcción del templo con su dato",
+      "pairs": [
+        { "en": "Hiram de Tiro", "es": "Proveyó madera de cedro y ciprés" },
+        { "en": "Treinta mil hombres", "es": "Leva de trabajos forzados para la construcción" },
+        { "en": "El Santo de los Santos", "es": "Lugar donde se colocó el arca" },
+        { "en": "La nube", "es": "Señal de la gloria del Señor llenando el templo" },
+        { "en": "Siete años", "es": "Duración de la construcción del templo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El templo de Jerusalén se construyó en ___ años.",
+      "options": ["siete", "cuarenta", "tres"],
+      "answer": "siete",
+      "explanation": "1Re 6:38: la obra, iniciada con la ayuda técnica y material de Hiram de Tiro, se completó en siete años."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué rey extranjero colaboró Salomón para construir el templo de Jerusalén?",
+      "options": ["Hiram de Tiro", "El faraón de Egipto", "El rey de Saba"],
+      "correct": 0,
+      "hint": "A cambio de la madera, Salomón le enviaba trigo y aceite de oliva.",
+      "explanation": "1Re 5:22-25: Hiram de Tiro proporciona a Salomón madera de cedro y ciprés para el templo, a cambio de grandes cantidades de trigo y aceite."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 8:11 · La manifestación divina al terminar el templo",
+      "direction": "es-es",
+      "tiles": ["La", "gloria", "del", "Señor", "llenaba", "el", "templo", "rey", "pueblo"],
+      "answer": "La gloria del Señor llenaba el templo",
+      "explanation": "1Re 8:10-11: al entrar el arca en el Santo de los Santos, una nube llenó el templo, tan densa que los sacerdotes no podían continuar el servicio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió cuando el arca entró en el Santo de los Santos del templo terminado?",
+      "options": ["Un terremoto sacudió Jerusalén", "Los sacerdotes cayeron gravemente enfermos", "Una nube llenó el templo con la gloria del Señor"],
+      "correct": 2,
+      "hint": "El fenómeno recuerda a la nube que acompañó a Israel en el desierto.",
+      "explanation": "1Re 8:10-11: la nube que llena el templo es la señal visible de que Dios acepta habitar entre su pueblo en el nuevo santuario de Jerusalén."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada episodio de la vida de Salomón con su dato",
+      "pairs": [
+        { "en": "El sueño de Guibeón", "es": "Petición de un corazón sabio" },
+        { "en": "El juicio de las dos madres", "es": "Prueba de la verdadera maternidad" },
+        { "en": "La reina de Saba", "es": "Vino a probarlo con enigmas" },
+        { "en": "Las esposas extranjeras", "es": "Desviaron su corazón hacia otros dioses" },
+        { "en": "El profeta Ajías", "es": "Anunció la división del reino a Jeroboán" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "La reina de Saba ofreció a Salomón ciento veinte talentos de ___.",
+      "options": ["oro", "plata", "incienso"],
+      "answer": "oro",
+      "explanation": "1Re 10:10: además del oro, la reina le regaló grandes cantidades de esencias perfumadas, admirada por la sabiduría y la corte de Salomón."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué visitó la reina de Saba a Salomón?",
+      "options": ["Para firmar un tratado militar", "Para ponerlo a prueba con enigmas, atraída por su fama", "Para pedirle ayuda contra una invasión"],
+      "correct": 1,
+      "hint": "Su viaje fue motivado por la curiosidad, no por una necesidad urgente.",
+      "explanation": "1Re 10:1: «la reina de Saba oyó la fama de Salomón... y vino a ponerlo a prueba con enigmas», quedando admirada por lo que vio con sus propios ojos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada número con su dato sobre el reinado de Salomón",
+      "pairs": [
+        { "en": "Doce", "es": "Gobernadores al frente de Israel" },
+        { "en": "Seiscientos sesenta y seis", "es": "Talentos de oro que recibía Salomón cada año" },
+        { "en": "Setecientas", "es": "Mujeres con rango de princesas" },
+        { "en": "Sesenta codos", "es": "Longitud del templo de Jerusalén" },
+        { "en": "Siete años", "es": "Duración de la obra del templo" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Salomón tuvo setecientas mujeres con rango de princesas y trescientas ___.",
+      "options": ["concubinas", "esclavas", "sirvientas"],
+      "answer": "concubinas",
+      "explanation": "1Re 11:3: el gran número de esposas extranjeras de Salomón es la causa directa que el texto señala para su decadencia religiosa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué provocó la decadencia religiosa de Salomón en su vejez?",
+      "options": ["El abandono del templo por falta de fondos", "Una larga enfermedad que lo alejó del gobierno", "Sus muchas mujeres extranjeras desviaron su corazón hacia otros dioses"],
+      "correct": 2,
+      "hint": "El propio texto atribuye el problema a sus alianzas matrimoniales, no a una crisis personal.",
+      "explanation": "1Re 11:3-5: «sus mujeres desviaron el corazón de Salomón tras otros dioses», llevándolo a rendir culto a Astarté y a Milcón, dioses extranjeros."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Re 11:11 · El castigo que Dios anuncia a Salomón",
+      "direction": "es-es",
+      "tiles": ["Voy", "a", "arrancar", "el", "reino", "de", "tus", "manos", "trono", "hijos"],
+      "answer": "Voy a arrancar el reino de tus manos",
+      "explanation": "1Re 11:11: como consecuencia de la idolatría de Salomón, Dios anuncia la futura división del reino, aunque no ocurrirá en su propia vida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué no se dividió el reino en vida de Salomón, a pesar de su pecado?",
+      "options": ["Por consideración a David, su padre", "Porque Salomón se arrepintió a tiempo", "Porque el pueblo se lo impidió"],
+      "correct": 0,
+      "hint": "El castigo se pospone por la fidelidad de una generación anterior, no por méritos de Salomón.",
+      "explanation": "1Re 11:12: «no lo haré en vida tuya, en atención a David, tu padre, sino que lo arrancaré de manos de tu hijo» — el castigo recaerá sobre la siguiente generación."
+    },
+    {
+      "type": "gap",
+      "text": "El profeta Ajías rasgó su manto nuevo en doce ___.",
+      "options": ["jirones", "partes", "pedazos"],
+      "answer": "jirones",
+      "explanation": "1Re 11:30-31: Ajías entrega diez de los doce jirones a Jeroboán, anunciando simbólicamente que gobernará diez de las doce tribus de Israel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anunció el profeta Ajías a Jeroboán al rasgar su manto en doce jirones?",
+      "options": ["Que sería sacerdote del templo de Jerusalén", "Que gobernaría diez de las doce tribus de Israel", "Que sería desterrado de Israel para siempre"],
+      "correct": 1,
+      "hint": "El gesto profético reparte simbólicamente el número de tribus que Jeroboán llegará a gobernar.",
+      "explanation": "1Re 11:29-31: Ajías anuncia a Jeroboán que el reino se dividirá y que él gobernará diez tribus, mientras la casa de David conservará solo una, por consideración a Jerusalén."
+    }
+  ]
+}

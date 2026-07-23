@@ -1,0 +1,251 @@
+{
+  "id": "his-mod08",
+  "module": 8,
+  "title": "2 Samuel I — David, Rey de Israel",
+  "subtitle": "2 Samuel 1–12",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo David con el mensajero amalecita que afirmó haber matado a Saúl?",
+      "options": ["Lo recompensó por traerle la noticia", "Ordenó matarlo por haber dado muerte al ungido del Señor", "Lo envió de vuelta a Siclag sin más"],
+      "correct": 1,
+      "hint": "El propio relato del mensajero, presentado como un mérito, se vuelve contra él.",
+      "explanation": "2Sam 1:14-16: aunque el amalecita esperaba una recompensa por rematar a Saúl, David lo condena a muerte: «has testimoniado en contra tuya, al decir: yo he dado muerte al ungido del Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "David preguntó al amalecita cómo sabía que Saúl había muerto, y este confesó haberlo ___ a petición del propio rey herido.",
+      "options": ["rematado", "salvado", "enterrado"],
+      "answer": "rematado",
+      "explanation": "2Sam 1:6-10: el amalecita relata que encontró a Saúl herido en el monte Guilboa y que, a petición suya, lo remató, llevando después la diadema y el brazalete como prueba."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 1:19 · El comienzo del lamento de David por Saúl y Jonatán",
+      "direction": "es-es",
+      "tiles": ["Cómo", "han", "caído", "los", "héroes", "vivido", "muerto"],
+      "answer": "Cómo han caído los héroes",
+      "explanation": "2Sam 1:19.25.27: este verso se repite como estribillo en el lamento que David compone tras la muerte de Saúl y Jonatán, conocido como la «Canción del Arco»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "El mensajero amalecita", "es": "Trajo la diadema de Saúl como prueba de su muerte" },
+        { "en": "Jonatán", "es": "Su amistad con David, más dulce que el amor de mujeres" },
+        { "en": "Mical", "es": "Despreció a David por danzar ante el arca" },
+        { "en": "Natán", "es": "Profeta que confrontó a David con una parábola" },
+        { "en": "Urías", "es": "Esposo hitita de Betsabé, leal soldado de David" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice David sobre su amistad con Jonatán en el lamento?",
+      "options": ["Que era más dulce que el amor de mujeres", "Que lamenta no haberlo defendido en la batalla", "Que pide venganza inmediata contra los filisteos"],
+      "correct": 0,
+      "hint": "Es uno de los versos más citados de todo el Antiguo Testamento sobre la amistad.",
+      "explanation": "2Sam 1:26: «me eras gratísimo, tu amistad me resultaba más dulce que el amor de mujeres» — el punto culminante del lamento de David por su amigo caído."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 1:26 · David describe su amistad con Jonatán",
+      "direction": "es-es",
+      "tiles": ["Tu", "amistad", "me", "resultaba", "más", "dulce", "que", "el", "amor", "de", "mujeres", "oro"],
+      "answer": "Tu amistad me resultaba más dulce que el amor de mujeres",
+      "explanation": "2Sam 1:26: la declaración de David sobre Jonatán es una de las expresiones de amistad más citadas de toda la Biblia."
+    },
+    {
+      "type": "gap",
+      "text": "David fue ungido primero rey de ___ en Hebrón, y siete años después, de todo Israel.",
+      "options": ["Judá", "Israel", "Efraín"],
+      "answer": "Judá",
+      "explanation": "2Sam 2:4: los hombres de Judá ungen a David como su rey en Hebrón; solo más tarde, tras la muerte de Isbóset, todas las tribus lo reconocerán como rey de Israel entero (2Sam 5:3)."
+    },
+    {
+      "type": "gap",
+      "text": "David tenía ___ años cuando comenzó a reinar sobre todo Israel.",
+      "options": ["treinta", "cuarenta", "veinte"],
+      "answer": "treinta",
+      "explanation": "2Sam 5:4: David tenía treinta años al comenzar a reinar, y reinó en total cuarenta años, siete y medio en Hebrón y el resto en Jerusalén."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quiénes habitaban Jerusalén antes de que David la conquistara?",
+      "options": ["Los filisteos", "Los jebuseos", "Los amonitas"],
+      "correct": 1,
+      "hint": "Se burlaron de David diciendo que hasta los ciegos y los cojos bastarían para rechazarlo.",
+      "explanation": "2Sam 5:6-7: los jebuseos ocupaban la fortaleza de Sion, confiados en sus defensas, pero David la conquistó e hizo de ella la «ciudad de David»."
+    },
+    {
+      "type": "gap",
+      "text": "David tomó la fortaleza de ___, llamada después ciudad de David.",
+      "options": ["Sion", "Hebrón", "Guilgal"],
+      "answer": "Sion",
+      "explanation": "2Sam 5:7: la conquista de esta fortaleza jebusea convierte a Jerusalén en la nueva capital política de Israel, sustituyendo a Hebrón."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 5:6 · La burla de los jebuseos ante el asedio de David",
+      "direction": "es-es",
+      "tiles": ["Te", "rechazarán", "hasta", "los", "ciegos", "y", "los", "cojos", "sanos", "guerreros"],
+      "answer": "Te rechazarán hasta los ciegos y los cojos",
+      "explanation": "2Sam 5:6: los jebuseos se confiaban tanto en las defensas de su fortaleza que se burlaron de David antes de que la conquistara."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del traslado del arca con su dato",
+      "pairs": [
+        { "en": "David", "es": "Bailó ante el Señor con todas sus fuerzas" },
+        { "en": "Mical", "es": "Lo despreció al verlo danzar" },
+        { "en": "El efod de lino", "es": "Vestidura que llevaba David al danzar" },
+        { "en": "La casa de Abinadab", "es": "Lugar de donde se trasladó el arca" },
+        { "en": "Treinta mil hombres", "es": "Acompañaron el traslado del arca a Jerusalén" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué despreció Mical a David al ver la procesión del arca?",
+      "options": ["Porque bailaba ante el Señor, descubierto ante las siervas", "Porque había vendido el arca a los filisteos", "Porque prohibió al pueblo participar en la fiesta"],
+      "correct": 0,
+      "hint": "A ella le pareció impropio de un rey ese comportamiento tan efusivo y humilde.",
+      "explanation": "2Sam 6:16.20: Mical, hija de Saúl, vio al rey «saltando y danzando ante el Señor» y lo menospreció en su corazón por descubrirse ante las siervas del pueblo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 6:21 · La respuesta de David a las críticas de Mical",
+      "direction": "es-es",
+      "tiles": ["Danzaré", "sin", "descanso", "ante", "el", "Señor", "trono", "corona"],
+      "answer": "Danzaré sin descanso ante el Señor",
+      "explanation": "2Sam 6:21: David defiende su danza como un acto de humildad ante Dios, no de indignidad real, frente al reproche de Mical."
+    },
+    {
+      "type": "gap",
+      "text": "Como consecuencia, Mical no tuvo ___ en toda su vida.",
+      "options": ["hijos", "riquezas", "siervas"],
+      "answer": "hijos",
+      "explanation": "2Sam 6:23: el desprecio de Mical hacia la danza de David tiene como consecuencia que ella no tenga descendencia nunca."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 7:16 · La promesa dinástica que Natán transmite a David",
+      "direction": "es-es",
+      "tiles": ["Tu", "casa", "y", "tu", "reino", "se", "mantendrán", "siempre", "firmes", "ante", "mí", "hoy"],
+      "answer": "Tu casa y tu reino se mantendrán siempre firmes",
+      "explanation": "2Sam 7:16: el núcleo de la promesa dinástica — la casa de David durará para siempre, base de la esperanza mesiánica posterior."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le propuso David a Dios construir, y qué respuesta recibió a través del profeta Natán?",
+      "options": ["Un palacio nuevo, que Dios le concedió de inmediato", "Un altar, que Dios rechazó por completo", "Un templo, pero Dios le prometió construirle a él una casa (dinastía)"],
+      "correct": 2,
+      "hint": "La respuesta invierte los papeles: no será David quien construya, sino Dios quien le construya a él.",
+      "explanation": "2Sam 7:2-13: David quería construir un templo para el arca, pero Natán le transmite que será su hijo quien lo haga, mientras Dios promete a David una «casa» —una dinastía— para siempre."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor prometió a David: tu trono durará para ___.",
+      "options": ["siempre", "cien años", "una generación"],
+      "answer": "siempre",
+      "explanation": "2Sam 7:16: esta promesa incondicional a la dinastía davídica será la base de toda la esperanza mesiánica posterior en el Antiguo y el Nuevo Testamento."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su acontecimiento",
+      "pairs": [
+        { "en": "Siclag", "es": "David recibe la noticia de la muerte de Saúl" },
+        { "en": "Hebrón", "es": "David es ungido rey de Judá" },
+        { "en": "Sion (Jerusalén)", "es": "David conquista la ciudad de los jebuseos" },
+        { "en": "La terraza del palacio", "es": "David ve bañarse a Betsabé" },
+        { "en": "El frente de batalla", "es": "Urías muere abandonado por orden de David" }
+      ]
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada victoria o promesa con su dato",
+      "pairs": [
+        { "en": "La promesa de Natán (2Sam 7)", "es": "La dinastía de David durará para siempre" },
+        { "en": "Los filisteos en Baal Perasín", "es": "David los vence con la ayuda del Señor" },
+        { "en": "Moabitas, arameos y edomitas", "es": "Sometidos y convertidos en súbditos de David" },
+        { "en": "Los amonitas de Adadézer", "es": "Derrotados en la guerra narrada en 2Sam 10" },
+        { "en": "Jerusalén (Sion)", "es": "Nueva capital política de David" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué mostró David bondad con Mefibóset, el hijo de Jonatán?",
+      "options": ["Porque Mefibóset le había salvado la vida en el pasado", "Porque el pueblo se lo exigió como condición para reinar", "Por el pacto de amistad que había hecho con Jonatán"],
+      "correct": 2,
+      "hint": "David busca activamente a un superviviente de la casa de Saúl para cumplir una promesa antigua.",
+      "explanation": "2Sam 9:1.7: David pregunta si queda algún superviviente de la casa de Saúl «para tratarlo con bondad en consideración a Jonatán», cumpliendo el pacto que ambos habían hecho."
+    },
+    {
+      "type": "gap",
+      "text": "Mefibóset era tullido de los ___.",
+      "options": ["pies", "brazos", "ojos"],
+      "answer": "pies",
+      "explanation": "2Sam 9:3.13: la discapacidad de Mefibóset, hijo de Jonatán, no impidió que David lo acogiera con honor en su propia mesa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 9:7 · La promesa de David a Mefibóset",
+      "direction": "es-es",
+      "tiles": ["Comerás", "siempre", "a", "mi", "mesa", "palacio", "nunca"],
+      "answer": "Comerás siempre a mi mesa",
+      "explanation": "2Sam 9:7: David restituye a Mefibóset las tierras de Saúl y lo trata como a uno más de su propia familia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué vio David desde la terraza de su palacio, una tarde?",
+      "options": ["Un ejército acampado frente a la ciudad", "El arca de la alianza siendo trasladada", "A Betsabé, que se estaba bañando"],
+      "correct": 2,
+      "hint": "Es el episodio que desencadena el gran pecado de David.",
+      "explanation": "2Sam 11:2-3: David, paseando por la terraza del palacio, divisa a Betsabé bañándose y pregunta quién es, dando inicio al episodio del adulterio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué orden dio David para encubrir su pecado con Betsabé?",
+      "options": ["Que Urías se retirara del ejército definitivamente", "Que pusieran a Urías en primera línea y lo abandonaran", "Que Urías fuera desterrado a otra ciudad"],
+      "correct": 1,
+      "hint": "David intenta primero otra solución más discreta, que fracasa por la lealtad de Urías.",
+      "explanation": "2Sam 11:15: al fracasar su primer intento de encubrimiento, David ordena a Joab poner a Urías «en primera línea, donde la batalla sea más encarnizada», provocando así su muerte."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 12:7 · La acusación directa de Natán a David",
+      "direction": "es-es",
+      "tiles": ["Tú", "eres", "ese", "hombre", "culpable", "rey"],
+      "answer": "Tú eres ese hombre",
+      "explanation": "2Sam 12:7: tras la parábola de la cordera del pobre, Natán revela a David que la historia lo señala a él mismo como el culpable."
+    },
+    {
+      "type": "gap",
+      "text": "En la parábola de Natán, el rico tenía muchas ovejas y el pobre tenía solo una ___.",
+      "options": ["cordera", "cabra", "vaca"],
+      "answer": "cordera",
+      "explanation": "2Sam 12:3: la cordera del pobre, criada como una hija, representa a Betsabé; el rico que la roba para su banquete representa a David."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anunció Dios como castigo principal a David tras su pecado?",
+      "options": ["Que perdería el trono de inmediato", "Que la espada no se apartaría jamás de su casa", "Que sería desterrado de Jerusalén"],
+      "correct": 1,
+      "hint": "El castigo afecta a la estabilidad de toda su familia en el futuro, no solo a él.",
+      "explanation": "2Sam 12:10: «la espada no se apartará de tu casa jamás» — un anuncio que se cumplirá en la violencia que marcará el resto del reinado de David con sus propios hijos."
+    },
+    {
+      "type": "gap",
+      "text": "El hijo nacido de la unión con Betsabé murió al ___ día de enfermedad.",
+      "options": ["séptimo", "tercer", "cuadragésimo"],
+      "answer": "séptimo",
+      "explanation": "2Sam 12:18: David había ayunado y orado por el niño mientras vivía, pero aceptó su muerte con serenidad: «yo soy el que irá adonde él» (2Sam 12:23)."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 12:24 · El nacimiento de Salomón",
+      "direction": "es-es",
+      "tiles": ["Dio", "a", "luz", "un", "hijo", "y", "lo", "llamó", "Salomón", "Yedidías"],
+      "answer": "Dio a luz un hijo y lo llamó Salomón",
+      "explanation": "2Sam 12:24-25: tras la muerte del primer hijo, nace Salomón, a quien el Señor amó y a quien Natán puso también el nombre de Yedidías, «amado del Señor»."
+    }
+  ]
+}

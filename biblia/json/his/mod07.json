@@ -1,0 +1,251 @@
+{
+  "id": "his-mod07",
+  "module": 7,
+  "title": "1 Samuel II — David, Goliat y la Huida de Saúl",
+  "subtitle": "1 Samuel 16–31",
+  "exercises": [
+    {
+      "type": "gap",
+      "text": "El hombre mira a los ojos, mas el Señor mira el ___.",
+      "options": ["corazón", "rostro", "nombre"],
+      "answer": "corazón",
+      "explanation": "1Sam 16:7: la razón que da Dios a Samuel para descartar a los hermanos mayores de David y elegir al menor de todos, siendo pastor en el campo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 16:7 · El criterio de Dios para elegir a David",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "mira", "el", "corazón", "rostro", "nombre"],
+      "answer": "El Señor mira el corazón",
+      "explanation": "1Sam 16:7: frente al criterio humano de la apariencia y la estatura, Dios elige a David por lo que hay en su interior."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su descripción",
+      "pairs": [
+        { "en": "Jesé", "es": "Padre de David, de Belén" },
+        { "en": "Ajimélec", "es": "Sacerdote de Nob que ayudó a David" },
+        { "en": "Abigaíl", "es": "Esposa sensata de Nabal" },
+        { "en": "Aquís", "es": "Rey filisteo que dio asilo a David en Gat" },
+        { "en": "Jonatán", "es": "Hijo de Saúl, amigo leal de David" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "David calmaba a Saúl tocando la ___.",
+      "options": ["cítara", "trompeta", "flauta"],
+      "answer": "cítara",
+      "explanation": "1Sam 16:23: el talento musical de David lo introdujo en la corte de Saúl antes incluso de su fama como guerrero. Cuando tocaba, «el mal espíritu se retiraba» del rey."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuánto medía Goliat, según el texto?",
+      "options": ["Unos tres metros", "Poco más de dos metros", "Cerca de cuatro metros"],
+      "correct": 0,
+      "hint": "Su armadura de bronce por sí sola pesaba unos sesenta kilos.",
+      "explanation": "1Sam 17:4: Goliat medía «unos tres metros», con una coraza de escamas de bronce de sesenta kilos y una lanza con punta de hierro de seis kilos."
+    },
+    {
+      "type": "gap",
+      "text": "Goliat desafió a Israel durante ___ días pidiendo un combate singular.",
+      "options": ["cuarenta", "siete", "cien"],
+      "answer": "cuarenta",
+      "explanation": "1Sam 17:16: cada mañana y cada tarde, durante cuarenta días, Goliat se presentaba a desafiar a un guerrero israelita, sin que nadie se atreviera."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 17:45 · Las palabras de David antes de enfrentarse a Goliat",
+      "direction": "es-es",
+      "tiles": ["Yo", "voy", "contra", "ti", "en", "nombre", "del", "Señor", "espada", "miedo"],
+      "answer": "Yo voy contra ti en nombre del Señor",
+      "explanation": "1Sam 17:45: frente a las armas de Goliat, David responde con su confianza puesta en «el Señor del universo, Dios de los escuadrones de Israel»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo venció David a Goliat?",
+      "options": ["Con una piedra lanzada con su honda", "Con la espada que le prestó Saúl", "Esquivando su lanza hasta agotarlo"],
+      "correct": 0,
+      "hint": "Después de derribarlo, usó otra arma para rematarlo.",
+      "explanation": "1Sam 17:49-51: David hirió a Goliat en la frente con una piedra de su honda; luego tomó la propia espada del gigante caído y le cortó la cabeza."
+    },
+    {
+      "type": "gap",
+      "text": "David hirió a Goliat en la ___ con una piedra de su honda.",
+      "options": ["frente", "garganta", "mano"],
+      "answer": "frente",
+      "explanation": "1Sam 17:49: el golpe certero derribó al gigante, y David corrió a rematarlo con la propia espada de Goliat."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento del duelo con Goliat con su papel",
+      "pairs": [
+        { "en": "La honda", "es": "El arma con que David lo hiere" },
+        { "en": "La piedra", "es": "Se clava en la frente de Goliat" },
+        { "en": "La espada de Goliat", "es": "David la usa para decapitarlo" },
+        { "en": "La lanza de Goliat", "es": "Tenía un asta como un enjullo de tejedor" },
+        { "en": "El escudero de Goliat", "es": "Caminaba delante de él portando el escudo" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 18:7 · La canción de las mujeres tras la victoria",
+      "direction": "es-es",
+      "tiles": ["Saúl", "mató", "a", "mil", "David", "a", "diez", "mil", "cien", "todos"],
+      "answer": "Saúl mató a mil David a diez mil",
+      "explanation": "1Sam 18:7: esta copla, cantada por las mujeres al volver los guerreros, despertó los celos de Saúl hacia David, que a partir de entonces lo miró «con malos ojos»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo reaccionó Saúl al oír la canción de las mujeres sobre David?",
+      "options": ["Le pareció una exageración sin importancia", "Se enojó y empezó a mirar a David con malos ojos", "Ordenó premiar a David de inmediato"],
+      "correct": 1,
+      "hint": "A partir de ese día su actitud hacia David cambia por completo.",
+      "explanation": "1Sam 18:8-9: «a Saúl lo enojó mucho aquella copla... desde aquel día Saúl vio con malos ojos a David» — el origen de los celos que marcarán el resto del libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo ayudó Mical a David a escapar de los emisarios de Saúl?",
+      "options": ["Lo escondió en el establo real", "Lo descolgó por una ventana durante la noche", "Lo disfrazó de sirviente del palacio"],
+      "correct": 1,
+      "hint": "Después colocó un señuelo en la cama para ganar tiempo.",
+      "explanation": "1Sam 19:12-13: Mical descolgó a David por una ventana y colocó los terafim en la cama simulando que él seguía allí enfermo, ganando tiempo para su huida."
+    },
+    {
+      "type": "gap",
+      "text": "Mical colocó unos ___ en la cama para simular que David seguía allí.",
+      "options": ["terafim", "cojines", "vestidos"],
+      "answer": "terafim",
+      "explanation": "1Sam 19:13: el engaño de Mical retrasó a los emisarios de Saúl el tiempo suficiente para que David escapara sano y salvo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 19:11 · La advertencia de Mical a David",
+      "direction": "es-es",
+      "tiles": ["Si", "no", "pones", "a", "salvo", "tu", "vida", "hoy", "mañana"],
+      "answer": "Si no pones a salvo tu vida",
+      "explanation": "1Sam 19:11: Mical avisa a David de que, si no huye esa misma noche, al amanecer los hombres de Saúl lo matarán."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué recibió David del sacerdote Ajimélec en Nob?",
+      "options": ["Pan consagrado y la espada de Goliat", "Oro del tesoro del santuario", "Un ejército de refuerzo"],
+      "correct": 0,
+      "hint": "Uno de los dos objetos era el único alimento disponible en ese momento.",
+      "explanation": "1Sam 21:1-9: Ajimélec, al no tener pan común, entregó a David el pan consagrado del santuario, y además la espada de Goliat, guardada allí «envuelta en un paño, detrás del efod»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada perdón de David a Saúl con su detalle",
+      "pairs": [
+        { "en": "En la cueva de Engadí", "es": "David corta un pedazo del manto de Saúl" },
+        { "en": "En el campamento de Saúl", "es": "David toma su lanza y su jarro de agua" },
+        { "en": "Abisai", "es": "Quiso matar a Saúl con la lanza" },
+        { "en": "Jonatán", "es": "Protegía a David ante la ira de su padre" },
+        { "en": "Mical", "es": "Ayudó a David a escapar por la ventana" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 24:6 · Por qué David no mata a Saúl en la cueva",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "me", "libre", "de", "obrar", "así", "hoy", "nunca"],
+      "answer": "El Señor me libre de obrar así",
+      "explanation": "1Sam 24:6: David se contiene por respeto a Saúl como «el ungido del Señor», aunque tenía ocasión de matarlo mientras estaba desprotegido en la cueva de Engadí."
+    },
+    {
+      "type": "gap",
+      "text": "En el campamento, David tomó la lanza y el ___ de agua que estaban junto a Saúl.",
+      "options": ["jarro", "cuenco", "odre"],
+      "answer": "jarro",
+      "explanation": "1Sam 26:11-12: la segunda ocasión en que David demuestra que podría haber matado a Saúl y no lo hizo, reforzando su inocencia ante el rey."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo actuó Nabal cuando David le pidió provisiones para sus hombres?",
+      "options": ["Le entregó generosamente todo lo pedido", "Pidió tiempo para consultarlo con Abigaíl", "Se las negó con dureza y desprecio"],
+      "correct": 2,
+      "hint": "Solo una respuesta explica que Abigaíl tuviera que intervenir después en secreto.",
+      "explanation": "1Sam 25:10-11: Nabal, hombre rico y duro de trato, rechazó con desprecio la petición de David, lo que estuvo a punto de provocar una venganza sangrienta evitada por la intervención de Abigaíl."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 25:25 · Abigaíl intercede por la vida de los suyos",
+      "direction": "es-es",
+      "tiles": ["No", "hagas", "caso", "de", "ese", "hombre", "Nabal", "rey", "siervo"],
+      "answer": "No hagas caso de ese hombre Nabal",
+      "explanation": "1Sam 25:25: Abigaíl calma a David con alimentos y con estas palabras, evitando que él tome venganza por la afrenta de su marido."
+    },
+    {
+      "type": "gap",
+      "text": "Tras la muerte de Nabal, David tomó a ___ por esposa.",
+      "options": ["Abigaíl", "Mical", "Ahinóam"],
+      "answer": "Abigaíl",
+      "explanation": "1Sam 25:39-42: la muerte de Nabal (que el texto atribuye a un golpe del Señor) abre paso al matrimonio de David con la mujer que antes había evitado el derramamiento de sangre."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su acontecimiento en la huida de David",
+      "pairs": [
+        { "en": "Nob", "es": "Ajimélec le da pan consagrado y la espada de Goliat" },
+        { "en": "Engadí", "es": "David corta el manto de Saúl en una cueva" },
+        { "en": "Siclag", "es": "Aquís concede refugio a David entre los filisteos" },
+        { "en": "Endor", "es": "Saúl consulta a una nigromante" },
+        { "en": "Guilboa", "es": "Saúl y sus hijos mueren en la batalla final" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué buscó refugio David entre los filisteos, en Siclag?",
+      "options": ["Porque Saúl se lo ordenó como destierro", "Porque allí vivía la familia de Abigaíl", "Para escapar de la persecución constante de Saúl"],
+      "correct": 2,
+      "hint": "Es la misma razón por la que ha huido durante gran parte del libro.",
+      "explanation": "1Sam 27:1-7: David, temiendo que Saúl acabara por darle alcance, pidió asilo al rey filisteo Aquís de Gat, que le concedió la ciudad de Siclag."
+    },
+    {
+      "type": "gap",
+      "text": "El rey filisteo Aquís concedió a David la ciudad de ___.",
+      "options": ["Siclag", "Gat", "Ecrón"],
+      "answer": "Siclag",
+      "explanation": "1Sam 27:6: David residió allí más de un año, protegido de la persecución de Saúl mientras hacía incursiones contra enemigos de Israel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Saúl al no recibir respuesta de Dios antes de la batalla contra los filisteos?",
+      "options": ["Ofreció él mismo un sacrificio", "Consultó a una nigromante en Endor", "Se rindió sin presentar batalla"],
+      "correct": 1,
+      "hint": "Buscó una vía prohibida por la propia ley que él mismo había impuesto.",
+      "explanation": "1Sam 28:6-15: ante el silencio de Dios, Saúl acudió a una nigromante en Endor para hacer aparecer el espíritu de Samuel, que le anunció su derrota y muerte."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 28:19 · La predicción del espíritu de Samuel a Saúl",
+      "direction": "es-es",
+      "tiles": ["Mañana", "tú", "y", "tus", "hijos", "estaréis", "conmigo", "hoy", "nunca"],
+      "answer": "Mañana tú y tus hijos estaréis conmigo",
+      "explanation": "1Sam 28:19: el anuncio de que Saúl y sus hijos morirían al día siguiente en la batalla contra los filisteos, cumplido en el monte Guilboa."
+    },
+    {
+      "type": "gap",
+      "text": "Al ver perdida la batalla en Guilboa, Saúl se arrojó sobre su propia ___.",
+      "options": ["espada", "lanza", "daga"],
+      "answer": "espada",
+      "explanation": "1Sam 31:4: su escudero se negó a matarlo, así que Saúl se quitó la vida él mismo antes de caer en manos de los filisteos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Sam 31:4 · Las últimas palabras de Saúl a su escudero",
+      "direction": "es-es",
+      "tiles": ["Desenvaina", "tu", "espada", "y", "traspásame", "con", "ella", "huye", "ahora"],
+      "answer": "Desenvaina tu espada y traspásame con ella",
+      "explanation": "1Sam 31:4: Saúl pide a su escudero que lo mate para no caer humillado en manos filisteas; al negarse este, el propio Saúl se arroja sobre su espada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Quién murió junto a Saúl en la batalla del monte Guilboa?",
+      "options": ["Su esposa Ahinóam", "El sacerdote Ajimélec", "Su hijo Jonatán, entre otros"],
+      "correct": 2,
+      "hint": "Era el gran amigo de David, y también hijo del rey.",
+      "explanation": "1Sam 31:2: Jonatán y otros dos hijos de Saúl, Yisví y Malquisúa, murieron junto a su padre en la derrota final ante los filisteos."
+    }
+  ]
+}

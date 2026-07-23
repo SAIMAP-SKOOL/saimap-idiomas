@@ -1,0 +1,251 @@
+{
+  "id": "his-mod09",
+  "module": 9,
+  "title": "2 Samuel II — Absalón y el Ocaso de David",
+  "subtitle": "2 Samuel 13–24",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Absalón al enterarse de la ofensa de Amnón contra su hermana Tamar?",
+      "options": ["Lo denunció de inmediato ante David", "Guardó silencio, pero lo odió en secreto durante dos años", "Perdonó a Amnón públicamente"],
+      "correct": 1,
+      "hint": "Su venganza tardó en llegar, pero llegó con toda la premeditación.",
+      "explanation": "2Sam 13:22: «Absalón no habló con Amnón ni para mal ni para bien. Sin embargo, lo odiaba» — un silencio que duró dos años, hasta que preparó su venganza."
+    },
+    {
+      "type": "gap",
+      "text": "Absalón no habló con Amnón ni para mal ni para bien, pero lo ___ en secreto.",
+      "options": ["odiaba", "admiraba", "perdonaba"],
+      "answer": "odiaba",
+      "explanation": "2Sam 13:22: el resentimiento contenido de Absalón explica la frialdad con que planeó la muerte de su hermanastro dos años después."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 13:12 · La súplica de Tamar a Amnón",
+      "direction": "es-es",
+      "tiles": ["No", "me", "fuerces", "pues", "no", "se", "hace", "así", "en", "Israel", "nunca"],
+      "answer": "No me fuerces pues no se hace así en Israel",
+      "explanation": "2Sam 13:12: la súplica de Tamar apela a la ley y la costumbre de Israel para intentar detener a Amnón, sin conseguirlo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Tamar", "es": "Hermana de Absalón, ofendida por Amnón" },
+        { "en": "Amnón", "es": "Hermanastro que ofendió a Tamar y fue vengado" },
+        { "en": "Joab", "es": "Intervino para lograr el regreso de Absalón" },
+        { "en": "La mujer sabia de Tecoa", "es": "Presentó un caso ficticio ante David" },
+        { "en": "Ajitófel", "es": "Consejero de Absalón que se suicidó al fracasar su plan" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo consiguió Absalón vengarse de Amnón?",
+      "options": ["Lo desafió en duelo público", "Lo envenenó lentamente durante meses", "Ordenó matarlo durante una fiesta de esquileo, cuando estaba alegre por el vino"],
+      "correct": 2,
+      "hint": "Esperó el momento en que Amnón estuviera más confiado y desprevenido.",
+      "explanation": "2Sam 13:28: Absalón ordenó a sus criados matar a Amnón «cuando el corazón de Amnón esté contento por el vino», durante una fiesta de esquileo de ovejas."
+    },
+    {
+      "type": "gap",
+      "text": "David permitió el regreso de Absalón a Jerusalén, pero le prohibió presentarse ante su ___.",
+      "options": ["rostro", "ejército", "pueblo"],
+      "answer": "rostro",
+      "explanation": "2Sam 14:24: aunque autoriza su vuelta gracias a la intervención de Joab, David mantiene a Absalón alejado de su presencia durante un tiempo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 15:4 · La ambición de Absalón sentado a la puerta de la ciudad",
+      "direction": "es-es",
+      "tiles": ["Quién", "me", "constituyera", "juez", "en", "el", "país", "rey", "profeta"],
+      "answer": "Quién me constituyera juez en el país",
+      "explanation": "2Sam 15:4: Absalón se presenta como un juez más accesible y compasivo que su padre, ganándose así el favor del pueblo antes de rebelarse."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo ganaba Absalón el favor del pueblo antes de rebelarse abiertamente?",
+      "options": ["Repartiendo oro entre los ancianos de Israel", "Sentándose a la puerta de la ciudad y prometiendo justicia a todos", "Predicando cada sábado en el templo"],
+      "correct": 1,
+      "hint": "Interceptaba a la gente que iba camino del rey a presentar sus pleitos.",
+      "explanation": "2Sam 15:2-6: Absalón se situaba junto al camino de la puerta, escuchaba las quejas del pueblo y les daba la razón, «robando el corazón de las gentes de Israel»."
+    },
+    {
+      "type": "gap",
+      "text": "Absalón se sentaba junto al camino de la puerta de la ciudad, robando el ___ del pueblo.",
+      "options": ["corazón", "oro", "respeto"],
+      "answer": "corazón",
+      "explanation": "2Sam 15:6: esta estrategia de años prepara el terreno para la rebelión abierta que estalla poco después en Hebrón."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la rebelión con su dato",
+      "pairs": [
+        { "en": "Absalón", "es": "Se proclama en Hebrón y marcha sobre Jerusalén" },
+        { "en": "David", "es": "Huye de Jerusalén a pie con su familia" },
+        { "en": "Ajitófel", "es": "Aconseja atacar a David esa misma noche" },
+        { "en": "Jusay", "es": "Espía de David que aconseja lo contrario a Absalón" },
+        { "en": "El Señor", "es": "Hace fracasar el consejo de Ajitófel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo David al saber que el corazón del pueblo seguía a Absalón?",
+      "options": ["Se atrincheró en el palacio para resistir", "Convocó de inmediato a su ejército para atacar", "Huyó de Jerusalén a pie con toda su familia"],
+      "correct": 2,
+      "hint": "Prefirió abandonar la ciudad antes que arriesgar un enfrentamiento directo dentro de ella.",
+      "explanation": "2Sam 15:14-16: «no tendremos escapatoria ante Absalón», dice David, y sale de Jerusalén a pie con toda su familia, dejando el palacio."
+    },
+    {
+      "type": "gap",
+      "text": "David dijo a los suyos: levantaos y huyamos, pues no tendremos ___ ante Absalón.",
+      "options": ["escapatoria", "ejército", "tiempo"],
+      "answer": "escapatoria",
+      "explanation": "2Sam 15:14: la urgencia de estas palabras explica por qué David abandona Jerusalén sin presentar batalla dentro de la ciudad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 17:14 · Por qué fracasa el consejo de Ajitófel",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "decidió", "que", "fracasara", "el", "consejo", "triunfara", "plan"],
+      "answer": "El Señor decidió que fracasara el consejo",
+      "explanation": "2Sam 17:14: el narrador aclara que, detrás del rechazo del plan de Ajitófel, está la voluntad de Dios de proteger a David."
+    },
+    {
+      "type": "gap",
+      "text": "Antes de la batalla, David ordenó a sus jefes: tratad con cuidado al joven ___.",
+      "options": ["Absalón", "Amasá", "Sebá"],
+      "answer": "Absalón",
+      "explanation": "2Sam 18:5: pese al enfrentamiento, David pide expresamente que se respete la vida de su hijo rebelde durante la batalla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le ocurrió a Ajitófel al ver que Absalón rechazaba su consejo en favor del de Jusay?",
+      "options": ["Se retiró a su tierra y se quitó la vida", "Cambió de bando y se unió a David", "Fue ejecutado por orden de Absalón"],
+      "correct": 0,
+      "hint": "No pudo soportar ver fracasar un plan que consideraba infalible.",
+      "explanation": "2Sam 17:14.23: «el Señor había decidido que fracasara el buen consejo de Ajitófel»; al verlo rechazado, Ajitófel regresó a su casa y se suicidó."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su acontecimiento",
+      "pairs": [
+        { "en": "Guesur", "es": "Exilio de Absalón tras matar a Amnón" },
+        { "en": "La puerta de la ciudad", "es": "Absalón robaba el corazón del pueblo" },
+        { "en": "El bosque de Efraín", "es": "Batalla decisiva contra el ejército de Absalón" },
+        { "en": "Abel de Bet Maacá", "es": "Ciudad donde termina la rebelión de Sebá" },
+        { "en": "La era de Arauna", "es": "Lugar donde David construye un altar" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 18:5 · La orden de David antes de la batalla",
+      "direction": "es-es",
+      "tiles": ["Tratad", "con", "cuidado", "al", "joven", "Absalón", "matadlo", "rey"],
+      "answer": "Tratad con cuidado al joven Absalón",
+      "explanation": "2Sam 18:5: a pesar de la rebelión, David sigue amando a su hijo y pide expresamente que se le respete la vida en la batalla."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo quedó atrapado Absalón durante la batalla del bosque de Efraín?",
+      "options": ["Se le enganchó la cabeza en una encina al pasar cabalgando", "Cayó en una trampa cavada por los hombres de Joab", "Se hirió una pierna al caer del caballo"],
+      "correct": 0,
+      "hint": "Su propio cabello, símbolo de su vanidad, contribuyó a su caída.",
+      "explanation": "2Sam 18:9: mientras huía sobre su mula, «la cabeza se enganchó en la encina y quedó colgado entre el cielo y la tierra», indefenso ante sus perseguidores."
+    },
+    {
+      "type": "gap",
+      "text": "A pesar de la orden de David, Joab mató a Absalón clavándole tres ___ en el corazón.",
+      "options": ["venablos", "flechas", "espadas"],
+      "answer": "venablos",
+      "explanation": "2Sam 18:14-15: Joab desobedece la orden real y remata a Absalón; después, diez de sus criados también lo hieren."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada elemento de la batalla con su dato",
+      "pairs": [
+        { "en": "El bosque de Efraín", "es": "Escenario de la batalla decisiva" },
+        { "en": "La encina", "es": "Árbol donde se enganchó la cabeza de Absalón" },
+        { "en": "Joab", "es": "Desobedeció a David y remató a Absalón" },
+        { "en": "Diez criados", "es": "Terminaron de herir a Absalón por orden de Joab" },
+        { "en": "El soldado que lo vio primero", "es": "Se negó a matarlo por respeto a la orden de David" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 19:1 · El lamento de David por Absalón",
+      "direction": "es-es",
+      "tiles": ["Hijo", "mío", "Absalón", "hijo", "mío", "padre", "rey"],
+      "answer": "Hijo mío Absalón hijo mío",
+      "explanation": "2Sam 19:1: el lamento de David es tan intenso que «la victoria de aquel día se convirtió en duelo para todo el pueblo» (2Sam 19:3)."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué efecto tuvo el lamento de David sobre la victoria de su ejército?",
+      "options": ["La victoria se convirtió en duelo para todo el pueblo", "El ejército celebró con una gran fiesta", "Los soldados exigieron la abdicación de David"],
+      "correct": 0,
+      "hint": "El dolor del rey por su hijo eclipsó por completo el triunfo militar.",
+      "explanation": "2Sam 19:1-3: el llanto de David por Absalón fue tan público y desconsolado que ensombreció la victoria conseguida por sus propios soldados."
+    },
+    {
+      "type": "gap",
+      "text": "El hombre que encabezó una nueva rebelión tras la muerte de Absalón se llamaba ___.",
+      "options": ["Sebá", "Amasá", "Arauna"],
+      "answer": "Sebá",
+      "explanation": "2Sam 20:1: Sebá, benjaminita, tocó el cuerno proclamando que Israel no tenía parte con David, encendiendo una nueva revuelta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo terminó la rebelión de Sebá?",
+      "options": ["Una mujer sabia negoció su entrega y le cortaron la cabeza", "Sebá se rindió voluntariamente ante Joab", "El pueblo lo proclamó rey igualmente"],
+      "correct": 0,
+      "hint": "El pueblo asediado prefirió sacrificar a un solo hombre antes que sufrir un ataque general.",
+      "explanation": "2Sam 20:16-22: una mujer sabia de la ciudad negoció con Joab, el pueblo decapitó a Sebá y le arrojó la cabeza, poniendo fin al asedio."
+    },
+    {
+      "type": "gap",
+      "text": "La hambruna de tres años se debió a que Saúl había matado a los ___.",
+      "options": ["gabaonitas", "filisteos", "levitas"],
+      "answer": "gabaonitas",
+      "explanation": "2Sam 21:1: David descubre por consulta al Señor que el hambre se debe a esta antigua sangre derramada, y busca repararla con los descendientes de Saúl."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 21:14 · El desenlace tras entregar los huesos de Saúl y Jonatán a sepultura",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "se", "aplacó", "con", "el", "país", "enojó", "olvidó"],
+      "answer": "El Señor se aplacó con el país",
+      "explanation": "2Sam 21:14: tras reunir y sepultar dignamente los huesos de Saúl y Jonatán, cesa la hambruna que había asolado Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 24:2 · La orden de David que desencadena el castigo final",
+      "direction": "es-es",
+      "tiles": ["Haz", "el", "censo", "de", "Israel", "y", "Judá", "ejército", "reino"],
+      "answer": "Haz el censo de Israel y Judá",
+      "explanation": "2Sam 24:2: incluso Joab cuestiona la orden, pero David insiste en contar al pueblo, un gesto que la Biblia interpreta como un pecado de orgullo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué castigo envió Dios a Israel tras el censo ordenado por David?",
+      "options": ["Una sequía de siete años", "Una peste que mató a setenta mil personas", "Una invasión filistea"],
+      "correct": 1,
+      "hint": "David tuvo que elegir entre tres castigos posibles, y este fue el que le tocó sufrir.",
+      "explanation": "2Sam 24:15: la peste enviada por Dios causó setenta mil muertos, hasta que David intercedió y compró un lugar para ofrecer un sacrificio expiatorio."
+    },
+    {
+      "type": "gap",
+      "text": "David compró la era de ___ para construir allí un altar y detener la peste.",
+      "options": ["Arauna", "Ajitófel", "Sebá"],
+      "answer": "Arauna",
+      "explanation": "2Sam 24:18-24: David pagó cincuenta siclos de plata por la era, negándose a ofrecer al Señor «un holocausto que no me cueste nada»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Sam 24:24 · Por qué David insiste en pagar por la era",
+      "direction": "es-es",
+      "tiles": ["Un", "holocausto", "que", "no", "me", "cueste", "nada", "gratis", "regalado"],
+      "answer": "Un holocausto que no me cueste nada",
+      "explanation": "2Sam 24:24: David rechaza la oferta de Arauna de regalarle la era, porque un sacrificio verdadero exige un coste real por parte de quien lo ofrece."
+    }
+  ]
+}

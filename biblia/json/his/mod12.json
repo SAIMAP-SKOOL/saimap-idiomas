@@ -1,0 +1,251 @@
+{
+  "id": "his-mod12",
+  "module": 12,
+  "title": "2 Reyes I — Eliseo y el Reino del Norte",
+  "subtitle": "2 Reyes 1–17",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué pidió Eliseo a Elías antes de que este fuera arrebatado al cielo?",
+      "options": ["Recibir una doble porción de su espíritu", "Que lo nombrara sucesor ante el rey", "Acompañarlo también al cielo"],
+      "correct": 0,
+      "hint": "Su petición es sobre una herencia espiritual, no sobre un cargo político.",
+      "explanation": "2Re 2:9: Eliseo pide «que yo reciba dos partes de tu espíritu», una petición que Elías le concede como algo difícil, condicionado a que Eliseo lo vea partir."
+    },
+    {
+      "type": "gap",
+      "text": "Eliseo pidió a Elías recibir una ___ porción de su espíritu.",
+      "options": ["doble", "triple", "pequeña"],
+      "answer": "doble",
+      "explanation": "2Re 2:9-10: Elías le responde que su petición se cumplirá solo si Eliseo llega a verlo en el momento en que sea arrebatado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 2:9 · La petición de Eliseo a Elías",
+      "direction": "es-es",
+      "tiles": ["Que", "yo", "reciba", "dos", "partes", "de", "tu", "espíritu", "poder", "manto"],
+      "answer": "Que yo reciba dos partes de tu espíritu",
+      "explanation": "2Re 2:9: la petición de Eliseo busca la capacidad espiritual necesaria para continuar la misión profética de Elías."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada personaje con su dato",
+      "pairs": [
+        { "en": "Eliseo", "es": "Pidió una doble porción del espíritu de Elías" },
+        { "en": "Naamán", "es": "General sirio curado de lepra en el Jordán" },
+        { "en": "Guejazí", "es": "Criado de Eliseo castigado con la lepra de Naamán" },
+        { "en": "La sunamita", "es": "Madre cuyo hijo fue resucitado por Eliseo" },
+        { "en": "Salmanasar", "es": "Rey de Asiria que conquistó Samaria" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "Elías subió al cielo en un carro de ___, entre una tempestad.",
+      "options": ["fuego", "nubes", "ángeles"],
+      "answer": "fuego",
+      "explanation": "2Re 2:11: el carro y los caballos de fuego separan a Elías de Eliseo, que lo ve partir y así recibe la doble porción de su espíritu."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo subió Elías al cielo?",
+      "options": ["Ascendiendo lentamente una montaña sagrada", "En un carro de fuego con caballos de fuego, entre una tempestad", "Desapareciendo silenciosamente durante la noche"],
+      "correct": 1,
+      "hint": "El fenómeno separa físicamente a Elías de Eliseo mientras caminaban juntos.",
+      "explanation": "2Re 2:11: «un carro de fuego con caballos de fuego los separó a uno del otro. Subió Elías al cielo en la tempestad»."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hizo Eliseo con el manto que había caído de Elías junto al Jordán?",
+      "options": ["Lo guardó como reliquia sin usarlo", "Se lo entregó a los demás profetas", "Golpeó las aguas del río y estas se separaron"],
+      "correct": 2,
+      "hint": "El gesto repite el mismo prodigio que Elías había hecho antes con el mismo manto.",
+      "explanation": "2Re 2:14: Eliseo golpea las aguas del Jordán con el manto de Elías, y estas se separan, confirmando ante los demás profetas que ha heredado su espíritu."
+    },
+    {
+      "type": "gap",
+      "text": "Eliseo purificó las aguas envenenadas de Jericó echando ___ en el manantial.",
+      "options": ["sal", "aceite", "ceniza"],
+      "answer": "sal",
+      "explanation": "2Re 2:19-22: «yo he saneado esta agua», declara Eliseo, y desde entonces el manantial deja de causar muertes ni esterilidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo purificó Eliseo las aguas envenenadas de Jericó?",
+      "options": ["Echando sal en el manantial", "Orando durante siete días seguidos", "Desviando el curso del río"],
+      "correct": 0,
+      "hint": "El gesto es sencillo, pero va acompañado de una declaración solemne.",
+      "explanation": "2Re 2:19-21: Eliseo echa sal en el manantial y declara «yo he saneado esta agua», con lo que las aguas dejan de causar muerte y esterilidad en la comarca."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 2:21 · Eliseo purifica el manantial de Jericó",
+      "direction": "es-es",
+      "tiles": ["Yo", "he", "saneado", "esta", "agua", "envenenado", "río"],
+      "answer": "Yo he saneado esta agua",
+      "explanation": "2Re 2:21: el primer gran milagro público de Eliseo confirma ante todos su papel como sucesor de Elías."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo resucitó Eliseo al hijo de la sunamita?",
+      "options": ["Ungiéndolo con aceite consagrado", "Tendiéndose sobre él, boca con boca y manos con manos", "Ordenando a los criados que lo llevaran al templo"],
+      "correct": 1,
+      "hint": "El contacto físico directo forma parte esencial del prodigio.",
+      "explanation": "2Re 4:34-35: Eliseo se tiende sobre el niño «boca con boca, ojos con ojos, manos con manos», y el niño estornuda y vuelve a la vida."
+    },
+    {
+      "type": "gap",
+      "text": "Eliseo se tendió sobre el niño muerto, boca con boca, ___ con ojos, manos con manos.",
+      "options": ["ojos", "pies", "manos"],
+      "answer": "ojos",
+      "explanation": "2Re 4:34: la triple correspondencia física del gesto de Eliseo precede al momento en que el niño estornuda y abre los ojos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada milagro de Eliseo con su dato",
+      "pairs": [
+        { "en": "El manantial de Jericó", "es": "Purificado con sal" },
+        { "en": "El aceite de la viuda", "es": "Se multiplicó hasta llenar todas las vasijas" },
+        { "en": "El guiso envenenado", "es": "Purificado echando harina en la olla" },
+        { "en": "Los panes", "es": "Multiplicados para alimentar a cien hombres" },
+        { "en": "El hijo de la sunamita", "es": "Resucitado tendiéndose sobre él" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El aceite de la viuda multiplicado dejó de fluir cuando no quedaron más ___ que llenar.",
+      "options": ["vasijas", "jarras", "odres"],
+      "answer": "vasijas",
+      "explanation": "2Re 4:5-6: el aceite se multiplica exactamente hasta agotar los recipientes disponibles, permitiendo a la viuda pagar sus deudas."
+    },
+    {
+      "type": "gap",
+      "text": "Con apenas veinte panes de cebada, Eliseo alimentó a ___ hombres, y todavía sobró comida.",
+      "options": ["cien", "diez", "mil"],
+      "answer": "cien",
+      "explanation": "2Re 4:42-44: el criado de Eliseo duda de que tan poco alimento baste para tanta gente, pero se cumple la palabra del profeta: «comerán y sobrará»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 4:43 · La multiplicación de los panes por Eliseo",
+      "direction": "es-es",
+      "tiles": ["Así", "dice", "el", "Señor", "comerán", "y", "sobrará", "ayunarán", "faltará"],
+      "answer": "Así dice el Señor comerán y sobrará",
+      "explanation": "2Re 4:42-44: con apenas veinte panes de cebada, Eliseo alimenta a cien hombres, y todavía sobra comida, cumpliendo su palabra."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le mandó Eliseo a Naamán, el general sirio, para curarse de la lepra?",
+      "options": ["Ofrecer un sacrificio en el templo de Jerusalén", "Untarse con un ungüento especial durante un mes", "Bañarse siete veces en el río Jordán"],
+      "correct": 2,
+      "hint": "Naamán esperaba un remedio más espectacular y al principio se niega, indignado por su sencillez.",
+      "explanation": "2Re 5:10-14: Eliseo, sin ni siquiera recibirlo en persona, le manda bañarse siete veces en el Jordán; Naamán obedece y su piel queda «como la de un niño pequeño»."
+    },
+    {
+      "type": "gap",
+      "text": "Naamán quedó curado tras bañarse ___ veces en el río Jordán.",
+      "options": ["siete", "tres", "diez"],
+      "answer": "siete",
+      "explanation": "2Re 5:14: el número siete, cargado de simbolismo bíblico de plenitud, marca la obediencia final de Naamán al mandato del profeta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 5:14 · La curación de Naamán",
+      "direction": "es-es",
+      "tiles": ["Bajó", "y", "se", "bañó", "en", "el", "Jordán", "siete", "veces", "una"],
+      "answer": "Bajó y se bañó en el Jordán siete veces",
+      "explanation": "2Re 5:14: tras dudar y enfadarse al principio, Naamán sigue el consejo de sus criados y obedece la sencilla instrucción del profeta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué fue castigado Guejazí, criado de Eliseo, con la lepra de Naamán?",
+      "options": ["Por codiciar y aceptar en secreto la recompensa que Eliseo había rechazado", "Por dudar del poder de Dios ante el ejército sirio", "Por revelar a los enemigos el secreto del rey"],
+      "correct": 0,
+      "hint": "Eliseo había rehusado cualquier pago por la curación de Naamán.",
+      "explanation": "2Re 5:20-27: Guejazí persigue en secreto a Naamán para pedirle plata y ropas en nombre de Eliseo; al descubrirlo, el profeta le transfiere la lepra que Naamán había dejado atrás."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 5:27 · El castigo de Guejazí",
+      "direction": "es-es",
+      "tiles": ["Guejazí", "salió", "de", "su", "presencia", "con", "lepra", "oro", "riquezas"],
+      "answer": "Guejazí salió de su presencia con lepra",
+      "explanation": "2Re 5:27: la codicia de Guejazí contrasta con la generosidad desinteresada de Eliseo, que había rechazado cualquier recompensa de Naamán."
+    },
+    {
+      "type": "gap",
+      "text": "Durante el asedio de Samaria, una cabeza de asno llegó a costar ochenta siclos de ___.",
+      "options": ["plata", "oro", "trigo"],
+      "answer": "plata",
+      "explanation": "2Re 6:25: el precio extremo de alimentos habitualmente despreciados muestra la gravedad del hambre que sufría la ciudad sitiada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se libró Samaria del asedio que provocaba una hambruna extrema?",
+      "options": ["Un ejército de refuerzo llegó desde Judá", "El Señor hizo oír un ruido de ejército que aterrorizó a los sirios y huyeron", "El rey de Samaria negoció una rendición pactada"],
+      "correct": 1,
+      "hint": "El enemigo huye sin que Israel llegue a combatir.",
+      "explanation": "2Re 7:6-7: los sirios, al oír «estrépito de carros y caballos, estrépito de un gran ejército», creyeron que Israel había contratado mercenarios y huyeron abandonando el campamento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 7:6 · La causa del pánico que libera a Samaria",
+      "direction": "es-es",
+      "tiles": ["Estrépito", "de", "carros", "y", "caballos", "de", "un", "gran", "ejército", "silencio"],
+      "answer": "Estrépito de carros y caballos de un gran ejército",
+      "explanation": "2Re 7:6: el Señor provoca esta ilusión sonora, y los sirios huyen dejando su campamento intacto, con toda la comida que resuelve el hambre de la ciudad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada episodio final con su dato",
+      "pairs": [
+        { "en": "El sitio de Samaria", "es": "Hambruna extrema resuelta por un ruido de ejército" },
+        { "en": "La conquista asiria", "es": "Fin del reino del norte, Israel" },
+        { "en": "La deportación", "es": "Las diez tribus dispersadas por Asiria" },
+        { "en": "Los pecados de Jeroboán", "es": "Causa señalada del castigo final" },
+        { "en": "Los nuevos pobladores", "es": "Origen de los samaritanos" }
+      ]
+    },
+    {
+      "type": "gap",
+      "text": "El rey de Asiria deportó a las diez tribus de Israel tras conquistar ___.",
+      "options": ["Samaria", "Jerusalén", "Jericó"],
+      "answer": "Samaria",
+      "explanation": "2Re 17:6: la capital del reino del norte cae tras un largo asedio, y sus habitantes son deportados a distintas regiones del imperio asirio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurrió con las diez tribus del reino del norte tras la conquista asiria?",
+      "options": ["Se les permitió seguir gobernándose con autonomía", "Pagaron un tributo anual pero conservaron su territorio", "Fueron deportadas a Asiria y dispersadas"],
+      "correct": 2,
+      "hint": "A diferencia de otros vasallos, esta vez la potencia conquistadora traslada a toda la población.",
+      "explanation": "2Re 17:6.23: Israel es deportado a Asiria y establecido en distintas regiones lejanas, un exilio del que las diez tribus nunca regresarán como pueblo unido."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 17:6 · La deportación del reino del norte",
+      "direction": "es-es",
+      "tiles": ["Deportó", "a", "Israel", "a", "Asiria", "Judá", "Egipto"],
+      "answer": "Deportó a Israel a Asiria",
+      "explanation": "2Re 17:6: el fin del reino del norte, tras dos siglos de existencia separada de Judá, sella el primer gran exilio del pueblo de Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada lugar con su dato",
+      "pairs": [
+        { "en": "El Jordán", "es": "Dividido por el manto de Elías; allí se curó Naamán" },
+        { "en": "Jericó", "es": "Manantial purificado por Eliseo" },
+        { "en": "Samaria", "es": "Capital del reino del norte, sitiada y conquistada" },
+        { "en": "Jalaj y el río Gozán", "es": "Destino de los israelitas deportados" },
+        { "en": "Babilonia y Cutá", "es": "Origen de los nuevos pobladores de Samaria" }
+      ]
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Re 17:9-10 · La idolatría persistente que causó el castigo",
+      "direction": "es-es",
+      "tiles": ["Se", "erigieron", "estelas", "sobre", "toda", "colina", "elevada", "valle", "río"],
+      "answer": "Se erigieron estelas sobre toda colina elevada",
+      "explanation": "2Re 17:9-10: el texto describe una idolatría extendida por todo el territorio, con santuarios y estelas paganas en cada rincón del reino."
+    }
+  ]
+}
