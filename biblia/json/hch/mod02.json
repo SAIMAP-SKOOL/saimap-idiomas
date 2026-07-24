@@ -1,0 +1,251 @@
+{
+  "id": "hch-mod02",
+  "module": 2,
+  "title": "Hechos II — La Conversión de Pablo y la Apertura a los Gentiles",
+  "subtitle": "Hechos 9–15",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice la voz del cielo a Saulo camino de Damasco, en Hechos 9?",
+      "options": ["«Saúl, Saúl, ¿por qué me persigues?»... «Soy Jesús, a quien tú persigues»", "Que debe presentarse ante el sanedrín de inmediato", "Que abandone toda relación con los cristianos"],
+      "correct": 0,
+      "hint": "Antes «una luz celestial lo envolvió con su resplandor».",
+      "explanation": "Hch 9,4-5: «Saúl, Saúl, ¿por qué me persigues?»... «Soy Jesús, a quien tú persigues»."
+    },
+    {
+      "type": "gap",
+      "text": "Saúl, Saúl, ¿por qué me ___?",
+      "options": ["persigues", "atacas", "combates"],
+      "answer": "persigues",
+      "explanation": "Hch 9,4: esta conversión de Pablo muestra que nadie está fuera del alcance de la gracia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 9,4 · La conversión de Pablo",
+      "direction": "es-es",
+      "tiles": ["Saúl", "Saúl", "por", "qué", "me", "persigues", "atacas", "combates"],
+      "answer": "Saúl Saúl por qué me persigues",
+      "explanation": "Hch 9,4: esta conversión de Pablo muestra que nadie está fuera del alcance de la gracia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 9,5 · La respuesta de Jesús",
+      "direction": "es-es",
+      "tiles": ["Soy", "Jesús", "a", "quien", "tú", "persigues", "buscas", "sigues"],
+      "answer": "Soy Jesús a quien tú persigues",
+      "explanation": "Hch 9,4: esta conversión de Pablo muestra que nadie está fuera del alcance de la gracia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Saúl, Saúl, ¿por qué me persigues?", "es": "La conversión de Pablo camino de Damasco" },
+        { "en": "Instrumento elegido para llevar mi nombre", "es": "La misión encomendada por Dios a Pablo" },
+        { "en": "Lo que Dios ha purificado", "es": "La visión de Pedro sobre los alimentos y los gentiles" },
+        { "en": "Llamados cristianos", "es": "El origen del nombre en Antioquía" },
+        { "en": "La Iglesia oraba por él", "es": "La liberación de Pedro de la cárcel" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice el Señor a Ananías sobre Saulo, en Hechos 9?",
+      "options": ["Que debe evitarlo por ser peligroso para la Iglesia", "«Ese hombre es un instrumento elegido por mí para llevar mi nombre a pueblos y reyes»", "Que primero debe demostrar su arrepentimiento en público"],
+      "correct": 1,
+      "hint": "Añade que le mostrará «lo que tiene que sufrir» por ese nombre.",
+      "explanation": "Hch 9,15: «ese hombre es un instrumento elegido por mí para llevar mi nombre a pueblos y reyes»."
+    },
+    {
+      "type": "gap",
+      "text": "Ese hombre es un ___ elegido por mí para llevar mi nombre.",
+      "options": ["instrumento", "siervo", "mensajero"],
+      "answer": "instrumento",
+      "explanation": "Hch 9,15: esta misión encomendada por Dios a Pablo definirá el resto de su vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 9,15 · La misión de Pablo",
+      "direction": "es-es",
+      "tiles": ["Un", "instrumento", "elegido", "por", "mí", "para", "llevar", "mi", "nombre", "siervo", "mensajero"],
+      "answer": "Un instrumento elegido por mí para llevar mi nombre",
+      "explanation": "Hch 9,15: esta misión encomendada por Dios a Pablo definirá el resto de su vida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice la voz a Pedro en la visión del gran lienzo, en Hechos 10?",
+      "options": ["Que solo puede comer los alimentos permitidos por la ley", "Que debe consultar primero con los demás apóstoles", "«Lo que Dios ha purificado, tú no lo consideres profano»"],
+      "correct": 2,
+      "hint": "Esto sucede «hasta tres veces» antes de que el lienzo suba al cielo.",
+      "explanation": "Hch 10,15: «lo que Dios ha purificado, tú no lo consideres profano»."
+    },
+    {
+      "type": "gap",
+      "text": "Lo que Dios ha purificado, tú no lo consideres ___.",
+      "options": ["profano", "impuro", "indigno"],
+      "answer": "profano",
+      "explanation": "Hch 10,15: esta visión abre la puerta de la Iglesia a los gentiles."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 10,15 · La visión del gran lienzo",
+      "direction": "es-es",
+      "tiles": ["Lo", "que", "Dios", "ha", "purificado", "tú", "no", "lo", "consideres", "profano", "impuro", "indigno"],
+      "answer": "Lo que Dios ha purificado tú no lo consideres profano",
+      "explanation": "Hch 10,15: esta visión abre la puerta de la Iglesia a los gentiles."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Dios no hace acepción de personas", "es": "Hechos 10,34" },
+        { "en": "Llamados cristianos", "es": "Hechos 11,26" },
+        { "en": "Ha enviado a su ángel para librarme", "es": "Hechos 12,11" },
+        { "en": "Luz de los gentiles", "es": "Hechos 13,47" },
+        { "en": "No imponeros más cargas", "es": "Hechos 15,28" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué comprende Pedro tras la visión, al entrar en casa de Cornelio, en Hechos 10?",
+      "options": ["«Dios no hace acepción de personas... acepta al que lo teme y practica la justicia»", "Que solo los judíos pueden recibir el Espíritu Santo", "Que debe esperar la aprobación del sanedrín antes de actuar"],
+      "correct": 0,
+      "hint": "Lo dice ante la casa del centurión romano Cornelio.",
+      "explanation": "Hch 10,34-35: «Dios no hace acepción de personas... acepta al que lo teme y practica la justicia, sea de la nación que sea»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios no hace ___ de personas.",
+      "options": ["acepción", "distinción", "diferencia"],
+      "answer": "acepción",
+      "explanation": "Hch 10,34: la casa de Cornelio es la primera conversión de un gentil relatada en Hechos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La conversión de Pablo", "es": "Ocurre camino de Damasco, cegado por una luz celestial" },
+        { "en": "La visión de Pedro", "es": "Incluye un lienzo con animales puros e impuros" },
+        { "en": "La casa de Cornelio", "es": "Es la primera conversión de un gentil relatada en Hechos" },
+        { "en": "La prisión de Pedro", "es": "Ocurre por orden de Herodes durante la fiesta de Pascua" },
+        { "en": "El concilio de Jerusalén", "es": "Decide qué exigir a los gentiles convertidos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Dónde y cuándo reciben por primera vez los discípulos el nombre de «cristianos», en Hechos 11?",
+      "options": ["En Jerusalén, el mismo día de Pentecostés", "«Fue en Antioquía donde por primera vez los discípulos fueron llamados cristianos»", "En Roma, tras la llegada de Pablo"],
+      "correct": 1,
+      "hint": "Poco antes, «bajaron a Antioquía unos profetas de Jerusalén».",
+      "explanation": "Hch 11,26: «fue en Antioquía donde por primera vez los discípulos fueron llamados cristianos»."
+    },
+    {
+      "type": "gap",
+      "text": "Fue en Antioquía donde por primera vez los discípulos fueron llamados ___.",
+      "options": ["cristianos", "creyentes", "hermanos"],
+      "answer": "cristianos",
+      "explanation": "Hch 11,26: este es el origen del nombre «cristianos», nacido en Antioquía."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 11,26 · El origen del nombre «cristianos»",
+      "direction": "es-es",
+      "tiles": ["Los", "discípulos", "fueron", "llamados", "cristianos", "creyentes", "hermanos"],
+      "answer": "Los discípulos fueron llamados cristianos",
+      "explanation": "Hch 11,26: este es el origen del nombre «cristianos», nacido en Antioquía."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace la Iglesia mientras Pedro está encarcelado por Herodes, en Hechos 12?",
+      "options": ["Se dispersa por temor a nuevas persecuciones", "Envía una petición formal de liberación a las autoridades", "«La Iglesia oraba insistentemente a Dios por él»"],
+      "correct": 2,
+      "hint": "Esto ocurre durante los días de la fiesta de Pascua.",
+      "explanation": "Hch 12,5: «la Iglesia oraba insistentemente a Dios por él»."
+    },
+    {
+      "type": "gap",
+      "text": "La Iglesia oraba ___ a Dios por él.",
+      "options": ["insistentemente", "brevemente", "silenciosamente"],
+      "answer": "insistentemente",
+      "explanation": "Hch 12,5: esta oración constante de la comunidad acompaña a Pedro en su momento de mayor peligro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 12,5 · La oración de la Iglesia",
+      "direction": "es-es",
+      "tiles": ["La", "Iglesia", "oraba", "insistentemente", "a", "Dios", "por", "él", "brevemente", "silenciosamente"],
+      "answer": "La Iglesia oraba insistentemente a Dios por él",
+      "explanation": "Hch 12,5: esta oración constante de la comunidad acompaña a Pedro en su momento de mayor peligro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué comprende Pedro tras ser liberado milagrosamente de la cárcel, en Hechos 12?",
+      "options": ["«Ahora sé realmente que el Señor ha enviado a su ángel para librarme»", "Que ha sido un simple sueño sin más importancia", "Que debe entregarse de nuevo a las autoridades"],
+      "correct": 0,
+      "hint": "Al darse cuenta, se dirige a casa de María, la madre de Juan Marcos.",
+      "explanation": "Hch 12,11: «ahora sé realmente que el Señor ha enviado a su ángel para librarme de las manos de Herodes»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor ha enviado a su ángel para ___ de las manos de Herodes.",
+      "options": ["librarme", "salvarme", "sacarme"],
+      "answer": "librarme",
+      "explanation": "Hch 12,11: Pedro reconoce la intervención divina en su liberación milagrosa."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué mandato citan Pablo y Bernabé para justificar su misión entre los gentiles, en Hechos 13?",
+      "options": ["Que solo deben predicar dentro de las sinagogas judías", "«Te he puesto como luz de los gentiles, para que lleves la salvación hasta el confín de la tierra»", "Que esperen una señal adicional antes de salir de Antioquía"],
+      "correct": 1,
+      "hint": "Lo dicen tras ser rechazados por parte de la sinagoga.",
+      "explanation": "Hch 13,47: «te he puesto como luz de los gentiles, para que lleves la salvación hasta el confín de la tierra»."
+    },
+    {
+      "type": "gap",
+      "text": "Te he puesto como luz de los ___.",
+      "options": ["gentiles", "pueblos", "reyes"],
+      "answer": "gentiles",
+      "explanation": "Hch 13,47: esta misión a los gentiles cumple la promesa de ser luz hasta el confín de la tierra."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 13,47 · La luz de los gentiles",
+      "direction": "es-es",
+      "tiles": ["Te", "he", "puesto", "como", "luz", "de", "los", "gentiles", "pueblos", "reyes"],
+      "answer": "Te he puesto como luz de los gentiles",
+      "explanation": "Hch 13,47: esta misión a los gentiles cumple la promesa de ser luz hasta el confín de la tierra."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La conversión de Pablo", "es": "Muestra que nadie está fuera del alcance de la gracia" },
+        { "en": "La visión del lienzo", "es": "Abre la puerta de la Iglesia a los gentiles" },
+        { "en": "La oración constante de la comunidad", "es": "Acompaña a Pedro en su momento de mayor peligro" },
+        { "en": "La misión a los gentiles", "es": "Cumple la promesa de ser luz hasta el confín de la tierra" },
+        { "en": "La decisión del concilio", "es": "Evita imponer cargas innecesarias a los nuevos creyentes" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué decide el concilio de Jerusalén sobre las exigencias a los gentiles convertidos, en Hechos 15?",
+      "options": ["Que deben cumplir toda la ley mosaica sin excepción", "Que no pueden ser recibidos en la comunidad sin circuncidarse", "«No imponeros más cargas que las indispensables»"],
+      "correct": 2,
+      "hint": "Envían la decisión por escrito con Silas y Judas.",
+      "explanation": "Hch 15,28-29: «no imponeros más cargas que las indispensables»."
+    },
+    {
+      "type": "gap",
+      "text": "No imponeros más ___ que las indispensables.",
+      "options": ["cargas", "leyes", "normas"],
+      "answer": "cargas",
+      "explanation": "Hch 15,28: esta decisión del concilio evita imponer cargas innecesarias a los nuevos creyentes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 15,28 · La decisión del concilio",
+      "direction": "es-es",
+      "tiles": ["No", "imponeros", "más", "cargas", "que", "las", "indispensables", "leyes", "normas"],
+      "answer": "No imponeros más cargas que las indispensables",
+      "explanation": "Hch 15,28: esta decisión del concilio evita imponer cargas innecesarias a los nuevos creyentes."
+    }
+  ]
+}

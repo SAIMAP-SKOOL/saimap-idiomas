@@ -128,7 +128,17 @@
         { "n": 11, "title": "Juan III — El Discurso de Despedida, la Pasión y la Resurrección", "es": "Juan III · Despedida y Pasión (Jn 14–21)", "file": "eva/mod11.json" }
       ]
     },
-    { "code": "HCH", "name": "Hechos de los Apóstoles",        "color": "#3B6FA6", "locked": true, "moduleCount": 2 },
+    {
+      "code": "HCH",
+      "name": "Hechos de los Apóstoles",
+      "sub": "3 módulos · La Iglesia Naciente — Completo",
+      "color": "#3B6FA6",
+      "modules": [
+        { "n": 1, "title": "Hechos I — Pentecostés y la Iglesia de Jerusalén",           "es": "Hechos I · Pentecostés (Hch 1–8)",            "file": "hch/mod01.json" },
+        { "n": 2, "title": "Hechos II — La Conversión de Pablo y la Apertura a los Gentiles", "es": "Hechos II · Conversión de Pablo (Hch 9–15)", "file": "hch/mod02.json" },
+        { "n": 3, "title": "Hechos III — Los Viajes Misioneros y la Llegada a Roma",     "es": "Hechos III · Viajes y Roma (Hch 16–28)",      "file": "hch/mod03.json" }
+      ]
+    },
     { "code": "PAB", "name": "Corpus Paulino",                 "color": "#4F8B6B", "locked": true, "moduleCount": 14 },
     { "code": "CAT", "name": "Cartas Católicas",               "color": "#5B57A6", "locked": true, "moduleCount": 5 },
     { "code": "SJN", "name": "Cartas de San Juan",             "color": "#1CB0F6", "locked": true, "moduleCount": 2 },

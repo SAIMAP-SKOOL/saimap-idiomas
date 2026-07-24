@@ -1,0 +1,251 @@
+{
+  "id": "hch-mod01",
+  "module": 1,
+  "title": "Hechos I — Pentecostés y la Iglesia de Jerusalén",
+  "subtitle": "Hechos 1–8",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Jesús a los apóstoles antes de su ascensión, en Hechos 1?",
+      "options": ["«Recibiréis la fuerza del Espíritu Santo... y seréis mis testigos... hasta el confín de la tierra»", "Que gobernarán como reyes sobre las doce tribus de Israel", "Que conocerán de inmediato la fecha exacta del fin del mundo"],
+      "correct": 0,
+      "hint": "Lo dice justo antes de ser «elevado al cielo» ante ellos.",
+      "explanation": "Hch 1,8: «recibiréis la fuerza del Espíritu Santo... seréis mis testigos en Jerusalén, en toda Judea y Samaría y hasta el confín de la tierra»."
+    },
+    {
+      "type": "gap",
+      "text": "Seréis mis testigos... hasta el ___ de la tierra.",
+      "options": ["confín", "centro", "límite"],
+      "answer": "confín",
+      "explanation": "Hch 1,8: este envío misionero define el alcance universal de la predicación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 1,8 · El mandato antes de la Ascensión",
+      "direction": "es-es",
+      "tiles": ["Seréis", "mis", "testigos", "hasta", "el", "confín", "de", "la", "tierra", "centro", "límite"],
+      "answer": "Seréis mis testigos hasta el confín de la tierra",
+      "explanation": "Hch 1,8: este envío misionero define el alcance universal de la predicación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Seréis mis testigos hasta el confín de la tierra", "es": "El mandato de Jesús antes de la Ascensión" },
+        { "en": "Hablar en otras lenguas", "es": "El don del Espíritu Santo en Pentecostés" },
+        { "en": "Levántate y anda", "es": "La curación del cojo en el templo" },
+        { "en": "Un solo corazón y una sola alma", "es": "La vida en común de los primeros creyentes" },
+        { "en": "Recibe mi espíritu", "es": "El martirio de Esteban" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre a los apóstoles el día de Pentecostés, en Hechos 2?",
+      "options": ["Permanecen en silencio, a la espera de una señal más clara", "«Se llenaron todos de Espíritu Santo y empezaron a hablar en otras lenguas»", "Huyen atemorizados por el ruido del viento"],
+      "correct": 1,
+      "hint": "Antes se ven «lenguas como de fuego» que se posan sobre cada uno.",
+      "explanation": "Hch 2,4: «se llenaron todos de Espíritu Santo y empezaron a hablar en otras lenguas»."
+    },
+    {
+      "type": "gap",
+      "text": "Se llenaron todos de Espíritu Santo y empezaron a hablar en otras ___.",
+      "options": ["lenguas", "voces", "palabras"],
+      "answer": "lenguas",
+      "explanation": "Hch 2,4: este don del Espíritu da inicio a la misión pública de la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 2,4 · El don de Pentecostés",
+      "direction": "es-es",
+      "tiles": ["Empezaron", "a", "hablar", "en", "otras", "lenguas", "voces", "palabras"],
+      "answer": "Empezaron a hablar en otras lenguas",
+      "explanation": "Hch 2,4: este don del Espíritu da inicio a la misión pública de la Iglesia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde Pedro a la multitud que pregunta qué debe hacer, tras su discurso de Pentecostés, en Hechos 2?",
+      "options": ["Que basta con creer, sin necesidad de ningún signo exterior", "Que deben esperar una nueva señal antes de actuar", "«Convertíos y sea bautizado cada uno de vosotros... y recibiréis el don del Espíritu Santo»"],
+      "correct": 2,
+      "hint": "La multitud había preguntado: «¿qué tenemos que hacer, hermanos?».",
+      "explanation": "Hch 2,38: «convertíos y sea bautizado cada uno de vosotros en el nombre de Jesús... y recibiréis el don del Espíritu Santo»."
+    },
+    {
+      "type": "gap",
+      "text": "Convertíos y sea ___ cada uno de vosotros en el nombre de Jesús.",
+      "options": ["bautizado", "purificado", "consagrado"],
+      "answer": "bautizado",
+      "explanation": "Hch 2,38: esta llamada de Pedro provoca las primeras conversiones masivas de la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 2,38 · La llamada a la conversión",
+      "direction": "es-es",
+      "tiles": ["Convertíos", "y", "sea", "bautizado", "cada", "uno", "de", "vosotros", "purificado", "consagrado"],
+      "answer": "Convertíos y sea bautizado cada uno de vosotros",
+      "explanation": "Hch 2,38: esta llamada de Pedro provoca las primeras conversiones masivas de la Iglesia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Convertíos y sed bautizados", "es": "Hechos 2,38" },
+        { "en": "Otro nombre por el que debamos salvarnos", "es": "Hechos 4,12" },
+        { "en": "Obedecer a Dios antes que a los hombres", "es": "Hechos 5,29" },
+        { "en": "El rostro de un ángel", "es": "Hechos 6,15" },
+        { "en": "Un solo corazón y una sola alma", "es": "Hechos 4,32" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice Pedro al mendigo cojo a la puerta del templo, en Hechos 3?",
+      "options": ["«No tengo plata ni oro, pero te doy lo que tengo: en nombre de Jesucristo Nazareno, levántate y anda»", "Que vuelva otro día, cuando tenga limosna que darle", "Que primero debe demostrar su fe para ser curado"],
+      "correct": 0,
+      "hint": "Después lo agarra «de la mano derecha» y lo incorpora.",
+      "explanation": "Hch 3,6: «no tengo plata ni oro, pero te doy lo que tengo: en nombre de Jesucristo Nazareno, levántate y anda»."
+    },
+    {
+      "type": "gap",
+      "text": "En nombre de Jesucristo Nazareno, levántate y ___.",
+      "options": ["anda", "camina", "vive"],
+      "answer": "anda",
+      "explanation": "Hch 3,6: esta curación sucede a la puerta del templo llamada Hermosa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 3,6 · La curación del cojo",
+      "direction": "es-es",
+      "tiles": ["En", "nombre", "de", "Jesucristo", "Nazareno", "levántate", "y", "anda", "camina", "vive"],
+      "answer": "En nombre de Jesucristo Nazareno levántate y anda",
+      "explanation": "Hch 3,6: esta curación sucede a la puerta del templo llamada Hermosa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "Pentecostés", "es": "Ocurre cincuenta días después de la Pascua, con ruido como de viento" },
+        { "en": "La curación del cojo", "es": "Sucede a la puerta del templo llamada Hermosa" },
+        { "en": "El testimonio ante el sanedrín", "es": "Pone a prueba la valentía de Pedro y Juan" },
+        { "en": "La vida en común", "es": "Incluye compartir bienes y partir el pan juntos" },
+        { "en": "El martirio de Esteban", "es": "Lo presencia un joven llamado Saulo, futuro Pablo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pedro ante el sanedrín sobre la salvación, en Hechos 4?",
+      "options": ["Que cada pueblo tiene su propio camino válido de salvación", "«Bajo el cielo no se ha dado a los hombres otro nombre por el que debamos salvarnos»", "Que la salvación depende solo del cumplimiento de la ley"],
+      "correct": 1,
+      "hint": "Lo dice defendiendo la curación del cojo ante las autoridades.",
+      "explanation": "Hch 4,12: «bajo el cielo no se ha dado a los hombres otro nombre por el que debamos salvarnos»."
+    },
+    {
+      "type": "gap",
+      "text": "Bajo el cielo no se ha dado a los hombres otro ___ por el que debamos salvarnos.",
+      "options": ["nombre", "camino", "signo"],
+      "answer": "nombre",
+      "explanation": "Hch 4,12: esta afirmación de Pedro proclama a Jesús como único nombre de salvación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Hechos la vida de la primera comunidad de creyentes, en Hechos 4?",
+      "options": ["Cada uno administraba sus bienes de forma privada y separada", "Vivían enfrentados por el reparto de las limosnas recibidas", "«Tenía un solo corazón y una sola alma... lo poseían todo en común»"],
+      "correct": 2,
+      "hint": "El texto añade que «nadie llamaba suyo propio nada de lo que tenía».",
+      "explanation": "Hch 4,32: «el grupo de los creyentes tenía un solo corazón y una sola alma... lo poseían todo en común»."
+    },
+    {
+      "type": "gap",
+      "text": "El grupo de los creyentes tenía un solo corazón y una sola ___.",
+      "options": ["alma", "fe", "voz"],
+      "answer": "alma",
+      "explanation": "Hch 4,32: la comunión de bienes expresa la unidad interior de los primeros cristianos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 4,32 · La vida en común",
+      "direction": "es-es",
+      "tiles": ["Un", "solo", "corazón", "y", "una", "sola", "alma", "fe", "voz"],
+      "answer": "Un solo corazón y una sola alma",
+      "explanation": "Hch 4,32: la comunión de bienes expresa la unidad interior de los primeros cristianos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responden Pedro y los apóstoles cuando el sanedrín les prohíbe predicar, en Hechos 5?",
+      "options": ["«Hay que obedecer a Dios antes que a los hombres»", "Que aceptan la prohibición para evitar problemas mayores", "Que necesitan tiempo para decidir qué hacer"],
+      "correct": 0,
+      "hint": "El sanedrín los acusa de querer «hacerles responsables de la sangre de ese hombre».",
+      "explanation": "Hch 5,29: «hay que obedecer a Dios antes que a los hombres»."
+    },
+    {
+      "type": "gap",
+      "text": "Hay que obedecer a Dios antes que a los ___.",
+      "options": ["hombres", "jefes", "reyes"],
+      "answer": "hombres",
+      "explanation": "Hch 5,29: esta valentía antepone la fidelidad a Dios sobre el miedo humano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 5,29 · La valentía ante el sanedrín",
+      "direction": "es-es",
+      "tiles": ["Hay", "que", "obedecer", "a", "Dios", "antes", "que", "a", "los", "hombres", "jefes", "reyes"],
+      "answer": "Hay que obedecer a Dios antes que a los hombres",
+      "explanation": "Hch 5,29: esta valentía antepone la fidelidad a Dios sobre el miedo humano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué observan los miembros del sanedrín al mirar a Esteban durante su juicio, en Hechos 6?",
+      "options": ["Que parece nervioso y evita mirarlos a los ojos", "«Su rostro les pareció el de un ángel»", "Que guarda un silencio total, sin decir palabra"],
+      "correct": 1,
+      "hint": "Justo antes, todos «fijaron su mirada en él».",
+      "explanation": "Hch 6,15: «su rostro les pareció el de un ángel»."
+    },
+    {
+      "type": "gap",
+      "text": "Su rostro les pareció el de un ___.",
+      "options": ["ángel", "santo", "niño"],
+      "answer": "ángel",
+      "explanation": "Hch 6,15: esta descripción precede al gran discurso y martirio de Esteban."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 6,15 · El rostro de Esteban",
+      "direction": "es-es",
+      "tiles": ["Su", "rostro", "les", "pareció", "el", "de", "un", "ángel", "santo", "niño"],
+      "answer": "Su rostro les pareció el de un ángel",
+      "explanation": "Hch 6,15: esta descripción precede al gran discurso y martirio de Esteban."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El envío misionero de Jesús", "es": "Define el alcance universal de la predicación" },
+        { "en": "El don del Espíritu en Pentecostés", "es": "Da inicio a la misión pública de la Iglesia" },
+        { "en": "La valentía ante la prohibición del sanedrín", "es": "Antepone la fidelidad a Dios sobre el miedo humano" },
+        { "en": "La comunión de bienes", "es": "Expresa la unidad interior de los primeros cristianos" },
+        { "en": "El perdón de Esteban en su martirio", "es": "Imita el perdón de Jesús en la cruz" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Esteban mientras es apedreado hasta la muerte, en Hechos 7?",
+      "options": ["Pide venganza contra quienes lo están matando", "No dice nada, muere en silencio", "«Señor Jesús, recibe mi espíritu»... «Señor, no les tengas en cuenta este pecado»"],
+      "correct": 2,
+      "hint": "El texto menciona que un joven llamado Saulo presenciaba la escena.",
+      "explanation": "Hch 7,59-60: «Señor Jesús, recibe mi espíritu»... «Señor, no les tengas en cuenta este pecado»."
+    },
+    {
+      "type": "gap",
+      "text": "Señor Jesús, recibe mi ___.",
+      "options": ["espíritu", "alma", "vida"],
+      "answer": "espíritu",
+      "explanation": "Hch 7,59: el perdón de Esteban en su martirio imita el perdón de Jesús en la cruz."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 7,60 · El perdón de Esteban",
+      "direction": "es-es",
+      "tiles": ["Señor", "no", "les", "tengas", "en", "cuenta", "este", "pecado", "culpa", "ofensa"],
+      "answer": "Señor no les tengas en cuenta este pecado",
+      "explanation": "Hch 7,59: el perdón de Esteban en su martirio imita el perdón de Jesús en la cruz."
+    }
+  ]
+}

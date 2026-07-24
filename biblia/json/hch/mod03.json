@@ -1,0 +1,251 @@
+{
+  "id": "hch-mod03",
+  "module": 3,
+  "title": "Hechos III — Los Viajes Misioneros y la Llegada a Roma",
+  "subtitle": "Hechos 16–28",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué visión recibe Pablo en Tróade que lo lleva a cruzar a Europa, en Hechos 16?",
+      "options": ["Un macedonio que le suplica: «Pasa a Macedonia y ayúdanos»", "Un ángel que le ordena regresar a Jerusalén de inmediato", "Una voz que le prohíbe seguir predicando en Asia"],
+      "correct": 0,
+      "hint": "Tras esta visión, el grupo sale «inmediatamente» hacia Macedonia.",
+      "explanation": "Hch 16,9: «pasa a Macedonia y ayúdanos»."
+    },
+    {
+      "type": "gap",
+      "text": "Pasa a Macedonia y ___.",
+      "options": ["ayúdanos", "sálvanos", "visítanos"],
+      "answer": "ayúdanos",
+      "explanation": "Hch 16,9: esta visión muestra que el Evangelio no conoce fronteras."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 16,9 · La visión del macedonio",
+      "direction": "es-es",
+      "tiles": ["Pasa", "a", "Macedonia", "y", "ayúdanos", "sálvanos", "visítanos"],
+      "answer": "Pasa a Macedonia y ayúdanos",
+      "explanation": "Hch 16,9: esta visión muestra que el Evangelio no conoce fronteras."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Pasa a Macedonia y ayúdanos", "es": "La visión que lleva el Evangelio a Europa" },
+        { "en": "Cree en el Señor Jesús", "es": "La conversión del carcelero de Filipos" },
+        { "en": "Eso que veneráis sin conocerlo", "es": "El discurso de Pablo en el Areópago de Atenas" },
+        { "en": "En él vivimos, nos movemos y existimos", "es": "La cercanía de Dios citada con los poetas griegos" },
+        { "en": "Completar mi carrera", "es": "La despedida de Pablo de los ancianos de Éfeso" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responden Pablo y Silas al carcelero de Filipos cuando pregunta qué debe hacer para salvarse, en Hechos 16?",
+      "options": ["Que debe primero liberar a todos los presos de la cárcel", "«Cree en el Señor Jesús y te salvarás tú y tu familia»", "Que necesita hacerse judío antes de poder creer"],
+      "correct": 1,
+      "hint": "El carcelero les pregunta esto tras un terremoto que abre las puertas de la cárcel.",
+      "explanation": "Hch 16,31: «cree en el Señor Jesús y te salvarás tú y tu familia»."
+    },
+    {
+      "type": "gap",
+      "text": "Cree en el Señor Jesús y te ___ tú y tu familia.",
+      "options": ["salvarás", "librarás", "alegrarás"],
+      "answer": "salvarás",
+      "explanation": "Hch 16,31: la fe del carcelero se extiende a toda su familia con la conversión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 16,31 · La conversión del carcelero",
+      "direction": "es-es",
+      "tiles": ["Cree", "en", "el", "Señor", "Jesús", "y", "te", "salvarás", "librarás", "alegrarás"],
+      "answer": "Cree en el Señor Jesús y te salvarás",
+      "explanation": "Hch 16,31: la fe del carcelero se extiende a toda su familia con la conversión."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo empieza Pablo su discurso en el Areópago de Atenas, en Hechos 17?",
+      "options": ["Reprochando duramente la idolatría de los atenienses", "Citando directamente las Escrituras hebreas sin más explicación", "«Eso que veneráis sin conocerlo os lo anuncio yo», refiriéndose al altar al Dios desconocido"],
+      "correct": 2,
+      "hint": "Antes menciona haber visto un altar con la inscripción «al Dios desconocido».",
+      "explanation": "Hch 17,23: «eso que veneráis sin conocerlo os lo anuncio yo»."
+    },
+    {
+      "type": "gap",
+      "text": "Eso que veneráis sin ___ os lo anuncio yo.",
+      "options": ["conocerlo", "saberlo", "entenderlo"],
+      "answer": "conocerlo",
+      "explanation": "Hch 17,23: este discurso del Areópago parte de un altar dedicado «al Dios desconocido»."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 17,23 · El discurso del Areópago",
+      "direction": "es-es",
+      "tiles": ["Eso", "que", "veneráis", "sin", "conocerlo", "os", "lo", "anuncio", "yo", "saberlo", "entenderlo"],
+      "answer": "Eso que veneráis sin conocerlo os lo anuncio yo",
+      "explanation": "Hch 17,23: este discurso del Areópago parte de un altar dedicado «al Dios desconocido»."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Hay más dicha en dar que en recibir", "es": "Hechos 20,35" },
+        { "en": "Por poco me convences", "es": "Hechos 26,28" },
+        { "en": "Tengo fe en Dios", "es": "Hechos 27,25" },
+        { "en": "Con toda libertad, sin estorbos", "es": "Hechos 28,31" },
+        { "en": "En él vivimos, nos movemos y existimos", "es": "Hechos 17,28" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cita Pablo de los propios poetas griegos en su discurso del Areópago, en Hechos 17?",
+      "options": ["«En él vivimos, nos movemos y existimos... somos estirpe suya»", "Un poema sobre la grandeza de Zeus y los dioses del Olimpo", "Un proverbio sobre la brevedad de la vida humana"],
+      "correct": 0,
+      "hint": "Lo usa para argumentar que Dios «no está lejos de ninguno de nosotros».",
+      "explanation": "Hch 17,28: «en él vivimos, nos movemos y existimos... somos estirpe suya»."
+    },
+    {
+      "type": "gap",
+      "text": "En él vivimos, nos movemos y ___.",
+      "options": ["existimos", "crecemos", "vivimos"],
+      "answer": "existimos",
+      "explanation": "Hch 17,28: esta cita tiende puentes entre la fe y el pensamiento pagano griego."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 17,28 · La cercanía de Dios",
+      "direction": "es-es",
+      "tiles": ["En", "él", "vivimos", "nos", "movemos", "y", "existimos", "crecemos"],
+      "answer": "En él vivimos nos movemos y existimos",
+      "explanation": "Hch 17,28: esta cita tiende puentes entre la fe y el pensamiento pagano griego."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La visión del macedonio", "es": "Ocurre en Tróade y lleva el Evangelio a Europa" },
+        { "en": "El discurso del Areópago", "es": "Parte de un altar dedicado «al Dios desconocido»" },
+        { "en": "La despedida en Mileto", "es": "Es un discurso emotivo a los ancianos de Éfeso" },
+        { "en": "El naufragio camino de Roma", "es": "Ocurre durante catorce noches a la deriva" },
+        { "en": "El final del libro", "es": "Deja a Pablo predicando libremente en una casa alquilada en Roma" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Pablo a los ancianos de Éfeso en Mileto sobre su propia vida, en Hechos 20?",
+      "options": ["Que su mayor deseo es descansar tras tantos viajes", "«No me importa la vida, sino completar mi carrera y consumar el ministerio que recibí del Señor Jesús»", "Que teme profundamente lo que le espera en Jerusalén"],
+      "correct": 1,
+      "hint": "Antes reconoce que le «aguardan cadenas y tribulaciones».",
+      "explanation": "Hch 20,24: «no me importa la vida, sino completar mi carrera y consumar el ministerio que recibí del Señor Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "No me importa la vida, sino completar mi ___.",
+      "options": ["carrera", "camino", "tiempo"],
+      "answer": "carrera",
+      "explanation": "Hch 20,24: esta entrega total de Pablo antepone la misión a la propia seguridad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué palabra de Jesús recuerda Pablo a los ancianos de Éfeso antes de despedirse, en Hechos 20?",
+      "options": ["Que conviene guardar siempre algo para el futuro", "Que el trabajo es más importante que el descanso", "«Hay más dicha en dar que en recibir»"],
+      "correct": 2,
+      "hint": "Al terminar de hablar, «se puso de rodillas y oró con todos ellos».",
+      "explanation": "Hch 20,35: «hay más dicha en dar que en recibir»."
+    },
+    {
+      "type": "gap",
+      "text": "Hay más ___ en dar que en recibir.",
+      "options": ["dicha", "gozo", "paz"],
+      "answer": "dicha",
+      "explanation": "Hch 20,35: esta palabra de Jesús cierra el discurso de despedida en Mileto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 20,35 · La dicha de dar",
+      "direction": "es-es",
+      "tiles": ["Hay", "más", "dicha", "en", "dar", "que", "en", "recibir", "gozo", "paz"],
+      "answer": "Hay más dicha en dar que en recibir",
+      "explanation": "Hch 20,35: esta palabra de Jesús cierra el discurso de despedida en Mileto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice el rey Agripa a Pablo tras escuchar su defensa, en Hechos 26?",
+      "options": ["«Por poco me convences para que me haga cristiano»", "Que ordena su ejecución inmediata", "Que prefiere no opinar sobre el caso"],
+      "correct": 0,
+      "hint": "Antes Pablo le había preguntado: «¿crees, rey Agripa, en los profetas?».",
+      "explanation": "Hch 26,28: «por poco me convences para que me haga cristiano»."
+    },
+    {
+      "type": "gap",
+      "text": "Por poco me convences para que me haga ___.",
+      "options": ["cristiano", "creyente", "discípulo"],
+      "answer": "cristiano",
+      "explanation": "Hch 26,28: esta reacción de Agripa muestra el efecto de la defensa de Pablo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 26,28 · La respuesta de Agripa",
+      "direction": "es-es",
+      "tiles": ["Por", "poco", "me", "convences", "para", "que", "me", "haga", "cristiano", "creyente", "discípulo"],
+      "answer": "Por poco me convences para que me haga cristiano",
+      "explanation": "Hch 26,28: esta reacción de Agripa muestra el efecto de la defensa de Pablo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Pablo a la tripulación durante la tempestad, antes del naufragio, en Hechos 27?",
+      "options": ["Que deben abandonar el barco cuanto antes", "«Amigos, animaos, porque tengo fe en Dios de que sucederá tal como se me ha dicho»", "Que ya no hay ninguna esperanza de sobrevivir"],
+      "correct": 1,
+      "hint": "Un ángel le había asegurado que Dios le concedía «la vida de todos los que navegan» con él.",
+      "explanation": "Hch 27,25: «amigos, animaos, porque tengo fe en Dios de que sucederá tal como se me ha dicho»."
+    },
+    {
+      "type": "gap",
+      "text": "Tengo fe en Dios de que sucederá tal como se me ha ___.",
+      "options": ["dicho", "mostrado", "anunciado"],
+      "answer": "dicho",
+      "explanation": "Hch 27,25: esta confianza en medio de la tempestad sostiene a toda la tripulación en el peligro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 27,25 · La fe en medio de la tempestad",
+      "direction": "es-es",
+      "tiles": ["Tengo", "fe", "en", "Dios", "esperanza", "confianza"],
+      "answer": "Tengo fe en Dios",
+      "explanation": "Hch 27,25: esta confianza en medio de la tempestad sostiene a toda la tripulación en el peligro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La apertura a Europa", "es": "Muestra que el Evangelio no conoce fronteras" },
+        { "en": "La fe del carcelero", "es": "Se extiende a toda su familia con la conversión" },
+        { "en": "El diálogo con la cultura griega", "es": "Tiende puentes entre la fe y el pensamiento pagano" },
+        { "en": "La entrega total de Pablo", "es": "Antepone la misión a la propia seguridad" },
+        { "en": "La confianza en medio de la tempestad", "es": "Sostiene a toda la tripulación en el peligro" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo termina el libro de los Hechos, describiendo la actividad de Pablo en Roma, en Hechos 28?",
+      "options": ["Encarcelado y sin poder recibir visitas", "Silenciado por las autoridades romanas", "«Predicándoles el reino de Dios... con toda libertad, sin estorbos»"],
+      "correct": 2,
+      "hint": "Permanece «un bienio completo en una casa alquilada, recibiendo a todos».",
+      "explanation": "Hch 28,31: «predicándoles el reino de Dios y enseñando lo que se refiere al Señor Jesucristo con toda libertad, sin estorbos»."
+    },
+    {
+      "type": "gap",
+      "text": "Predicándoles el reino de Dios... con toda libertad, sin ___.",
+      "options": ["estorbos", "miedo", "dudas"],
+      "answer": "estorbos",
+      "explanation": "Hch 28,31: este final deja a Pablo predicando libremente en una casa alquilada en Roma."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hch 28,31 · El final del libro",
+      "direction": "es-es",
+      "tiles": ["Predicándoles", "el", "reino", "de", "Dios", "con", "toda", "libertad", "miedo", "dudas"],
+      "answer": "Predicándoles el reino de Dios con toda libertad",
+      "explanation": "Hch 28,31: este final deja a Pablo predicando libremente en una casa alquilada en Roma."
+    }
+  ]
+}
