@@ -175,7 +175,16 @@
         { "n": 3, "title": "2 Pedro — El Testimonio Ocular y la Paciencia de Dios",  "es": "2 Pedro · Testimonio Ocular",        "file": "cat/mod03.json" }
       ]
     },
-    { "code": "SJN", "name": "Cartas de San Juan",             "color": "#1CB0F6", "locked": true, "moduleCount": 2 },
+    {
+      "code": "SJN",
+      "name": "Cartas de San Juan",
+      "sub": "2 módulos · 1, 2 y 3 Juan — Completo",
+      "color": "#1CB0F6",
+      "modules": [
+        { "n": 1, "title": "1 Juan — Dios es Luz y Dios es Amor",                    "es": "1 Juan · Dios es Amor",             "file": "sjn/mod01.json" },
+        { "n": 2, "title": "2 y 3 Juan — La Verdad, el Amor y la Hospitalidad",       "es": "2-3 Juan · Verdad y Hospitalidad",  "file": "sjn/mod02.json" }
+      ]
+    },
     { "code": "JUD", "name": "Judas",                          "color": "#9C3D6B", "locked": true, "moduleCount": 1 },
     { "code": "APO", "name": "Apocalipsis",                    "color": "#C43535", "locked": true, "moduleCount": 2 },
     { "code": "APX", "name": "Textos Apócrifos",               "color": "#6B5B95", "locked": true, "moduleCount": 8 }

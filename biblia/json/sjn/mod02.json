@@ -1,0 +1,251 @@
+{
+  "id": "sjn-mod02",
+  "module": 2,
+  "title": "2 y 3 Juan — La Verdad, el Amor y la Hospitalidad",
+  "subtitle": "2 Juan y 3 Juan",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué mandamiento recuerda Juan a la comunidad en su segunda carta?",
+      "options": ["«Que nos amemos unos a otros... en que caminemos según sus mandamientos»", "Que eviten todo trato con los demás creyentes", "Que sigan un mandamiento completamente nuevo, distinto al anterior"],
+      "correct": 0,
+      "hint": "Aclara que no es un mandamiento nuevo, «sino el que tenemos desde el principio».",
+      "explanation": "2Jn 5-6: «que nos amemos unos a otros... en que caminemos según sus mandamientos»."
+    },
+    {
+      "type": "gap",
+      "text": "Que nos amemos unos a otros... en que caminemos según sus ___.",
+      "options": ["mandamientos", "palabras", "promesas"],
+      "answer": "mandamientos",
+      "explanation": "2Jn 6: este amor como mandamiento antiguo y siempre nuevo define la identidad de la comunidad cristiana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Jn 5 · Que nos amemos unos a otros",
+      "direction": "es-es",
+      "tiles": ["Que", "nos", "amemos", "unos", "a", "otros", "palabras", "promesas"],
+      "answer": "Que nos amemos unos a otros",
+      "explanation": "2Jn 6: este amor como mandamiento antiguo y siempre nuevo define la identidad de la comunidad cristiana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Que nos amemos unos a otros", "es": "El mandamiento central recordado en la segunda carta" },
+        { "en": "El embustero y el anticristo", "es": "La advertencia contra la negación de la encarnación" },
+        { "en": "No perdáis vuestro trabajo", "es": "La vigilancia sobre la propia perseverancia" },
+        { "en": "No lo recibáis en casa", "es": "La prudencia ante falsas doctrinas" },
+        { "en": "Mis hijos caminan en la verdad", "es": "La alegría del autor por la fidelidad de sus discípulos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo identifica Juan a quienes no reconocen que Jesucristo vino en carne, en 2 Juan 7?",
+      "options": ["Como maestros con opiniones simplemente distintas", "«El embustero y el anticristo»", "Como creyentes con una fe todavía inmadura"],
+      "correct": 1,
+      "hint": "Los describe como quienes «han salido en el mundo».",
+      "explanation": "2Jn 7: «el embustero y el anticristo»."
+    },
+    {
+      "type": "gap",
+      "text": "Quienes no reconocen que Jesucristo vino en carne son el embustero y el ___.",
+      "options": ["anticristo", "extraño", "rebelde"],
+      "answer": "anticristo",
+      "explanation": "2Jn 7: esta advertencia protege a la comunidad contra la negación de la encarnación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Jn 7 · El embustero y el anticristo",
+      "direction": "es-es",
+      "tiles": ["El", "embustero", "y", "el", "anticristo", "extraño", "rebelde"],
+      "answer": "El embustero y el anticristo",
+      "explanation": "2Jn 7: esta advertencia protege a la comunidad contra la negación de la encarnación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advertencia da Juan sobre el propio trabajo espiritual, en 2 Juan 8?",
+      "options": ["Que ya está garantizado sin necesidad de vigilancia", "Que carece de toda recompensa real", "«Estad en guardia, para que no perdáis vuestro trabajo y recibáis el pleno salario»"],
+      "correct": 2,
+      "hint": "Esta advertencia sigue a la mención de «muchos embusteros» en el mundo.",
+      "explanation": "2Jn 8: «estad en guardia, para que no perdáis vuestro trabajo y recibáis el pleno salario»."
+    },
+    {
+      "type": "gap",
+      "text": "Estad en guardia, para que no perdáis vuestro trabajo y recibáis el pleno ___.",
+      "options": ["salario", "premio", "fruto"],
+      "answer": "salario",
+      "explanation": "2Jn 8: esta vigilancia sobre la propia perseverancia protege el fruto del esfuerzo espiritual."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Jn 8 · El pleno salario",
+      "direction": "es-es",
+      "tiles": ["No", "perdáis", "vuestro", "trabajo", "y", "recibáis", "el", "pleno", "salario", "premio", "fruto"],
+      "answer": "No perdáis vuestro trabajo y recibáis el pleno salario",
+      "explanation": "2Jn 8: esta vigilancia sobre la propia perseverancia protege el fruto del esfuerzo espiritual."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "El embustero y el anticristo", "es": "2 Juan 7" },
+        { "en": "No lo recibáis en casa", "es": "2 Juan 10" },
+        { "en": "Mis hijos caminan en la verdad", "es": "3 Juan 4" },
+        { "en": "Colaboradores de la verdad", "es": "3 Juan 8" },
+        { "en": "No imites lo malo", "es": "3 Juan 11" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre con quien no se mantiene en la doctrina de Cristo, según Juan en 2 Juan 9?",
+      "options": ["«No posee a Dios»", "Sigue teniendo una relación plena con Dios de todos modos", "Solo pierde algunos privilegios secundarios"],
+      "correct": 0,
+      "hint": "Añade que «quien permanece en la doctrina, este posee al Padre y al Hijo».",
+      "explanation": "2Jn 9: «todo el que se propasa y no se mantiene en la doctrina de Cristo, no posee a Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo el que se propasa y no se mantiene en la doctrina de Cristo, no posee a ___.",
+      "options": ["Dios", "la verdad", "la fe"],
+      "answer": "Dios",
+      "explanation": "2Jn 9: permanecer en la doctrina de Cristo es condición para poseer al Padre y al Hijo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué recomienda Juan sobre recibir a quien no trae la doctrina de Cristo, en 2 Juan 10?",
+      "options": ["Que se le reciba igual, sin hacer distinciones", "«No lo recibáis en casa ni le deis la bienvenida»", "Que se decida caso por caso sin ningún criterio"],
+      "correct": 1,
+      "hint": "Añade que quien lo acoge «se hace cómplice de sus malas acciones».",
+      "explanation": "2Jn 10: «no lo recibáis en casa ni le deis la bienvenida»."
+    },
+    {
+      "type": "gap",
+      "text": "Si os visita alguno que no trae esa doctrina, no lo recibáis en ___.",
+      "options": ["casa", "la Iglesia", "el camino"],
+      "answer": "casa",
+      "explanation": "2Jn 10: esta prudencia ante falsas doctrinas protege la fidelidad de la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Jn 10 · No lo recibáis en casa",
+      "direction": "es-es",
+      "tiles": ["No", "lo", "recibáis", "en", "casa", "ni", "le", "deis", "la", "bienvenida", "Iglesia", "camino"],
+      "answer": "No lo recibáis en casa ni le deis la bienvenida",
+      "explanation": "2Jn 10: esta prudencia ante falsas doctrinas protege la fidelidad de la comunidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La segunda carta de Juan", "es": "Se dirige a «la Señora elegida», posible imagen de una comunidad" },
+        { "en": "La tercera carta de Juan", "es": "Es la más breve de todo el Nuevo Testamento" },
+        { "en": "Diótrefes", "es": "Es mencionado como un líder que rechaza la autoridad del autor" },
+        { "en": "Demetrio", "es": "Recibe una recomendación positiva como contraste con Diótrefes" },
+        { "en": "Ambas cartas", "es": "Terminan con el deseo de una visita personal en vez de más escritos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué desea el Presbítero para su querido Gayo al comenzar la carta, en 3 Juan 2?",
+      "options": ["Que enfrente pruebas para fortalecer su carácter", "Que se aparte de toda relación social", "«Que la prosperidad personal de que ya gozas se extienda a todos tus asuntos, y que tengas buena salud»"],
+      "correct": 2,
+      "hint": "Lo llama «querido» y expresa un deseo de bienestar integral.",
+      "explanation": "3Jn 2: «que la prosperidad personal de que ya gozas se extienda a todos tus asuntos, y que tengas buena salud»."
+    },
+    {
+      "type": "gap",
+      "text": "Te deseo que la prosperidad personal de que ya gozas se extienda a todos tus asuntos, y que tengas buena ___.",
+      "options": ["salud", "fortuna", "paz"],
+      "answer": "salud",
+      "explanation": "3Jn 2: este saludo inicial expresa un deseo integral de bienestar para Gayo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "3Jn 2 · Que tengas buena salud",
+      "direction": "es-es",
+      "tiles": ["Que", "tengas", "buena", "salud", "fortuna", "paz"],
+      "answer": "Que tengas buena salud",
+      "explanation": "3Jn 2: este saludo inicial expresa un deseo integral de bienestar para Gayo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál es la mayor alegría que expresa el autor sobre sus «hijos» en la fe, en 3 Juan 4?",
+      "options": ["«Saber que mis hijos caminan en la verdad»", "Que hayan alcanzado éxito material", "Que sean reconocidos públicamente por su elocuencia"],
+      "correct": 0,
+      "hint": "Lo expresa como algo que supera cualquier otra alegría posible.",
+      "explanation": "3Jn 4: «no puedo tener mayor alegría que enterarme de que mis hijos caminan en la verdad»."
+    },
+    {
+      "type": "gap",
+      "text": "No puedo tener mayor alegría que enterarme de que mis hijos caminan en la ___.",
+      "options": ["verdad", "fe", "luz"],
+      "answer": "verdad",
+      "explanation": "3Jn 4: esta alegría por la fidelidad ajena supera cualquier otro tipo de satisfacción personal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "3Jn 4 · Mis hijos caminan en la verdad",
+      "direction": "es-es",
+      "tiles": ["Mis", "hijos", "caminan", "en", "la", "verdad", "fe", "luz"],
+      "answer": "Mis hijos caminan en la verdad",
+      "explanation": "3Jn 4: esta alegría por la fidelidad ajena supera cualquier otro tipo de satisfacción personal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El amor como mandamiento antiguo y siempre nuevo", "es": "Define la identidad de la comunidad cristiana" },
+        { "en": "El discernimiento ante falsas doctrinas", "es": "Protege la fe sin caer en la ingenuidad" },
+        { "en": "La hospitalidad hacia los que sirven al Evangelio", "es": "Se convierte en colaboración activa con la verdad" },
+        { "en": "La alegría por la fidelidad ajena", "es": "Supera cualquier otro tipo de satisfacción personal" },
+        { "en": "Imitar el bien y no el mal", "es": "Resume la exhortación moral más directa de estas cartas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué deber señala Juan hacia quienes trabajan por el Evangelio sin aceptar nada de los paganos, en 3 Juan 8?",
+      "options": ["Que deben buscarse la vida por sus propios medios", "«Debemos sostener nosotros a hombres como estos, para hacernos colaboradores de la verdad»", "Que su trabajo carece de valor si no reciben apoyo económico externo"],
+      "correct": 1,
+      "hint": "Se refiere a quienes «se pusieron en camino para trabajar por el Nombre».",
+      "explanation": "3Jn 8: «debemos sostener nosotros a hombres como estos, para hacernos colaboradores de la verdad»."
+    },
+    {
+      "type": "gap",
+      "text": "Debemos sostener nosotros a hombres como estos, para hacernos colaboradores de la ___.",
+      "options": ["verdad", "fe", "Iglesia"],
+      "answer": "verdad",
+      "explanation": "3Jn 8: esta hospitalidad hacia los que sirven al Evangelio se convierte en colaboración activa con la verdad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "3Jn 8 · Colaboradores de la verdad",
+      "direction": "es-es",
+      "tiles": ["Colaboradores", "de", "la", "verdad", "fe", "Iglesia"],
+      "answer": "Colaboradores de la verdad",
+      "explanation": "3Jn 8: esta hospitalidad hacia los que sirven al Evangelio se convierte en colaboración activa con la verdad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué consejo da Juan a Gayo respecto al ejemplo de Diótrefes, en 3 Juan 11?",
+      "options": ["Que lo imite en todo, incluida su forma de actuar", "Que se mantenga neutral ante su comportamiento", "«No imites lo malo, sino lo bueno; quien hace el bien es de Dios»"],
+      "correct": 2,
+      "hint": "Añade que «quien hace el mal no ha visto a Dios».",
+      "explanation": "3Jn 11: «no imites lo malo, sino lo bueno; quien hace el bien es de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "No imites lo malo, sino lo ___; quien hace el bien es de Dios.",
+      "options": ["bueno", "justo", "sabio"],
+      "answer": "bueno",
+      "explanation": "3Jn 11: imitar el bien y no el mal resume la exhortación moral más directa de estas cartas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "3Jn 11 · No imites lo malo",
+      "direction": "es-es",
+      "tiles": ["No", "imites", "lo", "malo", "sino", "lo", "bueno", "justo", "sabio"],
+      "answer": "No imites lo malo sino lo bueno",
+      "explanation": "3Jn 11: imitar el bien y no el mal resume la exhortación moral más directa de estas cartas."
+    }
+  ]
+}

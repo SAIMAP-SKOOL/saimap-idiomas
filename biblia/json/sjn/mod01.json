@@ -1,0 +1,251 @@
+{
+  "id": "sjn-mod01",
+  "module": 1,
+  "title": "1 Juan — Dios es Luz y Dios es Amor",
+  "subtitle": "1 Juan 1–5",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué mensaje central anuncia Juan sobre la identidad de Dios, en 1 Juan 1?",
+      "options": ["«Dios es luz y en él no hay tiniebla alguna»", "Que Dios permanece oculto e incomprensible", "Que la naturaleza de Dios es indiferente al bien y al mal"],
+      "correct": 0,
+      "hint": "Añade que si decimos estar en comunión con él «y vivimos en las tinieblas, mentimos».",
+      "explanation": "1Jn 1,5: «Dios es luz y en él no hay tiniebla alguna»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios es luz y en él no hay ___ alguna.",
+      "options": ["tiniebla", "duda", "sombra"],
+      "answer": "tiniebla",
+      "explanation": "1Jn 1,5: esta naturaleza de Dios como luz invita a una vida de coherencia y verdad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Jn 1,5 · Dios es luz",
+      "direction": "es-es",
+      "tiles": ["Dios", "es", "luz", "y", "en", "él", "no", "hay", "tiniebla", "alguna", "duda", "sombra"],
+      "answer": "Dios es luz y en él no hay tiniebla alguna",
+      "explanation": "1Jn 1,5: esta naturaleza de Dios como luz invita a una vida de coherencia y verdad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Dios es luz", "es": "La naturaleza de Dios sin oscuridad" },
+        { "en": "Nos limpiará de toda injusticia", "es": "El perdón a quien confiesa el pecado" },
+        { "en": "No améis al mundo", "es": "La incompatibilidad entre el amor al mundo y a Dios" },
+        { "en": "Llamarnos hijos de Dios", "es": "La identidad filial de los creyentes" },
+        { "en": "Dio su vida por nosotros", "es": "El amor demostrado en la entrega de Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Juan a quienes confiesan sus pecados, en 1 Juan 1?",
+      "options": ["Que deben esperar un largo proceso de purificación", "«Él, que es fiel y justo, nos perdonará los pecados y nos limpiará de toda injusticia»", "Que el perdón depende de méritos acumulados"],
+      "correct": 1,
+      "hint": "Antes advierte que negar el pecado nos hace «engañarnos» a nosotros mismos.",
+      "explanation": "1Jn 1,9: «él, que es fiel y justo, nos perdonará los pecados y nos limpiará de toda injusticia»."
+    },
+    {
+      "type": "gap",
+      "text": "Si confesamos nuestros pecados, él, que es fiel y justo, nos perdonará los pecados y nos limpiará de toda ___.",
+      "options": ["injusticia", "culpa", "maldad"],
+      "answer": "injusticia",
+      "explanation": "1Jn 1,9: este perdón tras la confesión libera de la culpa cuando se reconoce el pecado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Jn 1,9 · Nos limpiará de toda injusticia",
+      "direction": "es-es",
+      "tiles": ["Nos", "limpiará", "de", "toda", "injusticia", "culpa", "maldad"],
+      "answer": "Nos limpiará de toda injusticia",
+      "explanation": "1Jn 1,9: este perdón tras la confesión libera de la culpa cuando se reconoce el pecado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advertencia da Juan sobre el amor al mundo, en 1 Juan 2?",
+      "options": ["Que es compatible sin problema con el amor a Dios", "Que solo afecta a quienes ya son débiles en la fe", "«No améis al mundo... si alguno ama al mundo, no está en él el amor del Padre»"],
+      "correct": 2,
+      "hint": "Añade que en el mundo está «la concupiscencia de la carne».",
+      "explanation": "1Jn 2,15: «no améis al mundo... si alguno ama al mundo, no está en él el amor del Padre»."
+    },
+    {
+      "type": "gap",
+      "text": "No améis al mundo ni lo que hay en el ___.",
+      "options": ["mundo", "tiempo", "siglo"],
+      "answer": "mundo",
+      "explanation": "1Jn 2,15: esta advertencia señala la incompatibilidad entre el amor al mundo y a Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Jn 2,15 · No améis al mundo",
+      "direction": "es-es",
+      "tiles": ["No", "améis", "al", "mundo", "ni", "lo", "que", "hay", "en", "el", "mundo", "tiempo", "siglo"],
+      "answer": "No améis al mundo ni lo que hay en el mundo",
+      "explanation": "1Jn 2,15: esta advertencia señala la incompatibilidad entre el amor al mundo y a Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Dios es amor", "es": "1 Juan 4,8" },
+        { "en": "El amor perfecto expulsa el temor", "es": "1 Juan 4,18" },
+        { "en": "Él nos amó primero", "es": "1 Juan 4,19" },
+        { "en": "La victoria... es nuestra fe", "es": "1 Juan 5,4" },
+        { "en": "No améis al mundo", "es": "1 Juan 2,15" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Juan el amor del Padre hacia los creyentes, en 1 Juan 3?",
+      "options": ["«Mirad qué amor nos ha tenido el Padre para llamarnos hijos de Dios, pues lo somos»", "Como un amor condicionado a méritos previos", "Como algo reservado solo para el futuro, no para el presente"],
+      "correct": 0,
+      "hint": "Añade que «el mundo no nos conoce porque no lo conoció a él».",
+      "explanation": "1Jn 3,1: «mirad qué amor nos ha tenido el Padre para llamarnos hijos de Dios, pues lo somos»."
+    },
+    {
+      "type": "gap",
+      "text": "Mirad qué amor nos ha tenido el Padre para llamarnos hijos de ___.",
+      "options": ["Dios", "la luz", "la gracia"],
+      "answer": "Dios",
+      "explanation": "1Jn 3,1: esta filiación divina del creyente funda su dignidad más allá de las apariencias."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Jn 3,1 · Hijos de Dios",
+      "direction": "es-es",
+      "tiles": ["Nos", "ha", "tenido", "el", "Padre", "para", "llamarnos", "hijos", "de", "Dios", "luz", "gracia"],
+      "answer": "Nos ha tenido el Padre para llamarnos hijos de Dios",
+      "explanation": "1Jn 3,1: esta filiación divina del creyente funda su dignidad más allá de las apariencias."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La primera carta de Juan", "es": "Combate a quienes negaban que Jesús hubiera venido en carne" },
+        { "en": "El tema del amor", "es": "Es central y recurrente en toda la carta" },
+        { "en": "La oposición entre luz y tinieblas", "es": "Estructura buena parte del argumento de la carta" },
+        { "en": "La confesión de los pecados", "es": "Se presenta como camino seguro hacia el perdón" },
+        { "en": "La fe en Jesucristo", "es": "Se identifica como la fuerza que vence al mundo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se ha conocido el amor verdadero, según Juan, en 1 Juan 3?",
+      "options": ["A través de discursos teóricos sobre el amor", "«En esto hemos conocido el amor: en que él dio su vida por nosotros»", "Únicamente mediante señales y prodigios"],
+      "correct": 1,
+      "hint": "Añade que «también nosotros debemos dar nuestra vida por los hermanos».",
+      "explanation": "1Jn 3,16: «en esto hemos conocido el amor: en que él dio su vida por nosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "En esto hemos conocido el amor: en que él dio su ___ por nosotros.",
+      "options": ["vida", "sangre", "cuerpo"],
+      "answer": "vida",
+      "explanation": "1Jn 3,16: este amor demostrado en la entrega de Cristo se convierte en modelo del amor cristiano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Juan sobre quien no ama, en 1 Juan 4?",
+      "options": ["Que igualmente puede conocer a Dios por otros medios", "Que el amor es solo una virtud opcional entre otras", "«Quien no ama no ha conocido a Dios, porque Dios es amor»"],
+      "correct": 2,
+      "hint": "Añade que «en esto se manifestó el amor que Dios nos tiene».",
+      "explanation": "1Jn 4,8: «quien no ama no ha conocido a Dios, porque Dios es amor»."
+    },
+    {
+      "type": "gap",
+      "text": "Quien no ama no ha conocido a Dios, porque Dios es ___.",
+      "options": ["amor", "luz", "vida"],
+      "answer": "amor",
+      "explanation": "1Jn 4,8: esta afirmación central resume la identidad de Dios revelada en la carta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Jn 4,8 · Dios es amor",
+      "direction": "es-es",
+      "tiles": ["Quien", "no", "ama", "no", "ha", "conocido", "a", "Dios", "luz", "vida"],
+      "answer": "Quien no ama no ha conocido a Dios",
+      "explanation": "1Jn 4,8: esta afirmación central resume la identidad de Dios revelada en la carta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué relación establece Juan entre el amor y el temor, en 1 Juan 4?",
+      "options": ["«No hay temor en el amor, sino que el amor perfecto expulsa el temor»", "Que el temor y el amor deben coexistir siempre", "Que el temor es la base necesaria de todo amor verdadero"],
+      "correct": 0,
+      "hint": "Añade que «el temor tiene que ver con el castigo».",
+      "explanation": "1Jn 4,18: «no hay temor en el amor, sino que el amor perfecto expulsa el temor»."
+    },
+    {
+      "type": "gap",
+      "text": "No hay temor en el amor, sino que el amor perfecto ___ el temor.",
+      "options": ["expulsa", "vence", "calma"],
+      "answer": "expulsa",
+      "explanation": "1Jn 4,18: este amor que expulsa el temor transforma la relación con Dios en confianza, no en miedo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Jn 4,18 · El amor expulsa el temor",
+      "direction": "es-es",
+      "tiles": ["El", "amor", "perfecto", "expulsa", "el", "temor", "vence", "calma"],
+      "answer": "El amor perfecto expulsa el temor",
+      "explanation": "1Jn 4,18: este amor que expulsa el temor transforma la relación con Dios en confianza, no en miedo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La luz sin tiniebla de Dios", "es": "Invita a una vida de coherencia y verdad" },
+        { "en": "El perdón tras la confesión", "es": "Libera de la culpa cuando se reconoce el pecado" },
+        { "en": "La filiación divina del creyente", "es": "Funda su dignidad más allá de las apariencias" },
+        { "en": "El amor demostrado en la entrega", "es": "Se convierte en modelo del amor cristiano" },
+        { "en": "El amor que expulsa el temor", "es": "Transforma la relación con Dios en confianza, no en miedo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué afirma Juan que los creyentes pueden amar a Dios, en 1 Juan 4?",
+      "options": ["Porque lo han merecido con sus propias obras", "«Nosotros amemos a Dios, porque él nos amó primero»", "Porque la ley se lo exige estrictamente"],
+      "correct": 1,
+      "hint": "Esta frase sigue inmediatamente a la enseñanza sobre el amor que expulsa el temor.",
+      "explanation": "1Jn 4,19: «nosotros amemos a Dios, porque él nos amó primero»."
+    },
+    {
+      "type": "gap",
+      "text": "Nosotros amemos a Dios, porque él nos amó ___.",
+      "options": ["primero", "siempre", "tanto"],
+      "answer": "primero",
+      "explanation": "1Jn 4,19: el amor de Dios precede siempre a la respuesta humana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Jn 4,19 · Él nos amó primero",
+      "direction": "es-es",
+      "tiles": ["Él", "nos", "amó", "primero", "siempre", "tanto"],
+      "answer": "Él nos amó primero",
+      "explanation": "1Jn 4,19: el amor de Dios precede siempre a la respuesta humana."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué es, según Juan, lo que da la victoria sobre el mundo, en 1 Juan 5?",
+      "options": ["La riqueza y el poder acumulados", "El aislamiento completo respecto a los demás", "«Todo lo que ha nacido de Dios vence al mundo... lo que ha conseguido la victoria... es nuestra fe»"],
+      "correct": 2,
+      "hint": "Añade: «¿quién es el que vence al mundo sino el que cree que Jesús es...?»",
+      "explanation": "1Jn 5,4: «todo lo que ha nacido de Dios vence al mundo... lo que ha conseguido la victoria sobre el mundo es nuestra fe»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo lo que ha nacido de Dios vence al mundo... lo que ha conseguido la victoria... es nuestra ___.",
+      "options": ["fe", "esperanza", "oración"],
+      "answer": "fe",
+      "explanation": "1Jn 5,4: la fe en Jesucristo se identifica como la fuerza que vence al mundo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Jn 5,4 · La victoria es nuestra fe",
+      "direction": "es-es",
+      "tiles": ["Lo", "que", "ha", "conseguido", "la", "victoria", "sobre", "el", "mundo", "es", "nuestra", "fe", "esperanza", "oración"],
+      "answer": "Lo que ha conseguido la victoria sobre el mundo es nuestra fe",
+      "explanation": "1Jn 5,4: la fe en Jesucristo se identifica como la fuerza que vence al mundo."
+    }
+  ]
+}
