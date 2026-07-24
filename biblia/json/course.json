@@ -194,7 +194,17 @@
         { "n": 1, "title": "Judas — Combatir por la Fe Recibida", "es": "Judas · Combatir por la Fe", "file": "jud/mod01.json" }
       ]
     },
-    { "code": "APO", "name": "Apocalipsis",                    "color": "#C43535", "locked": true, "moduleCount": 2 },
+    {
+      "code": "APO",
+      "name": "Apocalipsis",
+      "sub": "3 módulos · Completo",
+      "color": "#C43535",
+      "modules": [
+        { "n": 1, "title": "Apocalipsis I — Cristo Glorioso y las Siete Iglesias",       "es": "Apocalipsis I · Siete Iglesias (Ap 1–7)",   "file": "apo/mod01.json" },
+        { "n": 2, "title": "Apocalipsis II — La Mujer, el Dragón y las Bestias",         "es": "Apocalipsis II · La Mujer y el Dragón (Ap 8–14)", "file": "apo/mod02.json" },
+        { "n": 3, "title": "Apocalipsis III — Las Bodas del Cordero y la Nueva Jerusalén", "es": "Apocalipsis III · Nueva Jerusalén (Ap 15–22)", "file": "apo/mod03.json" }
+      ]
+    },
     { "code": "APX", "name": "Textos Apócrifos",               "color": "#6B5B95", "locked": true, "moduleCount": 8 }
   ]
 }

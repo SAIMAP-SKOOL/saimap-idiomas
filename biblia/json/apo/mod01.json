@@ -1,0 +1,251 @@
+{
+  "id": "apo-mod01",
+  "module": 1,
+  "title": "Apocalipsis I — Cristo Glorioso y las Siete Iglesias",
+  "subtitle": "Apocalipsis 1–7",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo se presenta el Señor Dios al comienzo del Apocalipsis, en Apocalipsis 1?",
+      "options": ["«Yo soy el Alfa y la Omega, el que es, el que era y ha de venir, el todopoderoso»", "Como una figura lejana, ajena a la historia humana", "Como alguien que solo actuará en un futuro distante"],
+      "correct": 0,
+      "hint": "Lo dice como afirmación solemne al inicio de la visión de Juan.",
+      "explanation": "Ap 1,8: «yo soy el Alfa y la Omega, el que es, el que era y ha de venir, el todopoderoso»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy el Alfa y la ___, el que es, el que era y ha de venir.",
+      "options": ["Omega", "Palabra", "Vida"],
+      "answer": "Omega",
+      "explanation": "Ap 1,8: esta eternidad de Dios da sentido a toda la historia dentro de su designio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 1,8 · Alfa y Omega",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "el", "Alfa", "y", "la", "Omega", "Palabra", "Vida"],
+      "answer": "Yo soy el Alfa y la Omega",
+      "explanation": "Ap 1,8: esta eternidad de Dios da sentido a toda la historia dentro de su designio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Alfa y Omega", "es": "La eternidad de Dios" },
+        { "en": "Primero y el Último", "es": "La victoria de Cristo sobre la muerte" },
+        { "en": "Has abandonado tu amor primero", "es": "La corrección a la Iglesia de Éfeso" },
+        { "en": "Corona de la vida", "es": "La promesa a los perseguidos de Esmirna" },
+        { "en": "A la puerta y llamo", "es": "La invitación a la comunión con Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Cristo a Juan cuando este cae como muerto ante su visión, en Apocalipsis 1?",
+      "options": ["Que debe alejarse de inmediato por su propia seguridad", "«No temas; yo soy el Primero y el Último, el Viviente; estuve muerto, pero ya ves: vivo por los siglos de los siglos»", "Que espere una señal adicional antes de escribir nada"],
+      "correct": 1,
+      "hint": "Añade que tiene «las llaves» de la muerte y del abismo.",
+      "explanation": "Ap 1,17-18: «no temas; yo soy el Primero y el Último, el Viviente; estuve muerto, pero ya ves: vivo por los siglos de los siglos»."
+    },
+    {
+      "type": "gap",
+      "text": "No temas; yo soy el Primero y el ___, el Viviente.",
+      "options": ["Último", "Eterno", "Señor"],
+      "answer": "Último",
+      "explanation": "Ap 1,17: esta victoria de Cristo sobre la muerte fundamenta la esperanza ante el sufrimiento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 1,17 · El Primero y el Último",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "el", "Primero", "y", "el", "Último", "Eterno", "Señor"],
+      "answer": "Yo soy el Primero y el Último",
+      "explanation": "Ap 1,17: esta victoria de Cristo sobre la muerte fundamenta la esperanza ante el sufrimiento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha Cristo a la Iglesia de Éfeso, en Apocalipsis 2?",
+      "options": ["Que ha mostrado demasiada paciencia con los falsos apóstoles", "Que no ha trabajado lo suficiente por el Evangelio", "«Has abandonado tu amor primero»"],
+      "correct": 2,
+      "hint": "Le pide «acordarte de dónde has caído» y hacer «las obras primeras».",
+      "explanation": "Ap 2,4: «has abandonado tu amor primero»."
+    },
+    {
+      "type": "gap",
+      "text": "Tengo contra ti que has abandonado tu amor ___.",
+      "options": ["primero", "verdadero", "antiguo"],
+      "answer": "primero",
+      "explanation": "Ap 2,4: esta llamada a recuperar el primer amor advierte contra la rutina en la vida de fe."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 2,4 · Tu amor primero",
+      "direction": "es-es",
+      "tiles": ["Has", "abandonado", "tu", "amor", "primero", "verdadero", "antiguo"],
+      "answer": "Has abandonado tu amor primero",
+      "explanation": "Ap 2,4: esta llamada a recuperar el primer amor advierte contra la rutina en la vida de fe."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Has abandonado tu amor primero", "es": "Apocalipsis 2,4" },
+        { "en": "Corona de la vida", "es": "Apocalipsis 2,10" },
+        { "en": "Ni frío ni caliente", "es": "Apocalipsis 3,16" },
+        { "en": "Santo Santo Santo", "es": "Apocalipsis 4,8" },
+        { "en": "Digno es el Cordero", "es": "Apocalipsis 5,12" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa hace Cristo a la Iglesia de Esmirna ante la persecución venidera, en Apocalipsis 2?",
+      "options": ["«Sé fiel hasta la muerte y te daré la corona de la vida»", "Que la persecución terminará antes de empezar", "Que deben huir de la ciudad de inmediato"],
+      "correct": 0,
+      "hint": "Antes advierte que algunos serán encarcelados «para que seáis tentados durante diez días».",
+      "explanation": "Ap 2,10: «sé fiel hasta la muerte y te daré la corona de la vida»."
+    },
+    {
+      "type": "gap",
+      "text": "Sé fiel hasta la muerte y te daré la corona de la ___.",
+      "options": ["vida", "gloria", "fe"],
+      "answer": "vida",
+      "explanation": "Ap 2,10: esta promesa a los perseguidos de Esmirna anima a la fidelidad hasta el final."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 2,10 · La corona de la vida",
+      "direction": "es-es",
+      "tiles": ["Sé", "fiel", "hasta", "la", "muerte", "gloria", "fe"],
+      "answer": "Sé fiel hasta la muerte",
+      "explanation": "Ap 2,10: esta promesa a los perseguidos de Esmirna anima a la fidelidad hasta el final."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "El Apocalipsis", "es": "Fue escrito por Juan durante un destierro en la isla de Patmos" },
+        { "en": "Las siete cartas a las Iglesias", "es": "Combinan elogios y reproches concretos a cada comunidad" },
+        { "en": "La visión del trono", "es": "Describe veinticuatro ancianos y cuatro seres vivientes" },
+        { "en": "El Cordero degollado", "es": "Es la imagen central de Cristo victorioso en el libro" },
+        { "en": "La promesa de enjugar las lágrimas", "es": "Pertenece a la visión de la gran muchedumbre salvada" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué reprocha Cristo a la Iglesia de Laodicea por su tibieza, en Apocalipsis 3?",
+      "options": ["Que su tibieza es en realidad una virtud discreta", "«Porque eres tibio, ni frío ni caliente, estoy a punto de vomitarte de mi boca»", "Que su actitud no tiene ninguna consecuencia real"],
+      "correct": 1,
+      "hint": "Añade que dicen «soy rico... y no tengo necesidad de nada».",
+      "explanation": "Ap 3,16: «porque eres tibio, ni frío ni caliente, estoy a punto de vomitarte de mi boca»."
+    },
+    {
+      "type": "gap",
+      "text": "Porque eres tibio, ni frío ni caliente, estoy a punto de ___ de mi boca.",
+      "options": ["vomitarte", "rechazarte", "alejarte"],
+      "answer": "vomitarte",
+      "explanation": "Ap 3,16: esta tibieza espiritual resulta más peligrosa que el frío o el calor declarados."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen usa Cristo para describir su deseo de entrar en comunión con el creyente, en Apocalipsis 3?",
+      "options": ["La de un juez que exige cuentas sin previo aviso", "La de un extraño que exige entrada por la fuerza", "«Estoy de pie a la puerta y llamo. Si alguien escucha mi voz y abre la puerta, entraré en su casa»"],
+      "correct": 2,
+      "hint": "Promete al vencedor «sentarse conmigo en mi trono».",
+      "explanation": "Ap 3,20: «estoy de pie a la puerta y llamo. Si alguien escucha mi voz y abre la puerta, entraré en su casa»."
+    },
+    {
+      "type": "gap",
+      "text": "Estoy de pie a la puerta y ___. Si alguien escucha mi voz y abre la puerta, entraré.",
+      "options": ["llamo", "espero", "insisto"],
+      "answer": "llamo",
+      "explanation": "Ap 3,20: esta invitación a abrir la puerta respeta la libertad humana para acoger a Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 3,20 · A la puerta y llamo",
+      "direction": "es-es",
+      "tiles": ["Estoy", "de", "pie", "a", "la", "puerta", "y", "llamo", "espero", "insisto"],
+      "answer": "Estoy de pie a la puerta y llamo",
+      "explanation": "Ap 3,20: esta invitación a abrir la puerta respeta la libertad humana para acoger a Cristo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La eternidad de Dios como Alfa y Omega", "es": "Da sentido a toda la historia dentro de su designio" },
+        { "en": "La victoria de Cristo sobre la muerte", "es": "Fundamenta la esperanza ante el sufrimiento" },
+        { "en": "La llamada a recuperar el primer amor", "es": "Advierte contra la rutina en la vida de fe" },
+        { "en": "La tibieza espiritual", "es": "Resulta más peligrosa que el frío o el calor declarados" },
+        { "en": "La invitación a abrir la puerta", "es": "Respeta la libertad humana para acoger a Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cantan sin cesar los seres vivientes ante el trono de Dios, en Apocalipsis 4?",
+      "options": ["«Santo, Santo, Santo es el Señor Dios, el todopoderoso; el que era y es y ha de venir»", "Un lamento por los pecados del mundo", "Una petición urgente de intervención inmediata"],
+      "correct": 0,
+      "hint": "Ante este canto, los veinticuatro ancianos «arrojan sus coronas ante el trono».",
+      "explanation": "Ap 4,8: «Santo, Santo, Santo es el Señor Dios, el todopoderoso; el que era y es y ha de venir»."
+    },
+    {
+      "type": "gap",
+      "text": "Santo, Santo, Santo es el Señor Dios, el ___.",
+      "options": ["todopoderoso", "eterno", "altísimo"],
+      "answer": "todopoderoso",
+      "explanation": "Ap 4,8: este canto describe la visión del trono con veinticuatro ancianos y cuatro seres vivientes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 4,8 · Santo, Santo, Santo",
+      "direction": "es-es",
+      "tiles": ["Santo", "Santo", "Santo", "es", "el", "Señor", "Dios", "eterno", "altísimo"],
+      "answer": "Santo Santo Santo es el Señor Dios",
+      "explanation": "Ap 4,8: este canto describe la visión del trono con veinticuatro ancianos y cuatro seres vivientes."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclaman las miríadas de ángeles sobre el Cordero degollado, en Apocalipsis 5?",
+      "options": ["Que merece solo un reconocimiento parcial y limitado", "«Digno es el Cordero degollado de recibir el poder, la riqueza, la sabiduría, la fuerza, el honor, la gloria y la alabanza»", "Que su sacrificio ya no tiene ninguna relevancia actual"],
+      "correct": 1,
+      "hint": "Antes se dice que eran «miles de miles, miríadas de miríadas».",
+      "explanation": "Ap 5,12: «digno es el Cordero degollado de recibir el poder, la riqueza, la sabiduría, la fuerza, el honor, la gloria y la alabanza»."
+    },
+    {
+      "type": "gap",
+      "text": "Digno es el Cordero degollado de recibir el poder, la riqueza, la sabiduría, la fuerza, el honor, la gloria y la ___.",
+      "options": ["alabanza", "victoria", "paz"],
+      "answer": "alabanza",
+      "explanation": "Ap 5,12: el Cordero degollado es la imagen central de Cristo victorioso en el libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 5,12 · Digno es el Cordero",
+      "direction": "es-es",
+      "tiles": ["Digno", "es", "el", "Cordero", "degollado", "victoria", "paz"],
+      "answer": "Digno es el Cordero degollado",
+      "explanation": "Ap 5,12: el Cordero degollado es la imagen central de Cristo victorioso en el libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete el libro del Apocalipsis a quienes han pasado por la gran tribulación, en Apocalipsis 7?",
+      "options": ["Que deberán seguir sufriendo indefinidamente", "Que su recompensa será solo simbólica, sin cambio real", "«Dios enjugará toda lágrima de sus ojos»"],
+      "correct": 2,
+      "hint": "Antes se dice que serán conducidos «hacia fuentes de aguas vivas».",
+      "explanation": "Ap 7,17: «Dios enjugará toda lágrima de sus ojos»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios enjugará toda ___ de sus ojos.",
+      "options": ["lágrima", "pena", "huella"],
+      "answer": "lágrima",
+      "explanation": "Ap 7,17: esta promesa pertenece a la visión de la gran muchedumbre salvada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 7,17 · Toda lágrima enjugada",
+      "direction": "es-es",
+      "tiles": ["Dios", "enjugará", "toda", "lágrima", "de", "sus", "ojos", "pena", "huella"],
+      "answer": "Dios enjugará toda lágrima de sus ojos",
+      "explanation": "Ap 7,17: esta promesa pertenece a la visión de la gran muchedumbre salvada."
+    }
+  ]
+}

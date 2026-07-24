@@ -1,0 +1,251 @@
+{
+  "id": "apo-mod02",
+  "module": 2,
+  "title": "Apocalipsis II — La Mujer, el Dragón y las Bestias",
+  "subtitle": "Apocalipsis 8–14",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué proclaman las grandes voces en el cielo al sonar la séptima trompeta, en Apocalipsis 11?",
+      "options": ["«El reino del mundo ha pasado a nuestro Señor y a su Cristo, y reinará por los siglos de los siglos»", "Que el mundo continuará bajo el mismo dominio de siempre", "Que aún falta mucho tiempo para cualquier cambio decisivo"],
+      "correct": 0,
+      "hint": "Ante esta proclamación, «los veinticuatro ancianos... cayeron rostro a tierra».",
+      "explanation": "Ap 11,15: «el reino del mundo ha pasado a nuestro Señor y a su Cristo, y reinará por los siglos de los siglos»."
+    },
+    {
+      "type": "gap",
+      "text": "El reino del mundo ha pasado a nuestro Señor y a su Cristo, y reinará por los siglos de los ___.",
+      "options": ["siglos", "tiempos", "días"],
+      "answer": "siglos",
+      "explanation": "Ap 11,15: este triunfo final de Dios da sentido a toda la lucha histórica del creyente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 11,15 · El reino del mundo",
+      "direction": "es-es",
+      "tiles": ["El", "reino", "del", "mundo", "ha", "pasado", "a", "nuestro", "Señor", "tiempos", "días"],
+      "answer": "El reino del mundo ha pasado a nuestro Señor",
+      "explanation": "Ap 11,15: este triunfo final de Dios da sentido a toda la lucha histórica del creyente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "El reino del mundo ha pasado a nuestro Señor", "es": "El anuncio del triunfo definitivo de Dios" },
+        { "en": "Mujer vestida del sol", "es": "El signo de la mujer y el dragón" },
+        { "en": "Miguel combatió contra el dragón", "es": "La batalla celestial entre el bien y el mal" },
+        { "en": "La bestia que salía del mar", "es": "El poder opresor representado simbólicamente" },
+        { "en": "El Cordero en el monte Sión", "es": "La victoria final junto a los redimidos" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué gran signo aparece en el cielo al comienzo de Apocalipsis 12?",
+      "options": ["Una tormenta que anuncia destrucción inminente", "«Una mujer vestida del sol, y la luna bajo sus pies y una corona de doce estrellas»", "Un ejército de ángeles descendiendo en silencio"],
+      "correct": 1,
+      "hint": "Añade que estaba «encinta, y grita con dolores de parto».",
+      "explanation": "Ap 12,1: «una mujer vestida del sol, y la luna bajo sus pies y una corona de doce estrellas»."
+    },
+    {
+      "type": "gap",
+      "text": "Una mujer vestida del sol, y la luna bajo sus pies y una corona de doce ___.",
+      "options": ["estrellas", "ángeles", "luces"],
+      "answer": "estrellas",
+      "explanation": "Ap 12,1: esta mujer vestida de sol ha sido interpretada tradicionalmente como símbolo de la Iglesia o de María."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 12,1 · Una mujer vestida del sol",
+      "direction": "es-es",
+      "tiles": ["Una", "mujer", "vestida", "del", "sol", "ángeles", "luces"],
+      "answer": "Una mujer vestida del sol",
+      "explanation": "Ap 12,1: esta mujer vestida de sol ha sido interpretada tradicionalmente como símbolo de la Iglesia o de María."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre en el cielo entre Miguel y el dragón, en Apocalipsis 12?",
+      "options": ["Una negociación que termina en un pacto temporal", "Que el dragón se retira antes de que empiece cualquier confrontación", "«Hubo un combate en el cielo: Miguel y sus ángeles combatieron contra el dragón»"],
+      "correct": 2,
+      "hint": "El resultado es que el dragón «no prevaleció» y fue precipitado.",
+      "explanation": "Ap 12,7: «hubo un combate en el cielo: Miguel y sus ángeles combatieron contra el dragón»."
+    },
+    {
+      "type": "gap",
+      "text": "Hubo un combate en el cielo: Miguel y sus ángeles combatieron contra el ___.",
+      "options": ["dragón", "enemigo", "acusador"],
+      "answer": "dragón",
+      "explanation": "Ap 12,7: este combate espiritual entre el bien y el mal se libra también en la vida de cada persona."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 12,7 · La batalla celestial",
+      "direction": "es-es",
+      "tiles": ["Miguel", "y", "sus", "ángeles", "combatieron", "contra", "el", "dragón", "enemigo", "acusador"],
+      "answer": "Miguel y sus ángeles combatieron contra el dragón",
+      "explanation": "Ap 12,7: este combate espiritual entre el bien y el mal se libra también en la vida de cada persona."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "El reino del mundo ha pasado a nuestro Señor", "es": "Apocalipsis 11,15" },
+        { "en": "Mujer vestida del sol", "es": "Apocalipsis 12,1" },
+        { "en": "En virtud de la sangre del Cordero", "es": "Apocalipsis 12,11" },
+        { "en": "Diez cuernos y siete cabezas", "es": "Apocalipsis 13,1" },
+        { "en": "Bienaventurados los muertos que mueren en el Señor", "es": "Apocalipsis 14,13" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo identifica el texto al gran dragón derrotado, en Apocalipsis 12?",
+      "options": ["«La serpiente antigua, el llamado Diablo y Satanás, el que engaña al mundo entero»", "Como una fuerza neutral sin intención de dañar", "Como un personaje secundario sin relevancia en la narración"],
+      "correct": 0,
+      "hint": "Es precipitado a la tierra junto con «sus ángeles».",
+      "explanation": "Ap 12,9: «la serpiente antigua, el llamado Diablo y Satanás, el que engaña al mundo entero»."
+    },
+    {
+      "type": "gap",
+      "text": "Fue precipitado el gran dragón, la serpiente antigua, el llamado Diablo y ___.",
+      "options": ["Satanás", "el Maligno", "el Impío"],
+      "answer": "Satanás",
+      "explanation": "Ap 12,9: este dragón derrotado se identifica explícitamente como Satanás, el engañador."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La séptima trompeta", "es": "Anuncia el establecimiento definitivo del reino de Dios" },
+        { "en": "La mujer vestida de sol", "es": "Ha sido interpretada tradicionalmente como símbolo de la Iglesia o de María" },
+        { "en": "El dragón derrotado", "es": "Se identifica explícitamente como Satanás, el engañador" },
+        { "en": "La bestia del mar", "es": "Representa el poder político opresor que persigue a los santos" },
+        { "en": "Los ciento cuarenta y cuatro mil", "es": "Aparecen sellados junto al Cordero en el monte Sión" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué armas vencen los hermanos al acusador, según Apocalipsis 12?",
+      "options": ["Con estrategias puramente humanas de poder", "«En virtud de la sangre del Cordero y de la palabra del testimonio»", "Evitando cualquier riesgo o compromiso personal"],
+      "correct": 1,
+      "hint": "Añade que «no amaron tanto su vida que temieran la muerte».",
+      "explanation": "Ap 12,11: «en virtud de la sangre del Cordero y de la palabra del testimonio»."
+    },
+    {
+      "type": "gap",
+      "text": "Ellos lo vencieron en virtud de la sangre del Cordero y de la palabra del ___.",
+      "options": ["testimonio", "Evangelio", "mensaje"],
+      "answer": "testimonio",
+      "explanation": "Ap 12,11: esta victoria por la sangre del Cordero no depende de la fuerza humana sino del testimonio fiel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 12,11 · La sangre del Cordero",
+      "direction": "es-es",
+      "tiles": ["En", "virtud", "de", "la", "sangre", "del", "Cordero", "Evangelio", "mensaje"],
+      "answer": "En virtud de la sangre del Cordero",
+      "explanation": "Ap 12,11: esta victoria por la sangre del Cordero no depende de la fuerza humana sino del testimonio fiel."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Juan a la bestia que sale del mar, en Apocalipsis 13?",
+      "options": ["Como una criatura pequeña y fácil de ignorar", "Sin ningún rasgo distintivo digno de mención", "«Tenía diez cuernos y siete cabezas, llevaba en los cuernos diez diademas»"],
+      "correct": 2,
+      "hint": "Añade que en sus cabezas llevaba «un nombre blasfemo».",
+      "explanation": "Ap 13,1: «tenía diez cuernos y siete cabezas, llevaba en los cuernos diez diademas»."
+    },
+    {
+      "type": "gap",
+      "text": "Vi una bestia que salía del mar; tenía diez cuernos y siete ___.",
+      "options": ["cabezas", "coronas", "alas"],
+      "answer": "cabezas",
+      "explanation": "Ap 13,1: esta bestia del mar representa el poder político opresor que persigue a los santos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 13,1 · La bestia del mar",
+      "direction": "es-es",
+      "tiles": ["Tenía", "diez", "cuernos", "y", "siete", "cabezas", "coronas", "alas"],
+      "answer": "Tenía diez cuernos y siete cabezas",
+      "explanation": "Ap 13,1: esta bestia del mar representa el poder político opresor que persigue a los santos."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El triunfo final de Dios", "es": "Da sentido a toda la lucha histórica del creyente" },
+        { "en": "El combate espiritual entre el bien y el mal", "es": "Se libra también en la vida de cada persona" },
+        { "en": "La victoria por la sangre del Cordero", "es": "No depende de la fuerza humana sino del testimonio fiel" },
+        { "en": "El descanso prometido a los fieles difuntos", "es": "Consuela ante el sufrimiento y la persecución" },
+        { "en": "La persecución del dragón contra los fieles", "es": "Advierte que el conflicto continúa tras su derrota inicial" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué visión tiene Juan del Cordero en el monte Sión, en Apocalipsis 14?",
+      "options": ["«El Cordero estaba de pie sobre el monte Sión, y con él ciento cuarenta y cuatro mil»", "Que estaba completamente solo, sin acompañantes", "Que aparecía derrotado tras una gran batalla"],
+      "correct": 0,
+      "hint": "Estos llevaban «grabados en la frente su nombre y el nombre de su Padre».",
+      "explanation": "Ap 14,1: «el Cordero estaba de pie sobre el monte Sión, y con él ciento cuarenta y cuatro mil»."
+    },
+    {
+      "type": "gap",
+      "text": "El Cordero estaba de pie sobre el monte ___, y con él ciento cuarenta y cuatro mil.",
+      "options": ["Sión", "Sinaí", "Carmelo"],
+      "answer": "Sión",
+      "explanation": "Ap 14,1: los ciento cuarenta y cuatro mil aparecen sellados junto al Cordero en el monte Sión."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 14,1 · El Cordero en el monte Sión",
+      "direction": "es-es",
+      "tiles": ["El", "Cordero", "estaba", "de", "pie", "sobre", "el", "monte", "Sión", "Sinaí", "Carmelo"],
+      "answer": "El Cordero estaba de pie sobre el monte Sión",
+      "explanation": "Ap 14,1: los ciento cuarenta y cuatro mil aparecen sellados junto al Cordero en el monte Sión."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué bienaventuranza se proclama sobre quienes mueren en el Señor, en Apocalipsis 14?",
+      "options": ["Que su recuerdo se desvanecerá con el tiempo", "«Que descansen de sus fatigas, porque sus obras los acompañan»", "Que deberán esperar sin ningún descanso posible"],
+      "correct": 1,
+      "hint": "Antes se dice: «¡Bienaventurados los muertos, los que mueren en el Señor!».",
+      "explanation": "Ap 14,13: «que descansen de sus fatigas, porque sus obras los acompañan»."
+    },
+    {
+      "type": "gap",
+      "text": "Bienaventurados los muertos, los que mueren en el ___.",
+      "options": ["Señor", "mundo", "tiempo"],
+      "answer": "Señor",
+      "explanation": "Ap 14,13: este descanso prometido a los fieles difuntos consuela ante el sufrimiento y la persecución."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 14,13 · Bienaventurados los que mueren en el Señor",
+      "direction": "es-es",
+      "tiles": ["Bienaventurados", "los", "muertos", "que", "mueren", "en", "el", "Señor", "mundo", "tiempo"],
+      "answer": "Bienaventurados los muertos que mueren en el Señor",
+      "explanation": "Ap 14,13: este descanso prometido a los fieles difuntos consuela ante el sufrimiento y la persecución."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Contra quiénes dirige el dragón su ira tras ser derrotado en el cielo, en Apocalipsis 12?",
+      "options": ["Contra sí mismo, sin buscar ya ningún otro objetivo", "Contra fuerzas puramente naturales, sin relación con los creyentes", "«Contra el resto de su descendencia, los que guardan los mandamientos de Dios»"],
+      "correct": 2,
+      "hint": "Se dice que estos «mantienen el testimonio de Jesús».",
+      "explanation": "Ap 12,17: «contra el resto de su descendencia, los que guardan los mandamientos de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "El dragón se llenó de ira y se fue a hacer la guerra al resto de su ___.",
+      "options": ["descendencia", "pueblo", "rebaño"],
+      "answer": "descendencia",
+      "explanation": "Ap 12,17: esta persecución del dragón contra los fieles advierte que el conflicto continúa tras su derrota inicial."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 12,17 · La ira del dragón",
+      "direction": "es-es",
+      "tiles": ["Se", "fue", "a", "hacer", "la", "guerra", "al", "resto", "de", "su", "descendencia", "pueblo", "rebaño"],
+      "answer": "Se fue a hacer la guerra al resto de su descendencia",
+      "explanation": "Ap 12,17: esta persecución del dragón contra los fieles advierte que el conflicto continúa tras su derrota inicial."
+    }
+  ]
+}

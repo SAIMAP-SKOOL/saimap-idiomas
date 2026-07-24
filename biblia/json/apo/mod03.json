@@ -1,0 +1,251 @@
+{
+  "id": "apo-mod03",
+  "module": 3,
+  "title": "Apocalipsis III — Las Bodas del Cordero y la Nueva Jerusalén",
+  "subtitle": "Apocalipsis 15–22",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué proclama la gran muchedumbre en el cielo con voz de aleluya, en Apocalipsis 19?",
+      "options": ["«¡Aleluya! La salvación, la gloria y el poder son de nuestro Dios»", "Un lamento por la caída de la ciudad santa", "Una petición de más tiempo antes del juicio"],
+      "correct": 0,
+      "hint": "Lo cantan porque Dios «ha condenado a la gran prostituta que corrompía la tierra».",
+      "explanation": "Ap 19,1: «¡aleluya! La salvación, la gloria y el poder son de nuestro Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Aleluya! La salvación, la gloria y el poder son de nuestro ___.",
+      "options": ["Dios", "Cordero", "Señor"],
+      "answer": "Dios",
+      "explanation": "Ap 19,1: este himno de victoria celestial responde a la derrota definitiva del mal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 19,1 · El himno de victoria",
+      "direction": "es-es",
+      "tiles": ["La", "salvación", "la", "gloria", "y", "el", "poder", "son", "de", "nuestro", "Dios", "Cordero", "Señor"],
+      "answer": "La salvación la gloria y el poder son de nuestro Dios",
+      "explanation": "Ap 19,1: este himno de victoria celestial responde a la derrota definitiva del mal."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Aleluya, la salvación, la gloria y el poder", "es": "El himno de victoria celestial" },
+        { "en": "Banquete de bodas del Cordero", "es": "La bienaventuranza de los invitados finales" },
+        { "en": "Juzgados según sus obras", "es": "El juicio final ante el gran trono blanco" },
+        { "en": "Cielo nuevo y tierra nueva", "es": "La renovación total de la creación" },
+        { "en": "La morada de Dios entre los hombres", "es": "La promesa de comunión definitiva con Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué bienaventuranza se anuncia respecto al banquete de bodas del Cordero, en Apocalipsis 19?",
+      "options": ["Que solo unos pocos elegidos podrán acceder a él", "«Bienaventurados los invitados al banquete de bodas del Cordero»", "Que se trata de un banquete meramente simbólico, sin gozo real"],
+      "correct": 1,
+      "hint": "El ángel añade: «estas son palabras verdaderas de Dios».",
+      "explanation": "Ap 19,9: «bienaventurados los invitados al banquete de bodas del Cordero»."
+    },
+    {
+      "type": "gap",
+      "text": "Bienaventurados los invitados al banquete de bodas del ___.",
+      "options": ["Cordero", "Esposo", "Rey"],
+      "answer": "Cordero",
+      "explanation": "Ap 19,9: este banquete representa la unión definitiva entre Cristo y su Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 19,9 · El banquete de bodas del Cordero",
+      "direction": "es-es",
+      "tiles": ["Bienaventurados", "los", "invitados", "al", "banquete", "de", "bodas", "del", "Cordero", "Esposo", "Rey"],
+      "answer": "Bienaventurados los invitados al banquete de bodas del Cordero",
+      "explanation": "Ap 19,9: este banquete representa la unión definitiva entre Cristo y su Iglesia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué criterio son juzgados los muertos ante el gran trono blanco, en Apocalipsis 20?",
+      "options": ["Según su riqueza o posición social en vida", "Al azar, sin ningún criterio objetivo", "«Los muertos fueron juzgados según sus obras, escritas en los libros»"],
+      "correct": 2,
+      "hint": "Se menciona también «el libro de la vida», además de los otros libros.",
+      "explanation": "Ap 20,12-13: «los muertos fueron juzgados según sus obras, escritas en los libros»."
+    },
+    {
+      "type": "gap",
+      "text": "Los muertos fueron juzgados según sus ___, escritas en los libros.",
+      "options": ["obras", "nombres", "pecados"],
+      "answer": "obras",
+      "explanation": "Ap 20,12: esta responsabilidad de las propias obras subraya la seriedad de las decisiones tomadas en vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 20,12 · Juzgados según sus obras",
+      "direction": "es-es",
+      "tiles": ["Los", "muertos", "fueron", "juzgados", "según", "sus", "obras", "nombres", "pecados"],
+      "answer": "Los muertos fueron juzgados según sus obras",
+      "explanation": "Ap 20,12: esta responsabilidad de las propias obras subraya la seriedad de las decisiones tomadas en vida."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Bienaventurados los invitados al banquete de bodas", "es": "Apocalipsis 19,9" },
+        { "en": "Juzgados según sus obras", "es": "Apocalipsis 20,12-13" },
+        { "en": "Hago nuevas todas las cosas", "es": "Apocalipsis 21,5" },
+        { "en": "El Espíritu y la esposa dicen Ven", "es": "Apocalipsis 22,17" },
+        { "en": "Vengo pronto", "es": "Apocalipsis 22,20" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué visión final describe Juan sobre la creación, en Apocalipsis 21?",
+      "options": ["«Vi un cielo nuevo y una tierra nueva, pues el primer cielo y la primera tierra desaparecieron»", "Que el mundo antiguo continuará exactamente igual", "Que ya no habrá ningún tipo de creación futura"],
+      "correct": 0,
+      "hint": "Añade que «el mar ya no existe».",
+      "explanation": "Ap 21,1: «vi un cielo nuevo y una tierra nueva, pues el primer cielo y la primera tierra desaparecieron»."
+    },
+    {
+      "type": "gap",
+      "text": "Vi un cielo nuevo y una tierra nueva, pues el primer cielo y la primera tierra ___.",
+      "options": ["desaparecieron", "cambiaron", "temblaron"],
+      "answer": "desaparecieron",
+      "explanation": "Ap 21,1: esta renovación total de la creación abre la visión final del libro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "El himno de aleluya", "es": "Celebra la caída de la gran prostituta, símbolo del mal" },
+        { "en": "El banquete de bodas del Cordero", "es": "Representa la unión definitiva entre Cristo y su Iglesia" },
+        { "en": "El juicio ante el gran trono blanco", "es": "Incluye la apertura del libro de la vida" },
+        { "en": "La nueva Jerusalén", "es": "Desciende del cielo como ciudad santa preparada como una esposa" },
+        { "en": "El libro del Apocalipsis", "es": "Termina con un diálogo final entre el Espíritu, la Iglesia y Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa se anuncia sobre la morada de Dios con los hombres, en Apocalipsis 21?",
+      "options": ["Que Dios permanecerá siempre distante de la humanidad", "«He aquí la morada de Dios entre los hombres... enjugará toda lágrima... ya no habrá muerte»", "Que solo será una realidad simbólica, sin cambio verdadero"],
+      "correct": 1,
+      "hint": "Añade que «ellos serán su pueblo, y el “Dios con ellos” será su Dios».",
+      "explanation": "Ap 21,3-4: «he aquí la morada de Dios entre los hombres... enjugará toda lágrima... ya no habrá muerte»."
+    },
+    {
+      "type": "gap",
+      "text": "He aquí la morada de Dios entre los hombres... ya no habrá ___.",
+      "options": ["muerte", "dolor", "tiempo"],
+      "answer": "muerte",
+      "explanation": "Ap 21,4: esta promesa de comunión definitiva con Dios da esperanza frente al sufrimiento del mundo presente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 21,4 · Ya no habrá muerte",
+      "direction": "es-es",
+      "tiles": ["Ya", "no", "habrá", "muerte", "ni", "duelo", "dolor", "tiempo"],
+      "answer": "Ya no habrá muerte ni duelo",
+      "explanation": "Ap 21,4: esta promesa de comunión definitiva con Dios da esperanza frente al sufrimiento del mundo presente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia el que está sentado en el trono al final del Apocalipsis, en Apocalipsis 21?",
+      "options": ["Que todo permanecerá exactamente igual que antes", "Que solo algunas cosas serán renovadas parcialmente", "«Mira, hago nuevas todas las cosas»"],
+      "correct": 2,
+      "hint": "Añade: «estas palabras son fieles y verdaderas».",
+      "explanation": "Ap 21,5: «mira, hago nuevas todas las cosas»."
+    },
+    {
+      "type": "gap",
+      "text": "Mira, hago ___ todas las cosas.",
+      "options": ["nuevas", "buenas", "eternas"],
+      "answer": "nuevas",
+      "explanation": "Ap 21,5: esta renovación total prometida por Dios da esperanza frente al desgaste del mundo presente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 21,5 · Hago nuevas todas las cosas",
+      "direction": "es-es",
+      "tiles": ["Hago", "nuevas", "todas", "las", "cosas", "buenas", "eternas"],
+      "answer": "Hago nuevas todas las cosas",
+      "explanation": "Ap 21,5: esta renovación total prometida por Dios da esperanza frente al desgaste del mundo presente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La victoria celebrada con aleluya", "es": "Responde a la derrota definitiva del mal" },
+        { "en": "La alegría del banquete de bodas", "es": "Expresa la plenitud de la comunión con Dios" },
+        { "en": "La responsabilidad de las propias obras", "es": "Subraya la seriedad de las decisiones tomadas en vida" },
+        { "en": "La renovación total prometida por Dios", "es": "Da esperanza frente al desgaste y el sufrimiento del mundo presente" },
+        { "en": "El clamor final «ven, Señor Jesús»", "es": "Expresa el anhelo último de toda la fe cristiana" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ofrece Dios a quien tiene sed, según Apocalipsis 21?",
+      "options": ["«Yo soy el Alfa y la Omega... al que tenga sed yo le daré de la fuente del agua de la vida gratuitamente»", "Una recompensa condicionada a un pago previo", "Nada, pues la sed ya no tendrá ningún sentido"],
+      "correct": 0,
+      "hint": "Añade que «el vencedor heredará esto: yo seré Dios para él».",
+      "explanation": "Ap 21,6: «yo soy el Alfa y la Omega... al que tenga sed yo le daré de la fuente del agua de la vida gratuitamente»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy el Alfa y la Omega, el principio y el ___.",
+      "options": ["fin", "final", "término"],
+      "answer": "fin",
+      "explanation": "Ap 21,6: esta afirmación final retoma la identidad eterna de Dios ya proclamada al inicio del libro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 21,6 · El principio y el fin",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "el", "Alfa", "y", "la", "Omega", "el", "principio", "y", "el", "fin", "final", "término"],
+      "answer": "Yo soy el Alfa y la Omega el principio y el fin",
+      "explanation": "Ap 21,6: esta afirmación final retoma la identidad eterna de Dios ya proclamada al inicio del libro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invitación final hacen el Espíritu y la esposa, en Apocalipsis 22?",
+      "options": ["Que se aleje todo aquel que aún tenga dudas", "«El Espíritu y la esposa dicen: “¡Ven!”»", "Que se espere una señal adicional antes de responder"],
+      "correct": 1,
+      "hint": "Añade: «y quien tenga sed, que venga».",
+      "explanation": "Ap 22,17: «el Espíritu y la esposa dicen: “¡ven!”»."
+    },
+    {
+      "type": "gap",
+      "text": "El Espíritu y la esposa dicen: ¡___!",
+      "options": ["Ven", "Ya", "Espera"],
+      "answer": "Ven",
+      "explanation": "Ap 22,17: este diálogo final entre el Espíritu, la Iglesia y Cristo cierra el libro del Apocalipsis."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 22,17 · El Espíritu y la esposa dicen Ven",
+      "direction": "es-es",
+      "tiles": ["El", "Espíritu", "y", "la", "esposa", "dicen", "Ven", "Ya", "Espera"],
+      "answer": "El Espíritu y la esposa dicen Ven",
+      "explanation": "Ap 22,17: este diálogo final entre el Espíritu, la Iglesia y Cristo cierra el libro del Apocalipsis."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué palabras concluye el libro del Apocalipsis, en Apocalipsis 22?",
+      "options": ["Con una despedida sin ninguna esperanza expresada", "Con una advertencia final sin consuelo", "«Sí, vengo pronto. Amén. ¡Ven, Señor Jesús!»"],
+      "correct": 2,
+      "hint": "Antes se advierte sobre no añadir ni quitar nada «de las palabras de este libro profético».",
+      "explanation": "Ap 22,20: «sí, vengo pronto. Amén. ¡Ven, Señor Jesús!»."
+    },
+    {
+      "type": "gap",
+      "text": "Sí, vengo pronto. Amén. ¡Ven, Señor ___!",
+      "options": ["Jesús", "Dios", "mío"],
+      "answer": "Jesús",
+      "explanation": "Ap 22,20: este clamor final expresa el anhelo último de toda la fe cristiana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ap 22,20 · Ven, Señor Jesús",
+      "direction": "es-es",
+      "tiles": ["Vengo", "pronto", "Amén", "Ven", "Señor", "Jesús", "Dios", "mío"],
+      "answer": "Vengo pronto Amén Ven Señor Jesús",
+      "explanation": "Ap 22,20: este clamor final expresa el anhelo último de toda la fe cristiana."
+    }
+  ]
+}
