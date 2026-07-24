@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod04",
+  "module": 4,
+  "title": "1 Corintios II — El Himno al Amor y la Resurrección",
+  "subtitle": "1 Corintios 12–16",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué compara Pablo la unidad de la Iglesia formada por muchos miembros, en 1 Corintios 12?",
+      "options": ["«El cuerpo es uno y tiene muchos miembros... así es también Cristo»", "Con un edificio construido con una sola piedra", "Con un ejército donde todos ocupan el mismo puesto"],
+      "correct": 0,
+      "hint": "Añade que «a pesar de ser muchos, son un solo cuerpo».",
+      "explanation": "1Co 12,12: «el cuerpo es uno y tiene muchos miembros... así es también Cristo»."
+    },
+    {
+      "type": "gap",
+      "text": "El cuerpo es uno y tiene muchos ___.",
+      "options": ["miembros", "dones", "talentos"],
+      "answer": "miembros",
+      "explanation": "1Co 12,12: la unidad del cuerpo valora a cada miembro sin importar su función aparente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 12,12 · Un cuerpo, muchos miembros",
+      "direction": "es-es",
+      "tiles": ["El", "cuerpo", "es", "uno", "y", "tiene", "muchos", "miembros", "dones", "talentos"],
+      "answer": "El cuerpo es uno y tiene muchos miembros",
+      "explanation": "1Co 12,12: la unidad del cuerpo valora a cada miembro sin importar su función aparente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "El cuerpo es uno y tiene muchos miembros", "es": "La unidad en la diversidad de dones" },
+        { "en": "Sois el cuerpo de Cristo", "es": "La identidad de la comunidad cristiana" },
+        { "en": "Un metal que resuena", "es": "El amor como condición de todo don espiritual" },
+        { "en": "El amor es paciente", "es": "Las cualidades del amor verdadero" },
+        { "en": "La más grande es el amor", "es": "La superioridad del amor sobre la fe y la esperanza" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pablo sobre la identidad de la comunidad cristiana en relación con Cristo, en 1 Corintios 12?",
+      "options": ["Que solo los apóstoles forman parte del cuerpo de Cristo", "«Vosotros sois el cuerpo de Cristo, y cada uno es un miembro»", "Que cada comunidad local es independiente de las demás"],
+      "correct": 1,
+      "hint": "Antes dice que «si un miembro sufre, todos sufren con él».",
+      "explanation": "1Co 12,27: «vosotros sois el cuerpo de Cristo, y cada uno es un miembro»."
+    },
+    {
+      "type": "gap",
+      "text": "Vosotros sois el cuerpo de Cristo, y cada uno es un ___.",
+      "options": ["miembro", "siervo", "don"],
+      "answer": "miembro",
+      "explanation": "1Co 12,27: esta identidad de la comunidad cristiana funda su unidad en Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 12,27 · El cuerpo de Cristo",
+      "direction": "es-es",
+      "tiles": ["Vosotros", "sois", "el", "cuerpo", "de", "Cristo", "siervo", "don"],
+      "answer": "Vosotros sois el cuerpo de Cristo",
+      "explanation": "1Co 12,27: esta identidad de la comunidad cristiana funda su unidad en Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué valor tienen las lenguas humanas y angélicas sin amor, según Pablo, en 1 Corintios 13?",
+      "options": ["Un valor completo, pues son el don más elevado", "Un valor moderado, siempre útil para la comunidad", "«No sería más que un metal que resuena o un címbalo que aturde»"],
+      "correct": 2,
+      "hint": "Abre así el llamado «camino más excelente» del amor.",
+      "explanation": "1Co 13,1: «no sería más que un metal que resuena o un címbalo que aturde»."
+    },
+    {
+      "type": "gap",
+      "text": "Si no tengo amor, no sería más que un metal que ___.",
+      "options": ["resuena", "suena", "vibra"],
+      "answer": "resuena",
+      "explanation": "1Co 13,1: el amor es condición de todo don espiritual, por elevado que parezca."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 13,1 · Sin amor, nada vale",
+      "direction": "es-es",
+      "tiles": ["Un", "metal", "que", "resuena", "o", "un", "címbalo", "que", "aturde", "suena", "vibra"],
+      "answer": "Un metal que resuena o un címbalo que aturde",
+      "explanation": "1Co 13,1: el amor es condición de todo don espiritual, por elevado que parezca."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Todo lo excusa, todo lo cree", "es": "1 Corintios 13,7" },
+        { "en": "Vana es nuestra predicación", "es": "1 Corintios 15,14" },
+        { "en": "Dónde está, muerte, tu victoria", "es": "1 Corintios 15,55" },
+        { "en": "Manteneos firmes", "es": "1 Corintios 15,58" },
+        { "en": "Sois el cuerpo de Cristo", "es": "1 Corintios 12,27" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo las primeras cualidades del amor en el himno de 1 Corintios 13?",
+      "options": ["«El amor es paciente, es benigno... no presume, no se engríe»", "Que el amor busca siempre su propio interés", "Que el amor exige resultados inmediatos"],
+      "correct": 0,
+      "hint": "Añade que «no lleva cuentas del mal».",
+      "explanation": "1Co 13,4: «el amor es paciente, es benigno... no presume, no se engríe»."
+    },
+    {
+      "type": "gap",
+      "text": "El amor es paciente, es ___.",
+      "options": ["benigno", "fuerte", "sabio"],
+      "answer": "benigno",
+      "explanation": "1Co 13,4: estas cualidades describen el amor verdadero según Pablo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 13,4 · Las cualidades del amor",
+      "direction": "es-es",
+      "tiles": ["El", "amor", "es", "paciente", "es", "benigno", "fuerte", "sabio"],
+      "answer": "El amor es paciente es benigno",
+      "explanation": "1Co 13,4: estas cualidades describen el amor verdadero según Pablo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "El capítulo 12", "es": "Trata sobre la diversidad de dones espirituales en la Iglesia" },
+        { "en": "El himno al amor", "es": "Se sitúa entre dos capítulos sobre los dones espirituales" },
+        { "en": "El capítulo 15", "es": "Defiende la resurrección de Cristo como fundamento de la fe" },
+        { "en": "La pregunta sobre la muerte", "es": "Cita al profeta Oseas para proclamar la victoria de Cristo" },
+        { "en": "La carta a los Corintios", "es": "Termina con instrucciones prácticas y saludos finales" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué capacidad de resistencia atribuye Pablo al amor, en 1 Corintios 13?",
+      "options": ["Que se rinde ante la primera dificultad", "«Todo lo excusa, todo lo cree, todo lo espera, todo lo soporta»", "Que solo perdona los errores pequeños"],
+      "correct": 1,
+      "hint": "Justo antes dice que el amor «goza con la verdad».",
+      "explanation": "1Co 13,7: «todo lo excusa, todo lo cree, todo lo espera, todo lo soporta»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo lo excusa, todo lo cree, todo lo espera, todo lo ___.",
+      "options": ["soporta", "perdona", "olvida"],
+      "answer": "soporta",
+      "explanation": "1Co 13,7: esta resistencia del amor lo distingue de cualquier otro don."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuál de las tres virtudes teologales destaca Pablo como la más grande, en 1 Corintios 13?",
+      "options": ["La fe, por ser el fundamento de todas las demás", "La esperanza, por sostener en las dificultades", "«Quedan estas tres: la fe, la esperanza y el amor. La más grande es el amor»"],
+      "correct": 2,
+      "hint": "Antes dice que «entonces conoceré como he sido conocido por Dios».",
+      "explanation": "1Co 13,13: «quedan estas tres: la fe, la esperanza y el amor. La más grande es el amor»."
+    },
+    {
+      "type": "gap",
+      "text": "Quedan estas tres: la fe, la esperanza y el amor. La más grande es el ___.",
+      "options": ["amor", "fe", "esperanza"],
+      "answer": "amor",
+      "explanation": "1Co 13,13: esta afirmación resume la superioridad del amor sobre la fe y la esperanza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 13,13 · La más grande es el amor",
+      "direction": "es-es",
+      "tiles": ["La", "más", "grande", "es", "el", "amor", "fe", "esperanza"],
+      "answer": "La más grande es el amor",
+      "explanation": "1Co 13,13: esta afirmación resume la superioridad del amor sobre la fe y la esperanza."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué consecuencia tendría para la fe cristiana si Cristo no hubiera resucitado, según Pablo en 1 Corintios 15?",
+      "options": ["«Vana es nuestra predicación y vana también vuestra fe»", "Ninguna, la fe seguiría teniendo el mismo valor", "Solo afectaría a los apóstoles que lo vieron"],
+      "correct": 0,
+      "hint": "Añade que serían «unos falsos testigos de Dios».",
+      "explanation": "1Co 15,14: «vana es nuestra predicación y vana también vuestra fe»."
+    },
+    {
+      "type": "gap",
+      "text": "Si Cristo no ha resucitado, vana es nuestra ___.",
+      "options": ["predicación", "esperanza", "vida"],
+      "answer": "predicación",
+      "explanation": "1Co 15,14: la resurrección de Cristo es el fundamento sin el cual la fe cristiana carecería de sentido."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 15,14 · El fundamento de la fe",
+      "direction": "es-es",
+      "tiles": ["Vana", "es", "nuestra", "predicación", "y", "vana", "también", "vuestra", "fe", "esperanza", "vida"],
+      "answer": "Vana es nuestra predicación y vana también vuestra fe",
+      "explanation": "1Co 15,14: la resurrección de Cristo es el fundamento sin el cual la fe cristiana carecería de sentido."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta retórica hace Pablo sobre la muerte tras hablar de la resurrección, en 1 Corintios 15?",
+      "options": ["Si la muerte merece ser temida por los creyentes", "«¿Dónde está, muerte, tu victoria? ¿Dónde está, muerte, tu aguijón?»", "Cuándo llegará el día final para toda la humanidad"],
+      "correct": 1,
+      "hint": "Antes proclama que la muerte «ha sido absorbida en la victoria».",
+      "explanation": "1Co 15,55: «¿dónde está, muerte, tu victoria? ¿Dónde está, muerte, tu aguijón?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Dónde está, muerte, tu ___?",
+      "options": ["victoria", "poder", "fuerza"],
+      "answer": "victoria",
+      "explanation": "1Co 15,55: esta pregunta transforma el temor a la muerte en esperanza cierta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 15,55 · La victoria sobre la muerte",
+      "direction": "es-es",
+      "tiles": ["Dónde", "está", "muerte", "tu", "victoria", "poder", "fuerza"],
+      "answer": "Dónde está muerte tu victoria",
+      "explanation": "1Co 15,55: esta pregunta transforma el temor a la muerte en esperanza cierta."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La unidad del cuerpo", "es": "Valora a cada miembro sin importar su función aparente" },
+        { "en": "El amor como camino más excelente", "es": "Da sentido a todos los demás dones espirituales" },
+        { "en": "La resurrección de Cristo", "es": "Es el fundamento sin el cual la fe cristiana carecería de sentido" },
+        { "en": "La victoria sobre la muerte", "es": "Transforma el temor en esperanza cierta" },
+        { "en": "La perseverancia en la obra del Señor", "es": "Asegura que ningún esfuerzo hecho por amor se pierde" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exhorta Pablo a los corintios al concluir su enseñanza sobre la resurrección, en 1 Corintios 15?",
+      "options": ["Que esperen pasivamente el día del Señor sin más esfuerzo", "Que reduzcan su actividad ante la cercanía del fin", "«Manteneos firmes... entregaos siempre a la obra del Señor... vuestro esfuerzo no será vano»"],
+      "correct": 2,
+      "hint": "Los llama «hermanos míos queridos» al darles este último consejo.",
+      "explanation": "1Co 15,58: «manteneos firmes e inconmovibles. Entregaos siempre sin reservas a la obra del Señor... vuestro esfuerzo no será vano en el Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Manteneos firmes e inconmovibles, convencidos de que vuestro esfuerzo no será ___ en el Señor.",
+      "options": ["vano", "inútil", "pequeño"],
+      "answer": "vano",
+      "explanation": "1Co 15,58: esta perseverancia en la obra del Señor asegura que ningún esfuerzo hecho por amor se pierde."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 15,58 · Firmes en la obra del Señor",
+      "direction": "es-es",
+      "tiles": ["Manteneos", "firmes", "e", "inconmovibles", "débiles", "dudosos"],
+      "answer": "Manteneos firmes e inconmovibles",
+      "explanation": "1Co 15,58: esta perseverancia en la obra del Señor asegura que ningún esfuerzo hecho por amor se pierde."
+    }
+  ]
+}

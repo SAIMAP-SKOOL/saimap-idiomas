@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod02",
+  "module": 2,
+  "title": "Romanos II — Israel, la Vida Nueva y el Amor como Ley",
+  "subtitle": "Romanos 9–16",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué condición pone Pablo para alcanzar la salvación, en Romanos 10?",
+      "options": ["«Si profesas con tus labios que Jesús es Señor, y crees con tu corazón que Dios lo resucitó, serás salvo»", "Que se cumplan todos los preceptos rituales de la ley", "Que se realicen suficientes obras de caridad pública"],
+      "correct": 0,
+      "hint": "Añade que «con el corazón se cree... y con los labios se profesa».",
+      "explanation": "Rm 10,9: «si profesas con tus labios que Jesús es Señor, y crees con tu corazón que Dios lo resucitó de entre los muertos, serás salvo»."
+    },
+    {
+      "type": "gap",
+      "text": "Si profesas con tus labios que Jesús es Señor, y crees con tu corazón que Dios lo resucitó, serás ___.",
+      "options": ["salvo", "justo", "libre"],
+      "answer": "salvo",
+      "explanation": "Rm 10,9: esta confesión de fe lleva a la salvación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 10,9 · La confesión que salva",
+      "direction": "es-es",
+      "tiles": ["Profesas", "con", "tus", "labios", "que", "Jesús", "es", "Señor", "sacerdote", "maestro"],
+      "answer": "Profesas con tus labios que Jesús es Señor",
+      "explanation": "Rm 10,9: esta confesión de fe lleva a la salvación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Serás salvo", "es": "La confesión de fe que lleva a la salvación" },
+        { "en": "La fe nace del mensaje que se escucha", "es": "El origen de la fe en la predicación" },
+        { "en": "Los dones de Dios son irrevocables", "es": "La fidelidad de Dios a su promesa" },
+        { "en": "Sacrificio vivo", "es": "La entrega total del cristiano en su vida diaria" },
+        { "en": "Transformaos por la renovación de la mente", "es": "El cambio interior frente al mundo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿De dónde nace la fe, según Pablo, en Romanos 10?",
+      "options": ["De una experiencia mística individual, sin mediación alguna", "«La fe nace del mensaje que se escucha, y la escucha viene a través de la palabra de Cristo»", "Del estudio prolongado de la filosofía griega"],
+      "correct": 1,
+      "hint": "Antes cita a Isaías: «Señor, ¿quién ha creído nuestro mensaje?».",
+      "explanation": "Rm 10,17: «la fe nace del mensaje que se escucha, y la escucha viene a través de la palabra de Cristo»."
+    },
+    {
+      "type": "gap",
+      "text": "La fe nace del mensaje que se ___.",
+      "options": ["escucha", "predica", "anuncia"],
+      "answer": "escucha",
+      "explanation": "Rm 10,17: esta enseñanza subraya la importancia de la predicación del Evangelio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 10,17 · El origen de la fe",
+      "direction": "es-es",
+      "tiles": ["La", "fe", "nace", "del", "mensaje", "que", "se", "escucha", "predica", "anuncia"],
+      "answer": "La fe nace del mensaje que se escucha",
+      "explanation": "Rm 10,17: esta enseñanza subraya la importancia de la predicación del Evangelio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pablo sobre los dones y la llamada de Dios a su pueblo, en Romanos 11?",
+      "options": ["Que pueden perderse definitivamente por la desobediencia", "Que dependen enteramente de la respuesta humana", "«Los dones y la llamada de Dios son irrevocables»"],
+      "correct": 2,
+      "hint": "Lo dice en el contexto de la elección de Israel «en atención a los padres».",
+      "explanation": "Rm 11,29: «los dones y la llamada de Dios son irrevocables»."
+    },
+    {
+      "type": "gap",
+      "text": "Los dones y la llamada de Dios son ___.",
+      "options": ["irrevocables", "eternos", "perfectos"],
+      "answer": "irrevocables",
+      "explanation": "Rm 11,29: esta afirmación revela la fidelidad de Dios a su promesa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 11,29 · La fidelidad de Dios",
+      "direction": "es-es",
+      "tiles": ["Los", "dones", "y", "la", "llamada", "de", "Dios", "son", "irrevocables", "eternos", "perfectos"],
+      "answer": "Los dones y la llamada de Dios son irrevocables",
+      "explanation": "Rm 11,29: esta afirmación revela la fidelidad de Dios a su promesa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Los dones y la llamada de Dios son irrevocables", "es": "Romanos 11,29" },
+        { "en": "Sacrificio vivo, santo, agradable a Dios", "es": "Romanos 12,1" },
+        { "en": "Vence al mal con el bien", "es": "Romanos 12,21" },
+        { "en": "A nadie le debáis nada, más que el amor mutuo", "es": "Romanos 13,8" },
+        { "en": "El Dios de la esperanza", "es": "Romanos 15,13" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exhorta Pablo a los cristianos a ofrecer, apelando a la misericordia de Dios, en Romanos 12?",
+      "options": ["«Vuestros cuerpos como sacrificio vivo, santo, agradable a Dios»", "Ofrendas materiales al templo de Jerusalén", "El ayuno como única forma válida de culto"],
+      "correct": 0,
+      "hint": "Añade que esto es «vuestro culto espiritual».",
+      "explanation": "Rm 12,1: «presentéis vuestros cuerpos como sacrificio vivo, santo, agradable a Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Presentéis vuestros cuerpos como sacrificio ___, santo, agradable a Dios.",
+      "options": ["vivo", "puro", "digno"],
+      "answer": "vivo",
+      "explanation": "Rm 12,1: este culto espiritual transforma lo cotidiano en ofrenda a Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 12,1 · El sacrificio vivo",
+      "direction": "es-es",
+      "tiles": ["Vuestros", "cuerpos", "como", "sacrificio", "vivo", "santo", "agradable", "a", "Dios", "puro", "digno"],
+      "answer": "Vuestros cuerpos como sacrificio vivo santo agradable a Dios",
+      "explanation": "Rm 12,1: este culto espiritual transforma lo cotidiano en ofrenda a Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "Los capítulos 9-11", "es": "Tratan el lugar de Israel en el plan de salvación de Dios" },
+        { "en": "El capítulo 12", "es": "Abre la sección práctica de la carta, tras la doctrinal" },
+        { "en": "La exhortación al amor mutuo", "es": "Resume el cumplimiento de toda la ley" },
+        { "en": "La carta a los Romanos", "es": "Termina con saludos personales a numerosos colaboradores" },
+        { "en": "La bendición final", "es": "Invoca la alegría, la paz y la esperanza sobre los creyentes" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo a los cristianos respecto al mundo que los rodea, en Romanos 12?",
+      "options": ["Que se aíslen por completo de la sociedad", "«No os amoldéis a este mundo, sino transformaos por la renovación de la mente»", "Que acepten sin más todas las costumbres de su época"],
+      "correct": 1,
+      "hint": "Añade que así podrán «discernir cuál es la voluntad de Dios».",
+      "explanation": "Rm 12,2: «no os amoldéis a este mundo, sino transformaos por la renovación de la mente»."
+    },
+    {
+      "type": "gap",
+      "text": "No os amoldéis a este mundo, sino ___ por la renovación de la mente.",
+      "options": ["transformaos", "cambiad", "convertíos"],
+      "answer": "transformaos",
+      "explanation": "Rm 12,2: esta renovación permite discernir la voluntad de Dios frente a la presión del mundo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 12,2 · La renovación de la mente",
+      "direction": "es-es",
+      "tiles": ["No", "os", "amoldéis", "a", "este", "mundo", "cambiad", "convertíos"],
+      "answer": "No os amoldéis a este mundo",
+      "explanation": "Rm 12,2: esta renovación permite discernir la voluntad de Dios frente a la presión del mundo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué recomienda Pablo sobre la relación con los demás en la comunidad, en Romanos 12?",
+      "options": ["Mantener siempre una actitud neutral ante las emociones ajenas", "Compartir solo los momentos de alegría, evitando el sufrimiento ajeno", "«Alegraos con los que están alegres; llorad con los que lloran»"],
+      "correct": 2,
+      "hint": "Antes pide «poneros al nivel de la gente humilde».",
+      "explanation": "Rm 12,15: «alegraos con los que están alegres; llorad con los que lloran»."
+    },
+    {
+      "type": "gap",
+      "text": "Alegraos con los que están alegres; llorad con los que ___.",
+      "options": ["lloran", "sufren", "callan"],
+      "answer": "lloran",
+      "explanation": "Rm 12,15: esta enseñanza pide compartir plenamente la vida de los demás."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 12,15 · Compartir la vida del otro",
+      "direction": "es-es",
+      "tiles": ["Alegraos", "con", "los", "que", "están", "alegres", "llorad", "con", "los", "que", "lloran", "sufren"],
+      "answer": "Alegraos con los que están alegres llorad con los que lloran",
+      "explanation": "Rm 12,15: esta enseñanza pide compartir plenamente la vida de los demás."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio da Pablo para responder al mal recibido, en Romanos 12?",
+      "options": ["«No te dejes vencer por el mal, antes bien vence al mal con el bien»", "Que conviene devolver el mal con la misma medida", "Que lo mejor es ignorar por completo la ofensa"],
+      "correct": 0,
+      "hint": "Antes recomienda no tomarse la justicia por la propia mano.",
+      "explanation": "Rm 12,21: «no te dejes vencer por el mal, antes bien vence al mal con el bien»."
+    },
+    {
+      "type": "gap",
+      "text": "No te dejes vencer por el mal, antes bien vence al mal con el ___.",
+      "options": ["bien", "amor", "perdón"],
+      "answer": "bien",
+      "explanation": "Rm 12,21: esta enseñanza rompe el ciclo de la venganza."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué única deuda permanente reconoce Pablo entre los cristianos, en Romanos 13?",
+      "options": ["El deber de obedecer sin excepción a toda autoridad", "«A nadie le debáis nada, más que el amor mutuo»", "La obligación de pagar diezmos regularmente"],
+      "correct": 1,
+      "hint": "Añade que «el que ama ha cumplido el resto de la ley».",
+      "explanation": "Rm 13,8: «a nadie le debáis nada, más que el amor mutuo; porque el que ama ha cumplido el resto de la ley»."
+    },
+    {
+      "type": "gap",
+      "text": "A nadie le debáis nada, más que el amor ___.",
+      "options": ["mutuo", "fraterno", "sincero"],
+      "answer": "mutuo",
+      "explanation": "Rm 13,8: el amor como única deuda resume y cumple toda exigencia moral."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 13,8 · La única deuda: el amor",
+      "direction": "es-es",
+      "tiles": ["A", "nadie", "le", "debáis", "nada", "más", "que", "el", "amor", "mutuo", "fraterno", "sincero"],
+      "answer": "A nadie le debáis nada más que el amor mutuo",
+      "explanation": "Rm 13,8: el amor como única deuda resume y cumple toda exigencia moral."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La fe que se escucha", "es": "Subraya la importancia de la predicación del Evangelio" },
+        { "en": "El culto como entrega de la vida entera", "es": "Transforma lo cotidiano en ofrenda espiritual" },
+        { "en": "La renovación de la mente", "es": "Permite discernir la voluntad de Dios frente a la presión del mundo" },
+        { "en": "Vencer el mal con el bien", "es": "Rompe el ciclo de la venganza" },
+        { "en": "El amor como única deuda", "es": "Resume y cumple toda exigencia moral" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo para los creyentes al Dios de la esperanza, en Romanos 15?",
+      "options": ["Que reciban riquezas materiales como signo de bendición", "Que eviten toda dificultad en su camino de fe", "«Que os colme de alegría y de paz viviendo vuestra fe... por la fuerza del Espíritu Santo»"],
+      "correct": 2,
+      "hint": "Pide que esto ocurra «para que desbordéis de esperanza».",
+      "explanation": "Rm 15,13: «que el Dios de la esperanza os colme de alegría y de paz viviendo vuestra fe... por la fuerza del Espíritu Santo»."
+    },
+    {
+      "type": "gap",
+      "text": "Que el Dios de la esperanza os colme de alegría y de ___ viviendo vuestra fe.",
+      "options": ["paz", "luz", "gozo"],
+      "answer": "paz",
+      "explanation": "Rm 15,13: esta bendición final invoca la alegría, la paz y la esperanza sobre los creyentes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 15,13 · La bendición final",
+      "direction": "es-es",
+      "tiles": ["Que", "os", "colme", "de", "alegría", "y", "de", "paz", "luz", "gozo"],
+      "answer": "Que os colme de alegría y de paz",
+      "explanation": "Rm 15,13: esta bendición final invoca la alegría, la paz y la esperanza sobre los creyentes."
+    }
+  ]
+}

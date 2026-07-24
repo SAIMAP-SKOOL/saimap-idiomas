@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod01",
+  "module": 1,
+  "title": "Romanos I — La Justificación por la Fe",
+  "subtitle": "Romanos 1–8",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pablo sobre el Evangelio al comenzar la carta a los Romanos, en Romanos 1?",
+      "options": ["«No me avergüenzo del Evangelio, que es fuerza de Dios para la salvación de todo el que cree»", "Que prefiere no predicarlo abiertamente en Roma", "Que solo tiene valor para quienes ya conocen la ley judía"],
+      "correct": 0,
+      "hint": "Añade que esto vale «primero del judío, y también del griego».",
+      "explanation": "Rm 1,16: «no me avergüenzo del Evangelio, que es fuerza de Dios para la salvación de todo el que cree»."
+    },
+    {
+      "type": "gap",
+      "text": "No me avergüenzo del Evangelio, que es fuerza de Dios para la ___ de todo el que cree.",
+      "options": ["salvación", "gloria", "justicia"],
+      "answer": "salvación",
+      "explanation": "Rm 1,16: esta afirmación abre la exposición teológica más extensa y sistemática de Pablo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 1,16 · La fuerza del Evangelio",
+      "direction": "es-es",
+      "tiles": ["No", "me", "avergüenzo", "del", "Evangelio", "orgullo", "temor"],
+      "answer": "No me avergüenzo del Evangelio",
+      "explanation": "Rm 1,16: esta afirmación abre la exposición teológica más extensa y sistemática de Pablo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "No me avergüenzo del Evangelio", "es": "La fuerza salvadora del Evangelio" },
+        { "en": "Todos pecaron", "es": "La condición pecadora común a toda la humanidad" },
+        { "en": "El amor de Dios ha sido derramado", "es": "El don del Espíritu Santo en el creyente" },
+        { "en": "Cristo murió por nosotros", "es": "La demostración del amor de Dios" },
+        { "en": "La paga del pecado es la muerte", "es": "El contraste entre pecado y gracia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué enseña Pablo sobre la condición común de todos los seres humanos ante Dios, en Romanos 3?",
+      "options": ["Que algunos pueblos están libres de pecado por naturaleza", "«Todos pecaron... y son justificados gratuitamente por su gracia»", "Que la justificación depende del cumplimiento estricto de la ley"],
+      "correct": 1,
+      "hint": "Añade que esto ocurre «mediante la redención realizada en Cristo Jesús».",
+      "explanation": "Rm 3,23-24: «todos pecaron y están privados de la gloria de Dios, y son justificados gratuitamente por su gracia»."
+    },
+    {
+      "type": "gap",
+      "text": "Todos pecaron y están privados de la ___ de Dios.",
+      "options": ["gloria", "justicia", "ley"],
+      "answer": "gloria",
+      "explanation": "Rm 3,23: esta justificación gratuita libera de la necesidad de ganar la salvación por mérito propio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 3,23 · La condición pecadora común",
+      "direction": "es-es",
+      "tiles": ["Todos", "pecaron", "y", "están", "privados", "de", "la", "gloria", "de", "Dios", "justicia", "ley"],
+      "answer": "Todos pecaron y están privados de la gloria de Dios",
+      "explanation": "Rm 3,23: esta justificación gratuita libera de la necesidad de ganar la salvación por mérito propio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo la presencia del amor de Dios en el creyente, en Romanos 5?",
+      "options": ["Como algo que debe ganarse con años de buenas obras", "Como un don reservado solo para los apóstoles", "«El amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo»"],
+      "correct": 2,
+      "hint": "Añade que este Espíritu «se nos ha dado».",
+      "explanation": "Rm 5,5: «el amor de Dios ha sido derramado en nuestros corazones por el Espíritu Santo»."
+    },
+    {
+      "type": "gap",
+      "text": "El amor de Dios ha sido derramado en nuestros corazones por el Espíritu ___.",
+      "options": ["Santo", "Vivo", "Eterno"],
+      "answer": "Santo",
+      "explanation": "Rm 5,5: este don del Espíritu Santo se derrama en el creyente como signo de esperanza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 5,5 · El don del Espíritu",
+      "direction": "es-es",
+      "tiles": ["El", "amor", "de", "Dios", "ha", "sido", "derramado", "en", "nuestros", "corazones", "mente", "vida"],
+      "answer": "El amor de Dios ha sido derramado en nuestros corazones",
+      "explanation": "Rm 5,5: este don del Espíritu Santo se derrama en el creyente como signo de esperanza."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "No hay condena para los que están en Cristo", "es": "Romanos 8,1" },
+        { "en": "Todo les sirve para el bien", "es": "Romanos 8,28" },
+        { "en": "Si Dios está con nosotros", "es": "Romanos 8,31" },
+        { "en": "Nada podrá separarnos del amor de Dios", "es": "Romanos 8,38-39" },
+        { "en": "El justo por la fe vivirá", "es": "Romanos 1,17" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo demuestra Dios su amor, según Pablo, en Romanos 5?",
+      "options": ["«Siendo nosotros todavía pecadores, Cristo murió por nosotros»", "Esperando a que los hombres se hicieran justos primero", "Enviando solo señales y prodigios como prueba"],
+      "correct": 0,
+      "hint": "Añade que, «justificados ahora por su sangre», seremos salvados del castigo.",
+      "explanation": "Rm 5,8: «siendo nosotros todavía pecadores, Cristo murió por nosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "Siendo nosotros todavía pecadores, Cristo murió por ___.",
+      "options": ["nosotros", "todos", "ellos"],
+      "answer": "nosotros",
+      "explanation": "Rm 5,8: el amor de Dios manifestado en la cruz antecede y no depende de la respuesta humana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 5,8 · La demostración del amor de Dios",
+      "direction": "es-es",
+      "tiles": ["Siendo", "nosotros", "todavía", "pecadores", "Cristo", "murió", "por", "nosotros", "todos", "ellos"],
+      "answer": "Siendo nosotros todavía pecadores Cristo murió por nosotros",
+      "explanation": "Rm 5,8: el amor de Dios manifestado en la cruz antecede y no depende de la respuesta humana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a los Romanos", "es": "Es la exposición teológica más extensa y sistemática de Pablo" },
+        { "en": "La justificación por la fe", "es": "Se presenta como gratuita, no ganada por méritos" },
+        { "en": "El capítulo 8", "es": "Es considerado el clímax teológico de toda la carta" },
+        { "en": "El amor de Dios", "es": "Se demuestra antes de que el hombre se convierta, no después" },
+        { "en": "La seguridad del creyente", "es": "Se apoya en el amor de Dios, no en la propia fuerza" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué contraste establece Pablo entre el pecado y el don de Dios, en Romanos 6?",
+      "options": ["Que ambos conducen finalmente al mismo destino", "«La paga del pecado es la muerte, mientras que el don de Dios es la vida eterna en Cristo Jesús»", "Que el pecado no tiene ninguna consecuencia real"],
+      "correct": 1,
+      "hint": "Lo dice tras invitar a dar «frutos para la santidad».",
+      "explanation": "Rm 6,23: «la paga del pecado es la muerte, mientras que el don de Dios es la vida eterna en Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "La paga del pecado es la ___, mientras que el don de Dios es la vida eterna.",
+      "options": ["muerte", "culpa", "ruina"],
+      "answer": "muerte",
+      "explanation": "Rm 6,23: este contraste resume la diferencia radical entre pecado y gracia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 6,23 · El contraste entre pecado y gracia",
+      "direction": "es-es",
+      "tiles": ["La", "paga", "del", "pecado", "es", "la", "muerte", "culpa", "ruina"],
+      "answer": "La paga del pecado es la muerte",
+      "explanation": "Rm 6,23: este contraste resume la diferencia radical entre pecado y gracia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pablo sobre quienes están unidos a Cristo Jesús, en Romanos 8?",
+      "options": ["Que deben temer aún el juicio final con incertidumbre", "Que solo algunos escaparán de la condena, según su mérito", "«No hay, pues, condena alguna para los que están en Cristo Jesús»"],
+      "correct": 2,
+      "hint": "Este versículo abre el capítulo considerado el clímax teológico de la carta.",
+      "explanation": "Rm 8,1: «no hay, pues, condena alguna para los que están en Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "No hay, pues, ___ alguna para los que están en Cristo Jesús.",
+      "options": ["condena", "duda", "culpa"],
+      "answer": "condena",
+      "explanation": "Rm 8,1: esta ausencia de condena en Cristo da paz interior al creyente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué asegura Pablo a quienes aman a Dios, respecto a todo lo que les sucede, en Romanos 8?",
+      "options": ["«Sabemos que a los que aman a Dios todo les sirve para el bien»", "Que solo lo bueno proviene de Dios, nunca lo difícil", "Que deben evitar toda dificultad para permanecer fieles"],
+      "correct": 0,
+      "hint": "Añade que Dios los «ha llamado conforme a su designio».",
+      "explanation": "Rm 8,28: «sabemos que a los que aman a Dios todo les sirve para el bien»."
+    },
+    {
+      "type": "gap",
+      "text": "A los que aman a Dios todo les sirve para el ___.",
+      "options": ["bien", "fin", "mal"],
+      "answer": "bien",
+      "explanation": "Rm 8,28: esta certeza sostiene la confianza del creyente incluso en la dificultad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 8,28 · Todo coopera para el bien",
+      "direction": "es-es",
+      "tiles": ["A", "los", "que", "aman", "a", "Dios", "todo", "les", "sirve", "para", "el", "bien", "fin", "mal"],
+      "answer": "A los que aman a Dios todo les sirve para el bien",
+      "explanation": "Rm 8,28: esta certeza sostiene la confianza del creyente incluso en la dificultad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta retórica hace Pablo tras describir el designio salvador de Dios, en Romanos 8?",
+      "options": ["Si merece la pena seguir confiando en Dios pese a todo", "«Si Dios está con nosotros, ¿quién estará contra nosotros?»", "Quién puede explicar los caminos misteriosos de Dios"],
+      "correct": 1,
+      "hint": "La pregunta sigue a la afirmación de que Dios «predestinó, llamó, justificó y glorificó».",
+      "explanation": "Rm 8,31: «si Dios está con nosotros, ¿quién estará contra nosotros?»."
+    },
+    {
+      "type": "gap",
+      "text": "Si Dios está con nosotros, ¿quién estará ___ nosotros?",
+      "options": ["contra", "cerca", "lejos"],
+      "answer": "contra",
+      "explanation": "Rm 8,31: esta pregunta retórica afirma la seguridad del creyente ante cualquier adversidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 8,31 · Dios está con nosotros",
+      "direction": "es-es",
+      "tiles": ["Si", "Dios", "está", "con", "nosotros", "quién", "estará", "contra", "nosotros", "cerca", "lejos"],
+      "answer": "Si Dios está con nosotros quién estará contra nosotros",
+      "explanation": "Rm 8,31: esta pregunta retórica afirma la seguridad del creyente ante cualquier adversidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La justificación gratuita", "es": "Libera de la necesidad de ganar la salvación por mérito propio" },
+        { "en": "La certeza de que todo coopera para bien", "es": "Sostiene la confianza incluso en la dificultad" },
+        { "en": "La ausencia de condena en Cristo", "es": "Da paz interior al creyente" },
+        { "en": "El amor de Dios manifestado en la cruz", "es": "Antecede y no depende de la respuesta humana" },
+        { "en": "La seguridad frente a cualquier poder", "es": "Afirma que nada puede vencer el amor de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclama Pablo sobre el poder del amor de Dios manifestado en Cristo, en Romanos 8?",
+      "options": ["Que solo algunos poderes espirituales pueden alcanzarlo", "Que depende de la fortaleza espiritual de cada creyente", "Que ninguna criatura «podrá separarnos del amor de Dios manifestado en Cristo Jesús»"],
+      "correct": 2,
+      "hint": "Antes menciona «ni altura, ni profundidad, ni ninguna otra criatura».",
+      "explanation": "Rm 8,38-39: «ninguna otra criatura podrá separarnos del amor de Dios manifestado en Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "Ninguna criatura podrá ___ del amor de Dios manifestado en Cristo Jesús.",
+      "options": ["separarnos", "alejarnos", "liberarnos"],
+      "answer": "separarnos",
+      "explanation": "Rm 8,39: esta seguridad frente a cualquier poder afirma que nada puede vencer el amor de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Rm 8,39 · Nada nos separa del amor de Dios",
+      "direction": "es-es",
+      "tiles": ["Ninguna", "criatura", "podrá", "separarnos", "del", "amor", "de", "Dios", "alejarnos", "liberarnos"],
+      "answer": "Ninguna criatura podrá separarnos del amor de Dios",
+      "explanation": "Rm 8,39: esta seguridad frente a cualquier poder afirma que nada puede vencer el amor de Dios."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod03",
+  "module": 3,
+  "title": "1 Corintios I — La Sabiduría de la Cruz y la Vida en Comunidad",
+  "subtitle": "1 Corintios 1–11",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo el mensaje de la cruz para quienes se pierden y para quienes se salvan, en 1 Corintios 1?",
+      "options": ["«Es necedad para los que se pierden; pero para los que se salvan... es fuerza de Dios»", "Que resulta indiferente para ambos grupos por igual", "Que solo tiene sentido para quienes dominan la filosofía"],
+      "correct": 0,
+      "hint": "Antes cita que Dios «destruirá la sabiduría de los sabios».",
+      "explanation": "1Co 1,18: «el mensaje de la cruz es necedad para los que se pierden; pero para los que se salvan... es fuerza de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "El mensaje de la cruz es necedad para los que se pierden; pero para los que se salvan, es fuerza de ___.",
+      "options": ["Dios", "fe", "vida"],
+      "answer": "Dios",
+      "explanation": "1Co 1,18: la locura de la cruz invierte los criterios humanos de sabiduría y poder."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 1,18 · El mensaje de la cruz",
+      "direction": "es-es",
+      "tiles": ["Para", "los", "que", "se", "salvan", "es", "fuerza", "de", "Dios", "fe", "vida"],
+      "answer": "Para los que se salvan es fuerza de Dios",
+      "explanation": "1Co 1,18: la locura de la cruz invierte los criterios humanos de sabiduría y poder."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "El mensaje de la cruz", "es": "La sabiduría de Dios frente a la sabiduría humana" },
+        { "en": "Lo necio del mundo", "es": "La elección divina de lo humilde" },
+        { "en": "Sois templo de Dios", "es": "La santidad de la comunidad cristiana" },
+        { "en": "Comprados a buen precio", "es": "El valor del cuerpo como templo del Espíritu" },
+        { "en": "Me he hecho todo para todos", "es": "La flexibilidad misionera de Pablo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quiénes ha escogido Dios para humillar a los sabios y poderosos, según Pablo, en 1 Corintios 1?",
+      "options": ["A los reyes y gobernantes de las naciones", "«Lo necio del mundo... y lo débil del mundo»", "Solo a los sacerdotes y maestros de la ley"],
+      "correct": 1,
+      "hint": "Añade que Dios ha escogido «lo despreciable, lo que no cuenta».",
+      "explanation": "1Co 1,27: «lo necio del mundo lo ha escogido Dios para humillar a los sabios, y lo débil del mundo... lo poderoso»."
+    },
+    {
+      "type": "gap",
+      "text": "Lo necio del mundo lo ha escogido Dios para humillar a los ___.",
+      "options": ["sabios", "ricos", "fuertes"],
+      "answer": "sabios",
+      "explanation": "1Co 1,27: esta elección divina de lo humilde contradice la sabiduría humana valorada en Corinto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 1,27 · La elección de lo humilde",
+      "direction": "es-es",
+      "tiles": ["Lo", "necio", "del", "mundo", "lo", "ha", "escogido", "Dios", "ricos", "fuertes"],
+      "answer": "Lo necio del mundo lo ha escogido Dios",
+      "explanation": "1Co 1,27: esta elección divina de lo humilde contradice la sabiduría humana valorada en Corinto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta hace Pablo a los corintios sobre su identidad como comunidad, en 1 Corintios 3?",
+      "options": ["Si conocen bien la ley mosaica y sus preceptos", "Si están dispuestos a construir un templo material", "«¿No sabéis que sois templo de Dios y que el Espíritu de Dios habita en vosotros?»"],
+      "correct": 2,
+      "hint": "Añade que «el templo de Dios es santo: y ese templo sois vosotros».",
+      "explanation": "1Co 3,16: «¿no sabéis que sois templo de Dios y que el Espíritu de Dios habita en vosotros?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿No sabéis que sois ___ de Dios y que el Espíritu de Dios habita en vosotros?",
+      "options": ["templo", "casa", "pueblo"],
+      "answer": "templo",
+      "explanation": "1Co 3,16: esta pregunta afirma la santidad de la comunidad cristiana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 3,16 · El templo de Dios",
+      "direction": "es-es",
+      "tiles": ["Sois", "templo", "de", "Dios", "casa", "pueblo"],
+      "answer": "Sois templo de Dios",
+      "explanation": "1Co 3,16: esta pregunta afirma la santidad de la comunidad cristiana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Dios es fiel... tentados por encima de vuestras fuerzas", "es": "1 Corintios 10,13" },
+        { "en": "Hacedlo todo para gloria de Dios", "es": "1 Corintios 10,31" },
+        { "en": "Sed imitadores míos", "es": "1 Corintios 11,1" },
+        { "en": "Esto es mi cuerpo", "es": "1 Corintios 11,24" },
+        { "en": "Sois templo de Dios", "es": "1 Corintios 3,16" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué motivo da Pablo para glorificar a Dios con el propio cuerpo, en 1 Corintios 6?",
+      "options": ["«Habéis sido comprados a buen precio»", "Que el cuerpo carece de valor espiritual real", "Que solo el alma importa ante los ojos de Dios"],
+      "correct": 0,
+      "hint": "Antes dice que el cuerpo «es templo del Espíritu Santo».",
+      "explanation": "1Co 6,19-20: «habéis sido comprados a buen precio. Por tanto, ¡glorificad a Dios con vuestro cuerpo!»."
+    },
+    {
+      "type": "gap",
+      "text": "Habéis sido comprados a buen ___. Por tanto, glorificad a Dios con vuestro cuerpo.",
+      "options": ["precio", "coste", "valor"],
+      "answer": "precio",
+      "explanation": "1Co 6,20: esta enseñanza convierte lo cotidiano en lugar de encuentro con Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 6,20 · Comprados a buen precio",
+      "direction": "es-es",
+      "tiles": ["Habéis", "sido", "comprados", "a", "buen", "precio", "coste", "valor"],
+      "answer": "Habéis sido comprados a buen precio",
+      "explanation": "1Co 6,20: esta enseñanza convierte lo cotidiano en lugar de encuentro con Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a los Corintios", "es": "Responde a divisiones y problemas concretos de una comunidad real" },
+        { "en": "El mensaje de la cruz", "es": "Contradice la sabiduría humana valorada en Corinto" },
+        { "en": "El cuerpo como templo", "es": "Fundamenta la ética sexual y corporal de Pablo" },
+        { "en": "La institución de la Eucaristía", "es": "Se transmite como tradición recibida del Señor" },
+        { "en": "La estrategia misionera de Pablo", "es": "Se adapta a cada tipo de persona sin traicionar el Evangelio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo su propia estrategia misionera, en 1 Corintios 9?",
+      "options": ["Que predica siempre del mismo modo, sin adaptarse a nadie", "«Me he hecho todo para todos, para ganar, sea como sea, a algunos»", "Que prefiere evitar a los más difíciles de convencer"],
+      "correct": 1,
+      "hint": "Antes dice: «me he hecho débil con los débiles, para ganar a los débiles».",
+      "explanation": "1Co 9,22: «me he hecho todo para todos, para ganar, sea como sea, a algunos»."
+    },
+    {
+      "type": "gap",
+      "text": "Me he hecho todo para todos, para ___, sea como sea, a algunos.",
+      "options": ["ganar", "salvar", "convencer"],
+      "answer": "ganar",
+      "explanation": "1Co 9,22: esta flexibilidad misionera de Pablo se adapta a cada tipo de persona sin traicionar el Evangelio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 9,22 · Hecho todo para todos",
+      "direction": "es-es",
+      "tiles": ["Me", "he", "hecho", "todo", "para", "todos", "salvar", "convencer"],
+      "answer": "Me he hecho todo para todos",
+      "explanation": "1Co 9,22: esta flexibilidad misionera de Pablo se adapta a cada tipo de persona sin traicionar el Evangelio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Pablo sobre la fidelidad de Dios frente a la tentación, en 1 Corintios 10?",
+      "options": ["Que los creyentes nunca volverán a ser tentados", "Que la tentación desaparece por completo tras el bautismo", "«Dios es fiel, y él no permitirá que seáis tentados por encima de vuestras fuerzas»"],
+      "correct": 2,
+      "hint": "Añade que Dios «hará que encontréis también el modo de poder soportarla».",
+      "explanation": "1Co 10,13: «Dios es fiel, y él no permitirá que seáis tentados por encima de vuestras fuerzas»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios es fiel, y él no permitirá que seáis tentados por encima de vuestras ___.",
+      "options": ["fuerzas", "límites", "ánimos"],
+      "answer": "fuerzas",
+      "explanation": "1Co 10,13: esta fidelidad de Dios en la tentación da esperanza ante cualquier prueba."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio da Pablo para las acciones cotidianas más sencillas, como comer o beber, en 1 Corintios 10?",
+      "options": ["«Hacedlo todo para gloria de Dios»", "Que son asuntos sin ninguna relevancia espiritual", "Que deben evitarse por completo los banquetes públicos"],
+      "correct": 0,
+      "hint": "Añade que no se debe dar «motivo de escándalo» a nadie.",
+      "explanation": "1Co 10,31: «ya comáis, ya bebáis o hagáis lo que hagáis, hacedlo todo para gloria de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Ya comáis, ya bebáis o hagáis lo que hagáis, hacedlo todo para ___ de Dios.",
+      "options": ["gloria", "honra", "amor"],
+      "answer": "gloria",
+      "explanation": "1Co 10,31: hacer todo para la gloria de Dios convierte hasta lo más simple en acto de fe."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 10,31 · Todo para gloria de Dios",
+      "direction": "es-es",
+      "tiles": ["Hacedlo", "todo", "para", "gloria", "de", "Dios", "honra", "amor"],
+      "answer": "Hacedlo todo para gloria de Dios",
+      "explanation": "1Co 10,31: hacer todo para la gloria de Dios convierte hasta lo más simple en acto de fe."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La locura de la cruz", "es": "Invierte los criterios humanos de sabiduría y poder" },
+        { "en": "La dignidad del cuerpo", "es": "Convierte lo cotidiano en lugar de encuentro con Dios" },
+        { "en": "La fidelidad de Dios en la tentación", "es": "Da esperanza ante cualquier prueba" },
+        { "en": "Hacer todo para la gloria de Dios", "es": "Convierte hasta lo más simple en acto de fe" },
+        { "en": "El memorial eucarístico", "es": "Actualiza la entrega de Cristo en cada celebración" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo a los corintios respecto a su propio ejemplo, en 1 Corintios 11?",
+      "options": ["Que se fijen solo en las palabras, no en las obras", "«Sed imitadores míos como yo lo soy de Cristo»", "Que eviten seguir el ejemplo de cualquier apóstol"],
+      "correct": 1,
+      "hint": "Los alaba porque «mantenéis las tradiciones como os las transmití».",
+      "explanation": "1Co 11,1: «sed imitadores míos como yo lo soy de Cristo»."
+    },
+    {
+      "type": "gap",
+      "text": "Sed imitadores míos como yo lo soy de ___.",
+      "options": ["Cristo", "Dios", "la Iglesia"],
+      "answer": "Cristo",
+      "explanation": "1Co 11,1: este ejemplo de Pablo remite siempre a Cristo como modelo último."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 11,1 · Imitadores de Cristo",
+      "direction": "es-es",
+      "tiles": ["Sed", "imitadores", "míos", "como", "yo", "lo", "soy", "de", "Cristo", "Dios"],
+      "answer": "Sed imitadores míos como yo lo soy de Cristo",
+      "explanation": "1Co 11,1: este ejemplo de Pablo remite siempre a Cristo como modelo último."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué palabras usa Pablo al transmitir la institución de la Eucaristía, en 1 Corintios 11?",
+      "options": ["Una fórmula distinta a la que usan los evangelios", "Solo una breve mención, sin citar palabras concretas", "«Esto es mi cuerpo, que se entrega por vosotros... este cáliz es la nueva alianza en mi sangre»"],
+      "correct": 2,
+      "hint": "Presenta esto como tradición «recibida del Señor».",
+      "explanation": "1Co 11,24-25: «esto es mi cuerpo, que se entrega por vosotros. Haced esto en memoria mía... este cáliz es la nueva alianza en mi sangre»."
+    },
+    {
+      "type": "gap",
+      "text": "Esto es mi cuerpo, que se entrega por vosotros. Haced esto en ___ mía.",
+      "options": ["memoria", "honor", "nombre"],
+      "answer": "memoria",
+      "explanation": "1Co 11,24: este memorial eucarístico actualiza la entrega de Cristo en cada celebración."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Co 11,24 · El memorial eucarístico",
+      "direction": "es-es",
+      "tiles": ["Haced", "esto", "en", "memoria", "mía", "honor", "nombre"],
+      "answer": "Haced esto en memoria mía",
+      "explanation": "1Co 11,24: este memorial eucarístico actualiza la entrega de Cristo en cada celebración."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod07",
+  "module": 7,
+  "title": "Efesios — La Salvación por Gracia y la Armadura de Dios",
+  "subtitle": "Efesios 1–6",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo el origen de la salvación de los efesios, en Efesios 2?",
+      "options": ["«Por gracia estáis salvados, mediante la fe... no viene de las obras, para que nadie pueda presumir»", "Que depende del esfuerzo personal acumulado", "Que se gana progresivamente con buenas acciones"],
+      "correct": 0,
+      "hint": "Añade que esto «no viene de vosotros: es don de Dios».",
+      "explanation": "Ef 2,8-9: «por gracia estáis salvados, mediante la fe... no viene de las obras, para que nadie pueda presumir»."
+    },
+    {
+      "type": "gap",
+      "text": "Por gracia estáis salvados, mediante la fe... no viene de las obras, para que nadie pueda ___.",
+      "options": ["presumir", "dudar", "creer"],
+      "answer": "presumir",
+      "explanation": "Ef 2,9: la gracia como fundamento de la salvación libera de la ansiedad por ganar el favor de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ef 2,8 · Salvados por gracia",
+      "direction": "es-es",
+      "tiles": ["Por", "gracia", "estáis", "salvados", "mediante", "la", "fe", "dudas", "creencia"],
+      "answer": "Por gracia estáis salvados mediante la fe",
+      "explanation": "Ef 2,9: la gracia como fundamento de la salvación libera de la ansiedad por ganar el favor de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Por gracia estáis salvados", "es": "La salvación como don gratuito, no mérito" },
+        { "en": "Buenas obras", "es": "El propósito de la vida nueva en Cristo" },
+        { "en": "Él es nuestra paz", "es": "La reconciliación entre judíos y gentiles" },
+        { "en": "Unidad del Espíritu", "es": "La llamada a la unidad de la Iglesia" },
+        { "en": "Sed imitadores de Dios", "es": "El amor de Cristo como modelo de vida" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Para qué afirma Pablo que Dios nos ha creado en Cristo Jesús, en Efesios 2?",
+      "options": ["Para que vivamos aislados del mundo que nos rodea", "«Para que nos dediquemos a las buenas obras»", "Para que evitemos toda relación con los no creyentes"],
+      "correct": 1,
+      "hint": "Antes dice: «somos, pues, obra suya».",
+      "explanation": "Ef 2,10: «Dios nos ha creado en Cristo Jesús, para que nos dediquemos a las buenas obras»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios nos ha creado en Cristo Jesús, para que nos dediquemos a las buenas ___.",
+      "options": ["obras", "palabras", "promesas"],
+      "answer": "obras",
+      "explanation": "Ef 2,10: esto define el propósito de la vida nueva en Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ef 2,10 · Creados para las buenas obras",
+      "direction": "es-es",
+      "tiles": ["Nos", "dediquemos", "a", "las", "buenas", "obras", "palabras", "promesas"],
+      "answer": "Nos dediquemos a las buenas obras",
+      "explanation": "Ef 2,10: esto define el propósito de la vida nueva en Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo la obra de Cristo entre judíos y gentiles, en Efesios 2?",
+      "options": ["Que mantiene separados a ambos pueblos por su propio bien", "Que solo beneficia a uno de los dos pueblos", "«Él es nuestra paz: el que de los dos pueblos ha hecho uno»"],
+      "correct": 2,
+      "hint": "Añade que derribó «el muro que los separaba: la enemistad».",
+      "explanation": "Ef 2,14: «él es nuestra paz: el que de los dos pueblos ha hecho uno»."
+    },
+    {
+      "type": "gap",
+      "text": "Él es nuestra paz: el que de los dos pueblos ha hecho ___.",
+      "options": ["uno", "dos", "ley"],
+      "answer": "uno",
+      "explanation": "Ef 2,14: esta unidad de judíos y gentiles se funda en la obra reconciliadora de Cristo en la cruz."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ef 2,14 · Él es nuestra paz",
+      "direction": "es-es",
+      "tiles": ["El", "que", "de", "los", "dos", "pueblos", "ha", "hecho", "uno", "ley"],
+      "answer": "El que de los dos pueblos ha hecho uno",
+      "explanation": "Ef 2,14: esta unidad de judíos y gentiles se funda en la obra reconciliadora de Cristo en la cruz."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Que el sol no se ponga sobre vuestra ira", "es": "Efesios 4,26" },
+        { "en": "Perdonándoos unos a otros", "es": "Efesios 4,32" },
+        { "en": "Poneos las armas de Dios", "es": "Efesios 6,11" },
+        { "en": "Nuestra lucha no es contra hombres de carne y hueso", "es": "Efesios 6,12" },
+        { "en": "Él es nuestra paz", "es": "Efesios 2,14" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo a los efesios respecto a la unidad de la comunidad, en Efesios 4?",
+      "options": ["«Esforzándoos en mantener la unidad del Espíritu con el vínculo de la paz»", "Que toleren cualquier división con tal de evitar conflictos", "Que la unidad se logre imponiendo una sola opinión"],
+      "correct": 0,
+      "hint": "Añade que hay «un solo cuerpo y un solo Espíritu».",
+      "explanation": "Ef 4,3: «esforzándoos en mantener la unidad del Espíritu con el vínculo de la paz»."
+    },
+    {
+      "type": "gap",
+      "text": "Esforzándoos en mantener la unidad del Espíritu con el vínculo de la ___.",
+      "options": ["paz", "fe", "gracia"],
+      "answer": "paz",
+      "explanation": "Ef 4,3: esta unidad del Espíritu exige un esfuerzo activo y constante de la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ef 4,3 · La unidad del Espíritu",
+      "direction": "es-es",
+      "tiles": ["La", "unidad", "del", "Espíritu", "con", "el", "vínculo", "de", "la", "paz", "fe", "gracia"],
+      "answer": "La unidad del Espíritu con el vínculo de la paz",
+      "explanation": "Ef 4,3: esta unidad del Espíritu exige un esfuerzo activo y constante de la comunidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a los Efesios", "es": "Combina una primera parte doctrinal y una segunda práctica" },
+        { "en": "La salvación por gracia", "es": "Se opone a cualquier pretensión de mérito humano" },
+        { "en": "La unidad de judíos y gentiles", "es": "Se funda en la obra reconciliadora de Cristo en la cruz" },
+        { "en": "La imagen de la armadura", "es": "Cierra la carta con un llamado a la vigilancia espiritual" },
+        { "en": "La lucha cristiana", "es": "Se describe como un combate contra fuerzas espirituales, no personas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué consejo da Pablo sobre cómo manejar el enojo, en Efesios 4?",
+      "options": ["Que conviene reprimir toda expresión de indignación", "«Que el sol no se ponga sobre vuestra ira»", "Que el enojo debe evitarse siempre a toda costa"],
+      "correct": 1,
+      "hint": "Añade: «no deis ocasión al diablo».",
+      "explanation": "Ef 4,26: «que el sol no se ponga sobre vuestra ira»."
+    },
+    {
+      "type": "gap",
+      "text": "Que el sol no se ponga sobre vuestra ___.",
+      "options": ["ira", "pena", "duda"],
+      "answer": "ira",
+      "explanation": "Ef 4,26: este manejo sano del enojo evita que la ira se convierta en raíz de división."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud pide Pablo hacia los demás, tomando a Dios como modelo, en Efesios 4?",
+      "options": ["Que se exija justicia estricta antes de cualquier perdón", "Que el perdón se conceda solo tras una disculpa formal", "«Sed buenos, comprensivos, perdonándoos unos a otros como Dios os perdonó en Cristo»"],
+      "correct": 2,
+      "hint": "Antes pide desterrar «la amargura, la ira, los enfados e insultos».",
+      "explanation": "Ef 4,32: «sed buenos, comprensivos, perdonándoos unos a otros como Dios os perdonó en Cristo»."
+    },
+    {
+      "type": "gap",
+      "text": "Sed buenos, comprensivos, perdonándoos unos a otros como Dios os ___ en Cristo.",
+      "options": ["perdonó", "amó", "salvó"],
+      "answer": "perdonó",
+      "explanation": "Ef 4,32: este perdón mutuo refleja en la comunidad el perdón recibido de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ef 4,32 · El perdón mutuo",
+      "direction": "es-es",
+      "tiles": ["Perdonándoos", "unos", "a", "otros", "como", "Dios", "os", "perdonó", "en", "Cristo", "amó", "salvó"],
+      "answer": "Perdonándoos unos a otros como Dios os perdonó en Cristo",
+      "explanation": "Ef 4,32: este perdón mutuo refleja en la comunidad el perdón recibido de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La gracia como fundamento de la salvación", "es": "Libera de la ansiedad por ganar el favor de Dios" },
+        { "en": "La unidad del Espíritu", "es": "Exige un esfuerzo activo y constante de la comunidad" },
+        { "en": "El manejo sano del enojo", "es": "Evita que la ira se convierta en raíz de división" },
+        { "en": "El perdón mutuo", "es": "Refleja en la comunidad el perdón recibido de Dios" },
+        { "en": "La armadura espiritual", "es": "Prepara al creyente para un combate que no es solo humano" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quién propone Pablo como modelo a imitar, y con qué actitud, en Efesios 5?",
+      "options": ["«Sed imitadores de Dios... y vivid en el amor como Cristo os amó»", "A los grandes filósofos de la época", "A los líderes políticos más admirados"],
+      "correct": 0,
+      "hint": "Los llama «hijos queridos» al pedirles esto.",
+      "explanation": "Ef 5,1-2: «sed imitadores de Dios, como hijos queridos... y vivid en el amor como Cristo os amó»."
+    },
+    {
+      "type": "gap",
+      "text": "Sed imitadores de ___, como hijos queridos.",
+      "options": ["Dios", "Cristo", "los santos"],
+      "answer": "Dios",
+      "explanation": "Ef 5,1: el amor de Cristo se presenta aquí como modelo de vida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ef 5,1 · Imitadores de Dios",
+      "direction": "es-es",
+      "tiles": ["Sed", "imitadores", "de", "Dios", "como", "hijos", "queridos", "Cristo", "los", "santos"],
+      "answer": "Sed imitadores de Dios como hijos queridos",
+      "explanation": "Ef 5,1: el amor de Cristo se presenta aquí como modelo de vida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué recomienda Pablo para afrontar las asechanzas del diablo, en Efesios 6?",
+      "options": ["Que se confíe únicamente en la propia fuerza física", "«Poneos las armas de Dios, para poder afrontar las asechanzas del diablo»", "Que se evite todo enfrentamiento espiritual"],
+      "correct": 1,
+      "hint": "Antes pide «buscad vuestra fuerza en el Señor y en su invencible poder».",
+      "explanation": "Ef 6,11: «poneos las armas de Dios, para poder afrontar las asechanzas del diablo»."
+    },
+    {
+      "type": "gap",
+      "text": "Poneos las armas de Dios, para poder afrontar las ___ del diablo.",
+      "options": ["asechanzas", "tentaciones", "pruebas"],
+      "answer": "asechanzas",
+      "explanation": "Ef 6,11: esta armadura espiritual prepara al creyente para un combate que no es solo humano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ef 6,11 · Las armas de Dios",
+      "direction": "es-es",
+      "tiles": ["Poneos", "las", "armas", "de", "Dios", "espada", "escudo"],
+      "answer": "Poneos las armas de Dios",
+      "explanation": "Ef 6,11: esta armadura espiritual prepara al creyente para un combate que no es solo humano."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Contra qué afirma Pablo que se dirige realmente la lucha del cristiano, en Efesios 6?",
+      "options": ["Contra otras personas consideradas enemigas", "Contra las propias debilidades únicamente", "«No es contra hombres de carne y hueso sino contra los principados... de este mundo de tinieblas»"],
+      "correct": 2,
+      "hint": "Menciona también «los espíritus malignos del aire».",
+      "explanation": "Ef 6,12: «nuestra lucha no es contra hombres de carne y hueso sino contra los principados... de este mundo de tinieblas»."
+    },
+    {
+      "type": "gap",
+      "text": "Nuestra lucha no es contra hombres de carne y ___.",
+      "options": ["hueso", "sangre", "tierra"],
+      "answer": "hueso",
+      "explanation": "Ef 6,12: esta lucha cristiana se describe como un combate contra fuerzas espirituales, no personas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ef 6,12 · Una lucha espiritual",
+      "direction": "es-es",
+      "tiles": ["Nuestra", "lucha", "no", "es", "contra", "hombres", "de", "carne", "y", "hueso", "sangre", "tierra"],
+      "answer": "Nuestra lucha no es contra hombres de carne y hueso",
+      "explanation": "Ef 6,12: esta lucha cristiana se describe como un combate contra fuerzas espirituales, no personas."
+    }
+  ]
+}

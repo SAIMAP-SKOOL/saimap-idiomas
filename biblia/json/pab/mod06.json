@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod06",
+  "module": 6,
+  "title": "Gálatas — La Libertad Cristiana y el Fruto del Espíritu",
+  "subtitle": "Gálatas 1–6",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo su propia identidad tras estar «crucificado con Cristo», en Gálatas 2?",
+      "options": ["«Vivo, pero no soy yo el que vive, es Cristo quien vive en mí»", "Que ha perdido por completo su identidad personal", "Que ya no necesita vivir por la fe"],
+      "correct": 0,
+      "hint": "Añade que vive «en la fe del Hijo de Dios, que me amó y se entregó por mí».",
+      "explanation": "Ga 2,20: «vivo, pero no soy yo el que vive, es Cristo quien vive en mí»."
+    },
+    {
+      "type": "gap",
+      "text": "Vivo, pero no soy yo el que vive, es ___ quien vive en mí.",
+      "options": ["Cristo", "Dios", "el Espíritu"],
+      "answer": "Cristo",
+      "explanation": "Ga 2,20: esta nueva identidad transforma radicalmente la forma de vivir del creyente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ga 2,20 · Cristo vive en mí",
+      "direction": "es-es",
+      "tiles": ["Es", "Cristo", "quien", "vive", "en", "mí", "Dios", "el", "Espíritu"],
+      "answer": "Es Cristo quien vive en mí",
+      "explanation": "Ga 2,20: esta nueva identidad transforma radicalmente la forma de vivir del creyente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Cristo vive en mí", "es": "La nueva identidad del creyente en Cristo" },
+        { "en": "Todos sois uno en Cristo Jesús", "es": "La igualdad radical entre los bautizados" },
+        { "en": "Abba, Padre", "es": "La filiación divina del creyente" },
+        { "en": "Para la libertad nos ha liberado Cristo", "es": "El sentido de la libertad cristiana" },
+        { "en": "El fruto del Espíritu", "es": "Las virtudes que produce la vida según el Espíritu" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclama Pablo sobre la igualdad entre los bautizados en Cristo, en Gálatas 3?",
+      "options": ["Que las diferencias sociales deben mantenerse dentro de la Iglesia", "«No hay judío y griego, esclavo y libre, hombre y mujer... todos sois uno en Cristo Jesús»", "Que solo los varones libres pueden ser plenamente cristianos"],
+      "correct": 1,
+      "hint": "Antes dice: «cuantos habéis sido bautizados en Cristo, os habéis revestido de Cristo».",
+      "explanation": "Ga 3,28: «no hay judío y griego, esclavo y libre, hombre y mujer... todos vosotros sois uno en Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "No hay judío y griego, esclavo y libre, hombre y mujer... todos sois ___ en Cristo Jesús.",
+      "options": ["uno", "iguales", "libres"],
+      "answer": "uno",
+      "explanation": "Ga 3,28: esta igualdad en Cristo supera las divisiones sociales, étnicas y de género."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ga 3,28 · La igualdad en Cristo",
+      "direction": "es-es",
+      "tiles": ["Todos", "sois", "uno", "en", "Cristo", "Jesús", "iguales", "libres"],
+      "answer": "Todos sois uno en Cristo Jesús",
+      "explanation": "Ga 3,28: esta igualdad en Cristo supera las divisiones sociales, étnicas y de género."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué envía Dios a los corazones de quienes son sus hijos, en Gálatas 4?",
+      "options": ["Una nueva ley más exigente que la anterior", "Un ángel guardián para cada creyente", "«El Espíritu de su Hijo, que clama: “¡Abba, Padre!”»"],
+      "correct": 2,
+      "hint": "Añade que, siendo hijos, son también «herederos por voluntad de Dios».",
+      "explanation": "Ga 4,6: «Dios envió a nuestros corazones el Espíritu de su Hijo, que clama: “¡Abba, Padre!”»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios envió a nuestros corazones el Espíritu de su Hijo, que clama: ¡Abba, ___!",
+      "options": ["Padre", "Señor", "Dios"],
+      "answer": "Padre",
+      "explanation": "Ga 4,6: esta filiación divina del creyente se expresa en la oración confiada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ga 4,6 · Abba, Padre",
+      "direction": "es-es",
+      "tiles": ["El", "Espíritu", "de", "su", "Hijo", "que", "clama", "Abba", "Padre", "Señor", "Dios"],
+      "answer": "El Espíritu de su Hijo que clama Abba Padre",
+      "explanation": "Ga 4,6: esta filiación divina del creyente se expresa en la oración confiada."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "No hay judío y griego", "es": "Gálatas 3,28" },
+        { "en": "Amarás a tu prójimo como a ti mismo", "es": "Gálatas 5,14" },
+        { "en": "Llevad los unos las cargas de los otros", "es": "Gálatas 6,2" },
+        { "en": "No nos cansemos de hacer el bien", "es": "Gálatas 6,9" },
+        { "en": "Para la libertad nos ha liberado Cristo", "es": "Gálatas 5,1" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué finalidad afirma Pablo que Cristo los ha liberado, en Gálatas 5?",
+      "options": ["«Para la libertad nos ha liberado Cristo»", "Para que vuelvan a las antiguas prácticas rituales", "Para que dependan de un nuevo conjunto de normas"],
+      "correct": 0,
+      "hint": "Añade: «no dejéis que vuelvan a someteros a yugos de esclavitud».",
+      "explanation": "Ga 5,1: «para la libertad nos ha liberado Cristo»."
+    },
+    {
+      "type": "gap",
+      "text": "Para la ___ nos ha liberado Cristo.",
+      "options": ["libertad", "vida", "fe"],
+      "answer": "libertad",
+      "explanation": "Ga 5,1: este es el sentido central de la libertad cristiana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ga 5,1 · La libertad cristiana",
+      "direction": "es-es",
+      "tiles": ["Para", "la", "libertad", "nos", "ha", "liberado", "Cristo", "vida", "fe"],
+      "answer": "Para la libertad nos ha liberado Cristo",
+      "explanation": "Ga 5,1: este es el sentido central de la libertad cristiana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a los Gálatas", "es": "Responde a quienes exigían la circuncisión a los gentiles convertidos" },
+        { "en": "La libertad cristiana", "es": "Se defiende frente a un retorno a las prácticas rituales de la ley" },
+        { "en": "El fruto del Espíritu", "es": "Se contrasta con las obras de la carne mencionadas antes" },
+        { "en": "La ley del amor al prójimo", "es": "Resume, según Pablo, el cumplimiento de toda la ley" },
+        { "en": "La exhortación final", "es": "Anima a no cansarse de hacer el bien" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advertencia añade Pablo sobre el uso correcto de la libertad cristiana, en Gálatas 5?",
+      "options": ["Que la libertad debe usarse sin ninguna limitación", "Que no debe usarse «como estímulo para la carne», sino para servirse por amor", "Que la libertad solo aplica a cuestiones rituales"],
+      "correct": 1,
+      "hint": "Pide que se sirvan «unos de otros por amor».",
+      "explanation": "Ga 5,13: «habéis sido llamados a la libertad... sed esclavos unos de otros por amor»."
+    },
+    {
+      "type": "gap",
+      "text": "Sed esclavos unos de otros por ___.",
+      "options": ["amor", "fe", "humildad"],
+      "answer": "amor",
+      "explanation": "Ga 5,13: esta libertad para servir por amor evita que se convierta en excusa para el egoísmo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué precepto único resume Pablo el cumplimiento de toda la ley, en Gálatas 5?",
+      "options": ["En la obligación de ofrecer sacrificios periódicos", "En la observancia estricta del sábado", "«Amarás a tu prójimo como a ti mismo»"],
+      "correct": 2,
+      "hint": "Advierte después contra «mordeos y devoraos unos a otros».",
+      "explanation": "Ga 5,14: «toda la ley se cumple en una sola frase, que es: amarás a tu prójimo como a ti mismo»."
+    },
+    {
+      "type": "gap",
+      "text": "Toda la ley se cumple en una sola frase: amarás a tu ___ como a ti mismo.",
+      "options": ["prójimo", "hermano", "vecino"],
+      "answer": "prójimo",
+      "explanation": "Ga 5,14: esta ley del amor al prójimo resume, según Pablo, el cumplimiento de toda la ley."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ga 5,14 · El amor al prójimo",
+      "direction": "es-es",
+      "tiles": ["Amarás", "a", "tu", "prójimo", "como", "a", "ti", "mismo", "hermano", "vecino"],
+      "answer": "Amarás a tu prójimo como a ti mismo",
+      "explanation": "Ga 5,14: esta ley del amor al prójimo resume, según Pablo, el cumplimiento de toda la ley."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué frutos atribuye Pablo a la acción del Espíritu en el creyente, en Gálatas 5?",
+      "options": ["«Amor, alegría, paz, paciencia, afabilidad, bondad, lealtad, modestia, dominio de sí»", "Riquezas, honores y reconocimiento público", "Solo el don de hacer milagros y prodigios"],
+      "correct": 0,
+      "hint": "Añade que «contra estas cosas no hay ley».",
+      "explanation": "Ga 5,22-23: «el fruto del Espíritu es: amor, alegría, paz, paciencia, afabilidad, bondad, lealtad, modestia, dominio de sí»."
+    },
+    {
+      "type": "gap",
+      "text": "El fruto del Espíritu es: amor, alegría, ___, paciencia.",
+      "options": ["paz", "fe", "luz"],
+      "answer": "paz",
+      "explanation": "Ga 5,22: este fruto del Espíritu se reconoce en las virtudes concretas de la vida diaria."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ga 5,22 · El fruto del Espíritu",
+      "direction": "es-es",
+      "tiles": ["El", "fruto", "del", "Espíritu", "es", "amor", "alegría", "paz", "paciencia", "fe", "luz"],
+      "answer": "El fruto del Espíritu es amor alegría paz paciencia",
+      "explanation": "Ga 5,22: este fruto del Espíritu se reconoce en las virtudes concretas de la vida diaria."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La nueva identidad en Cristo", "es": "Transforma radicalmente la forma de vivir del creyente" },
+        { "en": "La igualdad en Cristo", "es": "Supera las divisiones sociales, étnicas y de género" },
+        { "en": "La libertad para servir por amor", "es": "Evita que la libertad se convierta en excusa para el egoísmo" },
+        { "en": "El fruto del Espíritu", "es": "Se reconoce en las virtudes concretas de la vida diaria" },
+        { "en": "La perseverancia en el bien", "es": "Asegura una cosecha futura, aunque tarde en llegar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué manda Pablo respecto a las dificultades de los demás miembros de la comunidad, en Gálatas 6?",
+      "options": ["Que cada uno resuelva sus propias cargas sin ayuda ajena", "«Llevad los unos las cargas de los otros y así cumpliréis la ley de Cristo»", "Que solo los líderes deben ocuparse de los problemas ajenos"],
+      "correct": 1,
+      "hint": "Antes pide corregir «con espíritu de mansedumbre».",
+      "explanation": "Ga 6,2: «llevad los unos las cargas de los otros y así cumpliréis la ley de Cristo»."
+    },
+    {
+      "type": "gap",
+      "text": "Llevad los unos las ___ de los otros y así cumpliréis la ley de Cristo.",
+      "options": ["cargas", "penas", "dudas"],
+      "answer": "cargas",
+      "explanation": "Ga 6,2: esta enseñanza convierte la ayuda mutua en cumplimiento de la ley de Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ga 6,2 · Llevar las cargas del otro",
+      "direction": "es-es",
+      "tiles": ["Llevad", "los", "unos", "las", "cargas", "de", "los", "otros", "penas", "dudas"],
+      "answer": "Llevad los unos las cargas de los otros",
+      "explanation": "Ga 6,2: esta enseñanza convierte la ayuda mutua en cumplimiento de la ley de Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anima Pablo a hacer a los gálatas, a pesar del cansancio, en Gálatas 6?",
+      "options": ["Que abandonen la tarea si no ven resultados inmediatos", "Que deleguen el bien en otros más capacitados", "«No nos cansemos de hacer el bien... a su tiempo cosecharemos»"],
+      "correct": 2,
+      "hint": "Añade: «mientras tenemos ocasión, hagamos el bien a todos».",
+      "explanation": "Ga 6,9: «no nos cansemos de hacer el bien, que, si no desmayamos, a su tiempo cosecharemos»."
+    },
+    {
+      "type": "gap",
+      "text": "No nos cansemos de hacer el bien, que, si no desmayamos, a su tiempo ___.",
+      "options": ["cosecharemos", "ganaremos", "viviremos"],
+      "answer": "cosecharemos",
+      "explanation": "Ga 6,9: esta perseverancia en el bien asegura una cosecha futura, aunque tarde en llegar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Ga 6,9 · No cansarse de hacer el bien",
+      "direction": "es-es",
+      "tiles": ["No", "nos", "cansemos", "de", "hacer", "el", "bien", "ganaremos", "viviremos"],
+      "answer": "No nos cansemos de hacer el bien",
+      "explanation": "Ga 6,9: esta perseverancia en el bien asegura una cosecha futura, aunque tarde en llegar."
+    }
+  ]
+}

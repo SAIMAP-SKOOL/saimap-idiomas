@@ -139,7 +139,21 @@
         { "n": 3, "title": "Hechos III — Los Viajes Misioneros y la Llegada a Roma",     "es": "Hechos III · Viajes y Roma (Hch 16–28)",      "file": "hch/mod03.json" }
       ]
     },
-    { "code": "PAB", "name": "Corpus Paulino",                 "color": "#4F8B6B", "locked": true, "moduleCount": 14 },
+    {
+      "code": "PAB",
+      "name": "Corpus Paulino",
+      "sub": "7 módulos · Romanos, 1-2 Corintios, Gálatas y Efesios completos (resto en preparación)",
+      "color": "#4F8B6B",
+      "modules": [
+        { "n": 1, "title": "Romanos I — La Justificación por la Fe",                    "es": "Romanos I · Justificación (Rm 1–8)",       "file": "pab/mod01.json" },
+        { "n": 2, "title": "Romanos II — Israel, la Vida Nueva y el Amor como Ley",     "es": "Romanos II · Vida Nueva (Rm 9–16)",        "file": "pab/mod02.json" },
+        { "n": 3, "title": "1 Corintios I — La Sabiduría de la Cruz y la Vida en Comunidad", "es": "1 Corintios I · Sabiduría de la Cruz (1Co 1–11)", "file": "pab/mod03.json" },
+        { "n": 4, "title": "1 Corintios II — El Himno al Amor y la Resurrección",       "es": "1 Corintios II · Himno al Amor (1Co 12–16)", "file": "pab/mod04.json" },
+        { "n": 5, "title": "2 Corintios — El Consuelo, la Debilidad y la Nueva Creación", "es": "2 Corintios · El Consuelo",              "file": "pab/mod05.json" },
+        { "n": 6, "title": "Gálatas — La Libertad Cristiana y el Fruto del Espíritu",   "es": "Gálatas · Libertad Cristiana",             "file": "pab/mod06.json" },
+        { "n": 7, "title": "Efesios — La Salvación por Gracia y la Armadura de Dios",   "es": "Efesios · Salvación por Gracia",           "file": "pab/mod07.json" }
+      ]
+    },
     { "code": "CAT", "name": "Cartas Católicas",               "color": "#5B57A6", "locked": true, "moduleCount": 5 },
     { "code": "SJN", "name": "Cartas de San Juan",             "color": "#1CB0F6", "locked": true, "moduleCount": 2 },
     { "code": "JUD", "name": "Judas",                          "color": "#9C3D6B", "locked": true, "moduleCount": 1 },

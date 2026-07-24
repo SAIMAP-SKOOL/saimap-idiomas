@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod05",
+  "module": 5,
+  "title": "2 Corintios — El Consuelo, la Debilidad y la Nueva Creación",
+  "subtitle": "2 Corintios 1–13",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo a Dios al comenzar la segunda carta a los Corintios, en 2 Corintios 1?",
+      "options": ["«Padre de las misericordias y Dios de todo consuelo, que nos consuela en toda tribulación»", "Como un juez que exige perfección antes de consolar", "Como alguien distante de las dificultades humanas"],
+      "correct": 0,
+      "hint": "Añade que este consuelo lo capacita para «consolar a los demás».",
+      "explanation": "2Co 1,3-4: «Padre de las misericordias y Dios de todo consuelo, que nos consuela en cualquier tribulación»."
+    },
+    {
+      "type": "gap",
+      "text": "Padre de las misericordias y Dios de todo ___, que nos consuela en toda tribulación.",
+      "options": ["consuelo", "amor", "gracia"],
+      "answer": "consuelo",
+      "explanation": "2Co 1,3: el consuelo recibido capacita para consolar a otros en su propia tribulación."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Co 1,3 · El Dios de todo consuelo",
+      "direction": "es-es",
+      "tiles": ["Dios", "de", "todo", "consuelo", "amor", "gracia"],
+      "answer": "Dios de todo consuelo",
+      "explanation": "2Co 1,3: el consuelo recibido capacita para consolar a otros en su propia tribulación."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Dios de todo consuelo", "es": "El consuelo de Dios en la tribulación" },
+        { "en": "Donde está el Espíritu del Señor, hay libertad", "es": "La libertad que da el Espíritu" },
+        { "en": "Vasijas de barro", "es": "La fragilidad humana como signo del poder de Dios" },
+        { "en": "Hombre interior renovado", "es": "La renovación interior en medio del desgaste externo" },
+        { "en": "Criatura nueva", "es": "La transformación del creyente en Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué relación establece Pablo entre el Espíritu del Señor y la libertad, en 2 Corintios 3?",
+      "options": ["Que son realidades completamente independientes", "«Donde está el Espíritu del Señor, hay libertad»", "Que la libertad se alcanza solo cumpliendo la ley"],
+      "correct": 1,
+      "hint": "Antes dice que «el Señor es el Espíritu».",
+      "explanation": "2Co 3,17: «donde está el Espíritu del Señor, hay libertad»."
+    },
+    {
+      "type": "gap",
+      "text": "Donde está el Espíritu del Señor, hay ___.",
+      "options": ["libertad", "paz", "vida"],
+      "answer": "libertad",
+      "explanation": "2Co 3,17: esta libertad que da el Espíritu transforma al creyente con resplandor creciente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Co 3,17 · La libertad del Espíritu",
+      "direction": "es-es",
+      "tiles": ["Donde", "está", "el", "Espíritu", "del", "Señor", "hay", "libertad", "paz", "vida"],
+      "answer": "Donde está el Espíritu del Señor hay libertad",
+      "explanation": "2Co 3,17: esta libertad que da el Espíritu transforma al creyente con resplandor creciente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué compara Pablo el tesoro del Evangelio que llevan los creyentes, en 2 Corintios 4?",
+      "options": ["Con un arca preciosa guardada en un templo", "Con una corona reservada solo para los más fieles", "«Vasijas de barro, para que se vea que una fuerza tan extraordinaria es de Dios»"],
+      "correct": 2,
+      "hint": "Añade que están «atribulados en todo, mas no aplastados».",
+      "explanation": "2Co 4,7: «llevamos este tesoro en vasijas de barro, para que se vea que una fuerza tan extraordinaria es de Dios y no proviene de nosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "Llevamos este tesoro en vasijas de ___.",
+      "options": ["barro", "piedra", "oro"],
+      "answer": "barro",
+      "explanation": "2Co 4,7: esta fragilidad humana es signo de que el poder viene de Dios, no de nosotros."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Co 4,7 · El tesoro en vasijas de barro",
+      "direction": "es-es",
+      "tiles": ["Llevamos", "este", "tesoro", "en", "vasijas", "de", "barro", "piedra", "oro"],
+      "answer": "Llevamos este tesoro en vasijas de barro",
+      "explanation": "2Co 4,7: esta fragilidad humana es signo de que el poder viene de Dios, no de nosotros."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Caminamos en fe y no en visión", "es": "2 Corintios 5,7" },
+        { "en": "Dios ama al que da con alegría", "es": "2 Corintios 9,7" },
+        { "en": "Te basta mi gracia", "es": "2 Corintios 12,9" },
+        { "en": "El Dios del amor y de la paz", "es": "2 Corintios 13,11" },
+        { "en": "Vasijas de barro", "es": "2 Corintios 4,7" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué distinción hace Pablo entre el hombre exterior y el interior, en 2 Corintios 4?",
+      "options": ["«Aun cuando nuestro hombre exterior se vaya desmoronando, nuestro hombre interior se va renovando día a día»", "Que ambos se debilitan al mismo ritmo, sin excepción", "Que el hombre interior también decae con los años"],
+      "correct": 0,
+      "hint": "Añade que esto trae «una inmensa e incalculable carga de gloria».",
+      "explanation": "2Co 4,16: «aun cuando nuestro hombre exterior se vaya desmoronando, nuestro hombre interior se va renovando día a día»."
+    },
+    {
+      "type": "gap",
+      "text": "Nuestro hombre interior se va ___ día a día.",
+      "options": ["renovando", "fortaleciendo", "creciendo"],
+      "answer": "renovando",
+      "explanation": "2Co 4,16: esta renovación interior ocurre en medio del desgaste externo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Co 4,16 · La renovación interior",
+      "direction": "es-es",
+      "tiles": ["Nuestro", "hombre", "interior", "se", "va", "renovando", "día", "a", "día", "fortaleciendo", "creciendo"],
+      "answer": "Nuestro hombre interior se va renovando día a día",
+      "explanation": "2Co 4,16: esta renovación interior ocurre en medio del desgaste externo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La segunda carta a los Corintios", "es": "Es la más autobiográfica y emotiva de Pablo" },
+        { "en": "El tema del consuelo", "es": "Abre la carta como respuesta a las propias tribulaciones de Pablo" },
+        { "en": "La generosidad", "es": "Se trata en el contexto de una colecta para la Iglesia de Jerusalén" },
+        { "en": "La debilidad de Pablo", "es": "Se relaciona con un «aguijón en la carne» que pidió le fuera quitado" },
+        { "en": "La carta", "es": "Termina con una bendición trinitaria que se usa aún en la liturgia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo la forma de vivir del cristiano en esta vida, en 2 Corintios 5?",
+      "options": ["Basada únicamente en lo que se puede ver y comprobar", "«Caminamos en fe y no en visión»", "Sin ninguna orientación hasta la llegada del Señor"],
+      "correct": 1,
+      "hint": "Añade que prefieren «ser desterrados del cuerpo y vivir junto al Señor».",
+      "explanation": "2Co 5,7: «caminamos en fe y no en visión»."
+    },
+    {
+      "type": "gap",
+      "text": "Caminamos en fe y no en ___.",
+      "options": ["visión", "certeza", "vista"],
+      "answer": "visión",
+      "explanation": "2Co 5,7: esta vida por fe no depende de la evidencia visible sino de la confianza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Co 5,7 · La vida por fe",
+      "direction": "es-es",
+      "tiles": ["Caminamos", "en", "fe", "y", "no", "en", "visión", "certeza", "vista"],
+      "answer": "Caminamos en fe y no en visión",
+      "explanation": "2Co 5,7: esta vida por fe no depende de la evidencia visible sino de la confianza."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre con quien está en Cristo, según Pablo, en 2 Corintios 5?",
+      "options": ["Continúa exactamente igual que antes de creer", "Debe esperar largos años para notar algún cambio", "«Es una criatura nueva. Lo viejo ha pasado, ha comenzado lo nuevo»"],
+      "correct": 2,
+      "hint": "Añade que Dios «nos encargó el ministerio de la reconciliación».",
+      "explanation": "2Co 5,17: «si alguno está en Cristo es una criatura nueva. Lo viejo ha pasado, ha comenzado lo nuevo»."
+    },
+    {
+      "type": "gap",
+      "text": "Si alguno está en Cristo es una criatura ___.",
+      "options": ["nueva", "distinta", "libre"],
+      "answer": "nueva",
+      "explanation": "2Co 5,17: esta transformación del creyente en Cristo deja atrás lo viejo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud pide Pablo al dar limosna o ayuda a los demás, en 2 Corintios 9?",
+      "options": ["«Dios ama al que da con alegría»", "Que se dé solo lo estrictamente necesario", "Que la generosidad se mantenga siempre en secreto absoluto"],
+      "correct": 0,
+      "hint": "Añade que cada uno debe dar como «le dicte su corazón».",
+      "explanation": "2Co 9,7: «Dios ama al que da con alegría»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios ama al que da con ___.",
+      "options": ["alegría", "generosidad", "fe"],
+      "answer": "alegría",
+      "explanation": "2Co 9,7: esta generosidad alegre refleja el carácter mismo de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Co 9,7 · El dar con alegría",
+      "direction": "es-es",
+      "tiles": ["Dios", "ama", "al", "que", "da", "con", "alegría", "generosidad", "fe"],
+      "answer": "Dios ama al que da con alegría",
+      "explanation": "2Co 9,7: esta generosidad alegre refleja el carácter mismo de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El consuelo recibido", "es": "Capacita para consolar a otros en su propia tribulación" },
+        { "en": "El poder de Dios en la debilidad humana", "es": "Evita que el mérito se atribuya a la propia fuerza" },
+        { "en": "La vida por fe", "es": "No depende de la evidencia visible sino de la confianza" },
+        { "en": "La generosidad alegre", "es": "Refleja el carácter mismo de Dios" },
+        { "en": "La fuerza en la debilidad", "es": "Convierte la propia fragilidad en lugar de la gracia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde el Señor a Pablo cuando este le pide ser liberado de su debilidad, en 2 Corintios 12?",
+      "options": ["Que debe esforzarse más para superarla por sí mismo", "«Te basta mi gracia: la fuerza se realiza en la debilidad»", "Que esa debilidad desaparecerá en poco tiempo"],
+      "correct": 1,
+      "hint": "Pablo había pedido esto «tres veces» al Señor.",
+      "explanation": "2Co 12,9: «te basta mi gracia: la fuerza se realiza en la debilidad»."
+    },
+    {
+      "type": "gap",
+      "text": "Te basta mi gracia: la fuerza se realiza en la ___.",
+      "options": ["debilidad", "prueba", "necesidad"],
+      "answer": "debilidad",
+      "explanation": "2Co 12,9: esta fuerza en la debilidad convierte la propia fragilidad en lugar de la gracia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Co 12,9 · La fuerza en la debilidad",
+      "direction": "es-es",
+      "tiles": ["Te", "basta", "mi", "gracia", "fuerza", "ayuda"],
+      "answer": "Te basta mi gracia",
+      "explanation": "2Co 12,9: esta fuerza en la debilidad convierte la propia fragilidad en lugar de la gracia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué promesa se despide Pablo de los corintios al final de la carta, en 2 Corintios 13?",
+      "options": ["Con una advertencia severa sobre futuros castigos", "Con instrucciones adicionales sobre disciplina eclesial", "«El Dios del amor y de la paz estará con vosotros»"],
+      "correct": 2,
+      "hint": "Antes los anima a «tener un mismo sentir y vivir en paz».",
+      "explanation": "2Co 13,11: «el Dios del amor y de la paz estará con vosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "El Dios del amor y de la ___ estará con vosotros.",
+      "options": ["paz", "gracia", "luz"],
+      "answer": "paz",
+      "explanation": "2Co 13,11: esta despedida bendice a la comunidad con amor y paz."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Co 13,11 · La despedida de Pablo",
+      "direction": "es-es",
+      "tiles": ["El", "Dios", "del", "amor", "y", "de", "la", "paz", "gracia", "luz"],
+      "answer": "El Dios del amor y de la paz",
+      "explanation": "2Co 13,11: esta despedida bendice a la comunidad con amor y paz."
+    }
+  ]
+}
