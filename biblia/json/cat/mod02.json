@@ -1,0 +1,251 @@
+{
+  "id": "cat-mod02",
+  "module": 2,
+  "title": "1 Pedro — La Esperanza Viva en Medio del Sufrimiento",
+  "subtitle": "1 Pedro 1–5",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Por qué bendice Pedro a Dios al comenzar su carta, en 1 Pedro 1?",
+      "options": ["«Por su gran misericordia... nos ha regenerado para una esperanza viva»", "Por haber evitado todo sufrimiento a los creyentes", "Por conceder riquezas materiales inmediatas"],
+      "correct": 0,
+      "hint": "Esta esperanza se funda «mediante la resurrección de Jesucristo de entre los muertos».",
+      "explanation": "1P 1,3: «por su gran misericordia... nos ha regenerado para una esperanza viva»."
+    },
+    {
+      "type": "gap",
+      "text": "Por su gran misericordia... nos ha regenerado para una esperanza ___.",
+      "options": ["viva", "nueva", "eterna"],
+      "answer": "viva",
+      "explanation": "1P 1,3: esta esperanza viva en la resurrección sostiene la fe incluso en medio de la prueba."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1P 1,3 · Una esperanza viva",
+      "direction": "es-es",
+      "tiles": ["Nos", "ha", "regenerado", "para", "una", "esperanza", "viva", "nueva", "eterna"],
+      "answer": "Nos ha regenerado para una esperanza viva",
+      "explanation": "1P 1,3: esta esperanza viva en la resurrección sostiene la fe incluso en medio de la prueba."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Esperanza viva", "es": "El fundamento de la fe en la resurrección" },
+        { "en": "Gozo inefable", "es": "La alegría de creer sin haber visto" },
+        { "en": "Linaje elegido", "es": "La identidad de la comunidad cristiana" },
+        { "en": "Sigáis sus huellas", "es": "El ejemplo del sufrimiento de Cristo" },
+        { "en": "Con sus heridas fuisteis curados", "es": "El efecto salvífico de la cruz" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pedro la fe de quienes no vieron a Cristo físicamente, en 1 Pedro 1?",
+      "options": ["Que es una fe débil comparada con la de los apóstoles", "«Sin contemplarlo todavía, creéis en él y así os alegráis con un gozo inefable»", "Que no tiene ningún valor sin ver a Cristo"],
+      "correct": 1,
+      "hint": "Añade que así alcanzan «la meta de vuestra fe: la salvación de vuestras almas».",
+      "explanation": "1P 1,8: «sin contemplarlo todavía, creéis en él y así os alegráis con un gozo inefable»."
+    },
+    {
+      "type": "gap",
+      "text": "Sin contemplarlo todavía, creéis en él y así os alegráis con un gozo ___.",
+      "options": ["inefable", "profundo", "sincero"],
+      "answer": "inefable",
+      "explanation": "1P 1,8: esta fe sin haber visto no es inferior, sino fuente de gozo genuino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1P 1,8 · El gozo inefable",
+      "direction": "es-es",
+      "tiles": ["Os", "alegráis", "con", "un", "gozo", "inefable", "profundo", "sincero"],
+      "answer": "Os alegráis con un gozo inefable",
+      "explanation": "1P 1,8: esta fe sin haber visto no es inferior, sino fuente de gozo genuino."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pedro la identidad de la comunidad cristiana, en 1 Pedro 2?",
+      "options": ["Como un grupo más entre las religiones del imperio", "Como herederos de privilegios puramente terrenales", "«Un linaje elegido, un sacerdocio real, una nación santa, un pueblo adquirido por Dios»"],
+      "correct": 2,
+      "hint": "Añade que esto es «para que anunciéis las proezas del que os llamó de las tinieblas».",
+      "explanation": "1P 2,9: «un linaje elegido, un sacerdocio real, una nación santa, un pueblo adquirido por Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Sois un linaje elegido, un sacerdocio real, una nación ___.",
+      "options": ["santa", "fiel", "nueva"],
+      "answer": "santa",
+      "explanation": "1P 2,9: esta identidad recupera títulos que el Antiguo Testamento aplicaba a Israel."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1P 2,9 · Un linaje elegido",
+      "direction": "es-es",
+      "tiles": ["Un", "linaje", "elegido", "un", "sacerdocio", "real", "fiel", "nueva"],
+      "answer": "Un linaje elegido un sacerdocio real",
+      "explanation": "1P 2,9: esta identidad recupera títulos que el Antiguo Testamento aplicaba a Israel."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Un linaje elegido", "es": "1 Pedro 2,9" },
+        { "en": "Sigáis sus huellas", "es": "1 Pedro 2,21" },
+        { "en": "Razón de vuestra esperanza", "es": "1 Pedro 3,15" },
+        { "en": "El amor tapa multitud de pecados", "es": "1 Pedro 4,8" },
+        { "en": "Como león rugiente", "es": "1 Pedro 5,8" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué finalidad afirma Pedro que Cristo padeció por nosotros, en 1 Pedro 2?",
+      "options": ["«Dejándoos un ejemplo para que sigáis sus huellas»", "Para que evitemos cualquier tipo de sufrimiento", "Sin ninguna relación con la vida de los creyentes"],
+      "correct": 0,
+      "hint": "Añade que «él no cometió pecado, ni encontraron engaño en su boca».",
+      "explanation": "1P 2,21: «dejándoos un ejemplo para que sigáis sus huellas»."
+    },
+    {
+      "type": "gap",
+      "text": "Cristo padeció por vosotros, dejándoos un ejemplo para que sigáis sus ___.",
+      "options": ["huellas", "pasos", "caminos"],
+      "answer": "huellas",
+      "explanation": "1P 2,21: este ejemplo del sufrimiento de Cristo da sentido al padecimiento injusto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1P 2,21 · Sigáis sus huellas",
+      "direction": "es-es",
+      "tiles": ["Dejándoos", "un", "ejemplo", "para", "que", "sigáis", "sus", "huellas", "pasos", "caminos"],
+      "answer": "Dejándoos un ejemplo para que sigáis sus huellas",
+      "explanation": "1P 2,21: este ejemplo del sufrimiento de Cristo da sentido al padecimiento injusto."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La primera carta de Pedro", "es": "Se dirige a comunidades dispersas que sufren persecución" },
+        { "en": "La identidad de «linaje elegido»", "es": "Recupera títulos que el Antiguo Testamento aplicaba a Israel" },
+        { "en": "El sufrimiento de Cristo como modelo", "es": "Da sentido al sufrimiento injusto de los creyentes" },
+        { "en": "La exhortación a dar razón de la esperanza", "es": "Debe hacerse «con delicadeza y con respeto»" },
+        { "en": "La imagen del león rugiente", "es": "Advierte sobre la vigilancia espiritual necesaria" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué efecto tiene, según Pedro, el sacrificio de Cristo en la cruz, en 1 Pedro 2?",
+      "options": ["Que resulta indiferente para la vida moral del creyente", "«Él llevó nuestros pecados en su cuerpo hasta el leño... con sus heridas fuisteis curados»", "Que solo beneficia a quienes vivieron en su época"],
+      "correct": 1,
+      "hint": "Añade que antes «andabais errantes como ovejas».",
+      "explanation": "1P 2,24: «él llevó nuestros pecados en su cuerpo hasta el leño... con sus heridas fuisteis curados»."
+    },
+    {
+      "type": "gap",
+      "text": "Él llevó nuestros pecados en su cuerpo hasta el leño... con sus heridas fuisteis ___.",
+      "options": ["curados", "salvados", "liberados"],
+      "answer": "curados",
+      "explanation": "1P 2,24: este efecto salvífico de la cruz transforma el sufrimiento en sanación."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud pide Pedro ante quienes preguntan por la fe cristiana, en 1 Pedro 3?",
+      "options": ["Evitar cualquier explicación para no generar conflicto", "Responder con dureza para defender la verdad", "«Dispuestos siempre para dar explicación a todo el que os pida una razón de vuestra esperanza»"],
+      "correct": 2,
+      "hint": "Añade que esto debe hacerse «con delicadeza y con respeto».",
+      "explanation": "1P 3,15: «dispuestos siempre para dar explicación a todo el que os pida una razón de vuestra esperanza»."
+    },
+    {
+      "type": "gap",
+      "text": "Dispuestos siempre para dar explicación a todo el que os pida una razón de vuestra ___.",
+      "options": ["esperanza", "fe", "alegría"],
+      "answer": "esperanza",
+      "explanation": "1P 3,15: esta disposición a explicar la propia fe debe unirse siempre al respeto y la humildad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1P 3,15 · Razón de vuestra esperanza",
+      "direction": "es-es",
+      "tiles": ["Una", "razón", "de", "vuestra", "esperanza", "fe", "alegría"],
+      "answer": "Una razón de vuestra esperanza",
+      "explanation": "1P 3,15: esta disposición a explicar la propia fe debe unirse siempre al respeto y la humildad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La esperanza viva en la resurrección", "es": "Sostiene la fe incluso en medio de la prueba" },
+        { "en": "La fe sin haber visto", "es": "No es inferior, sino fuente de gozo genuino" },
+        { "en": "El ejemplo del sufrimiento de Cristo", "es": "Da sentido al padecimiento injusto" },
+        { "en": "La disposición a explicar la propia fe", "es": "Debe unirse siempre al respeto y la humildad" },
+        { "en": "La vigilancia ante el mal", "es": "No debe convertirse en miedo paralizante, sino en sobriedad activa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué virtud destaca Pedro «ante todo» para la vida en comunidad, en 1 Pedro 4?",
+      "options": ["«Mantened un amor intenso entre vosotros, porque el amor tapa multitud de pecados»", "La búsqueda constante de reconocimiento público", "La estricta observancia de normas rituales"],
+      "correct": 0,
+      "hint": "Añade después: «sed hospitalarios unos con otros sin protestar».",
+      "explanation": "1P 4,8: «mantened un amor intenso entre vosotros, porque el amor tapa multitud de pecados»."
+    },
+    {
+      "type": "gap",
+      "text": "Mantened un amor intenso entre vosotros, porque el amor tapa multitud de ___.",
+      "options": ["pecados", "faltas", "errores"],
+      "answer": "pecados",
+      "explanation": "1P 4,8: este amor intenso es la virtud fundamental para la vida en comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1P 4,8 · El amor tapa pecados",
+      "direction": "es-es",
+      "tiles": ["El", "amor", "tapa", "multitud", "de", "pecados", "faltas", "errores"],
+      "answer": "El amor tapa multitud de pecados",
+      "explanation": "1P 4,8: este amor intenso es la virtud fundamental para la vida en comunidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invita Pedro a hacer con las propias preocupaciones, en 1 Pedro 5?",
+      "options": ["Ocultarlas para no mostrar debilidad ante los demás", "«Descargad en él todo vuestro agobio, porque él cuida de vosotros»", "Resolverlas exclusivamente por medios propios"],
+      "correct": 1,
+      "hint": "Antes pide humillarse «bajo la poderosa mano de Dios».",
+      "explanation": "1P 5,7: «descargad en él todo vuestro agobio, porque él cuida de vosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "Descargad en él todo vuestro agobio, porque él ___ de vosotros.",
+      "options": ["cuida", "vela", "responde"],
+      "answer": "cuida",
+      "explanation": "1P 5,7: esta confianza libera del peso de cargar solos con las preocupaciones."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1P 5,7 · Él cuida de vosotros",
+      "direction": "es-es",
+      "tiles": ["Descargad", "en", "él", "todo", "vuestro", "agobio", "vela", "responde"],
+      "answer": "Descargad en él todo vuestro agobio",
+      "explanation": "1P 5,7: esta confianza libera del peso de cargar solos con las preocupaciones."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Pedro al adversario espiritual del creyente, en 1 Pedro 5?",
+      "options": ["Como una amenaza menor que no requiere atención", "Como una fuerza ya vencida sin ningún peligro real", "«Como león rugiente, ronda buscando a quien devorar»"],
+      "correct": 2,
+      "hint": "Por eso pide: «sed sobrios, velad».",
+      "explanation": "1P 5,8: «como león rugiente, ronda buscando a quien devorar»."
+    },
+    {
+      "type": "gap",
+      "text": "Vuestro adversario, el diablo, como león rugiente, ronda buscando a quien ___.",
+      "options": ["devorar", "atacar", "perseguir"],
+      "answer": "devorar",
+      "explanation": "1P 5,8: esta vigilancia ante el mal no debe convertirse en miedo, sino en sobriedad activa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1P 5,8 · Como león rugiente",
+      "direction": "es-es",
+      "tiles": ["Como", "león", "rugiente", "ronda", "buscando", "a", "quien", "devorar", "atacar", "perseguir"],
+      "answer": "Como león rugiente ronda buscando a quien devorar",
+      "explanation": "1P 5,8: esta vigilancia ante el mal no debe convertirse en miedo, sino en sobriedad activa."
+    }
+  ]
+}

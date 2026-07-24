@@ -1,0 +1,251 @@
+{
+  "id": "cat-mod01",
+  "module": 1,
+  "title": "Santiago — La Fe que se Demuestra en las Obras",
+  "subtitle": "Santiago 1–5",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo pide Santiago que se consideren las pruebas de la vida, en Santiago 1?",
+      "options": ["«Un gran gozo... sabiendo que la autenticidad de vuestra fe produce paciencia»", "Como una señal inequívoca del abandono de Dios", "Como algo que debe evitarse a toda costa"],
+      "correct": 0,
+      "hint": "Añade que la paciencia debe llevar «una obra perfecta».",
+      "explanation": "St 1,2-3: «un gran gozo... sabiendo que la autenticidad de vuestra fe produce paciencia»."
+    },
+    {
+      "type": "gap",
+      "text": "Un gran gozo cuando os veáis rodeados de toda clase de pruebas, sabiendo que la autenticidad de vuestra fe produce ___.",
+      "options": ["paciencia", "alegría", "fortaleza"],
+      "answer": "paciencia",
+      "explanation": "St 1,3: esta alegría ante las pruebas reconoce su valor formativo para la fe."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "St 1,2 · El gozo en las pruebas",
+      "direction": "es-es",
+      "tiles": ["Un", "gran", "gozo", "cuando", "os", "veáis", "rodeados", "de", "pruebas", "alegría", "fortaleza"],
+      "answer": "Un gran gozo cuando os veáis rodeados de pruebas",
+      "explanation": "St 1,3: esta alegría ante las pruebas reconoce su valor formativo para la fe."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Un gran gozo... pruebas", "es": "El sentido positivo de las pruebas" },
+        { "en": "Todo don perfecto viene de arriba", "es": "El origen divino de todo bien" },
+        { "en": "Pronta para escuchar, lenta para hablar", "es": "La sabiduría en el hablar y el escuchar" },
+        { "en": "Poned en práctica la palabra", "es": "La coherencia entre escuchar y actuar" },
+        { "en": "La fe sin obras está muerta", "es": "La relación inseparable entre fe y obras" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿De dónde proceden, según Santiago, todo don bueno y perfecto, en Santiago 1?",
+      "options": ["Del propio mérito y esfuerzo personal", "«Todo buen regalo y todo don perfecto viene de arriba, procede del Padre de las luces»", "De la buena fortuna o el azar"],
+      "correct": 1,
+      "hint": "Añade que en Dios «no hay ni alteración ni sombra de mutación».",
+      "explanation": "St 1,17: «todo buen regalo y todo don perfecto viene de arriba, procede del Padre de las luces»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo buen regalo y todo don perfecto viene de arriba, procede del Padre de las ___.",
+      "options": ["luces", "cielos", "gracias"],
+      "answer": "luces",
+      "explanation": "St 1,17: este origen divino de todo bien evita atribuir el mal a Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "St 1,17 · Todo don perfecto",
+      "direction": "es-es",
+      "tiles": ["Todo", "don", "perfecto", "viene", "de", "arriba", "cielos", "gracias"],
+      "answer": "Todo don perfecto viene de arriba",
+      "explanation": "St 1,17: este origen divino de todo bien evita atribuir el mal a Dios."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud recomienda Santiago ante la palabra y la ira, en Santiago 1?",
+      "options": ["Ser rápido para hablar y lento para escuchar", "Expresar la ira inmediatamente, sin contenerla", "«Pronta para escuchar, lenta para hablar y lenta a la ira»"],
+      "correct": 2,
+      "hint": "Añade que «la ira del hombre no produce la justicia que Dios quiere».",
+      "explanation": "St 1,19: «pronta para escuchar, lenta para hablar y lenta a la ira»."
+    },
+    {
+      "type": "gap",
+      "text": "Toda persona sea pronta para escuchar, lenta para hablar y lenta a la ___.",
+      "options": ["ira", "duda", "queja"],
+      "answer": "ira",
+      "explanation": "St 1,19: esta sabiduría en el hablar y el escuchar previene mucho daño relacional."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "St 1,19 · Pronta para escuchar",
+      "direction": "es-es",
+      "tiles": ["Pronta", "para", "escuchar", "lenta", "para", "hablar", "duda", "queja"],
+      "answer": "Pronta para escuchar lenta para hablar",
+      "explanation": "St 1,19: esta sabiduría en el hablar y el escuchar previene mucho daño relacional."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Todo don perfecto viene de arriba", "es": "Santiago 1,17" },
+        { "en": "Religiosidad auténtica", "es": "Santiago 1,27" },
+        { "en": "La lengua alardea de grandezas", "es": "Santiago 3,5" },
+        { "en": "Resistid al diablo", "es": "Santiago 4,7" },
+        { "en": "Confesaos mutuamente los pecados", "es": "Santiago 5,16" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advertencia da Santiago sobre escuchar la palabra sin actuar, en Santiago 1?",
+      "options": ["«Poned en práctica la palabra y no os contentéis con oírla, engañándoos a vosotros mismos»", "Que basta con escucharla atentamente una vez", "Que la práctica es opcional según el caso"],
+      "correct": 0,
+      "hint": "Compara a quien solo escucha con alguien que se mira en un espejo y luego olvida su rostro.",
+      "explanation": "St 1,22: «poned en práctica la palabra y no os contentéis con oírla, engañándoos a vosotros mismos»."
+    },
+    {
+      "type": "gap",
+      "text": "Poned en práctica la palabra y no os contentéis con ___.",
+      "options": ["oírla", "leerla", "citarla"],
+      "answer": "oírla",
+      "explanation": "St 1,22: esta coherencia entre escuchar y actuar es central en la enseñanza de la carta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "St 1,22 · Poned en práctica la palabra",
+      "direction": "es-es",
+      "tiles": ["No", "os", "contentéis", "con", "oírla", "leerla", "citarla"],
+      "answer": "No os contentéis con oírla",
+      "explanation": "St 1,22: esta coherencia entre escuchar y actuar es central en la enseñanza de la carta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo define Santiago la religiosidad auténtica, en Santiago 1?",
+      "options": ["Por la cantidad de rituales cumplidos con exactitud", "«Atender a huérfanos y viudas en su aflicción y mantenerse incontaminado del mundo»", "Por el conocimiento teológico acumulado"],
+      "correct": 1,
+      "hint": "Antes advierte que quien no refrena su lengua «se engaña a sí mismo».",
+      "explanation": "St 1,27: «atender a huérfanos y viudas en su aflicción y mantenerse incontaminado del mundo»."
+    },
+    {
+      "type": "gap",
+      "text": "La religiosidad auténtica... es esta: atender a huérfanos y ___ en su aflicción.",
+      "options": ["viudas", "pobres", "enfermos"],
+      "answer": "viudas",
+      "explanation": "St 1,27: esta definición práctica de la religión es característica del estilo de Santiago."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta de Santiago", "es": "Se dirige a las doce tribus de la diáspora" },
+        { "en": "El ejemplo de Abrahán y Rajab", "es": "Ilustra la justificación por las obras" },
+        { "en": "La imagen del freno y el timón", "es": "Compara el control de la lengua con el de animales y barcos" },
+        { "en": "La oración de Elías", "es": "Se cita como ejemplo de la eficacia de la oración insistente" },
+        { "en": "La carta", "es": "Es conocida por su estilo práctico y su insistencia en las obras" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué comparación usa Santiago para explicar la relación entre fe y obras, en Santiago 2?",
+      "options": ["Que ambas son completamente independientes entre sí", "Que las obras pueden sustituir por completo a la fe", "«El cuerpo sin aliento está muerto, así también la fe sin obras está muerta»"],
+      "correct": 2,
+      "hint": "Antes menciona los ejemplos de Abrahán y de Rajab, «justificados por las obras».",
+      "explanation": "St 2,26: «el cuerpo sin aliento está muerto, así también la fe sin obras está muerta»."
+    },
+    {
+      "type": "gap",
+      "text": "El cuerpo sin aliento está muerto, así también la fe sin ___ está muerta.",
+      "options": ["obras", "amor", "fe"],
+      "answer": "obras",
+      "explanation": "St 2,26: esta relación inseparable entre fe y obras es el eje central de la carta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "St 2,26 · La fe sin obras está muerta",
+      "direction": "es-es",
+      "tiles": ["La", "fe", "sin", "obras", "está", "muerta", "amor"],
+      "answer": "La fe sin obras está muerta",
+      "explanation": "St 2,26: esta relación inseparable entre fe y obras es el eje central de la carta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advierte Santiago sobre el poder de la lengua, en Santiago 3?",
+      "options": ["«Es un órgano pequeño, pero alardea de grandezas»", "Que su influencia es prácticamente nula", "Que solo afecta a quien la usa, no a los demás"],
+      "correct": 0,
+      "hint": "Compara su poder con el de una chispa que «puede incendiar todo un bosque».",
+      "explanation": "St 3,5: «es un órgano pequeño, pero alardea de grandezas»."
+    },
+    {
+      "type": "gap",
+      "text": "La lengua es un órgano pequeño, pero alardea de ___.",
+      "options": ["grandezas", "mentiras", "orgullo"],
+      "answer": "grandezas",
+      "explanation": "St 3,5: este dominio del habla previene mucho daño relacional."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "St 3,5 · La lengua alardea de grandezas",
+      "direction": "es-es",
+      "tiles": ["Es", "un", "órgano", "pequeño", "pero", "alardea", "de", "grandezas", "mentiras", "orgullo"],
+      "answer": "Es un órgano pequeño pero alardea de grandezas",
+      "explanation": "St 3,5: este dominio del habla previene mucho daño relacional."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La alegría ante las pruebas", "es": "Reconoce su valor formativo para la fe" },
+        { "en": "El origen divino de todo bien", "es": "Evita atribuir el mal a Dios" },
+        { "en": "El dominio del habla y la ira", "es": "Previene mucho daño relacional" },
+        { "en": "La coherencia entre fe y práctica", "es": "Define la autenticidad de la vida cristiana" },
+        { "en": "La confesión y oración mutua", "es": "Fortalece la sanación dentro de la comunidad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Santiago a quienes resisten al diablo, en Santiago 4?",
+      "options": ["Que la lucha será interminable, sin ninguna victoria", "«Resistid al diablo y huirá de vosotros»", "Que deben enfrentarlo con sus propias fuerzas únicamente"],
+      "correct": 1,
+      "hint": "Antes pide: «sed humildes ante Dios».",
+      "explanation": "St 4,7: «resistid al diablo y huirá de vosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "Resistid al diablo y ___ de vosotros.",
+      "options": ["huirá", "alejará", "escapará"],
+      "answer": "huirá",
+      "explanation": "St 4,7: esta promesa anima a la resistencia activa frente al mal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "St 4,7 · Resistid al diablo",
+      "direction": "es-es",
+      "tiles": ["Resistid", "al", "diablo", "y", "huirá", "de", "vosotros", "alejará", "escapará"],
+      "answer": "Resistid al diablo y huirá de vosotros",
+      "explanation": "St 4,7: esta promesa anima a la resistencia activa frente al mal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué práctica comunitaria recomienda Santiago para la sanación, en Santiago 5?",
+      "options": ["Ocultar los propios pecados para no incomodar a otros", "Confiar solo en remedios médicos, sin oración", "«Confesaos mutuamente los pecados y rezad unos por otros para que os curéis»"],
+      "correct": 2,
+      "hint": "Añade que «mucho puede la oración insistente del justo».",
+      "explanation": "St 5,16: «confesaos mutuamente los pecados y rezad unos por otros para que os curéis»."
+    },
+    {
+      "type": "gap",
+      "text": "Confesaos mutuamente los pecados y rezad unos por otros para que os ___.",
+      "options": ["curéis", "salvéis", "perdonéis"],
+      "answer": "curéis",
+      "explanation": "St 5,16: esta confesión y oración mutua fortalece la sanación dentro de la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "St 5,16 · Confesaos mutuamente",
+      "direction": "es-es",
+      "tiles": ["Confesaos", "mutuamente", "los", "pecados", "salvéis", "perdonéis"],
+      "answer": "Confesaos mutuamente los pecados",
+      "explanation": "St 5,16: esta confesión y oración mutua fortalece la sanación dentro de la comunidad."
+    }
+  ]
+}

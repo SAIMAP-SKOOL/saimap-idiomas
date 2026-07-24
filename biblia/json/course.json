@@ -164,7 +164,17 @@
         { "n": 17, "title": "Hebreos II — La Fe, la Nube de Testigos y la Perseverancia", "es": "Hebreos II · La Fe (Hb 8–13)",             "file": "pab/mod17.json" }
       ]
     },
-    { "code": "CAT", "name": "Cartas Católicas",               "color": "#5B57A6", "locked": true, "moduleCount": 5 },
+    {
+      "code": "CAT",
+      "name": "Cartas Católicas",
+      "sub": "3 módulos · Santiago, 1-2 Pedro — Completo",
+      "color": "#5B57A6",
+      "modules": [
+        { "n": 1, "title": "Santiago — La Fe que se Demuestra en las Obras",         "es": "Santiago · Fe y Obras",              "file": "cat/mod01.json" },
+        { "n": 2, "title": "1 Pedro — La Esperanza Viva en Medio del Sufrimiento",   "es": "1 Pedro · Esperanza Viva",           "file": "cat/mod02.json" },
+        { "n": 3, "title": "2 Pedro — El Testimonio Ocular y la Paciencia de Dios",  "es": "2 Pedro · Testimonio Ocular",        "file": "cat/mod03.json" }
+      ]
+    },
     { "code": "SJN", "name": "Cartas de San Juan",             "color": "#1CB0F6", "locked": true, "moduleCount": 2 },
     { "code": "JUD", "name": "Judas",                          "color": "#9C3D6B", "locked": true, "moduleCount": 1 },
     { "code": "APO", "name": "Apocalipsis",                    "color": "#C43535", "locked": true, "moduleCount": 2 },
