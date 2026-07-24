@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod07",
+  "module": 7,
+  "title": "Lucas II — Las Grandes Parábolas de la Misericordia",
+  "subtitle": "Lucas 10–18",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué le responde Jesús al maestro de la ley tras contar la parábola del buen samaritano, en Lucas 10?",
+      "options": ["«Anda y haz tú lo mismo»", "Que espere a que un sacerdote confirme la enseñanza", "Que la ley no exige actuar así con los extranjeros"],
+      "correct": 0,
+      "hint": "Antes le pregunta cuál de los tres fue prójimo del hombre asaltado.",
+      "explanation": "Lc 10,37: «anda y haz tú lo mismo»."
+    },
+    {
+      "type": "gap",
+      "text": "Anda y haz tú lo ___.",
+      "options": ["mismo", "posible", "necesario"],
+      "answer": "mismo",
+      "explanation": "Lc 10,37: el amor al prójimo sin límites se extiende incluso a quien la sociedad rechaza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 10,37 · El buen samaritano",
+      "direction": "es-es",
+      "tiles": ["Anda", "y", "haz", "tú", "lo", "mismo", "posible", "necesario"],
+      "answer": "Anda y haz tú lo mismo",
+      "explanation": "Lc 10,37: el amor al prójimo sin límites se extiende incluso a quien la sociedad rechaza."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Anda y haz tú lo mismo", "es": "La parábola del buen samaritano" },
+        { "en": "María ha escogido la parte mejor", "es": "La escena de Marta y María" },
+        { "en": "Pedid y se os dará", "es": "La enseñanza sobre la oración perseverante" },
+        { "en": "Donde está tu tesoro", "es": "La enseñanza sobre las riquezas verdaderas" },
+        { "en": "Estaba perdido y lo hemos encontrado", "es": "La parábola del hijo pródigo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice Jesús a Marta cuando se queja de que María no le ayuda, en Lucas 10?",
+      "options": ["Que tiene razón y debe reprender a María", "«Marta, Marta, andas inquieta y preocupada... María ha escogido la parte mejor»", "Que ambas deben turnarse en el servicio"],
+      "correct": 1,
+      "hint": "Añade que esa parte «no le será quitada» a María.",
+      "explanation": "Lc 10,41-42: «Marta, Marta, andas inquieta y preocupada con muchas cosas... María ha escogido la parte mejor»."
+    },
+    {
+      "type": "gap",
+      "text": "María ha escogido la parte ___.",
+      "options": ["mejor", "mayor", "justa"],
+      "answer": "mejor",
+      "explanation": "Lc 10,42: esta escena contrasta el servicio activo con la escucha atenta de la Palabra."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 10,42 · Marta y María",
+      "direction": "es-es",
+      "tiles": ["María", "ha", "escogido", "la", "parte", "mejor", "mayor", "justa"],
+      "answer": "María ha escogido la parte mejor",
+      "explanation": "Lc 10,42: esta escena contrasta el servicio activo con la escucha atenta de la Palabra."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué enseña Jesús sobre la oración perseverante, en Lucas 11?",
+      "options": ["Que basta con pedir una sola vez y esperar", "Que solo los justos reciben respuesta a sus peticiones", "«Pedid y se os dará, buscad y hallaréis, llamad y se os abrirá»"],
+      "correct": 2,
+      "hint": "Añade que «todo el que pide recibe, y el que busca halla».",
+      "explanation": "Lc 11,9-10: «pedid y se os dará, buscad y hallaréis, llamad y se os abrirá»."
+    },
+    {
+      "type": "gap",
+      "text": "Pedid y se os ___.",
+      "options": ["dará", "concederá", "otorgará"],
+      "answer": "dará",
+      "explanation": "Lc 11,9: esta enseñanza anima a la constancia en la oración."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 11,9 · La oración perseverante",
+      "direction": "es-es",
+      "tiles": ["Pedid", "y", "se", "os", "dará", "buscad", "y", "hallaréis", "concederá", "otorgará"],
+      "answer": "Pedid y se os dará buscad y hallaréis",
+      "explanation": "Lc 11,9: esta enseñanza anima a la constancia en la oración."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Marta, Marta", "es": "Lucas 10,41" },
+        { "en": "Pedid y se os dará", "es": "Lucas 11,9" },
+        { "en": "Donde está vuestro tesoro", "es": "Lucas 12,34" },
+        { "en": "Ten compasión de este pecador", "es": "Lucas 18,13" },
+        { "en": "Será humillado... será enaltecido", "es": "Lucas 18,14" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué enseña Jesús sobre dónde poner el corazón, en Lucas 12?",
+      "options": ["«Donde está vuestro tesoro, allí estará también vuestro corazón»", "Que el corazón debe estar siempre en la familia, ante todo", "Que no importa dónde se guarden las riquezas"],
+      "correct": 0,
+      "hint": "Antes recomienda hacerse «un tesoro inagotable en el cielo».",
+      "explanation": "Lc 12,34: «donde está vuestro tesoro, allí estará también vuestro corazón»."
+    },
+    {
+      "type": "gap",
+      "text": "Donde está vuestro tesoro, allí estará también vuestro ___.",
+      "options": ["corazón", "alma", "tiempo"],
+      "answer": "corazón",
+      "explanation": "Lc 12,34: esta enseñanza señala dónde deben ponerse las prioridades verdaderas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 12,34 · El verdadero tesoro",
+      "direction": "es-es",
+      "tiles": ["Donde", "está", "vuestro", "tesoro", "allí", "estará", "vuestro", "corazón", "alma", "tiempo"],
+      "answer": "Donde está vuestro tesoro allí estará vuestro corazón",
+      "explanation": "Lc 12,34: esta enseñanza señala dónde deben ponerse las prioridades verdaderas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La parábola del buen samaritano", "es": "Responde a la pregunta «¿y quién es mi prójimo?»" },
+        { "en": "La escena en casa de Marta", "es": "Contrasta el servicio activo con la escucha atenta" },
+        { "en": "El hijo pródigo", "es": "Despilfarra su herencia y vuelve arrepentido" },
+        { "en": "Los diez leprosos curados", "es": "Solo uno, un samaritano, regresa a dar gracias" },
+        { "en": "El fariseo y el publicano", "es": "Suben juntos al templo a orar" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace el padre al ver regresar al hijo pródigo, cuando todavía estaba lejos, en Lucas 15?",
+      "options": ["Espera a que el hijo llegue y se disculpe primero", "«Se le conmovieron las entrañas», corrió a su encuentro y lo abrazó", "Envía a un criado a preguntarle qué quiere"],
+      "correct": 1,
+      "hint": "Después lo cubre de besos antes de que el hijo termine de hablar.",
+      "explanation": "Lc 15,20: «cuando todavía estaba lejos, su padre lo vio y se le conmovieron las entrañas»."
+    },
+    {
+      "type": "gap",
+      "text": "Cuando todavía estaba lejos, su padre lo vio y se le conmovieron las ___.",
+      "options": ["entrañas", "manos", "palabras"],
+      "answer": "entrañas",
+      "explanation": "Lc 15,20: la misericordia del padre no espera méritos, sale al encuentro del hijo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 15,20 · El regreso del hijo pródigo",
+      "direction": "es-es",
+      "tiles": ["Su", "padre", "lo", "vio", "y", "se", "le", "conmovieron", "las", "entrañas", "manos", "palabras"],
+      "answer": "Su padre lo vio y se le conmovieron las entrañas",
+      "explanation": "Lc 15,20: la misericordia del padre no espera méritos, sale al encuentro del hijo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué el padre manda celebrar un banquete por el regreso del hijo pródigo, en Lucas 15?",
+      "options": ["Porque el hijo ha traído consigo una gran riqueza", "Porque así lo exige la costumbre ante cualquier visita", "«Porque este hijo mío estaba muerto y ha revivido; estaba perdido y lo hemos encontrado»"],
+      "correct": 2,
+      "hint": "El hijo mayor, al oírlo, se enfada y no quiere entrar.",
+      "explanation": "Lc 15,24: «este hijo mío estaba muerto y ha revivido; estaba perdido y lo hemos encontrado»."
+    },
+    {
+      "type": "gap",
+      "text": "Este hijo mío estaba muerto y ha ___.",
+      "options": ["revivido", "vuelto", "sanado"],
+      "answer": "revivido",
+      "explanation": "Lc 15,24: esta parábola culmina con la alegría por lo que estaba perdido y se ha recuperado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 15,24 · La alegría del padre",
+      "direction": "es-es",
+      "tiles": ["Estaba", "perdido", "y", "lo", "hemos", "encontrado", "olvidado", "dejado"],
+      "answer": "Estaba perdido y lo hemos encontrado",
+      "explanation": "Lc 15,24: esta parábola culmina con la alegría por lo que estaba perdido y se ha recuperado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace uno de los diez leprosos curados, a diferencia de los otros nueve, en Lucas 17?",
+      "options": ["Se vuelve alabando a Dios a grandes gritos y da gracias a Jesús", "Se queda con los sacerdotes sin volver a buscar a Jesús", "Reclama una recompensa económica por su curación"],
+      "correct": 0,
+      "hint": "Jesús señala que este agradecido era «un extranjero», un samaritano.",
+      "explanation": "Lc 17,15-16: «uno de ellos, viendo que estaba curado, se volvió alabando a Dios a grandes gritos»."
+    },
+    {
+      "type": "gap",
+      "text": "Uno de ellos, viendo que estaba curado, se volvió alabando a Dios a grandes ___.",
+      "options": ["gritos", "voces", "cantos"],
+      "answer": "gritos",
+      "explanation": "Lc 17,15: la gratitud de este leproso samaritano contrasta con la indiferencia de los otros nueve."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 17,15 · El leproso agradecido",
+      "direction": "es-es",
+      "tiles": ["Se", "volvió", "alabando", "a", "Dios", "a", "grandes", "gritos", "voces", "cantos"],
+      "answer": "Se volvió alabando a Dios a grandes gritos",
+      "explanation": "Lc 17,15: la gratitud de este leproso samaritano contrasta con la indiferencia de los otros nueve."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El amor al prójimo sin límites", "es": "Se extiende incluso a quien la sociedad rechaza" },
+        { "en": "La escucha de la Palabra", "es": "Tiene un valor que no le será quitado" },
+        { "en": "La misericordia del padre", "es": "No espera méritos, sale al encuentro del hijo" },
+        { "en": "La gratitud del leproso samaritano", "es": "Contrasta con la indiferencia de los otros nueve" },
+        { "en": "La humildad ante Dios", "es": "Vale más que la autosuficiencia religiosa" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo ora el publicano en el templo, en la parábola del fariseo y el publicano de Lucas 18?",
+      "options": ["Enumerando en voz alta sus buenas obras ante los demás", "«¡Oh Dios!, ten compasión de este pecador»", "En silencio, sin dirigirse a Dios directamente"],
+      "correct": 1,
+      "hint": "El texto dice que «no se atrevía ni a levantar los ojos al cielo».",
+      "explanation": "Lc 18,13: «¡Oh Dios!, ten compasión de este pecador»."
+    },
+    {
+      "type": "gap",
+      "text": "Oh Dios, ten compasión de este ___.",
+      "options": ["pecador", "hombre", "siervo"],
+      "answer": "pecador",
+      "explanation": "Lc 18,13: esta oración humilde contrasta con la autosuficiencia del fariseo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio resume esta parábola del fariseo y el publicano, en Lucas 18?",
+      "options": ["Que la oración pública vale más que la privada", "Que el templo es el único lugar válido para orar", "Que el que se enaltece será humillado, y el que se humilla será enaltecido"],
+      "correct": 2,
+      "hint": "Jesús concluye que el publicano «bajó a su casa justificado», y el fariseo no.",
+      "explanation": "Lc 18,14: «todo el que se enaltece será humillado, y el que se humilla será enaltecido»."
+    },
+    {
+      "type": "gap",
+      "text": "El que se enaltece será humillado, y el que se humilla será ___.",
+      "options": ["enaltecido", "perdonado", "salvado"],
+      "answer": "enaltecido",
+      "explanation": "Lc 18,14: la humildad ante Dios vale más que la autosuficiencia religiosa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 18,14 · El humilde será enaltecido",
+      "direction": "es-es",
+      "tiles": ["El", "que", "se", "humilla", "será", "enaltecido", "perdonado", "salvado"],
+      "answer": "El que se humilla será enaltecido",
+      "explanation": "Lc 18,14: la humildad ante Dios vale más que la autosuficiencia religiosa."
+    }
+  ]
+}

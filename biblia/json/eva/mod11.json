@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod11",
+  "module": 11,
+  "title": "Juan III — El Discurso de Despedida, la Pasión y la Resurrección",
+  "subtitle": "Juan 14–21",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo responde Jesús a Tomás cuando le pregunta cómo conocer el camino al Padre, en Juan 14?",
+      "options": ["«Yo soy el camino y la verdad y la vida. Nadie va al Padre sino por mí»", "Que primero debe estudiar toda la ley y los profetas", "Que ese camino se revelará solo después de su muerte"],
+      "correct": 0,
+      "hint": "Añade: «si me conocierais a mí, conoceríais también a mi Padre».",
+      "explanation": "Jn 14,6: «yo soy el camino y la verdad y la vida. Nadie va al Padre sino por mí»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy el camino y la verdad y la ___. Nadie va al Padre sino por mí.",
+      "options": ["vida", "luz", "gloria"],
+      "answer": "vida",
+      "explanation": "Jn 14,6: esta respuesta a Tomás define a Jesús como único camino hacia el Padre."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 14,6 · El camino, la verdad y la vida",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "el", "camino", "y", "la", "verdad", "y", "la", "vida", "luz", "gloria"],
+      "answer": "Yo soy el camino y la verdad y la vida",
+      "explanation": "Jn 14,6: esta respuesta a Tomás define a Jesús como único camino hacia el Padre."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Yo soy el camino, la verdad y la vida", "es": "La respuesta de Jesús a Tomás" },
+        { "en": "Yo soy la vid, vosotros los sarmientos", "es": "La imagen de la unión con Jesús" },
+        { "en": "Dar la vida por los amigos", "es": "El amor más grande, en la última cena" },
+        { "en": "Que todos sean uno", "es": "La oración sacerdotal de Jesús" },
+        { "en": "¿Qué es la verdad?", "es": "La pregunta de Pilato en el juicio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Jesús la relación entre él y sus discípulos en la imagen de la vid, en Juan 15?",
+      "options": ["Que cada sarmiento puede dar fruto de forma independiente", "«Yo soy la vid, vosotros los sarmientos... sin mí no podéis hacer nada»", "Que solo algunos sarmientos necesitan permanecer unidos a la vid"],
+      "correct": 1,
+      "hint": "Añade que al que no permanece en él, «lo tiran fuera».",
+      "explanation": "Jn 15,5: «yo soy la vid, vosotros los sarmientos... sin mí no podéis hacer nada»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy la vid, vosotros los ___.",
+      "options": ["sarmientos", "frutos", "ramos"],
+      "answer": "sarmientos",
+      "explanation": "Jn 15,5: la unión con Jesús como la vid hace posible dar fruto en la vida del discípulo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 15,5 · La vid y los sarmientos",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "la", "vid", "vosotros", "los", "sarmientos", "frutos", "ramos"],
+      "answer": "Yo soy la vid vosotros los sarmientos",
+      "explanation": "Jn 15,5: la unión con Jesús como la vid hace posible dar fruto en la vida del discípulo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 15,5 · La dependencia de la vid",
+      "direction": "es-es",
+      "tiles": ["Sin", "mí", "no", "podéis", "hacer", "nada", "poco", "algo"],
+      "answer": "Sin mí no podéis hacer nada",
+      "explanation": "Jn 15,5: la unión con Jesús como la vid hace posible dar fruto en la vida del discípulo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué enseña Jesús sobre el amor más grande que existe, en Juan 15?",
+      "options": ["Que consiste en acumular méritos ante Dios", "Que se mide por la cantidad de tiempo dedicado a otros", "«Nadie tiene amor más grande que el que da la vida por sus amigos»"],
+      "correct": 2,
+      "hint": "Añade: «vosotros sois mis amigos si hacéis lo que yo os mando».",
+      "explanation": "Jn 15,13: «nadie tiene amor más grande que el que da la vida por sus amigos»."
+    },
+    {
+      "type": "gap",
+      "text": "Nadie tiene amor más grande que el que da la vida por sus ___.",
+      "options": ["amigos", "hermanos", "discípulos"],
+      "answer": "amigos",
+      "explanation": "Jn 15,13: el amor hasta dar la vida define el modelo supremo de entrega."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 15,13 · El amor más grande",
+      "direction": "es-es",
+      "tiles": ["El", "que", "da", "la", "vida", "por", "sus", "amigos", "hermanos", "discípulos"],
+      "answer": "El que da la vida por sus amigos",
+      "explanation": "Jn 15,13: el amor hasta dar la vida define el modelo supremo de entrega."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Está cumplido", "es": "Juan 19,30" },
+        { "en": "Señor mío y Dios mío", "es": "Juan 20,28" },
+        { "en": "Bienaventurados los que crean sin haber visto", "es": "Juan 20,29" },
+        { "en": "Apacienta mis ovejas", "es": "Juan 21,17" },
+        { "en": "Yo soy la vid", "es": "Juan 15,5" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Jesús al Padre por sus discípulos en la oración sacerdotal, en Juan 17?",
+      "options": ["«Que todos sean uno... para que el mundo crea que tú me has enviado»", "Que reciban riquezas y poder para su misión", "Que se mantengan siempre separados de los demás pueblos"],
+      "correct": 0,
+      "hint": "Pide esta unidad «como tú, Padre, en mí, y yo en ti».",
+      "explanation": "Jn 17,21: «que todos sean uno... para que el mundo crea que tú me has enviado»."
+    },
+    {
+      "type": "gap",
+      "text": "Que todos sean ___, para que el mundo crea que tú me has enviado.",
+      "options": ["uno", "fieles", "santos"],
+      "answer": "uno",
+      "explanation": "Jn 17,21: la unidad pedida por Jesús se convierte en signo creíble ante el mundo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 17,21 · La oración por la unidad",
+      "direction": "es-es",
+      "tiles": ["Que", "todos", "sean", "uno", "como", "tú", "Padre", "en", "mí", "fieles", "santos"],
+      "answer": "Que todos sean uno como tú Padre en mí",
+      "explanation": "Jn 17,21: la unidad pedida por Jesús se convierte en signo creíble ante el mundo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "El discurso de despedida", "es": "Ocupa varios capítulos en la última cena" },
+        { "en": "La oración sacerdotal", "es": "Se eleva al Padre justo antes de la pasión" },
+        { "en": "El juicio ante Pilato", "es": "Incluye la pregunta escéptica sobre la verdad" },
+        { "en": "La aparición a Tomás", "es": "Ocurre ocho días después de la resurrección" },
+        { "en": "El encuentro junto al lago", "es": "Restaura a Pedro tras su triple negación" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pregunta hace Pilato a Jesús durante el juicio, en Juan 18?",
+      "options": ["Si tiene pruebas de su inocencia ante el sanedrín", "«¿Qué es la verdad?»", "Por qué no se defiende ante las acusaciones"],
+      "correct": 1,
+      "hint": "Jesús acababa de decir: «todo el que es de la verdad escucha mi voz».",
+      "explanation": "Jn 18,38: «¿qué es la verdad?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Qué es la ___?",
+      "options": ["verdad", "justicia", "ley"],
+      "answer": "verdad",
+      "explanation": "Jn 18,38: esta pregunta escéptica de Pilato marca el juicio de Jesús."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús justo antes de morir en la cruz, según Juan 19?",
+      "options": ["Un último reproche a quienes lo han condenado", "Nada, entrega el espíritu en total silencio", "«Está cumplido»"],
+      "correct": 2,
+      "hint": "Lo dice justo después de tomar el vinagre de la esponja.",
+      "explanation": "Jn 19,30: «está cumplido»."
+    },
+    {
+      "type": "gap",
+      "text": "Está ___.",
+      "options": ["cumplido", "terminado", "acabado"],
+      "answer": "cumplido",
+      "explanation": "Jn 19,30: estas palabras finales expresan que la misión de Jesús llega a su plenitud."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exclama Tomás al ver y tocar las llagas de Jesús resucitado, en Juan 20?",
+      "options": ["«¡Señor mío y Dios mío!»", "Que todavía duda de si es realmente Jesús", "Que prefiere consultarlo con los demás apóstoles"],
+      "correct": 0,
+      "hint": "Antes Jesús le había dicho: «no seas incrédulo, sino creyente».",
+      "explanation": "Jn 20,28: «¡Señor mío y Dios mío!»."
+    },
+    {
+      "type": "gap",
+      "text": "¡Señor mío y Dios ___!",
+      "options": ["mío", "nuestro", "eterno"],
+      "answer": "mío",
+      "explanation": "Jn 20,28: esta exclamación de Tomás es una de las confesiones de fe más plenas del evangelio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 20,28 · La confesión de Tomás",
+      "direction": "es-es",
+      "tiles": ["Señor", "mío", "y", "Dios", "mío", "nuestro", "eterno"],
+      "answer": "Señor mío y Dios mío",
+      "explanation": "Jn 20,28: esta exclamación de Tomás es una de las confesiones de fe más plenas del evangelio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús a Tomás sobre la fe de quienes no lo han visto, en Juan 20?",
+      "options": ["Que su fe vale menos que la de quien ha tocado sus llagas", "«Bienaventurados los que crean sin haber visto»", "Que deben esperar a verlo para poder creer"],
+      "correct": 1,
+      "hint": "Antes le pregunta: «¿porque me has visto has creído?».",
+      "explanation": "Jn 20,29: «bienaventurados los que crean sin haber visto»."
+    },
+    {
+      "type": "gap",
+      "text": "Bienaventurados los que crean sin haber ___.",
+      "options": ["visto", "dudado", "preguntado"],
+      "answer": "visto",
+      "explanation": "Jn 20,29: la fe de quienes no han visto recibe una bienaventuranza especial."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 20,29 · La fe sin haber visto",
+      "direction": "es-es",
+      "tiles": ["Bienaventurados", "los", "que", "crean", "sin", "haber", "visto", "dudado", "preguntado"],
+      "answer": "Bienaventurados los que crean sin haber visto",
+      "explanation": "Jn 20,29: la fe de quienes no han visto recibe una bienaventuranza especial."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La unión con Jesús como la vid", "es": "Hace posible dar fruto en la vida del discípulo" },
+        { "en": "El amor hasta dar la vida", "es": "Define el modelo supremo de entrega" },
+        { "en": "La unidad pedida por Jesús", "es": "Se convierte en signo creíble ante el mundo" },
+        { "en": "La fe de quienes no han visto", "es": "Recibe una bienaventuranza especial" },
+        { "en": "El triple «apacienta»", "es": "Confía a Pedro el cuidado de la Iglesia" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le encarga Jesús a Pedro junto al lago, tras preguntarle si lo ama, en Juan 21?",
+      "options": ["Que se dedique de nuevo a la pesca sin más responsabilidades", "Que guarde silencio sobre lo ocurrido en Jerusalén", "«Apacienta mis ovejas»"],
+      "correct": 2,
+      "hint": "Pedro responde: «Señor, tú conoces todo, tú sabes que te quiero».",
+      "explanation": "Jn 21,17: «apacienta mis ovejas»."
+    },
+    {
+      "type": "gap",
+      "text": "___ mis ovejas.",
+      "options": ["Apacienta", "Cuida", "Guarda"],
+      "answer": "Apacienta",
+      "explanation": "Jn 21,17: este triple encargo confía a Pedro el cuidado de la Iglesia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 21,17 · El encargo a Pedro",
+      "direction": "es-es",
+      "tiles": ["Apacienta", "mis", "ovejas", "Cuida", "Guarda"],
+      "answer": "Apacienta mis ovejas",
+      "explanation": "Jn 21,17: este triple encargo confía a Pedro el cuidado de la Iglesia."
+    }
+  ]
+}

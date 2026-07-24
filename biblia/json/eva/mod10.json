@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod10",
+  "module": 10,
+  "title": "Juan II — Los Signos, las Palabras \"Yo Soy\" y el Mandamiento Nuevo",
+  "subtitle": "Juan 7–13",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo se define Jesús a sí mismo ante los fariseos, en Juan 8?",
+      "options": ["«Yo soy la luz del mundo; el que me sigue no camina en tinieblas»", "Como un simple testigo de la luz que otros deben seguir", "Como un maestro que enseña solo de noche"],
+      "correct": 0,
+      "hint": "Añade que quien lo sigue «tendrá la luz de la vida».",
+      "explanation": "Jn 8,12: «yo soy la luz del mundo; el que me sigue no camina en tinieblas»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy la luz del ___; el que me sigue no camina en tinieblas.",
+      "options": ["mundo", "cielo", "templo"],
+      "answer": "mundo",
+      "explanation": "Jn 8,12: esta luz ofrece guía a quien decide seguir a Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 8,12 · La luz del mundo",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "la", "luz", "del", "mundo", "cielo", "templo"],
+      "answer": "Yo soy la luz del mundo",
+      "explanation": "Jn 8,12: esta luz ofrece guía a quien decide seguir a Jesús."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Yo soy la luz del mundo", "es": "La autoproclamación de Jesús ante los fariseos" },
+        { "en": "La verdad os hará libres", "es": "La promesa a quienes permanecen en su palabra" },
+        { "en": "Antes de que Abrahán existiera, yo soy", "es": "La afirmación de su existencia eterna" },
+        { "en": "Yo era ciego y ahora veo", "es": "El testimonio del ciego de nacimiento" },
+        { "en": "El buen pastor da su vida", "es": "La imagen del pastor que se entrega por sus ovejas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Jesús a quienes permanecen fieles a su palabra, en Juan 8?",
+      "options": ["Que quedarán exentos de toda ley humana", "«Conoceréis la verdad, y la verdad os hará libres»", "Que recibirán riquezas materiales en abundancia"],
+      "correct": 1,
+      "hint": "Antes dice: «si permanecéis en mi palabra, seréis de verdad discípulos míos».",
+      "explanation": "Jn 8,32: «conoceréis la verdad, y la verdad os hará libres»."
+    },
+    {
+      "type": "gap",
+      "text": "Conoceréis la verdad, y la verdad os hará ___.",
+      "options": ["libres", "sabios", "fuertes"],
+      "answer": "libres",
+      "explanation": "Jn 8,32: esta promesa se dirige a quienes permanecen fieles a la palabra de Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 8,32 · La verdad que libera",
+      "direction": "es-es",
+      "tiles": ["Conoceréis", "la", "verdad", "y", "la", "verdad", "os", "hará", "libres", "sabios", "fuertes"],
+      "answer": "Conoceréis la verdad y la verdad os hará libres",
+      "explanation": "Jn 8,32: esta promesa se dirige a quienes permanecen fieles a la palabra de Jesús."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde Jesús cuando le preguntan si ha visto a Abrahán, en Juan 8?",
+      "options": ["Que nunca ha oído hablar de Abrahán", "Que Abrahán es superior a él en todo", "«En verdad, en verdad os digo: antes de que Abrahán existiera, yo soy»"],
+      "correct": 2,
+      "hint": "Tras esto, algunos «cogieron piedras para tirárselas».",
+      "explanation": "Jn 8,58: «antes de que Abrahán existiera, yo soy»."
+    },
+    {
+      "type": "gap",
+      "text": "Antes de que Abrahán existiera, yo ___.",
+      "options": ["soy", "existo", "vivo"],
+      "answer": "soy",
+      "explanation": "Jn 8,58: esta afirmación «yo soy» ante Abrahán provoca que quieran apedrear a Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 8,58 · La existencia eterna de Jesús",
+      "direction": "es-es",
+      "tiles": ["Antes", "de", "que", "Abrahán", "existiera", "yo", "soy", "existo", "vivo"],
+      "answer": "Antes de que Abrahán existiera yo soy",
+      "explanation": "Jn 8,58: esta afirmación «yo soy» ante Abrahán provoca que quieran apedrear a Jesús."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Yo soy la resurrección y la vida", "es": "Juan 11,25" },
+        { "en": "Jesús se echó a llorar", "es": "Juan 11,35" },
+        { "en": "Si el grano de trigo muere, da mucho fruto", "es": "Juan 12,24" },
+        { "en": "Mandamiento nuevo", "es": "Juan 13,34" },
+        { "en": "La verdad os hará libres", "es": "Juan 8,32" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde el ciego de nacimiento cuando le preguntan si Jesús es un pecador, en Juan 9?",
+      "options": ["«Solo sé que yo era ciego y ahora veo»", "Que prefiere no opinar sobre quién lo ha curado", "Que Jesús debe presentarse ante el sanedrín primero"],
+      "correct": 0,
+      "hint": "Antes le habían preguntado insistentemente cómo se le abrieron los ojos.",
+      "explanation": "Jn 9,25: «solo sé que yo era ciego y ahora veo»."
+    },
+    {
+      "type": "gap",
+      "text": "Solo sé que yo era ciego y ahora ___.",
+      "options": ["veo", "creo", "vivo"],
+      "answer": "veo",
+      "explanation": "Jn 9,25: este testimonio del ciego provoca la división entre los fariseos sobre el origen de Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 9,25 · El testimonio del ciego curado",
+      "direction": "es-es",
+      "tiles": ["Yo", "era", "ciego", "y", "ahora", "veo", "creo", "vivo"],
+      "answer": "Yo era ciego y ahora veo",
+      "explanation": "Jn 9,25: este testimonio del ciego provoca la división entre los fariseos sobre el origen de Jesús."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se define Jesús frente al asalariado que huye ante el peligro, en Juan 10?",
+      "options": ["Como quien solo cuida las ovejas durante el día", "«Yo soy el Buen Pastor. El buen pastor da su vida por las ovejas»", "Como quien confía el rebaño a otros pastores"],
+      "correct": 1,
+      "hint": "El asalariado, dice Jesús, «abandona las ovejas y huye» al ver venir al lobo.",
+      "explanation": "Jn 10,11: «yo soy el Buen Pastor. El buen pastor da su vida por las ovejas»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy el Buen Pastor. El buen pastor da su vida por las ___.",
+      "options": ["ovejas", "personas", "gentes"],
+      "answer": "ovejas",
+      "explanation": "Jn 10,11: el buen pastor entrega la vida en vez de huir ante el peligro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 10,11 · El buen pastor",
+      "direction": "es-es",
+      "tiles": ["El", "buen", "pastor", "da", "su", "vida", "por", "las", "ovejas", "personas", "gentes"],
+      "answer": "El buen pastor da su vida por las ovejas",
+      "explanation": "Jn 10,11: el buen pastor entrega la vida en vez de huir ante el peligro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La curación del ciego de nacimiento", "es": "Provoca la división entre los fariseos sobre su origen" },
+        { "en": "La resurrección de Lázaro", "es": "Ocurre cuando ya llevaba cuatro días en la tumba" },
+        { "en": "La imagen del grano de trigo", "es": "Anuncia la fecundidad de la propia muerte de Jesús" },
+        { "en": "El mandamiento nuevo", "es": "Se da durante la última cena, tras lavar los pies" },
+        { "en": "La afirmación «yo soy» ante Abrahán", "es": "Provoca que quieran apedrear a Jesús" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús a Marta antes de resucitar a Lázaro, en Juan 11?",
+      "options": ["Que debe conformarse con la resurrección del último día", "Que solo Dios conoce el momento de cada resurrección", "«Yo soy la resurrección y la vida: el que cree en mí, aunque haya muerto, vivirá»"],
+      "correct": 2,
+      "hint": "Termina preguntándole: «¿crees esto?».",
+      "explanation": "Jn 11,25-26: «yo soy la resurrección y la vida: el que cree en mí, aunque haya muerto, vivirá»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy la resurrección y la ___.",
+      "options": ["vida", "gloria", "luz"],
+      "answer": "vida",
+      "explanation": "Jn 11,25: la fe de Marta se pone a prueba antes del signo más grande de Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 11,25 · La resurrección de Lázaro",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "la", "resurrección", "y", "la", "vida", "gloria", "luz"],
+      "answer": "Yo soy la resurrección y la vida",
+      "explanation": "Jn 11,25: la fe de Marta se pone a prueba antes del signo más grande de Jesús."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Jesús al ver llorar a María y a los judíos junto a la tumba de Lázaro, en Juan 11?",
+      "options": ["«Jesús se echó a llorar»", "Les reprocha su falta de fe ante la muerte", "Permanece impasible mientras ora en silencio"],
+      "correct": 0,
+      "hint": "Antes «se conmovió en su espíritu, se estremeció».",
+      "explanation": "Jn 11,35: «Jesús se echó a llorar»."
+    },
+    {
+      "type": "gap",
+      "text": "Jesús se echó a ___.",
+      "options": ["llorar", "gritar", "orar"],
+      "answer": "llorar",
+      "explanation": "Jn 11,35: la compasión de Jesús ante el dolor muestra su humanidad junto a la tumba de Lázaro."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La luz del mundo", "es": "Ofrece guía a quien decide seguir a Jesús" },
+        { "en": "El buen pastor", "es": "Entrega la vida en vez de huir ante el peligro" },
+        { "en": "La fe de Marta", "es": "Se pone a prueba antes del signo más grande de Jesús" },
+        { "en": "La compasión de Jesús ante el dolor", "es": "Muestra su humanidad junto a la tumba de Lázaro" },
+        { "en": "El amor mutuo entre discípulos", "es": "Se convierte en la señal que los identifica ante el mundo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué imagen usa Jesús para hablar de su propia muerte fecunda, en Juan 12?",
+      "options": ["La de una lámpara que se apaga sin dejar rastro", "«Si el grano de trigo no cae en tierra y muere, queda infecundo; pero si muere, da mucho fruto»", "La de un árbol que crece sin necesitar agua"],
+      "correct": 1,
+      "hint": "Lo dice hablando de que «ha llegado la hora» de ser glorificado.",
+      "explanation": "Jn 12,24: «si el grano de trigo no cae en tierra y muere, queda infecundo; pero si muere, da mucho fruto»."
+    },
+    {
+      "type": "gap",
+      "text": "Si el grano de trigo no cae en tierra y muere, queda ___.",
+      "options": ["infecundo", "perdido", "seco"],
+      "answer": "infecundo",
+      "explanation": "Jn 12,24: esta imagen anuncia la fecundidad de la propia muerte de Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 12,24 · El grano de trigo",
+      "direction": "es-es",
+      "tiles": ["Si", "el", "grano", "de", "trigo", "no", "cae", "en", "tierra", "y", "muere", "perdido", "seco"],
+      "answer": "Si el grano de trigo no cae en tierra y muere",
+      "explanation": "Jn 12,24: esta imagen anuncia la fecundidad de la propia muerte de Jesús."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué mandamiento nuevo da Jesús a sus discípulos en la última cena, en Juan 13?",
+      "options": ["Que guarden en secreto todo lo que han visto y oído", "Que ayunen con frecuencia como signo de fidelidad", "«Que os améis unos a otros, como yo os he amado»"],
+      "correct": 2,
+      "hint": "Añade: «en esto conocerán todos que sois discípulos míos».",
+      "explanation": "Jn 13,34-35: «os doy un mandamiento nuevo: que os améis unos a otros; como yo os he amado»."
+    },
+    {
+      "type": "gap",
+      "text": "Que os améis unos a ___, como yo os he amado.",
+      "options": ["otros", "todos", "vosotros"],
+      "answer": "otros",
+      "explanation": "Jn 13,34: el amor mutuo entre discípulos se convierte en la señal que los identifica ante el mundo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 13,34 · El mandamiento nuevo",
+      "direction": "es-es",
+      "tiles": ["Que", "os", "améis", "unos", "a", "otros", "como", "yo", "os", "he", "amado", "todos"],
+      "answer": "Que os améis unos a otros como yo os he amado",
+      "explanation": "Jn 13,34: el amor mutuo entre discípulos se convierte en la señal que los identifica ante el mundo."
+    }
+  ]
+}

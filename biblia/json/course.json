@@ -112,14 +112,20 @@
     {
       "code": "EVA",
       "name": "Evangelios",
-      "sub": "5 módulos · Mateo y Marcos completos (Lucas y Juan en preparación)",
+      "sub": "11 módulos · Mateo, Marcos, Lucas y Juan — Completo",
       "color": "#2F8A87",
       "modules": [
         { "n": 1, "title": "Mateo I — El Nacimiento y el Sermón de la Montaña",         "es": "Mateo I · Nacimiento y Sermón (Mt 1–7)",        "file": "eva/mod01.json" },
         { "n": 2, "title": "Mateo II — Milagros, Parábolas y la Confesión de Pedro",    "es": "Mateo II · Milagros y Confesión (Mt 8–20)",     "file": "eva/mod02.json" },
         { "n": 3, "title": "Mateo III — Jerusalén, la Pasión y la Resurrección",        "es": "Mateo III · Pasión y Resurrección (Mt 21–28)",  "file": "eva/mod03.json" },
         { "n": 4, "title": "Marcos I — Los Primeros Milagros y Discípulos",             "es": "Marcos I · Primeros Milagros (Mc 1–8)",         "file": "eva/mod04.json" },
-        { "n": 5, "title": "Marcos II — El Camino a Jerusalén y la Pasión",             "es": "Marcos II · Camino y Pasión (Mc 9–16)",         "file": "eva/mod05.json" }
+        { "n": 5, "title": "Marcos II — El Camino a Jerusalén y la Pasión",             "es": "Marcos II · Camino y Pasión (Mc 9–16)",         "file": "eva/mod05.json" },
+        { "n": 6, "title": "Lucas I — La Anunciación y los Primeros Años del Ministerio", "es": "Lucas I · Anunciación (Lc 1–9)",              "file": "eva/mod06.json" },
+        { "n": 7, "title": "Lucas II — Las Grandes Parábolas de la Misericordia",       "es": "Lucas II · Parábolas (Lc 10–18)",               "file": "eva/mod07.json" },
+        { "n": 8, "title": "Lucas III — Zaqueo, la Pasión y la Resurrección",           "es": "Lucas III · Pasión y Resurrección (Lc 19–24)",  "file": "eva/mod08.json" },
+        { "n": 9, "title": "Juan I — El Verbo Encarnado y los Primeros Signos",         "es": "Juan I · El Verbo y Signos (Jn 1–6)",           "file": "eva/mod09.json" },
+        { "n": 10, "title": "Juan II — Los Signos, las Palabras \"Yo Soy\" y el Mandamiento Nuevo", "es": "Juan II · Yo Soy (Jn 7–13)",        "file": "eva/mod10.json" },
+        { "n": 11, "title": "Juan III — El Discurso de Despedida, la Pasión y la Resurrección", "es": "Juan III · Despedida y Pasión (Jn 14–21)", "file": "eva/mod11.json" }
       ]
     },
     { "code": "HCH", "name": "Hechos de los Apóstoles",        "color": "#3B6FA6", "locked": true, "moduleCount": 2 },

@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod06",
+  "module": 6,
+  "title": "Lucas I — La Anunciación y los Primeros Años del Ministerio",
+  "subtitle": "Lucas 1–9",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué responde María al ángel Gabriel en la Anunciación, en Lucas 1?",
+      "options": ["«He aquí la esclava del Señor; hágase en mí según tu palabra»", "Que necesita más tiempo para pensarlo", "Que prefiere consultarlo primero con José"],
+      "correct": 0,
+      "hint": "Después de esta respuesta, «el ángel se retiró».",
+      "explanation": "Lc 1,38: «he aquí la esclava del Señor; hágase en mí según tu palabra»."
+    },
+    {
+      "type": "gap",
+      "text": "He aquí la esclava del Señor; hágase en mí según tu ___.",
+      "options": ["palabra", "voluntad", "promesa"],
+      "answer": "palabra",
+      "explanation": "Lc 1,38: esta respuesta muestra la disponibilidad total de María a la voluntad de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 1,38 · La respuesta de María",
+      "direction": "es-es",
+      "tiles": ["He", "aquí", "la", "esclava", "del", "Señor", "sierva", "criada"],
+      "answer": "He aquí la esclava del Señor",
+      "explanation": "Lc 1,38: esta respuesta muestra la disponibilidad total de María a la voluntad de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "He aquí la esclava del Señor", "es": "La respuesta de María en la Anunciación" },
+        { "en": "Proclama mi alma la grandeza del Señor", "es": "El cántico del Magníficat" },
+        { "en": "Hoy os ha nacido un Salvador", "es": "El anuncio a los pastores" },
+        { "en": "Gloria a Dios en el cielo", "es": "El canto de los ángeles en Belén" },
+        { "en": "El Espíritu del Señor está sobre mí", "es": "La lectura de Jesús en la sinagoga de Nazaret" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo empieza María su cántico de alabanza al visitar a Isabel, en Lucas 1?",
+      "options": ["Pidiendo perdón por su indignidad ante tan gran noticia", "«Proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios, mi salvador»", "Preguntando por qué Dios la ha elegido a ella"],
+      "correct": 1,
+      "hint": "Isabel acaba de llamarla «bienaventurada la que ha creído».",
+      "explanation": "Lc 1,46-47: «proclama mi alma la grandeza del Señor, se alegra mi espíritu en Dios, mi salvador»."
+    },
+    {
+      "type": "gap",
+      "text": "Proclama mi alma la ___ del Señor.",
+      "options": ["grandeza", "gloria", "bondad"],
+      "answer": "grandeza",
+      "explanation": "Lc 1,46: este cántico, el Magníficat, es la respuesta de alabanza de María."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 1,46 · El Magníficat",
+      "direction": "es-es",
+      "tiles": ["Proclama", "mi", "alma", "la", "grandeza", "del", "Señor", "gloria", "bondad"],
+      "answer": "Proclama mi alma la grandeza del Señor",
+      "explanation": "Lc 1,46: este cántico, el Magníficat, es la respuesta de alabanza de María."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia el ángel a los pastores en Belén, en Lucas 2?",
+      "options": ["Que deben acudir al templo de Jerusalén cuanto antes", "Que un gran rey ha nacido en Roma", "«Os anuncio una buena noticia... hoy os ha nacido un Salvador, el Mesías, el Señor»"],
+      "correct": 2,
+      "hint": "Antes de esto, «la gloria del Señor los envolvió de claridad».",
+      "explanation": "Lc 2,10-11: «os anuncio una buena noticia que será de gran alegría... hoy os ha nacido un Salvador, el Mesías, el Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "Hoy os ha nacido un ___, el Mesías, el Señor.",
+      "options": ["Salvador", "Rey", "Profeta"],
+      "answer": "Salvador",
+      "explanation": "Lc 2,11: este anuncio revela que la buena noticia llega primero a unos pastores humildes."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 2,11 · El anuncio a los pastores",
+      "direction": "es-es",
+      "tiles": ["Hoy", "os", "ha", "nacido", "un", "Salvador", "Rey", "Profeta"],
+      "answer": "Hoy os ha nacido un Salvador",
+      "explanation": "Lc 2,11: este anuncio revela que la buena noticia llega primero a unos pastores humildes."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Apártate de mí, que soy un hombre pecador", "es": "Lucas 5,8" },
+        { "en": "Bienaventurados los pobres", "es": "Lucas 6,20" },
+        { "en": "Ha amado mucho", "es": "Lucas 7,47" },
+        { "en": "Tome su cruz cada día", "es": "Lucas 9,23" },
+        { "en": "El Espíritu del Señor está sobre mí", "es": "Lucas 4,18" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cantan los ángeles tras anunciar el nacimiento a los pastores, en Lucas 2?",
+      "options": ["«Gloria a Dios en el cielo, y en la tierra paz a los hombres de buena voluntad»", "Un canto de guerra contra los enemigos de Israel", "Nada, se retiran en silencio al instante"],
+      "correct": 0,
+      "hint": "Lo canta «una legión del ejército celestial».",
+      "explanation": "Lc 2,14: «gloria a Dios en el cielo, y en la tierra paz a los hombres de buena voluntad»."
+    },
+    {
+      "type": "gap",
+      "text": "Gloria a Dios en el cielo, y en la tierra ___ a los hombres de buena voluntad.",
+      "options": ["paz", "amor", "luz"],
+      "answer": "paz",
+      "explanation": "Lc 2,14: este canto de los ángeles proclama la paz que trae el nacimiento del Salvador."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 2,14 · El canto de los ángeles",
+      "direction": "es-es",
+      "tiles": ["Gloria", "a", "Dios", "en", "el", "cielo", "y", "en", "la", "tierra", "paz", "amor", "luz"],
+      "answer": "Gloria a Dios en el cielo y en la tierra paz",
+      "explanation": "Lc 2,14: este canto de los ángeles proclama la paz que trae el nacimiento del Salvador."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La Anunciación", "es": "Ocurre en Nazaret por medio del ángel Gabriel" },
+        { "en": "El nacimiento en Belén", "es": "Se anuncia primero a unos pastores humildes" },
+        { "en": "La pesca milagrosa", "es": "Lleva a Simón Pedro a reconocerse pecador ante Jesús" },
+        { "en": "El discurso en el llano", "es": "Invierte la lógica del mundo al bendecir a los pobres" },
+        { "en": "La mujer pecadora", "es": "Unge los pies de Jesús en casa de un fariseo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pasaje de Isaías lee Jesús en la sinagoga de Nazaret, en Lucas 4?",
+      "options": ["Un oráculo sobre el castigo de las naciones paganas", "«El Espíritu del Señor está sobre mí, porque él me ha ungido... a evangelizar a los pobres»", "Una genealogía de los reyes de Judá"],
+      "correct": 1,
+      "hint": "Después dice: «hoy se cumple esta Escritura que acabáis de oír».",
+      "explanation": "Lc 4,18: «el Espíritu del Señor está sobre mí, porque él me ha ungido. Me ha enviado a evangelizar a los pobres»."
+    },
+    {
+      "type": "gap",
+      "text": "El Espíritu del Señor está sobre mí, porque él me ha ___.",
+      "options": ["ungido", "elegido", "llamado"],
+      "answer": "ungido",
+      "explanation": "Lc 4,18: esta lectura define la misión de Jesús como buena noticia para los pobres."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 4,18 · La misión anunciada en Nazaret",
+      "direction": "es-es",
+      "tiles": ["Me", "ha", "enviado", "a", "evangelizar", "a", "los", "pobres", "ricos", "poderosos"],
+      "answer": "Me ha enviado a evangelizar a los pobres",
+      "explanation": "Lc 4,18: esta lectura define la misión de Jesús como buena noticia para los pobres."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice Simón Pedro a Jesús tras la pesca milagrosa, en Lucas 5?",
+      "options": ["Que se quede a vivir con su familia en Cafarnaún", "Que le enseñe a pescar con esa misma técnica", "«Señor, apártate de mí, que soy un hombre pecador»"],
+      "correct": 2,
+      "hint": "El texto dice que «el estupor se había apoderado de él» por la redada de peces.",
+      "explanation": "Lc 5,8: «Señor, apártate de mí, que soy un hombre pecador»."
+    },
+    {
+      "type": "gap",
+      "text": "Señor, apártate de mí, que soy un hombre ___.",
+      "options": ["pecador", "indigno", "culpable"],
+      "answer": "pecador",
+      "explanation": "Lc 5,8: esta confesión de Pedro nace del asombro ante la redada milagrosa de peces."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 5,8 · La confesión de Pedro",
+      "direction": "es-es",
+      "tiles": ["Señor", "apártate", "de", "mí", "que", "soy", "un", "hombre", "pecador", "indigno", "culpable"],
+      "answer": "Señor apártate de mí que soy un hombre pecador",
+      "explanation": "Lc 5,8: esta confesión de Pedro nace del asombro ante la redada milagrosa de peces."
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quiénes declara Jesús bienaventurados al comenzar su discurso en el llano, en Lucas 6?",
+      "options": ["«Bienaventurados los pobres, porque vuestro es el reino de Dios»", "A los que poseen muchas riquezas y las comparten poco", "Solo a los sacerdotes y maestros de la ley"],
+      "correct": 0,
+      "hint": "También bendice a los que tienen hambre y a los que lloran.",
+      "explanation": "Lc 6,20: «bienaventurados los pobres, porque vuestro es el reino de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Bienaventurados los ___, porque vuestro es el reino de Dios.",
+      "options": ["pobres", "humildes", "mansos"],
+      "answer": "pobres",
+      "explanation": "Lc 6,20: este discurso invierte la lógica del mundo al bendecir a los pobres."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 6,20 · Las bienaventuranzas del llano",
+      "direction": "es-es",
+      "tiles": ["Bienaventurados", "los", "pobres", "porque", "vuestro", "es", "el", "reino", "de", "Dios", "ricos", "sabios"],
+      "answer": "Bienaventurados los pobres porque vuestro es el reino de Dios",
+      "explanation": "Lc 6,20: este discurso invierte la lógica del mundo al bendecir a los pobres."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué le son perdonados los pecados a la mujer pecadora que unge los pies de Jesús, en Lucas 7?",
+      "options": ["Porque paga una ofrenda al templo", "«Porque ha amado mucho»", "Porque es pariente cercana de un fariseo"],
+      "correct": 1,
+      "hint": "Jesús añade: «al que poco se le perdona, ama poco».",
+      "explanation": "Lc 7,47: «sus muchos pecados han quedado perdonados, porque ha amado mucho»."
+    },
+    {
+      "type": "gap",
+      "text": "Sus muchos pecados han quedado perdonados, porque ha amado ___.",
+      "options": ["mucho", "tanto", "bien"],
+      "answer": "mucho",
+      "explanation": "Lc 7,47: esta enseñanza muestra que el amor grande responde al perdón grande."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La humildad de María", "es": "Muestra la disponibilidad total a la voluntad de Dios" },
+        { "en": "El anuncio a los pastores", "es": "Revela que la buena noticia llega primero a los sencillos" },
+        { "en": "La misión de Jesús en Nazaret", "es": "Define su ministerio como buena noticia para los pobres" },
+        { "en": "El perdón a la pecadora", "es": "Enseña que el amor grande responde al perdón grande" },
+        { "en": "El seguimiento diario", "es": "Convierte la cruz en una entrega de cada día, no solo un momento" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué añade Lucas, de forma propia, a la condición para seguir a Jesús, en Lucas 9?",
+      "options": ["Que se debe vender antes toda posesión material", "Que solo los doce apóstoles pueden tomar la cruz", "Que se tome la cruz «cada día»"],
+      "correct": 2,
+      "hint": "Mateo y Marcos recogen la misma enseñanza, pero sin esta precisión temporal.",
+      "explanation": "Lc 9,23: «que se niegue a sí mismo, tome su cruz cada día y me siga»."
+    },
+    {
+      "type": "gap",
+      "text": "Que se niegue a sí mismo, tome su cruz cada ___ y me siga.",
+      "options": ["día", "momento", "instante"],
+      "answer": "día",
+      "explanation": "Lc 9,23: este añadido propio de Lucas convierte la cruz en una entrega de cada día."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 9,23 · El seguimiento de cada día",
+      "direction": "es-es",
+      "tiles": ["Tome", "su", "cruz", "cada", "día", "y", "me", "siga", "una", "vez"],
+      "answer": "Tome su cruz cada día y me siga",
+      "explanation": "Lc 9,23: este añadido propio de Lucas convierte la cruz en una entrega de cada día."
+    }
+  ]
+}

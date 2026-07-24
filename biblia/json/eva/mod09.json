@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod09",
+  "module": 9,
+  "title": "Juan I — El Verbo Encarnado y los Primeros Signos",
+  "subtitle": "Juan 1–6",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo comienza el evangelio de Juan, describiendo al Verbo, en Juan 1?",
+      "options": ["«En el principio existía el Verbo, y el Verbo estaba junto a Dios, y el Verbo era Dios»", "Con la genealogía de Jesús desde Abrahán", "Con el relato del nacimiento en Belén"],
+      "correct": 0,
+      "hint": "Añade que «por medio de él se hizo todo».",
+      "explanation": "Jn 1,1: «en el principio existía el Verbo, y el Verbo estaba junto a Dios, y el Verbo era Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "En el principio existía el ___, y el Verbo estaba junto a Dios.",
+      "options": ["Verbo", "Espíritu", "Padre"],
+      "answer": "Verbo",
+      "explanation": "Jn 1,1: este prólogo presenta a Jesús como el Verbo eterno hecho carne."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 1,1 · El prólogo de Juan",
+      "direction": "es-es",
+      "tiles": ["En", "el", "principio", "existía", "el", "Verbo", "Espíritu", "Padre"],
+      "answer": "En el principio existía el Verbo",
+      "explanation": "Jn 1,1: este prólogo presenta a Jesús como el Verbo eterno hecho carne."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "En el principio existía el Verbo", "es": "El prólogo del evangelio de Juan" },
+        { "en": "El Verbo se hizo carne", "es": "La encarnación de Jesús" },
+        { "en": "Cordero de Dios", "es": "La presentación de Jesús por Juan Bautista" },
+        { "en": "Haced lo que él os diga", "es": "Las bodas de Caná" },
+        { "en": "Tanto amó Dios al mundo", "es": "El diálogo con Nicodemo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué proclama Juan sobre el Verbo en su prólogo, en Juan 1?",
+      "options": ["Que permanece siempre invisible a los hombres", "«El Verbo se hizo carne y habitó entre nosotros»", "Que solo se manifiesta a través de la ley de Moisés"],
+      "correct": 1,
+      "hint": "Añade que «hemos contemplado su gloria... lleno de gracia y de verdad».",
+      "explanation": "Jn 1,14: «el Verbo se hizo carne y habitó entre nosotros»."
+    },
+    {
+      "type": "gap",
+      "text": "El Verbo se hizo ___ y habitó entre nosotros.",
+      "options": ["carne", "hombre", "luz"],
+      "answer": "carne",
+      "explanation": "Jn 1,14: la encarnación revela a Dios haciéndose visible entre los hombres."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 1,14 · La encarnación del Verbo",
+      "direction": "es-es",
+      "tiles": ["El", "Verbo", "se", "hizo", "carne", "y", "habitó", "entre", "nosotros", "hombre", "luz"],
+      "answer": "El Verbo se hizo carne y habitó entre nosotros",
+      "explanation": "Jn 1,14: la encarnación revela a Dios haciéndose visible entre los hombres."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo presenta Juan el Bautista a Jesús cuando lo ve venir hacia él, en Juan 1?",
+      "options": ["Como un maestro más entre los rabinos de su tiempo", "Como su propio discípulo, enviado a prepararle el camino", "«Este es el Cordero de Dios, que quita el pecado del mundo»"],
+      "correct": 2,
+      "hint": "Añade que Jesús «existía antes» que él.",
+      "explanation": "Jn 1,29: «este es el Cordero de Dios, que quita el pecado del mundo»."
+    },
+    {
+      "type": "gap",
+      "text": "Este es el Cordero de Dios, que quita el ___ del mundo.",
+      "options": ["pecado", "mal", "dolor"],
+      "answer": "pecado",
+      "explanation": "Jn 1,29: este testimonio de Juan Bautista pone a Jesús por encima de sí mismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 1,29 · El Cordero de Dios",
+      "direction": "es-es",
+      "tiles": ["Este", "es", "el", "Cordero", "de", "Dios", "profeta", "siervo"],
+      "answer": "Este es el Cordero de Dios",
+      "explanation": "Jn 1,29: este testimonio de Juan Bautista pone a Jesús por encima de sí mismo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Él tiene que crecer, yo menguar", "es": "Juan 3,30" },
+        { "en": "Agua que salta hasta la vida eterna", "es": "Juan 4,14" },
+        { "en": "Yo soy el pan de vida", "es": "Juan 6,35" },
+        { "en": "Palabras de vida eterna", "es": "Juan 6,68" },
+        { "en": "Cordero de Dios", "es": "Juan 1,29" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice María a los sirvientes en las bodas de Caná, en Juan 2?",
+      "options": ["«Haced lo que él os diga»", "Que avisen al mayordomo del banquete antes de actuar", "Que esperen a que se acabe también el pan"],
+      "correct": 0,
+      "hint": "Justo antes, Jesús le había dicho: «todavía no ha llegado mi hora».",
+      "explanation": "Jn 2,5: «haced lo que él os diga»."
+    },
+    {
+      "type": "gap",
+      "text": "Haced lo que él os ___.",
+      "options": ["diga", "pida", "mande"],
+      "answer": "diga",
+      "explanation": "Jn 2,5: estas palabras de María abren paso al primer signo, convertir el agua en vino."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 2,5 · Las bodas de Caná",
+      "direction": "es-es",
+      "tiles": ["Haced", "lo", "que", "él", "os", "diga", "pida", "mande"],
+      "answer": "Haced lo que él os diga",
+      "explanation": "Jn 2,5: estas palabras de María abren paso al primer signo, convertir el agua en vino."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "El prólogo de Juan", "es": "Presenta a Jesús como el Verbo eterno hecho carne" },
+        { "en": "Las bodas de Caná", "es": "Son el primer signo, convertir el agua en vino" },
+        { "en": "El diálogo con Nicodemo", "es": "Ocurre de noche, con un fariseo que busca a Jesús en secreto" },
+        { "en": "El encuentro con la samaritana", "es": "Sucede junto a un pozo en Samaria, a mediodía" },
+        { "en": "La multiplicación de los panes", "es": "Da paso al discurso sobre el pan de vida" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué revela Jesús a Nicodemo sobre el amor de Dios por el mundo, en Juan 3?",
+      "options": ["Que Dios ama solo a quienes cumplen la ley al detalle", "«Tanto amó Dios al mundo, que entregó a su Unigénito... para que tenga vida eterna»", "Que el amor de Dios se manifiesta únicamente en el templo"],
+      "correct": 1,
+      "hint": "Añade que Dios «no envió a su Hijo al mundo para juzgar al mundo».",
+      "explanation": "Jn 3,16: «tanto amó Dios al mundo, que entregó a su Unigénito, para que todo el que cree en él no perezca, sino que tenga vida eterna»."
+    },
+    {
+      "type": "gap",
+      "text": "Tanto amó Dios al mundo, que entregó a su ___.",
+      "options": ["Unigénito", "siervo", "elegido"],
+      "answer": "Unigénito",
+      "explanation": "Jn 3,16: el amor de Dios por el mundo se manifiesta en la entrega de su Hijo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Juan el Bautista sobre su relación con Jesús, en Juan 3?",
+      "options": ["Que ambos deben tener el mismo protagonismo siempre", "Que prefiere retirarse sin dar ninguna explicación", "«Él tiene que crecer, y yo tengo que menguar»"],
+      "correct": 2,
+      "hint": "Antes dice que su alegría, al oír la voz del esposo, «está colmada».",
+      "explanation": "Jn 3,30: «él tiene que crecer, y yo tengo que menguar»."
+    },
+    {
+      "type": "gap",
+      "text": "Él tiene que crecer, y yo tengo que ___.",
+      "options": ["menguar", "callar", "esperar"],
+      "answer": "menguar",
+      "explanation": "Jn 3,30: este testimonio de Juan Bautista pone a Jesús por encima de sí mismo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 3,30 · El testimonio de Juan Bautista",
+      "direction": "es-es",
+      "tiles": ["Él", "tiene", "que", "crecer", "y", "yo", "tengo", "que", "menguar", "callar", "esperar"],
+      "answer": "Él tiene que crecer y yo tengo que menguar",
+      "explanation": "Jn 3,30: este testimonio de Juan Bautista pone a Jesús por encima de sí mismo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Jesús a la samaritana sobre el agua que él da, en Juan 4?",
+      "options": ["«Se convertirá dentro de él en un surtidor de agua que salta hasta la vida eterna»", "Que calmará la sed solo por un día", "Que deberá compartirla con todo el pueblo samaritano"],
+      "correct": 0,
+      "hint": "Ella le responde: «Señor, dame esa agua: así no tendré más sed».",
+      "explanation": "Jn 4,14: «el agua que yo le daré se convertirá dentro de él en un surtidor de agua que salta hasta la vida eterna»."
+    },
+    {
+      "type": "gap",
+      "text": "El agua que yo le daré se convertirá dentro de él en un surtidor de agua que salta hasta la vida ___.",
+      "options": ["eterna", "nueva", "plena"],
+      "answer": "eterna",
+      "explanation": "Jn 4,14: el agua viva ofrecida a la samaritana sacia una sed que ningún pozo humano puede calmar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 4,14 · El agua viva",
+      "direction": "es-es",
+      "tiles": ["Un", "surtidor", "de", "agua", "que", "salta", "hasta", "la", "vida", "eterna", "nueva", "plena"],
+      "answer": "Un surtidor de agua que salta hasta la vida eterna",
+      "explanation": "Jn 4,14: el agua viva ofrecida a la samaritana sacia una sed que ningún pozo humano puede calmar."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La encarnación del Verbo", "es": "Revela a Dios haciéndose visible entre los hombres" },
+        { "en": "El testimonio de Juan Bautista", "es": "Pone a Jesús por encima de sí mismo" },
+        { "en": "El amor de Dios por el mundo", "es": "Se manifiesta en la entrega de su Hijo" },
+        { "en": "El agua viva ofrecida a la samaritana", "es": "Sacia una sed que ningún pozo humano puede calmar" },
+        { "en": "La fidelidad de Pedro", "es": "Reconoce que solo Jesús tiene palabras de vida eterna" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo se define Jesús a sí mismo tras la multiplicación de los panes, en Juan 6?",
+      "options": ["Como un profeta más enviado a anunciar el reino", "«Yo soy el pan de vida. El que viene a mí no tendrá hambre»", "Como quien reparte solo alimento material"],
+      "correct": 1,
+      "hint": "La gente le había pedido: «Señor, danos siempre de este pan».",
+      "explanation": "Jn 6,35: «yo soy el pan de vida. El que viene a mí no tendrá hambre»."
+    },
+    {
+      "type": "gap",
+      "text": "Yo soy el pan de ___.",
+      "options": ["vida", "Dios", "cielo"],
+      "answer": "vida",
+      "explanation": "Jn 6,35: este discurso sigue a la multiplicación de los panes en el desierto."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 6,35 · El pan de vida",
+      "direction": "es-es",
+      "tiles": ["Yo", "soy", "el", "pan", "de", "vida", "Dios", "cielo"],
+      "answer": "Yo soy el pan de vida",
+      "explanation": "Jn 6,35: este discurso sigue a la multiplicación de los panes en el desierto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué responde Simón Pedro cuando Jesús pregunta a los Doce si también ellos quieren marcharse, en Juan 6?",
+      "options": ["Que necesita tiempo para decidir junto a los demás", "Que prefiere volver a su antiguo oficio de pescador", "«Señor, ¿a quién vamos a acudir? Tú tienes palabras de vida eterna»"],
+      "correct": 2,
+      "hint": "Añade: «nosotros creemos y sabemos que tú eres el Santo de Dios».",
+      "explanation": "Jn 6,68: «Señor, ¿a quién vamos a acudir? Tú tienes palabras de vida eterna»."
+    },
+    {
+      "type": "gap",
+      "text": "Tú tienes palabras de vida ___.",
+      "options": ["eterna", "nueva", "verdadera"],
+      "answer": "eterna",
+      "explanation": "Jn 6,68: la fidelidad de Pedro reconoce que solo Jesús tiene palabras de vida eterna."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jn 6,68 · La fidelidad de Pedro",
+      "direction": "es-es",
+      "tiles": ["Tú", "tienes", "palabras", "de", "vida", "eterna", "nueva", "verdadera"],
+      "answer": "Tú tienes palabras de vida eterna",
+      "explanation": "Jn 6,68: la fidelidad de Pedro reconoce que solo Jesús tiene palabras de vida eterna."
+    }
+  ]
+}

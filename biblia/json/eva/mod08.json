@@ -1,0 +1,251 @@
+{
+  "id": "eva-mod08",
+  "module": 8,
+  "title": "Lucas III — Zaqueo, la Pasión y la Resurrección",
+  "subtitle": "Lucas 19–24",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué le dice Jesús a Zaqueo, subido a un sicomoro para verlo pasar, en Lucas 19?",
+      "options": ["«Zaqueo, date prisa y baja, porque es necesario que hoy me quede en tu casa»", "Que baje solo si está dispuesto a repartir toda su riqueza", "Que espere a que termine de predicar para hablar con él"],
+      "correct": 0,
+      "hint": "Zaqueo era «jefe de publicanos y rico», pero «pequeño de estatura».",
+      "explanation": "Lc 19,5: «Zaqueo, date prisa y baja, porque es necesario que hoy me quede en tu casa»."
+    },
+    {
+      "type": "gap",
+      "text": "Zaqueo, date prisa y baja, porque es necesario que hoy me quede en tu ___.",
+      "options": ["casa", "pueblo", "camino"],
+      "answer": "casa",
+      "explanation": "Lc 19,5: este encuentro con Zaqueo muestra que nadie está fuera del alcance de la misericordia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 19,5 · El encuentro con Zaqueo",
+      "direction": "es-es",
+      "tiles": ["Es", "necesario", "que", "hoy", "me", "quede", "en", "tu", "casa", "pueblo", "camino"],
+      "answer": "Es necesario que hoy me quede en tu casa",
+      "explanation": "Lc 19,5: este encuentro con Zaqueo muestra que nadie está fuera del alcance de la misericordia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Hoy me quede en tu casa", "es": "El encuentro de Jesús con Zaqueo" },
+        { "en": "Buscar y salvar lo que estaba perdido", "es": "El sentido de la misión de Jesús" },
+        { "en": "Haced esto en memoria mía", "es": "La institución de la Eucaristía en Lucas" },
+        { "en": "Perdónalos, porque no saben lo que hacen", "es": "La primera palabra de Jesús en la cruz" },
+        { "en": "Hoy estarás conmigo en el paraíso", "es": "La promesa al buen ladrón" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo resume Jesús el sentido de su visita a la casa de Zaqueo, en Lucas 19?",
+      "options": ["Que ha venido solo a comer y descansar del camino", "«El Hijo del hombre ha venido a buscar y a salvar lo que estaba perdido»", "Que prefiere no comprometerse con la conversión de Zaqueo"],
+      "correct": 1,
+      "hint": "Antes dice: «hoy ha sido la salvación de esta casa».",
+      "explanation": "Lc 19,10: «el Hijo del hombre ha venido a buscar y a salvar lo que estaba perdido»."
+    },
+    {
+      "type": "gap",
+      "text": "El Hijo del hombre ha venido a buscar y a salvar lo que estaba ___.",
+      "options": ["perdido", "olvidado", "solo"],
+      "answer": "perdido",
+      "explanation": "Lc 19,10: esta frase resume el sentido de toda la misión de Jesús."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 19,10 · La misión de Jesús",
+      "direction": "es-es",
+      "tiles": ["Ha", "venido", "a", "buscar", "y", "a", "salvar", "lo", "que", "estaba", "perdido", "olvidado"],
+      "answer": "Ha venido a buscar y a salvar lo que estaba perdido",
+      "explanation": "Lc 19,10: esta frase resume el sentido de toda la misión de Jesús."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué añade Lucas, de forma propia, a las palabras de Jesús sobre el pan en la última cena, en Lucas 22?",
+      "options": ["Que ese pan debe repartirse solo entre los doce apóstoles", "Que conviene ayunar antes de comer ese pan", "«Haced esto en memoria mía»"],
+      "correct": 2,
+      "hint": "Lo dice justo después de decir «esto es mi cuerpo, que se entrega por vosotros».",
+      "explanation": "Lc 22,19: «esto es mi cuerpo, que se entrega por vosotros; haced esto en memoria mía»."
+    },
+    {
+      "type": "gap",
+      "text": "Esto es mi cuerpo, que se entrega por vosotros; haced esto en ___ mía.",
+      "options": ["memoria", "honor", "nombre"],
+      "answer": "memoria",
+      "explanation": "Lc 22,19: este mandato propio de Lucas convierte la cena en memorial permanente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 22,19 · La institución de la Eucaristía",
+      "direction": "es-es",
+      "tiles": ["Haced", "esto", "en", "memoria", "mía", "honor", "nombre"],
+      "answer": "Haced esto en memoria mía",
+      "explanation": "Lc 22,19: este mandato propio de Lucas convierte la cena en memorial permanente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "En tus manos encomiendo mi espíritu", "es": "Lucas 23,46" },
+        { "en": "No está aquí, ha resucitado", "es": "Lucas 24,6" },
+        { "en": "Ardía nuestro corazón", "es": "Lucas 24,32" },
+        { "en": "Le echó una mirada a Pedro", "es": "Lucas 22,61" },
+        { "en": "Haced esto en memoria mía", "es": "Lucas 22,19" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ocurre justo después de que Pedro niega por tercera vez conocer a Jesús, en Lucas 22?",
+      "options": ["«El Señor, volviéndose, le echó una mirada a Pedro», que se acuerda de su aviso", "Los soldados arrestan a Pedro junto con Jesús", "Jesús le pide explicaciones delante de los demás discípulos"],
+      "correct": 0,
+      "hint": "Justo antes había cantado un gallo, cumpliendo lo anunciado.",
+      "explanation": "Lc 22,61: «el Señor, volviéndose, le echó una mirada a Pedro, y Pedro se acordó de la palabra»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor, volviéndose, le echó una ___ a Pedro.",
+      "options": ["mirada", "palabra", "señal"],
+      "answer": "mirada",
+      "explanation": "Lc 22,61: esta mirada hace que Pedro recuerde el aviso de Jesús y llore amargamente."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "Zaqueo", "es": "Era jefe de publicanos y se sube a un sicomoro por su baja estatura" },
+        { "en": "La negación de Pedro", "es": "Ocurre tres veces antes de que cante el gallo" },
+        { "en": "El buen ladrón", "es": "Está crucificado junto a Jesús y reconoce su inocencia" },
+        { "en": "La muerte de Jesús", "es": "Va acompañada del velo del templo rasgado" },
+        { "en": "Los discípulos de Emaús", "es": "Reconocen a Jesús al partir el pan" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué dice Jesús en la cruz sobre quienes lo están crucificando, en Lucas 23?",
+      "options": ["Que merecen el castigo por lo que están haciendo", "«Padre, perdónalos, porque no saben lo que hacen»", "Que confía en que la justicia humana los condene"],
+      "correct": 1,
+      "hint": "Lo dice mientras «hacían lotes con sus ropas» a sus pies.",
+      "explanation": "Lc 23,34: «Padre, perdónalos, porque no saben lo que hacen»."
+    },
+    {
+      "type": "gap",
+      "text": "Padre, perdónalos, porque no saben lo que ___.",
+      "options": ["hacen", "dicen", "piensan"],
+      "answer": "hacen",
+      "explanation": "Lc 23,34: este perdón desde la cruz extiende el amor incluso a los propios verdugos."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 23,34 · El perdón desde la cruz",
+      "direction": "es-es",
+      "tiles": ["Padre", "perdónalos", "porque", "no", "saben", "lo", "que", "hacen", "dicen", "piensan"],
+      "answer": "Padre perdónalos porque no saben lo que hacen",
+      "explanation": "Lc 23,34: este perdón desde la cruz extiende el amor incluso a los propios verdugos."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Jesús al buen ladrón crucificado junto a él, en Lucas 23?",
+      "options": ["Que su alma vagará hasta el día del juicio final", "Que primero debe hacer penitencia antes de ser perdonado", "«En verdad te digo: hoy estarás conmigo en el paraíso»"],
+      "correct": 2,
+      "hint": "El ladrón le había pedido: «acuérdate de mí cuando llegues a tu reino».",
+      "explanation": "Lc 23,43: «en verdad te digo: hoy estarás conmigo en el paraíso»."
+    },
+    {
+      "type": "gap",
+      "text": "En verdad te digo: hoy estarás conmigo en el ___.",
+      "options": ["paraíso", "cielo", "reino"],
+      "answer": "paraíso",
+      "explanation": "Lc 23,43: esta promesa revela que la salvación llega hasta el último instante."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 23,43 · La promesa al buen ladrón",
+      "direction": "es-es",
+      "tiles": ["Hoy", "estarás", "conmigo", "en", "el", "paraíso", "cielo", "reino"],
+      "answer": "Hoy estarás conmigo en el paraíso",
+      "explanation": "Lc 23,43: esta promesa revela que la salvación llega hasta el último instante."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cuáles son las últimas palabras de Jesús en la cruz, según Lucas 23?",
+      "options": ["«Padre, a tus manos encomiendo mi espíritu»", "Ningún grito, muere en total silencio", "Un reproche final a quienes lo han condenado"],
+      "correct": 0,
+      "hint": "Las dice «clamando con voz potente», justo antes de expirar.",
+      "explanation": "Lc 23,46: «Padre, a tus manos encomiendo mi espíritu»."
+    },
+    {
+      "type": "gap",
+      "text": "Padre, a tus manos encomiendo mi ___.",
+      "options": ["espíritu", "vida", "alma"],
+      "answer": "espíritu",
+      "explanation": "Lc 23,46: esta entrega final expresa la confianza total de Jesús en el Padre."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 23,46 · La entrega final",
+      "direction": "es-es",
+      "tiles": ["Padre", "a", "tus", "manos", "encomiendo", "mi", "espíritu", "vida", "alma"],
+      "answer": "Padre a tus manos encomiendo mi espíritu",
+      "explanation": "Lc 23,46: esta entrega final expresa la confianza total de Jesús en el Padre."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La conversión de Zaqueo", "es": "Muestra que nadie está fuera del alcance de la misericordia" },
+        { "en": "El perdón desde la cruz", "es": "Extiende el amor incluso a los propios verdugos" },
+        { "en": "La promesa al buen ladrón", "es": "Revela que la salvación llega hasta el último instante" },
+        { "en": "El encuentro en Emaús", "es": "Muestra que Jesús se hace reconocible al partir el pan" },
+        { "en": "La entrega final del espíritu", "es": "Expresa la confianza total de Jesús en el Padre" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué preguntan los dos hombres de vestiduras refulgentes a las mujeres en el sepulcro, en Lucas 24?",
+      "options": ["Por qué han llegado tan temprano al sepulcro", "«¿Por qué buscáis entre los muertos al que vive? No está aquí, ha resucitado»", "Quién ha movido la piedra del sepulcro"],
+      "correct": 1,
+      "hint": "Las mujeres quedan «despavoridas y con las caras mirando al suelo».",
+      "explanation": "Lc 24,5-6: «¿por qué buscáis entre los muertos al que vive? No está aquí. Ha resucitado»."
+    },
+    {
+      "type": "gap",
+      "text": "¿Por qué buscáis entre los muertos al que ___?",
+      "options": ["vive", "reina", "habla"],
+      "answer": "vive",
+      "explanation": "Lc 24,5: esta pregunta anuncia la resurrección a las mujeres en el sepulcro."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 24,5 · El anuncio en el sepulcro",
+      "direction": "es-es",
+      "tiles": ["Por", "qué", "buscáis", "entre", "los", "muertos", "al", "que", "vive", "reina", "habla"],
+      "answer": "Por qué buscáis entre los muertos al que vive",
+      "explanation": "Lc 24,5: esta pregunta anuncia la resurrección a las mujeres en el sepulcro."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué se dicen los discípulos de Emaús al reconocer a Jesús al partir el pan, en Lucas 24?",
+      "options": ["Que debían haberlo reconocido antes por su forma de caminar", "Que prefieren no contarlo a los demás discípulos", "«¿No ardía nuestro corazón mientras nos hablaba por el camino?»"],
+      "correct": 2,
+      "hint": "Justo entonces, Jesús «desapareció de su vista».",
+      "explanation": "Lc 24,32: «¿no ardía nuestro corazón mientras nos hablaba por el camino y nos explicaba las Escrituras?»."
+    },
+    {
+      "type": "gap",
+      "text": "¿No ardía nuestro ___ mientras nos hablaba por el camino?",
+      "options": ["corazón", "espíritu", "ánimo"],
+      "answer": "corazón",
+      "explanation": "Lc 24,32: este encuentro en Emaús muestra que Jesús se hace reconocible al partir el pan."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Lc 24,32 · El camino de Emaús",
+      "direction": "es-es",
+      "tiles": ["No", "ardía", "nuestro", "corazón", "mientras", "nos", "hablaba", "por", "el", "camino", "espíritu", "ánimo"],
+      "answer": "No ardía nuestro corazón mientras nos hablaba por el camino",
+      "explanation": "Lc 24,32: este encuentro en Emaús muestra que Jesús se hace reconocible al partir el pan."
+    }
+  ]
+}
