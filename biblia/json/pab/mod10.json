@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod10",
+  "module": 10,
+  "title": "1 Tesalonicenses — La Esperanza de la Resurrección y la Vigilancia",
+  "subtitle": "1 Tesalonicenses 1–5",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué recuerda Pablo con gratitud sobre los tesalonicenses al comenzar la carta, en 1 Tesalonicenses 1?",
+      "options": ["«La actividad de vuestra fe, el esfuerzo de vuestro amor y la firmeza de vuestra esperanza»", "Solo su generosidad económica hacia la misión", "Su conocimiento teológico avanzado"],
+      "correct": 0,
+      "hint": "Lo hace «sin cesar», en sus oraciones por ellos.",
+      "explanation": "1Ts 1,3: «la actividad de vuestra fe, el esfuerzo de vuestro amor y la firmeza de vuestra esperanza en Jesucristo nuestro Señor»."
+    },
+    {
+      "type": "gap",
+      "text": "La actividad de vuestra fe, el esfuerzo de vuestro amor y la firmeza de vuestra ___.",
+      "options": ["esperanza", "paciencia", "confianza"],
+      "answer": "esperanza",
+      "explanation": "1Ts 1,3: este recuerdo agradecido de Pablo nace de ver la fe hecha obra concreta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Ts 1,3 · Fe, amor y esperanza",
+      "direction": "es-es",
+      "tiles": ["La", "firmeza", "de", "vuestra", "esperanza", "en", "Jesucristo", "paciencia", "confianza"],
+      "answer": "La firmeza de vuestra esperanza en Jesucristo",
+      "explanation": "1Ts 1,3: este recuerdo agradecido de Pablo nace de ver la fe hecha obra concreta."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Actividad de la fe, esfuerzo del amor, firmeza de la esperanza", "es": "El recuerdo agradecido de Pablo por los tesalonicenses" },
+        { "en": "Nuestras propias personas", "es": "El afecto entrañable de Pablo por la comunidad" },
+        { "en": "No os aflijáis como los que no tienen esperanza", "es": "El consuelo ante la muerte de los seres queridos" },
+        { "en": "Jesús murió y resucitó", "es": "El fundamento de la esperanza en la resurrección" },
+        { "en": "Como un ladrón en la noche", "es": "La venida imprevisible del Señor" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Hasta dónde llegó el afecto de Pablo y sus compañeros por los tesalonicenses, en 1 Tesalonicenses 2?",
+      "options": ["Se limitó estrictamente a la predicación formal", "«Deseábamos entregaros no solo el Evangelio de Dios, sino hasta nuestras propias personas»", "Prefirieron mantener siempre cierta distancia"],
+      "correct": 1,
+      "hint": "Añade que esto fue posible «porque os habíais ganado nuestro amor».",
+      "explanation": "1Ts 2,8: «deseábamos entregaros no solo el Evangelio de Dios, sino hasta nuestras propias personas»."
+    },
+    {
+      "type": "gap",
+      "text": "Deseábamos entregaros no solo el Evangelio de Dios, sino hasta nuestras propias ___.",
+      "options": ["personas", "vidas", "fuerzas"],
+      "answer": "personas",
+      "explanation": "1Ts 2,8: este afecto pastoral de Pablo va más allá de la predicación formal."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Ts 2,8 · Nuestras propias personas",
+      "direction": "es-es",
+      "tiles": ["No", "solo", "el", "Evangelio", "sino", "nuestras", "propias", "personas", "vidas", "fuerzas"],
+      "answer": "No solo el Evangelio sino nuestras propias personas",
+      "explanation": "1Ts 2,8: este afecto pastoral de Pablo va más allá de la predicación formal."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué escribe Pablo a los tesalonicenses sobre la suerte de los difuntos, en 1 Tesalonicenses 4?",
+      "options": ["Para incrementar el temor ante la muerte", "Porque prefiere no tratar el tema abiertamente", "«Para que no os aflijáis como los que no tienen esperanza»"],
+      "correct": 2,
+      "hint": "Comienza diciendo: «no queremos que ignoréis la suerte de los difuntos».",
+      "explanation": "1Ts 4,13: «para que no os aflijáis como los que no tienen esperanza»."
+    },
+    {
+      "type": "gap",
+      "text": "No queremos que ignoréis la suerte de los difuntos para que no os ___ como los que no tienen esperanza.",
+      "options": ["aflijáis", "asustéis", "confundáis"],
+      "answer": "aflijáis",
+      "explanation": "1Ts 4,13: este consuelo ante la muerte de los seres queridos es propio de la esperanza cristiana."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Ts 4,13 · El consuelo ante la muerte",
+      "direction": "es-es",
+      "tiles": ["Para", "que", "no", "os", "aflijáis", "como", "los", "que", "no", "tienen", "esperanza", "asustéis", "confundáis"],
+      "answer": "Para que no os aflijáis como los que no tienen esperanza",
+      "explanation": "1Ts 4,13: este consuelo ante la muerte de los seres queridos es propio de la esperanza cristiana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Descenderá del cielo... al encuentro del Señor", "es": "1 Tesalonicenses 4,16-17" },
+        { "en": "Estad siempre alegres", "es": "1 Tesalonicenses 5,16" },
+        { "en": "Examinadlo todo, quedaos con lo bueno", "es": "1 Tesalonicenses 5,21" },
+        { "en": "Dios de la paz os santifique totalmente", "es": "1 Tesalonicenses 5,23" },
+        { "en": "No os aflijáis como los que no tienen esperanza", "es": "1 Tesalonicenses 4,13" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué relación establece Pablo entre la resurrección de Jesús y la de los difuntos cristianos, en 1 Tesalonicenses 4?",
+      "options": ["«Si creemos que Jesús murió y resucitó, de igual modo Dios llevará con él... a los que han muerto»", "Que no existe ninguna relación entre ambas", "Que solo algunos privilegiados resucitarán"],
+      "correct": 0,
+      "hint": "Esta relación es la base de la esperanza que Pablo quiere transmitir.",
+      "explanation": "1Ts 4,14: «si creemos que Jesús murió y resucitó, de igual modo Dios llevará con él... a los que han muerto»."
+    },
+    {
+      "type": "gap",
+      "text": "Si creemos que Jesús murió y ___, de igual modo Dios llevará con él a los que han muerto.",
+      "options": ["resucitó", "volvió", "ascendió"],
+      "answer": "resucitó",
+      "explanation": "1Ts 4,14: este fundamento de la esperanza en la resurrección sostiene el consuelo cristiano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Ts 4,14 · Jesús murió y resucitó",
+      "direction": "es-es",
+      "tiles": ["Jesús", "murió", "y", "resucitó", "volvió", "ascendió"],
+      "answer": "Jesús murió y resucitó",
+      "explanation": "1Ts 4,14: este fundamento de la esperanza en la resurrección sostiene el consuelo cristiano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La primera carta a los Tesalonicenses", "es": "Es posiblemente el escrito más antiguo del Nuevo Testamento" },
+        { "en": "La preocupación por los difuntos", "es": "Responde a la inquietud de una comunidad joven en la fe" },
+        { "en": "La descripción de la venida del Señor", "es": "Usa un lenguaje simbólico típico de la literatura apocalíptica" },
+        { "en": "La incertidumbre sobre el momento final", "es": "Se compara con la llegada repentina de un ladrón" },
+        { "en": "La carta", "es": "Cierra con una serie breve de exhortaciones prácticas" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo el encuentro final de los creyentes con el Señor, en 1 Tesalonicenses 4?",
+      "options": ["Como un evento silencioso y sin ninguna señal visible", "«Descenderá del cielo... seremos llevados... al encuentro del Señor, por los aires»", "Como algo reservado únicamente a los ya fallecidos"],
+      "correct": 1,
+      "hint": "Añade que «así estaremos siempre con el Señor».",
+      "explanation": "1Ts 4,16-17: «descenderá del cielo... seremos llevados con ellos entre nubes al encuentro del Señor, por los aires»."
+    },
+    {
+      "type": "gap",
+      "text": "Seremos llevados... al encuentro del Señor, por los ___.",
+      "options": ["aires", "cielos", "vientos"],
+      "answer": "aires",
+      "explanation": "1Ts 4,17: esta imagen usa un lenguaje simbólico típico de la literatura apocalíptica."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Pablo la llegada del día del Señor, en 1 Tesalonicenses 5?",
+      "options": ["Como un suceso anunciado con mucha antelación", "Como una fiesta programada con fecha exacta", "«Llegará como un ladrón en la noche»"],
+      "correct": 2,
+      "hint": "Añade que sobrevendrá «como los dolores de parto a la que está encinta».",
+      "explanation": "1Ts 5,2: «el Día del Señor llegará como un ladrón en la noche»."
+    },
+    {
+      "type": "gap",
+      "text": "El Día del Señor llegará como un ___ en la noche.",
+      "options": ["ladrón", "relámpago", "viento"],
+      "answer": "ladrón",
+      "explanation": "1Ts 5,2: esta incertidumbre sobre el momento final invita a vivir siempre preparados."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Ts 5,2 · Como un ladrón en la noche",
+      "direction": "es-es",
+      "tiles": ["Llegará", "como", "un", "ladrón", "en", "la", "noche", "relámpago", "viento"],
+      "answer": "Llegará como un ladrón en la noche",
+      "explanation": "1Ts 5,2: esta incertidumbre sobre el momento final invita a vivir siempre preparados."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El recuerdo agradecido de la comunidad", "es": "Nace de ver la fe hecha obra concreta" },
+        { "en": "El afecto pastoral de Pablo", "es": "Va más allá de la predicación formal" },
+        { "en": "La esperanza de la resurrección", "es": "Transforma el duelo cristiano frente a la muerte" },
+        { "en": "La vigilancia ante lo imprevisible", "es": "Invita a vivir siempre preparados" },
+        { "en": "La alegría, la oración y la acción de gracias", "es": "Se convierten en la voluntad de Dios para cada día" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tres actitudes recomienda Pablo para la vida cotidiana del creyente, en 1 Tesalonicenses 5?",
+      "options": ["«Estad siempre alegres. Sed constantes en orar. Dad gracias en toda ocasión»", "Trabajar sin descanso, sin tiempo para la oración", "Evitar cualquier expresión pública de alegría"],
+      "correct": 0,
+      "hint": "Añade que esto «es la voluntad de Dios en Cristo Jesús».",
+      "explanation": "1Ts 5,16-18: «estad siempre alegres. Sed constantes en orar. Dad gracias en toda ocasión»."
+    },
+    {
+      "type": "gap",
+      "text": "Estad siempre ___. Sed constantes en orar.",
+      "options": ["alegres", "firmes", "atentos"],
+      "answer": "alegres",
+      "explanation": "1Ts 5,16: esta alegría, oración y acción de gracias se convierten en la voluntad de Dios para cada día."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Ts 5,16-18 · Alegría, oración y gracias",
+      "direction": "es-es",
+      "tiles": ["Estad", "siempre", "alegres", "sed", "constantes", "en", "orar", "dad", "gracias", "firmes", "atentos"],
+      "answer": "Estad siempre alegres sed constantes en orar dad gracias",
+      "explanation": "1Ts 5,16: esta alegría, oración y acción de gracias se convierten en la voluntad de Dios para cada día."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud pide Pablo frente a las distintas enseñanzas y profecías que circulan en la comunidad, en 1 Tesalonicenses 5?",
+      "options": ["Rechazar de inmediato todo lo que resulte novedoso", "«Examinadlo todo; quedaos con lo bueno»", "Aceptar sin discernimiento cualquier mensaje"],
+      "correct": 1,
+      "hint": "Antes pide: «no despreciéis las profecías».",
+      "explanation": "1Ts 5,21: «examinadlo todo; quedaos con lo bueno»."
+    },
+    {
+      "type": "gap",
+      "text": "Examinadlo todo; quedaos con lo ___.",
+      "options": ["bueno", "cierto", "útil"],
+      "answer": "bueno",
+      "explanation": "1Ts 5,21: este discernimiento sano evita tanto el rechazo total como la aceptación sin criterio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Ts 5,21 · Discernir con criterio",
+      "direction": "es-es",
+      "tiles": ["Examinadlo", "todo", "quedaos", "con", "lo", "bueno", "cierto", "útil"],
+      "answer": "Examinadlo todo quedaos con lo bueno",
+      "explanation": "1Ts 5,21: este discernimiento sano evita tanto el rechazo total como la aceptación sin criterio."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo para los tesalonicenses en su oración final, en 1 Tesalonicenses 5?",
+      "options": ["Que reciban únicamente prosperidad material", "Que eviten cualquier tipo de prueba en el futuro", "«Que el mismo Dios de la paz os santifique totalmente... espíritu, alma y cuerpo»"],
+      "correct": 2,
+      "hint": "Añade que esto dure «hasta la venida de nuestro Señor Jesucristo».",
+      "explanation": "1Ts 5,23: «que el mismo Dios de la paz os santifique totalmente, y que todo vuestro espíritu, alma y cuerpo, se mantenga sin reproche»."
+    },
+    {
+      "type": "gap",
+      "text": "Que el mismo Dios de la paz os santifique ___.",
+      "options": ["totalmente", "plenamente", "eternamente"],
+      "answer": "totalmente",
+      "explanation": "1Ts 5,23: esta oración final pide la santificación completa del creyente hasta la venida del Señor."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Ts 5,23 · Santificados totalmente",
+      "direction": "es-es",
+      "tiles": ["Que", "el", "mismo", "Dios", "de", "la", "paz", "os", "santifique", "plenamente", "eternamente"],
+      "answer": "Que el mismo Dios de la paz os santifique",
+      "explanation": "1Ts 5,23: esta oración final pide la santificación completa del creyente hasta la venida del Señor."
+    }
+  ]
+}

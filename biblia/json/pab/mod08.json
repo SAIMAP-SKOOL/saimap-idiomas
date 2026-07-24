@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod08",
+  "module": 8,
+  "title": "Filipenses — La Alegría en Cristo y el Himno de la Humildad",
+  "subtitle": "Filipenses 1–4",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo resume Pablo el sentido de su propia vida y de la muerte, en Filipenses 1?",
+      "options": ["«Para mí la vida es Cristo y el morir una ganancia»", "Que la muerte representa la mayor de las pérdidas", "Que prefiere evitar pensar en ambas cosas"],
+      "correct": 0,
+      "hint": "Añade que se encuentra ante una difícil elección: «no sé qué escoger».",
+      "explanation": "Flp 1,21: «para mí la vida es Cristo y el morir una ganancia»."
+    },
+    {
+      "type": "gap",
+      "text": "Para mí la vida es Cristo y el morir una ___.",
+      "options": ["ganancia", "pérdida", "duda"],
+      "answer": "ganancia",
+      "explanation": "Flp 1,21: esta frase resume el sentido de la vida y la muerte para Pablo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flp 1,21 · La vida es Cristo",
+      "direction": "es-es",
+      "tiles": ["Para", "mí", "la", "vida", "es", "Cristo", "pérdida", "duda"],
+      "answer": "Para mí la vida es Cristo",
+      "explanation": "Flp 1,21: esta frase resume el sentido de la vida y la muerte para Pablo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "La vida es Cristo", "es": "El sentido de la vida y la muerte para Pablo" },
+        { "en": "Se despojó de sí mismo", "es": "La humillación voluntaria de Cristo" },
+        { "en": "Toda rodilla se doble", "es": "La exaltación de Cristo tras su humillación" },
+        { "en": "Excelencia del conocimiento de Cristo", "es": "El valor supremo de conocer a Cristo" },
+        { "en": "Corro hacia la meta", "es": "La imagen de la carrera espiritual" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Cristo, siendo de condición divina, según el himno de Filipenses 2?",
+      "options": ["Retiene con firmeza su igualdad con Dios ante todo", "«Se despojó de sí mismo tomando la condición de esclavo»", "Exige ser reconocido como Dios desde el principio"],
+      "correct": 1,
+      "hint": "Añade que se «humilló a sí mismo, hecho obediente hasta la muerte».",
+      "explanation": "Flp 2,6-7: «se despojó de sí mismo tomando la condición de esclavo»."
+    },
+    {
+      "type": "gap",
+      "text": "Se despojó de sí mismo tomando la condición de ___.",
+      "options": ["esclavo", "siervo", "hijo"],
+      "answer": "esclavo",
+      "explanation": "Flp 2,7: esta humillación voluntaria de Cristo se convierte en modelo de vida para el creyente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flp 2,7 · La humillación de Cristo",
+      "direction": "es-es",
+      "tiles": ["Se", "despojó", "de", "sí", "mismo", "tomando", "la", "condición", "de", "esclavo", "siervo", "hijo"],
+      "answer": "Se despojó de sí mismo tomando la condición de esclavo",
+      "explanation": "Flp 2,7: esta humillación voluntaria de Cristo se convierte en modelo de vida para el creyente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué hace Dios en respuesta a la humillación de Cristo hasta la muerte de cruz, en Filipenses 2?",
+      "options": ["Lo deja en el mismo estado, sin ninguna respuesta especial", "Solo lo recuerda entre los justos del pasado", "«Lo exaltó sobre todo... de modo que al nombre de Jesús toda rodilla se doble»"],
+      "correct": 2,
+      "hint": "Añade que «toda lengua proclame: Jesucristo es Señor».",
+      "explanation": "Flp 2,9-10: «Dios lo exaltó sobre todo... de modo que al nombre de Jesús toda rodilla se doble»."
+    },
+    {
+      "type": "gap",
+      "text": "Al nombre de Jesús toda ___ se doble.",
+      "options": ["rodilla", "lengua", "cabeza"],
+      "answer": "rodilla",
+      "explanation": "Flp 2,10: esta exaltación de Cristo sigue a su humillación voluntaria."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flp 2,10 · Toda rodilla se doble",
+      "direction": "es-es",
+      "tiles": ["Al", "nombre", "de", "Jesús", "toda", "rodilla", "se", "doble", "lengua", "cabeza"],
+      "answer": "Al nombre de Jesús toda rodilla se doble",
+      "explanation": "Flp 2,10: esta exaltación de Cristo sigue a su humillación voluntaria."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Alegraos siempre en el Señor", "es": "Filipenses 4,4" },
+        { "en": "La paz de Dios custodiará vuestros corazones", "es": "Filipenses 4,7" },
+        { "en": "Todo lo puedo en aquel que me conforta", "es": "Filipenses 4,13" },
+        { "en": "Mi Dios proveerá a todas vuestras necesidades", "es": "Filipenses 4,19" },
+        { "en": "Toda rodilla se doble", "es": "Filipenses 2,10" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo valora Pablo todo lo que antes consideraba importante, comparado con conocer a Cristo, en Filipenses 3?",
+      "options": ["«Todo lo considero pérdida comparado con la excelencia del conocimiento de Cristo Jesús»", "Que sigue siendo tan valioso como antes", "Que solo una parte debe abandonarse"],
+      "correct": 0,
+      "hint": "Añade que «todo lo considero basura con tal de ganar a Cristo».",
+      "explanation": "Flp 3,8: «todo lo considero pérdida comparado con la excelencia del conocimiento de Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo lo considero pérdida comparado con la excelencia del ___ de Cristo Jesús.",
+      "options": ["conocimiento", "amor", "poder"],
+      "answer": "conocimiento",
+      "explanation": "Flp 3,8: el conocimiento de Cristo como valor supremo relativiza cualquier otro logro humano."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flp 3,8 · La excelencia del conocimiento de Cristo",
+      "direction": "es-es",
+      "tiles": ["La", "excelencia", "del", "conocimiento", "de", "Cristo", "Jesús", "amor", "poder"],
+      "answer": "La excelencia del conocimiento de Cristo Jesús",
+      "explanation": "Flp 3,8: el conocimiento de Cristo como valor supremo relativiza cualquier otro logro humano."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a los Filipenses", "es": "Es una de las más alegres y afectuosas de Pablo, escrita desde la prisión" },
+        { "en": "El himno cristológico", "es": "Describe el descenso y la exaltación de Cristo" },
+        { "en": "La experiencia de Pablo", "es": "Incluye tanto la abundancia como la privación" },
+        { "en": "La comunidad de Filipos", "es": "Sostuvo económicamente a Pablo en varias ocasiones" },
+        { "en": "La carta", "es": "Se cierra con una doxología de gratitud y confianza" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Pablo su propio esfuerzo espiritual, en Filipenses 3?",
+      "options": ["Con la de alguien que ya ha llegado a su destino final", "«Corro hacia la meta, hacia el premio, al cual me llama Dios»", "Con la de alguien que descansa tras el esfuerzo inicial"],
+      "correct": 1,
+      "hint": "Antes dice que se olvida «de lo que queda atrás».",
+      "explanation": "Flp 3,14: «corro hacia la meta, hacia el premio, al cual me llama Dios desde arriba en Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "Corro hacia la meta, hacia el ___, al cual me llama Dios.",
+      "options": ["premio", "cielo", "fin"],
+      "answer": "premio",
+      "explanation": "Flp 3,14: esta imagen de la carrera describe el esfuerzo espiritual constante de Pablo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flp 3,14 · La carrera hacia la meta",
+      "direction": "es-es",
+      "tiles": ["Corro", "hacia", "la", "meta", "hacia", "el", "premio", "cielo", "fin"],
+      "answer": "Corro hacia la meta hacia el premio",
+      "explanation": "Flp 3,14: esta imagen de la carrera describe el esfuerzo espiritual constante de Pablo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué invitación repite Pablo dos veces en Filipenses 4?",
+      "options": ["Que se mantengan siempre serios ante las dificultades", "Que eviten mostrar sus emociones en público", "«Alegraos siempre en el Señor; os lo repito, alegraos»"],
+      "correct": 2,
+      "hint": "Añade que «el Señor está cerca».",
+      "explanation": "Flp 4,4: «alegraos siempre en el Señor; os lo repito, alegraos»."
+    },
+    {
+      "type": "gap",
+      "text": "Alegraos siempre en el Señor; os lo repito, ___.",
+      "options": ["alegraos", "confiad", "esperad"],
+      "answer": "alegraos",
+      "explanation": "Flp 4,4: esta alegría constante no depende de las circunstancias externas."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Pablo a quienes presentan sus peticiones a Dios sin angustiarse, en Filipenses 4?",
+      "options": ["«La paz de Dios, que supera todo juicio, custodiará vuestros corazones»", "Que sus problemas desaparecerán de inmediato", "Que ya no necesitarán volver a orar"],
+      "correct": 0,
+      "hint": "Antes dice: «nada os preocupe... con acción de gracias».",
+      "explanation": "Flp 4,6-7: «la paz de Dios, que supera todo juicio, custodiará vuestros corazones y vuestros pensamientos en Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "La paz de Dios... custodiará vuestros corazones y vuestros pensamientos en ___ Jesús.",
+      "options": ["Cristo", "el Señor", "Dios"],
+      "answer": "Cristo",
+      "explanation": "Flp 4,7: esta paz responde a la oración confiada, no a la ausencia de problemas."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flp 4,7 · La paz que custodia el corazón",
+      "direction": "es-es",
+      "tiles": ["La", "paz", "de", "Dios", "custodiará", "vuestros", "corazones", "mentes", "almas"],
+      "answer": "La paz de Dios custodiará vuestros corazones",
+      "explanation": "Flp 4,7: esta paz responde a la oración confiada, no a la ausencia de problemas."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La humildad de Cristo", "es": "Se convierte en modelo de vida para el creyente" },
+        { "en": "El conocimiento de Cristo como valor supremo", "es": "Relativiza cualquier otro logro humano" },
+        { "en": "La alegría constante", "es": "No depende de las circunstancias externas" },
+        { "en": "La paz que custodia el corazón", "es": "Responde a la oración confiada, no a la ausencia de problemas" },
+        { "en": "La fuerza en Cristo", "es": "Capacita para afrontar tanto la abundancia como la escasez" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pablo sobre su capacidad de afrontar cualquier circunstancia, en Filipenses 4?",
+      "options": ["Que depende únicamente de su propio carácter fuerte", "«Todo lo puedo en aquel que me conforta»", "Que solo puede afrontar las situaciones fáciles"],
+      "correct": 1,
+      "hint": "Antes menciona que sabe adaptarse «al hambre, a la abundancia y a la privación».",
+      "explanation": "Flp 4,13: «todo lo puedo en aquel que me conforta»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo lo puedo en aquel que me ___.",
+      "options": ["conforta", "ayuda", "guía"],
+      "answer": "conforta",
+      "explanation": "Flp 4,13: esta fuerza en Cristo capacita para afrontar tanto la abundancia como la escasez."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flp 4,13 · La fuerza en Cristo",
+      "direction": "es-es",
+      "tiles": ["Todo", "lo", "puedo", "en", "aquel", "que", "me", "conforta", "ayuda", "guía"],
+      "answer": "Todo lo puedo en aquel que me conforta",
+      "explanation": "Flp 4,13: esta fuerza en Cristo capacita para afrontar tanto la abundancia como la escasez."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa hace Pablo a los filipenses tras agradecer su generosidad, en Filipenses 4?",
+      "options": ["Que deberán esperar mucho tiempo para ver algún fruto", "Que la ayuda dependerá de las circunstancias externas", "«Mi Dios proveerá a todas vuestras necesidades con magnificencia, conforme a su riqueza en Cristo Jesús»"],
+      "correct": 2,
+      "hint": "Antes dice: «tengo lo necesario, y me sobra».",
+      "explanation": "Flp 4,19: «mi Dios proveerá a todas vuestras necesidades con magnificencia, conforme a su riqueza en Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "Mi Dios proveerá a todas vuestras necesidades con ___, conforme a su riqueza en Cristo Jesús.",
+      "options": ["magnificencia", "generosidad", "bondad"],
+      "answer": "magnificencia",
+      "explanation": "Flp 4,19: esta promesa cierra la carta con gratitud y confianza."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flp 4,19 · La provisión de Dios",
+      "direction": "es-es",
+      "tiles": ["Mi", "Dios", "proveerá", "a", "todas", "vuestras", "necesidades", "generosidad", "bondad"],
+      "answer": "Mi Dios proveerá a todas vuestras necesidades",
+      "explanation": "Flp 4,19: esta promesa cierra la carta con gratitud y confianza."
+    }
+  ]
+}

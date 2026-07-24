@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod09",
+  "module": 9,
+  "title": "Colosenses — La Supremacía de Cristo y la Vida Nueva",
+  "subtitle": "Colosenses 1–4",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo la identidad de Cristo en el himno cristológico de Colosenses 1?",
+      "options": ["«Él es imagen del Dios invisible, primogénito de toda criatura»", "Como un ángel superior a los demás seres celestiales", "Como un maestro más entre otros sabios de su tiempo"],
+      "correct": 0,
+      "hint": "Añade que «en él fueron creadas todas las cosas».",
+      "explanation": "Col 1,15: «él es imagen del Dios invisible, primogénito de toda criatura»."
+    },
+    {
+      "type": "gap",
+      "text": "Él es imagen del Dios invisible, ___ de toda criatura.",
+      "options": ["primogénito", "heredero", "elegido"],
+      "answer": "primogénito",
+      "explanation": "Col 1,15: esta identidad divina de Cristo responde a cualquier doctrina que pretenda sustituirlo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Col 1,15 · Imagen del Dios invisible",
+      "direction": "es-es",
+      "tiles": ["Él", "es", "imagen", "del", "Dios", "invisible", "heredero", "elegido"],
+      "answer": "Él es imagen del Dios invisible",
+      "explanation": "Col 1,15: esta identidad divina de Cristo responde a cualquier doctrina que pretenda sustituirlo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Imagen del Dios invisible", "es": "La identidad divina de Cristo" },
+        { "en": "Completo en mi carne", "es": "El sentido de los sufrimientos de Pablo por la Iglesia" },
+        { "en": "Plenitud de la divinidad", "es": "La presencia total de Dios en Cristo" },
+        { "en": "Bienes de arriba", "es": "La orientación de la vida del resucitado en Cristo" },
+        { "en": "Vínculo de la unidad perfecta", "es": "El amor como virtud suprema" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo interpreta Pablo el sentido de sus propios sufrimientos por la Iglesia, en Colosenses 1?",
+      "options": ["Que carecen de todo sentido y solo generan dolor", "«Completo en mi carne lo que falta a los padecimientos de Cristo, en favor de su cuerpo que es la Iglesia»", "Que deben evitarse a toda costa"],
+      "correct": 1,
+      "hint": "Antes dice: «ahora me alegro de mis sufrimientos por vosotros».",
+      "explanation": "Col 1,24: «completo en mi carne lo que falta a los padecimientos de Cristo, en favor de su cuerpo que es la Iglesia»."
+    },
+    {
+      "type": "gap",
+      "text": "Completo en mi carne lo que falta a los padecimientos de Cristo, en favor de su cuerpo que es la ___.",
+      "options": ["Iglesia", "comunidad", "familia"],
+      "answer": "Iglesia",
+      "explanation": "Col 1,24: este sufrimiento ofrecido por la Iglesia adquiere sentido en unión con Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Col 1,24 · Los sufrimientos de Pablo",
+      "direction": "es-es",
+      "tiles": ["Lo", "que", "falta", "a", "los", "padecimientos", "de", "Cristo", "comunidad", "familia"],
+      "answer": "Lo que falta a los padecimientos de Cristo",
+      "explanation": "Col 1,24: este sufrimiento ofrecido por la Iglesia adquiere sentido en unión con Cristo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pablo sobre la presencia de la divinidad en Cristo, en Colosenses 2?",
+      "options": ["Que solo posee una parte limitada de la naturaleza divina", "Que la divinidad se manifiesta únicamente en sus milagros", "«En él habita la plenitud de la divinidad corporalmente»"],
+      "correct": 2,
+      "hint": "Añade que por él «habéis obtenido vuestra plenitud».",
+      "explanation": "Col 2,9: «en él habita la plenitud de la divinidad corporalmente»."
+    },
+    {
+      "type": "gap",
+      "text": "En él habita la plenitud de la ___ corporalmente.",
+      "options": ["divinidad", "gracia", "gloria"],
+      "answer": "divinidad",
+      "explanation": "Col 2,9: esta presencia total de Dios en Cristo es central en la enseñanza de la carta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Col 2,9 · La plenitud de la divinidad",
+      "direction": "es-es",
+      "tiles": ["En", "él", "habita", "la", "plenitud", "de", "la", "divinidad", "gracia", "gloria"],
+      "answer": "En él habita la plenitud de la divinidad",
+      "explanation": "Col 2,9: esta presencia total de Dios en Cristo es central en la enseñanza de la carta."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Imagen del Dios invisible", "es": "Colosenses 1,15" },
+        { "en": "Plenitud de la divinidad", "es": "Colosenses 2,9" },
+        { "en": "Bienes de arriba", "es": "Colosenses 3,1-2" },
+        { "en": "Paz de Cristo en el corazón", "es": "Colosenses 3,15" },
+        { "en": "Constantes en la oración", "es": "Colosenses 4,2" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exhorta Pablo a buscar a quienes han resucitado con Cristo, en Colosenses 3?",
+      "options": ["«Los bienes de arriba, no los de la tierra»", "Riquezas materiales como signo de bendición", "Reconocimiento social dentro de la comunidad"],
+      "correct": 0,
+      "hint": "Añade que «vuestra vida está con Cristo escondida en Dios».",
+      "explanation": "Col 3,1-2: «aspirad a los bienes de arriba, no a los de la tierra»."
+    },
+    {
+      "type": "gap",
+      "text": "Aspirad a los bienes de arriba, no a los de la ___.",
+      "options": ["tierra", "carne", "ley"],
+      "answer": "tierra",
+      "explanation": "Col 3,1: esta orientación define la vida del resucitado en Cristo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Col 3,1 · Los bienes de arriba",
+      "direction": "es-es",
+      "tiles": ["Aspirad", "a", "los", "bienes", "de", "arriba", "carne", "ley"],
+      "answer": "Aspirad a los bienes de arriba",
+      "explanation": "Col 3,1: esta orientación define la vida del resucitado en Cristo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a los Colosenses", "es": "Combate errores doctrinales que restaban centralidad a Cristo" },
+        { "en": "El himno cristológico", "es": "Abre la carta afirmando la supremacía de Cristo sobre toda la creación" },
+        { "en": "La vida nueva en Cristo", "es": "Se describe con la imagen de revestirse de virtudes" },
+        { "en": "El trabajo cotidiano", "es": "Se convierte en servicio ofrecido al Señor" },
+        { "en": "La carta", "es": "Termina con instrucciones prácticas sobre la oración constante" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿De qué virtudes pide Pablo que se revistan los elegidos de Dios, en Colosenses 3?",
+      "options": ["De ambición, firmeza inflexible y autosuficiencia", "«Compasión entrañable, bondad, humildad, mansedumbre, paciencia»", "De prudencia calculadora únicamente"],
+      "correct": 1,
+      "hint": "Añade después: «sobrellevaos mutuamente y perdonaos».",
+      "explanation": "Col 3,12: «revestíos de compasión entrañable, bondad, humildad, mansedumbre, paciencia»."
+    },
+    {
+      "type": "gap",
+      "text": "Revestíos de compasión entrañable, bondad, humildad, mansedumbre y ___.",
+      "options": ["paciencia", "firmeza", "sabiduría"],
+      "answer": "paciencia",
+      "explanation": "Col 3,12: este vestirse de virtudes transforma las relaciones dentro de la comunidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué virtud considera Pablo como «vínculo de la unidad perfecta», en Colosenses 3?",
+      "options": ["La obediencia estricta a las normas comunitarias", "El conocimiento profundo de las Escrituras", "«El amor»"],
+      "correct": 2,
+      "hint": "La sitúa «por encima de todo esto».",
+      "explanation": "Col 3,14: «el amor, que es el vínculo de la unidad perfecta»."
+    },
+    {
+      "type": "gap",
+      "text": "Por encima de todo esto, el ___, que es el vínculo de la unidad perfecta.",
+      "options": ["amor", "perdón", "servicio"],
+      "answer": "amor",
+      "explanation": "Col 3,14: este amor funciona como virtud suprema que une a toda la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Col 3,14 · El vínculo de la unidad",
+      "direction": "es-es",
+      "tiles": ["El", "amor", "que", "es", "el", "vínculo", "de", "la", "unidad", "perfecta", "perdón", "servicio"],
+      "answer": "El amor que es el vínculo de la unidad perfecta",
+      "explanation": "Col 3,14: este amor funciona como virtud suprema que une a toda la comunidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo que reine en el corazón de los creyentes, en Colosenses 3?",
+      "options": ["«Que la paz de Cristo reine en vuestro corazón»", "Un espíritu de constante autoexamen ansioso", "La preocupación por agradar a todos por igual"],
+      "correct": 0,
+      "hint": "Añade que a esa paz «habéis sido convocados en un solo cuerpo».",
+      "explanation": "Col 3,15: «que la paz de Cristo reine en vuestro corazón»."
+    },
+    {
+      "type": "gap",
+      "text": "Que la paz de Cristo reine en vuestro ___.",
+      "options": ["corazón", "hogar", "pueblo"],
+      "answer": "corazón",
+      "explanation": "Col 3,15: esta paz reúne a la comunidad en un solo cuerpo agradecido."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Col 3,15 · La paz de Cristo",
+      "direction": "es-es",
+      "tiles": ["Que", "la", "paz", "de", "Cristo", "reine", "en", "vuestro", "corazón", "hogar", "pueblo"],
+      "answer": "Que la paz de Cristo reine en vuestro corazón",
+      "explanation": "Col 3,15: esta paz reúne a la comunidad en un solo cuerpo agradecido."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La centralidad de Cristo", "es": "Responde a cualquier doctrina que pretenda sustituirlo" },
+        { "en": "El sufrimiento ofrecido por la Iglesia", "es": "Adquiere sentido en unión con Cristo" },
+        { "en": "El vestirse de virtudes", "es": "Transforma las relaciones dentro de la comunidad" },
+        { "en": "El trabajo hecho para el Señor", "es": "Dignifica cualquier tarea, por humilde que sea" },
+        { "en": "La constancia en la oración", "es": "Mantiene despierta la vida espiritual del creyente" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué actitud debe realizarse todo trabajo, según Pablo, en Colosenses 3?",
+      "options": ["Solo por obligación, sin ningún compromiso personal", "«Con toda el alma, como para servir al Señor, y no a los hombres»", "Buscando siempre el reconocimiento de los demás"],
+      "correct": 1,
+      "hint": "Antes pide obedecer «con sencillez y temor del Señor».",
+      "explanation": "Col 3,23: «lo que hacéis, hacedlo con toda el alma, como para servir al Señor, y no a los hombres»."
+    },
+    {
+      "type": "gap",
+      "text": "Lo que hacéis, hacedlo con toda el alma, como para servir al ___.",
+      "options": ["Señor", "prójimo", "mundo"],
+      "answer": "Señor",
+      "explanation": "Col 3,23: este trabajo hecho para el Señor dignifica cualquier tarea, por humilde que sea."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Col 3,23 · El trabajo como servicio al Señor",
+      "direction": "es-es",
+      "tiles": ["Como", "para", "servir", "al", "Señor", "y", "no", "a", "los", "hombres", "prójimo", "mundo"],
+      "answer": "Como para servir al Señor y no a los hombres",
+      "explanation": "Col 3,23: este trabajo hecho para el Señor dignifica cualquier tarea, por humilde que sea."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué recomienda Pablo sobre la práctica de la oración, en Colosenses 4?",
+      "options": ["Que se reserve solo para momentos de crisis", "Que sea breve y ocasional, sin mayor insistencia", "«Sed constantes en la oración; que ella os mantenga en vela, dando gracias a Dios»"],
+      "correct": 2,
+      "hint": "Añade que oren también «por nosotros», por Pablo y sus compañeros.",
+      "explanation": "Col 4,2: «sed constantes en la oración; que ella os mantenga en vela, dando gracias a Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Sed constantes en la ___; que ella os mantenga en vela.",
+      "options": ["oración", "vigilia", "espera"],
+      "answer": "oración",
+      "explanation": "Col 4,2: esta constancia en la oración mantiene despierta la vida espiritual del creyente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Col 4,2 · Constantes en la oración",
+      "direction": "es-es",
+      "tiles": ["Sed", "constantes", "en", "la", "oración", "vigilia", "espera"],
+      "answer": "Sed constantes en la oración",
+      "explanation": "Col 4,2: esta constancia en la oración mantiene despierta la vida espiritual del creyente."
+    }
+  ]
+}

@@ -142,7 +142,7 @@
     {
       "code": "PAB",
       "name": "Corpus Paulino",
-      "sub": "7 módulos · Romanos, 1-2 Corintios, Gálatas y Efesios completos (resto en preparación)",
+      "sub": "17 módulos · Todas las cartas de Pablo y Hebreos — Completo",
       "color": "#4F8B6B",
       "modules": [
         { "n": 1, "title": "Romanos I — La Justificación por la Fe",                    "es": "Romanos I · Justificación (Rm 1–8)",       "file": "pab/mod01.json" },
@@ -151,7 +151,17 @@
         { "n": 4, "title": "1 Corintios II — El Himno al Amor y la Resurrección",       "es": "1 Corintios II · Himno al Amor (1Co 12–16)", "file": "pab/mod04.json" },
         { "n": 5, "title": "2 Corintios — El Consuelo, la Debilidad y la Nueva Creación", "es": "2 Corintios · El Consuelo",              "file": "pab/mod05.json" },
         { "n": 6, "title": "Gálatas — La Libertad Cristiana y el Fruto del Espíritu",   "es": "Gálatas · Libertad Cristiana",             "file": "pab/mod06.json" },
-        { "n": 7, "title": "Efesios — La Salvación por Gracia y la Armadura de Dios",   "es": "Efesios · Salvación por Gracia",           "file": "pab/mod07.json" }
+        { "n": 7, "title": "Efesios — La Salvación por Gracia y la Armadura de Dios",   "es": "Efesios · Salvación por Gracia",           "file": "pab/mod07.json" },
+        { "n": 8, "title": "Filipenses — La Alegría en Cristo y el Himno de la Humildad", "es": "Filipenses · Alegría en Cristo",         "file": "pab/mod08.json" },
+        { "n": 9, "title": "Colosenses — La Supremacía de Cristo y la Vida Nueva",      "es": "Colosenses · Supremacía de Cristo",         "file": "pab/mod09.json" },
+        { "n": 10, "title": "1 Tesalonicenses — La Esperanza de la Resurrección y la Vigilancia", "es": "1 Tesalonicenses · Esperanza",   "file": "pab/mod10.json" },
+        { "n": 11, "title": "2 Tesalonicenses — La Fidelidad Firme ante la Confusión",  "es": "2 Tesalonicenses · Fidelidad Firme",        "file": "pab/mod11.json" },
+        { "n": 12, "title": "1 Timoteo — El Único Mediador y el Buen Combate de la Fe", "es": "1 Timoteo · El Único Mediador",             "file": "pab/mod12.json" },
+        { "n": 13, "title": "2 Timoteo — El Testamento Espiritual de Pablo",            "es": "2 Timoteo · Testamento Espiritual",         "file": "pab/mod13.json" },
+        { "n": 14, "title": "Tito — La Gracia que Educa y Salva",                       "es": "Tito · La Gracia que Educa",                "file": "pab/mod14.json" },
+        { "n": 15, "title": "Filemón — La Fraternidad que Supera la Esclavitud",        "es": "Filemón · La Fraternidad",                  "file": "pab/mod15.json" },
+        { "n": 16, "title": "Hebreos I — Cristo, Palabra Definitiva y Sumo Sacerdote",  "es": "Hebreos I · Sumo Sacerdote (Hb 1–7)",       "file": "pab/mod16.json" },
+        { "n": 17, "title": "Hebreos II — La Fe, la Nube de Testigos y la Perseverancia", "es": "Hebreos II · La Fe (Hb 8–13)",             "file": "pab/mod17.json" }
       ]
     },
     { "code": "CAT", "name": "Cartas Católicas",               "color": "#5B57A6", "locked": true, "moduleCount": 5 },

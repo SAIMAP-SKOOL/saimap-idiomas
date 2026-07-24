@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod17",
+  "module": 17,
+  "title": "Hebreos II — La Fe, la Nube de Testigos y la Perseverancia",
+  "subtitle": "Hebreos 8–13",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué paralelo establece Hebreos entre la muerte humana y el sacrificio de Cristo, en Hebreos 9?",
+      "options": ["«El destino de los hombres es morir una sola vez... de la misma manera, Cristo se ofreció una sola vez»", "Que Cristo debió ofrecerse repetidamente, como los sacerdotes antiguos", "Que no existe ninguna relación entre ambos hechos"],
+      "correct": 0,
+      "hint": "Añade que Cristo «se ofreció una sola vez para quitar los pecados de todos».",
+      "explanation": "Hb 9,27-28: «el destino de los hombres es morir una sola vez... de la misma manera, Cristo se ofreció una sola vez»."
+    },
+    {
+      "type": "gap",
+      "text": "El destino de los hombres es morir una sola vez; y después de la muerte, el ___.",
+      "options": ["juicio", "silencio", "descanso"],
+      "answer": "juicio",
+      "explanation": "Hb 9,27: esta unicidad del sacrificio de Cristo hace innecesaria cualquier repetición ritual."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 9,27 · Morir una sola vez",
+      "direction": "es-es",
+      "tiles": ["El", "destino", "de", "los", "hombres", "es", "morir", "una", "sola", "vez", "silencio", "descanso"],
+      "answer": "El destino de los hombres es morir una sola vez",
+      "explanation": "Hb 9,27: esta unicidad del sacrificio de Cristo hace innecesaria cualquier repetición ritual."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Morir una sola vez", "es": "La unicidad del sacrificio de Cristo" },
+        { "en": "Fijémonos los unos en los otros", "es": "La vida comunitaria de la fe" },
+        { "en": "Fundamento de lo que se espera", "es": "La definición clásica de la fe" },
+        { "en": "Nube de testigos", "es": "El ejemplo de los creyentes que nos precedieron" },
+        { "en": "Jesucristo es el mismo", "es": "La inmutabilidad de Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué recomienda Hebreos sobre la vida en comunidad de los creyentes, en Hebreos 10?",
+      "options": ["Que cada uno viva su fe de manera completamente aislada", "«Fijémonos los unos en los otros para estimularnos a la caridad... no faltemos a las asambleas»", "Que las reuniones comunitarias son opcionales y prescindibles"],
+      "correct": 1,
+      "hint": "Añade que deben animarse «tanto más cuanto más cercano veis el Día».",
+      "explanation": "Hb 10,24-25: «fijémonos los unos en los otros para estimularnos a la caridad y a las buenas obras... no faltemos a las asambleas»."
+    },
+    {
+      "type": "gap",
+      "text": "Fijémonos los unos en los otros para estimularnos a la caridad y a las buenas ___.",
+      "options": ["obras", "palabras", "promesas"],
+      "answer": "obras",
+      "explanation": "Hb 10,24: esta vida comunitaria de la fe se fortalece mirando el ejemplo de los demás."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 10,24 · Estimularnos mutuamente",
+      "direction": "es-es",
+      "tiles": ["Estimularnos", "a", "la", "caridad", "y", "a", "las", "buenas", "obras", "palabras", "promesas"],
+      "answer": "Estimularnos a la caridad y a las buenas obras",
+      "explanation": "Hb 10,24: esta vida comunitaria de la fe se fortalece mirando el ejemplo de los demás."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo define Hebreos la fe en su célebre definición del capítulo 11?",
+      "options": ["Como una opinión personal sin ninguna base real", "Como el resultado de pruebas científicas verificables", "«Fundamento de lo que se espera, y garantía de lo que no se ve»"],
+      "correct": 2,
+      "hint": "Añade que «por ella son recordados los antiguos».",
+      "explanation": "Hb 11,1: «fundamento de lo que se espera, y garantía de lo que no se ve»."
+    },
+    {
+      "type": "gap",
+      "text": "La fe es fundamento de lo que se espera, y ___ de lo que no se ve.",
+      "options": ["garantía", "prueba", "señal"],
+      "answer": "garantía",
+      "explanation": "Hb 11,1: esta fe como certeza de lo que no se ve sostiene la esperanza más allá de la evidencia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 11,1 · La definición de la fe",
+      "direction": "es-es",
+      "tiles": ["Fundamento", "de", "lo", "que", "se", "espera", "prueba", "señal"],
+      "answer": "Fundamento de lo que se espera",
+      "explanation": "Hb 11,1: esta fe como certeza de lo que no se ve sostiene la esperanza más allá de la evidencia."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Fundamento de lo que se espera", "es": "Hebreos 11,1" },
+        { "en": "Nube tan ingente de testigos", "es": "Hebreos 12,1" },
+        { "en": "Fruto apacible de justicia", "es": "Hebreos 12,11" },
+        { "en": "Hospedaron a ángeles", "es": "Hebreos 13,2" },
+        { "en": "Jesucristo es el mismo ayer y hoy", "es": "Hebreos 13,8" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué condición señala Hebreos como necesaria para agradar a Dios, en Hebreos 11?",
+      "options": ["«Sin fe es imposible complacerlo, pues el que se acerca a Dios debe creer que existe»", "El cumplimiento estricto de rituales externos", "La acumulación de conocimiento teológico avanzado"],
+      "correct": 0,
+      "hint": "Añade que Dios «recompensa a quienes lo buscan».",
+      "explanation": "Hb 11,6: «sin fe es imposible complacerlo, pues el que se acerca a Dios debe creer que existe»."
+    },
+    {
+      "type": "gap",
+      "text": "Sin fe es imposible ___.",
+      "options": ["complacerlo", "conocerlo", "alcanzarlo"],
+      "answer": "complacerlo",
+      "explanation": "Hb 11,6: esta condición de la fe es necesaria para acercarse a Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "El capítulo 11", "es": "Repasa la historia de la fe a través de figuras como Noé, Abrahán y Moisés" },
+        { "en": "La imagen de la nube de testigos", "es": "Evoca a los héroes de la fe mencionados en el capítulo anterior" },
+        { "en": "La disciplina o corrección", "es": "Se compara con la que un padre da a un hijo amado" },
+        { "en": "La hospitalidad recomendada", "es": "Recuerda episodios como la visita de los ángeles a Abrahán" },
+        { "en": "La carta a los Hebreos", "es": "Termina con exhortaciones prácticas sobre la vida cotidiana" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen anima Hebreos a perseverar en la fe, en Hebreos 12?",
+      "options": ["Como quien corre sin ningún tipo de meta clara", "«Teniendo una nube tan ingente de testigos, corramos... fijos los ojos en... Jesús»", "Como una carga que conviene abandonar cuanto antes"],
+      "correct": 1,
+      "hint": "Pide «renunciar a todo lo que nos estorba y al pecado que nos asedia».",
+      "explanation": "Hb 12,1-2: «teniendo una nube tan ingente de testigos, corramos, con constancia... fijos los ojos en... Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "Teniendo una nube tan ingente de ___, corramos con constancia.",
+      "options": ["testigos", "ángeles", "profetas"],
+      "answer": "testigos",
+      "explanation": "Hb 12,1: este ejemplo de los creyentes que nos precedieron anima a perseverar en la carrera de la fe."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 12,1 · La nube de testigos",
+      "direction": "es-es",
+      "tiles": ["Una", "nube", "tan", "ingente", "de", "testigos", "ángeles", "profetas"],
+      "answer": "Una nube tan ingente de testigos",
+      "explanation": "Hb 12,1: este ejemplo de los creyentes que nos precedieron anima a perseverar en la carrera de la fe."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué enseña Hebreos sobre el valor de la corrección o disciplina, en Hebreos 12?",
+      "options": ["Que siempre resulta agradable en el momento en que se recibe", "Que carece de todo sentido formativo", "«Ninguna corrección resulta agradable... pero luego produce fruto apacible de justicia»"],
+      "correct": 2,
+      "hint": "Por eso pide «fortalecer las manos débiles» y «robustecer las rodillas vacilantes».",
+      "explanation": "Hb 12,11: «ninguna corrección resulta agradable, en el momento, sino que duele; pero luego produce fruto apacible de justicia»."
+    },
+    {
+      "type": "gap",
+      "text": "Ninguna corrección resulta agradable, en el momento, sino que ___.",
+      "options": ["duele", "pesa", "cuesta"],
+      "answer": "duele",
+      "explanation": "Hb 12,11: esta disciplina que forma el carácter da fruto de justicia con el tiempo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 12,11 · Fruto apacible de justicia",
+      "direction": "es-es",
+      "tiles": ["Produce", "fruto", "apacible", "de", "justicia", "paz", "gozo"],
+      "answer": "Produce fruto apacible de justicia",
+      "explanation": "Hb 12,11: esta disciplina que forma el carácter da fruto de justicia con el tiempo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La unicidad del sacrificio de Cristo", "es": "Hace innecesaria cualquier repetición ritual" },
+        { "en": "La vida de fe compartida en comunidad", "es": "Se fortalece mirando el ejemplo de quienes ya la vivieron" },
+        { "en": "La fe como certeza de lo que no se ve", "es": "Sostiene la esperanza más allá de la evidencia inmediata" },
+        { "en": "La disciplina que forma el carácter", "es": "Da fruto de justicia con el tiempo" },
+        { "en": "La inmutabilidad de Cristo", "es": "Ofrece un punto fijo de confianza en medio del cambio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué motivo da Hebreos para no descuidar la hospitalidad, en Hebreos 13?",
+      "options": ["«Por ella algunos, sin saberlo, hospedaron a ángeles»", "Que resulta socialmente conveniente ante los demás", "Que garantiza beneficios materiales inmediatos"],
+      "correct": 0,
+      "hint": "Lo dice junto al mandato de «conservar el amor fraterno».",
+      "explanation": "Hb 13,2: «no olvidéis la hospitalidad: por ella algunos, sin saberlo, hospedaron a ángeles»."
+    },
+    {
+      "type": "gap",
+      "text": "No olvidéis la hospitalidad: por ella algunos, sin saberlo, hospedaron a ___.",
+      "options": ["ángeles", "reyes", "profetas"],
+      "answer": "ángeles",
+      "explanation": "Hb 13,2: esta hospitalidad recomendada recuerda episodios como la visita de los ángeles a Abrahán."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 13,2 · Hospedaron a ángeles",
+      "direction": "es-es",
+      "tiles": ["Por", "ella", "algunos", "sin", "saberlo", "hospedaron", "a", "ángeles", "reyes", "profetas"],
+      "answer": "Por ella algunos sin saberlo hospedaron a ángeles",
+      "explanation": "Hb 13,2: esta hospitalidad recomendada recuerda episodios como la visita de los ángeles a Abrahán."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promesa cita Hebreos para animar al contentamiento frente a la codicia, en Hebreos 13?",
+      "options": ["Que la riqueza siempre llegará a quien la busca con fe", "«Nunca te dejaré ni te abandonaré»", "Que el dinero no tiene ninguna importancia real"],
+      "correct": 1,
+      "hint": "Después añade: «el Señor es mi auxilio: nada temo».",
+      "explanation": "Hb 13,5: «nunca te dejaré ni te abandonaré»."
+    },
+    {
+      "type": "gap",
+      "text": "Nunca te dejaré ni te ___.",
+      "options": ["abandonaré", "olvidaré", "dejaré"],
+      "answer": "abandonaré",
+      "explanation": "Hb 13,5: esta promesa anima al contentamiento frente a la codicia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 13,5 · Nunca te abandonaré",
+      "direction": "es-es",
+      "tiles": ["Nunca", "te", "dejaré", "ni", "te", "abandonaré", "olvidaré"],
+      "answer": "Nunca te dejaré ni te abandonaré",
+      "explanation": "Hb 13,5: esta promesa anima al contentamiento frente a la codicia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Hebreos sobre la identidad de Jesucristo a través del tiempo, en Hebreos 13?",
+      "options": ["Que se adapta según las circunstancias de cada época", "Que solo permanece fiel a ciertos principios generales", "«Jesucristo es el mismo ayer y hoy y siempre»"],
+      "correct": 2,
+      "hint": "Lo dice justo después de pedir imitar la fe de los guías que anunciaron la palabra de Dios.",
+      "explanation": "Hb 13,8: «Jesucristo es el mismo ayer y hoy y siempre»."
+    },
+    {
+      "type": "gap",
+      "text": "Jesucristo es el mismo ayer y hoy y ___.",
+      "options": ["siempre", "mañana", "eternamente"],
+      "answer": "siempre",
+      "explanation": "Hb 13,8: esta inmutabilidad de Cristo ofrece un punto fijo de confianza en medio del cambio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 13,8 · El mismo ayer, hoy y siempre",
+      "direction": "es-es",
+      "tiles": ["Jesucristo", "es", "el", "mismo", "ayer", "y", "hoy", "y", "siempre", "mañana", "eternamente"],
+      "answer": "Jesucristo es el mismo ayer y hoy y siempre",
+      "explanation": "Hb 13,8: esta inmutabilidad de Cristo ofrece un punto fijo de confianza en medio del cambio."
+    }
+  ]
+}

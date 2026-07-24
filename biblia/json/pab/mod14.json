@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod14",
+  "module": 14,
+  "title": "Tito — La Gracia que Educa y Salva",
+  "subtitle": "Tito 1–3",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué principio da Pablo sobre la pureza según la disposición interior de la persona, en Tito 1?",
+      "options": ["«Todo es limpio para los limpios; mas para los impuros y los incrédulos nada hay limpio»", "Que la pureza depende únicamente de normas externas", "Que nadie puede considerarse verdaderamente puro"],
+      "correct": 0,
+      "hint": "Añade que en los impuros «su mente y su conciencia están manchadas».",
+      "explanation": "Tt 1,15: «todo es limpio para los limpios; mas para los impuros y los incrédulos nada hay limpio»."
+    },
+    {
+      "type": "gap",
+      "text": "Todo es limpio para los limpios; mas para los impuros y los incrédulos nada hay ___.",
+      "options": ["limpio", "puro", "bueno"],
+      "answer": "limpio",
+      "explanation": "Tt 1,15: este principio distingue la pureza interior de la mera apariencia externa."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tt 1,15 · La pureza interior",
+      "direction": "es-es",
+      "tiles": ["Todo", "es", "limpio", "para", "los", "limpios", "puro", "bueno"],
+      "answer": "Todo es limpio para los limpios",
+      "explanation": "Tt 1,15: este principio distingue la pureza interior de la mera apariencia externa."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Todo es limpio para los limpios", "es": "La pureza interior frente a la exterior" },
+        { "en": "Lo niegan con sus obras", "es": "La coherencia entre fe y vida" },
+        { "en": "Modelo de buena conducta", "es": "El ejemplo pastoral exigido a Tito" },
+        { "en": "Gracia de Dios que trae la salvación", "es": "El alcance universal de la salvación" },
+        { "en": "Rescatarnos de toda iniquidad", "es": "El propósito redentor de la entrega de Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué contradicción señala Pablo en quienes dicen conocer a Dios pero actúan mal, en Tito 1?",
+      "options": ["Que en realidad no existe ninguna contradicción real", "«Confiesan que conocen a Dios, pero lo niegan con sus obras»", "Que el conocimiento teórico basta, sin necesidad de obras"],
+      "correct": 1,
+      "hint": "Añade que son «incapaces de cualquier obra buena».",
+      "explanation": "Tt 1,16: «confiesan que conocen a Dios, pero lo niegan con sus obras»."
+    },
+    {
+      "type": "gap",
+      "text": "Confiesan que conocen a Dios, pero lo ___ con sus obras.",
+      "options": ["niegan", "olvidan", "traicionan"],
+      "answer": "niegan",
+      "explanation": "Tt 1,16: esta coherencia entre fe y obras es central en la enseñanza de la carta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tt 1,16 · La coherencia entre fe y obras",
+      "direction": "es-es",
+      "tiles": ["Confiesan", "que", "conocen", "a", "Dios", "pero", "lo", "niegan", "con", "sus", "obras", "olvidan", "traicionan"],
+      "answer": "Confiesan que conocen a Dios pero lo niegan con sus obras",
+      "explanation": "Tt 1,16: esta coherencia entre fe y obras es central en la enseñanza de la carta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo a Tito respecto a su propio comportamiento ante la comunidad, en Tito 2?",
+      "options": ["Que se mantenga distante para evitar comparaciones", "Que delegue por completo el ejemplo en los ancianos", "«Muéstrate en todo como un modelo de buena conducta»"],
+      "correct": 2,
+      "hint": "Añade que en la enseñanza debe ser «íntegro y grave».",
+      "explanation": "Tt 2,7: «muéstrate en todo como un modelo de buena conducta»."
+    },
+    {
+      "type": "gap",
+      "text": "Muéstrate en todo como un ___ de buena conducta.",
+      "options": ["modelo", "ejemplo", "espejo"],
+      "answer": "modelo",
+      "explanation": "Tt 2,7: este ejemplo personal del líder refuerza la credibilidad de la enseñanza que transmite."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tt 2,7 · Modelo de buena conducta",
+      "direction": "es-es",
+      "tiles": ["Muéstrate", "en", "todo", "como", "un", "modelo", "de", "buena", "conducta", "ejemplo", "espejo"],
+      "answer": "Muéstrate en todo como un modelo de buena conducta",
+      "explanation": "Tt 2,7: este ejemplo personal del líder refuerza la credibilidad de la enseñanza que transmite."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Modelo de buena conducta", "es": "Tito 2,7" },
+        { "en": "Gracia de Dios que trae la salvación", "es": "Tito 2,11" },
+        { "en": "Nos salvó por su misericordia", "es": "Tito 3,5" },
+        { "en": "Herederos de la vida eterna", "es": "Tito 3,7" },
+        { "en": "Disputas sobre la ley", "es": "Tito 3,9" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿A quiénes alcanza la gracia de Dios que trae la salvación, según Pablo en Tito 2?",
+      "options": ["«Se ha manifestado la gracia de Dios, que trae la salvación para todos los hombres»", "Solo a quienes pertenecen a un pueblo determinado", "Únicamente a quienes ya han demostrado grandes méritos"],
+      "correct": 0,
+      "hint": "Añade que esta gracia enseña a vivir «una vida sobria, justa y piadosa».",
+      "explanation": "Tt 2,11: «se ha manifestado la gracia de Dios, que trae la salvación para todos los hombres»."
+    },
+    {
+      "type": "gap",
+      "text": "Se ha manifestado la gracia de Dios, que trae la ___ para todos los hombres.",
+      "options": ["salvación", "paz", "luz"],
+      "answer": "salvación",
+      "explanation": "Tt 2,11: este alcance universal de la salvación es central en el mensaje de la carta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tt 2,11 · La gracia que salva a todos",
+      "direction": "es-es",
+      "tiles": ["La", "gracia", "de", "Dios", "que", "trae", "la", "salvación", "para", "todos", "los", "hombres", "paz", "luz"],
+      "answer": "La gracia de Dios que trae la salvación para todos los hombres",
+      "explanation": "Tt 2,11: este alcance universal de la salvación es central en el mensaje de la carta."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a Tito", "es": "Pertenece también a las cartas pastorales de Pablo" },
+        { "en": "El encargo de organizar la Iglesia en Creta", "es": "Incluye instituir presbíteros en cada ciudad" },
+        { "en": "El retrato de la vida pasada sin Cristo", "es": "Se describe con dureza como esclavitud a los deseos" },
+        { "en": "El bautismo", "es": "Se describe como «el baño del nuevo nacimiento»" },
+        { "en": "La carta", "es": "Concluye con instrucciones prácticas y saludos personales" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué finalidad se entregó Cristo por nosotros, según Tito 2?",
+      "options": ["Para imponer una nueva serie de obligaciones rituales", "«Para rescatarnos de toda iniquidad y purificar para sí un pueblo... dedicado a las buenas obras»", "Para sustituir por completo la libertad humana"],
+      "correct": 1,
+      "hint": "Esto ocurre mientras «aguardamos la dicha que esperamos».",
+      "explanation": "Tt 2,13-14: «se entregó por nosotros para rescatarnos de toda iniquidad y purificar para sí un pueblo... dedicado a las buenas obras»."
+    },
+    {
+      "type": "gap",
+      "text": "Se entregó por nosotros para rescatarnos de toda ___.",
+      "options": ["iniquidad", "tristeza", "duda"],
+      "answer": "iniquidad",
+      "explanation": "Tt 2,14: este propósito redentor de la entrega de Cristo purifica un pueblo dedicado a las buenas obras."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo el fundamento de la salvación recibida, en Tito 3?",
+      "options": ["Que se basa enteramente en las obras de justicia realizadas antes", "Que depende del esfuerzo constante por merecerla", "«No por las obras de justicia... sino, según su propia misericordia, nos salvó»"],
+      "correct": 2,
+      "hint": "Añade que esto ocurrió «por el baño del nuevo nacimiento».",
+      "explanation": "Tt 3,4-5: «no por las obras de justicia... sino, según su propia misericordia, nos salvó»."
+    },
+    {
+      "type": "gap",
+      "text": "No por las obras de justicia... sino, según su propia ___, nos salvó.",
+      "options": ["misericordia", "ley", "fuerza"],
+      "answer": "misericordia",
+      "explanation": "Tt 3,5: esta salvación no basada en méritos libera de la ansiedad por ganarse el favor de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tt 3,5 · Salvados por misericordia",
+      "direction": "es-es",
+      "tiles": ["Según", "su", "propia", "misericordia", "nos", "salvó", "ley", "fuerza"],
+      "answer": "Según su propia misericordia nos salvó",
+      "explanation": "Tt 3,5: esta salvación no basada en méritos libera de la ansiedad por ganarse el favor de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La coherencia entre fe y obras", "es": "Evita que la confesión de fe se vuelva vacía" },
+        { "en": "El ejemplo personal del líder", "es": "Refuerza la credibilidad de la enseñanza que transmite" },
+        { "en": "La salvación no basada en méritos", "es": "Libera de la ansiedad por ganarse el favor de Dios" },
+        { "en": "La esperanza de la vida eterna", "es": "Da sentido a la vida presente del creyente" },
+        { "en": "La mansedumbre hacia todos", "es": "Refleja la misericordia recibida de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué esperanza reciben los justificados por la gracia de Dios, en Tito 3?",
+      "options": ["«Seamos, en esperanza, herederos de la vida eterna»", "Solo beneficios materiales inmediatos", "El reconocimiento social entre los demás creyentes"],
+      "correct": 0,
+      "hint": "Esto se afirma como «palabra digna de crédito».",
+      "explanation": "Tt 3,7: «justificados por su gracia, seamos, en esperanza, herederos de la vida eterna»."
+    },
+    {
+      "type": "gap",
+      "text": "Justificados por su gracia, seamos, en esperanza, ___ de la vida eterna.",
+      "options": ["herederos", "dueños", "testigos"],
+      "answer": "herederos",
+      "explanation": "Tt 3,7: esta esperanza de la vida eterna da sentido a la vida presente del creyente."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tt 3,7 · Herederos de la vida eterna",
+      "direction": "es-es",
+      "tiles": ["Herederos", "de", "la", "vida", "eterna", "dueños", "testigos"],
+      "answer": "Herederos de la vida eterna",
+      "explanation": "Tt 3,7: esta esperanza de la vida eterna da sentido a la vida presente del creyente."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tipo de discusiones pide Pablo evitar a Tito, en Tito 3?",
+      "options": ["Cualquier forma de enseñanza doctrinal", "«Disquisiciones estúpidas, genealogías, polémicas y disputas sobre la ley»", "Toda conversación con quienes piensan diferente"],
+      "correct": 1,
+      "hint": "Añade que son «inútiles y vanas».",
+      "explanation": "Tt 3,9: «disquisiciones estúpidas, genealogías, polémicas y disputas sobre la ley»."
+    },
+    {
+      "type": "gap",
+      "text": "Evita disquisiciones estúpidas, genealogías, polémicas y disputas sobre la ___.",
+      "options": ["ley", "fe", "verdad"],
+      "answer": "ley",
+      "explanation": "Tt 3,9: esta advertencia protege a la comunidad de discusiones estériles."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tt 3,9 · Evitar disputas inútiles",
+      "direction": "es-es",
+      "tiles": ["Evita", "disquisiciones", "estúpidas", "genealogías", "polémicas", "y", "disputas", "fe", "verdad"],
+      "answer": "Evita disquisiciones estúpidas genealogías polémicas y disputas",
+      "explanation": "Tt 3,9: esta advertencia protege a la comunidad de discusiones estériles."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud pide Pablo hacia las demás personas en general, en Tito 3?",
+      "options": ["Mantener siempre cierta distancia prudente", "Responder con la misma dureza que se recibe", "«No hablen mal de nadie ni busquen riñas; que sean condescendientes y amables con todo el mundo»"],
+      "correct": 2,
+      "hint": "Recuerda antes cómo eran «esclavos de deseos y placeres» sin Cristo.",
+      "explanation": "Tt 3,2: «no hablen mal de nadie ni busquen riñas; que sean condescendientes y amables con todo el mundo»."
+    },
+    {
+      "type": "gap",
+      "text": "Que sean condescendientes y ___ con todo el mundo.",
+      "options": ["amables", "pacientes", "generosos"],
+      "answer": "amables",
+      "explanation": "Tt 3,2: esta mansedumbre hacia todos refleja la misericordia recibida de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Tt 3,2 · Amables con todo el mundo",
+      "direction": "es-es",
+      "tiles": ["Que", "sean", "condescendientes", "y", "amables", "con", "todo", "el", "mundo", "pacientes", "generosos"],
+      "answer": "Que sean condescendientes y amables con todo el mundo",
+      "explanation": "Tt 3,2: esta mansedumbre hacia todos refleja la misericordia recibida de Dios."
+    }
+  ]
+}

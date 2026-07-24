@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod12",
+  "module": 12,
+  "title": "1 Timoteo — El Único Mediador y el Buen Combate de la Fe",
+  "subtitle": "1 Timoteo 1–6",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cuál es el objetivo del mandato que Pablo transmite a Timoteo, en 1 Timoteo 1?",
+      "options": ["«El amor que brota de un corazón limpio, de una buena conciencia y de una fe sincera»", "El cumplimiento estricto de normas rituales", "La acumulación de conocimiento teológico"],
+      "correct": 0,
+      "hint": "Advierte que algunos «se han desviado de estas cosas».",
+      "explanation": "1Tm 1,5: «esta orden tiene por objeto el amor que brota de un corazón limpio, de una buena conciencia y de una fe sincera»."
+    },
+    {
+      "type": "gap",
+      "text": "Esta orden tiene por objeto el amor que brota de un corazón ___.",
+      "options": ["limpio", "sincero", "fiel"],
+      "answer": "limpio",
+      "explanation": "1Tm 1,5: este amor como objetivo de todo mandato evita que la fe se reduzca a mero cumplimiento externo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Tm 1,5 · El amor como objetivo del mandato",
+      "direction": "es-es",
+      "tiles": ["El", "amor", "que", "brota", "de", "un", "corazón", "limpio", "sincero", "fiel"],
+      "answer": "El amor que brota de un corazón limpio",
+      "explanation": "1Tm 1,5: este amor como objetivo de todo mandato evita que la fe se reduzca a mero cumplimiento externo."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Amor que brota de un corazón limpio", "es": "El propósito verdadero del mandamiento" },
+        { "en": "Yo soy el primero", "es": "La humildad de Pablo ante su propia conversión" },
+        { "en": "Único mediador", "es": "La centralidad de Cristo entre Dios y los hombres" },
+        { "en": "Manifestado en la carne", "es": "El himno cristológico del misterio de la piedad" },
+        { "en": "Modelo para los fieles", "es": "El encargo pastoral confiado a Timoteo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo su propia experiencia de la misericordia de Cristo, en 1 Timoteo 1?",
+      "options": ["Que nunca necesitó realmente ser salvado", "«Cristo Jesús vino al mundo para salvar a los pecadores, y yo soy el primero»", "Que su conversión fue menos significativa que la de otros"],
+      "correct": 1,
+      "hint": "Añade que Dios quiso mostrar en él «toda su paciencia».",
+      "explanation": "1Tm 1,15: «Cristo Jesús vino al mundo para salvar a los pecadores, y yo soy el primero»."
+    },
+    {
+      "type": "gap",
+      "text": "Cristo Jesús vino al mundo para salvar a los pecadores, y yo soy el ___.",
+      "options": ["primero", "mayor", "peor"],
+      "answer": "primero",
+      "explanation": "1Tm 1,15: esta humildad de Pablo al reconocerse pecador salvado fundamenta una fe agradecida."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Tm 1,15 · Yo soy el primero",
+      "direction": "es-es",
+      "tiles": ["Vino", "al", "mundo", "para", "salvar", "a", "los", "pecadores", "mayor", "peor"],
+      "answer": "Vino al mundo para salvar a los pecadores",
+      "explanation": "1Tm 1,15: esta humildad de Pablo al reconocerse pecador salvado fundamenta una fe agradecida."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pablo sobre la mediación entre Dios y los hombres, en 1 Timoteo 2?",
+      "options": ["Que existen varios mediadores según cada necesidad", "Que la mediación depende de méritos humanos previos", "«Dios es uno, y único también el mediador entre Dios y los hombres: el hombre Cristo Jesús»"],
+      "correct": 2,
+      "hint": "Añade que Cristo «se entregó en rescate por todos».",
+      "explanation": "1Tm 2,5: «Dios es uno, y único también el mediador entre Dios y los hombres: el hombre Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios es uno, y único también el ___ entre Dios y los hombres.",
+      "options": ["mediador", "intercesor", "juez"],
+      "answer": "mediador",
+      "explanation": "1Tm 2,5: esta unicidad de Cristo como mediador centra toda la vida cristiana en él."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Tm 2,5 · El único mediador",
+      "direction": "es-es",
+      "tiles": ["El", "mediador", "entre", "Dios", "y", "los", "hombres", "intercesor", "juez"],
+      "answer": "El mediador entre Dios y los hombres",
+      "explanation": "1Tm 2,5: esta unicidad de Cristo como mediador centra toda la vida cristiana en él."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Yo soy el primero", "es": "1 Timoteo 1,15" },
+        { "en": "Único mediador", "es": "1 Timoteo 2,5" },
+        { "en": "Que nadie te menosprecie por tu juventud", "es": "1 Timoteo 4,12" },
+        { "en": "El amor al dinero es la raíz de todos los males", "es": "1 Timoteo 6,10" },
+        { "en": "Combate el buen combate de la fe", "es": "1 Timoteo 6,12" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Pablo el «misterio de la piedad» en el himno de 1 Timoteo 3?",
+      "options": ["«Manifestado en la carne... proclamado en las naciones... recibido en la gloria»", "Como algo reservado solo a unos pocos elegidos", "Como un secreto que nunca llegó a revelarse"],
+      "correct": 0,
+      "hint": "Este himno probablemente era ya un canto litúrgico de la comunidad.",
+      "explanation": "1Tm 3,16: «manifestado en la carne... proclamado en las naciones... recibido en la gloria»."
+    },
+    {
+      "type": "gap",
+      "text": "Grande es el misterio de la piedad, el cual fue manifestado en la ___.",
+      "options": ["carne", "gloria", "verdad"],
+      "answer": "carne",
+      "explanation": "1Tm 3,16: este himno cristológico resume el misterio central de la fe cristiana."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La primera carta a Timoteo", "es": "Pertenece a las llamadas «cartas pastorales» de Pablo" },
+        { "en": "El himno del misterio de la piedad", "es": "Probablemente era ya un canto litúrgico usado en la comunidad" },
+        { "en": "El consejo sobre la juventud", "es": "Responde a la inexperiencia de Timoteo como líder" },
+        { "en": "La enseñanza sobre el dinero", "es": "No condena la riqueza en sí, sino su amor desordenado" },
+        { "en": "La carta", "es": "Concluye animando a Timoteo a perseverar en la fe recibida" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anima Pablo a Timoteo respecto a su juventud, en 1 Timoteo 4?",
+      "options": ["Que espere a ser mayor para asumir responsabilidades", "«Que nadie te menosprecie por tu juventud; sé un modelo para los fieles»", "Que evite el contacto con los mayores de la comunidad"],
+      "correct": 1,
+      "hint": "Le pide ser modelo «en la palabra, la conducta, el amor, la fe, la pureza».",
+      "explanation": "1Tm 4,12: «que nadie te menosprecie por tu juventud; sé un modelo para los fieles»."
+    },
+    {
+      "type": "gap",
+      "text": "Que nadie te menosprecie por tu ___; sé un modelo para los fieles.",
+      "options": ["juventud", "origen", "pobreza"],
+      "answer": "juventud",
+      "explanation": "1Tm 4,12: este consejo responde a la inexperiencia de Timoteo como líder joven."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Tm 4,12 · Modelo para los fieles",
+      "direction": "es-es",
+      "tiles": ["Que", "nadie", "te", "menosprecie", "por", "tu", "juventud", "origen", "pobreza"],
+      "answer": "Que nadie te menosprecie por tu juventud",
+      "explanation": "1Tm 4,12: este consejo responde a la inexperiencia de Timoteo como líder joven."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué considera Pablo como «gran ganancia» para el creyente, en 1 Timoteo 6?",
+      "options": ["La acumulación de riquezas materiales", "El reconocimiento público entre la comunidad", "«La piedad, para quien se contenta con lo suficiente»"],
+      "correct": 2,
+      "hint": "Añade que «nada hemos traído al mundo».",
+      "explanation": "1Tm 6,6: «la piedad es ciertamente una gran ganancia para quien se contenta con lo suficiente»."
+    },
+    {
+      "type": "gap",
+      "text": "La piedad es ciertamente una gran ___ para quien se contenta con lo suficiente.",
+      "options": ["ganancia", "virtud", "riqueza"],
+      "answer": "ganancia",
+      "explanation": "1Tm 6,6: este contentamiento con lo necesario libera del amor desordenado al dinero."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Tm 6,6 · La piedad como ganancia",
+      "direction": "es-es",
+      "tiles": ["Una", "gran", "ganancia", "para", "quien", "se", "contenta", "con", "lo", "suficiente", "virtud", "riqueza"],
+      "answer": "Una gran ganancia para quien se contenta con lo suficiente",
+      "explanation": "1Tm 6,6: este contentamiento con lo necesario libera del amor desordenado al dinero."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué principio da Pablo sobre la relación entre los bienes materiales y la existencia humana, en 1 Timoteo 6?",
+      "options": ["«Nada hemos traído al mundo, como tampoco podemos llevarnos nada de él»", "Que los bienes acumulados perduran más allá de la muerte", "Que el valor de una persona se mide por sus posesiones"],
+      "correct": 0,
+      "hint": "Añade: «teniendo alimentos y con qué cubrirnos, contentémonos con esto».",
+      "explanation": "1Tm 6,7: «nada hemos traído al mundo, como tampoco podemos llevarnos nada de él»."
+    },
+    {
+      "type": "gap",
+      "text": "Nada hemos traído al mundo, como tampoco podemos ___ nada de él.",
+      "options": ["llevarnos", "guardar", "ganar"],
+      "answer": "llevarnos",
+      "explanation": "1Tm 6,7: este principio relativiza el valor último de los bienes materiales."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Tm 6,7 · Nada traído, nada llevado",
+      "direction": "es-es",
+      "tiles": ["Nada", "hemos", "traído", "al", "mundo", "guardar", "ganar"],
+      "answer": "Nada hemos traído al mundo",
+      "explanation": "1Tm 6,7: este principio relativiza el valor último de los bienes materiales."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El amor como objetivo de todo mandato", "es": "Evita que la fe se reduzca a mero cumplimiento externo" },
+        { "en": "La humildad de reconocerse pecador salvado", "es": "Fundamenta una fe agradecida y no orgullosa" },
+        { "en": "La unicidad de Cristo como mediador", "es": "Centra toda la vida cristiana en él" },
+        { "en": "El contentamiento con lo necesario", "es": "Libera del amor desordenado al dinero" },
+        { "en": "La fe vivida como combate", "es": "Exige perseverancia activa, no pasividad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué identifica Pablo como raíz de todos los males, en 1 Timoteo 6?",
+      "options": ["La pobreza extrema en cualquier circunstancia", "«El amor al dinero»", "La falta de educación formal"],
+      "correct": 1,
+      "hint": "Añade que algunos, «arrastrados por él, se han apartado de la fe».",
+      "explanation": "1Tm 6,10: «el amor al dinero es la raíz de todos los males»."
+    },
+    {
+      "type": "gap",
+      "text": "El amor al dinero es la ___ de todos los males.",
+      "options": ["raíz", "causa", "fuente"],
+      "answer": "raíz",
+      "explanation": "1Tm 6,10: esta enseñanza no condena la riqueza en sí, sino su amor desordenado."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Tm 6,10 · La raíz de todos los males",
+      "direction": "es-es",
+      "tiles": ["El", "amor", "al", "dinero", "es", "la", "raíz", "de", "todos", "los", "males", "causa", "fuente"],
+      "answer": "El amor al dinero es la raíz de todos los males",
+      "explanation": "1Tm 6,10: esta enseñanza no condena la riqueza en sí, sino su amor desordenado."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen anima Pablo a Timoteo a vivir su fe, en 1 Timoteo 6?",
+      "options": ["Como una obligación pesada que se soporta sin más", "Como un asunto privado sin ninguna exigencia pública", "«Combate el buen combate de la fe, conquista la vida eterna»"],
+      "correct": 2,
+      "hint": "Le recuerda que «profesó noblemente» esta fe «delante de muchos testigos».",
+      "explanation": "1Tm 6,12: «combate el buen combate de la fe, conquista la vida eterna»."
+    },
+    {
+      "type": "gap",
+      "text": "Combate el buen combate de la fe, conquista la vida ___.",
+      "options": ["eterna", "verdadera", "plena"],
+      "answer": "eterna",
+      "explanation": "1Tm 6,12: esta fe vivida como combate exige perseverancia activa, no pasividad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "1Tm 6,12 · El buen combate de la fe",
+      "direction": "es-es",
+      "tiles": ["Combate", "el", "buen", "combate", "de", "la", "fe", "verdadera", "plena"],
+      "answer": "Combate el buen combate de la fe",
+      "explanation": "1Tm 6,12: esta fe vivida como combate exige perseverancia activa, no pasividad."
+    }
+  ]
+}

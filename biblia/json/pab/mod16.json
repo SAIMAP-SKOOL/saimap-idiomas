@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod16",
+  "module": 16,
+  "title": "Hebreos I — Cristo, Palabra Definitiva y Sumo Sacerdote",
+  "subtitle": "Hebreos 1–7",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Cómo compara el autor de Hebreos la revelación antigua con la revelación por medio del Hijo, en Hebreos 1?",
+      "options": ["«De muchas maneras habló Dios... por los profetas; en esta etapa final, nos ha hablado por el Hijo»", "Que ambas revelaciones tienen exactamente el mismo valor y forma", "Que la revelación por los profetas queda anulada por completo"],
+      "correct": 0,
+      "hint": "Añade que a este Hijo lo ha nombrado «heredero de todo».",
+      "explanation": "Hb 1,1-2: «de muchas maneras habló Dios... por los profetas; en esta etapa final, nos ha hablado por el Hijo»."
+    },
+    {
+      "type": "gap",
+      "text": "En esta etapa final, nos ha hablado por el ___.",
+      "options": ["Hijo", "Espíritu", "profeta"],
+      "answer": "Hijo",
+      "explanation": "Hb 1,2: esta revelación plena en el Hijo supera y culmina toda revelación anterior."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 1,2 · La revelación por el Hijo",
+      "direction": "es-es",
+      "tiles": ["Nos", "ha", "hablado", "por", "el", "Hijo", "Espíritu", "profeta"],
+      "answer": "Nos ha hablado por el Hijo",
+      "explanation": "Hb 1,2: esta revelación plena en el Hijo supera y culmina toda revelación anterior."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Nos ha hablado por el Hijo", "es": "La revelación definitiva de Dios en Cristo" },
+        { "en": "Reflejo de su gloria", "es": "La identidad divina del Hijo" },
+        { "en": "Puede auxiliar a los que son tentados", "es": "La solidaridad de Cristo con la debilidad humana" },
+        { "en": "Palabra viva y eficaz", "es": "El poder penetrante de la Escritura" },
+        { "en": "Trono de la gracia", "es": "La confianza para acercarse a Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Hebreos la relación del Hijo con la gloria de Dios, en Hebreos 1?",
+      "options": ["Que refleja solo parcialmente algo de esa gloria", "«Él es reflejo de su gloria, impronta de su ser»", "Que no tiene ninguna relación directa con ella"],
+      "correct": 1,
+      "hint": "Añade que «sostiene el universo con su palabra poderosa».",
+      "explanation": "Hb 1,3: «él es reflejo de su gloria, impronta de su ser»."
+    },
+    {
+      "type": "gap",
+      "text": "Él es reflejo de su gloria, ___ de su ser.",
+      "options": ["impronta", "imagen", "sombra"],
+      "answer": "impronta",
+      "explanation": "Hb 1,3: esta identidad divina del Hijo es central en el argumento de la carta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 1,3 · Reflejo de su gloria",
+      "direction": "es-es",
+      "tiles": ["Él", "es", "reflejo", "de", "su", "gloria", "imagen", "sombra"],
+      "answer": "Él es reflejo de su gloria",
+      "explanation": "Hb 1,3: esta identidad divina del Hijo es central en el argumento de la carta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué puede Cristo auxiliar a los que son tentados, según Hebreos 2?",
+      "options": ["Porque conoce la tentación solo de forma teórica", "Porque decidió no enfrentar ninguna tentación real", "«Por el hecho de haber padecido sufriendo la tentación, puede auxiliar a los que son tentados»"],
+      "correct": 2,
+      "hint": "Antes se le presenta como «sumo sacerdote de la fe que profesamos».",
+      "explanation": "Hb 2,18: «por el hecho de haber padecido sufriendo la tentación, puede auxiliar a los que son tentados»."
+    },
+    {
+      "type": "gap",
+      "text": "Por haber padecido sufriendo la tentación, puede ___ a los que son tentados.",
+      "options": ["auxiliar", "juzgar", "comprender"],
+      "answer": "auxiliar",
+      "explanation": "Hb 2,18: esta solidaridad de Cristo con la debilidad humana funda su capacidad de auxiliar."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 2,18 · Auxilio en la tentación",
+      "direction": "es-es",
+      "tiles": ["Puede", "auxiliar", "a", "los", "que", "son", "tentados", "juzgar", "comprender"],
+      "answer": "Puede auxiliar a los que son tentados",
+      "explanation": "Hb 2,18: esta solidaridad de Cristo con la debilidad humana funda su capacidad de auxiliar."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Reflejo de su gloria", "es": "Hebreos 1,3" },
+        { "en": "Probado en todo como nosotros", "es": "Hebreos 4,15" },
+        { "en": "Aprendió sufriendo a obedecer", "es": "Hebreos 5,8" },
+        { "en": "Ancla del alma", "es": "Hebreos 6,19" },
+        { "en": "Vive siempre para interceder", "es": "Hebreos 7,25" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo describe Hebreos el poder de la palabra de Dios, en Hebreos 4?",
+      "options": ["«Es viva y eficaz, más tajante que espada de doble filo»", "Como algo que actúa solo de manera simbólica", "Como un texto meramente informativo"],
+      "correct": 0,
+      "hint": "Añade que «juzga los deseos e intenciones del corazón».",
+      "explanation": "Hb 4,12: «es viva y eficaz, más tajante que espada de doble filo»."
+    },
+    {
+      "type": "gap",
+      "text": "La palabra de Dios es viva y eficaz, más tajante que espada de doble ___.",
+      "options": ["filo", "borde", "punta"],
+      "answer": "filo",
+      "explanation": "Hb 4,12: este poder penetrante de la Escritura llega hasta lo más íntimo de la persona."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a los Hebreos", "es": "Dirige su argumento a mostrar la superioridad de Cristo sobre las mediaciones antiguas" },
+        { "en": "El sacerdocio de Cristo", "es": "Se compara con el enigmático sacerdocio de Melquisedec" },
+        { "en": "La palabra de Dios", "es": "Se describe con la imagen de una espada de dos filos" },
+        { "en": "La esperanza cristiana", "es": "Se ancla más allá del velo, en el santuario celestial" },
+        { "en": "La intercesión permanente de Cristo", "es": "Fundamenta la eficacia definitiva de su sacerdocio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué tipo de sumo sacerdote tienen los creyentes, según Hebreos 4?",
+      "options": ["Uno indiferente ante las debilidades humanas", "«Uno que ha sido probado en todo, como nosotros, menos en el pecado»", "Uno que nunca compartió la condición humana"],
+      "correct": 1,
+      "hint": "Por eso se anima a «comparecer confiados ante el trono de la gracia».",
+      "explanation": "Hb 4,15: «no tenemos un sumo sacerdote incapaz de compadecerse... sino que ha sido probado en todo, como nosotros, menos en el pecado»."
+    },
+    {
+      "type": "gap",
+      "text": "No tenemos un sumo sacerdote incapaz de compadecerse de nuestras ___.",
+      "options": ["debilidades", "culpas", "dudas"],
+      "answer": "debilidades",
+      "explanation": "Hb 4,15: esta compasión del sumo sacerdote probado permite acercarse a Dios sin miedo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 4,15 · Probado en todo como nosotros",
+      "direction": "es-es",
+      "tiles": ["Ha", "sido", "probado", "en", "todo", "como", "nosotros", "menos", "en", "el", "pecado", "culpas", "dudas"],
+      "answer": "Ha sido probado en todo como nosotros menos en el pecado",
+      "explanation": "Hb 4,15: esta compasión del sumo sacerdote probado permite acercarse a Dios sin miedo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué actitud invita Hebreos a acercarse al trono de la gracia, en Hebreos 4?",
+      "options": ["Con temor paralizante ante el juicio divino", "Con indiferencia, como un trámite más", "«Comparezcamos confiados... para alcanzar misericordia y encontrar gracia para un auxilio oportuno»"],
+      "correct": 2,
+      "hint": "Esta confianza se basa en el sumo sacerdote que comparte nuestra debilidad.",
+      "explanation": "Hb 4,16: «comparezcamos confiados ante el trono de la gracia, para alcanzar misericordia y encontrar gracia para un auxilio oportuno»."
+    },
+    {
+      "type": "gap",
+      "text": "Comparezcamos confiados ante el trono de la ___.",
+      "options": ["gracia", "gloria", "verdad"],
+      "answer": "gracia",
+      "explanation": "Hb 4,16: esta confianza para acercarse a Dios nace de la compasión del sumo sacerdote."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 4,16 · El trono de la gracia",
+      "direction": "es-es",
+      "tiles": ["Comparezcamos", "confiados", "ante", "el", "trono", "de", "la", "gracia", "gloria", "verdad"],
+      "answer": "Comparezcamos confiados ante el trono de la gracia",
+      "explanation": "Hb 4,16: esta confianza para acercarse a Dios nace de la compasión del sumo sacerdote."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La revelación plena en el Hijo", "es": "Supera y culmina toda revelación anterior" },
+        { "en": "La compasión del sumo sacerdote probado", "es": "Permite acercarse a Dios sin miedo a ser rechazado" },
+        { "en": "El poder de la palabra de Dios", "es": "Penetra hasta lo más íntimo de la persona" },
+        { "en": "La obediencia aprendida en el sufrimiento", "es": "Muestra que el dolor puede tener sentido formativo" },
+        { "en": "La esperanza firme como ancla", "es": "Sostiene la vida cristiana en medio de la incertidumbre" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué aprendió Cristo a través del sufrimiento, según Hebreos 5?",
+      "options": ["«Aun siendo Hijo, aprendió, sufriendo, a obedecer»", "Que el sufrimiento no tiene ningún valor formativo", "Que la obediencia no era necesaria para él"],
+      "correct": 0,
+      "hint": "Añade que se convirtió «en autor de salvación eterna» para quienes lo obedecen.",
+      "explanation": "Hb 5,8: «aun siendo Hijo, aprendió, sufriendo, a obedecer»."
+    },
+    {
+      "type": "gap",
+      "text": "Aun siendo Hijo, aprendió, sufriendo, a ___.",
+      "options": ["obedecer", "confiar", "esperar"],
+      "answer": "obedecer",
+      "explanation": "Hb 5,8: esta obediencia aprendida en el sufrimiento muestra que el dolor puede tener sentido formativo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 5,8 · Aprendió sufriendo a obedecer",
+      "direction": "es-es",
+      "tiles": ["Aprendió", "sufriendo", "a", "obedecer", "confiar", "esperar"],
+      "answer": "Aprendió sufriendo a obedecer",
+      "explanation": "Hb 5,8: esta obediencia aprendida en el sufrimiento muestra que el dolor puede tener sentido formativo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen describe Hebreos la esperanza cristiana, en Hebreos 6?",
+      "options": ["Como algo frágil que puede perderse fácilmente", "«Como ancla del alma, segura y firme, que penetra más allá de la cortina»", "Como un sentimiento pasajero sin fundamento real"],
+      "correct": 1,
+      "hint": "Añade que Jesús entró allí «como precursor, por nosotros».",
+      "explanation": "Hb 6,19: «como ancla del alma, segura y firme, que penetra más allá de la cortina»."
+    },
+    {
+      "type": "gap",
+      "text": "Es para nosotros como ___ del alma, segura y firme.",
+      "options": ["ancla", "refugio", "escudo"],
+      "answer": "ancla",
+      "explanation": "Hb 6,19: esta esperanza firme como ancla sostiene la vida cristiana en medio de la incertidumbre."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 6,19 · El ancla del alma",
+      "direction": "es-es",
+      "tiles": ["Como", "ancla", "del", "alma", "segura", "y", "firme", "refugio", "escudo"],
+      "answer": "Como ancla del alma segura y firme",
+      "explanation": "Hb 6,19: esta esperanza firme como ancla sostiene la vida cristiana en medio de la incertidumbre."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué asegura Hebreos sobre la capacidad salvadora de Cristo, en Hebreos 7?",
+      "options": ["Que su salvación alcanza solo a un grupo reducido", "Que su intercesión depende de condiciones cambiantes", "«Puede salvar definitivamente a los que se acercan a Dios por medio de él, pues vive siempre para interceder»"],
+      "correct": 2,
+      "hint": "Se le describe como sumo sacerdote «que no pasa».",
+      "explanation": "Hb 7,25: «puede salvar definitivamente a los que se acercan a Dios por medio de él, pues vive siempre para interceder a favor de ellos»."
+    },
+    {
+      "type": "gap",
+      "text": "Vive siempre para ___ a favor de ellos.",
+      "options": ["interceder", "orar", "responder"],
+      "answer": "interceder",
+      "explanation": "Hb 7,25: esta intercesión permanente de Cristo fundamenta la eficacia definitiva de su sacerdocio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Hb 7,25 · Vive siempre para interceder",
+      "direction": "es-es",
+      "tiles": ["Vive", "siempre", "para", "interceder", "a", "favor", "de", "ellos", "orar", "responder"],
+      "answer": "Vive siempre para interceder a favor de ellos",
+      "explanation": "Hb 7,25: esta intercesión permanente de Cristo fundamenta la eficacia definitiva de su sacerdocio."
+    }
+  ]
+}

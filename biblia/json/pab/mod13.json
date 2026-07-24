@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod13",
+  "module": 13,
+  "title": "2 Timoteo — El Testamento Espiritual de Pablo",
+  "subtitle": "2 Timoteo 1–4",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué tipo de espíritu afirma Pablo que Dios ha dado a los creyentes, en 2 Timoteo 1?",
+      "options": ["«No un espíritu de cobardía, sino de fortaleza, de amor y de templanza»", "Un espíritu de temor ante las dificultades", "Un espíritu que evita todo compromiso público"],
+      "correct": 0,
+      "hint": "Añade que Timoteo no debe avergonzarse «del testimonio de nuestro Señor».",
+      "explanation": "2Tm 1,7: «Dios no nos ha dado un espíritu de cobardía, sino de fortaleza, de amor y de templanza»."
+    },
+    {
+      "type": "gap",
+      "text": "Dios no nos ha dado un espíritu de cobardía, sino de fortaleza, de amor y de ___.",
+      "options": ["templanza", "valentía", "sabiduría"],
+      "answer": "templanza",
+      "explanation": "2Tm 1,7: este espíritu de fortaleza sobre el de cobardía anima a vivir la fe sin miedo al testimonio público."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Tm 1,7 · Espíritu de fortaleza",
+      "direction": "es-es",
+      "tiles": ["Un", "espíritu", "de", "fortaleza", "de", "amor", "y", "de", "templanza", "valentía", "sabiduría"],
+      "answer": "Un espíritu de fortaleza de amor y de templanza",
+      "explanation": "2Tm 1,7: este espíritu de fortaleza sobre el de cobardía anima a vivir la fe sin miedo al testimonio público."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Espíritu de fortaleza", "es": "El don de Dios frente al temor" },
+        { "en": "Sé de quién me he fiado", "es": "La confianza personal de Pablo en Cristo" },
+        { "en": "Buen soldado de Cristo Jesús", "es": "La entrega total a la misión encomendada" },
+        { "en": "Si somos infieles, él permanece fiel", "es": "La fidelidad incondicional de Dios" },
+        { "en": "Toda Escritura es inspirada por Dios", "es": "El valor formativo de la Palabra" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿En qué se apoya la confianza de Pablo a pesar de sus sufrimientos, en 2 Timoteo 1?",
+      "options": ["En su propia capacidad de resistencia física", "«Sé de quién me he fiado, y estoy persuadido de que tiene poder para velar por mi depósito»", "En la promesa de una liberación inmediata"],
+      "correct": 1,
+      "hint": "Añade que, aunque padece, «no me avergüenzo».",
+      "explanation": "2Tm 1,12: «sé de quién me he fiado, y estoy firmemente persuadido de que tiene poder para velar por mi depósito»."
+    },
+    {
+      "type": "gap",
+      "text": "Sé de quién me he ___, y estoy persuadido de que tiene poder para velar por mi depósito.",
+      "options": ["fiado", "confiado", "creído"],
+      "answer": "fiado",
+      "explanation": "2Tm 1,12: esta confianza en aquel en quien se cree sostiene en medio del sufrimiento."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Tm 1,12 · Sé de quién me he fiado",
+      "direction": "es-es",
+      "tiles": ["Sé", "de", "quién", "me", "he", "fiado", "confiado", "creído"],
+      "answer": "Sé de quién me he fiado",
+      "explanation": "2Tm 1,12: esta confianza en aquel en quien se cree sostiene en medio del sufrimiento."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué imagen anima Pablo a Timoteo a asumir las dificultades de la misión, en 2 Timoteo 2?",
+      "options": ["Como quien evita cualquier tipo de conflicto", "Como quien delega toda responsabilidad en otros", "«Como buen soldado de Cristo Jesús»"],
+      "correct": 2,
+      "hint": "Añade que el soldado «no se enreda en las cosas de este mundo».",
+      "explanation": "2Tm 2,3: «toma parte en los padecimientos como buen soldado de Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "Toma parte en los padecimientos como buen ___ de Cristo Jesús.",
+      "options": ["soldado", "siervo", "discípulo"],
+      "answer": "soldado",
+      "explanation": "2Tm 2,3: esta imagen expresa la entrega total a la misión encomendada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Tm 2,3 · Buen soldado de Cristo",
+      "direction": "es-es",
+      "tiles": ["Buen", "soldado", "de", "Cristo", "Jesús", "siervo", "discípulo"],
+      "answer": "Buen soldado de Cristo Jesús",
+      "explanation": "2Tm 2,3: esta imagen expresa la entrega total a la misión encomendada."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Que imparte con rectitud la palabra de la verdad", "es": "2 Timoteo 2,15" },
+        { "en": "Proclama la palabra", "es": "2 Timoteo 4,2" },
+        { "en": "He combatido el noble combate", "es": "2 Timoteo 4,7" },
+        { "en": "La corona de la justicia", "es": "2 Timoteo 4,8" },
+        { "en": "Buen soldado de Cristo Jesús", "es": "2 Timoteo 2,3" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué afirma Pablo sobre la fidelidad de Dios incluso ante la infidelidad humana, en 2 Timoteo 2?",
+      "options": ["«Si somos infieles, él permanece fiel, porque no puede negarse a sí mismo»", "Que Dios responde con la misma infidelidad", "Que la fidelidad de Dios depende de la nuestra"],
+      "correct": 0,
+      "hint": "Forma parte de un himno o fórmula de fe citada por Pablo.",
+      "explanation": "2Tm 2,13: «si somos infieles, él permanece fiel, porque no puede negarse a sí mismo»."
+    },
+    {
+      "type": "gap",
+      "text": "Si somos infieles, él permanece ___, porque no puede negarse a sí mismo.",
+      "options": ["fiel", "firme", "constante"],
+      "answer": "fiel",
+      "explanation": "2Tm 2,13: esta fidelidad constante de Dios permanece incluso cuando la fidelidad humana falla."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Tm 2,13 · La fidelidad de Dios",
+      "direction": "es-es",
+      "tiles": ["Si", "somos", "infieles", "él", "permanece", "fiel", "firme", "constante"],
+      "answer": "Si somos infieles él permanece fiel",
+      "explanation": "2Tm 2,13: esta fidelidad constante de Dios permanece incluso cuando la fidelidad humana falla."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La segunda carta a Timoteo", "es": "Es considerada el testamento espiritual de Pablo, escrito desde la prisión" },
+        { "en": "El encargo de proclamar la Palabra", "es": "Se da «a tiempo y a destiempo», sin condiciones favorables" },
+        { "en": "El balance final de la vida de Pablo", "es": "Usa las imágenes del combate, la carrera y la fe guardada" },
+        { "en": "La corona de la justicia", "es": "Se promete también a todos los que aman la manifestación del Señor" },
+        { "en": "La carta", "es": "Es probablemente el último escrito de Pablo antes de su martirio" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo a Timoteo respecto a su forma de manejar la enseñanza, en 2 Timoteo 2?",
+      "options": ["Que evite cualquier estudio riguroso de la Palabra", "«Que imparte con rectitud la palabra de la verdad»", "Que se limite a repetir fórmulas sin explicación"],
+      "correct": 1,
+      "hint": "Le pide presentarse «como un obrero que no tiene de qué avergonzarse».",
+      "explanation": "2Tm 2,15: «que imparte con rectitud la palabra de la verdad»."
+    },
+    {
+      "type": "gap",
+      "text": "Que imparte con rectitud la palabra de la ___.",
+      "options": ["verdad", "fe", "vida"],
+      "answer": "verdad",
+      "explanation": "2Tm 2,15: este manejo recto de la enseñanza refleja el compromiso con la Palabra."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Para qué afirma Pablo que es útil toda Escritura inspirada por Dios, en 2 Timoteo 3?",
+      "options": ["Solo para fines históricos o culturales", "Únicamente para la instrucción de los especialistas", "«Para enseñar, para argüir, para corregir, para educar en la justicia»"],
+      "correct": 2,
+      "hint": "Añade que esto prepara «para toda obra buena».",
+      "explanation": "2Tm 3,16: «toda Escritura es inspirada por Dios y útil para enseñar, para argüir, para corregir, para educar en la justicia»."
+    },
+    {
+      "type": "gap",
+      "text": "Toda Escritura es inspirada por Dios y útil para enseñar, para argüir, para corregir, para educar en la ___.",
+      "options": ["justicia", "fe", "verdad"],
+      "answer": "justicia",
+      "explanation": "2Tm 3,16: esta utilidad formativa de la Escritura prepara al creyente para toda obra buena."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Tm 3,16 · La Escritura inspirada",
+      "direction": "es-es",
+      "tiles": ["Para", "enseñar", "para", "corregir", "para", "educar", "en", "la", "justicia", "fe", "verdad"],
+      "answer": "Para enseñar para corregir para educar en la justicia",
+      "explanation": "2Tm 3,16: esta utilidad formativa de la Escritura prepara al creyente para toda obra buena."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El espíritu de fortaleza sobre el de cobardía", "es": "Anima a vivir la fe sin miedo al testimonio público" },
+        { "en": "La confianza en aquel en quien se cree", "es": "Sostiene en medio del sufrimiento y la incertidumbre" },
+        { "en": "La fidelidad constante de Dios", "es": "Permanece incluso cuando la fidelidad humana falla" },
+        { "en": "La utilidad formativa de la Escritura", "es": "Prepara al creyente para toda obra buena" },
+        { "en": "La perseverancia hasta el final", "es": "Recibe su recompensa en la justicia de Dios" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué encarga Pablo a Timoteo sobre la predicación de la Palabra, en 2 Timoteo 4?",
+      "options": ["«Proclama la palabra, insiste a tiempo y a destiempo»", "Que la predique solo cuando las circunstancias sean favorables", "Que evite cualquier forma de corrección pública"],
+      "correct": 0,
+      "hint": "Añade que debe «arguir, reprochar, exhortar con toda magnanimidad».",
+      "explanation": "2Tm 4,2: «proclama la palabra, insiste a tiempo y a destiempo»."
+    },
+    {
+      "type": "gap",
+      "text": "Proclama la palabra, insiste a tiempo y a ___.",
+      "options": ["destiempo", "cualquier hora", "todo momento"],
+      "answer": "destiempo",
+      "explanation": "2Tm 4,2: este encargo se da sin condiciones favorables, a tiempo y a destiempo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Tm 4,2 · A tiempo y a destiempo",
+      "direction": "es-es",
+      "tiles": ["Insiste", "a", "tiempo", "y", "a", "destiempo", "cualquier", "hora"],
+      "answer": "Insiste a tiempo y a destiempo",
+      "explanation": "2Tm 4,2: este encargo se da sin condiciones favorables, a tiempo y a destiempo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo resume Pablo el balance de toda su vida al final de la carta, en 2 Timoteo 4?",
+      "options": ["Con inseguridad sobre si su esfuerzo tuvo algún sentido", "«He combatido el noble combate, he acabado la carrera, he conservado la fe»", "Lamentando no haber hecho lo suficiente"],
+      "correct": 1,
+      "hint": "Lo dice sabiendo que «la partida es inminente».",
+      "explanation": "2Tm 4,7: «he combatido el noble combate, he acabado la carrera, he conservado la fe»."
+    },
+    {
+      "type": "gap",
+      "text": "He combatido el noble combate, he acabado la carrera, he conservado la ___.",
+      "options": ["fe", "vida", "esperanza"],
+      "answer": "fe",
+      "explanation": "2Tm 4,7: este balance final usa las imágenes del combate, la carrera y la fe guardada."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Tm 4,7 · El balance de una vida",
+      "direction": "es-es",
+      "tiles": ["He", "combatido", "el", "noble", "combate", "he", "acabado", "la", "carrera", "vida", "esperanza"],
+      "answer": "He combatido el noble combate he acabado la carrera",
+      "explanation": "2Tm 4,7: este balance final usa las imágenes del combate, la carrera y la fe guardada."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué espera Pablo recibir del Señor «juez justo» al final de su vida, en 2 Timoteo 4?",
+      "options": ["Un descanso sin ninguna recompensa especial", "El reconocimiento exclusivo de unos pocos elegidos", "«La corona de la justicia... y no solo a mí, sino también a todos los que hayan aguardado con amor su manifestación»"],
+      "correct": 2,
+      "hint": "Esta corona la recibirá «en aquel día», junto a otros creyentes fieles.",
+      "explanation": "2Tm 4,8: «me está reservada la corona de la justicia... y no solo a mí, sino también a todos los que hayan aguardado con amor su manifestación»."
+    },
+    {
+      "type": "gap",
+      "text": "Me está reservada la corona de la ___, que el Señor, juez justo, me dará.",
+      "options": ["justicia", "vida", "gloria"],
+      "answer": "justicia",
+      "explanation": "2Tm 4,8: esta perseverancia hasta el final recibe su recompensa en la justicia de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Tm 4,8 · La corona de la justicia",
+      "direction": "es-es",
+      "tiles": ["Me", "está", "reservada", "la", "corona", "de", "la", "justicia", "vida", "gloria"],
+      "answer": "Me está reservada la corona de la justicia",
+      "explanation": "2Tm 4,8: esta perseverancia hasta el final recibe su recompensa en la justicia de Dios."
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod15",
+  "module": 15,
+  "title": "Filemón — La Fraternidad que Supera la Esclavitud",
+  "subtitle": "Filemón 1",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué agradece Pablo a Filemón al comenzar la carta?",
+      "options": ["«He experimentado gran gozo y consuelo por tu amor... los corazones de los santos han encontrado alivio»", "Su generosidad económica hacia la misión de Pablo", "Su erudición en las Escrituras"],
+      "correct": 0,
+      "hint": "Antes menciona que da gracias a Dios al oír de «el amor y la fe» de Filemón.",
+      "explanation": "Flm 7: «he experimentado gran gozo y consuelo por tu amor, hermano... los corazones de los santos han encontrado alivio»."
+    },
+    {
+      "type": "gap",
+      "text": "He experimentado gran gozo y consuelo por tu ___, hermano.",
+      "options": ["amor", "fe", "bondad"],
+      "answer": "amor",
+      "explanation": "Flm 7: este agradecimiento de Pablo abre la carta con un tono cercano y afectuoso."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flm 7 · Gozo y consuelo por tu amor",
+      "direction": "es-es",
+      "tiles": ["Gran", "gozo", "y", "consuelo", "por", "tu", "amor", "fe", "bondad"],
+      "answer": "Gran gozo y consuelo por tu amor",
+      "explanation": "Flm 7: este agradecimiento de Pablo abre la carta con un tono cercano y afectuoso."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Gran gozo y consuelo por tu amor", "es": "El agradecimiento de Pablo a Filemón" },
+        { "en": "Prefiero apelar a tu caridad", "es": "El estilo persuasivo, no autoritario, de Pablo" },
+        { "en": "Mi hijo... engendré en la prisión", "es": "La paternidad espiritual de Pablo sobre Onésimo" },
+        { "en": "Antes inútil, ahora útil", "es": "La transformación de Onésimo tras su conversión" },
+        { "en": "Como un hermano querido", "es": "La nueva relación entre esclavo y amo en Cristo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo prefiere Pablo dirigirse a Filemón, aunque podría exigirle algo?",
+      "options": ["Con una orden directa, apoyada en su autoridad apostólica", "«Prefiero apelar a tu caridad, yo, Pablo, anciano, y ahora prisionero por Cristo Jesús»", "A través de un intermediario, sin trato directo"],
+      "correct": 1,
+      "hint": "Reconoce que tiene «plena libertad en Cristo» para mandar, pero elige otro camino.",
+      "explanation": "Flm 9: «prefiero apelar a tu caridad, yo, Pablo, anciano, y ahora prisionero por Cristo Jesús»."
+    },
+    {
+      "type": "gap",
+      "text": "Prefiero apelar a tu ___, yo, Pablo, anciano y prisionero por Cristo Jesús.",
+      "options": ["caridad", "autoridad", "obediencia"],
+      "answer": "caridad",
+      "explanation": "Flm 9: este estilo persuasivo, no autoritario, modela cómo pedir sin exigir."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flm 9 · Apelar a la caridad",
+      "direction": "es-es",
+      "tiles": ["Prefiero", "apelar", "a", "tu", "caridad", "autoridad", "obediencia"],
+      "answer": "Prefiero apelar a tu caridad",
+      "explanation": "Flm 9: este estilo persuasivo, no autoritario, modela cómo pedir sin exigir."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo presenta Pablo a Onésimo ante Filemón?",
+      "options": ["Como un desconocido sin relación con Pablo", "Como alguien de quien prefiere no dar detalles", "«Te recomiendo a Onésimo, mi hijo, a quien engendré en la prisión»"],
+      "correct": 2,
+      "hint": "Lo presenta como un hijo espiritual nacido en su propia prisión.",
+      "explanation": "Flm 10: «te recomiendo a Onésimo, mi hijo, a quien engendré en la prisión»."
+    },
+    {
+      "type": "gap",
+      "text": "Te recomiendo a Onésimo, mi hijo, a quien ___ en la prisión.",
+      "options": ["engendré", "conocí", "encontré"],
+      "answer": "engendré",
+      "explanation": "Flm 10: esta paternidad espiritual transforma las relaciones humanas más allá de la biología."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flm 10 · Mi hijo engendrado en la prisión",
+      "direction": "es-es",
+      "tiles": ["Mi", "hijo", "a", "quien", "engendré", "en", "la", "prisión", "conocí", "encontré"],
+      "answer": "Mi hijo a quien engendré en la prisión",
+      "explanation": "Flm 10: esta paternidad espiritual transforma las relaciones humanas más allá de la biología."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Recíbelo a él como a mí", "es": "Filemón v.17" },
+        { "en": "Ponlo en mi cuenta", "es": "Filemón v.18-19" },
+        { "en": "Harás más de lo que te pido", "es": "Filemón v.21" },
+        { "en": "Como un hermano querido", "es": "Filemón v.16" },
+        { "en": "Mi hijo... engendré en la prisión", "es": "Filemón v.10" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué cambio destaca Pablo en la vida de Onésimo?",
+      "options": ["«Que antes era tan inútil para ti, y ahora en cambio es tan útil para ti y para mí»", "Que sigue siendo tan problemático como antes", "Que su situación legal no ha cambiado en nada"],
+      "correct": 0,
+      "hint": "El nombre «Onésimo» significa precisamente «útil».",
+      "explanation": "Flm 11: «que antes era tan inútil para ti, y ahora en cambio es tan útil para ti y para mí»."
+    },
+    {
+      "type": "gap",
+      "text": "Que antes era tan inútil para ti, y ahora en cambio es tan ___ para ti y para mí.",
+      "options": ["útil", "fiel", "bueno"],
+      "answer": "útil",
+      "explanation": "Flm 11: esta transformación de Onésimo tras su conversión hace útil lo que antes parecía inútil."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flm 11 · De inútil a útil",
+      "direction": "es-es",
+      "tiles": ["Antes", "inútil", "ahora", "tan", "útil", "para", "ti", "y", "para", "mí", "fiel", "bueno"],
+      "answer": "Antes inútil ahora tan útil para ti y para mí",
+      "explanation": "Flm 11: esta transformación de Onésimo tras su conversión hace útil lo que antes parecía inútil."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta a Filemón", "es": "Es la más breve y personal de todas las cartas de Pablo" },
+        { "en": "Onésimo", "es": "Era un esclavo de Filemón que había huido y se encontró con Pablo" },
+        { "en": "El nombre Onésimo", "es": "Significa «útil», lo que Pablo aprovecha en un juego de palabras" },
+        { "en": "La petición de Pablo", "es": "No exige la liberación de Onésimo, pero la sugiere con fuerza" },
+        { "en": "La carta", "es": "Se dirige también a la comunidad que se reúne en casa de Filemón" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Por qué Pablo no retiene a Onésimo consigo, aunque le sería útil?",
+      "options": ["Porque la ley se lo prohíbe expresamente", "«No he querido retenerlo sin contar contigo... así me harás este favor... con toda libertad»", "Porque prefiere no involucrarse en el asunto"],
+      "correct": 1,
+      "hint": "Quería que Onésimo le sirviera «en nombre» de Filemón mismo.",
+      "explanation": "Flm 14: «no he querido retenerlo sin contar contigo... así me harás este favor, no a la fuerza, sino con toda libertad»."
+    },
+    {
+      "type": "gap",
+      "text": "No he querido retenerlo sin contar contigo... sino con toda ___.",
+      "options": ["libertad", "fuerza", "prisa"],
+      "answer": "libertad",
+      "explanation": "Flm 14: Pablo respeta la decisión libre de Filemón en este asunto."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué categoría pide Pablo que Filemón reciba de nuevo a Onésimo?",
+      "options": ["Como un simple trabajador contratado", "Como un extraño sin ninguna relación especial", "«No como esclavo, sino como algo mejor que un esclavo, como un hermano querido»"],
+      "correct": 2,
+      "hint": "Añade: «cuánto más para ti, humanamente y en el Señor».",
+      "explanation": "Flm 16: «no como esclavo, sino como algo mejor que un esclavo, como un hermano querido»."
+    },
+    {
+      "type": "gap",
+      "text": "No como esclavo, sino como algo mejor que un esclavo, como un hermano ___.",
+      "options": ["querido", "fiel", "nuevo"],
+      "answer": "querido",
+      "explanation": "Flm 16: esta fraternidad que supera la esclavitud anticipa la igualdad radical del Evangelio."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flm 16 · Como un hermano querido",
+      "direction": "es-es",
+      "tiles": ["Como", "un", "hermano", "querido", "fiel", "nuevo"],
+      "answer": "Como un hermano querido",
+      "explanation": "Flm 16: esta fraternidad que supera la esclavitud anticipa la igualdad radical del Evangelio."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "La persuasión por amor en vez de la imposición", "es": "Modela cómo pedir sin exigir" },
+        { "en": "La paternidad espiritual", "es": "Transforma las relaciones humanas más allá de la biología" },
+        { "en": "La transformación en Cristo", "es": "Hace útil lo que antes parecía inútil" },
+        { "en": "La fraternidad que supera la esclavitud", "es": "Anticipa la igualdad radical del Evangelio" },
+        { "en": "La disposición a asumir la deuda ajena", "es": "Refleja la lógica de la gracia y el perdón" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo a Filemón respecto a cómo recibir a Onésimo?",
+      "options": ["«Si me consideras compañero tuyo, recíbelo a él como a mí»", "Que lo reciba solo después de un largo periodo de prueba", "Que decida sin tener en cuenta la relación con Pablo"],
+      "correct": 0,
+      "hint": "Pablo apela directamente a su propia amistad con Filemón.",
+      "explanation": "Flm 17: «si me consideras compañero tuyo, recíbelo a él como a mí»."
+    },
+    {
+      "type": "gap",
+      "text": "Si me consideras compañero tuyo, ___ a él como a mí.",
+      "options": ["recíbelo", "ayúdalo", "perdónalo"],
+      "answer": "recíbelo",
+      "explanation": "Flm 17: esta petición identifica a Onésimo con el propio Pablo ante Filemón."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flm 17 · Recíbelo como a mí",
+      "direction": "es-es",
+      "tiles": ["Recíbelo", "a", "él", "como", "a", "mí", "ayúdalo", "perdónalo"],
+      "answer": "Recíbelo a él como a mí",
+      "explanation": "Flm 17: esta petición identifica a Onésimo con el propio Pablo ante Filemón."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué ofrece Pablo hacer si Onésimo le debe algo a Filemón?",
+      "options": ["Que Onésimo pague la deuda con más trabajo forzado", "«Ponlo en mi cuenta: yo, Pablo, te firmo el pagaré de mi puño y letra»", "Que la deuda se olvide sin ninguna mención"],
+      "correct": 1,
+      "hint": "Añade, sin embargo, que Filemón le debe a él «su propia persona».",
+      "explanation": "Flm 18-19: «ponlo en mi cuenta: yo, Pablo, te firmo el pagaré de mi puño y letra»."
+    },
+    {
+      "type": "gap",
+      "text": "Ponlo en mi cuenta: yo, Pablo, te firmo el ___ de mi puño y letra.",
+      "options": ["pagaré", "recibo", "documento"],
+      "answer": "pagaré",
+      "explanation": "Flm 19: esta disposición a asumir la deuda ajena refleja la lógica de la gracia y el perdón."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flm 19 · El pagaré de Pablo",
+      "direction": "es-es",
+      "tiles": ["Yo", "Pablo", "te", "firmo", "el", "pagaré", "de", "mi", "puño", "y", "letra", "recibo", "documento"],
+      "answer": "Yo Pablo te firmo el pagaré de mi puño y letra",
+      "explanation": "Flm 19: esta disposición a asumir la deuda ajena refleja la lógica de la gracia y el perdón."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué confianza escribe Pablo a Filemón sobre su respuesta?",
+      "options": ["Con dudas sobre si Filemón responderá favorablemente", "Exigiendo una respuesta inmediata bajo amenaza", "«Te escribo fiado de tu disponibilidad: sé que harás más de lo que te pido»"],
+      "correct": 2,
+      "hint": "Añade que espera visitarlo pronto, «gracias a vuestras oraciones».",
+      "explanation": "Flm 21: «te escribo fiado de tu disponibilidad: sé que harás más de lo que te pido»."
+    },
+    {
+      "type": "gap",
+      "text": "Te escribo fiado de tu disponibilidad: sé que harás más de lo que te ___.",
+      "options": ["pido", "digo", "ordeno"],
+      "answer": "pido",
+      "explanation": "Flm 21: esta confianza cierra la carta con esperanza en la generosidad de Filemón."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Flm 21 · Más de lo que pido",
+      "direction": "es-es",
+      "tiles": ["Sé", "que", "harás", "más", "de", "lo", "que", "te", "pido", "digo", "ordeno"],
+      "answer": "Sé que harás más de lo que te pido",
+      "explanation": "Flm 21: esta confianza cierra la carta con esperanza en la generosidad de Filemón."
+    }
+  ]
+}

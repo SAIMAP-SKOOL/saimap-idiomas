@@ -1,0 +1,251 @@
+{
+  "id": "pab-mod11",
+  "module": 11,
+  "title": "2 Tesalonicenses — La Fidelidad Firme ante la Confusión",
+  "subtitle": "2 Tesalonicenses 1–3",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Qué motivo de gratitud continua expresa Pablo por los tesalonicenses, en 2 Tesalonicenses 1?",
+      "options": ["«Vuestra fe crece vigorosamente y sigue aumentando el amor mutuo»", "Su prosperidad material creciente", "Su fama entre otras comunidades"],
+      "correct": 0,
+      "hint": "Añade que se sienten «orgullosos» de ellos por su paciencia en la tribulación.",
+      "explanation": "2Ts 1,3: «vuestra fe crece vigorosamente y sigue aumentando el amor mutuo»."
+    },
+    {
+      "type": "gap",
+      "text": "Vuestra fe crece vigorosamente y sigue aumentando el amor ___.",
+      "options": ["mutuo", "fraterno", "sincero"],
+      "answer": "mutuo",
+      "explanation": "2Ts 1,3: este crecimiento constante de la fe y el amor es motivo permanente de gratitud en la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Ts 1,3 · Fe y amor en crecimiento",
+      "direction": "es-es",
+      "tiles": ["Sigue", "aumentando", "el", "amor", "mutuo", "de", "todos", "fraterno", "sincero"],
+      "answer": "Sigue aumentando el amor mutuo de todos",
+      "explanation": "2Ts 1,3: este crecimiento constante de la fe y el amor es motivo permanente de gratitud en la comunidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Vuestra fe crece vigorosamente", "es": "El crecimiento de la comunidad de Tesalónica" },
+        { "en": "Debe llegar la apostasía", "es": "El anuncio de señales antes del fin" },
+        { "en": "Manteneos firmes", "es": "La fidelidad a la tradición apostólica" },
+        { "en": "Os dará fuerzas y os librará del Maligno", "es": "La confianza en la fidelidad de Dios" },
+        { "en": "Si no quiere trabajar, que no coma", "es": "La disciplina del trabajo en la comunidad" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advierte Pablo que debe suceder antes de la venida definitiva del Señor, en 2 Tesalonicenses 2?",
+      "options": ["Que todo ocurrirá sin ninguna señal previa", "«Primero tiene que llegar la apostasía y manifestarse el hombre de la impiedad»", "Que la Iglesia desaparecerá por completo antes"],
+      "correct": 1,
+      "hint": "Pide que «nadie en modo alguno os engañe» sobre este tema.",
+      "explanation": "2Ts 2,3: «primero tiene que llegar la apostasía y manifestarse el hombre de la impiedad»."
+    },
+    {
+      "type": "gap",
+      "text": "Primero tiene que llegar la ___ y manifestarse el hombre de la impiedad.",
+      "options": ["apostasía", "persecución", "tribulación"],
+      "answer": "apostasía",
+      "explanation": "2Ts 2,3: este anuncio de señales antes del fin busca evitar confusiones en la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Ts 2,3 · La apostasía anunciada",
+      "direction": "es-es",
+      "tiles": ["Tiene", "que", "llegar", "la", "apostasía", "persecución", "tribulación"],
+      "answer": "Tiene que llegar la apostasía",
+      "explanation": "2Ts 2,3: este anuncio de señales antes del fin busca evitar confusiones en la comunidad."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo a los tesalonicenses respecto a lo que han aprendido, en 2 Tesalonicenses 2?",
+      "options": ["Que lo reinterpreten según cada circunstancia nueva", "Que lo olviden si surgen enseñanzas más atractivas", "«Manteneos firmes y conservad las tradiciones que habéis aprendido»"],
+      "correct": 2,
+      "hint": "Se refiere a lo aprendido «de viva voz o por carta».",
+      "explanation": "2Ts 2,15: «manteneos firmes y conservad las tradiciones que habéis aprendido»."
+    },
+    {
+      "type": "gap",
+      "text": "Manteneos firmes y conservad las ___ que habéis aprendido.",
+      "options": ["tradiciones", "enseñanzas", "promesas"],
+      "answer": "tradiciones",
+      "explanation": "2Ts 2,15: esta fidelidad a la tradición apostólica protege de confusiones y engaños."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Ts 2,15 · La fidelidad a la tradición",
+      "direction": "es-es",
+      "tiles": ["Manteneos", "firmes", "y", "conservad", "las", "tradiciones", "enseñanzas", "promesas"],
+      "answer": "Manteneos firmes y conservad las tradiciones",
+      "explanation": "2Ts 2,15: esta fidelidad a la tradición apostólica protege de confusiones y engaños."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia bíblica",
+      "pairs": [
+        { "en": "Manteneos firmes y conservad las tradiciones", "es": "2 Tesalonicenses 2,15" },
+        { "en": "El Señor os dará fuerzas y os librará del Maligno", "es": "2 Tesalonicenses 3,3" },
+        { "en": "Hacia el amor de Dios y la paciencia en Cristo", "es": "2 Tesalonicenses 3,5" },
+        { "en": "No os canséis de hacer el bien", "es": "2 Tesalonicenses 3,13" },
+        { "en": "La paz siempre y en todo lugar", "es": "2 Tesalonicenses 3,16" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué pide Pablo a Dios y a Jesucristo para los tesalonicenses, en 2 Tesalonicenses 2?",
+      "options": ["«Que consuele vuestros corazones y os dé fuerza para toda clase de palabras y obras buenas»", "Que les envíe pruebas adicionales para fortalecerlos", "Que retrase cualquier tipo de consuelo hasta el final"],
+      "correct": 0,
+      "hint": "Antes recuerda que Dios les regaló «un consuelo eterno y una esperanza dichosa».",
+      "explanation": "2Ts 2,16-17: «que consuele vuestros corazones y os dé fuerza para toda clase de palabras y obras buenas»."
+    },
+    {
+      "type": "gap",
+      "text": "Que consuele vuestros corazones y os dé ___ para toda clase de palabras y obras buenas.",
+      "options": ["fuerza", "ánimo", "valor"],
+      "answer": "fuerza",
+      "explanation": "2Ts 2,17: este consuelo y fuerza acompañan la esperanza dichosa que Dios ha regalado."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La segunda carta a los Tesalonicenses", "es": "Corrige una confusión sobre la inminencia del día del Señor" },
+        { "en": "El «hombre de la impiedad»", "es": "Es una figura enigmática que se opone a Dios antes del fin" },
+        { "en": "La disciplina del trabajo", "es": "Responde a quienes vivían desordenadamente sin trabajar" },
+        { "en": "La corrección fraterna", "es": "Debe hacerse sin tratar al otro como enemigo" },
+        { "en": "La carta", "es": "Termina con un saludo escrito de puño y letra por Pablo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué promete Pablo sobre la fidelidad del Señor hacia los tesalonicenses, en 2 Tesalonicenses 3?",
+      "options": ["Que deberán protegerse completamente por sus propios medios", "«El Señor, que es fiel, os dará fuerzas y os librará del Maligno»", "Que la protección divina depende del mérito acumulado"],
+      "correct": 1,
+      "hint": "Antes pide que «oréis por nosotros» a los tesalonicenses.",
+      "explanation": "2Ts 3,3: «el Señor, que es fiel, os dará fuerzas y os librará del Maligno»."
+    },
+    {
+      "type": "gap",
+      "text": "El Señor, que es fiel, os dará fuerzas y os librará del ___.",
+      "options": ["Maligno", "peligro", "mal"],
+      "answer": "Maligno",
+      "explanation": "2Ts 3,3: esta confianza en la fidelidad de Dios sostiene a la comunidad en la persecución."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Ts 3,3 · La fidelidad del Señor",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "os", "dará", "fuerzas", "y", "os", "librará", "del", "Maligno", "peligro", "mal"],
+      "answer": "El Señor os dará fuerzas y os librará del Maligno",
+      "explanation": "2Ts 3,3: esta confianza en la fidelidad de Dios sostiene a la comunidad en la persecución."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Hacia dónde pide Pablo que el Señor dirija los corazones de los tesalonicenses, en 2 Tesalonicenses 3?",
+      "options": ["Hacia el éxito y el reconocimiento social", "Hacia la superación de toda dificultad económica", "«Hacia el amor de Dios y la paciencia en Cristo»"],
+      "correct": 2,
+      "hint": "Lo dice justo antes de tratar el tema del trabajo y la disciplina.",
+      "explanation": "2Ts 3,5: «que el Señor dirija vuestros corazones hacia el amor de Dios y la paciencia en Cristo»."
+    },
+    {
+      "type": "gap",
+      "text": "Que el Señor dirija vuestros corazones hacia el amor de Dios y la ___ en Cristo.",
+      "options": ["paciencia", "fe", "esperanza"],
+      "answer": "paciencia",
+      "explanation": "2Ts 3,5: esta oración pide una orientación interior firme para la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Ts 3,5 · El amor de Dios y la paciencia",
+      "direction": "es-es",
+      "tiles": ["El", "amor", "de", "Dios", "y", "la", "paciencia", "en", "Cristo", "fe", "esperanza"],
+      "answer": "El amor de Dios y la paciencia en Cristo",
+      "explanation": "2Ts 3,5: esta oración pide una orientación interior firme para la comunidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El crecimiento constante de la fe y el amor", "es": "Es motivo permanente de gratitud en la comunidad" },
+        { "en": "La fidelidad a la tradición recibida", "es": "Protege de confusiones y engaños" },
+        { "en": "La confianza en que Dios libra del mal", "es": "Sostiene en medio de la persecución" },
+        { "en": "El trabajo honesto como norma de vida", "es": "Evita la carga innecesaria sobre los demás" },
+        { "en": "La perseverancia en hacer el bien", "es": "No debe decaer aunque cueste esfuerzo" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué norma práctica recuerda Pablo haber dado a los tesalonicenses, en 2 Tesalonicenses 3?",
+      "options": ["«Si alguno no quiere trabajar, que no coma»", "Que todos deben recibir ayuda sin condición alguna", "Que el trabajo manual debe evitarse por los creyentes"],
+      "correct": 0,
+      "hint": "Antes recuerda que él mismo trabajó «con cansancio y fatiga, día y noche».",
+      "explanation": "2Ts 3,10: «si alguno no quiere trabajar, que no coma»."
+    },
+    {
+      "type": "gap",
+      "text": "Si alguno no quiere trabajar, que no ___.",
+      "options": ["coma", "descanse", "hable"],
+      "answer": "coma",
+      "explanation": "2Ts 3,10: esta norma del trabajo honesto evita la carga innecesaria sobre los demás."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Ts 3,10 · La norma del trabajo",
+      "direction": "es-es",
+      "tiles": ["Si", "alguno", "no", "quiere", "trabajar", "que", "no", "coma", "descanse", "hable"],
+      "answer": "Si alguno no quiere trabajar que no coma",
+      "explanation": "2Ts 3,10: esta norma del trabajo honesto evita la carga innecesaria sobre los demás."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exhortación final da Pablo respecto a hacer el bien, en 2 Tesalonicenses 3?",
+      "options": ["Que se abandone si no produce resultados inmediatos", "«No os canséis de hacer el bien»", "Que se limite solo a los miembros de la propia familia"],
+      "correct": 1,
+      "hint": "Lo dice justo antes de pedir que corrijan a quien no obedece la carta.",
+      "explanation": "2Ts 3,13: «no os canséis de hacer el bien»."
+    },
+    {
+      "type": "gap",
+      "text": "No os canséis de hacer el ___.",
+      "options": ["bien", "esfuerzo", "favor"],
+      "answer": "bien",
+      "explanation": "2Ts 3,13: esta perseverancia en hacer el bien no debe decaer aunque cueste esfuerzo."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Ts 3,13 · No cansarse de hacer el bien",
+      "direction": "es-es",
+      "tiles": ["No", "os", "canséis", "de", "hacer", "el", "bien", "esfuerzo", "favor"],
+      "answer": "No os canséis de hacer el bien",
+      "explanation": "2Ts 3,13: esta perseverancia en hacer el bien no debe decaer aunque cueste esfuerzo."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué desea Pablo para los tesalonicenses al despedirse de la carta, en 2 Tesalonicenses 3?",
+      "options": ["Que alcancen prosperidad económica duradera", "Que eviten todo tipo de contacto con otras comunidades", "«Que el mismo Señor de la paz os dé la paz siempre y en todo lugar»"],
+      "correct": 2,
+      "hint": "Añade que «el Señor esté con todos vosotros».",
+      "explanation": "2Ts 3,16: «que el mismo Señor de la paz os dé la paz siempre y en todo lugar»."
+    },
+    {
+      "type": "gap",
+      "text": "Que el mismo Señor de la paz os dé la paz siempre y en todo ___.",
+      "options": ["lugar", "momento", "tiempo"],
+      "answer": "lugar",
+      "explanation": "2Ts 3,16: esta despedida final desea la paz constante para toda la comunidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "2Ts 3,16 · La paz en todo lugar",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "de", "la", "paz", "os", "dé", "la", "paz", "siempre", "momento", "tiempo"],
+      "answer": "El Señor de la paz os dé la paz siempre",
+      "explanation": "2Ts 3,16: esta despedida final desea la paz constante para toda la comunidad."
+    }
+  ]
+}
