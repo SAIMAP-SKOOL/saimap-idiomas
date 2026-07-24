@@ -185,7 +185,15 @@
         { "n": 2, "title": "2 y 3 Juan — La Verdad, el Amor y la Hospitalidad",       "es": "2-3 Juan · Verdad y Hospitalidad",  "file": "sjn/mod02.json" }
       ]
     },
-    { "code": "JUD", "name": "Judas",                          "color": "#9C3D6B", "locked": true, "moduleCount": 1 },
+    {
+      "code": "JUD",
+      "name": "Judas",
+      "sub": "1 módulo · Completo",
+      "color": "#9C3D6B",
+      "modules": [
+        { "n": 1, "title": "Judas — Combatir por la Fe Recibida", "es": "Judas · Combatir por la Fe", "file": "jud/mod01.json" }
+      ]
+    },
     { "code": "APO", "name": "Apocalipsis",                    "color": "#C43535", "locked": true, "moduleCount": 2 },
     { "code": "APX", "name": "Textos Apócrifos",               "color": "#6B5B95", "locked": true, "moduleCount": 8 }
   ]

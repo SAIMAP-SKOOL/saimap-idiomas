@@ -1,0 +1,251 @@
+{
+  "id": "jud-mod01",
+  "module": 1,
+  "title": "Judas — Combatir por la Fe Recibida",
+  "subtitle": "Judas 1",
+  "exercises": [
+    {
+      "type": "quiz",
+      "q": "¿Con qué finalidad escribe Judas su carta a los creyentes?",
+      "options": ["«Animándoos a combatir por la fe transmitida de una vez para siempre a los santos»", "Para anunciar una nueva doctrina distinta a la recibida", "Para tratar asuntos administrativos de la comunidad"],
+      "correct": 0,
+      "hint": "Lo dice tras saludar a los «amados en Dios Padre y custodiados en Jesucristo».",
+      "explanation": "Jud 3: «animándoos a combatir por la fe transmitida de una vez para siempre a los santos»."
+    },
+    {
+      "type": "gap",
+      "text": "Animándoos a combatir por la fe transmitida de una vez para siempre a los ___.",
+      "options": ["santos", "fieles", "justos"],
+      "answer": "santos",
+      "explanation": "Jud 3: este combate por la fe recibida exige vigilancia activa frente a las desviaciones."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jud 3 · Combatir por la fe",
+      "direction": "es-es",
+      "tiles": ["Combatir", "por", "la", "fe", "transmitida", "de", "una", "vez", "para", "siempre", "fieles", "justos"],
+      "answer": "Combatir por la fe transmitida de una vez para siempre",
+      "explanation": "Jud 3: este combate por la fe recibida exige vigilancia activa frente a las desviaciones."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su tema central",
+      "pairs": [
+        { "en": "Combatir por la fe", "es": "El propósito central de la carta de Judas" },
+        { "en": "Convertido en libertinaje la gracia", "es": "La denuncia de los falsos maestros" },
+        { "en": "El Señor te reprima", "es": "La humildad del arcángel Miguel ante el mal" },
+        { "en": "El sendero de Caín", "es": "Los ejemplos bíblicos de corrupción moral" },
+        { "en": "Viene el Señor con sus ángeles", "es": "El anuncio profético del juicio final" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué advierte Judas sobre ciertos individuos infiltrados en la comunidad?",
+      "options": ["Que representan una simple diferencia de opinión sin importancia", "«Impíos que han convertido en libertinaje la gracia de nuestro Dios»", "Que merecen ser escuchados con la misma autoridad que los apóstoles"],
+      "correct": 1,
+      "hint": "Añade que «rechazan al único Soberano y Señor Jesucristo».",
+      "explanation": "Jud 4: «impíos que han convertido en libertinaje la gracia de nuestro Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Impíos que han convertido en libertinaje la ___ de nuestro Dios.",
+      "options": ["gracia", "ley", "palabra"],
+      "answer": "gracia",
+      "explanation": "Jud 4: esta denuncia de los falsos maestros abre el argumento central de la carta."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jud 4 · Convertido en libertinaje la gracia",
+      "direction": "es-es",
+      "tiles": ["Convertido", "en", "libertinaje", "la", "gracia", "de", "nuestro", "Dios", "ley", "palabra"],
+      "answer": "Convertido en libertinaje la gracia de nuestro Dios",
+      "explanation": "Jud 4: esta denuncia de los falsos maestros abre el argumento central de la carta."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Cómo actúa el arcángel Miguel al disputar con el diablo sobre el cuerpo de Moisés?",
+      "options": ["Con una sentencia de condena inmediata y contundente", "Ignorando por completo la disputa", "«Ni siquiera se atrevió a proferir una sentencia blasfema sino que dijo: “El Señor te reprima”»"],
+      "correct": 2,
+      "hint": "Este ejemplo contrasta con la arrogancia de los falsos maestros.",
+      "explanation": "Jud 9: «ni siquiera se atrevió a proferir una sentencia blasfema sino que dijo: “el Señor te reprima”»."
+    },
+    {
+      "type": "gap",
+      "text": "Ni siquiera se atrevió a proferir una sentencia blasfema sino que dijo: El Señor te ___.",
+      "options": ["reprima", "juzgue", "perdone"],
+      "answer": "reprima",
+      "explanation": "Jud 9: esta humildad ante el mal evita la soberbia incluso al confrontar el error."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jud 9 · El Señor te reprima",
+      "direction": "es-es",
+      "tiles": ["El", "Señor", "te", "reprima", "juzgue", "perdone"],
+      "answer": "El Señor te reprima",
+      "explanation": "Jud 9: esta humildad ante el mal evita la soberbia incluso al confrontar el error."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada cita con su referencia en la carta",
+      "pairs": [
+        { "en": "El Señor te reprima", "es": "Judas v.9" },
+        { "en": "El sendero de Caín", "es": "Judas v.11" },
+        { "en": "Manteneos en el amor de Dios", "es": "Judas v.20-21" },
+        { "en": "Salvadlos arrancándolos del fuego", "es": "Judas v.22-23" },
+        { "en": "Sea la gloria y majestad", "es": "Judas v.25" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué figuras del Antiguo Testamento compara Judas a los falsos maestros?",
+      "options": ["«El sendero de Caín... la aberración de Balaán... la rebelión de Coré»", "Con los patriarcas Abrahán, Isaac y Jacob", "Con los profetas mayores del pueblo de Israel"],
+      "correct": 0,
+      "hint": "Los introduce con la exclamación: «¡Ay de ellos!».",
+      "explanation": "Jud 11: «el sendero de Caín... la aberración de Balaán... la rebelión de Coré»."
+    },
+    {
+      "type": "gap",
+      "text": "Tomaron el sendero de ___, por dinero cayeron en la aberración de Balaán.",
+      "options": ["Caín", "Set", "Lot"],
+      "answer": "Caín",
+      "explanation": "Jud 11: estos ejemplos bíblicos de corrupción advierten sobre las consecuencias de abandonar la fidelidad."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jud 11 · El sendero de Caín",
+      "direction": "es-es",
+      "tiles": ["El", "sendero", "de", "Caín", "la", "aberración", "de", "Balaán", "Set", "Lot"],
+      "answer": "El sendero de Caín la aberración de Balaán",
+      "explanation": "Jud 11: estos ejemplos bíblicos de corrupción advierten sobre las consecuencias de abandonar la fidelidad."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada momento con su contexto o dato",
+      "pairs": [
+        { "en": "La carta de Judas", "es": "Es una de las más breves de todo el Nuevo Testamento" },
+        { "en": "El autor", "es": "Se identifica como «hermano de Santiago»" },
+        { "en": "La cita de la profecía de Henoc", "es": "Proviene de un libro que no forma parte del canon bíblico" },
+        { "en": "Las imágenes de nubes sin lluvia y estrellas fugaces", "es": "Describen a los falsos maestros" },
+        { "en": "La carta", "es": "Comparte notable semejanza temática con 2 Pedro" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué anuncia la profecía de Henoc citada por Judas?",
+      "options": ["Un mensaje de indiferencia total ante el mal", "«Viene el Señor con sus miríadas de ángeles para dar sentencia contra todos»", "Que el juicio final ha sido cancelado definitivamente"],
+      "correct": 1,
+      "hint": "Se presenta a Henoc como «el séptimo después de Adán».",
+      "explanation": "Jud 14-15: «viene el Señor con sus miríadas de ángeles para dar sentencia contra todos»."
+    },
+    {
+      "type": "gap",
+      "text": "Viene el Señor con sus miríadas de ___ para dar sentencia contra todos.",
+      "options": ["ángeles", "santos", "testigos"],
+      "answer": "ángeles",
+      "explanation": "Jud 14: este anuncio profético del juicio final advierte sobre las obras impías."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué exhorta Judas a los creyentes en medio de las falsas doctrinas?",
+      "options": ["Que abandonen la práctica de la oración por resultar ineficaz", "Que se aíslen completamente de cualquier forma de comunidad", "«Basándoos en vuestra santísima fe... manteneos en el amor de Dios»"],
+      "correct": 2,
+      "hint": "Añade que oren «movidos por el Espíritu Santo».",
+      "explanation": "Jud 20-21: «basándoos en vuestra santísima fe... manteneos en el amor de Dios»."
+    },
+    {
+      "type": "gap",
+      "text": "Basándoos en vuestra santísima fe... manteneos en el ___ de Dios.",
+      "options": ["amor", "temor", "servicio"],
+      "answer": "amor",
+      "explanation": "Jud 21: esta exhortación central pide perseverar activamente en el amor de Dios."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jud 21 · Manteneos en el amor de Dios",
+      "direction": "es-es",
+      "tiles": ["Manteneos", "en", "el", "amor", "de", "Dios", "temor", "servicio"],
+      "answer": "Manteneos en el amor de Dios",
+      "explanation": "Jud 21: esta exhortación central pide perseverar activamente en el amor de Dios."
+    },
+    {
+      "type": "match",
+      "prompt": "Empareja cada enseñanza con su aplicación",
+      "pairs": [
+        { "en": "El combate por la fe recibida", "es": "Exige vigilancia activa frente a las desviaciones" },
+        { "en": "La humildad ante el mal", "es": "Evita la soberbia incluso al confrontar el error" },
+        { "en": "Los ejemplos bíblicos de corrupción", "es": "Advierten sobre las consecuencias de abandonar la fidelidad" },
+        { "en": "La compasión hacia quienes dudan", "es": "Debe unirse siempre a la prudencia" },
+        { "en": "La confianza final en Dios", "es": "Asegura que él puede preservar de toda caída" }
+      ]
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué actitud pide Judas hacia quienes dudan en la fe?",
+      "options": ["«Tened compasión con los que titubean... salvadlos arrancándolos del fuego»", "Que se les excluya de inmediato sin ninguna consideración", "Que se les ignore hasta que resuelvan sus dudas por sí mismos"],
+      "correct": 0,
+      "hint": "Añade que a otros hay que mostrarles compasión, «pero con cautela».",
+      "explanation": "Jud 22-23: «tened compasión con los que titubean... salvadlos arrancándolos del fuego»."
+    },
+    {
+      "type": "gap",
+      "text": "Tened compasión con los que titubean, a unos salvadlos arrancándolos del ___.",
+      "options": ["fuego", "error", "peligro"],
+      "answer": "fuego",
+      "explanation": "Jud 23: esta compasión hacia quienes dudan debe unirse siempre a la prudencia."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jud 23 · Salvadlos arrancándolos del fuego",
+      "direction": "es-es",
+      "tiles": ["Salvadlos", "arrancándolos", "del", "fuego", "error", "peligro"],
+      "answer": "Salvadlos arrancándolos del fuego",
+      "explanation": "Jud 23: esta compasión hacia quienes dudan debe unirse siempre a la prudencia."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Qué capacidad atribuye Judas a Dios respecto a los creyentes?",
+      "options": ["Que solo puede ayudarles en cuestiones menores", "«Puede preservaros de tropiezos y presentaros intachables y exultantes ante su gloria»", "Que su ayuda depende completamente del propio esfuerzo humano"],
+      "correct": 1,
+      "hint": "Abre así la doxología final de la carta.",
+      "explanation": "Jud 24: «puede preservaros de tropiezos y presentaros intachables y exultantes ante su gloria»."
+    },
+    {
+      "type": "gap",
+      "text": "Puede preservaros de tropiezos y presentaros intachables y ___ ante su gloria.",
+      "options": ["exultantes", "firmes", "dignos"],
+      "answer": "exultantes",
+      "explanation": "Jud 24: esta confianza final en Dios asegura que él puede preservar de toda caída."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jud 24 · Intachables y exultantes",
+      "direction": "es-es",
+      "tiles": ["Presentaros", "intachables", "y", "exultantes", "ante", "su", "gloria", "firmes", "dignos"],
+      "answer": "Presentaros intachables y exultantes ante su gloria",
+      "explanation": "Jud 24: esta confianza final en Dios asegura que él puede preservar de toda caída."
+    },
+    {
+      "type": "quiz",
+      "q": "¿Con qué doxología concluye Judas su breve carta?",
+      "options": ["Con una despedida sin ninguna referencia a Dios", "Con una advertencia final severa, sin consuelo alguno", "«Al Dios único, nuestro Salvador... sea la gloria y majestad, el poder y la soberanía»"],
+      "correct": 2,
+      "hint": "Añade que esto vale «desde siempre, ahora y por todos los siglos».",
+      "explanation": "Jud 25: «al Dios único, nuestro Salvador... sea la gloria y majestad, el poder y la soberanía»."
+    },
+    {
+      "type": "gap",
+      "text": "Al Dios único, nuestro Salvador... sea la gloria y ___.",
+      "options": ["majestad", "honor", "alabanza"],
+      "answer": "majestad",
+      "explanation": "Jud 25: esta doxología final cierra la carta con una afirmación solemne de fe."
+    },
+    {
+      "type": "wordbank",
+      "prompt": "Jud 25 · Gloria y majestad",
+      "direction": "es-es",
+      "tiles": ["Sea", "la", "gloria", "y", "majestad", "el", "poder", "y", "la", "soberanía", "honor", "alabanza"],
+      "answer": "Sea la gloria y majestad el poder y la soberanía",
+      "explanation": "Jud 25: esta doxología final cierra la carta con una afirmación solemne de fe."
+    }
+  ]
+}
